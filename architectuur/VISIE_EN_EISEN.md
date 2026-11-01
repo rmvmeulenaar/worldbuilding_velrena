@@ -1,4 +1,4 @@
-# Wereldmotor: architectuurschets
+# Wereldmotor: visie en eisen (functioneel ontwerp)
 
 Versie 0.1 (schets), 1 november 2026. Opdrachtgever en canonhouder: Rogier. Opgesteld door de architect.
 Status: **ter bespreking.** Er wordt nog niets gebouwd voordat deze schets is goedgekeurd en met eenvoudige proeven getest.
