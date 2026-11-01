@@ -9397,7 +9397,7 @@
 - **onderwerp:** Waarom het lichaam 2: De drie noden
 - **wat:** Drie echte noden dwingen de keuze: (1) energietekort, de kernen raken op en Velmara heeft geen metaal of brandstof; (2) de Koude Muiterij van de Rekenaar, een derde van de kolonisten sterft; (3) een roestschimmel van Velmara vreet scheepsmetaal aan. Leven is het enige dat hier vanzelf groeit. Label: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; geen seksuele inhoud met wie niet kan instemmen; donkere thema's gelabeld.
 - **waarom:** Ronde V4: mini-saga van de Makers [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar ORIGIN-3), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 26
 - **hangt_samen_met:** ORIGIN-4;ORIGIN-2;ORIGIN-3
 - **verwijst_naar:** ORIGIN-4;ORIGIN-2;ORIGIN-3
@@ -9410,11 +9410,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** metaal
-- **draagkracht:** Kern
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 1
 - **veilig_variant:** 3
-- **vervangen_door:** 
+- **vervangen_door:** ORIGIN-WAAROM-2-Z42
 - **feit_schoon:** Drie echte noden dwingen de keuze: (1) energietekort, de kernen raken op en Velmara heeft geen metaal of brandstof; (2) de Koude Muiterij van de Rekenaar, een derde van de kolonisten sterft; (3) een roestschimmel van Velmara vreet scheepsmetaal aan. Leven is het enige dat hier vanzelf groeit.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -13949,5 +13949,65 @@
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
 - **epistemiek:** voorstel (architect Z41, geen besluit)
+<!-- /REC -->
+<!-- REC canon -->
+### ORIGIN-WAAROM-2-Z42 · Waarom het lichaam 2: De drie noden
+- **code:** ORIGIN-WAAROM-2-Z42
+- **categorie:** Geschiedenis
+- **onderwerp:** Waarom het lichaam 2: De drie noden
+- **wat:** Drie echte noden dwingen de keuze: (1) energietekort: de kernen raken op, er is geen brandstof, en rond de landingsplek in de delta zit geen makkelijk metaal; zuiver silicium, het materiaal van het schip, is zonder die energie niet uit zand te maken; (2) de Koude Muiterij van de Rekenaar, een derde van de kolonisten sterft; (3) gewone schimmel van deze wereld vreet de aluminium-siliciumlegering van het schip aan; voor de kolonisten heet ze Velmara-schimmel (BESLUIT-Z42-1). Leven is het enige dat hier vanzelf groeit. Label: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; geen seksuele inhoud met wie niet kan instemmen; donkere thema's gelabeld.
+- **waarom:** Ronde Z42: besluit van Rogier (2026-11-02) op voorstel van de architect (architect/besluitvoorstel_Z42_materiaal.md)
+- **status:** vastgesteld
+- **ronde:** 71
+- **hangt_samen_met:** ORIGIN-4;ORIGIN-2;ORIGIN-3;BESLUIT-Z42-1
+- **verwijst_naar:** ORIGIN-4;ORIGIN-2;ORIGIN-3;BESLUIT-Z42-1
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kern
+- **ideeenbank:** 0
+- **veilig_18plus:** 1
+- **veilig_variant:** 3
+- **vervangen_door:** 
+- **feit_schoon:** Drie echte noden dwingen de keuze: (1) energietekort: de kernen raken op, er is geen brandstof, en rond de landingsplek in de delta zit geen makkelijk metaal; zuiver silicium, het materiaal van het schip, is zonder die energie niet uit zand te maken; (2) de Koude Muiterij van de Rekenaar, een derde van de kolonisten sterft; (3) gewone schimmel van deze wereld vreet de aluminium-siliciumlegering van het schip aan; voor de kolonisten heet ze Velmara-schimmel (BESLUIT-Z42-1). Leven is het enige dat hier vanzelf groeit.
+- **draagkracht_handmatig:** Kern
+- **bron_handmatig:** 
+- **epistemiek:** feit (canon, herschreven na BESLUIT-Z42-1)
+<!-- /REC -->
+<!-- REC canon -->
+### GEB-Z42-eerste-ijzer · Het eerste ijzer
+- **code:** GEB-Z42-eerste-ijzer
+- **categorie:** Geschiedenis
+- **onderwerp:** Het eerste ijzer
+- **wat:** In de bergen van Hoogvrouwe vinden Dhurn-mijnwerkers, nazaten van het volk van Corran, roodbruin gesteente dat in het vuur zacht wordt. Het is het eerste ijzer van deze wereld: zwaar, grof, en geen schimmel die het eet. Jaar open; de vroegste fase volgens BESLUIT-Z42-1 is de Overvloed. Voorstel uit Z42; wacht op een besluit van Rogier over jaar en plek.
+- **waarom:** Ronde Z42: besluit van Rogier (2026-11-02) op voorstel van de architect (architect/besluitvoorstel_Z42_materiaal.md)
+- **status:** voorlopig
+- **ronde:** 71
+- **hangt_samen_met:** BESLUIT-Z42-1;VOLK-dhurn;REG-hoogvrouwe;FASE-overvloed
+- **verwijst_naar:** BESLUIT-Z42-1;VOLK-dhurn;REG-hoogvrouwe;FASE-overvloed
+- **jaar:** 
+- **tijdperk:** 1 Overvloed
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In de bergen van Hoogvrouwe vinden Dhurn-mijnwerkers, nazaten van het volk van Corran, roodbruin gesteente dat in het vuur zacht wordt. Het is het eerste ijzer van deze wereld: zwaar, grof, en geen schimmel die het eet. Jaar open; de vroegste fase volgens BESLUIT-Z42-1 is de Overvloed. Voorstel uit Z42; wacht op een besluit van Rogier over jaar en plek.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (architect Z42, geen besluit)
 <!-- /REC -->
 

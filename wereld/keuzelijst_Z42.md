@@ -1,0 +1,4 @@
+# Keuzelijst Z42 (Rogier beslist)
+
+1. **GEB-Z42-eerste-ijzer** (voorstel, ideeënbank): de Dhurn vinden het eerste ijzer in de bergen van Hoogvrouwe, in de Overvloed. Nog te kiezen: het jaar en of het de Dhurn zijn. *Advies: ja, met een jaar vroeg in fase 1 (zekerheid 75%). IJzer moet er zijn vóór de Orde-vloten en de Kharvos-machines.*
+2. **WRIJ-Z42-kruit**: vijf Kleur-rijen hebben kruit of kanonnen (Mirre, Zoutkust, Orde-vloot): PLEK-Z4-zout-2-Z5b, ACTIE-Z9-5, OORLOG-Z9-16, OORLOG-Z9-47, HELD-Z10-35. Kruit kan zonder machinekracht, maar het is een grote sprong. *Advies: kruit houden als iets van Mirre en Kharvos alleen. Het is iets nieuws uit de handel van fase 5 en later. Elders worden het zegelglas-werptuigen (zekerheid 65%). Het patroongewicht is middelmatig: kruit maakt de wereld vroegmodern, en dat drukt de verwondering.*

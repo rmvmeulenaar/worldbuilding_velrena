@@ -17137,7 +17137,7 @@
 - **onderwerp:** Roestschimmel, strain 4
 - **wat:** De roestschimmel eet legering; strain 4 verdubbelt in 18 uur. Dat is Ysa's klok. Nieuw bedacht (roman h2); voorstel, wacht op goedkeuring van Rogier. Veiligheidslabel: alleen volwassenen (18+) in seksuele rollen; geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; donkere thema's gelabeld.
 - **waarom:** Ronde Z17 2026-10-31: keuzes h1-6 en open punten Z16
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 47
 - **hangt_samen_met:** ROMAN-Z16-roman;PER-v4-ysa-maren;PER-v4-thalen-orr
 - **verwijst_naar:** ROMAN-Z16-roman-Z32;PER-v4-ysa-maren;PER-v4-thalen-orr-Z32
@@ -17150,11 +17150,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 1
 - **veilig_variant:** 5
-- **vervangen_door:** 
+- **vervangen_door:** YSA-Z17-6-Z42
 - **feit_schoon:** De roestschimmel eet legering; strain 4 verdubbelt in 18 uur. Dat is Ysa's klok. Nieuw bedacht (roman h2); voorstel, wacht op goedkeuring van Rogier.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -27179,5 +27179,35 @@
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
 - **epistemiek:** voorstel (architect Z41, uit trekking K801-1265, seed 41801)
+<!-- /REC -->
+<!-- REC canon -->
+### YSA-Z17-6-Z42 · Roestschimmel, strain 4
+- **code:** YSA-Z17-6-Z42
+- **categorie:** Verhaal
+- **onderwerp:** Roestschimmel, strain 4
+- **wat:** De roestschimmel eet legering; strain 4 verdubbelt in 18 uur. Dat is Ysa's klok. Het is gewone schimmel van deze wereld, die de kolonisten nooit eerder zagen: de ruimte was steriel, deze grond niet (BESLUIT-Z42-1). Nieuw bedacht (roman h2); voorstel, wacht op goedkeuring van Rogier. Veiligheidslabel: alleen volwassenen (18+) in seksuele rollen; geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; donkere thema's gelabeld.
+- **waarom:** Ronde Z42: besluit van Rogier (2026-11-02) op voorstel van de architect (architect/besluitvoorstel_Z42_materiaal.md)
+- **status:** voorlopig
+- **ronde:** 71
+- **hangt_samen_met:** ROMAN-Z16-roman-Z32;PER-v4-ysa-maren;PER-v4-thalen-orr-Z32;BESLUIT-Z42-1
+- **verwijst_naar:** ROMAN-Z16-roman-Z32;PER-v4-ysa-maren;PER-v4-thalen-orr-Z32;BESLUIT-Z42-1
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 1
+- **veilig_variant:** 5
+- **vervangen_door:** 
+- **feit_schoon:** De roestschimmel eet legering; strain 4 verdubbelt in 18 uur. Dat is Ysa's klok. Het is gewone schimmel van deze wereld, die de kolonisten nooit eerder zagen: de ruimte was steriel, deze grond niet (BESLUIT-Z42-1). Nieuw bedacht (roman h2); voorstel, wacht op goedkeuring van Rogier.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (canon, herschreven na BESLUIT-Z42-1)
 <!-- /REC -->
 

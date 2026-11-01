@@ -2857,7 +2857,7 @@
 - **onderwerp:** Vergeten metaaltechniek (machine van buiten)
 - **wat:** Oorsprong: Resten van vóór het Zegel en van buiten Velmara: metalen schepen, energiekernen en rekenmachines in de Orde-kluizen. Oorsprong buiten Velmara voorlopig en open (kolonieschip-hint). Bouwstoffen: Onbekend metaal dat niet roest, glasvezel, kernen die warm blijven, schermen die oplichten. Energie: Energiekernen die eeuwen branden; niemand kan ze bijvullen. Kosten: Onvervangbaar: elk kapot onderdeel is voorgoed weg; kennis zit in stukgelezen handleidingen in een dode taal. Makers: Niemand meer. Herstellers (vooral Dhurn en Orde-mechanici) kannibaliseren. Bewaking: De Orde (Kluiswachters), Kharvos zoekt het, de Dhurn verbergen eigen vondsten. Faalwijze: Kernen die doven of exploderen; machines die oude bevelen uitvoeren (stralingsvelden, sluitende deuren, een stem die om een code vraagt). Hoe het voelt: Koud, geurloos, onmenselijk; mensen voelen ontzag en angst, alsof een dode god nog ademt. [Z14 verdieping, per rij geschreven] Zintuig: Koud metaal en gezoem in de Orde-kluizen. Haak: Een energiekern in de kluis werkt nog. Functie: WERELD — is de verborgen Makerstechniek. Crosslinks: TECHNO-REGEL, TECHNO-REGEL-V4, GENRE-zegelpunk, TECH-GESCH-1, FUNC-PROD, TECH-GESCH-8, HAAK-V5-zegel-5.
 - **waarom:** Ronde V3: vier technologieën [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 25
 - **hangt_samen_met:** TECHNO-REGEL;GENRE-zegelpunk;TECH-GESCH-1
 - **verwijst_naar:** TECHNO-REGEL-V4;GENRE-zegelpunk;TECH-GESCH-1;FUNC-PROD;TECH-GESCH-8;HAAK-V5-zegel-5
@@ -2870,11 +2870,11 @@
 - **aantrekking_bron:** Macht en mysterie: wie een machine bezit, staat boven de Orde.
 - **aantrekking:** 3
 - **techniek:** metaal
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** TECHNO-metaal-Z42
 - **feit_schoon:** Oorsprong: Resten van vóór het Zegel en van buiten Velmara: metalen schepen, energiekernen en rekenmachines in de Orde-kluizen. Oorsprong buiten Velmara voorlopig en open (kolonieschip-hint). Bouwstoffen: Onbekend metaal dat niet roest, glasvezel, kernen die warm blijven, schermen die oplichten. Energie: Energiekernen die eeuwen branden; niemand kan ze bijvullen. Kosten: Onvervangbaar: elk kapot onderdeel is voorgoed weg; kennis zit in stukgelezen handleidingen in een dode taal. Makers: Niemand meer. Herstellers (vooral Dhurn en Orde-mechanici) kannibaliseren. Bewaking: De Orde (Kluiswachters), Kharvos zoekt het, de Dhurn verbergen eigen vondsten. Faalwijze: Kernen die doven of exploderen; machines die oude bevelen uitvoeren (stralingsvelden, sluitende deuren, een stem die om een code vraagt). Hoe het voelt: Koud, geurloos, onmenselijk; mensen voelen ontzag en angst, alsof een dode god nog ademt. Zintuig: Koud metaal en gezoem in de Orde-kluizen. Haak: Een energiekern in de kluis werkt nog. Functie: WERELD — is de verborgen Makerstechniek. Crosslinks: TECHNO-REGEL, TECHNO-REGEL-V4, GENRE-zegelpunk, TECH-GESCH-1, FUNC-PROD, TECH-GESCH-8, HAAK-V5-zegel-5.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -2887,7 +2887,7 @@
 - **onderwerp:** Vergeten metaaltechniek (machine van buiten): schip
 - **wat:** De Kluisschepen: drie metalen Leegteschepen; één vliegt nog, zonder dat iemand de koers kiest.
 - **waarom:** Ronde V3: toepassing
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 25
 - **hangt_samen_met:** TECHNO-metaal
 - **verwijst_naar:** TECHNO-metaal;ORIGIN-1
@@ -2900,11 +2900,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** metaal
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** TECHNO-metaal-schip-Z42
 - **feit_schoon:** De Kluisschepen: drie metalen Leegteschepen; één vliegt nog, zonder dat iemand de koers kiest.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -2947,7 +2947,7 @@
 - **onderwerp:** Vergeten metaaltechniek (machine van buiten): bouw
 - **wat:** Torens van naadloos metaal onder de Orde-kathedraal.
 - **waarom:** Ronde V3: toepassing
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 25
 - **hangt_samen_met:** TECHNO-metaal
 - **verwijst_naar:** TECHNO-metaal;ORIGIN-1
@@ -2960,11 +2960,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** metaal
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** TECHNO-metaal-bouw-Z42
 - **feit_schoon:** Torens van naadloos metaal onder de Orde-kathedraal.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -3757,7 +3757,7 @@
 - **onderwerp:** Zegelsteentechniek (zegelglas en sterrensteen)
 - **wat:** Oorsprong: Afgeleid van de Sterrensteen van het Zegel: splinters en het gloeiende licht van zegellijnen kunnen in glas en steen worden opgeslagen. De Orrim-lichamen in het Zegel zijn de verborgen bron. Bouwstoffen: Zegelglas, Sterrensteen-splinters, Orrim-steen, kristal uit de zegelschaduw. Energie: Licht van zegellijnen (lichamen van zegelgeborenen) en de Sterrensteen zelf; laadt langzaam bij nacht. Kosten: Ontvangsters verliezen licht (het licht dat eet); de Sterrensteen barst bij overgebruik. Makers: Dhurn-glasblazers, Vathren-ontvangsters (als bron), Orrim (verborgen). Bewaking: Orde en Dhurn-gilden; Kharvos jaagt op splinters. Faalwijze: Barsten, koud licht dat lichamen verstijft, zegelschaduw-mutaties in de buurt. Hoe het voelt: Koud, stil, helder; ruikt naar ozon; mooi en heilig, maar wie lang bij het licht staat voelt zich leeggezogen. [Z14 verdieping, per rij geschreven] Zintuig: Zegelglas dat gloeit van splinters. Haak: Een splinter in glas kan een zegellijn verplaatsen. Functie: WERELD — is techniek uit het Zegel zelf. Crosslinks: TECHNO-REGEL, TECHNO-REGEL-V4, GENRE-zegelpunk, TECH-GESCH-1, ECO-wat-wordt-verhandeld, RIT-wijding, HAAK-V5-zegel-6.
 - **waarom:** Ronde V3: vier technologieën [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 25
 - **hangt_samen_met:** TECHNO-REGEL;GENRE-zegelpunk;TECH-GESCH-1
 - **verwijst_naar:** TECHNO-REGEL-V4;GENRE-zegelpunk;TECH-GESCH-1;ECO-wat-wordt-verhandeld;RIT-wijding;HAAK-Z17-zegel-6
@@ -3770,11 +3770,11 @@
 - **aantrekking_bron:** Gloed is status: het licht op de huid is begeerlijk.
 - **aantrekking:** 5
 - **techniek:** zegelsteen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** TECHNO-zegelsteen-Z42
 - **feit_schoon:** Oorsprong: Afgeleid van de Sterrensteen van het Zegel: splinters en het gloeiende licht van zegellijnen kunnen in glas en steen worden opgeslagen. De Orrim-lichamen in het Zegel zijn de verborgen bron. Bouwstoffen: Zegelglas, Sterrensteen-splinters, Orrim-steen, kristal uit de zegelschaduw. Energie: Licht van zegellijnen (lichamen van zegelgeborenen) en de Sterrensteen zelf; laadt langzaam bij nacht. Kosten: Ontvangsters verliezen licht (het licht dat eet); de Sterrensteen barst bij overgebruik. Makers: Dhurn-glasblazers, Vathren-ontvangsters (als bron), Orrim (verborgen). Bewaking: Orde en Dhurn-gilden; Kharvos jaagt op splinters. Faalwijze: Barsten, koud licht dat lichamen verstijft, zegelschaduw-mutaties in de buurt. Hoe het voelt: Koud, stil, helder; ruikt naar ozon; mooi en heilig, maar wie lang bij het licht staat voelt zich leeggezogen. Zintuig: Zegelglas dat gloeit van splinters. Haak: Een splinter in glas kan een zegellijn verplaatsen. Functie: WERELD — is techniek uit het Zegel zelf. Crosslinks: TECHNO-REGEL, TECHNO-REGEL-V4, GENRE-zegelpunk, TECH-GESCH-1, ECO-wat-wordt-verhandeld, RIT-wijding, HAAK-V5-zegel-6.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -4747,7 +4747,7 @@
 - **onderwerp:** Techniekregel na V3 (vier technologieën)
 - **wat:** TECHNO-REGEL (V4): vier technologieën. Bio (vlees, bloed, schimmel, bot) en gave zijn het ontwerp van de Makers; zegelsteen is de gevallen scheepskern (Wieg); metaal en machine zijn hoog ontwikkelde, vergeten techniek van het zaaischip Ysa die deels nog draait (kluizen, kernen, Wiegkast, Sterrensteen). Geen regel "alleen lichamen": het lichaam is gekozen, niet gedwongen.
 - **waarom:** Ronde V4: vervangt TECHNO-REGEL
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 26
 - **hangt_samen_met:** TECHNO-REGEL;TECH-REGEL;TECHNO-gave;TECHNO-metaal;TECHNO-bio;TECHNO-zegelsteen
 - **verwijst_naar:** TECHNO-REGEL-V4;TECH-REGEL;TECHNO-gave;TECHNO-metaal;TECHNO-bio;TECHNO-zegelsteen
@@ -4760,11 +4760,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** mengvorm
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** TECHNO-REGEL-V4-Z42
 - **feit_schoon:** TECHNO-REGEL (V4): vier technologieën. Bio (vlees, bloed, schimmel, bot) en gave zijn het ontwerp van de Makers; zegelsteen is de gevallen scheepskern (Wieg); metaal en machine zijn hoog ontwikkelde, vergeten techniek van het zaaischip Ysa die deels nog draait (kluizen, kernen, Wiegkast, Sterrensteen). Geen regel "alleen lichamen": het lichaam is gekozen, niet gedwongen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -44129,6 +44129,186 @@
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
 - **epistemiek:** feit (besluit van Rogier, bevestigd in het gesprek met de architect op 2026-11-01)
+<!-- /REC -->
+<!-- REC canon -->
+### BESLUIT-Z42-1 · Het materiaal van de Makers: silicium op een gewone wereld
+- **code:** BESLUIT-Z42-1
+- **categorie:** Techniek
+- **onderwerp:** Het materiaal van de Makers: silicium op een gewone wereld
+- **wat:** Een vreemd schip op een gewone wereld. Besluit van Rogier (2 november 2026). De materiaaltechniek van de Makers is silicium: de romp is een legering van aluminium en silicium met siliciumcomposiet, kernen en rekenwerk draaien op siliciumkristal, en het hart van het schip is een grijs kristal dat breekt als glas. Silicium zit overal in zand en steen, maar zuiver silicium vraagt een vlamboogoven van rond de 2000 graden, en daarvoor is geen energie meer: de kernen raken op en er is geen brandstof. Gewone schimmel van deze wereld eet de legering; voor de kolonisten, die uit de steriele ruimte kwamen, heet ze Velmara-schimmel. Rond de landingsplek in de delta zit geen erts; gewoon ijzer komt later uit de bergen. Makersmateriaal overleeft alleen waar de schimmel niet komt: droog, koud, verzegeld, in zout of in de Leegte. Alle magie is Makerstechniek, die na 801 langzaam uitdooft. De romantekst verandert niet: hoofdstuk 2 ("Metabolises alloy", "No easy metal near the surface") en hoofdstuk 33 ("a heart of grey stone") blijven letterlijk waar.
+- **waarom:** Ronde Z42: besluit van Rogier (2026-11-02) op voorstel van de architect (architect/besluitvoorstel_Z42_materiaal.md)
+- **status:** vastgesteld
+- **ronde:** 71
+- **hangt_samen_met:** ORIGIN-WAAROM-2-Z42;ORIGIN-4;YSA-Z17-6-Z42;TECHNO-REGEL-V4-Z42;TECHNO-metaal-Z42;TECHNO-zegelsteen-Z42;GEB-Z17-sterrensteen-inslag
+- **verwijst_naar:** ORIGIN-WAAROM-2-Z42;ORIGIN-4;YSA-Z17-6-Z42;TECHNO-REGEL-V4-Z42;TECHNO-metaal-Z42;TECHNO-zegelsteen-Z42;GEB-Z17-sterrensteen-inslag
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kern
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een vreemd schip op een gewone wereld. Besluit van Rogier (2 november 2026). De materiaaltechniek van de Makers is silicium: de romp is een legering van aluminium en silicium met siliciumcomposiet, kernen en rekenwerk draaien op siliciumkristal, en het hart van het schip is een grijs kristal dat breekt als glas. Silicium zit overal in zand en steen, maar zuiver silicium vraagt een vlamboogoven van rond de 2000 graden, en daarvoor is geen energie meer: de kernen raken op en er is geen brandstof. Gewone schimmel van deze wereld eet de legering; voor de kolonisten, die uit de steriele ruimte kwamen, heet ze Velmara-schimmel. Rond de landingsplek in de delta zit geen erts; gewoon ijzer komt later uit de bergen. Makersmateriaal overleeft alleen waar de schimmel niet komt: droog, koud, verzegeld, in zout of in de Leegte. Alle magie is Makerstechniek, die na 801 langzaam uitdooft. De romantekst verandert niet: hoofdstuk 2 ("Metabolises alloy", "No easy metal near the surface") en hoofdstuk 33 ("a heart of grey stone") blijven letterlijk waar.
+- **draagkracht_handmatig:** Kern
+- **bron_handmatig:** 
+- **epistemiek:** feit (besluit van Rogier, 2026-11-02)
+<!-- /REC -->
+<!-- REC canon -->
+### TECHNO-metaal-Z42 · Vergeten metaaltechniek (machine van buiten)
+- **code:** TECHNO-metaal-Z42
+- **categorie:** Techniek
+- **onderwerp:** Vergeten metaaltechniek (machine van buiten)
+- **wat:** Oorsprong: Resten van het zaaischip en zijn kluizen, uit de tijd van de Makers: siliciumkristal, aluminium-siliciumlegering, energiekernen en rekenwerk in de Orde-kluizen (BESLUIT-Z42-1). Bouwstoffen: Kristal dat blijft, en een legering die de schimmel van deze wereld opeet, behalve in droge, koude, verzegelde kluizen, in zout en in de Leegte; glasvezel, kernen die warm blijven, schermen die oplichten. Energie: Energiekernen die eeuwen branden; niemand kan ze bijvullen, en nieuw kristal maken vraagt een hitte die niemand meer kan opwekken. Kosten: Onvervangbaar: elk kapot onderdeel is voorgoed weg; kennis zit in stukgelezen handleidingen in een dode taal. Makers: Niemand meer. Herstellers (vooral Dhurn en Orde-mechanici) kannibaliseren. Bewaking: De Orde (Kluiswachters), Kharvos zoekt het, de Dhurn verbergen eigen vondsten. Faalwijze: Kernen die doven of exploderen; machines die oude bevelen uitvoeren (stralingsvelden, sluitende deuren, een stem die om een code vraagt). Hoe het voelt: Koud, geurloos, onmenselijk; mensen voelen ontzag en angst, alsof een dode god nog ademt. [Z14 verdieping, per rij geschreven] Zintuig: Koud metaal en gezoem in de Orde-kluizen. Haak: Een energiekern in de kluis werkt nog. Functie: WERELD — is de verborgen Makerstechniek. Crosslinks: TECHNO-REGEL, TECHNO-REGEL-V4, GENRE-zegelpunk, TECH-GESCH-1, FUNC-PROD, TECH-GESCH-8, HAAK-V5-zegel-5.
+- **waarom:** Ronde Z42: besluit van Rogier (2026-11-02) op voorstel van de architect (architect/besluitvoorstel_Z42_materiaal.md)
+- **status:** voorlopig
+- **ronde:** 71
+- **hangt_samen_met:** TECHNO-REGEL-V4;GENRE-zegelpunk;TECH-GESCH-1;FUNC-PROD;TECH-GESCH-8;HAAK-V5-zegel-5;BESLUIT-Z42-1
+- **verwijst_naar:** TECHNO-REGEL-V4;GENRE-zegelpunk;TECH-GESCH-1;FUNC-PROD;TECH-GESCH-8;HAAK-V5-zegel-5;BESLUIT-Z42-1
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Oorsprong: Resten van het zaaischip en zijn kluizen, uit de tijd van de Makers: siliciumkristal, aluminium-siliciumlegering, energiekernen en rekenwerk in de Orde-kluizen (BESLUIT-Z42-1). Bouwstoffen: Kristal dat blijft, en een legering die de schimmel van deze wereld opeet, behalve in droge, koude, verzegelde kluizen, in zout en in de Leegte; glasvezel, kernen die warm blijven, schermen die oplichten. Energie: Energiekernen die eeuwen branden; niemand kan ze bijvullen, en nieuw kristal maken vraagt een hitte die niemand meer kan opwekken. Kosten: Onvervangbaar: elk kapot onderdeel is voorgoed weg; kennis zit in stukgelezen handleidingen in een dode taal. Makers: Niemand meer. Herstellers (vooral Dhurn en Orde-mechanici) kannibaliseren. Bewaking: De Orde (Kluiswachters), Kharvos zoekt het, de Dhurn verbergen eigen vondsten. Faalwijze: Kernen die doven of exploderen; machines die oude bevelen uitvoeren (stralingsvelden, sluitende deuren, een stem die om een code vraagt). Hoe het voelt: Koud, geurloos, onmenselijk; mensen voelen ontzag en angst, alsof een dode god nog ademt. Zintuig: Koud metaal en gezoem in de Orde-kluizen. Haak: Een energiekern in de kluis werkt nog. Functie: WERELD — is de verborgen Makerstechniek. Crosslinks: TECHNO-REGEL, TECHNO-REGEL-V4, GENRE-zegelpunk, TECH-GESCH-1, FUNC-PROD, TECH-GESCH-8, HAAK-V5-zegel-5.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (canon, herschreven na BESLUIT-Z42-1)
+<!-- /REC -->
+<!-- REC canon -->
+### TECHNO-REGEL-V4-Z42 · Techniekregel na V3 (vier technologieën)
+- **code:** TECHNO-REGEL-V4-Z42
+- **categorie:** Techniek
+- **onderwerp:** Techniekregel na V3 (vier technologieën)
+- **wat:** TECHNO-REGEL (V4): vier technologieën. Bio (vlees, bloed, schimmel, bot) en gave zijn het ontwerp van de Makers; zegelsteen is het gevallen siliciumhart van het schip (de Sterrensteen, de Wieg); het siliciumwerk van het zaaischip Ysa is hoog ontwikkelde, vergeten techniek die deels nog draait (kluizen, kernen, Wiegkast). Gewoon ijzer bestaat, maar niet bij de landing: het komt pas uit de bergen (BESLUIT-Z42-1). Geen regel "alleen lichamen": het lichaam is gekozen, niet gedwongen.
+- **waarom:** Ronde Z42: besluit van Rogier (2026-11-02) op voorstel van de architect (architect/besluitvoorstel_Z42_materiaal.md)
+- **status:** voorlopig
+- **ronde:** 71
+- **hangt_samen_met:** TECHNO-REGEL-V4;TECH-REGEL;TECHNO-gave;TECHNO-metaal-Z42;TECHNO-bio;TECHNO-zegelsteen;BESLUIT-Z42-1
+- **verwijst_naar:** TECHNO-REGEL-V4;TECH-REGEL;TECHNO-gave;TECHNO-metaal-Z42;TECHNO-bio;TECHNO-zegelsteen;BESLUIT-Z42-1
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** TECHNO-REGEL (V4): vier technologieën. Bio (vlees, bloed, schimmel, bot) en gave zijn het ontwerp van de Makers; zegelsteen is het gevallen siliciumhart van het schip (de Sterrensteen, de Wieg); het siliciumwerk van het zaaischip Ysa is hoog ontwikkelde, vergeten techniek die deels nog draait (kluizen, kernen, Wiegkast). Gewoon ijzer bestaat, maar niet bij de landing: het komt pas uit de bergen (BESLUIT-Z42-1). Geen regel "alleen lichamen": het lichaam is gekozen, niet gedwongen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (canon, herschreven na BESLUIT-Z42-1)
+<!-- /REC -->
+<!-- REC canon -->
+### TECHNO-zegelsteen-Z42 · Zegelsteentechniek (zegelglas en sterrensteen)
+- **code:** TECHNO-zegelsteen-Z42
+- **categorie:** Techniek
+- **onderwerp:** Zegelsteentechniek (zegelglas en sterrensteen)
+- **wat:** Oorsprong: Afgeleid van de Sterrensteen, het gevallen siliciumhart van het zaaischip (BESLUIT-Z42-1): splinters en het gloeiende licht van zegellijnen kunnen in glas en steen worden opgeslagen. De Orrim-lichamen in het Zegel zijn de verborgen bron. Bouwstoffen: Zegelglas, Sterrensteen-splinters, Orrim-steen, kristal uit de zegelschaduw. Energie: Licht van zegellijnen (lichamen van zegelgeborenen) en de Sterrensteen zelf; laadt langzaam bij nacht. Kosten: Ontvangsters verliezen licht (het licht dat eet); de Sterrensteen barst bij overgebruik. Makers: Dhurn-glasblazers, Vathren-ontvangsters (als bron), Orrim (verborgen). Bewaking: Orde en Dhurn-gilden; Kharvos jaagt op splinters. Faalwijze: Barsten, koud licht dat lichamen verstijft, zegelschaduw-mutaties in de buurt. Hoe het voelt: Koud, stil, helder; ruikt naar ozon; mooi en heilig, maar wie lang bij het licht staat voelt zich leeggezogen. [Z14 verdieping, per rij geschreven] Zintuig: Zegelglas dat gloeit van splinters. Haak: Een splinter in glas kan een zegellijn verplaatsen. Functie: WERELD — is techniek uit het Zegel zelf. Crosslinks: TECHNO-REGEL, TECHNO-REGEL-V4, GENRE-zegelpunk, TECH-GESCH-1, ECO-wat-wordt-verhandeld, RIT-wijding, HAAK-V5-zegel-6.
+- **waarom:** Ronde Z42: besluit van Rogier (2026-11-02) op voorstel van de architect (architect/besluitvoorstel_Z42_materiaal.md)
+- **status:** voorlopig
+- **ronde:** 71
+- **hangt_samen_met:** TECHNO-REGEL-V4-Z42;GENRE-zegelpunk;TECH-GESCH-1;ECO-wat-wordt-verhandeld;RIT-wijding;HAAK-Z17-zegel-6;BESLUIT-Z42-1
+- **verwijst_naar:** TECHNO-REGEL-V4-Z42;GENRE-zegelpunk;TECH-GESCH-1;ECO-wat-wordt-verhandeld;RIT-wijding;HAAK-Z17-zegel-6;BESLUIT-Z42-1
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Oorsprong: Afgeleid van de Sterrensteen, het gevallen siliciumhart van het zaaischip (BESLUIT-Z42-1): splinters en het gloeiende licht van zegellijnen kunnen in glas en steen worden opgeslagen. De Orrim-lichamen in het Zegel zijn de verborgen bron. Bouwstoffen: Zegelglas, Sterrensteen-splinters, Orrim-steen, kristal uit de zegelschaduw. Energie: Licht van zegellijnen (lichamen van zegelgeborenen) en de Sterrensteen zelf; laadt langzaam bij nacht. Kosten: Ontvangsters verliezen licht (het licht dat eet); de Sterrensteen barst bij overgebruik. Makers: Dhurn-glasblazers, Vathren-ontvangsters (als bron), Orrim (verborgen). Bewaking: Orde en Dhurn-gilden; Kharvos jaagt op splinters. Faalwijze: Barsten, koud licht dat lichamen verstijft, zegelschaduw-mutaties in de buurt. Hoe het voelt: Koud, stil, helder; ruikt naar ozon; mooi en heilig, maar wie lang bij het licht staat voelt zich leeggezogen. Zintuig: Zegelglas dat gloeit van splinters. Haak: Een splinter in glas kan een zegellijn verplaatsen. Functie: WERELD — is techniek uit het Zegel zelf. Crosslinks: TECHNO-REGEL, TECHNO-REGEL-V4, GENRE-zegelpunk, TECH-GESCH-1, ECO-wat-wordt-verhandeld, RIT-wijding, HAAK-V5-zegel-6.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (canon, herschreven na BESLUIT-Z42-1)
+<!-- /REC -->
+<!-- REC canon -->
+### TECHNO-metaal-schip-Z42 · Vergeten metaaltechniek (machine van buiten): schip
+- **code:** TECHNO-metaal-schip-Z42
+- **categorie:** Techniek
+- **onderwerp:** Vergeten metaaltechniek (machine van buiten): schip
+- **wat:** De Kluisschepen: drie Leegteschepen van siliciumlegering. In de Leegte groeit geen schimmel, dus één vliegt nog, zonder dat iemand de koers kiest.
+- **waarom:** Ronde Z42: besluit van Rogier (2026-11-02) op voorstel van de architect (architect/besluitvoorstel_Z42_materiaal.md)
+- **status:** voorlopig
+- **ronde:** 71
+- **hangt_samen_met:** TECHNO-metaal-Z42;ORIGIN-1;BESLUIT-Z42-1
+- **verwijst_naar:** TECHNO-metaal-Z42;ORIGIN-1;BESLUIT-Z42-1
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De Kluisschepen: drie Leegteschepen van siliciumlegering. In de Leegte groeit geen schimmel, dus één vliegt nog, zonder dat iemand de koers kiest.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (canon, herschreven na BESLUIT-Z42-1)
+<!-- /REC -->
+<!-- REC canon -->
+### TECHNO-metaal-bouw-Z42 · Vergeten metaaltechniek (machine van buiten): bouw
+- **code:** TECHNO-metaal-bouw-Z42
+- **categorie:** Techniek
+- **onderwerp:** Vergeten metaaltechniek (machine van buiten): bouw
+- **wat:** Torens van naadloos kristal en legering onder de Orde-kathedraal, droog en verzegeld. Waar de afdichting lekt, bloeit de schimmel in de naden.
+- **waarom:** Ronde Z42: besluit van Rogier (2026-11-02) op voorstel van de architect (architect/besluitvoorstel_Z42_materiaal.md)
+- **status:** voorlopig
+- **ronde:** 71
+- **hangt_samen_met:** TECHNO-metaal-Z42;ORIGIN-1;BESLUIT-Z42-1
+- **verwijst_naar:** TECHNO-metaal-Z42;ORIGIN-1;BESLUIT-Z42-1
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Torens van naadloos kristal en legering onder de Orde-kathedraal, droog en verzegeld. Waar de afdichting lekt, bloeit de schimmel in de naden.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (canon, herschreven na BESLUIT-Z42-1)
 <!-- /REC -->
 
 <!-- SECTIE: WRIJVINGEN -->
