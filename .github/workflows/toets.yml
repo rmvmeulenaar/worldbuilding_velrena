@@ -8,6 +8,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Afhankelijkheden
+        run: pip install -r wereld/requirements.txt
       - name: Bouw canon.db uit de tekst en draai de toets
         working-directory: wereld
         run: python3 velmara.py bouw
