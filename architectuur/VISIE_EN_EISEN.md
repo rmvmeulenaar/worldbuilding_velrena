@@ -1,6 +1,7 @@
 # Wereldmotor: visie en eisen (functioneel ontwerp)
 
 Versie 0.1 (schets), 1 november 2026. Opdrachtgever en canonhouder: Rogier. Opgesteld door de architect.
+Hoort bij `SOFTWARE_ARCHITECTUUR.md` (hoe het gebouwd is) en `BOUWPLAN.md` (in welke volgorde, met welke tests).
 Status: **ter bespreking.** Er wordt nog niets gebouwd voordat deze schets is goedgekeurd en met eenvoudige proeven getest.
 
 ---
