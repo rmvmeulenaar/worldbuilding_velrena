@@ -1,0 +1,10 @@
+# Opdracht ronde Z5: diepte en details toevoegen (Velmara)
+Regels: alleen 18+, geen minderjarigen (ook niet historisch/ritueel), geen dieren in seksuele rol, geen seks zonder instemming (dwang alleen als gelabeld donker thema tussen volwassenen). Body horror altijd afstotelijk. Backup canon_backup_Z5.db eerst. Niets verwijderen (oude rijen 'voorlopig, vervangen'). Idempotent r_Z5.py (data in aparte bestanden). Nieuwe rijen voorlopig, techniek-label, veiligheidslabel. Daarna genereer.py, importeer.py roundtrip (via WERELD_VELMARA.md indien nodig), grep-controle. Rapporteer kort in het Nederlands. Lees eerst bijbel/19_zintuigen.md voor toon en diepte (Z1-niveau: geur, geluid, gevoel, licht, herkenbaar + vreemd detail, scènesoort, haak, crosslinks).
+## 1. Bijschrijven
+Schrijf alle nog korte rijen bij tot Z1-niveau: de resterende ~36 korte rijen uit Z3 (Stille Zusterschappen, Tijdperk, Hoogvrouwe, Kharvos-B1, rituelen), de korte van de 105 nieuwe Z4-personen (vooral fase 4-7 niet-menselijke volken) en de korte laatste sleutelplekken uit Z4. Nieuwe rij + oude 'voorlopig, vervangen'.
+## 2. Dunste categorieën verdiepen
+Verdiep rijen die nu geen zintuiglijk detail of haak hebben, categorie voor categorie, met nieuwe verdiepingsrijen (ZINT-Z5-<cat>-<n>) die aan bestaande rijen verwijzen: Verhaal, Geschiedenis (minstens 40 elk), Volken seksualiteit, Cultuur, Gezondheid, Lichaam en vervorming, Voorwerp, Religie (minstens 25 elk). Kies als ingenieur de rijen waar een zintuiglijk detail het meeste oplevert voor scènes.
+## 3. Goedkeuring
+Maak een lijst 'TER GOEDKEURING' van twee keuzes uit Z4: (a) nieuwe Makers als voorouders van elk volk (fase 0, ook niet-menselijk), (b) personen die niet bij hun volk horen (Tamsin bij de Tharn, Tobin bij de Oevrin). Geef per keuze alternatief, suggestie met reden en effect op de verhalen.
+## 4. Meting en rapport
+ZINT-DEKKING-Z5 (haak, zintuiglijk, verbinding, alle drie), bijbel bijwerken, rapport met 6 voorbeeldrijen en wat nog dun is. Doel: alle drie minstens 25%.

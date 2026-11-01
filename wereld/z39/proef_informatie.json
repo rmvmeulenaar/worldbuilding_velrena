@@ -1,0 +1,18 @@
+{
+ "n": 200,
+ "verschillend": {
+  "inst": 163,
+  "rel": 200,
+  "dood": 6
+ },
+ "gem_jaccard_afstand_relaties": 0.846,
+ "chantage_gem": [
+  62.155,
+  287.71
+ ],
+ "verraad_gem": [
+  31.74,
+  88.28
+ ],
+ "zonder_kernbescherming_weggegooid": 174
+}

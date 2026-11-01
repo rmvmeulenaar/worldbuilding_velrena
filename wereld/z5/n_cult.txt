@@ -1,0 +1,25 @@
+CUL-gezin-wonen|brood en wol|kinderstemmen|warme keuken|lamp|een moederhuis ruikt naar vijf soorten zeep|Een zus verlaat het huis voor een man
+CUL-kleding|linnen en parfum|ruisende zijde|lichte stof|zon door gewaden|de sjerpkleur is van ver te zien|Een vrouw draagt een valse rode sjerp
+CUL-taal-namen|inkt|namen die worden afgeroepen|koud perkament|lamp|een naam met -ys is uit de Orde|Liora's naam heeft een verborgen uitgang
+DAG-eten-gewoon|pap en ui|een lepel|warme kom|grijs licht|gewone mensen eten tweemaal daags|Een maal heeft een extra kom
+DAG-eten-regio|zout, saffraan, hooi|kraamsters|warm brood|marktlicht|elke regio heeft een eigen brood|Een brood uit Kharvos in Saelith
+DAG-wonen|kalk en rook|deuren|koude vloeren|kaars|huizen zijn gebouwd rond de haard|Een haard is koud
+DAG-dood|kaarsvet en kruiden|klaagzang|koude hand|kaars|men legt brood bij de dode|Het brood verdwijnt
+DAG-muziek|hars en hout|vedels|trillende snaren|lamp|liederen van mannen zijn verboden in tempels|Een lied wordt toch gezongen
+DAG-feesten-volks|bier en bloemen|dansen|warme handen|lantaarns|volksfeesten zijn ouder dan de Orde|Een feest viert een vergeten god
+DAG-spel|hout en zweet|dobbelstenen|gladde stenen|lamp|het Registerspel wordt met namen gespeeld|Iemand speelt met echte namen
+DAG-taal-schelden|bier|een vloek|een duw|kaars|"Register!" is de zwaarste vloek|Een priesteres vloekt
+DAG-liefde-gewoon|zweet en hooi|een ruzie|warme handen|maan|jaloezie gaat over tijd met de man|Twee vrouwen worden vriendinnen door jaloezie
+DAG-dag-vrouw|melk en brood|een haan|ruwe handen|ochtend|een vrouw werkt van dag tot nacht|Ze heeft één uur voor zichzelf
+DAG-dag-man|hooi en kalk|een klerk|ruw werk|stallicht|een gewone man wordt elke dag geteld|Hij wordt een keer niet geteld
+DAG-herberg|bier en stoofpot|vedel|warme haard|lampen|de herberg is waar mannen en vrouwen gelijk drinken|De waard weet alles
+DAG-humor|bier|gegniffel|een elleboog|kaars|humor over de Orde is gevaarlijk|Een grap wordt bewijs
+DAG-volk-oevrin|slik en vis|klakzang|warm slik|mist|Oevrin werken 's nachts|Een Oevrin werkt overdag en wordt gezien
+DAG-volk-tharn|klei en bier|bromlied|trillende grond|grijs|Tharn slapen staand|Een Tharn ligt neer
+DAG-volk-orrim|gruis|kristalzang|koud kristal|gloed|Orrim eten steen|Ze eten nooit Sterrensteen
+DAG-volk-skerra|wind en vis|fluiten|kou|helder|Skerra slapen hangend|Een nest valt
+D1-karruk-eten|dierenvet en rook|knappend vuur|warm vlees|vuur|Karrûk eten rauw na een overwinning|Een kampioen weigert
+D1-sael-mor-eten|zout en wier|golven|koude vis|zeilicht|zoutvis is het eerste wat een kind proeft|Een vis heeft een munt in zijn buik
+D1-ishvar-drank|koud water|een put|koude kroes|maan|water is heilig|Een put is vergiftigd
+VREUGDE-alledaags|brood en zon|gelach|warme stenen|zon|gewone vreugde is een middag zonder Orde|Een middag duurt te lang
+SCHELD-algemeen|bier|een vloek|een vuist|kaars|schelden gaat over registers|Een vloek is een naam

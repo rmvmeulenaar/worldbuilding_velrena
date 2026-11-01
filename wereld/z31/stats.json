@@ -1,0 +1,25 @@
+{
+ "migraties": [],
+ "anker": 0,
+ "links_hersteld": [],
+ "wrijving": [],
+ "voorstel": [],
+ "vraag": [],
+ "handleiding": 0,
+ "naam_markering": 0,
+ "uitzondering": 0,
+ "wijziging": 0,
+ "kern_handmatig": [],
+ "toets_exit": 0,
+ "toets_kop": [
+  "# Toets canon.db",
+  "Nieuwe fouten: 0 {}",
+  "Bekend (geregistreerd met wrijving): 11 {'dode_link': 1, 'harde_grens': 3, 'anker': 7}"
+ ],
+ "draagkracht": {
+  "Kern": 91,
+  "Kleur": 1917,
+  "Structuur": 4820
+ },
+ "totaal": 6828
+}

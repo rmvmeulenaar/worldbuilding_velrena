@@ -1,0 +1,54 @@
+ROM|5|liane-daeran|Liane en Daeran-as|Een ontvangster en een Uitverkorene. Belemmering: exclusieve liefde is ketterij.|PER-f5-liane;PER-f5-daeran;GEB-r10-wijding-ritus
+ROM|5|corvina-daeran|Corvina en Daeran-as|Een liefde via vervalste brieven. Belemmering: zij bedroog hem.|PER-f5-corvina;PER-f5-daeran;GEB-r10-kaldra-krijg
+ROM|5|zee-gekochte|Kapitein Zee en haar gekochte man|Een kapitein die een gekochte man liefheeft. Belemmering: bezit.|PER-f5-mirre-kapitein-zee;GEB-r10-kharvos-handel
+ROM|5|hadra-ishvar|Hadra en haar Ishvar-man|Een Twee-gelofte in de woestijn. Belemmering: exclusieve trouw is ketterij in Velmara.|PER-f5-karavaan-hadra;GEB-r10-kharvos-handel
+ROM|5|amaris-verloren|Priesteres Amaris en haar oude liefde|Een priesteres die ooit een Uitverkorene liefhad en nu een liefde verbiedt. Belemmering: haar ambt.|PER-f5-hoge-priesteres-amaris;GEB-uitverkorenen-210
+ROM|5|oswin-lampen|Oswin en het Lampenfeest|Een kuisprediker die elk jaar heimelijk naar het Lampenfeest gaat en daar één vrouw ontmoet. Belemmering: zijn preek.|PER-f5-schaamtepriester-oswin;GEB-r10-schaamte-hervorming
+INTR|5|verkochte-uren|De verkochte uren|Corvina verkoopt plekken op roosters van Uitverkorenen; de Hoge Moeder koopt haar.|PER-f5-corvina;PER-thessaly;GEB-r10-gunstbrief
+INTR|5|annalen|De herschreven annalen|De Orde herschrijft de geschiedenis; Ebbe kopieert de echte.|PER-f5-archivaris-ebbe;GEB-r10-vervalste-annalen
+INTR|5|iresse-lek|Iresse lekt|Moeder Iresse de Jongere lekt de echte annalen naar de Stille Zusters.|PER-f5-iresse-tweede;GEB-r10-iresse-verraad
+INTR|5|veiling|De heilige veiling|Lysbet zet bieders tegen elkaar op en verkoopt nepuren.|PER-f5-veilingmeesteres-lys;GEB-r10-eerste-veiling-heilig
+INTR|5|steen-perkament|Steen voor de tempels|Velk verkoopt Sterrensteen aan de Orde en weet dat tempels op lijnen staan.|PER-f5-dhurn-steenkoper;GEB-r10-tempelbouw
+INTR|5|aelthir-brief|De brief naar Tuaro|Saela schrijft dat het licht eet; Tuaro zwijgt om de handel.|PER-f5-aelthir-saela;GEB-r10-zegellicht-eet
+THRL|5|witte-cel|De witte cel|Klok: één nacht voordat de cel gereinigd wordt.|PER-f5-liane;PER-f5-joa;GEB-r10-zegellicht-eet
+THRL|5|karavaan|De karavaanvlucht|Liane en Daeran vluchten met een Kharvos-karavaan; de Stille Hand achtervolgt.|PER-f5-liane;PER-f5-daeran;PER-f5-stille-hand-veraine;GEB-r10-kharvos-handel
+THRL|5|spiegel|De valse Liane|Een Ves-Lethi neemt Lianes vorm aan om de jagers te misleiden.|PER-f5-ves-lethi-ona;GEB-r10-kharvos-handel
+THRL|5|ebbe-verdwijnt|Ebbe verdwijnt|De archivaris die de lijst kopieerde verdwijnt; Merle zoekt hem.|PER-f5-archivaris-ebbe;PER-f5-jonge-ontvangster-merle;GEB-r10-vervalste-annalen
+THRL|5|lamp-dooft|De lamp die doofde|Op de Nacht van Duizend Lampen dooft een lamp; iemand wil verbergen waarom.|PER-f5-groenmuil-feestvrouw;GEB-r10-groenmuil-feest
+THRL|5|grens|Bij de grens|Kaldra onderschept de vluchtelingen; Veraine laat Liane gaan.|PER-f5-kaldra-hedwig;PER-f5-stille-hand-veraine;GEB-r10-kaldra-krijg
+ROM|6|saskia-joris|Saskia en Joris|Een heelster en een melkos. Belemmering: macht en het stalsysteem.|PER-f6-saskia;PER-f6-joris;GEB-r10-melkstallen
+ROM|6|wim-dochter|Wim en Bertels dochter|Een stalknecht en een opstandelingendochter. Belemmering: de opstand.|PER-f6-staljongen-wim;PER-f6-bertel;GEB-r10-weduwenopstand
+ROM|6|zee-mirre|Selvara en een gast|Selvara verleidt een gast voor een sleutel en raakt verliefd. Belemmering: familie.|PER-f6-selvara-jong;GEB-r10-varenne-krediet
+ROM|6|hork-lezen|Hork en de stalschrijfster|Een reuzenstier die kan lezen en de vrouw die hem boeken brengt. Belemmering: stal (donker thema).|PER-f6-reuzenstier-hork;GEB-r10-melkstallen
+ROM|6|khaled-ar|Khaled-Ar en zijn Ishvar-moeder|Geen romance maar een liefdesgeschiedenis: zijn ouders, een Velmara-man en een Ishvar-vrouw met Twee-gelofte. Belemmering: ketterij.|PER-f6-qesh-khaled-ar;GEB-r10-qesh-sticht
+ROM|6|ketenhanna|Hanna van de Keten|Een vrouw kiest de keten om een gearrangeerd huwelijk te ontlopen en vindt haar geliefde onder de toeschouwers.|PER-f6-ketenmoeder-jonge;GEB-r10-ketenwake
+INTR|6|kluis|De kluis van Varenne|Het rapport van Hal-Neth als eeuwige hefboom.|PER-f6-ilse-varenne;PER-f6-saskia;GEB-r10-varenne-krediet
+INTR|6|havra|Havra's handtekening|De Hoge Moeder keurde de fokstal goed.|PER-f6-moeder-havra;GEB-r10-pest-oorsprong
+INTR|6|beurs|Voorkennis op de Zaadbeurs|Een vrijgekochte makelaar handelt op voorkennis.|PER-f6-zaadbeurs-mattheus;GEB-zaadbeurs-455
+INTR|6|tribunaal|Gekochte vonnissen|Een rechteres verkoopt vonnissen en zaait Sorres wrok.|PER-f6-tribunaal-rechter;GEB-r10-tribunaal
+INTR|6|gilde|Het gilde van de vervalsers|De eerste meesteres maakt het eerste valse bloedmerk.|PER-f6-vervalser-meesteres;GEB-r10-vervalser-gilde
+INTR|6|tweede-pest|De omgekochte heelster|Lena vindt de oorsprong van de kleine pest en wordt omgekocht.|PER-f6-tweede-pest-lena;GEB-r10-tweede-pest
+THRL|6|builen|Builen|Saskia vlucht uit Hal-Neth.|PER-f6-saskia;PER-f6-stalmeester-kobus;GEB-r10-pest-oorsprong
+THRL|6|rivier|De rivierachtervolging|Saskia en Joris vluchten over water.|PER-f6-saskia;PER-f6-joris;PER-f6-gondelierster-femke;GEB-r10-weduwenopstand
+THRL|6|opstand|De opstand van de lege bedden|Bertel bestormt een stal.|PER-f6-bertel;GEB-r10-weduwenopstand
+THRL|6|stalreus|De ontsnapping van Hork|Een reuzenstier ontsnapt.|PER-f6-reuzenstier-hork;GEB-r10-melkstallen
+THRL|6|ontruiming|De ontruiming van Ves-Anath|Gerlinde laat de ergste vervormden achter.|PER-f6-ves-anath-ontruimster;GEB-r10-ves-anath-gruwel
+THRL|6|slikpest|De pest in de slikgangen|Pluu ontdekt dat zijn gangen de pest verspreiden.|PER-f6-oevrin-pluu;GEB-r10-tweede-pest
+ROM|7|annike-joost|Annike en Joost|Een late liefde vol humor en schuld.|PER-f7-annike;PER-f7-joost;GEB-r10-kaldra-verraad
+ROM|7|dirk-veere|Dirk en Veere|Liefde en verraad.|PER-f7-dirk;PER-f7-veere;GEB-r10-bloednacht-gevolg
+ROM|7|dral|Dral en een Velmara-vrouw|Een Kharvos-spion die liefde vindt.|PER-f7-kharvos-spion;GEB-r10-kharvos-ziet
+ROM|7|nadira|Nadira en een Ishvar-man|Twee-gelofte in het harem-paleis.|PER-f7-khaled-hofdame;GEB-r10-khaled-pact
+ROM|7|tessel|Tessel na Lisk|Een overlevende leert opnieuw kiezen bij de Losmakers.|PER-f7-bloednacht-overlever;GEB-bloednacht-788
+ROM|7|iskar|Iskar en een Saelith-vrouw|Een vruchtbare Ves-Lethi en een vrouw die zijn kinderen draagt.|PER-f7-veslethi-nara-oud;GEB-r10-lekgeboorten
+INTR|7|sorre|Sorre's wrok|Een generaal laat Kharvos door.|PER-f7-sorre;GEB-r10-kaldra-verraad
+INTR|7|verkochte-naam|De verkochte naam|Veere verkoopt Annike.|PER-f7-veere;PER-varenne-crash;GEB-r10-varenne-crash
+INTR|7|pact|Het pact van Khaled-Ir|Nadira bespioneert het pact.|PER-f7-khaled-hofdame;GEB-r10-khaled-pact
+INTR|7|ossian|Ossian-ir en Morvane-ir|Twee donkere heren.|PER-f7-donkere-heer-ossian;GEB-r10-donkere-rijken
+INTR|7|crash|De crash|Een klerk verkoopt op tijd.|PER-f7-varenne-crash-klerk;GEB-r10-varenne-crash
+INTR|7|hadewych|Hadewych's brief|Het blad van Liora besteld.|PER-f7-hadewych;PER-stille-terug;GEB-r10-stille-terug
+THRL|7|lampentoren|Het kwartier van de Lampentoren|Annike verbrandt haar archief.|PER-f7-annike;PER-f7-dirk;PER-f7-stille-hand-mora;GEB-r10-bloednacht-gevolg
+THRL|7|amberpas|De poort van de Amberpas|Een Tharn ziet Sorre verraden.|PER-f7-tharn-oela-zoon;GEB-kharvos-720
+THRL|7|lekzoon|De lekzoon|Een moeder vlucht met een gloeiende zoon.|PER-f7-lekmoeder-runa;GEB-r10-lekgeboorten
+THRL|7|wortel|Grijswortel-smokkel|Brenda wordt opgepakt.|PER-f7-grijswortel-smokkel;GEB-r10-grijswortel-verbod
+THRL|7|zegelmeting|De datum van het einde|Ida kent de datum.|PER-f7-zegelwachter;GEB-zegel-verzwakt
+THRL|7|wijding|De tel van aarzeling|Wendela ziet Liora gloeien.|PER-f7-wijding-moeder;PER-liora;GEB-r10-quest-begin

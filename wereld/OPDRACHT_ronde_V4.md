@@ -1,0 +1,25 @@
+# Opdracht ronde V4 (Velmara)
+Regels: alleen 18+, geen minderjarigen, geen dieren, geen seks met wie niet kan instemmen. Backup canon_backup_V4.db eerst. Niets verwijderen (oude rijen 'voorlopig, vervangen'). Idempotent r_V4.py. Alles voorlopig. Daarna genereer.py, roundtrip (importeer.py), grep-controle. Rapporteer in het Nederlands, kort: aantallen + 5 mooiste voorbeelden + wat je hebt besloten en waarom.
+
+## 1. Oorsprongsverhaal kiezen (Rogier weet het niet; JIJ beslist op basis van de canon)
+Lees de canon (TECHNO-*, OORSPRONG-*, MAGIE-GESCH, TECH-GESCH, Sterrensteen, Zegel, Vonk, Leegte, Wiegkast, Orde-kluizen, volken, VRAAG-over kolonieschip, Hesk/Pest, wormenruim). Kies de origin story (verborgen sf, andere planeten mogen) die de meeste bestaande rijen versterkt en de minste wrijving geeft. Werk uit als ORIGIN-1..10 (keten van oorzaak en gevolg) en hang bestaande rijen eraan (verwijst_naar). Beantwoord de open vragen (machines/Sterrensteen/Wiegkast van één schip? wist Hesk van de Pest? ruim van de wormen?) als voorlopig antwoord, sluit de vragen met reden, en leg een onthulplan vast (wat de lezer wanneer ontdekt). Houd de hint voorlopig.
+## 2. Tijdlijn fase 4
+Los het verschil op: OORSPRONG-rijen zetten fase 4 op jaar 0, ronde V2 op jaar 60. Kies wat het beste klopt met de tijdlijn (GEB/FASE-rijen), pas de afwijkende rijen aan (oude rij vervangen), en controleer ook andere jaartalverschillen tussen fases.
+## 3. Meer voorwerpen
+Minstens 120 nieuwe TECH-ITEM-/VOOR-rijen (voorwerpen, per technologie en per volk en klasse): dagelijks, ceremonieel, wapen, sieraad, gereedschap, erotisch (instemmende volwassenen), smokkelwaar, relikwie. Elk: naam, functie, maker, prijs, risico, verhaalhaak, zintuiglijk detail.
+## 4. Dagelijks leven per klasse en subcultuur
+- Heersers/top: voor alle belangrijke heersers en huizen, een dagrooster, een rituelendag, eetgewoonten, intimiteit, rivaliteit, geheimen (DAG-TOP-).
+- Middenklasse en ambachten (DAG-MID-).
+- Lagere klassen: mijnen, stallen, haven, randgebieden (DAG-LAAG-).
+- Subculturen: minstens 12 (DAG-SUB-), onder meer feesters, kunstenaars, smokkelaars, sekten, fetisjclubs, zangers, vervalsers, vluchtelingen.
+- Anarchisten en rebellen: minstens 8 groepen (REBEL-), met doel, methode, leiders, wat ze eten, hoe ze kleden, hoe ze seks hebben/liefhebben, verraad en infiltratie, en hun verhaalhaken (intrige/thriller/romance/erotiek).
+Minstens 80 rijen totaal voor 4.
+## 5. Afsluiting
+Wrijvingen, open vragen, logboekregel, genre-balans herzien.
+
+## AANVULLING (Rogier, 21:54) — BESLISSING van Rogier, geldt boven eigen keuze in punt 1
+In het canon hebben WETENSCHAPPERS (van voor/rond het Zegel, de makers) BEWUST gekozen om technologie biologisch te laten ontwikkelen: veel functies in de wereld zijn biologisch, dus technologie bestaat uit lichamen (vlees, bloed, schimmel, bot) omdat zij dat zo hebben ontworpen/besloten. De materiaal- en machinetechnologie (metaal, machine) was HOOG ontwikkeld maar is VERGETEN; sommige dingen draaien er nog steeds op (kluizen, schepen, kernen, Sterrensteen, Wiegkast).
+Doe: (a) leg die keuze vast als ORIGIN-keten: wie waren de wetenschappers, waarom kozen ze biologisch (oorzaak), wat ging verloren, wie vergat wat en waarom, wat draait nog op oude machines; (b) combineer dit met het verborgen-sf-idee (kolonieschip/andere planeten) alleen als het klopt, en kies zelf de beste versie die de bestaande rijen versterkt; (c) zet genre-wet 2 terug naar of herformuleer rond deze oorsprong ("de makers kozen het lichaam" of vergelijkbaar), beslis wat het beste past met de keuze van Rogier, en leg de reden vast; wrijving WRIJ-107 opnieuw beoordelen; (d) werk TECHNO-REGEL, TECHNO-MIX en TECH-GESCH bij zodat ze deze oorsprong volgen (oude rijen 'voorlopig, vervangen'); (e) maak een rij ORIGIN-onthulplan: wat de lezer wanneer over de wetenschappers ontdekt.
+
+## AANVULLING 2 (Rogier, 21:55): WAAROM kozen de wetenschappers biologisch? Dit moet echt uitgewerkt en INTERESSANT zijn
+Maak er een mini-saga van, minstens 12 rijen ORIGIN-WAAROM-1..12 + 4 personages (de wetenschappers: leider, twijfelaar, verrader, geliefde) + 3 conflicten + 1 verborgen waarheid + het moment van de keuze (de vergadering/stemming) + wat het kostte. Eis: de reden moet (1) uit een echte nood of ramp komen (bijv. machines die faalden/vernietigden, een ziekte of vijand die machines uitschakelde, een tekort aan energie of metaal, een ethische breuk of een angst voor AI/machines), (2) botsen: wie was tegen, wie verloor, wie werd verbannen, (3) direct verklaren waarom 1 op 100 geboorten een jongen is, waarom zaad kracht geeft en waarom toestemming de kern van de horror is (het systeem draait op lichamen die niet meer kunnen instemmen), (4) meerdere romance/intrige/thriller-haken bevatten (liefde tussen wetenschappers, verraad, sabotage, geheimhouding), en (5) een draai bevatten die de lezer later verrast. Verwijs naar bestaande Zegel/Vonk/Leegte/Wiegkast/kluis-rijen en versterk ze. Bied A/B-varianten alleen als het echt twijfelachtig is; kies anders zelf de sterkste en leg de reden vast.

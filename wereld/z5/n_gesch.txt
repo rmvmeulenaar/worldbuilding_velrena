@@ -1,0 +1,40 @@
+GEB-sterrensteen-inslag|ozon en verschroeid gras|een dreun die drie dagen nagalmt|een hete wind uit het gebergte|een rode gloed in de nacht van -480|de steen gloeit bij levend bloed omdat hij uit Orrim-weefsel is|Een herder die zich snijdt ziet de steen oplichten
+GEB-haremwet-ardemar|parfum en zweet|honderden vrouwenstemmen achter muren|zijde en koude marmeren vloeren|kaarsen in eindeloze gangen|het paleis ruikt naar wachten|Een vrouw ontsnapt via het badwater
+GEB-zusterburcht|lavendel en steen|zingende vrouwen|koude muren|kaarslicht|de burcht is gebouwd op een machine die zoemt|De Zusters noemen het zoemen gebed
+GEB-orric-vonk|ozon en zweet|vonken die knetteren|hete huid|een gloed in het donker|Orric's huid gloeit voor het eerst tijdens een liefdesnacht|Zijn geliefde draagt de brandplek op haar hand
+GEB-zaadkracht-ontdekt|zweet en lelies|verbaasde stilte|warmte die door je aderen trekt|een kaars die feller brandt|de ontdekking gebeurt in een gewone slaapkamer|De vrouw die het ontdekte wordt uit de annalen geschrapt
+GEB-vonkkoorts|koorts en verbrand haar|ijlende stemmen|hete huid; afstoting 6|rood koortslicht|de koorts ruikt naar onweer|Een heelster ruikt onweer en weet dat het dorp verloren is
+GEB-zeven-kronen|bloed en ijzer|zeven legers|modder tot de knieën|vuur op zeven heuvels|elke kroon heeft een eigen banier en geur|Liora vindt een banier die naar lavendel ruikt
+GEB-lisk-brandt|brandend hout en vlees|geschreeuw en klokken|hitte; afstoting 7|een oranje hemel|de as van Lisk valt een week lang in Saelith|Een kind uit Lisk wordt in Saelith opgevoed als priesteres
+GEB-dochteroffer|lelies en bloed|honderd stemmen die ja zeggen|koude altaren|bleek licht|de Dochters zeiden ja, maar één stem trilde|De trillende stem is nog te horen in de Wortel
+GEB-zegel-gelegd|ozon en koude steen|een zoem die nooit meer ophoudt|kou uit de grond|wit licht over Ves-Anath|vanaf jaar 0 zoemt de wereld|Liora is de eerste die het zoemen ziet stoppen
+GEB-deelwet-40|inkt en zweet|vrouwen die stemmen|koude raadszaal|lamplicht|de Deelwet wordt getekend met een veer van een Skerra|De Skerra eist haar veer terug
+GEB-orde-90|wierook en nieuwe kalk|eerste gezangen|koele tempel|kaarsen|de eerste Orde-tempel ruikt nog naar het schip|In de fundering zit metaal
+GEB-eerste-zegellicht|ozon|een zacht gekraak als ijs|kou op je vingers|bleek licht zonder schaduw|het eerste zegellicht eet de warmte|De eerste priesteres die het zag verliest haar vingers
+GEB-uitverkorenen-210|parfum en goud|gezang|zijde|kroonluchters|de Uitverkorenen worden gekozen op geur|Een gekozen man ruikt naar een ander huis
+GEB-stille-schisma|lavendel en rook|een deur die dichtslaat|koude kloostervloer|kaarsen|de Stillen vertrekken in één nacht, zonder woord|Ze laten één lamp branden
+GEB-pest-340|zoete appels en rot|hoesten|builen; afstoting 8|bleek licht|de Pest ruikt naar appels|Een appelboer wordt als heks verbrand
+GEB-zaadbeurs-455|inkt, goud en zweet|een beursbel|zware munten|kroonluchters|de Zaadbeurs ruikt naar koffie en angst|Een koers valt en een man verdwijnt
+GEB-qesh-512|saffraan en zon|fonteinen|koele tegels|zon op koper|Qesh blijft koud omdat het Zegel er zwak is|Een priesteres ontdekt waarom
+GEB-ves-anath-ontruimd|as en glas|stilte|glas dat snijdt|grijs|bij de ontruiming bleef iets achter|Glasbroeders
+GEB-kharvos-720|kolenrook|hoorns|ijzige wind|vuur op de pas|de eerste inval ruikt naar olie|Kharvos heeft machines
+GEB-bloednacht-788|bloed en wijn|feestmuziek die stopt|warme straten|fakkels|de Bloednacht begon op een bruiloft|De bruid overleefde
+GEB-teo-801|lelies|een tel|koude handen|kaarslicht|Teo's Wijding is het begin van boek 1|Zijn handen worden koud
+GEB-r10-delta-dijken|klei en zout|dijkgezang|koud water|grauw|de eerste dijken werden gezongen|Het lied bestaat nog
+GEB-r10-steenkoorts|steenstof|hoesten|zware longen|mijnlicht|steenkoorts ruikt naar natte kalk|Een gilde verzwijgt het
+GEB-r10-oogstnacht|stro en bier|gelach|warme nacht|lantaarns|de eerste Oogstnacht was een feest zonder Orde|De Orde nam het over
+GEB-r10-graanjaren|lege schuren|stilte|honger|bleke zon|de magere jaren ruiken naar stof|Een schuurheer had graan verborgen
+GEB-r10-grijswortel|bittere aarde|gefluister|wortels|bleek licht|grijswortel laat je stemmen horen|De eerste eter hoorde Thalen
+GEB-r10-brandvelden|as|knetteren|hitte|rook|de brandvelden ruiken nog een eeuw naar as|Er groeit alleen amberkoren
+GEB-r10-raad-der-moeders|wierook en inkt|zeven stemmen|koude zaal|kaarsen|de Raad zet de Stille Modus aan zonder te weten wat het is|Eén Moeder vermoedt het
+GEB-r10-laatste-koning|wijn en bloed|een kroon die valt|koude troon|kaarsen|de laatste koning sterft met een glimlach|Hij wist wat er kwam
+GEB-r10-eerste-register|inkt|een pen|perkament|lamp|het eerste register werd vervalst bij de eerste naam|De eerste naam is Hesta
+GEB-r10-jongenshof|kalk en zeep|stilte en gezang|koude muren|wit licht|het Jongenshof ruikt naar zeep (geen seksuele inhoud)|Een man herkent de geur twintig jaar later
+GEB-r10-vervalste-annalen|nieuwe inkt over oude|krassende pennen|koud perkament|kaarslicht|de vervalsing van 205 ruikt naar verse inkt|Een Aelthir ruikt het nog
+GEB-r10-pest-oorsprong|stal en rot|kreunen|warm slijm; afstoting 8|zwak licht|de Pest begon in de fokstal van Hal-Neth|De Orde wist het
+GEB-r10-varenne-crash|koffie en angst|een beursbel die niet stopt|koude munten|kroonluchters|bij de crash springen drie bankiers|Een vierde verdwijnt met de boeken
+GEB-r10-liora-geboorte|hooi en melk|een baby die huilt|warme deken|een lamp die donker wordt|bij Liora's geboorte doofde de Ysa-lamp|De vroedvrouw zweeg
+GEB-r10-aeron-geboorte|as en wierook|stilte|warme huid|een gloed|Aeron gloeide bij zijn geboorte|De Orde registreerde hem dubbel
+GEB-Z1-kaping|wierook en ozon|een machine die gehoorzaamt|koude steen|zegellicht|in 130 vinden priesteressen de bediening|Ze vinden ook een stem
+ORIGIN-3|koude lucht en metaal|alarmen|kou in het schip|rood noodlicht|de Koude Muiterij was koud omdat de kernen opraakten|Een kern is nooit leeggegaan
+ORIGIN-8|ozon|een dreun|hitte|een vallende ster|de ster die valt is een stuk van het schip|In de krater ligt een uniform

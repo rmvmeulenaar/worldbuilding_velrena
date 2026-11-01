@@ -1,0 +1,1059 @@
+# BOOG
+<!-- REC boog -->
+### BOOG-boek0 · Ysa Maren
+- **code:** BOOG-boek0
+- **fase:** 0 Voortijd
+- **boek:** boek 0 (roman)
+- **hoofdpersoon:** Ysa Maren
+- **leeftijd_hoofdpersoon:** 30
+- **geslacht_hoofdpersoon:** v
+- **romance:** ja
+- **erotische_sleutelscene:** ja
+- **terugkerend_motief:** besluit namens anderen
+- **noodoplossing:** werkt (met prijs)
+- **wie_betaalt:** 3.454 doden van de Muiterij
+- **toon:** tragisch, episch
+- **vorm:** lineair, Engels, 33 hoofdstukken
+- **afloop:** Ysa wint en wordt godin; Thalen vergeeft pas na haar dood
+- **bron:** ROMAN-Z16-roman-Z32; PER-v4-ysa-maren; BESLUIT-Z16-8
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** 
+- **voorstel_status:** 
+- **verteller:** 
+- **tempo:** 
+- **beslisser_as:** Ysa
+- **betaler_as:** de tegenstemmers
+- **vervalst_as:** geheugen van de Rekenaar
+- **ontdekt_as:** deels
+- **schaal:** wereld
+- **herkenbaar:** 
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** 
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase1-Z32 · Nerys Zoutvrouw
+- **code:** VERHAAL-fase1-Z32
+- **fase:** 1 Overvloed
+- **boek:** fasebogen
+- **hoofdpersoon:** Nerys Zoutvrouw
+- **leeftijd_hoofdpersoon:** 27
+- **geslacht_hoofdpersoon:** v
+- **romance:** geen
+- **erotische_sleutelscene:** ja
+- **terugkerend_motief:** vriendschap die aangeeft
+- **noodoplossing:** faalt
+- **wie_betaalt:** Aukje (opgehangen)
+- **toon:** schuldig en zangerig
+- **vorm:** ballade
+- **afloop:** Aukje hangt; het laatste refrein is haar naam, en Nerys zingt het zelf
+- **bron:** VERHAAL-fase1-Z32; PER-f1-nerys-Z32; BESLUIT-Z32-5/7
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Laat zoals in Z32 vastgesteld; enige signaal: register-motief. Variatie: maak het register hier nog geen document maar een lied (Nerys zingt de namen), zodat het eerste register mondeling is.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** Nerys, oud, zingend voor wie het wil horen
+- **tempo:** traag, één seizoen per strofe
+- **beslisser_as:** Nerys
+- **betaler_as:** Aukje
+- **vervalst_as:** niets
+- **ontdekt_as:** n.v.t.
+- **schaal:** dorp
+- **herkenbaar:** 
+- **zintuig:** Zout op kapotte handen en de stilte van verzwegen zonen.
+- **haak:** Een vrouw schrijft de naam van haar beste vriendin in een register en ontdekt wat een register kan.
+- **synopsis_code:** VERHAAL-fase1-Z36
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase1-a-Z32 · Wobke
+- **code:** VERHAAL-fase1-a-Z32
+- **fase:** 1 Overvloed
+- **boek:** fasebogen
+- **hoofdpersoon:** Wobke
+- **leeftijd_hoofdpersoon:** 30
+- **geslacht_hoofdpersoon:** v
+- **romance:** nee
+- **erotische_sleutelscene:** ja
+- **terugkerend_motief:** verbond
+- **noodoplossing:** werkt
+- **wie_betaalt:** onbekend
+- **toon:** hoopvol, rommelig
+- **vorm:** een lange toespraak op een huwelijksfeest die uit de hand loopt
+- **afloop:** het verbond overleeft beide huwelijken
+- **bron:** VERHAAL-fase1-a-Z32
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** 
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** Wobke in de jij-vorm, tegen haar eerste man
+- **tempo:** één avond, steeds sneller naarmate de wijn op raakt
+- **beslisser_as:** Wobke en Garrit
+- **betaler_as:** de schuurheer
+- **vervalst_as:** niets
+- **ontdekt_as:** n.v.t.
+- **schaal:** dorp
+- **herkenbaar:** samen sterker zijn dan de mensen die je leven hebben ingericht.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase1-a-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase1-b · Brom
+- **code:** VERHAAL-fase1-b
+- **fase:** 1 Overvloed
+- **boek:** fasebogen
+- **hoofdpersoon:** Brom
+- **leeftijd_hoofdpersoon:** 40
+- **geslacht_hoofdpersoon:** m
+- **romance:** nee
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** last die je niet mag neerleggen
+- **noodoplossing:** werkt
+- **wie_betaalt:** Brom (de steen kwijt)
+- **toon:** dorstig, kaal
+- **vorm:** survivaltocht in genummerde mijlpalen, van 40 naar 0
+- **afloop:** Brom bereikt de Zusters met lege handen en één zin
+- **bron:** VERHAAL-fase1-b
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** 
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** het geheim zelf, in Broms zak, dat niet weet wat het is
+- **tempo:** aftellen; korte hoofdstukken die korter worden
+- **beslisser_as:** Brom
+- **betaler_as:** Brom
+- **vervalst_as:** niets
+- **ontdekt_as:** n.v.t.
+- **schaal:** rijk
+- **herkenbaar:** de angst van een gewone man die per ongeluk iets weet wat machtigen willen.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase1-b-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase1-c · Lenne
+- **code:** VERHAAL-fase1-c
+- **fase:** 1 Overvloed
+- **boek:** fasebogen
+- **hoofdpersoon:** Lenne
+- **leeftijd_hoofdpersoon:** 34
+- **geslacht_hoofdpersoon:** v
+- **romance:** nee
+- **erotische_sleutelscene:** ja
+- **terugkerend_motief:** verraad
+- **noodoplossing:** half
+- **wie_betaalt:** Lenne (gered door haar vijand)
+- **toon:** kil-elegant
+- **vorm:** intrige als schaakpartij, elk hoofdstuk één zet met de zet als titel
+- **afloop:** Lenne krijgt haar zuster terug omdat Oda het wil
+- **bron:** VERHAAL-fase1-c
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** 
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** Oda, de tegenstander, die alles regelt
+- **tempo:** geduldig; drie jaar in twaalf zetten
+- **beslisser_as:** Oda
+- **betaler_as:** Lenne
+- **vervalst_as:** vals vaderschap (plan)
+- **ontdekt_as:** ja
+- **schaal:** rijk
+- **herkenbaar:** de bittere opluchting van gered worden door je vijand.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase1-c-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase2 · Ysel en Orric
+- **code:** VERHAAL-fase2
+- **fase:** 2 Vonk
+- **boek:** fasebogen
+- **hoofdpersoon:** Ysel en Orric
+- **leeftijd_hoofdpersoon:** 21
+- **geslacht_hoofdpersoon:** v
+- **romance:** ja
+- **erotische_sleutelscene:** nee (herinnering, geen spil)
+- **terugkerend_motief:** macht
+- **noodoplossing:** onbekend
+- **wie_betaalt:** onbekend
+- **toon:** grappig tot het ophoudt
+- **vorm:** tragikomedie in drie bruiloften
+- **afloop:** de derde bruiloft is de begrafenis van Orric
+- **bron:** VERHAAL-fase2
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: tragikomedie in drie bruiloften. Ysel en Orric worden drie keer uitgehuwelijkt (aan een mijnheer, aan het hof, aan de oorlog) en elke bruiloft is grappiger en erger dan de vorige; geen erotische sleutelscène als spil, de warme bron wordt een herinnering die ze elkaar elk feest anders vertellen. Afloop tragisch: de derde bruiloft is zijn begrafenis.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** een alwetende verteller met een droge kroniekstem
+- **tempo:** drie feesten met jaren ertussen overgeslagen
+- **beslisser_as:** Ysel
+- **betaler_as:** Ysel en haar netwerk
+- **vervalst_as:** verdrinking (Tarns leugen)
+- **ontdekt_as:** nee
+- **schaal:** rijk
+- **herkenbaar:** 
+- **zintuig:** Stof in de mijnen en een vrouw die wacht.
+- **haak:** Ze wacht op de Vonk van een mijnzoon, en weet niet wat die kost.
+- **synopsis_code:** VERHAAL-fase2-Z36
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase2-a · Hanne
+- **code:** VERHAAL-fase2-a
+- **fase:** 2 Vonk
+- **boek:** fasebogen
+- **hoofdpersoon:** Hanne
+- **leeftijd_hoofdpersoon:** 26
+- **geslacht_hoofdpersoon:** v
+- **romance:** ja
+- **erotische_sleutelscene:** ja
+- **terugkerend_motief:** ritueel
+- **noodoplossing:** werkt
+- **wie_betaalt:** Hanne (zaadhonger)
+- **toon:** kalm en vreemd
+- **vorm:** één nacht en één dag gezien van boven
+- **afloop:** Hanne gaat terug naar de kust
+- **bron:** VERHAAL-fase2-a
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: verteld vanuit het slagveld als gebouw: de oude vuurtoren van de Zoutkust vertelt wat hij ziet in één nacht en één dag. Hanne en Roel zijn twee lichtjes die de toren ziet; de toon is kalm en vreemd, de liefde blijft buiten beeld.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** de oude vuurtoren van de Zoutkust
+- **tempo:** uur voor uur, met lange stiltes
+- **beslisser_as:** Hanne en Roel
+- **betaler_as:** Hanne
+- **vervalst_as:** niets
+- **ontdekt_as:** n.v.t.
+- **schaal:** dorp
+- **herkenbaar:** twijfelen of je verlangen van jezelf is.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase2-a-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase2-b · Maelis
+- **code:** VERHAAL-fase2-b
+- **fase:** 2 Vonk
+- **boek:** fasebogen
+- **hoofdpersoon:** Maelis
+- **leeftijd_hoofdpersoon:** 
+- **geslacht_hoofdpersoon:** v
+- **romance:** nee
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** diefstal
+- **noodoplossing:** half
+- **wie_betaalt:** Maelis (haar positie)
+- **toon:** scherp, droog
+- **vorm:** whodunit met een lijst verdachten die elk hoofdstuk één naam verliest
+- **afloop:** Selva krijgt haar baan
+- **bron:** VERHAAL-fase2-b
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** 
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** Maelis, die de dief zoekt en het zelf blijkt te zijn geweest in een andere zin
+- **tempo:** kort en puzzelend
+- **beslisser_as:** Selva
+- **betaler_as:** Maelis
+- **vervalst_as:** gedekte diefstal
+- **ontdekt_as:** ja
+- **schaal:** rijk
+- **herkenbaar:** de schok als je beschermeling slimmer blijkt dan jij.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase2-b-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase2-c · Tarn Broederhand
+- **code:** VERHAAL-fase2-c
+- **fase:** 2 Vonk
+- **boek:** fasebogen
+- **hoofdpersoon:** Tarn Broederhand
+- **leeftijd_hoofdpersoon:** 26
+- **geslacht_hoofdpersoon:** m
+- **romance:** nee
+- **erotische_sleutelscene:** ja
+- **terugkerend_motief:** broedertrouw die kapotgaat
+- **noodoplossing:** werkt (met prijs)
+- **wie_betaalt:** Orric (uitgeleverd)
+- **toon:** ingehouden, rouwend
+- **vorm:** zeven maaltijden, van feestmaal tot één man aan tafel
+- **afloop:** Tarn alleen aan tafel, dekt een tweede bord
+- **bron:** VERHAAL-fase2-c; PER-f2-tarn
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** 
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** het tweede bord op tafel
+- **tempo:** elk hoofdstuk één maaltijd, jaren ertussen
+- **beslisser_as:** Tarn
+- **betaler_as:** Orric
+- **vervalst_as:** halve waarheden
+- **ontdekt_as:** nee
+- **schaal:** rijk
+- **herkenbaar:** overtuigd zijn dat je het juiste deed, en het toch niet kunnen verdragen.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase2-c-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase3 · Ysara
+- **code:** VERHAAL-fase3
+- **fase:** 3 Brand
+- **boek:** fasebogen
+- **hoofdpersoon:** Ysara
+- **leeftijd_hoofdpersoon:** 28
+- **geslacht_hoofdpersoon:** v
+- **romance:** als leugen van de verteller
+- **erotische_sleutelscene:** ja
+- **terugkerend_motief:** offer
+- **noodoplossing:** werkt (met prijs)
+- **wie_betaalt:** de honderd Dochters
+- **toon:** vroom aan de oppervlakte, wrang eronder
+- **vorm:** kroniek met kantlijn
+- **afloop:** het Zegel
+- **bron:** VERHAAL-fase3; PER-ysara
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: onbetrouwbare verteller. Anath vertelt het Offer achteraf, in haar eigen kroniek, als een heilige liefdesgeschiedenis; de lezer ziet tussen haar regels dat Ysara en Mira elkaar al hadden opgegeven. De romance is dan een leugen van de verteller, niet de motor.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** Anath, achteraf, in haar eigen heilige kroniek (onbetrouwbaar)
+- **tempo:** plechtig, met sprongen terug
+- **beslisser_as:** Raad der Moeders
+- **betaler_as:** honderd Dochters
+- **vervalst_as:** officiële versie Brand
+- **ontdekt_as:** deels
+- **schaal:** wereld
+- **herkenbaar:** 
+- **zintuig:** Bloesem en vuur in de laatste nacht.
+- **haak:** Een van de honderd vlucht, en de telling klopt nooit meer.
+- **synopsis_code:** VERHAAL-fase3-Z36
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase3-a · Mira de Twijfelende Dochter
+- **code:** VERHAAL-fase3-a
+- **fase:** 3 Brand
+- **boek:** fasebogen
+- **hoofdpersoon:** Mira de Twijfelende Dochter
+- **leeftijd_hoofdpersoon:** 26
+- **geslacht_hoofdpersoon:** v
+- **romance:** onvervuld
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** trouw
+- **noodoplossing:** n.v.t.
+- **wie_betaalt:** Mira en Kovan (wat ze laten)
+- **toon:** melancholisch, helder
+- **vorm:** dagboek van twaalf dagen
+- **afloop:** een kus, en stoppen
+- **bron:** VERHAAL-fase3-a
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** 
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** Mira, in korte brieven aan zichzelf die ze nooit terugleest
+- **tempo:** dag na dag, de laatste dag in één zin
+- **beslisser_as:** Mira en Kovan
+- **betaler_as:** Mira en Kovan
+- **vervalst_as:** niets
+- **ontdekt_as:** n.v.t.
+- **schaal:** dorp
+- **herkenbaar:** van iemand houden en het laten.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase3-a-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase3-b · Dessa (en honderd gebonden vrouwen)
+- **code:** VERHAAL-fase3-b
+- **fase:** 3 Brand
+- **boek:** fasebogen
+- **hoofdpersoon:** Dessa (en honderd gebonden vrouwen)
+- **leeftijd_hoofdpersoon:** 
+- **geslacht_hoofdpersoon:** groep
+- **romance:** nee
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** bevrijding
+- **noodoplossing:** werkt
+- **wie_betaalt:** de vrouw die breekt op dag vier
+- **toon:** claustrofobisch
+- **vorm:** horror in ademhalingen: hoofdstukken van één ademteug lang
+- **afloop:** honderd vrouwen die niet weten wat ze met vrijheid moeten
+- **bron:** VERHAAL-fase3-b
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** 
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** Dessa, ik-vorm, tegenwoordige tijd
+- **tempo:** hijgend, bijna zonder pauze
+- **beslisser_as:** Dessa
+- **betaler_as:** Varnath
+- **vervalst_as:** gespeelde gretigheid
+- **ontdekt_as:** nee
+- **schaal:** dorp
+- **herkenbaar:** de angst dat je vrijheid niet aankunt.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase3-b-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase3-c · Anath
+- **code:** VERHAAL-fase3-c
+- **fase:** 3 Brand
+- **boek:** fasebogen
+- **hoofdpersoon:** Anath
+- **leeftijd_hoofdpersoon:** 55
+- **geslacht_hoofdpersoon:** v
+- **romance:** nee
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** stemming
+- **noodoplossing:** werkt (via leugen)
+- **wie_betaalt:** de opgesloten tegenstemster
+- **toon:** gespannen, oorgetuige
+- **vorm:** kamerspel in één nacht, alleen geluid
+- **afloop:** zeven tegen vijf; de annalen zeggen eenstemmig
+- **bron:** VERHAAL-fase3-c; VERHAAL-fase3
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: kamerspel in één nacht, verteld door de opgesloten tegenstemster door de deur heen (zij hoort alles maar ziet niets). Het lijstje van Anath blijft, maar de lezer hoort alleen de stemmen.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** de opgesloten tegenstemster, door de deur heen
+- **tempo:** realtime, één nacht
+- **beslisser_as:** Anath
+- **betaler_as:** de tegenstemster
+- **vervalst_as:** eenstemmig in de annalen
+- **ontdekt_as:** deels
+- **schaal:** rijk
+- **herkenbaar:** hoe goede doelen kleine leugens rechtvaardigen.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase3-c-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase4 · Ylva Kustroofster
+- **code:** VERHAAL-fase4
+- **fase:** 4 Noodtoestand
+- **boek:** fasebogen
+- **hoofdpersoon:** Ylva Kustroofster
+- **leeftijd_hoofdpersoon:** 34
+- **geslacht_hoofdpersoon:** v
+- **romance:** ja
+- **erotische_sleutelscene:** geen (alleen gerucht)
+- **terugkerend_motief:** clan tegen zichzelf
+- **noodoplossing:** onbekend
+- **wie_betaalt:** onbekend
+- **toon:** rauw, collectief
+- **vorm:** wij-vorm (twaalf stemmen)
+- **afloop:** de clan breekt in tweeën over Edrun
+- **bron:** VERHAAL-fase4; PER-f4-ylva
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: een groep als hoofdpersoon. De Zoutkust-clan vertelt in de wij-vorm een winter van mannenroof; Ylva is één stem van twaalf. Geen erotische sleutelscène; de spil is de stemming in de clan of ze Edrun teruggeven. Afloop: de clan breekt in tweeën.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** de Zoutkust-clan in de wij-vorm, twaalf stemmen
+- **tempo:** één winter, van eerste sneeuw tot dooi
+- **beslisser_as:** de clan
+- **betaler_as:** Edrun
+- **vervalst_as:** goddelijke wet
+- **ontdekt_as:** nee
+- **schaal:** dorp
+- **herkenbaar:** 
+- **zintuig:** Lege wiegen en een man die gedeeld wordt.
+- **haak:** De gedeelde koning moet kiezen tussen zijn vrouw en de wet.
+- **synopsis_code:** VERHAAL-fase4-Z36
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase4-a · Ylva Kustroofster
+- **code:** VERHAAL-fase4-a
+- **fase:** 4 Noodtoestand
+- **boek:** fasebogen
+- **hoofdpersoon:** Ylva Kustroofster
+- **leeftijd_hoofdpersoon:** 34
+- **geslacht_hoofdpersoon:** v
+- **romance:** ja
+- **erotische_sleutelscene:** nee (de scène komt niet)
+- **terugkerend_motief:** nee als liefde
+- **noodoplossing:** n.v.t.
+- **wie_betaalt:** Ylva en Edrun
+- **toon:** broeierig, dan teder
+- **vorm:** realtime: één nacht in de herberg zonder vuur, elk hoofdstuk een uur
+- **afloop:** alles anders en niets veranderd
+- **bron:** VERHAAL-fase4-a
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: korte tijdsduur, echt één nacht in realtime (de herberg zonder vuur, uur per uur), en de afloop draait om: Ylva zegt nee tegen de nacht en ze praten tot de ochtend. De lezer wacht op de scène die niet komt.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** Ylva, ik-vorm, uur voor uur
+- **tempo:** precies twaalf uur
+- **beslisser_as:** Ylva en Edrun
+- **betaler_as:** Ylva en Edrun
+- **vervalst_as:** niets
+- **ontdekt_as:** n.v.t.
+- **schaal:** dorp
+- **herkenbaar:** verliefd worden op iemand die niet van jou kan zijn.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase4-a-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase4-b · Brecht
+- **code:** VERHAAL-fase4-b
+- **fase:** 4 Noodtoestand
+- **boek:** fasebogen
+- **hoofdpersoon:** Brecht
+- **leeftijd_hoofdpersoon:** 
+- **geslacht_hoofdpersoon:** v
+- **romance:** ja
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** misverstand
+- **noodoplossing:** werkt
+- **wie_betaalt:** Halvar (ziek in het gat)
+- **toon:** klucht met een angel
+- **vorm:** komedie van vergissingen die als thriller begint
+- **afloop:** Ylva zegt dat er niets is
+- **bron:** VERHAAL-fase4-b
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: verteld door de jaloerse buurvrouw (onbetrouwbaar): zij denkt dat Brecht een minnaar verstopt en wil hem zelf. Thriller wordt komedie van misverstand tot Ylva komt.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** de jaloerse buurvrouw (onbetrouwbaar)
+- **tempo:** snel, met deuren
+- **beslisser_as:** Ylva
+- **betaler_as:** Halvar
+- **vervalst_as:** verborgen man
+- **ontdekt_as:** ja
+- **schaal:** dorp
+- **herkenbaar:** liefde die egoïstisch is en toch juist voelt.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase4-b-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase4-c · Saske Registerhoofd
+- **code:** VERHAAL-fase4-c
+- **fase:** 4 Noodtoestand
+- **boek:** fasebogen
+- **hoofdpersoon:** Saske Registerhoofd
+- **leeftijd_hoofdpersoon:** 31
+- **geslacht_hoofdpersoon:** v
+- **romance:** nee
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** register
+- **noodoplossing:** werkt
+- **wie_betaalt:** Ondrea (zwijgt)
+- **toon:** intiem en gevaarlijk
+- **vorm:** kantlijnverhaal in het eerste register
+- **afloop:** alleen Saske kan het bloedmerk lezen
+- **bron:** VERHAAL-fase4-c; PER-f4-saske
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: twee stemmen in één register: het verhaal staat in de kantlijn van het eerste register, Saske links en Ondrea rechts; de laatste bladzijde is door één hand geschreven.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** twee handen in één register: Saske links, Ondrea rechts
+- **tempo:** bladzijde voor bladzijde, jaren per vel
+- **beslisser_as:** Saske
+- **betaler_as:** Ondrea
+- **vervalst_as:** eigen familieblad
+- **ontdekt_as:** ja
+- **schaal:** rijk
+- **herkenbaar:** hoe vriendschap bezwijkt onder een geheim dat je allebei kent.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase4-c-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase5 · Liane Ontvangster
+- **code:** VERHAAL-fase5
+- **fase:** 5 Ontvangst
+- **boek:** fasebogen
+- **hoofdpersoon:** Liane Ontvangster
+- **leeftijd_hoofdpersoon:** 29
+- **geslacht_hoofdpersoon:** v
+- **romance:** nee (geloof als spil)
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** geloof dat slijt
+- **noodoplossing:** onbekend
+- **wie_betaalt:** onbekend
+- **toon:** langzaam tragisch
+- **vorm:** negen Ontvangsten in veertig jaar
+- **afloop:** Liane blijft gelovig en wordt zelf de priesteres die de lijst bijhoudt
+- **bron:** VERHAAL-fase5; PER-f5-liane
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: veertig jaar in negen Ontvangsten. Liane wordt in elk hoofdstuk tien jaar ouder; geen geliefde als spil maar haar geloof dat langzaam slijt. Tragische afloop: zij blijft gelovig en wordt zelf de priesteres die de lijst bijhoudt.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** Liane, steeds tien jaar ouder
+- **tempo:** sprongen van tien jaar
+- **beslisser_as:** de Orde
+- **betaler_as:** Liane
+- **vervalst_as:** zegellicht als godin
+- **ontdekt_as:** nee
+- **schaal:** rijk
+- **herkenbaar:** 
+- **zintuig:** Tempelstenen die gloeien en vrouwen die vergrijzen.
+- **haak:** Het licht eet, en de Orde noemt het heilig.
+- **synopsis_code:** VERHAAL-fase5-Z36
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase5-a · Corvina
+- **code:** VERHAAL-fase5-a
+- **fase:** 5 Ontvangst
+- **boek:** fasebogen
+- **hoofdpersoon:** Corvina
+- **leeftijd_hoofdpersoon:** 
+- **geslacht_hoofdpersoon:** v
+- **romance:** ja
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** register
+- **noodoplossing:** faalt
+- **wie_betaalt:** Daeran-as (bedrogen)
+- **toon:** ongemakkelijk-komisch
+- **vorm:** onverzonden brieven, met haar doorhalingen
+- **afloop:** twaalf zomers zonder het liefde te noemen
+- **bron:** VERHAAL-fase5-a
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: alleen de brieven, maar dan de brieven die Corvina NIET verstuurde (gevonden in 801). Komische ondertoon: ze is een slechte schrijfster en steeds jaloers op haar eigen leugen.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** de brieven die Corvina niet verstuurde, gevonden in 801
+- **tempo:** twaalf zomers, één bundel per zomer
+- **beslisser_as:** Corvina
+- **betaler_as:** Daeran-as
+- **vervalst_as:** brieven als Liane
+- **ontdekt_as:** ja
+- **schaal:** dorp
+- **herkenbaar:** houden van iemand via een leugen die je zelf hebt verteld.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase5-a-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase5-b · Liane Ontvangster
+- **code:** VERHAAL-fase5-b
+- **fase:** 5 Ontvangst
+- **boek:** fasebogen
+- **hoofdpersoon:** Liane Ontvangster
+- **leeftijd_hoofdpersoon:** 44
+- **geslacht_hoofdpersoon:** v
+- **romance:** nee
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** bescherming door te liegen
+- **noodoplossing:** half
+- **wie_betaalt:** Joa (dood); Liane (op de lijst)
+- **toon:** beklemmend
+- **vorm:** verhoorverslag: vraag, antwoord, stilte
+- **afloop:** Liane leest haar eigen naam
+- **bron:** VERHAAL-fase5-b
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: onbetrouwbare verteller: Liane vertelt de nacht aan een Ordezuster in een verhoor, en liegt over de archivaris om hem te sparen. Het motief is dan niet de lijst maar wie zij beschermt.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** het verhoorprotocol, met wat de notulist weglaat
+- **tempo:** één verhoor, één nacht verteld in terugblik
+- **beslisser_as:** Liane
+- **betaler_as:** Joa
+- **vervalst_as:** verborgen lijst
+- **ontdekt_as:** ja
+- **schaal:** rijk
+- **herkenbaar:** ontdekken dat je deel bent van iets wat je mooi vond, en dat het je opeet.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase5-b-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase5-c · Corvina
+- **code:** VERHAAL-fase5-c
+- **fase:** 5 Ontvangst
+- **boek:** fasebogen
+- **hoofdpersoon:** Corvina
+- **leeftijd_hoofdpersoon:** 
+- **geslacht_hoofdpersoon:** v
+- **romance:** nee
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** handel in tijd
+- **noodoplossing:** half
+- **wie_betaalt:** de vrouw die te laat komt; Corvina (aan een lijn)
+- **toon:** bitter-grappig
+- **vorm:** satirisch marktverhaal in prijsroepen
+- **afloop:** Corvina is de koopwaar
+- **bron:** VERHAAL-fase5-c
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: komisch-satirisch marktverhaal: Corvina als marskraamster die uren verkoopt als brood, met een vaste klant die elke week een nacht terugbrengt omdat ze niet goed was. Geen register, wel een prijslijst.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** Corvina als marktkoopvrouw, tegen haar klanten
+- **tempo:** één marktdag per hoofdstuk
+- **beslisser_as:** de Hoge Moeder
+- **betaler_as:** de vrouw die te laat komt
+- **vervalst_as:** verzet rooster
+- **ontdekt_as:** ja
+- **schaal:** rijk
+- **herkenbaar:** kleine corruptie die je groot maakt, tot iemand groters je koopt.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase5-c-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase6-Z32 · Joris de Melkos
+- **code:** VERHAAL-fase6-Z32
+- **fase:** 6 Markt
+- **boek:** fasebogen
+- **hoofdpersoon:** Joris de Melkos
+- **leeftijd_hoofdpersoon:** 34
+- **geslacht_hoofdpersoon:** m
+- **romance:** ja
+- **erotische_sleutelscene:** ja
+- **terugkerend_motief:** lichaam als getuige
+- **noodoplossing:** werkt
+- **wie_betaalt:** Moeder Havra
+- **toon:** fysiek, waardig
+- **vorm:** verteld vanuit zijn lichaam
+- **afloop:** de waarheid wint zonder vervalsing
+- **bron:** VERHAAL-fase6-Z32; BESLUIT-Z32-5/8
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** 
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** het lichaam van Joris
+- **tempo:** stal-ritme: melktijden
+- **beslisser_as:** Joris
+- **betaler_as:** 
+- **vervalst_as:** niets
+- **ontdekt_as:** ja
+- **schaal:** rijk
+- **herkenbaar:** 
+- **zintuig:** De zure stank van de stallen en het nat gras onder blote voeten.
+- **haak:** Een melkos laat zijn lichaam getuigen.
+- **synopsis_code:** VERHAAL-fase6-Z36
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase6-a-Z32 · Joris de Melkos
+- **code:** VERHAAL-fase6-a-Z32
+- **fase:** 6 Markt
+- **boek:** fasebogen
+- **hoofdpersoon:** Joris de Melkos
+- **leeftijd_hoofdpersoon:** 34
+- **geslacht_hoofdpersoon:** m
+- **romance:** ja
+- **erotische_sleutelscene:** ja
+- **terugkerend_motief:** vrijheid
+- **noodoplossing:** n.v.t.
+- **wie_betaalt:** Joris (gaat vrijwillig terug)
+- **toon:** teder, schurend
+- **vorm:** terugkeer in kringen: elk hoofdstuk eindigt waar het vorige begon
+- **afloop:** terug naar de stal
+- **bron:** VERHAAL-fase6-a-Z32
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** 
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** de stalgenoot die Joris ooit aanwees, als stem in zijn hoofd
+- **tempo:** cirkelend
+- **beslisser_as:** Joris
+- **betaler_as:** Joris
+- **vervalst_as:** niets
+- **ontdekt_as:** n.v.t.
+- **schaal:** dorp
+- **herkenbaar:** één nacht die van jou is in een leven dat dat niet is.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase6-a-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase6-b-Z32 · Machteld Stalheelster
+- **code:** VERHAAL-fase6-b-Z32
+- **fase:** 6 Markt
+- **boek:** fasebogen
+- **hoofdpersoon:** Machteld Stalheelster
+- **leeftijd_hoofdpersoon:** 32
+- **geslacht_hoofdpersoon:** v
+- **romance:** nee
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** voorteken dat genegeerd wordt
+- **noodoplossing:** faalt
+- **wie_betaalt:** honderd mannen in quarantaine; de assistente
+- **toon:** koude horror
+- **vorm:** dossier in omgekeerde volgorde
+- **afloop:** twee jaar later de Grote Pest
+- **bron:** VERHAAL-fase6-b-Z32
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: dossier in omgekeerde volgorde. Het verhaal begint met de verzegelde staldeur en loopt terug naar de eerste buil; elke scène is een document (verslag, bevel, rekening). De horror is dat de lezer al weet hoe het afloopt.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** geen verteller: alleen documenten
+- **tempo:** van het eind naar het begin
+- **beslisser_as:** de stalmeester
+- **betaler_as:** honderd mannen
+- **vervalst_as:** verdwenen rapport
+- **ontdekt_as:** nee
+- **schaal:** dorp
+- **herkenbaar:** gelijk hebben en niemand die luistert. het schuldgevoel van wie vlucht terwijl anderen opgesloten blijven.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase6-b-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase6-c-Z32 · Odile Varenne
+- **code:** VERHAAL-fase6-c-Z32
+- **fase:** 6 Markt
+- **boek:** fasebogen
+- **hoofdpersoon:** Odile Varenne
+- **leeftijd_hoofdpersoon:** 
+- **geslacht_hoofdpersoon:** v
+- **romance:** nee
+- **erotische_sleutelscene:** ja
+- **terugkerend_motief:** chantage aan tafel
+- **noodoplossing:** werkt
+- **wie_betaalt:** de Orde
+- **toon:** spottend
+- **vorm:** zedenkomedie aan één diner
+- **afloop:** Odile wint, Selvara wacht
+- **bron:** VERHAAL-fase6-c-Z32
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: zedenkomedie aan één diner, verteld door het personeel van het Varenne-huis (een groep). Odile en Selvara zijn de gasten die het personeel uitlacht; de chantage loopt via de gangen.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** het personeel van het Varenne-huis, samen
+- **tempo:** zeven gangen
+- **beslisser_as:** Odile
+- **betaler_as:** de Orde
+- **vervalst_as:** niets
+- **ontdekt_as:** n.v.t.
+- **schaal:** rijk
+- **herkenbaar:** geduld als wapen tegen ongeduld in je eigen familie.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase6-c-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase7-Z32 · Annike Inktvinger
+- **code:** VERHAAL-fase7-Z32
+- **fase:** 7 Barsten
+- **boek:** fasebogen
+- **hoofdpersoon:** Annike Inktvinger
+- **leeftijd_hoofdpersoon:** 61
+- **geslacht_hoofdpersoon:** v
+- **romance:** ja
+- **erotische_sleutelscene:** ja
+- **terugkerend_motief:** register
+- **noodoplossing:** onbekend
+- **wie_betaalt:** onbekend
+- **toon:** droog, eenzaam, grappig
+- **vorm:** kasboek
+- **afloop:** Annike verbrandt het kantoor en boekt het als onkosten
+- **bron:** VERHAAL-fase7-Z32; PER-f7-annike-Z32
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: het gebouw als verteller: het registerkantoor in Merk vertelt zeventig jaar Annike, van het meisje dat de vloer schrobt (niet-seksueel) tot de vrouw die het verbrandt. Toon droog en grappig.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** Annikes eigen rekeningboek
+- **tempo:** een leven in boekingen
+- **beslisser_as:** Annike
+- **betaler_as:** Joost
+- **vervalst_as:** Liora's blad
+- **ontdekt_as:** ja
+- **schaal:** rijk
+- **herkenbaar:** 
+- **zintuig:** Inkt en levend weefsel in een vervalsersatelier.
+- **haak:** De vervalster van Saelith maakt het blad dat Liora's leven bepaalt.
+- **synopsis_code:** VERHAAL-fase7-Z36
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase7-a · Annike Inktvinger
+- **code:** VERHAAL-fase7-a
+- **fase:** 7 Barsten
+- **boek:** fasebogen
+- **hoofdpersoon:** Annike Inktvinger
+- **leeftijd_hoofdpersoon:** 69
+- **geslacht_hoofdpersoon:** v
+- **romance:** ja
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** vergeving
+- **noodoplossing:** werkt
+- **wie_betaalt:** Joost (betaalt met een ring)
+- **toon:** warm, rumoerig
+- **vorm:** klucht in drie onderhandelingen over één blad
+- **afloop:** vergeving die begint met een lach
+- **bron:** VERHAAL-fase7-a
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: klucht. Drie onderhandelingen over één blad, elke keer met meer mensen in de werkplaats (een kleindochter, een buurvrouw, de kat). Geen erotische sleutelscène; de liefde blijkt uit wie de laatste fles betaalt.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** de kat in de werkplaats
+- **tempo:** drie avonden, telkens drukker
+- **beslisser_as:** Annike en Joost
+- **betaler_as:** Joost
+- **vervalst_as:** blad kleindochter
+- **ontdekt_as:** nee
+- **schaal:** dorp
+- **herkenbaar:** vergeving die begint met een lach.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase7-a-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase7-c · Veere
+- **code:** VERHAAL-fase7-c
+- **fase:** 7 Barsten
+- **boek:** fasebogen
+- **hoofdpersoon:** Veere
+- **leeftijd_hoofdpersoon:** 
+- **geslacht_hoofdpersoon:** v
+- **romance:** nee
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** geur als bewijs
+- **noodoplossing:** half
+- **wie_betaalt:** Veere (rijk en opgejaagd)
+- **toon:** noir
+- **vorm:** noir zonder register
+- **afloop:** Veere leeft onder een andere naam in Orvane
+- **bron:** VERHAAL-fase7-c
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: misdaadverhaal zonder register: Veere verkoopt geen naam maar een geur (de inkt van Annike) aan een blinde Ordezuster. Afloop tragisch: de Stille Hand doodt de koper, niet Veere.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** Veere, in de derde persoon over zichzelf
+- **tempo:** één koude week
+- **beslisser_as:** Veere
+- **betaler_as:** Veere
+- **vervalst_as:** niets
+- **ontdekt_as:** n.v.t.
+- **schaal:** rijk
+- **herkenbaar:** denken dat je slim speelt tot je merkt dat je zelf de inzet bent.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase7-c-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase7-b · Dirk (en Annike)
+- **code:** VERHAAL-fase7-b
+- **fase:** 7 Barsten
+- **boek:** fasebogen
+- **hoofdpersoon:** Dirk (en Annike)
+- **leeftijd_hoofdpersoon:** 
+- **geslacht_hoofdpersoon:** m
+- **romance:** ja
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** redden van het verkeerde
+- **noodoplossing:** werkt
+- **wie_betaalt:** Dirk (de laatste kus); Veere
+- **toon:** opgejaagd, ironisch
+- **vorm:** nacht in kwartieren, tijdens de brand van het archief
+- **afloop:** het blad van Liora gered, maar het verkeerde blad
+- **bron:** VERHAAL-fase7-b
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Vorm: één kwartier per hoofdstuk, verteld door de Lampentoren; het archief is de hoofdpersoon. Dirk en Annike zijn handen die papier verplaatsen. Afloop: het blad van Liora wordt gered, maar het verkeerde blad.
+- **voorstel_status:** vastgesteld (BESLUIT-Z34-2)
+- **verteller:** Dirk, in de jij-vorm tegen Liora, die hij nooit ontmoet
+- **tempo:** kwartier per hoofdstuk
+- **beslisser_as:** Dirk
+- **betaler_as:** Dirk en Veere
+- **vervalst_as:** Dirks leugen
+- **ontdekt_as:** nee
+- **schaal:** dorp
+- **herkenbaar:** liegen tegen degene van wie je houdt om iemand anders te redden.
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** VERHAAL-fase7-b-Z35
+<!-- /REC -->
+<!-- REC boog -->
+### BOOG-boek1 · Liora van Hallowyn
+- **code:** BOOG-boek1
+- **fase:** 801 Heden
+- **boek:** boek 1
+- **hoofdpersoon:** Liora van Hallowyn
+- **leeftijd_hoofdpersoon:** 25
+- **geslacht_hoofdpersoon:** v
+- **romance:** ja
+- **erotische_sleutelscene:** ja
+- **terugkerend_motief:** register/vervalst register
+- **noodoplossing:** werkt (voorlopig: de derde weg)
+- **wie_betaalt:** Teo (zijn gave)
+- **toon:** queeste, dark fantasy
+- **vorm:** onbekend
+- **afloop:** de derde weg (voorlopig)
+- **bron:** PER-liora-profiel-Z32; BESLUIT-Z32-9; BESLUIT-Z32-11
+- **status:** afgeleid uit canon (Z33)
+- **voorstel:** Niet aanraken zonder besluit (Kern-rijen). Signaal: het register-motief piekt in boek 1; overweeg dat het vervalste register van Liora pas laat in het boek een rol speelt, zodat boek 1 niet nog een vervalsingsverhaal is maar een queeste.
+- **voorstel_status:** voorlopig
+- **verteller:** 
+- **tempo:** 
+- **beslisser_as:** Liora
+- **betaler_as:** Teo
+- **vervalst_as:** Liora's blad
+- **ontdekt_as:** ja
+- **schaal:** wereld
+- **herkenbaar:** 
+- **zintuig:** 
+- **haak:** 
+- **synopsis_code:** 
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase4-d-Z40 · Isolde Edrunsdochter
+- **code:** VERHAAL-fase4-d-Z40
+- **fase:** 4 Noodtoestand
+- **boek:** fasebogen
+- **hoofdpersoon:** Isolde Edrunsdochter
+- **leeftijd_hoofdpersoon:** 19
+- **geslacht_hoofdpersoon:** v
+- **romance:** nee
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** afkomst/verborgen blad
+- **noodoplossing:** werkt (met prijs)
+- **wie_betaalt:** Isolde (haar eigen blad) en Orvath
+- **toon:** koud, juridisch
+- **vorm:** drie zittingen: aanklacht, verweer, uitspraak
+- **afloop:** de dochter van de laatste koning staat in het register
+- **bron:** VERHAAL-fase4-d-Z40; IDEE-Z39-4
+- **status:** voorlopig (BESLUIT-Z40-5)
+- **voorstel:** 
+- **voorstel_status:** 
+- **verteller:** Isolde, jij-vorm tegen Saske
+- **tempo:** drie zittingen in één week
+- **beslisser_as:** Isolde
+- **betaler_as:** Isolde en Orvath
+- **vervalst_as:** Saskes leugen over een vader
+- **ontdekt_as:** ja
+- **schaal:** stad
+- **herkenbaar:** je eigen geheim prijsgeven om een ander voor te zijn
+- **zintuig:** natte inkt op een blad dat iedereen mag lezen
+- **haak:** Wie haar vader is, staat nu zwart op wit, en het klopt niet.
+- **synopsis_code:** VERHAAL-fase4-d-Z40
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase4-e-Z40 · Fenna Rekenaarster
+- **code:** VERHAAL-fase4-e-Z40
+- **fase:** 4 Noodtoestand
+- **boek:** fasebogen
+- **hoofdpersoon:** Fenna Rekenaarster
+- **leeftijd_hoofdpersoon:** 
+- **geslacht_hoofdpersoon:** v
+- **romance:** nee (Ruben houdt van een ander)
+- **erotische_sleutelscene:** nee
+- **terugkerend_motief:** rooster/rustmaanden
+- **noodoplossing:** faalt langzaam
+- **wie_betaalt:** Fenna
+- **toon:** teder en zakelijk
+- **vorm:** het rooster: kolommen en doorhalingen
+- **afloop:** Moeder Iris stelt de eerste vraag
+- **bron:** VERHAAL-fase4-e-Z40; IDEE-Z39-6
+- **status:** voorlopig (BESLUIT-Z40-5)
+- **voorstel:** 
+- **voorstel_status:** 
+- **verteller:** het rooster (kolommen, kantlijn van Fenna)
+- **tempo:** twaalf maanden, één bladzijde per maand
+- **beslisser_as:** Fenna
+- **betaler_as:** Fenna
+- **vervalst_as:** rustmaanden die niemand verdiende
+- **ontdekt_as:** bijna
+- **schaal:** dorp
+- **herkenbaar:** een kleine regel breken om iemand te sparen
+- **zintuig:** potloodkrassen en een uitgeveegde naam
+- **haak:** Ruben verwekt nooit een kind, en zij weet waarom hij blijft.
+- **synopsis_code:** VERHAAL-fase4-e-Z40
+<!-- /REC -->
+<!-- REC boog -->
+### VERHAAL-fase4-f-Z40 · Orvath de Moeras
+- **code:** VERHAAL-fase4-f-Z40
+- **fase:** 4 Noodtoestand
+- **boek:** fasebogen
+- **hoofdpersoon:** Orvath de Moeras
+- **leeftijd_hoofdpersoon:** 
+- **geslacht_hoofdpersoon:** m
+- **romance:** ja
+- **erotische_sleutelscene:** aangeduid (volwassen en kiezend)
+- **terugkerend_motief:** verborgen volk/slikgangen
+- **noodoplossing:** open
+- **wie_betaalt:** de Oevrin, als het uitkomt
+- **toon:** broeierig, dreigend
+- **vorm:** twee stemmen om en om, boven en onder water
+- **afloop:** open: de weigering of de liefde
+- **bron:** VERHAAL-fase4-f-Z40; IDEE-Z39-7
+- **status:** voorlopig (BESLUIT-Z40-5)
+- **voorstel:** 
+- **voorstel_status:** 
+- **verteller:** Orvath en Runa, afwisselend
+- **tempo:** één zomer, van springtij tot springtij
+- **beslisser_as:** Runa
+- **betaler_as:** de Oevrin
+- **vervalst_as:** niets (verzwegen)
+- **ontdekt_as:** nee
+- **schaal:** wereld
+- **herkenbaar:** een liefde die een volk kan verraden
+- **zintuig:** slik tot de knieën, zout op de huid
+- **haak:** De Oevrin hebben één man op twee en geen Zegel.
+- **synopsis_code:** VERHAAL-fase4-f-Z40
+<!-- /REC -->
+
+<!-- SECTIE: PERSONAGE -->

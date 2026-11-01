@@ -1,0 +1,41 @@
+## vraag.py intrige complot - 60
+Zuster Tine Telster | Saske Registerhoofd | ['PER-f4-veerman-dries'] | register | PER-f4-registerzuster-tine | PER-f4-saske
+Ondrea de Telster | Vain | ['PER-f4-clan-rover-gunnar'] | overleven | PER-ondrea | SIMF-390203-1
+Ondrea de Telster | Dries Pontbaas | ['PER-f4-clan-rover-gunnar'] | overleven | PER-ondrea | PER-f4-veerman-dries
+Vain | Dries Pontbaas | ['PER-f4-clan-rover-gunnar'] | overleven | SIMF-390203-1 | PER-f4-veerman-dries
+
+## vraag.py intrige chantage - 60
+Saske Registerhoofd | Ylva Kustroofster | REG-saelith | REG-saelith | 0 | PER-f4-saske | PER-f4-ylva
+Aaltje Zonderman | Brecht Weigerboerin | REG-ambergaard | REG-saelith | 20 | PER-f4-buurvrouw-aaltje | PER-f4-brecht
+Isolde Edrunsdochter | Saske Registerhoofd | REG-saelith | REG-saelith | 50 | PER-f4-dochter-edrun | PER-f4-saske
+Vain | Gunnar Bootsman | REG-saelith | REG-saelith | 17 | SIMF-390203-1 | PER-f4-clan-rover-gunnar
+Ylva Kustroofster | Gunnar Bootsman | REG-saelith | REG-saelith | 20 | PER-f4-ylva | PER-f4-clan-rover-gunnar
+Ondrea de Telster | Saske Registerhoofd | REG-saelith | REG-saelith | 22 | PER-ondrea | PER-f4-saske
+Saske Registerhoofd | Ondrea de Telster | REG-saelith | REG-saelith | 22 | PER-f4-saske | PER-ondrea
+Saske Registerhoofd | Gunnar Bootsman | REG-saelith | REG-saelith | 22 | PER-f4-saske | PER-f4-clan-rover-gunnar
+Vawen | Gunnar Bootsman | REG-zoutkust | REG-saelith | 22 | SIMF-390203-2 | PER-f4-clan-rover-gunnar
+Vawen | Saske Registerhoofd | REG-zoutkust | REG-saelith | 23 | SIMF-390203-2 | PER-f4-saske
+Ondrea de Telster | Gunnar Bootsman | REG-saelith | REG-saelith | 23 | PER-ondrea | PER-f4-clan-rover-gunnar
+Ondrea de Telster | Halvar de Gedeelde | REG-saelith | REG-ambergaard | 24 | PER-ondrea | PER-halvar
+Saske Registerhoofd | Brecht Weigerboerin | REG-saelith | REG-saelith | 24 | PER-f4-saske | PER-f4-brecht
+Vawen | Ondrea de Telster | REG-zoutkust | REG-saelith | 24 | SIMF-390203-2 | PER-ondrea
+Ondrea de Telster | Ylva Kustroofster | REG-saelith | REG-saelith | 27 | PER-ondrea | PER-f4-ylva
+
+## vraag.py intrige rivaliteit - 60
+Koning Edrun de Gedeelde | Ondrea de Telster | Dries Pontbaas | overleven | PER-f4-edrun | PER-ondrea | PER-f4-veerman-dries
+Growen | Clanmoeder Ravenna | Dries Pontbaas | overleven | SIMF-390203-3 | PER-f4-clanmoeder-hilde | PER-f4-veerman-dries
+Growen | Ylva Kustroofster | Dries Pontbaas | overleven | SIMF-390203-3 | PER-f4-ylva | PER-f4-veerman-dries
+Ondrea de Telster | Dries Pontbaas | Vawen | overleven | PER-ondrea | PER-f4-veerman-dries | SIMF-390203-2
+Dries Pontbaas | Ondrea de Telster | Vawen | overleven | PER-f4-veerman-dries | PER-ondrea | SIMF-390203-2
+Halvar de Gedeelde | Aaltje Zonderman | Brecht Weigerboerin | liefde | PER-halvar | PER-f4-buurvrouw-aaltje | PER-f4-brecht
+Ondrea de Telster | Vain | Dries Pontbaas | overleven | PER-ondrea | SIMF-390203-1 | PER-f4-veerman-dries
+Growen | Heske Halfgezicht | Dries Pontbaas | overleven | SIMF-390203-3 | PER-f4-grauwe-heske | PER-f4-veerman-dries
+Nevrik | Clanmoeder Ravenna | Dries Pontbaas | overleven | SIMF-390203-4 | PER-f4-clanmoeder-hilde | PER-f4-veerman-dries
+Heske Halfgezicht | Growen | Dries Pontbaas | overleven | PER-f4-grauwe-heske | SIMF-390203-3 | PER-f4-veerman-dries
+Dries Pontbaas | Joostrik | Vawen | overleven | PER-f4-veerman-dries | SIMF-390203-7 | SIMF-390203-2
+Joostrik | Dries Pontbaas | Vawen | overleven | SIMF-390203-7 | PER-f4-veerman-dries | SIMF-390203-2
+Heske Halfgezicht | Clanmoeder Ravenna | Dries Pontbaas | overleven | PER-f4-grauwe-heske | PER-f4-clanmoeder-hilde | PER-f4-veerman-dries
+Vela | Ylva Kustroofster | Dries Pontbaas | overleven | SIMF-390203-6 | PER-f4-ylva | PER-f4-veerman-dries
+
+## vraag.py intrige erfwrok - 60
+

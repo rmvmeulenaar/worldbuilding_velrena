@@ -1,0 +1,36 @@
+ROM|1|nerys-calden|Nerys en Calden|Een gevluchte zoutwerkster en een gekochte haremwachter. Belemmering: een wachter die een koningsvrouw aanraakt verliest zijn handen, en Nerys dient een orde die liegt. Eindigt met zijn dood bij de sluis.|PER-f1-nerys;PER-f1-calden;GEB-haremwet-ardemar
+ROM|1|wobke-garrit|Wobke en Garrit|Dijkvrouw en schuurheerzoon. Belemmering: clan tegen schuur, en zijn gearrangeerde huwelijk. Ze houden een liefde bij hoog water, elk voorjaar.|PER-f1-wobke;PER-f1-garrit;GEB-r10-delta-dijken
+ROM|1|lenne-merel|Lenne en Merel|Gifmengster en koningsvrouw in het badhuis. Belemmering: ze spioneren voor tegengestelde kanten. Verraad uit lust en uit liefde tegelijk.|PER-f1-lenne;PER-f1-merel;GEB-r10-ardemar-val
+ROM|1|sabe-korvin|Sabe en Korvin|Opstandelinge en belastinginner. Belemmering: ze staan aan twee kanten van de zoutopstand. Hij geeft haar cijfers, zij verraadt de tweede staking voor haar dochter.|PER-f1-sabe;PER-f1-korvin;GEB-r10-zoutopstand
+ROM|1|tilde-mareen|Tilde en Mareen|Twee weduwen, een kinderloos paar dat een vondeling opneemt. Belemmering: vrouwenliefde is in fase 1 geheim, en het kind is een koningszoon.|PER-f1-tilde-boer;GEB-r10-ardemar-val
+ROM|1|thalen-hofdame|Thalen en een sterfelijke hofdame|Een Aelthir-gezant die verliefd wordt op een hofdame van Ardemar I. Belemmering: hij zal haar met eeuwen overleven, en het hof wantrouwt de Aelthir.|PER-f1-aelthir-thalen;GEB-r10-eerste-kroon
+INTR|1|verzwegen-zonen|De verzwegen zonen|Oda laat zonen uit de harem als doodgeboren registreren, zodat de kroon zonder erfgenaam blijft en van de Zusters afhangt. Eerste bewijs dat registers macht zijn.|PER-f1-oda;PER-f1-ardemar-derde;GEB-r10-ardemar-val
+INTR|1|hessel-troon|Hessels greep naar de troon|Hessel koopt spionnen in de harem om zonen te vinden en te doden voor de Oogstnacht, en verkoopt in het geheim de schulden van de kroon.|PER-f1-hessel;PER-f1-lenne;PER-f1-askel;GEB-haremwet-ardemar
+INTR|1|graanmeester|De graanmeester en de dijken|Askel laat dijken verwaarlozen om tekorten en hoge prijzen te veroorzaken, met Hessel als beschermheer. Leidt tot de magere jaren.|PER-f1-askel;GEB-r10-graanjaren
+INTR|1|dhurn-ader|De verborgen ader|De Dhurn verbergen een ader van Sterrensteen voor de mensen-kroon en verkopen tunnels die instorten aan mijnheren.|PER-f1-dhurn-garra;GEB-r10-steenkoorts
+INTR|1|merel-dagboek|Merels dagboek|De tweede koningsvrouw houdt een dagboek van alle harem-geheimen en speelt het uit tegen Zusters en Hessel tegelijk.|PER-f1-merel;GEB-haremwet-ardemar
+INTR|1|kharvos-moeder|Hroths verborgen moeder|De stichter van het mannenrijk Kharvos verbergt de vrouw die hem opvoedde; zijn zoon ontdekt het en daagt hem uit.|PER-f1-karruk-hroth;GEB-kharvos-stam
+THRL|1|graanzolder|De vlucht uit de graanzolder|Klok: de nacht voor de Oogstnacht. Nerys smokkelt een pasgeboren zoon het paleis uit; achtervolging over de graankaden.|PER-f1-nerys;PER-f1-calden;PER-f1-wim-veer;GEB-r10-oogstnacht
+THRL|1|potje-stof|Het potje stof|Een mijnwerker vlucht door een sneeuwstorm met sterrenstof, met huurlingen op zijn hielen. Klok: vier dagen voorsprong.|PER-f1-brom;GEB-r10-steenkoorts
+THRL|1|gifmengster|Gif in de geboortezaal|Een gifmengster gaat de geboortezaal binnen; Nerys moet haar ontmaskeren voordat een kind sterft.|PER-f1-lenne;PER-f1-nerys;GEB-r10-ardemar-val
+THRL|1|dijkdoorbraak|De dijkdoorbraak|Askel opent een sluis om graan te laten verrotten; Wobke ontdekt het in de nacht van de vloed.|PER-f1-askel;PER-f1-wobke;GEB-r10-graanjaren
+THRL|1|zoutverraad|Wie verraadde de tweede staking?|Moordonderzoek binnen de opstand: een verrader onder de zoutwerksters; het spoor leidt naar Sabe.|PER-f1-sabe;PER-f1-sael-ondre;GEB-r10-zoutopstand
+THRL|1|bloedproef|De eerste bloedproef|In de Zusterburcht gebruikt Ildra bloed van gevangenen; een gevangene ontsnapt met haar notities.|PER-f1-ildra;GEB-r10-bloedkunde
+ROM|2|ysel-orric|Ysel en Orric|Een touwslagster en de eerste vonkdrager. Belemmering: gevangenschap, het melken door het hof, en zijn versteende lot.|PER-f2-ysel;PER-orric;GEB-r10-orric-kroon
+ROM|2|hanne-roel|Hanne en Roel|Krijgsvrouw en verlegen vonkdrager. Belemmering: zaadhonger maakt verlangen onbetrouwbaar.|PER-f2-hanne;PER-f2-roel;GEB-r10-eerste-strijdnacht
+ROM|2|ysel-hanne|Ysel en Hanne|Twee vrouwen die aan vonkdragers vastzitten vinden elkaar in de wasruimte. Belemmering: trouw aan hun mannen en de vraag wat binding is.|PER-f2-ysel;PER-f2-hanne;GEB-r10-zaadhonger
+ROM|2|mabbe-sorrel|Mabbe en Sorrel|Een oude kruidenvrouw en een Aelthir-geleerde. Belemmering: hij zweeg over Grijswortel; zij zal sterven, hij niet.|PER-f2-mabbe;PER-f2-aelthir-sorrel;GEB-r10-grijswortel
+ROM|2|tarn-ilka|Tarn en Vrouwe Ilka|Een verleidingsspel tussen twee spionnen. Belemmering: ieder liegt; toch is er echte begeerte.|PER-f2-tarn;PER-f2-vrouwe-ilka;GEB-r10-orric-kroon
+ROM|2|oll-hanne|Oll en een krijgsvrouw|Een Vathren-genezeres die zaadhonger meevoelt en verliefd wordt op een vrouw die ze geneest. Belemmering: de koorts van het meevoelen.|PER-f2-vathren-oll;GEB-r10-zaadhonger
+INTR|2|uitlevering|De uitlevering van Orric|Tarn onderhandelt met Saelith en drie mijnheren tegelijk en verkoopt zijn broer voor vrede en land.|PER-f2-tarn;PER-f2-dhurn-brakka;GEB-r10-orric-kroon
+INTR|2|selva|Selva's opklimming|Een kamerdame laat een diefstal gebeuren om haar bazin te vervangen.|PER-f2-selva;PER-f2-hofmeesteres-gerda;GEB-r10-zaadkruiken
+INTR|2|vonkmarkt|De vonkmarkt|Straatbendes, hofdames en handelaren verdelen de markt in nachten met vonkdragers.|PER-f2-straatvechtster-dorte;PER-f2-oevrin-glo;GEB-r10-vonkmarkt
+INTR|2|varnath-moeder|Varnaths moeder|Edwa probeert het hof te waarschuwen voor haar zoon en wordt door hem opgesloten.|PER-f2-varnath-moeder;PER-varnath;GEB-r10-varnath-opkomst
+INTR|2|qesh-koud|Waarom Qesh koud blijft|Amira houdt vonkdragers buiten haar stam en verzwijgt dat de woestijn de vonk dempt.|PER-f2-qesh-amira;GEB-r10-qesh-afwijking
+INTR|2|hagar|Hagars onvruchtbaarheid|Een vonkkoning verbergt dat hij onvruchtbaar is; zijn vrouwen spelen het uit.|PER-f2-vonkkoning-hagar;GEB-vonkkoningen
+THRL|2|kruikenroof|De kruikenroof|Klok: drie dagen voor het leger uitrukt. Wie steelt de zaadkruiken?|PER-maelis;PER-f2-selva;GEB-r10-zaadkruiken
+THRL|2|wasgoot|De ontsnapping door de wasgoot|Ysel haalt Orric tijdens de vonkmarkt door de wasgoot; Selva slaat alarm; Tarn aan de rivierpoort.|PER-f2-ysel;PER-orric;PER-f2-melkknecht-bas;GEB-r10-vonkmarkt
+THRL|2|skerra-storm|Het laatste bericht|Een Skerra-koerierster vliegt door een storm met de plannen van Ysels netwerk.|PER-f2-skerra-hilt;GEB-r10-zaadkruiken
+THRL|2|vonkdragerroof|De geroofde vonkdrager|Gorn roofde een vonkdrager uit een dorp; achtervolging door de bergen.|PER-f2-karruk-gorn;GEB-r10-zaadhonger
+THRL|2|slikgangen|De slikgangen|Zaadkruiken onder water vervoerd; een Oevrin-smokkelaar levert aan beide vonkkoningen.|PER-f2-oevrin-glo;GEB-r10-zaadkruiken
+THRL|2|vurige-dood|Hagar brandt|Een vonkkoning verbrandt van binnen tijdens een ontlading; wie saboteerde zijn ritueel?|PER-f2-vonkkoning-hagar;GEB-vonkkoorts

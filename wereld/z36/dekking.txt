@@ -1,0 +1,11 @@
+fase | beslisser | betaler | vervalser | ontdekker | profiteur | toeschouwe | liefde tus
+0 Voortijd | 1+0 | 0+3 | 0+3 | 0+3 | 0+3 | 0+3 | 0+3
+1 Overvloed | 1+0 | 2+0 | 0+3 | 0+3 | 0+3 | 0+3 | 1+0
+2 Vonk | 1+0 | 1+0 | 1+0 | 1+0 | 0+3 | 0+3 | 0+3
+3 Brand | 1+0 | 0+3 | 1+0 | 0+3 | 1+0 | 0+3 | 1+0
+4 Noodtoestand | 1+3 | 0+5 | 1+2 | 0+5 | 0+5 | 1+4 | 1+5
+5 Ontvangst | 0+3 | 1+0 | 1+0 | 1+0 | 1+0 | 0+3 | 0+3
+6 Markt | 0+4 | 0+4 | 0+5 | 1+2 | 1+1 | 1+2 | 1+1
+7 Barsten | 0+3 | 1+0 | 1+0 | 0+3 | 1+0 | 0+3 | 1+0
+801 Heden | 1+0 | 0+3 | 0+3 | 0+3 | 0+3 | 0+3 | 0+3
+(canon+ideeënbank; 0+0 is een gat)

@@ -1,0 +1,40 @@
+{
+ "toegevoegd": 0,
+ "vervangen": [
+  "GEB-sterrensteen-inslag",
+  "HAAK-V5-zegel-6",
+  "TOESTAND-Z15-PER-v4-thalen-orr-1",
+  "TOESTAND-Z15-PER-v4-thalen-orr-2",
+  "TOESTAND-Z16-PER-v4-thalen-orr-3"
+ ],
+ "aangevuld": [
+  "ORIGIN-8",
+  "PER-v4-thalen-orr",
+  "PER-v4-ysa-maren",
+  "PLEK-HEILIG-ves-anath",
+  "PLEK-ves-anath-ruines",
+  "REG-groenmuil",
+  "ROMAN-Z16-h01",
+  "ROMAN-Z16-h02",
+  "ROMAN-Z16-h03",
+  "ROMAN-Z16-h04",
+  "ROMAN-Z16-h05",
+  "ROMAN-Z16-h06",
+  "ROMAN-Z16-h09",
+  "ROMAN-Z16-h32",
+  "TOESTAND-Z15-PER-v4-thalen-orr-4",
+  "VERHAAL-Z16-novelle",
+  "YSA-Z15-1",
+  "YSA-Z16-11",
+  "YSA-Z16-12",
+  "YSA-Z16-17",
+  "YSA-Z16-18"
+ ],
+ "status": {
+  "vastgesteld": 1781,
+  "vervallen": 45,
+  "voorlopig": 4352,
+  "voorlopig, vervangen": 382
+ },
+ "totaal": 6560
+}

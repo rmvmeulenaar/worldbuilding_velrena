@@ -1,0 +1,23 @@
+PLEK-Z4-amber-3|paardenmest, ijs en rook|hoorns in de verte en wind in de kloof|ijzige wind die je wangen openhaalt|grauw licht tussen twee rotswanden|Een bergpas met een tolpost|de poort ging in 722 van binnen open en het slot is nooit vervangen|oorlog; verraad|Liora vindt in het slot een sleutel van Kaldra-staal
+PLEK-Z4-amber-5|gebraden vet en brandmerkgeur|kramers die schreeuwen en een registerkraai|keien glad van vet|zon op het schandpodium|Een marktstad op marktdag|de kraaien roepen namen van vóór 205|markt; straf|Een kraai roept Hesta's naam en een oude vrouw draait zich om
+PLEK-Z4-hoog-2|wierook in vrieskou|gezang in steen|witte adem en ijzige vloeren|blauw licht door ijs|Een klooster in de bergen|gebonden Dochters liggen er in nissen; afstoting 8|geheim; rouw|Een Dochter knippert naar Liora
+PLEK-Z4-hoog-4|ijzer, paarden en pek|het slaan van de wacht|kou door maliën|fakkels in sneeuw|Een grensvesting|Kaldra houdt een Kharvos-gezant als gast en gevangene tegelijk|militair; intrige|De gezant vraagt naar Liora bij naam
+PLEK-Z4-hoog-5|warm vlees en zoete rot|een stem die telt|een witte wortelknoop die ademt onder je hand; afstoting 9|bleek licht van binnenuit|Een kelder onder een kerk|de stem zegt Liora's naam voordat ze binnenkomt|finale; keuze|De stem wisselt midden in haar naam van toon
+PLEK-Z4-zout-2|rum en buskruit|honderd bellen in de wind|warme planken|oranje zeilen|Een piratenhaven|Ondessa verkoopt aan beide kanten|intrige; feest|Ondessa verkoopt Liora's route twee keer
+PLEK-Z4-groen-4|bloedwierook|zware trommels; afstoting 6|klamme hitte|rood lamplicht|Een donker hof|Morvane-ir regeert er met instemmende volwassenen als hofhouding (donker thema, gelabeld)|thriller|Morvane wil Liora als bondgenoot, niet als bezit
+PLEK-Z4-rosse-1|saffraan en koel water|fonteinen en zijde|koele tegels in de hitte|zon op koper|Een paleisstad in de woestijn|Khaled-Ir's hof is koud omdat het Zegel er zwak is|intrige; onderhandeling|Khaled-Ir speelt dubbel
+PLEK-Z4-rosse-2|ozon|een hoge toon|glas onder je voeten|witte gloed|Een krater|in het glas zit een lichaam|onthulling|Het lichaam draagt een uniform van de Ysa
+PLEK-Z4-rosse-3|kamelenmelk en rook|veel kinderen die lachen|koude nacht|sterrenhemel|Een tentkamp|het Zegel werkt hier niet: er worden evenveel jongens als meisjes geboren|ontdekking; gevaar|Een Orde-moordenares zit al in het kamp
+PLEK-Z4-rosse-4|zand en kameel|belletjes|koud putwater|witte middag|Een karavanserai|een put heeft een metalen deksel|smokkel|Onder het deksel brandt een lamp
+PLEK-Z4-stille-1|lavendel en was|zwijgen en het knopen van koorden|ruwe koorden|kaarslicht|Een klooster|elke knoop is een naam die de Orde wiste|geheim|Een koord van honderd knopen eindigt met Liora's moeder
+PLEK-Z4-stille-3|zee en wind|vrouwenzang|warm zand|zilveren zee|Een eiland|toevlucht voor wie weigert|rust; romance|Een boot met mannen legt aan
+PLEK-Z4-stille-4|inkt en kaars|ritselend perkament|koude bladzijden|kaarslicht|Een bibliotheek|hier liggen de echte annalen|onthulling|Een kopie lekt naar Varenne
+PLEK-Z4-kharvos-1|kolenrook en olie|hamers en een zoemende voorsteven|warme vloer|vonken|Een industriestad|de stad draait op de Harrow-kern|sciencefiction; politiek|De machine stopt één tel
+PLEK-Z4-kharvos-3|parfum en kaarsen|fluisteren|koud glas|spiegels die licht vermenigvuldigen|Een spionagehuis|Ves-Lethi werken er met geleende gezichten|intrige|Een spiegel spreekt
+PLEK-Z4-kharvos-5|wormengeur en slijm|een traag kloppen|warm slijm; afstoting 8|groen licht van slaapcapsules|Een scheepswrak in een worm|achtersteven met slapers|body horror|Een slaper wordt wakker
+PLEK-Z4-nm-1|ijle lucht en veren|wind en fluitroepen|kou|helder licht|Klifnesten|wie de Skerra heeft heeft het nieuws|spionage|Een nest ziet de ster draaien
+PLEK-Z4-nm-2|hitte en ozon|zingend kristal|hete wanden|gloed|Een groeve|levende Sterrensteen|body horror; rouw|Een gebonden voorouder roept
+PLEK-Z4-nm-3|natte klei|reuzenzang|trillende dijk|grijs|Een dijk|een levende wal van reuzen|oorlog|Een reus weigert
+PLEK-Z4-nm-4|rotte bladeren en zoete zwam|gezoem|zachte grond|zwamlicht|Een grafveld|het geheugen van de wereld|onthulling|Het net onthoudt de stemming
+PLEK-Z4-nm-5|dauw en bloemen|stilte|koel mos|schemer|Een woud|oud geheugen|verleiding|Ze herinneren de stemming
+PLEK-Z4-nm-7|as, zout en glas|wind door ruïnes|glas dat snijdt|grijs licht|Een verboden stad|Glasbroeders leven in de ruïnes|tragedie|Een Glasbroeder kent Liora's bloed

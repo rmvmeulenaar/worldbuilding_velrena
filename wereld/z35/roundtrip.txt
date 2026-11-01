@@ -1,0 +1,27 @@
+canon: 7003 rijen, 30 kolommen, verschillen 0
+wrijving: 257 rijen, 7 kolommen, verschillen 0
+open_vraag: 79 rijen, 6 kolommen, verschillen 0
+logboek: 147 rijen, 2 kolommen, verschillen 0
+veiligheid_varianten: 11 rijen, 4 kolommen, verschillen 0
+verwijzing: 25226 rijen, 4 kolommen, verschillen 0
+historie: 10459 rijen, 4 kolommen, verschillen 0
+handleiding: 25 rijen, 3 kolommen, verschillen 0
+schema_versie: 5 rijen, 2 kolommen, verschillen 0
+anker: 69 rijen, 6 kolommen, verschillen 0
+naam_markering: 52 rijen, 7 kolommen, verschillen 0
+toets_uitzondering: 201 rijen, 5 kolommen, verschillen 0
+wijziging: 8056 rijen, 8 kolommen, verschillen 0
+regel: 30 rijen, 8 kolommen, verschillen 0
+boog: 30 rijen, 29 kolommen, verschillen 0
+personage: 35 rijen, 14 kolommen, verschillen 0
+zaadje: 32 rijen, 6 kolommen, verschillen 0
+relatie: 27554 rijen, 4 kolommen, verschillen 0
+anker_kopie: 48 rijen, 6 kolommen, verschillen 0
+sjabloon_familie: 138 rijen, 6 kolommen, verschillen 0
+sjabloon_lid: 4547 rijen, 3 kolommen, verschillen 0
+personage_toestand: 1377 rijen, 17 kolommen, verschillen 0
+levensduur: 3 rijen, 5 kolommen, verschillen 0
+fase_rijm: 9 rijen, 17 kolommen, verschillen 0
+kernscene: 60 rijen, 4 kolommen, verschillen 0
+keuze: 101 rijen, 9 kolommen, verschillen 0
+views gelijk: True ['v_actief', 'v_actief_anker', 'v_anker', 'v_dode_links', 'v_herkomst_gat', 'v_ideeenbank', 'v_impact', 'v_kern', 'v_mal', 'v_open', 'v_personage_gat', 'v_personage_tijdlijn', 'v_rijm', 'v_schrijfpakket', 'v_sjabloon', 'v_zaadje_open']

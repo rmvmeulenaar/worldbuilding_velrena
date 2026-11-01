@@ -1,0 +1,42 @@
+# 801 Heden: volken aelthir, dhurn, grauwen, ishvar, karrûk, kluwer, mens, myrrhen, oevrin, orrim, sael-mor, skerra, tharn, vathren, ves-lethi; bestaande bogen 1, eerdere profielen 16
+gewichten: verbondenheid 0.30, seriewaarde 0.25, nieuwheid 0.20, lezersvraag 0.15, kosten 0.10
+kandidaten na filters: 3966; afgevallen: {'rijm': 21, 'R-verhaal_afstand': 13}
+
+## 4 profielen (farthest-point, eerst alle zeven posities, daarna marginale winst)
+
+1. VP-801-478c390d | betaler | survival | rijk | dhurn | brieven | faalt | 61+|m
+    genre: rom0 ero0 hor2 sus3 act3 int0 kom0 tra4
+    doelen: nieuwheid 0.86, verbondenheid 0.78, seriewaarde 0.60, lezersvraag 0.40, kosten 0.36; marginale winst 0.680
+    raakt: ERF-voortijd; zaadje ZAAD-VERHAAL-fase7-b; wereldregel/rite SEKS-VOLK-dhurn-steenlust; drager PER-dhurn-tavik
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+    seriewaarde: via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+    premisse: (geen: geen premisse: met de hand te schrijven uit de geraakte rijen (BESLUIT-Z38-12))
+    gevoeligheid: robuust (blijft in de top-3 bij alle 10 verschuivingen van ±10%)
+
+2. VP-801-4f8cb269 | ontdekker | horror | stad | grauwen | brieven | keert om | 26-40|m
+    genre: rom0 ero0 hor5 sus5 act1 int0 kom0 tra2
+    doelen: nieuwheid 0.86, verbondenheid 0.95, seriewaarde 0.00, lezersvraag 0.50, kosten 0.30; marginale winst 0.601
+    raakt: ERF-barsten; zaadje ZAAD-VERHAAL-fase7-a; wereldregel/rite SEKS-VOLK-grauwen-zorgparen; drager PER-grauwen-vell
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+    seriewaarde: raakt geen hoofdlijnrij (ook niet via een relatie)
+    premisse: (geen: geen premisse: met de hand te schrijven uit de geraakte rijen (BESLUIT-Z38-12))
+    gevoeligheid: robuust (blijft in de top-3 bij alle 10 verschuivingen van ±10%)
+
+3. VP-801-43f26372 | beslisser | intrige | huis | orrim | ballade | blijft verborgen | 26-40|m
+    genre: rom0 ero0 hor0 sus2 act0 int5 kom0 tra1
+    doelen: nieuwheid 0.86, verbondenheid 0.61, seriewaarde 0.00, lezersvraag 0.55, kosten 0.14; marginale winst 0.524
+    raakt: ERF-barsten; zaadje -; wereldregel/rite SEKS-VOLK-orrim-slijpers; drager PER-orrim-sha
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+    seriewaarde: raakt geen hoofdlijnrij (ook niet via een relatie)
+    premisse: Sha Kristalader wil haar volk beschermen tegen de oogst en valt een kamp van de Orde aan. Om het lek te dichten zoekt de Orde meer Sterrensteen om hem te binden, en die zit in haar eigen lichaam; elke aanval brengt de oogsters dichter bij wat ze werkelijk zoeken.
+    gevoeligheid: robuust (blijft in de top-3 bij alle 10 verschuivingen van ±10%)
+
+4. VP-801-d6c30784 | profiteur | intrige | dorp | aelthir | rechtszaak | werkt | 41-60|v
+    genre: rom1 ero5 hor0 sus2 act0 int5 kom1 tra1
+    doelen: nieuwheid 0.86, verbondenheid 0.61, seriewaarde 0.00, lezersvraag 0.55, kosten 0.32; marginale winst 0.506
+    raakt: ERF-barsten; zaadje -; wereldregel/rite SEKS-VOLK-aelthir-snellen; drager PERS-Z4-aelthir-7-1
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+    seriewaarde: raakt geen hoofdlijnrij (ook niet via een relatie)
+    premisse: (geen: geen premisse: met de hand te schrijven uit de geraakte rijen (BESLUIT-Z38-12))
+    gevoeligheid: robuust buiten de top-3 (10 verschuivingen)
+

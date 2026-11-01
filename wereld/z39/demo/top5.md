@@ -1,0 +1,9 @@
+# Top-5 runs fase 4 (storyteller: Pareto-rang, dan gewichtset "lancering serie")
+
+| # | run | seed | rang | gewogen | intrige | ommekeer | verbinding | rijm | doelmatch | instituten (jaar) |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Z39-F4-0203 | 390203 | 1 | 0.5563 | 163 | 149 | 11 | 3/4 | 0.56 | eerste register: wie is wien 17, Jongenshof gesticht 22, Ambergaard weigert te delen  27, Deelwet afgekondigd 27, rooster: mannen reizen in va 56, de Zusters heten voortaan de 70, De eilanden houden hun eigen 85 |
+| 2 | Z39-F4-0731 | 390731 | 1 | 0.5471 | 156 | 150 | 11 | 3/4 | 0.58 | eerste register: wie is wien 24, Ambergaard weigert te delen  29, Deelwet afgekondigd 29, Jongenshof gesticht 41, rooster: mannen reizen in va 50, de Zusters heten voortaan de 59, De eilanden houden hun eigen 85 |
+| 3 | Z39-F4-0539 | 390539 | 1 | 0.5427 | 140 | 159 | 11 | 3/4 | 0.55 | Deelwet afgekondigd 27, inteeltramp in een dorp zond 34, inteeltramp in een dorp zond 38, inteeltramp in een dorp zond 40, inteeltramp in een dorp zond 41, inteeltramp in een dorp zond 42, eerste register: wie is wien 42, Jongenshof gesticht 51, rooster: mannen reizen in va 55, de Zusters heten voortaan de 62, De eilanden houden hun eigen 85 |
+| 4 | Z39-F4-0527 | 390527 | 1 | 0.5358 | 127 | 115 | 12 | 3/4 | 0.59 | Ambergaard weigert te delen  33, Deelwet afgekondigd 33, inteeltramp in een dorp zond 36, inteeltramp in een dorp zond 38, eerste register: wie is wien 38, Jongenshof gesticht 49, rooster: mannen reizen in va 53, de Zusters heten voortaan de 60, De eilanden houden hun eigen 86 |
+| 5 | Z39-F4-0214 | 390214 | 1 | 0.5351 | 166 | 139 | 11 | 3/4 | 0.55 | Ambergaard weigert te delen  27, Deelwet afgekondigd 27, eerste register: wie is wien 30, rooster: mannen reizen in va 49, Jongenshof gesticht 59, de Zusters heten voortaan de 61, De eilanden houden hun eigen 85 |

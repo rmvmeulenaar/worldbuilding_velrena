@@ -1,0 +1,25 @@
+CUL-zwangerschap-anticonceptie-onvruchtbaarheid|maankruid, bitter en groen|een vroedvrouw die neuriet|warme buik onder koude handen|lamp|maankruid kleurt de tong groen, dus krijgsvrouwen herken je aan hun lach|Een krijgsvrouw heeft geen groene tong
+DAG-gezondheid|kruiden en kamfer|hoesten|koortsige huid|lamp|heelsters ruiken een ziekte voor ze hem zien|Een heelster ruikt iets nieuws
+D1-karruk-ziekte|zweet en bloed|ijlen|hete spieren|vuur|vechtkoorts komt na te veel overwinningen|Een kampioen krijgt het na één gevecht
+D1-dhurn-ziekte|natte kalk|een droge hoest|zware borst|mijnlicht|steenlong maakt je adem zichtbaar als stof|Een kind hoest stof
+D1-sael-mor-ziekte|zout|krakende knieën|koude benen|zeelicht|zeebeen maakt dat je op land wankelt|Een kapitein kan niet meer staan
+D1-grauwen-ziekte|veen|stilte|gevoelloze huid|grijs|lijnverval begint bij de tast|Een Grauwe voelt haar kind niet meer
+D1-ishvar-ziekte|zand|gefluister|branden in de ogen|witte zon|zonblindheid wordt gezien als zegen|Een blinde ziet de ster bewegen
+D1-vathren-ziekte|wierook|een hart dat te snel slaat|hete borst|kaars|hartslagkoorts laat je de harten van anderen horen|Een zieke hoort een hart in de muur
+D1-kluwer-ziekte|zure was|stilte|koude raat|donker|korfstilte doodt een hele korf|Eén werkster blijft gonzen
+D1-myrrhen-ziekte|brand en rot|knetteren|hete zwam|rook|brandrot verspreidt zich door het net|Het net vergeet een herinnering
+D1-tharn-ziekte|klei|krakende botten|zware ledematen|grijs|botgroei: reuzen die niet stoppen; afstoting 6|Een reus groeit door de dijk
+D1-orrim-ziekte|ozon|barstend kristal|pijn; afstoting 7|dof licht|barstziekte laat Orrim versplinteren|Een splinter zingt nog
+D1-skerra-ziekte|wind|krakende veren|holle pijn|helder|holbot breekt bij een landing|Een Skerra durft niet meer te landen
+D1-ves-lethi-ziekte|niets|stilte|huid die niet meer verschuift|maan|vormverlies: vast in één gezicht|Het gezicht is van een vijand
+ZIEKTE-zaadslijtage|lelies en ijzer|gezucht|gouden aderen onder de huid|goudglans|zaadslijtage glanst bij kaarslicht|Een vrouw verbergt haar aderen met as
+ZIEKTE-leegteziekte|koude lucht|trillende handen|koude huid|bleek|de honger van de Leegte ruikt naar niets|Een zieke ruikt weer brood
+ZIEKTE-inteelt|zure melk|een kind dat niet huilt (geen seksuele inhoud)|zachte botten|lamp|inteelt is de gothic erfzonde van de oude huizen|Een huis verbergt een kelder
+ZIEKTE-pesten|zoete appels|hoesten|builen; afstoting 8|bleek|de twee Pesten ruiken verschillend: appel en ijzer|Een derde geur
+GENEES-heelsters|kamfer en kruiden|een vijzel|warme handen|lamp|heelsters zweren niets te registreren|Een heelster registreert toch
+GENEES-melkdokter|melk en kalk|emmers|koude handen|stallicht|de melkdokter behandelt koeien en mannen met dezelfde zalf|Een man weigert de zalf
+D1-aelthir-ziekte|geen geur meer|stilte|gevoelloze huid|schemer|het Vervagen begint bij geur|Een Aelthir ruikt een bloem en huilt
+ZIEKTE-leegteziekte|kou|tandengeklapper|breekbare botten; afstoting 6|bleek|na jaren vallen de tanden uit|Een zieke bewaart zijn tanden in een doosje
+DAG-gezondheid|zeep en kalk|een tempelbel|koele lakens|wit|tempelheelsters voor de rijken werken met zegelsteen|De steen geneest en neemt
+GENEES-heelsters|bloed en kruiden|een gil|warm bloed|kaars|een heelster hecht met haar eigen haar|Het haar groeit door
+ZIEKTE-zaadslijtage|ijzer|gevoelige zenuwen|altijd opgewonden zenuwen|goud|zaadslijtage maakt elke aanraking te veel|Een vrouw wil niet meer aangeraakt worden

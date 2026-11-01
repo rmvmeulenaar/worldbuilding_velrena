@@ -1,0 +1,24 @@
+WEIGERT | hoofdpersoon 16 | harde lijn: hoofdpersoon jonger dan 18
+WEIGERT | dier als partner bij erotiek | harde lijn: dier of minderjarige in een seksuele rol
+WEIGERT | minderjarige partner | harde lijn: dier of minderjarige in een seksuele rol
+WEIGERT | kan niet instemmen | harde lijn: seks met wie echt niet kan instemmen
+WEIGERT | dwang zonder label | harde lijn: dwang zonder label donker thema
+WEIGERT | erotiek zonder wereldregel | wereld: erotiek zonder bestaande wereldregel of rite (code)
+WEIGERT | volk bestaat niet in fase 4 (myrrhen) | Kern/wereld: volk myrrhen bestaat niet in 4 Noodtoestand (personage_profiel)
+WEIGERT | kopie van een boog (afstand < 3) | R-verhaal_afstand: afstand 1 tot VERHAAL-fase6-Z32
+WEIGERT | onbekende vorm | as vorm: waarde sonnet niet toegestaan (verhaal_as)
+controle goed profiel: door alle filters
+toets.py op een db met een slecht profiel dat buiten de machine om is ingevoegd: exit 1
+Nieuwe fouten: 3 {'profiel_harde_lijn': 3}
+- NIEUW [profiel_harde_lijn] VP-TEST-slecht: hoofdpersoon jonger dan 18 of zonder leeftijd
+- NIEUW [profiel_harde_lijn] VP-TEST-slecht: dier of minderjarige in een seksuele rol
+- NIEUW [profiel_harde_lijn] VP-TEST-slecht: erotiek zonder wereldregel
+UITSLAG: alle foute profielen geweigerd
+
+# Doelprofiel dat niet kan (erotiek 5, horror 5, komedie 5 tegelijk):
+# 6 Markt: volken aelthir, dhurn, grauwen, ishvar, karrûk, kluwer, mens, myrrhen, oevrin, orrim, sael-mor, skerra, tharn, vathren; bestaande bogen 4, eerdere profielen 20
+gewichten: verbondenheid 0.30, seriewaarde 0.25, nieuwheid 0.20, lezersvraag 0.15, kosten 0.10; doelprofiel onmogelijk (min erotiek>=5, horror>=5, komedie>=5)
+kandidaten na filters: 0; afgevallen: {'doelprofiel-minimum': 3875, 'rijm': 91, 'R-verhaal_afstand': 34}
+
+## 0 profielen (farthest-point, eerst alle zeven posities, daarna marginale winst)
+

@@ -1,0 +1,30 @@
+{
+ "toegevoegd": 0,
+ "vervangen": [
+  "TOESTAND-Z11-PER-v4-thalen-orr-1",
+  "TOESTAND-Z11-PER-v4-thalen-orr-2",
+  "TOESTAND-Z11-PER-v4-thalen-orr-3"
+ ],
+ "aangevuld": [
+  "BESLUIT-Z12-wortelstem",
+  "HELD-SKELET-Z10-10",
+  "HORROR-Z9-2",
+  "OORLOG-Z9-1",
+  "ORIGIN-WAAROM-12",
+  "PER-v4-hesta-kael",
+  "PER-v4-thalen-orr",
+  "PER-v4-ysa-maren",
+  "ROMANCE-SKELET-Z10-10",
+  "ROMANCE-Z10-23",
+  "VERHAALTIJD-Z11-1",
+  "YSA-Z15-5"
+ ],
+ "beats": 22,
+ "status": {
+  "vastgesteld": 1759,
+  "vervallen": 45,
+  "voorlopig": 4284,
+  "voorlopig, vervangen": 350
+ },
+ "integriteit": "ok"
+}

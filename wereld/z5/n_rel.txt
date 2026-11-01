@@ -1,0 +1,25 @@
+ORDE-doel-geloof|wierook en lelies|gezang|koele tempel|kaarsen|verlangen is gebed, dus tempels ruiken naar huid|Een tempel ruikt naar angst
+ORDE-rol-orde|inkt en wierook|krassende pennen|koud perkament|lamp|priesteressen ruiken naar inkt|Een priesteres ruikt naar hooi
+GOD-vael|ozon|donder|warmte|gloed|Vael wordt vereerd met vuur|Een beeld van Vael draagt een uniform
+GOD-wrede-vaders|zwavel|brullen|hitte|rood|de Wrede Vaders zijn herinneringen aan de vonkkoningen|Een masker is echt
+GOD-leegte-godheid|niets|stilte|kou|duister|de Leegte heeft geen geur|Een Leegte-priesteres ruikt naar het schip
+GOD-dochters-heiligen|lelies|honderd stemmen|koude nissen|zegellicht|de Honderd Dochters zijn heiligen die nog leven; afstoting 7|Eén Dochter fluistert
+GOD-sterrensteen-heilig|ozon|een hartslag|warme steen|gloed|de Gevallen Ster wordt aanbeden als hart|Het hart slaat sneller bij Liora
+LEER-verlangen-gebed|huid en wierook|zuchten|warme huid|kaars|wie verlangt, bidt|Een priesteres verlangt niet en twijfelt
+LEER-hiernamaals|koude wierook|klokken|kou|wit|het hiernamaals is in het Zegel|Een stem zegt dat het klopt
+LEER-zonde-boete|as|geselslagen|striemen|kaars|boete wordt gedaan in koud water|Een boetelinge blijft warm
+LEER-gelofte-onherroepelijk|wierook|een eed|koude steen|kaars|een gelofte is onherroepelijk|Een gelofte wordt toch gebroken
+GELOOF-fase-1|oogst en bloemen|oogstzang|warme velden|zon|in fase 1 is Ysa een oogstgodin|Een oude oogstgodin keert terug
+GELOOF-fase-7|goedkope wierook|een halflege tempel|koude banken|flakkerende kaars|in fase 7 twijfelt het volk|Een priesteres lacht in de dienst
+ORDE-tempelwacht|ijzer en olie|laarzen|koud staal|fakkels|de tempelwacht ruikt naar olie|Hun wapens komen uit Kharvos
+SEKTE-vleesgemeente|bloed en vlees|kreunen|warm vlees; afstoting 8|rood|de Vleesgemeente aanbidt het lichaam als prijs|Een lid geneest
+SEKTE-wortelbroeders|aarde|gefluister|wortels|bleek|de Wortelbroeders eten grijswortel|Ze horen Thalen
+SEKTE-lampenwakers|olie|zoemen|warme lamp|lamplicht|Lampenwakers bewaken de lampen|Een lamp dooft bij een lek
+FEEST-lege-dag|niets|stilte|koude stad|grijs|op de Lege Dag eet niemand|Iemand eet
+FEEST-lampenfeest|olie en bier|gezang|warme nacht|duizend lampen|duizend lampen tonen de gloed|Eén lamp toont een lek
+FEEST-oogstnacht|stro en bier|dansen|warme nacht|lantaarns|Oogstnacht is vrije keuze tussen volwassenen|Een keuze is gekocht
+PLEK-HEILIG-ijsgraf|wierook en ijs|gezang|kou|blauw|Ijsgraf bewaart Dochters|Een Dochter knippert
+VOORW-register|inkt|een pen|koud perkament|lamp|het Grote Register is vervalst sinds 205|Een bladzijde is echt
+VOORW-lampen|olie en ozon|zoemen|warm glas|lamplicht|Ysa-lampen doven bij lekken|Een lamp gloeit bij Liora
+VOORW-halsband|leer en metaal|klikken|koude band|glans|de gewijde halsband wordt gedragen met instemming|Een band is gesloten zonder
+DOOD-orde-asgang|as|gezang|warme as|kaarsen|de as gaat in het brood|Een rouwende proeft haar moeder

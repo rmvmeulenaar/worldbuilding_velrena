@@ -1,0 +1,6 @@
+# Toets canon.db
+Regels gedraaid: 33 (fout: 26, signaal: 7)
+Nieuwe fouten: 0 {}
+Bekend (geregistreerd met wrijving): 149 {'harde_grens': 2, 'anker': 1, 'kern_zonder_bron': 6, 'kern_leunt_op_kleur': 140}
+Signalen (laten de ronde niet falen): 1886 {'structuur_zonder_bron': 1310, 'structuur_leunt_op_kleur': 522, 'zaadje_open': 28, 'boog_onbekend': 12, 'herhaling_categorie': 14}
+

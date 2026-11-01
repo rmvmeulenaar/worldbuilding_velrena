@@ -1,0 +1,2 @@
+# Ronde Z26: de telling 3.454 (Rogier: leg alles vast, 2026-10-31)
+Leg vast als vastgesteld (BESLUIT-Z26-n): Reckoner voorspelde 31,4% van ~11.000 = 3.454 (h5, h15); de doden buiten ring drie (ring twee bij de junction, drie mannen E-7, twee bij gevecht C-4) waren vooraf meegeteld; h16 "To the person" inclusief die vijf, nieuwe regel h16; overlevenden 7.546. [Z26]-notitie bij ROMAN-Z16-h16. WRIJ-Z26-1 opgelost. Nooit verwijderen. Daarna genereer.py, export.py, importeer.py roundtrip, grep, canon_lees.db.

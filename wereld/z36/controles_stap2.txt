@@ -1,0 +1,6 @@
+test fase 4 (run Z36-03): 20 profielen; kleinste onderlinge afstand 5, gemiddeld 6.21; posities: {'toeschouwer': 4, 'liefde tussen posities': 5, 'vervalser': 2, 'beslisser': 3, 'ontdekker': 2, 'profiteur': 2, 'betaler': 2}
+demo bedenk 6: profielen 10 | allen erotiek>=4 en suspense>=4: True | allen een wereldregel met code: True | gevoeligheid getoond: 10
+  wereldregel-codes bestaan: True
+pareto fase 4: 2899 kandidaten, eerste front 25; front-profielen die door een kandidaat op alle doelen verslagen worden: 0
+gewichten in doel: [('nieuwheid', 0.2, 'aanname (startwaarde lancering serie, opdracht_Z35.md 9b.3)'), ('verbondenheid', 0.3, 'aanname (startwaarde lancering serie)'), ('seriewaarde', 0.25, 'aanname (startwaarde lancering serie)'), ('lezersvraag', 0.15, 'aanname tot er lezersdata is'), ('kosten', 0.1, 'aanname (startwaarde lancering serie)'), ('genrematch', 0.2, 'aanname: per doelprofiel 0,20 erbij, de rest naar rato x 0,8')]
+gewichtset: [('lancering serie', '2026-11-01', 'startwaarde', 'voorlopig')]

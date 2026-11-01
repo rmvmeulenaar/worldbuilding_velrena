@@ -1,0 +1,377 @@
+<title>Velmara Knopenkaart</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: weefsel van fasekolommen links, leespaneel rechts; tabs voor controle en entpunten */
+:root{
+  --bg:#eef1ee; --paper:#f8faf7; --ink:#1b2422; --muted:#5d6b67; --line:#cfd8d4;
+  --accent:#1f7a72; --hl:#c2410c;
+  --g-boog:#1f7a72; --g-verhaal:#2f5fa8; --g-haak:#7b4fb0; --g-profiel:#7a7f1f; --g-roman:#8a6a52; --g-idee:#8794a0;
+  --fout:#c0262d; --signaal:#c98a0b; --ok:#2e7d4f;
+  --f-display:"IM Fell English", Georgia, serif;
+  --f-body:"IBM Plex Sans", system-ui, sans-serif;
+  --f-mono:"IBM Plex Mono", ui-monospace, monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#111816; --paper:#18211f; --ink:#e3ebe7; --muted:#93a39e; --line:#2c3935;
+  --accent:#4fb8ad; --hl:#fb923c;
+  --g-boog:#4fb8ad; --g-verhaal:#6f9be0; --g-haak:#b18ae0; --g-profiel:#bcc14a; --g-roman:#c49b7c; --g-idee:#7d8a95;
+  --fout:#f0626a; --signaal:#e8b13c; --ok:#5cc28a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#111816; --paper:#18211f; --ink:#e3ebe7; --muted:#93a39e; --line:#2c3935;
+  --accent:#4fb8ad; --hl:#fb923c;
+  --g-boog:#4fb8ad; --g-verhaal:#6f9be0; --g-haak:#b18ae0; --g-profiel:#bcc14a; --g-roman:#c49b7c; --g-idee:#7d8a95;
+  --fout:#f0626a; --signaal:#e8b13c; --ok:#5cc28a; color-scheme:dark}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:14px;line-height:1.5}
+.wrap{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 40px;max-width:1500px;margin:0 auto;display:flex;flex-direction:column;gap:18px}
+header{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 18px}
+h1{font-family:var(--f-display);font-weight:400;font-size:32px;margin:0;text-wrap:balance}
+header p{margin:0;color:var(--muted);max-width:70ch}
+.tal{display:flex;flex-wrap:wrap;gap:8px}
+.tal div{background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:8px 12px;min-width:120px}
+.tal b{display:block;font-size:20px;font-variant-numeric:tabular-nums;font-weight:600}
+.tal span{font-size:12px;color:var(--muted)}
+.tal .f b{color:var(--fout)} .tal .s b{color:var(--signaal)} .tal .o b{color:var(--ok)}
+nav{display:flex;gap:4px;border-bottom:1px solid var(--line);flex-wrap:wrap}
+nav button{font:inherit;background:none;border:0;border-bottom:2px solid transparent;padding:8px 14px;color:var(--muted);cursor:pointer}
+nav button[aria-selected="true"]{color:var(--ink);border-color:var(--accent);font-weight:600}
+nav button:focus-visible,button:focus-visible,input:focus-visible,.klik:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.weefsel{display:grid;grid-template-columns:minmax(0,1fr) 420px;gap:18px;align-items:start}
+@media (max-width:980px){.weefsel{grid-template-columns:1fr}}
+.doek{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:12px;min-width:0;display:flex;flex-direction:column;gap:10px}
+.balk{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center}
+#zoek{font:inherit;padding:6px 10px;border:1px solid var(--line);border-radius:5px;background:var(--bg);color:var(--ink);width:min(280px,100%)}
+.leg{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:12px;color:var(--muted)}
+.leg i{display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:4px;vertical-align:-1px}
+.leg .r{background:none;border:2px solid var(--fout)} .leg .a{background:none;border:2px solid var(--signaal)}
+.scroll{overflow-x:auto}
+canvas{display:block;cursor:pointer}
+.hint{font-size:12px;color:var(--muted);margin:0}
+aside{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:16px;display:flex;flex-direction:column;gap:12px;min-width:0;position:sticky;top:calc(env(safe-area-inset-top,0px) + 12px);max-height:calc(100vh - 24px);overflow:auto}
+@media (max-width:980px){aside{position:static;max-height:none}}
+aside h2{font-family:var(--f-display);font-weight:400;font-size:22px;margin:0;line-height:1.2;text-wrap:balance}
+.code{font-family:var(--f-mono);font-size:12px;color:var(--muted);word-break:break-all}
+.chips{display:flex;flex-wrap:wrap;gap:5px}
+.chip{font-size:11.5px;padding:2px 8px;border-radius:99px;border:1px solid var(--line);color:var(--muted)}
+.chip.f{border-color:var(--fout);color:var(--fout)} .chip.s{border-color:var(--signaal);color:var(--signaal)} .chip.o{border-color:var(--ok);color:var(--ok)}
+.tekst{margin:0;max-width:65ch}
+dl{display:grid;grid-template-columns:max-content minmax(0,1fr);gap:3px 12px;margin:0;font-size:13px}
+dt{color:var(--muted)} dd{margin:0}
+h3{font-size:11.5px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:4px 0 0;font-weight:600}
+ul.lijst{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:2px}
+.klik{display:flex;gap:8px;align-items:baseline;padding:4px 6px;border-radius:4px;cursor:pointer;background:none;border:0;font:inherit;color:inherit;text-align:left;width:100%}
+.klik:hover{background:var(--bg)}
+.klik .n{margin-left:auto;font-variant-numeric:tabular-nums;color:var(--muted);font-size:12px;white-space:nowrap}
+.dot{width:8px;height:8px;border-radius:50%;flex:none;transform:translateY(-1px)}
+.meld{font-size:13px;padding:6px 10px;border-left:3px solid var(--signaal);background:var(--bg);border-radius:0 4px 4px 0}
+.meld.f{border-color:var(--fout)}
+.panel{display:flex;flex-direction:column;gap:16px}
+.kaarten{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.kaart{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:14px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.kaart h3{margin:0}
+.kaart .groot{font-size:26px;font-weight:600;font-variant-numeric:tabular-nums}
+.kaart p{margin:0;color:var(--muted);font-size:13px}
+.kaart ul{max-height:260px;overflow:auto}
+table{border-collapse:collapse;width:100%;font-size:13px}
+th,td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:11.5px;color:var(--muted);font-weight:600;letter-spacing:.05em;text-transform:uppercase}
+td.num{font-variant-numeric:tabular-nums;text-align:right}
+tr.klikrij{cursor:pointer} tr.klikrij:hover td{background:var(--bg)}
+.grid-pos td.leeg{color:var(--fout);font-weight:600}
+.lede{max-width:75ch;margin:0;color:var(--muted)}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+<header>
+  <h1>Velmara Knopenkaart</h1>
+  <p>Alle verhaallijnen uit canon.db (na Z41) en de knopen waar ze aan hangen: personages, plekken, gebeurtenissen, erfenissen, zaadjes. Twee verhalen zijn verwant als ze een knoop delen. Een nieuw verhaal ent je op een knoop.</p>
+</header>
+<div class="tal" id="tal"></div>
+<nav role="tablist">
+  <button role="tab" id="t-weefsel" aria-selected="true" data-v="weefsel">Weefsel</button>
+  <button role="tab" id="t-klopt" aria-selected="false" data-v="klopt">Klopt het?</button>
+  <button role="tab" id="t-enten" aria-selected="false" data-v="enten">Enten</button>
+</nav>
+
+<section id="v-weefsel" class="weefsel">
+  <div class="doek">
+    <div class="balk">
+      <input id="zoek" type="search" placeholder="Zoek naam, plek of woord…" aria-label="Zoek in verhalen">
+      <div class="leg" id="leg"></div>
+    </div>
+    <div class="scroll"><canvas id="doek" aria-label="Weefsel van alle verhalen per fase"></canvas></div>
+    <p class="hint">Elke stip is een verhaal, per fase in een kolom. Wijs een stip aan om de draden naar verwante verhalen te zien, en klik om hem te openen. Een gevulde stip staat in de canon, een open stip in de ideeënbank.</p>
+  </div>
+  <aside id="paneel" aria-live="polite"></aside>
+</section>
+
+<section id="v-klopt" class="panel" hidden></section>
+<section id="v-enten" class="panel" hidden></section>
+</div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const D = JSON.parse(document.getElementById('data').textContent);
+const V = D.verhalen, K = D.knopen;
+const byCode = new Map(V.map(v => [v.code, v]));
+const FASES = ['0 Voortijd','1 Overvloed','2 Vonk','3 Brand','4 Noodtoestand','5 Ontvangst','6 Markt','7 Barsten','801 Heden','na 801','zonder fase'];
+const GROEP = {boog:'Boog (uitgewerkt)', verhaal:'Verhaal', haak:'Haak', profiel:'Verhaalprofiel', roman:'Roman (boek 0)', idee:'Idee-eenheid'};
+const GV = {boog:'--g-boog', verhaal:'--g-verhaal', haak:'--g-haak', profiel:'--g-profiel', roman:'--g-roman', idee:'--g-idee'};
+const SOORT = {personage:'Personages', plek:'Plekken', gebeurtenis:'Gebeurtenissen', erfenis:'Erfenissen', zaadje:'Zaadjes', volk:'Volken', wereld:'Wereld', roman:'Roman', achtergrond:'Achtergrond (Kern, besluit)', verhaal:'Verhalen'};
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+
+function groep(v){
+  if (v.boog) return 'boog';
+  if (v.bron === 'profiel') return 'profiel';
+  if (v.soort === 'VERHAAL' || v.soort === 'IDEE') return 'verhaal';
+  if (v.soort === 'HAAK') return 'haak';
+  if (v.soort === 'YSA' || v.soort === 'ROMAN') return 'roman';
+  return 'idee';
+}
+function kol(v){ return v.fnr == null ? 10 : v.fnr; }
+V.forEach(v => { v.g_ = groep(v); v.k_ = kol(v); });
+
+// knoop -> verhalen
+const kv = new Map();
+V.forEach(v => v.knopen.forEach(k => { if(!kv.has(k)) kv.set(k, []); kv.get(k).push(v.code); }));
+function telt(k){ const i = K[k]; if (byCode.has(k)) return true; return i && i.soort !== 'achtergrond' && (i.soort === 'personage' || (kv.get(k)||[]).length <= 80); }
+function buren(v){
+  const m = new Map();
+  v.knopen.forEach(k => {
+    if (!telt(k)) return;
+    if (byCode.has(k)) m.set(k, (m.get(k)||0) + 2);
+    (kv.get(k)||[]).forEach(w => { if (w !== v.code) m.set(w, (m.get(w)||0) + 1); });
+  });
+  return [...m.entries()].sort((a,b) => b[1]-a[1]);
+}
+function naam(code){
+  const v = byCode.get(code);
+  if (v) return v.boog ? (v.hp ? v.hp + ' · ' + code.replace('VERHAAL-','') : code) : (v.titel || code);
+  return (K[code] && K[code].naam) || code;
+}
+function kort(t, n){ t = t || ''; return t.length > n ? t.slice(0, n-1).trimEnd() + '…' : t; }
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+// ---------- tellers ----------
+const T = D.totaal;
+const hard = V.filter(v => v.fout.some(f => f.startsWith('HARDE'))).length;
+document.getElementById('tal').innerHTML = [
+  ['', T.verhalen, 'verhaallijnen'], ['', T.knopen, 'knopen'], ['', T.randen, 'draden'],
+  ['o', `${T.bereik801} / ${T.verhalen}`, 'reiken tot 801'],
+  [hard ? 'f' : 'o', hard, 'harde lijn geschonden'],
+  ['f', T.fout, 'met een fout'], ['s', T.signaal, 'met een signaal'], ['s', T.oud, 'oude verwijzingen']
+].map(([c,b,s]) => `<div class="${c}"><b>${b}</b><span>${s}</span></div>`).join('');
+document.getElementById('leg').innerHTML = Object.keys(GROEP).map(g => `<span><i style="background:var(${GV[g]})"></i>${GROEP[g]}</span>`).join('') +
+  '<span><i class="r"></i>fout</span><span><i class="a"></i>signaal</span>';
+
+// ---------- weefsel ----------
+const cv = document.getElementById('doek'), ctx = cv.getContext('2d');
+const ORDE = ['boog','verhaal','haak','profiel','roman','idee'];
+let pos = [], hover = null, sel = null, zoekset = null, W = 0, H = 0;
+const STAP = 9, KOP = 34;
+function opmaak(){
+  const box = cv.parentElement.getBoundingClientRect();
+  W = Math.max(box.width, 760);
+  const kw = W / FASES.length;
+  const per = Math.max(3, Math.floor((kw - 10) / STAP));
+  const kols = FASES.map(() => []);
+  V.forEach(v => kols[v.k_].push(v));
+  kols.forEach(k => k.sort((a,b) => ORDE.indexOf(a.g_) - ORDE.indexOf(b.g_) || b.buren - a.buren));
+  pos = []; let maxr = 0;
+  kols.forEach((k, ci) => k.forEach((v, i) => {
+    const r = Math.floor(i / per), c = i % per;
+    maxr = Math.max(maxr, r);
+    v.x = ci * kw + 6 + c * STAP + STAP/2; v.y = KOP + r * STAP + STAP/2; pos.push(v);
+  }));
+  H = KOP + (maxr + 2) * STAP;
+  const dpr = window.devicePixelRatio || 1;
+  cv.width = W * dpr; cv.height = H * dpr; cv.style.width = W + 'px'; cv.style.height = H + 'px';
+  ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+  teken();
+}
+function teken(){
+  ctx.clearRect(0, 0, W, H);
+  const kw = W / FASES.length;
+  ctx.font = '600 11px ' + css('--f-body'); ctx.textBaseline = 'top';
+  FASES.forEach((f, i) => {
+    ctx.fillStyle = css('--muted'); ctx.fillText(f, i * kw + 6, 6, kw - 8);
+    const n = V.filter(v => v.k_ === i).length;
+    ctx.font = '400 11px ' + css('--f-body'); ctx.fillText(n + ' verhalen', i * kw + 6, 19, kw - 8);
+    ctx.font = '600 11px ' + css('--f-body');
+    if (i) { ctx.strokeStyle = css('--line'); ctx.lineWidth = 1; ctx.beginPath(); ctx.moveTo(i*kw, 0); ctx.lineTo(i*kw, H); ctx.stroke(); }
+  });
+  const focus = hover || sel;
+  let nb = null;
+  if (focus){
+    nb = new Map(buren(focus).slice(0, 60));
+    ctx.strokeStyle = css('--hl');
+    nb.forEach((w, c) => { const o = byCode.get(c); if (!o) return;
+      ctx.globalAlpha = Math.min(.85, .25 + w * .15); ctx.lineWidth = Math.min(2.5, .6 + w * .4);
+      ctx.beginPath(); ctx.moveTo(focus.x, focus.y);
+      const mx = (focus.x + o.x) / 2, my = Math.min(focus.y, o.y) - 20 - Math.abs(focus.x - o.x) * .08;
+      ctx.quadraticCurveTo(mx, my, o.x, o.y); ctx.stroke(); });
+    ctx.globalAlpha = 1;
+  }
+  pos.forEach(v => {
+    let a = 1;
+    if (zoekset && !zoekset.has(v.code)) a = .12;
+    if (nb && !(nb.has(v.code) || v === focus)) a = Math.min(a, .35);
+    ctx.globalAlpha = a;
+    const kleur = css(GV[v.g_]);
+    ctx.beginPath(); ctx.arc(v.x, v.y, 3.2, 0, 7);
+    if (v.idee) { ctx.strokeStyle = kleur; ctx.lineWidth = 1.3; ctx.stroke(); }
+    else { ctx.fillStyle = kleur; ctx.fill(); }
+    if (v.fout.length || v.signaal.length){
+      ctx.beginPath(); ctx.arc(v.x, v.y, 4.6, 0, 7); ctx.lineWidth = 1.2;
+      ctx.strokeStyle = css(v.fout.length ? '--fout' : '--signaal'); ctx.stroke();
+    }
+  });
+  ctx.globalAlpha = 1;
+  if (focus){ ctx.beginPath(); ctx.arc(focus.x, focus.y, 6.5, 0, 7); ctx.lineWidth = 2; ctx.strokeStyle = css('--ink'); ctx.stroke(); }
+}
+function raak(e){
+  const r = cv.getBoundingClientRect(), x = e.clientX - r.left, y = e.clientY - r.top;
+  let best = null, bd = 49;
+  pos.forEach(v => { const d = (v.x-x)**2 + (v.y-y)**2; if (d < bd) { bd = d; best = v; } });
+  return best;
+}
+cv.addEventListener('mousemove', e => { const v = raak(e); if (v !== hover){ hover = v; cv.title = v ? kort(naam(v.code), 80) : ''; teken(); } });
+cv.addEventListener('mouseleave', () => { hover = null; teken(); });
+cv.addEventListener('click', e => { const v = raak(e); if (v) toonVerhaal(v.code); });
+document.getElementById('zoek').addEventListener('input', e => {
+  const q = e.target.value.trim().toLowerCase();
+  if (q.length < 2) { zoekset = null; teken(); return; }
+  zoekset = new Set(V.filter(v => (v.code + ' ' + (v.titel||'') + ' ' + v.tekst + ' ' + (v.hp||'') + ' ' + v.knopen.map(k => (K[k]&&K[k].naam)||'').join(' ')).toLowerCase().includes(q)).map(v => v.code));
+  teken();
+});
+window.addEventListener('resize', () => { clearTimeout(window._rt); window._rt = setTimeout(opmaak, 120); });
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change', teken);
+new MutationObserver(teken).observe(document.documentElement, {attributes:true, attributeFilter:['data-theme']});
+
+// ---------- paneel ----------
+const P = document.getElementById('paneel');
+function klikVerhaal(c, n){
+  const v = byCode.get(c);
+  return `<li><button class="klik" data-v="${esc(c)}"><span class="dot" style="background:var(${GV[v.g_]})"></span><span>${esc(kort(naam(c), 70))} <span class="code">${esc(v.fase||'')}</span></span>${n != null ? `<span class="n">${n}</span>` : ''}</button></li>`;
+}
+function klikKnoop(c){
+  const i = K[c] || {}; const n = (kv.get(c)||[]).length;
+  return `<li><button class="klik" data-k="${esc(c)}"><span>${esc(kort(i.naam || c, 64))}</span><span class="n">${n} verh.</span></button></li>`;
+}
+function bindPaneel(root){
+  root.querySelectorAll('[data-v]').forEach(b => b.addEventListener('click', () => toonVerhaal(b.dataset.v)));
+  root.querySelectorAll('[data-k]').forEach(b => b.addEventListener('click', () => toonKnoop(b.dataset.k)));
+}
+function toonVerhaal(code){
+  const v = byCode.get(code); if (!v) return;
+  sel = v; if (!vWeefsel.hidden) teken(); else kies('weefsel');
+  const groepen = {};
+  v.knopen.forEach(k => { const s = byCode.has(k) ? 'verhaal' : ((K[k]||{}).soort || 'wereld'); (groepen[s] = groepen[s] || []).push(k); });
+  const b = buren(v);
+  const chips = [`<span class="chip">${GROEP[v.g_]}</span>`, `<span class="chip">${v.idee ? 'ideeënbank' : 'canon'}</span>`];
+  if (v.afst801 != null) chips.push(`<span class="chip o">${v.afst801 === 0 ? 'speelt in 801' : v.afst801 + ' stap' + (v.afst801 > 1 ? 'pen' : '') + ' tot 801'}</span>`);
+  else chips.push('<span class="chip s">geen pad naar 801</span>');
+  let dl = '';
+  const veld = (k, w) => { if (w != null && w !== '') dl += `<dt>${k}</dt><dd>${esc(w)}</dd>`; };
+  veld('Fase', v.fase); veld('Hoofdpersoon', v.hp); veld('Vorm', v.vorm); veld('Toon', v.toon); veld('Verteller', v.verteller);
+  veld('Afloop', v.afloop); veld('Haak', v.haak); veld('Positie', v.positie); veld('Genre', v.genre); veld('Volk', v.volk);
+  if (v.g) veld('Genrescores', Object.entries(v.g).filter(([,x]) => x).map(([k,x]) => k + ' ' + x).join(' · '));
+  const meld = [...v.fout.map(f => `<div class="meld f">${esc(f)}</div>`), ...v.signaal.map(s => `<div class="meld">${esc(s)}</div>`)];
+  if (v.oud.length) meld.push(`<div class="meld">${v.oud.length} verwijzing${v.oud.length>1?'en':''} naar een oude versie; de opvolger is bekend (bv. ${esc(v.oud[0][0])} → ${esc(v.oud[0][1])})</div>`);
+  const volg = ['verhaal','personage','plek','gebeurtenis','erfenis','zaadje','volk','wereld','roman','achtergrond'];
+  P.innerHTML = `
+    <div><h2>${esc(naam(code))}</h2><div class="code">${esc(code)}</div></div>
+    <div class="chips">${chips.join('')}</div>
+    <p class="tekst">${esc(v.tekst)}</p>
+    ${dl ? `<dl>${dl}</dl>` : ''}
+    ${meld.length ? `<h3>Controle</h3>${meld.join('')}` : '<h3>Controle</h3><div class="meld" style="border-color:var(--ok)">Hangt vast en botst nergens.</div>'}
+    <h3>Hangt aan ${v.knopen.length} knopen</h3>
+    ${volg.filter(s => groepen[s]).map(s => `<div><div class="code" style="margin:4px 0 2px">${SOORT[s]}</div><ul class="lijst">${groepen[s].map(k => byCode.has(k) ? klikVerhaal(k) : klikKnoop(k)).join('')}</ul></div>`).join('')}
+    <h3>Verwante verhalen (${b.length})</h3>
+    <p class="hint">Getal = aantal gedeelde knopen.</p>
+    <ul class="lijst">${b.slice(0, 25).map(([c, n]) => klikVerhaal(c, n)).join('')}</ul>`;
+  bindPaneel(P);
+}
+function toonKnoop(code){
+  const i = K[code] || {naam: code, soort: 'wereld'};
+  const vs = kv.get(code) || [];
+  sel = null; zoekset = new Set(vs); if (vWeefsel.hidden) kies('weefsel'); else teken();
+  document.getElementById('zoek').value = '';
+  P.innerHTML = `
+    <div><h2>${esc(i.naam || code)}</h2><div class="code">${esc(code)}</div></div>
+    <div class="chips"><span class="chip">${esc(SOORT[i.soort] || i.soort)}</span>${i.fase ? `<span class="chip">${esc(i.fase)}</span>` : ''}<span class="chip">${i.wgraad || 0} rijen in de wereld</span></div>
+    ${i.tekst ? `<p class="tekst">${esc(i.tekst)}</p>` : ''}
+    <h3>${vs.length} verhalen hangen aan deze knoop</h3>
+    <p class="hint">In het weefsel zijn ze uitgelicht. ${vs.length <= 2 && (i.wgraad||0) >= 6 ? 'Rijke knoop met weinig verhalen: een entpunt.' : ''}</p>
+    <ul class="lijst">${vs.map(c => klikVerhaal(c)).join('')}</ul>`;
+  bindPaneel(P);
+}
+function welkom(){
+  const top = [...V].filter(v => v.boog).sort((a,b) => b.buren - a.buren).slice(0, 8);
+  P.innerHTML = `<h2>Kies een draad</h2>
+    <p class="tekst">Klik een stip in het weefsel, of begin bij een van de uitgewerkte bogen hieronder. Je ziet waaraan hij hangt, met welke verhalen hij knopen deelt, en of hij klopt.</p>
+    <h3>Bogen met de meeste verwanten</h3><ul class="lijst">${top.map(v => klikVerhaal(v.code, v.buren)).join('')}</ul>`;
+  bindPaneel(P);
+}
+
+// ---------- klopt het ----------
+function lijstV(arr, f){ return `<ul class="lijst">${arr.map(v => `<li><button class="klik" data-v="${esc(v.code)}"><span>${esc(kort(naam(v.code), 54))}</span><span class="n">${esc(f(v))}</span></button></li>`).join('')}</ul>`; }
+function bouwKlopt(){
+  const el = document.getElementById('v-klopt');
+  const metF = V.filter(v => v.fout.some(f => f.startsWith('verwijst')));
+  const zw = V.filter(v => v.signaal.some(s => s.startsWith('zwevend')));
+  const g801 = V.filter(v => v.signaal.some(s => s.startsWith('geen pad')));
+  const eil = V.filter(v => v.signaal.some(s => s.startsWith('deelt geen')));
+  const pf = V.filter(v => v.signaal.some(s => s.startsWith('personage')));
+  const oud = V.filter(v => v.oud.length).sort((a,b) => b.oud.length - a.oud.length);
+  const k = (titel, n, uitleg, inhoud, cls) => `<div class="kaart"><h3>${titel}</h3><div class="groot" style="color:var(${cls})">${n}</div><p>${uitleg}</p>${inhoud||''}</div>`;
+  el.innerHTML = `<p class="lede">Elke verhaallijn is langs de knopen gelopen. Rood moet worden hersteld. Oranje is geen fout maar een vraag: soms is het precies de bedoeling, zoals een legende uit een oudere fase.</p>
+  <div class="kaarten">
+   ${k('Harde lijnen', hard, 'Profielen met een hoofdpersoon onder de 18 en een erotiekscore, of dwang zonder label.', hard ? lijstV(V.filter(v=>v.fout.some(f=>f.startsWith('HARDE')||f.startsWith('dwang'))), v=>v.fase) : '<p>Geen enkel profiel schendt een harde lijn.</p>', hard ? '--fout' : '--ok')}
+   ${k('Doodlopende verwijzing', metF.length, 'Het verhaal verwijst naar een rij die vervangen is zonder opvolger. Zo hangt het aan iets dat niet meer bestaat.', lijstV(metF, v => v.fout.filter(f=>f.startsWith('verwijst')).map(f => f.split(' ')[2]).join(', ')), '--fout')}
+   ${k('Oude verwijzingen', T.oud, `In ${oud.length} verhalen wijst een draad naar een oude versie van een rij. De opvolger is overal bekend, dus dit is met één migratie te herstellen. De kaart volgt de opvolger al.`, lijstV(oud.slice(0, 40), v => v.oud.length + '×'), '--signaal')}
+   ${k('Zwevend', zw.length, 'Hangt alleen aan een besluit. Nog geen personage, plek of gebeurtenis. Dit zijn ideeën die op een knoop wachten.', lijstV(zw, v => v.fase || ''), '--signaal')}
+   ${k('Geen pad naar 801', g801.length, 'Langs gedeelde knopen leidt geen weg naar een verhaal in 801. Dit verhaal laat geen spoor na in het heden.', lijstV(g801, v => v.fase || ''), '--signaal')}
+   ${k('Eiland', eil.length, 'Hangt aan eigen knopen, maar deelt er geen met een ander verhaal.', lijstV(eil, v => v.fase || ''), '--signaal')}
+   ${k('Personage uit een andere fase', pf.length, 'Het verhaal leunt op een personage dat twee of meer fasen verderop leeft. Een legende, nazaat of erfnaam is prima. Anders is het een tijdsfout.', lijstV(pf, v => v.signaal.find(s=>s.startsWith('personage')).replace('personage ','')), '--signaal')}
+  </div>`;
+  bindPaneel(el);
+}
+
+// ---------- enten ----------
+function bouwEnten(){
+  const el = document.getElementById('v-enten');
+  const eps = D.entpunten.filter(e => e.soort !== 'verhaal');
+  const kleur = {personage:'--g-verhaal', plek:'--g-boog', gebeurtenis:'--g-haak', erfenis:'--g-profiel', zaadje:'--g-roman', volk:'--g-idee', wereld:'--muted'};
+  const rij = e => `<tr class="klikrij" data-k="${esc(e.code)}" tabindex="0"><td><span class="dot" style="display:inline-block;background:var(${kleur[e.soort]||'--muted'})"></span> ${esc(e.naam || e.code)}<div class="code">${esc(e.code)}</div></td><td>${esc(SOORT[e.soort]||e.soort)}</td><td>${esc(e.fase||'')}</td><td class="num">${e.wgraad}</td><td class="num">${e.n}</td></tr>`;
+  const fases = [...new Set(D.posities.map(p => p.fase))], posn = [...new Set(D.posities.map(p => p.positie))];
+  const pm = new Map(D.posities.map(p => [p.fase + '|' + p.positie, p]));
+  el.innerHTML = `<p class="lede">Een entpunt is een knoop die veel wereld draagt maar weinig verhaal. Daar groeit een nieuw verhaal het makkelijkst aan, omdat het meteen vastzit aan bestaande rijen. De score is het aantal rijen in de wereld gedeeld door het aantal verhalen plus één.</p>
+  <div class="kaart"><h3>Rijke knopen met weinig verhaal</h3>
+   <div class="scroll"><table><thead><tr><th>Knoop</th><th>Soort</th><th>Fase</th><th style="text-align:right">Rijen in de wereld</th><th style="text-align:right">Verhalen</th></tr></thead>
+   <tbody>${eps.slice(0, 80).map(rij).join('')}</tbody></table></div></div>
+  <div class="kaarten">
+   <div class="kaart"><h3>Open zaadjes</h3><div class="groot">${D.zaadjes.length}</div><p>Iets is geplant en wacht op een verhaal dat het oogst.</p>
+    <ul class="lijst">${D.zaadjes.map(z => `<li class="klik" style="cursor:default;flex-direction:column;gap:0"><span>${esc(z.wat)}</span><span class="code">${esc(z.code)} · oogst: ${esc(z.oogst||'?')}</span></li>`).join('')}</ul></div>
+   <div class="kaart"><h3>Posities in de motor per fase</h3><p>Het eerste getal telt verhalen in de canon, het tweede in de ideeënbank. Een rode nul betekent dat er nog niets is.</p>
+    <div class="scroll"><table class="grid-pos"><thead><tr><th>Fase</th>${posn.map(p => `<th>${esc(p)}</th>`).join('')}</tr></thead>
+    <tbody>${fases.map(f => `<tr><td>${esc(f)}</td>${posn.map(p => { const x = pm.get(f+'|'+p); const s = x ? x.canon + '/' + x.idee : '–'; return `<td class="${x && !x.canon && !x.idee ? 'leeg' : ''}">${s}</td>`; }).join('')}</tr>`).join('')}</tbody></table></div></div>
+  </div>`;
+  el.querySelectorAll('tr[data-k]').forEach(t => { const go = () => toonKnoop(t.dataset.k); t.addEventListener('click', go); t.addEventListener('keydown', e => { if (e.key === 'Enter') go(); }); });
+}
+
+// ---------- tabs ----------
+const vWeefsel = document.getElementById('v-weefsel');
+function kies(v){
+  document.querySelectorAll('nav button').forEach(b => b.setAttribute('aria-selected', b.dataset.v === v));
+  ['weefsel','klopt','enten'].forEach(x => document.getElementById('v-' + x).hidden = x !== v);
+  if (v === 'weefsel') opmaak();
+  if (location.hash.slice(1) !== v) history.replaceState(null, '', '#' + v);
+}
+document.querySelectorAll('nav button').forEach(b => b.addEventListener('click', () => kies(b.dataset.v)));
+bouwKlopt(); bouwEnten(); welkom();
+const h = location.hash.slice(1); kies(['klopt','enten'].includes(h) ? h : 'weefsel');
+window.addEventListener('hashchange', () => { const x = location.hash.slice(1); if (['weefsel','klopt','enten'].includes(x)) kies(x); });
+</script>

@@ -1,0 +1,11 @@
+GOED | Hoeveel runs zijn er in fase 4 gedraaid (module personen), en hoeveel weggegooid? | view: (1000, 0) | tabel: (1000, 0)
+GOED | Hoeveel runs zonder Kernbescherming werden weggegooid? | view: 174 | tabel: 174
+GOED | Welke run staat bovenaan de storyteller (fase 4)? | view: Z39-F4-0203 | tabel: Z39-F4-0203
+GOED | Wie weet in jaar 40 het geheim van Saske Registerhoofd? | view: ['Dries Pontbaas', 'Gunnar Bootsman', 'Halvar de Gedeelde', 'Ondrea de Telster', 'Saske Registerhoofd', 'Vawen'] | tabel: ['Dries Pontbaas', 'Gunnar Bootsman', 'Halvar de Gedeelde', 'Ondrea de Telster', 'Saske Registerhoofd', 'Vawen']
+GOED | Waar is Ylva Kustroofster in jaar 30? | view: [('REG-zoutkust',)] | tabel: [('REG-zoutkust',)]
+FOUT | In hoeveel van de bewaarde runs ontstaat de Deelwet, en wanneer het vroegst? | view: (5, 28) | tabel: (5, 27)
+GOED | Hoeveel achtergrondfiguren heeft de simulatie gemaakt? | view: 21 | tabel: 21
+GOED | Hoeveel fase-4-personages zijn hoofdpersonage (laag hoofd)? | view: 3 | tabel: 3
+FOUT | In welk jaar verschijnt het eerste register het vroegst in de bewaarde runs? | view: 17 | tabel: 0
+GOED | Hoeveel technologie-runs zijn geldig? | view: 1000 | tabel: 1000
+8/10

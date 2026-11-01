@@ -1,0 +1,36 @@
+ROM|3|ysara-mira|Ysara en Mira|De centrale liefde van de geschiedenis. Belemmering: Ysara offert zich, Mira vlucht. De nacht voor het Offer.|PER-ysara;PER-mira-dochter;GEB-dochteroffer
+ROM|3|mira-kovan|Mira en Kovan|Een bewust niet geconsumeerde liefde in de brandvelden. Belemmering: trouw aan Ysara en zijn vonk.|PER-mira-dochter;PER-f3-kovan;GEB-r10-brandvelden
+ROM|3|velia-kovan|Velia en Kovan|Ardys' dochter hield van de Liskse vonkdrager. Belemmering: hij verliet haar stad.|PER-f3-ardys-dochter;PER-f3-kovan;GEB-lisk-brandt
+ROM|3|ysmay-wachtvrouw|Koningin Ysmay en haar wachtvrouw|Een koningin en haar wachtvrouw plannen de vergiftiging van haar man. Belemmering: haar zonen sterven door de Zegel waarvoor ze werkt.|PER-f3-brandkoningin-ysmay;GEB-r10-kruisverbond
+ROM|3|wanna-koning|Wanna en een vonkkoning|Een Sael-mor-zangeres liefhebbend aan de verkeerde kant. Belemmering: haar volk helpt de vrouwen die hem willen doden.|PER-f3-sael-wanna;GEB-r10-varnath-dood
+ROM|3|lot-dessa|Zuster Lot en Dessa|Een zuster van een neutraal huis en een ontwennende gebonden vrouw. Belemmering: Dessa weet niet of haar verlangen van haarzelf is.|PER-f3-zuster-lot;PER-f3-dessa;GEB-r10-zusters-neutraal
+INTR|3|zeven-vijf|Zeven tegen vijf|Anath koopt stemmen voor de Zegel; de uitslag wordt later eenstemmig genoemd.|PER-f3-anath;PER-lisk-vrouwe;PER-f3-eilandmoeder-wenneke;PER-f3-raadsvrouw-hennie;GEB-r10-raad-der-moeders
+INTR|3|anath-dochter|Anaths dochter|Ivi Tegenstem is Anaths dochter en heeft het originele stembriefje.|PER-f3-tegenstemster-ivi;PER-f3-anath;GEB-r10-raad-der-moeders
+INTR|3|kruisverbond|Het kruisverbond|Orlas onderhandelt in het geheim met Varnath terwijl hij het kruisverbond leidt.|PER-f3-koning-orlas;GEB-r10-kruisverbond
+INTR|3|mirre-ruim|Het ruim van Saar Mirre|De stammoeder van Mirre vlucht met drie vonkdragers aan boord en verkoopt hun bestaan aan niemand.|PER-f3-mirre-kapitein;GEB-r10-mirre-vlucht
+INTR|3|mael-verslag|Het tweede verslag|Mael schrijft een tweede verslag van de eerste proef dat in 770 terugkomt.|PER-f3-mael-zuster;GEB-r10-mael-schisma
+INTR|3|kharvos-weet|Kharvos weet het|Varr scheidt zich af omdat hij van de Zegel hoorde voordat die gelegd was.|PER-f3-kharvos-varr;GEB-r10-kharvos-scheiding
+THRL|3|negen-dagen|Negen dagen|Klok: negen dagen ontwenning onder Varnaths ogen; een spionne in het kamp.|PER-f3-dessa;PER-f3-spionne-rhea;GEB-r10-varnath-dood
+THRL|3|asbrug|De tocht door de brandvelden|Mira en Kovan door een week as; Kovan kan elk moment ontsteken.|PER-mira-dochter;PER-f3-kovan;GEB-r10-brandvelden
+THRL|3|graankelder|De graankelder|Een uitgehongerde boerin leidt Mira naar een graankelder die door een leger bewaakt wordt.|PER-f3-boerin-geesje;GEB-r10-hongerjaar
+THRL|3|varnath-ring|Varnaths ring|Een lijkenruimer verkoopt de ring van Varnath; wie hem draagt, wordt opgejaagd.|PER-f3-lijkenpikker-tobbe;GEB-r10-varnath-dood
+THRL|3|dageraad|Vlucht bij dageraad|Mira vlucht na het Offer met Anaths notities; de Burcht stuurt jagers.|PER-mira-dochter;PER-f3-gaven-mann-pell;GEB-zegel-gelegd
+THRL|3|elin|De ruil van Elin|Een Dochter neemt de plaats van haar zus in; iemand ontdekt het voor het Offer.|PER-f3-dochter-elin;GEB-dochteroffer
+ROM|4|edrun-ylva|Edrun en Ylva|Een gedeelde koning en een roofster. Belemmering: hij is van iedereen.|PER-f4-edrun;PER-f4-ylva;GEB-r10-laatste-koning
+ROM|4|brecht-halvar|Brecht en Halvar|Een boerin die haar man onder de schuur verstopt. Belemmering: de Deelwet.|PER-f4-brecht;PER-halvar;GEB-r10-deelwet-weerstand
+ROM|4|ruben-lise|Ruben en Lise|Een kinderloos paar: een onvruchtbare gedeelde man en een boerin die geen kind wil, alleen hem. Belemmering: het rooster.|PER-f4-gedeelde-man-ruben;PER-f4-boerin-lise;GEB-r10-rotatie
+ROM|4|heske-ontsluiering|Heske en haar geliefde|Een van de eerste Grauwen toont haar vervormde lichaam aan een geliefde. Belemmering: schaamte en het staren van de wereld.|PER-f4-grauwe-heske;GEB-r10-neven-ramp
+ROM|4|gunnar-ylva|Gunnar en zijn clan|Een geroofde man die rover werd en verliefd wordt op een clanvrouw. Belemmering: hij is ooit buit geweest.|PER-f4-clan-rover-gunnar;GEB-r10-mannenroof
+ROM|4|saske-ondrea|Saske en Ondrea|Een vriendschap die bijna liefde was, kapot aan een geheim.|PER-f4-saske;PER-ondrea;GEB-r10-eerste-register
+INTR|4|chantage|De chantage van Ylva|Saske dwingt Ylva te spioneren na het sparen van Halvar.|PER-f4-saske;PER-f4-ylva;GEB-r10-deelwet-weerstand
+INTR|4|eerste-vervalsing|Het eerste vervalste blad|Saske vervalst haar eigen familieblad; het register is vanaf het begin niet zuiver.|PER-f4-saske;PER-ondrea;GEB-r10-bloedmerk
+INTR|4|ravenna-goud|Het goud van Ravenna|Een clanmoeder probeert een vrij blad te kopen om de neven-ramp te verbergen.|PER-f4-clanmoeder-hilde;GEB-r10-neven-ramp
+INTR|4|orde-naam|Van kantoor tot kerk|Moeder Iris maakt van Saskes registerkantoor de Orde.|PER-f4-orde-moeder-iris;GEB-r10-orde-naam
+INTR|4|eilanden|De weigering van de eilanden|Runa weigert de rotatie en houdt haar mannen langer in leven met schimmel.|PER-f4-eiland-moeder-runa;GEB-r10-eilanden-weigering
+INTR|4|rustmaanden|Vervalste rustmaanden|Fenna vervalst rustmaanden in het rooster voor uitgeputte mannen.|PER-f4-zuster-ondrea-leerling;GEB-r10-rotatie
+THRL|4|gat-schuur|Het gat onder de schuur|Klok: de registercommissie komt over drie dagen.|PER-f4-brecht;PER-halvar;PER-f4-buurvrouw-aaltje;GEB-r10-deelwet-weerstand
+THRL|4|registerkelder|Het mes in de registerkelder|Ylva dwingt Saske het rooster te tekenen; dezelfde nacht wordt ze verraden.|PER-f4-ylva;PER-f4-saske;GEB-r10-rotatie
+THRL|4|mannenroof|De roof van de koningskaravaan|Een rivaliserende clan probeert Edrun te roven tijdens zijn ronde.|PER-f4-edrun;PER-f4-ylva;GEB-r10-mannenroof
+THRL|4|jongenshof|De ontsnapte jongen|Een volwassen geworden jongen uit het Jongenshof vlucht; de meesteres liet hem gaan.|PER-f4-jongenshof-meester;GEB-r10-jongenshof
+THRL|4|bloedmerk|Het verdwenen bloedmerk|Een Vathren-gids verdwijnt en het geheim van het bloedmerk met hem.|PER-f4-vathren-kerl;GEB-r10-bloedmerk
+THRL|4|isolde|Isolde zoekt haar vader|Edruns dochter breekt in het register in en vindt Saskes vervalsing.|PER-f4-dochter-edrun;GEB-r10-rotatie

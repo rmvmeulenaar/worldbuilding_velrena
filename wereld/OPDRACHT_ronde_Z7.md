@@ -1,0 +1,14 @@
+# Opdracht ronde Z7: verhaal-1-besluiten vastleggen, stopwoorden, en een rauwere erotische laag (Velmara)
+Harde regels (blijven): alleen 18+ (ook historisch/ritueel), geen minderjarigen in enige seksuele rol, geen dieren in seksuele rol, geen seks met wie niet kan instemmen (alleen horror/uitbuiting zonder seks). Backup canon_backup_Z7.db eerst. Niets verwijderen (oude rijen 'voorlopig, vervangen'). Idempotent r_Z7.py. Nieuwe rijen voorlopig, techniek-label, veiligheidslabel. Daarna genereer.py, importeer.py roundtrip, grep-controle. Rapporteer kort in het Nederlands.
+## 1. Vier besluiten uit verhaal 1 (status vastgesteld, met reden, alternatief en effect, spannend verteld) — lees verhalen/verhaal_01_brakhaven.md
+a) Liora's kracht-weghalen: werkt alleen bij iemand die op dat moment niet kan weigeren (gebonden man); prijs: kou in haar handen of verlies van een herinnering; keert het mechanisme van het Zegel om.
+b) Bindingsgave van de Orde: geleerd van Dochters en Orrim, de Orde draagt een miniatuur-Zegel; zaadkracht bij Liora houdt langer aan omdat de Leegte uitblijft (aanwijzing voor haar bijzonderheid). Wat is 'zegelonderzoek'.
+c) Jorrit (achtergrond, huurman, 17 jaar), zijn zoon Bram van de Kade (19, Jongenshof Saelith, geen seks), schip Kraaienbruid (Ondessa), stopwoord "zout" (Zoutkust).
+d) Registerkraai met de stem van een Maker-vrouw (opname uit de kluizen, mogelijk Ysa Maren), verbonden met stem in Sterrensteen en Rekenaar.
+Voeg ook de nieuwe personages/voorwerpen toe als eigen rijen met zintuiglijk detail, haak en crosslinks (PER-Z7-..., VOORW-Z7-...).
+## 2. Stopwoorden per volk
+Eigen stopwoord/teken per volk (14), bijv. Oevrin een kleur; en per volk wanneer het wel of niet gebruikt wordt (ritueel, geheim spel, werk). Rij per volk (EROS-STOP-Z7-<volk>).
+## 3. Rauwere, ongetemde erotische laag (Rogier: 'het is escapisme, consent overal is tam')
+Instemming hoeft niet in elke scène een beat te zijn. Voeg minstens 40 rijen toe (EROS-RAUW-Z7-<n>) met ruwe, donkere, machtsgedreven erotiek tussen VOLWASSENEN: overmacht en dwang tussen volwassenen als gelabeld donker thema (met label, prijs en gevolg), overgave, onderwerping, macht omkeren, ontvoering en gijzeling met seksuele spanning, afpersing met lust, rivaliteit, bezitsdrift, bloedlust en lustlust bij het zaad, vernedering en verheerlijking, publiek en voyeurisme. Per rij: zintuiglijk detail, wat het kost, wat het voor de intrige doet, haak. Elke rij moet een volwassene met eigen wil of een duidelijk gelabeld donker thema bevatten; nooit met wie echt niet kan instemmen (kind, dier, gebonden Dochters/Orrim in het Zegel, ernstig zieken); die blijven horror zonder seks. Pas EROS-GRENZEN-Z7 aan: de vaste lijnen kort, en schrijf erbij dat dwang tussen volwassenen een gelabeld donker thema is, geen standaard.
+## 4. Meting en rapport
+Bijbel bijwerken (bijbel/21_erotiek.md uitbreiden), rapport met aantallen en 6 voorbeeldrijen (twee uit EROS-RAUW).

@@ -1,0 +1,49 @@
+{
+ "voor": {
+  "1 Kern zonder bron (levend)": 0,
+  "2 lagen": "geen kolom (vóór Z38: alleen bron ja/nee)",
+  "2 bron ja/nee Kern": {
+   "1": 103
+  },
+  "3 premissen (levend profiel)": 68,
+  "4 max gedeelde 3-grepen tussen premissen": 1.0,
+  "5 premissen met sjabloonmarker": 62,
+  "6 ideeën zonder fase": 1103,
+  "7 ent-klaar ideeën": 18,
+  "8 mens 801 beantwoord": 0,
+  "open wrijvingen": 5
+ },
+ "na": {
+  "1 Kern zonder bron (levend)": 2,
+  "2 lagen Kern": {
+   "bijbel": 7,
+   "context": 1,
+   "hard": 100,
+   "onbekend": 1
+  },
+  "2 lagen Structuur": {
+   "bijbel": 511,
+   "context": 978,
+   "hard": 959,
+   "onbekend": 164
+  },
+  "2 lagen Kleur": {
+   "bijbel": 39,
+   "context": 1334,
+   "hard": 343,
+   "onbekend": 305
+  },
+  "3 premissen (levend profiel)": 110,
+  "4 max gedeelde 3-grepen tussen premissen": 0.13,
+  "5 premissen met sjabloonmarker": 0,
+  "6 ideeën zonder fase": 527,
+  "7 ent-klaar ideeën": 18,
+  "8 mens 801 beantwoord per regio": {
+   "ambergaard": "54/54",
+   "brakhaven": "54/54",
+   "saelith": "54/54",
+   "zoutkust": "54/54"
+  },
+  "open wrijvingen": 4
+ }
+}

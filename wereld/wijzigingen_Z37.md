@@ -1,0 +1,36 @@
+# Wijzigingen Z37 (ronde 66; volledig gelogd in tabel wijziging)
+
+- **A:**
+  - BESLUIT-Z37-1 t/m -4 (A1 twee lagen, Kern; A2 passage h32 in ZAAD-Z36-h32-protocol, status "wacht op roman (Rogier)"; A3 Hesta jaar 3 / jaar 28; A4 Reckoner kent "Mother").
+  - Twee nieuwe wrijvingen: WRIJ-Z37-1 en WRIJ-Z37-2.
+  - De roman is niet aangeraakt: md5 af212ef0… vóór en na.
+- **B:**
+  - BESLUIT-Z37-5: 26 wrijvingen gesloten, 74 keuzestatussen bijgewerkt.
+  - Z15-4 → jaar 0, met opvolgers BESLUIT-Z15-7-Z37 en YSA-Z15-9-Z37.
+  - Z33-7: alleen REGEL-harde-grenzen kreeg BESLUIT-Z30-4.
+  - Z29-1 blijft open.
+  - Opvolgers: HOOFDPERS-Z37-kluwer, -myrrhen en -veslethi, VEE-Z37-schip, Ardemar III en IV, Selvara de Eerste.
+  - Nerys-rij PERS-Z4-saelmor-1-2 → -Z37: de jaren volgen het anker.
+  - 5 naammarkeringen erbij (o.a. Selva / Selvara: geen botsing).
+- **C:**
+  - BESLUIT-Z37-6: H01–H50 (50 keuzes) vervallen.
+  - De nieuwe herkomstfunctie in afgeleid_motor.py: besluit / roman / notitie Rogier / C1-keten / wereldbijbel C2. Niets is verzonnen.
+- **D1:**
+  - Seriewaarde hersteld: direct 1,0, via een relatie 0,6, anders 0, met een reden. De test slaagt in 3 van de 3 gevallen.
+  - Premisses: 68 van de 132 profielen kregen er een.
+  - Ideeënbank: minimaal 4 assen, en een onbekende as telt als onbekend.
+  - Uitval op afstand is van 772 naar 27 gegaan. Ent-klaar blijft 18.
+- **D2:**
+  - personage_profiel is de bron voor ankers, relaties, de naamtoets en de na-doodtoets.
+  - 480 rijen zijn omgezet naar 'voorlopig, vervangen' → personage_profiel:CODE. 2 Kern-rijen zijn overgeslagen.
+  - Profielen: 669.
+- **D3:**
+  - migratie 007 met de tabellen domein, competentievraag, competentie_antwoord, rijkdom_lid, motief_detail, beroep, gave en de view v_rijkdom.
+  - 17 domeinen, 51 vragen, 153 antwoorden. 801 is 100% beantwoord voor karrûk, sael-mor en aelthir.
+  - 51 RIJK-rijen, 11 beroepen (met elk een donkere tweeling; de jongensverstopster is strikt beschermend), 5 gaven, RITE-Z37-samen-vliegen (niet-seksueel) en 4 feeënrijen.
+  - Allemaal voorlopig en in de ideeënbank.
+  - Regel R-dode_rijkdom (signaal), 8 motiefdetails.
+- **Scripts:**
+  - toets.py (LEVEND_P, de profieltoetsen), machine.py (seriewaarde, premisse), vraag.py (`gaten`), genereer.py (41_personages_profiel.md en de nieuwe tabellen) en importeer.py (007).
+  - De trigger in 007 vervangt alleen een bestaande trigger, zodat importeer voorwaartse verwijzingen kan laden.
+- **Niets verwijderd.**

@@ -1,0 +1,9 @@
+# Opdracht ronde V2: volkgeschiedenis, intrige, magiegeschiedenis, techniekgeschiedenis (Velmara)
+Regels: alleen 18+, geen minderjarigen, geen dieren, geen seks met wie niet kan instemmen. Backup canon.db eerst (canon_backup_V2.db). Niets verwijderen. Idempotent script r_V2.py. Alles voorlopig. Daarna genereer.py, roundtrip-test (importeer.py), grep-controle op WERELD_VELMARA.md. De sciencefiction-oorsprong blijft OPEN: niets vastleggen over sterren of technologie als oorsprong van Zegel/Vonk; zet bij magie- en techniekgeschiedenis een open vraag.
+Alles volgt uit oorzaak-gevolg (actie-reactieketen, rommelig), functie eerst, en dient escapisme, romance, intrige, erotiek en thriller. Techniek is in Velmara materiaal- en lichaamsgebonden (biopunk).
+Doe:
+1. Per volk (alle 14): GESCH-<volk>-1..6: een tijdlijn van minstens 6 gebeurtenissen (oorsprong, bloei, ramp, verraad/oorlog, verhouding tot Zegel en Orde, heden) met oorzaak en gevolg, verwijzingen naar bestaande GEB/KETEN/PER-codes, plus één helden- en één schurkenfiguur per volk (PER-nieuw). Overal wrijving noteren als het botst.
+2. Intrige: minstens 60 nieuwe INTR-rijen (hoven, verraad, huwelijken, vergiftigingen, spionnen, chantage, volkenpolitiek), verdeeld over de 7 fasen en de volken, elk met betrokken personages, motief, wending en gevolg.
+3. Magiegeschiedenis: MAGIE-GESCH-1..12 van Vonk via Zegel en Leegte naar gaven, zegellijnen, theorieën en onderdrukking; wie ontdekte wat, wie verborg het; nieuwe open vraag over de bloedafstand-theorie (VRAAG-030) niet vastleggen.
+4. Techniekgeschiedenis: TECH-GESCH-1..12: fokkunst, geneeskunst, buiten-lichaam bevruchting, navigatie, wapens, bouw, schrift/register, met uitvinders, verloren kennis en de grens met magie. Plus TECH-REGEL.
+5. Wrijvingen, open vragen, logboekregel, genre-balans herzien. Rapporteer korte aantallen + 5 mooiste voorbeelden in het Nederlands.

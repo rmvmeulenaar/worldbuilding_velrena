@@ -1,0 +1,168 @@
+# Keuzelijst voor Rogier (ronde Z35)
+
+Alles hieronder is voorlopig. Niets is in de Kern gewijzigd. Per regel: ja, nee of anders. Bron: tabel `keuze` (`python3 vraag.py keuzes`).
+
+## 1. Open wrijvingen (WRIJ-Z30-2 eerst)
+
+- **KEUZE-WRIJ-Z30-2** [Kern, impact 36] Stille Modus niet gezaaid in boek 0
+  - Aanbeveling: Ysa ontwerpt de Stille Modus in haar latere jaren als boetedoening en laadt hem in via Hesta's cellen en de deur in de Reckoner. Daarmee sluiten ook WRIJ-Z21-5 en WRIJ-Z22-2 (aanbeveling architect, ik volg die).
+  - Raakt: ORIGIN-10;ORIGIN-10 tegen de roman (ROMAN-Z16-roman);VRAAG-Z30-1;WRIJ-Z21-5;WRIJ-Z22-2
+- **KEUZE-WRIJ-Z33-7** [Kern, impact 65] Herkomst Kern onvolledig
+  - Aanbeveling: Zes Kern-rijen zonder bron: Rogier noemt het besluit of de datum; ik verzin er geen.
+  - Raakt: REGEL-harde-grenzen;canon.bron
+- **KEUZE-WRIJ-Z15-4** [Kern, impact 36] Exacte datum Thalen in Ysara
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: BESLUIT-Z12-wortelstem;BESLUIT-Z15-7
+- **KEUZE-WRIJ-Z33-1** [Kern, impact 14] Fasenummering FASE-OVERZICHT-Z10 wijkt af van PER/FASE-rijen
+  - Aanbeveling: Zie VOORSTEL-Z35-kern-faseoverzicht: zeven nieuwe Kern-rijen met de ankernummering.
+  - Raakt: FASE-OVERZICHT-Z10-0..7 (Kern) tegen FASE-*-rijen;FASE-OVERZICHT-Z10-1;FASE-OVERZICHT-Z10-5;PER-rijen en HOOFDPERS-rijen
+- **KEUZE-WRIJ-Z34-1** [Kern, impact 7] Teo stelt uit; raakt Liora (Kern)
+  - Aanbeveling: Teo's uitstel en Liora's ja (BESLUIT-Z32-9) kunnen samen bestaan: hij stelt het vertellen uit tot na haar ja. Vaststellen als volgorde, niet als tegenspraak.
+  - Raakt: BESLUIT-Z32-9;BESLUIT-Z32-9 (Kern);BESLUIT-Z34-4;PER-liora-profiel-Z32 (Kern);PER-teo-Z32;PERS-teo
+- **KEUZE-WRIJ-Z30-4** [Kern, impact 6] Dode links in verwijst_naar
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: BESLUIT-Z19-2;BESLUIT-Z19-2 -> PER-v4-corran;BESLUIT-Z25-2;BESLUIT-Z25-2 -> BESLUIT-Z25-8;BESLUIT-Z26-1;BESLUIT-Z26-1 -> ROMAN-Z16-h5
+- **KEUZE-WRIJ-Z33-2** [Kern, impact 4] Kern leunt op Kleur
+  - Aanbeveling: Per Kern-rij beslissen of de Kleur-rij waarop hij leunt Structuur wordt; geen massale omzetting.
+  - Raakt: FASE-OVERZICHT-Z10-0;Kern-rijen tegen Kleur-/archiefrijen in verwijst_naar
+- **KEUZE-WRIJ-Z30-3** [Kern, impact 3] Veiligheidslabel bestaat in varianten die inhoudelijk verschillen
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: BESLUIT-Z30-4;alle rijen met veilig_variant
+- **KEUZE-WRIJ-Z34-2** [Structuur, impact 638] Leunende rijen volgen de oude assen nog
+  - Aanbeveling: Niet in één keer: per boog met vraag.py impact, te beginnen bij fase 2 en 3 (meeste leunende rijen).
+  - Raakt: BESLUIT-Z34-2;VERHAAL-fase2;VERHAAL-fase3;VERHAAL-fase4;VERHAAL-fase4-a;VERHAAL-fase5;VERHAAL-fase7-a
+- **KEUZE-WRIJ-Z33-11** [Structuur, impact 304] Naamparen (Z33, nieuwe namen in de toets)
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: PER-v4-ysa-maren;naam_markering
+- **KEUZE-WRIJ-Z33-9** [Structuur, impact 304] Na de dood genoemd (Z33, sterfjaren uit PER-rijen)
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: PER-v4-ysa-maren;relatie sterft_in
+- **KEUZE-WRIJ-Z32-5** [Structuur, impact 271] Twee schurken die Vessa heten
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: PER-saelmor-schurk-vessa;PER-sch-vessa
+- **KEUZE-WRIJ-Z32-1** [Structuur, impact 50] Ardemar III en Ardemar de Graanvorst: dezelfde koning?
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: GEB-r10-ardemar-val;PER-ardemar;PER-f1-ardemar-derde
+- **KEUZE-WRIJ-Z34-3** [Structuur, impact 34] Sjabloonfamilies met canon-gewicht zonder voorstel
+  - Aanbeveling: Pas na Z35: de personagerijen (grootste familie) eerst naar kolommen, net als personage_toestand.
+  - Raakt: BESLUIT-Z34-1;sjabloon_familie (markering structuur-voorstel;voorstel leeg)
+- **KEUZE-WRIJ-Z33-4** [Structuur, impact 33] Fase van HOOFDPERS en PER-rij verschilt
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: HOOFDPERS-Z4-kluwer;HOOFDPERS-Z4-kluwer/myrrhen/veslethi tegen PER-kluwer-held-zirr;HOOFDPERS-Z4-myrrhen;HOOFDPERS-Z4-veslethi;PER-myrr-ondal;PER-veslethi-held-lan
+- **KEUZE-WRIJ-Z15b-1** [Structuur, impact 30] Hoe ziet Thalen Hesta en Corran vanuit de baan
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: ORIGIN-WAAROM-6;YSA-Z15b-13
+- **KEUZE-WRIJ-Z21-1** [Structuur, impact 30] Wren Tallis en "Someone has to hold the ship"
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: ROMAN-Z16-h19;ROMAN-Z16-h20;ROMAN-Z16-h27;h19/h20 vs h27
+- **KEUZE-WRIJ-Z14-1** [Structuur, impact 29] Twee Varnaths?
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: BESLUIT-Z6-WRIJ-052;OORLOG-Z9-18;PER-varnath
+- **KEUZE-WRIJ-Z32-3** [Structuur, impact 26] Iska Spiegelhuid en Iskar Spiegelvader (Ves-Lethi)
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: PER-barsten-veslethi-Z6;PER-f7-veslethi-nara-oud
+- **KEUZE-WRIJ-Z32-4** [Structuur, impact 24] Hesk van Hal-Neth en Heske Halfgezicht
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: PER-f4-grauwe-heske;PER-hesk-kweker;VRAAG-067
+- **KEUZE-WRIJ-Z15-9** [Structuur, impact 21] Thalen in fase 6 / half versmolten
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: BESLUIT-Z15-7;HELD-SKELET-Z10-10;HORROR-Z9-2
+- **KEUZE-WRIJ-Z22-2** [Structuur, impact 18] Blauw licht in jaar 3 vs. Hesta's ruil
+  - Aanbeveling: Sluit mee met WRIJ-Z30-2: het blauwe licht in jaar 3 is het eerste teken dat de Modus geladen is.
+  - Raakt: BESLUIT-Z21-2;ROMAN-Z16-h27;YSA-Z21-16;YSA-Z21-3;YSA-Z22-4
+- **KEUZE-WRIJ-Z32-6** [Structuur, impact 13] Nadir Een-Vrouw: fase 5 of 801?
+  - Aanbeveling: Nadir in 801 laten (de jongste rij); de fase-5-rij wordt een voorouder met dezelfde naam (erfnaam).
+  - Raakt: PER-ishvar-nadir;PERS-Z4-ishvar-5-1
+- **KEUZE-WRIJ-Z20-2** [Structuur, impact 11] H25: welke lander kijkt naar de hut?
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: BESLUIT-Z20-2;ROMAN-Z16-h25;YSA-Z20-13
+- **KEUZE-WRIJ-Z32-2** [Structuur, impact 11] Selvara Varenne en Selvara Varenne de Jongere
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: PER-f6-selvara-jong-Z32;PER-selvara
+- **KEUZE-WRIJ-Z21-5** [Structuur, impact 7] Hesta's negen vonkcellen zonder vervolg
+  - Aanbeveling: Sluit mee met WRIJ-Z30-2: Hesta's negen vonkcellen zijn de drager van de Stille Modus.
+  - Raakt: YSA-Z21-3;h27 vs hoofdserie
+- **KEUZE-WRIJ-Z21-4** [Structuur, impact 4] 211 vertrekkers vs latere bergvolk-canon
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: BESLUIT-Z21-3;YSA-Z21-6;h30 vs latere canon bergvolk
+- **KEUZE-WRIJ-Z29-1** [Structuur, impact 3] Ysa weet van C-4-R en "three times" (h27) zonder bron
+  - Aanbeveling: Bron zoeken in h27 zelf; anders een regel toevoegen in een eerder hoofdstuk (roman niet door mij te wijzigen).
+  - Raakt: BESLUIT-Z24-1;YSA-Z20-17;h27 tegen h8/h24 (alleen Thalen hoorde het van de Reckoner)
+- **KEUZE-WRIJ-Z33-10** [Structuur, impact 3] Leeftijden PER-rijen tegen geboorte-anker
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: PER-f7-annike-Z32;anker *_geboren
+- **KEUZE-WRIJ-Z33-8** [Structuur, impact 3] Ankerkopieën die afwijken (Z33-ankers)
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: PER-f7-annike-Z32;tabel anker_kopie
+- **KEUZE-WRIJ-Z28-4** [Structuur, impact 2] Dieren op het schip/kamp (geit, hond) waren niet in de canon
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: YSA-Z28-37;YSA-Z28-41;YSA-Z28-42;h23 (vis);h25 (hond);h29/h30 (geiten)
+- **KEUZE-WRIJ-Z15b-2** [Kleur, impact 353] Lengte hoofdstuk 7 (tweede einde)
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: ROMANCE-Z15b-ysa-beatplan
+- **KEUZE-WRIJ-Z33-5** [Kleur, impact 343] Hoofdpersonen zonder PER-rij
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: Anath;Corvina;Edrun;VERHAAL-fase3;VERHAAL-fase4;VERHAAL-fase5-a
+- **KEUZE-WRIJ-Z35-1** [Kleur, impact 171] Rijm: bogen in één fase die te veel op elkaar lijken
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: VERHAAL-fase2;VERHAAL-fase2-c
+- **KEUZE-WRIJ-Z33-3** [Kleur, impact 39] Mal: register/vervalsing in te veel bogen
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: VERHAAL-fase7-Z32;tabel boog
+- **KEUZE-WRIJ-Z33-6** [Kleur, impact 36] Mal: aangrenzende bogen met hetzelfde profiel
+  - Aanbeveling: Nog geen aanbeveling: niet inhoudelijk gelezen in Z35.
+  - Raakt: VERHAAL-fase4-a;tabel boog
+- **KEUZE-WRIJ-Z14-2** [Kleur, impact 8] Levensduur 70 bij langlevende volken
+  - Aanbeveling: Opgelost in structuur: levensduur per volk staat in tabel levensduur (Aelthir ca. 900, Orrim onbekend); v_personage_tijdlijn rekent. Open blijft alleen Vaelorn (ca. 1200 jaar in 801, boven 900).
+  - Raakt: TOESTAND-Z11-PER-aelthir-schurk-ileth-V5-3
+- **KEUZE-WRIJ-Z31-14** [-, impact 1] Kern-indeling is op regel, niet rij voor rij gelezen
+  - Aanbeveling: Laat de koude lezer van de architect beslissen welke Kern-rijen twijfel geven, en lees alleen die.
+  - Raakt: HANDL-Z31-1;afgeleid.py;v_kern
+
+## 2. Kern-voorstellen
+
+- **KEUZE-VOORSTEL-Z35-kern-voortijd-erf** [Kern, impact 74] Kern-rand: fase 0 krijgt een erfenis
+  - Aanbeveling: BESLUIT-voorstel. Stel ERF-voortijd vast. Hij leunt alleen op Kern-rijen (ORIGIN-WAAROM-8, ORIGIN-10, ORIGIN-WAAROM-11, BESLUIT-Z16-8) en verandert er geen; zonder hem erft fase 1 van niets en is de spiraal aan de onderkant open.
+  - Raakt: ERF-voortijd;ORIGIN-WAAROM-8;ORIGIN-10;ORIGIN-WAAROM-11
+- **KEUZE-VOORSTEL-Z35-kern-faseoverzicht** [Kern, impact 73] Kern: de genre-overzichten tellen de fasen anders
+  - Aanbeveling: BESLUIT-voorstel voor zeven Kern-rijen. FASE-OVERZICHT-Z10-0 tot en met -7 nummeren Vonk als 1, Brand als 2 en Heden (801) als 7, terwijl de ankers en fase_rijm Overvloed 1, Vonk 2, Brand 3 en Barsten 7 zeggen, met 801 apart. Voorstel: vervang ze door zeven nieuwe Kern-rijen met de ankernummering (inhoud, de genrelijsten, blijft gelijk) en sluit WRIJ-Z33-1. Zonder dit besluit blijft de rijmregel op Kern-niveau twee tellingen naast elkaar houden.
+  - Raakt: FASE-OVERZICHT-Z10-0;FASE-OVERZICHT-Z10-1;FASE-OVERZICHT-Z10-2;FASE-OVERZICHT-Z10-3;FASE-OVERZICHT-Z10-5;FASE-OVERZICHT-Z10-6;FASE-OVERZICHT-Z10-7
+- **KEUZE-VOORSTEL-Z35-kern-derde-weg** [Kern, impact 54] Kern: wat de derde weg blijvend verandert
+  - Aanbeveling: BESLUIT-voorstel bij BESLUIT-2 en BESLUIT-Z32-9. De spiraal heeft voor 801 nog geen blijvende verandering die niet eerder voorkwam. Voorstel: na boek 1 kan niemand meer ja zeggen namens een ander lichaam, ook het Zegel niet; de instemmingssleutel van Thalen gaat terug naar wie hem draagt. Dat sluit de lijn die bij Ysa begon (fase 0) en botst niet met Thalens wens om te herstellen (BESLUIT-Z32-13), want hij wil de sleutel terug, Liora wil hem niet meer in één hand.
+  - Raakt: BESLUIT-2;BESLUIT-Z32-9;BESLUIT-Z32-13;BOOG-boek1
+
+## 3. Patroonbreuk: kies A, B of C
+
+- **KEUZE-VOORSTEL-Z35-breuk-noodtoestand** [Kern, impact 467] Breuk C: een noodwet zonder leugen
+  - Aanbeveling: BESLUIT-voorstel. De Deelwet van fase 4 werkt zonder vervalsing: de Zusters zeggen hardop dat zij hem schreven, en het volk neemt hem aan uit honger, niet uit vroomheid. De vervalsing schuift dan door naar fase 5, die hem achteraf heilig maakt. Grootste ingreep: VALS-noodtoestand vervalt en Saskes eigen blad (VERHAAL-fase4-c) wordt de enige leugen van de fase.
+  - Raakt: VALS-noodtoestand;FASE-noodtoestand;VERHAAL-fase4;VERHAAL-fase4-c;GES-officiele-versie
+- **KEUZE-VOORSTEL-Z35-breuk-markt** [Structuur, impact 548] Breuk A: de Markt als enige fase waarin de leugen meteen sneuvelt
+  - Aanbeveling: BESLUIT-voorstel. Maak van fase 6 ook op fase-niveau de uitzondering die BESLUIT-Z32-8 al in het verhaal legt: 'de Pest was een straf' houdt geen seizoen stand, omdat honderd mannen op de markt hun hemd uittrekken en hun builen laten zien. VALS-markt krijgt dan een tweede zin: de vervalsing werd geprobeerd en mislukte in het openbaar. Kleinste ingreep van de drie, want het verhaal is al zo geschreven.
+  - Raakt: VALS-markt;FASE-markt;BESLUIT-Z32-8;VERHAAL-fase6-Z32
+- **KEUZE-VOORSTEL-Z35-breuk-ontvangst** [Structuur, impact 417] Breuk B: Iresse wordt gehoord
+  - Aanbeveling: BESLUIT-voorstel. In fase 5 lekt Moeder Iresse in 300 de echte annalen; nu wordt dat doodgezwegen. Alternatief: het lek komt aan, de Brand-leugen ligt open op tafel, en de Ontvangst overleeft toch, omdat mensen ervoor kiezen te blijven geloven. Dan rijmt fase 5 niet meer op 'niemand weet het' maar op 'iedereen weet het en doet het toch'. Raakt de grond onder het Schisma der Stilte.
+  - Raakt: VALS-ontvangst;ERF-ontvangst;FASE-ontvangst;VERHAAL-fase5
+
+## 4. Hoofdverhalen (Kern-verhalen) aanpassen aan de rijm
+
+- **KEUZE-VOORSTEL-Z35-verhaal-3** [Structuur, impact 72] De Brand als kroniek die over de liefde liegt
+  - Aanbeveling: Voorstel voor VERHAAL-fase3-Z35. Het hoofdverhaal draagt nu drie lijnen die elk al een eigen boog hebben (Mira en Kovan in 3-a, Dessa in 3-b, de stemnacht in 3-c). Houd alleen Anaths heilige kroniek over, met de kanttekeningen; de laatste nacht van Mira en Ysara staat er niet in, en dat gat is het verhaal.
+  - Raakt: VERHAAL-fase3-Z35;VERHAAL-fase3-a-Z35;VERHAAL-fase3-b-Z35;VERHAAL-fase3-c-Z35;PER-ysara
+- **KEUZE-VOORSTEL-Z35-verhaal-1** [Structuur, impact 36] Nerys zonder spionagelijn
+  - Aanbeveling: Voorstel voor VERHAAL-fase1-Z35. Haal de badhuisnacht en Hessels gifmengster eruit: die intrige woont al in boog 1-c (Lenne). Wat overblijft is een ballade over één vriendschap en één naam in het register, en dat is precies het enige hoofdverhaal zonder romance. Rijm-as die schuift: de beslisser is alleen Nerys, nergens een hof.
+  - Raakt: VERHAAL-fase1-Z35;VERHAAL-fase1-c;PER-f1-nerys-Z32
+- **KEUZE-VOORSTEL-Z35-verhaal-2** [Structuur, impact 31] Ysel beslist, niet Tarn
+  - Aanbeveling: Voorstel voor VERHAAL-fase2-Z35, en de reparatie van WRIJ-Z35-1. Het hoofdverhaal en boog 2-c zijn nu hetzelfde verhaal van twee kanten (Tarn beslist, Orric betaalt). Laat in het hoofdverhaal Ysel de doorslag geven: zij kiest aan de rivierpoort om Orric te laten gaan zonder haar, en verliest haar netwerk van wasvrouwen. Tarns verraad blijft volledig in 2-c.
+  - Raakt: VERHAAL-fase2-Z35;VERHAAL-fase2-c-Z35;PER-f2-tarn;PER-orric
+- **KEUZE-VOORSTEL-Z35-verhaal-5** [Structuur, impact 21] Liane gelooft, en verder niets
+  - Aanbeveling: Voorstel voor VERHAAL-fase5-Z35. Daerans brieven en Corvina's onderschepping zijn het hart van boog 5-a; in het hoofdverhaal leiden ze af. Negen Ontvangsten, veertig jaar, één vrouw die blijft geloven en zelf de lijst gaat bijhouden. Het lek van Iresse hoort hier als enige plotdraad (zie Breuk B).
+  - Raakt: VERHAAL-fase5-Z35;VERHAAL-fase5-a-Z35;PER-f5-liane
+- **KEUZE-VOORSTEL-Z35-verhaal-4** [Structuur, impact 16] Een winter van vergaderingen, zonder bed
+  - Aanbeveling: Voorstel voor VERHAAL-fase4-Z35. De nacht in de herberg zonder vuur is al boog 4-a. Laat het hoofdverhaal alleen bij de clan: twaalf stemmen die over Edrun beslissen, en een breuk in tweeën. Geen erotische sleutelscène; de romance bestaat alleen als gerucht dat de clan bespreekt.
+  - Raakt: VERHAAL-fase4-Z35;VERHAAL-fase4-a-Z35;PER-f4-ylva
+- **KEUZE-VOORSTEL-Z35-verhaal-6** [Structuur, impact 5] Wie betaalt als de waarheid wint
+  - Aanbeveling: Voorstel voor VERHAAL-fase6-Z35. Dit is al het verhaal dat de mal breekt, maar boog en tekst noemen niemand die betaalt. Voorstel: Moeder Havra, die haar Pest-verklaring publiek moet intrekken en daarna de vervalsers gaat beschermen; zo komt de lijn naar fase 7 uit haar schande en niet alleen uit Machtelds les.
+  - Raakt: VERHAAL-fase6-Z35;BESLUIT-Z32-8;PER-f6-machteld
+- **KEUZE-VOORSTEL-Z35-verhaal-7** [Structuur, impact 3] Annike in posten, niet in scènes
+  - Aanbeveling: Voorstel voor VERHAAL-fase7-Z35. De wijnavond met Joost (7-a) en de brandnacht (7-b) staan nu dubbel: in de bogen en uitgeschreven in het hoofdverhaal. Laat het hoofdverhaal alleen het kasboek zijn: wat het blad van Liora kostte, wat Joost kostte, en één post die nooit sluit. De scènes zelf leven in hun eigen bogen.
+  - Raakt: VERHAAL-fase7-Z35;VERHAAL-fase7-a-Z35;VERHAAL-fase7-b-Z35;PER-f7-annike-Z32

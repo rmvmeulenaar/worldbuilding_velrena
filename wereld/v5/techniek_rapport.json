@@ -1,0 +1,277 @@
+{
+ "telling": {
+  "geen": 1488,
+  "gave": 245,
+  "zegelsteen": 79,
+  "bio+gave": 27,
+  "bio": 161,
+  "gave+zegelsteen": 11,
+  "bio+zegelsteen": 2,
+  "metaal": 77,
+  "bio+metaal": 8,
+  "metaal+zegelsteen": 5,
+  "gave+metaal": 2
+ },
+ "onduidelijk": [
+  [
+   "VERHAAL-fase6",
+   "3+ technieken: bio,metaal,gave"
+  ],
+  [
+   "TECH-GESCH-1",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "TECH-GESCH-2",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "TECH-GESCH-3",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "TECH-GESCH-5",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "TECH-GESCH-7",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "TECH-GESCH-9",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "TECHNO-REGEL",
+   "3+ technieken: bio,metaal,gave,zegelsteen"
+  ],
+  [
+   "TECHNO-MIX",
+   "3+ technieken: metaal,bio,gave,zegelsteen"
+  ],
+  [
+   "TECHNO-TIJDLIJN",
+   "3+ technieken: metaal,bio,zegelsteen,gave"
+  ],
+  [
+   "TECHNO-SCHAAL",
+   "3+ technieken: gave,metaal,zegelsteen"
+  ],
+  [
+   "TECHNO-VOLK-ves-lethi",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "TECHNO-REGEL-V4",
+   "3+ technieken: metaal,bio,zegelsteen,gave"
+  ],
+  [
+   "TECHNO-MIX-V4",
+   "3+ technieken: metaal,bio,gave,zegelsteen"
+  ],
+  [
+   "VOOR-V4-aelthir-2",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-aelthir-3",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-karrûk-1",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-karrûk-3",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-karrûk-4",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-dhurn-1",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-dhurn-2",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-dhurn-3",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-sael-mor-1",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-sael-mor-2",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-sael-mor-3",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-sael-mor-4",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-grauwen-1",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-grauwen-2",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-grauwen-3",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-grauwen-4",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-ishvar-1",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-ishvar-2",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-ishvar-3",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-ishvar-4",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-vathren-1",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-vathren-2",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-vathren-3",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-vathren-4",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-kluwer-2",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-kluwer-3",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-myrrhen-4",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-oevrin-1",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-oevrin-2",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-oevrin-3",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-oevrin-4",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-tharn-1",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-tharn-2",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-tharn-3",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-tharn-4",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-orrim-2",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-orrim-4",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-skerra-1",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-skerra-3",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-skerra-4",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-ves-lethi-1",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-ves-lethi-2",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-ves-lethi-3",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-ves-lethi-4",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-top-2",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-mid-3",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-mid-5",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-laag-4",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-laag-6",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-rebel-6",
+   "techcategorie zonder trefwoord"
+  ],
+  [
+   "VOOR-V4-rebel-7",
+   "techcategorie zonder trefwoord"
+  ]
+ ]
+}

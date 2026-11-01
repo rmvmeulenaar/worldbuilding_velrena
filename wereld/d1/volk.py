@@ -1,0 +1,156 @@
+# per volk: onderwerp -> (titel, tekst, functie, techniek)
+V={}
+V['aelthir']=[
+('eten','Bloemmaal','Aelthir eten bloemen, hars en traag gerijpte vruchten; één maaltijd per drie dagen. Heilig: de witte nachtbloem, alleen bij een eeuwfeest. Verboden: vlees van wie kon spreken. Prijs: een Aelthir-maal kost een seizoen kweek; mensen die het nadoen worden mager en helder. Haak (romance): een sterfelijke kok leert voor Ysmeriel koken en vergiftigt haar per ongeluk met gewone boter. Zintuig: zoet, koel, naar was.','ROM','bio'),
+('drank','Mistdauw','Drank uit opgevangen mist van de bossen, rijp na twintig jaar. Maakt gevoel tijdelijk terug bij oude Aelthir (na 600 jaar valt dat weg). Prijs: één fles per eeuw per familie; wie verkoopt, verkoopt een herinnering. Haak (intrige): Ileth kocht met mistdauw de stilte van drie Moeders. Zintuig: smaakt naar regen op koud glas.','INTR','bio'),
+('geld','Herinneringsruil','Aelthir kennen geen munt; ze ruilen herinneringen, opgeslagen in geurarchieven. Een herinnering van vóór het Zegel is meer waard dan een landgoed. Prijs: wie ruilt, vergeet. Haak (thriller): een geurarchief met de stem van een Maker wordt op de Zaadbeurs geveild. Zintuig: amber en natte aarde.','THRL','bio'),
+('ziekte','Het Vervagen','Na eeuwen verliest een Aelthir eerst geur, dan aanraking, dan naam. Heelsters noemen het de prijs van het eerste experiment (BESLUIT-V5-aelthir). Geneesmiddel: niets, alleen mistdauw en liefde vertragen het. Haak (romance): een mens die een vervagende Aelthir elke dag opnieuw moet voorstellen. Zintuig: koude vingers.','ROM','bio'),
+('dood','De Mistgang','Een Aelthir sterft niet in bed maar loopt de mist in en komt niet terug. Rouw: men zingt zijn naam tot niemand hem meer weet. Haak (thriller): een Aelthir die de mist inging, komt na 200 jaar terug, met een machinestem. Zintuig: stilte, dauw.','THRL','geen'),
+('muziek','Eeuwlied','Een lied dat honderd jaar duurt; elke generatie zingt één couplet. Instrument: de harsharp, snaren van gedroogde boomvezel. Haak (intrige): het ontbrekende couplet van jaar 0 bevat het bevel van Ysa. Zintuig: lage, lange tonen.','INTR','bio'),
+('spel','Wachtspel','Een bordspel waarin één zet per maand wordt gedaan; partijen duren eeuwen. Mensen gokken op de uitkomst. Haak (humor): een mensenstad heeft al drie generaties geld ingezet op één partij. Zintuig: klik van harssteen.','HUM','geen'),
+('humor','Trage grap','Aelthir-humor: een grap waarvan de clou pas na tien jaar komt. Mensen vinden ze saai; Aelthir lachen om mensen die te vroeg lachen. Gewone vreugde: samen naar een bloem kijken die eens per eeuw opengaat. Haak (romance): een mens wacht tien jaar op de clou van zijn geliefde.','HUM','geen'),
+('taal','Vloeken in de oude taal','Ze vloeken in woorden van het zaaischip zonder te weten wat ze betekenen; hun zwaarste vloek is "kern-leeg" (kernen op). Haak (thriller): een Dhurn hoort de vloek en herkent een machineterm. Zintuig: klikkende medeklinkers.','THRL','metaal'),
+('feest','Eeuwfeest','Eens per eeuw: alle Aelthir samen, één kind mogelijk, en het nieuwe couplet van het Eeuwlied. Mensen mogen kijken als ze stil zijn. Haak (erotiek, 18+): instemmende volwassen Aelthir-paren vrijen eens per eeuw onder de bloei; een mensenminnaar wordt toegelaten en het volk splitst.','LUST','geen')]
+V['karrûk']=[
+('eten','Vuurkampvlees','Geroosterd hoornvee, bloedworst en vergiste melk; de kampioen eet als eerste. Zaadkracht culinair: een kampioen eet de stierenballen na een gevecht, en dat is een grap en een ritueel tegelijk. Prijs: wie zonder overwinning eet, verliest eer. Haak (intrige): Asha Driekerf eet als eerste, en haar broer laat het toe. Zintuig: rook, vet, zuur.','INTR','geen'),
+('drank','Kerfmelk','Vergiste merriemelk met bloed; maakt dapper en dom. Verboden voor wie de volgende dag vecht. Haak (thriller): een kampioen sterft omdat iemand zijn kerfmelk verving door Kharvos-bier met slaapzaad. Zintuig: zuur, koperig.','THRL','bio'),
+('geld','Hoorns en kuddes','Rijkdom is vee en gewonnen hoorns; Kharvos betaalt huur in zilver dat de Karrûk omsmelten tot armbanden. Prijs: de Karrûk verkopen hun zonen als huursoldaat. Haak (intrige): Kharvos betaalt met vals zilver en de Karrûk komen erachter. Zintuig: rammelende armbanden.','INTR','geen'),
+('ziekte','Vechtkoorts','Hoofdschade na kampioensgevechten: woedeaanvallen, vergeten. Behandeling: koude steen op het hoofd en vasten. Haak (romance): een vrouw verzorgt haar verslagen rivaal. Zintuig: zweet, bonzen.','ROM','geen'),
+('dood','Hoornstapel','Doden worden met hun hoorns op een stapel gelegd en verbrand; de as gaat in de kerfmelk. Rouw: een week niet vechten. Haak (thriller): in de as van een kampioen zit metaalslak: hij had een kluisplaat in zijn schedel. Zintuig: brand, geschraapte hoorn.','THRL','metaal'),
+('muziek','Hoorntrom','Trommels van gespannen huid op hoorn; elke clan een ritme. Haak (intrige): een verrader trommelt het ritme van een andere clan om een aanval te lokken. Zintuig: diep gedreun in de borst.','INTR','bio'),
+('spel','Het Kampioensgevecht','Gevecht in een kring van as; wie de kring verlaat, verliest. Vrouwen mochten tot Asha niet meedoen. Gewone vreugde: kinderen (geen gevecht) en volwassenen spelen hoornwerpen. Haak (romance): twee kampioenen die verliefd zijn moeten tegen elkaar.','ROM','geen'),
+('humor','Kampvuurspot','Karrûk schelden elkaar warm: hoe grover de belediging, hoe dieper de vriendschap. De grootste grap is een Velmara-koe die zegt dat hij vrij is. Haak (humor): een Orde-gezant begrijpt niet dat ze vrienden wordt genoemd.','HUM','geen'),
+('taal','Vloek: "Een op honderd!"','De zwaarste Karrûk-vloek is het Velmara-getal: lafheid, mannen als vee. Haak (intrige): een Karrûk-vrouw gebruikt hem tegen haar eigen broer na Asha\'s overwinning. Zintuig: gegrom.','INTR','geen'),
+('feest','Brandnacht van de Karrûk','Herdenking van de vroegste vonk (vóór het Zegel), met vuurdansen en paarvorming tussen instemmende volwassenen. Haak (erotiek, 18+): wie samen door het vuur springt, deelt het bed; Asha springt met een Velmara-vrouw.','LUST','gave')]
+V['dhurn']=[
+('eten','Steenbrood','Brood gebakken op hete Sterrensteen-tegels; licht bitter, bewaart maanden. Verboden: brood op splinters, dat de Leegteziekte geeft. Prijs: steenbakkers worden blind. Haak (thriller): een bakker merkt dat de tegels warmer worden: de barst groeit. Zintuig: mineraal, metaalsmaak.','THRL','zegelsteen'),
+('drank','Rotsgistbier','Bier van gist uit de diepe mijnen; licht gloeiend. Afrodisiacum voor de Vreemdelingsnacht. Haak (intrige): gist uit een nieuwe gang gloeit te fel; Orvald verzwijgt dat de gang naar een kluis leidt. Zintuig: blauwe schuimkraag, rook.','INTR','zegelsteen'),
+('geld','Gildezilver','De Dhurn betalen in zilverstaafjes met gildezegel; gildelidmaatschap is erfelijk via de moeder. Prijs: wie niet in het gilde zit, werkt voor een kwart. Haak (intrige): een vervalst gildezegel leidt naar het Varenne-huis. Zintuig: koud, zwaar in de hand.','INTR','metaal'),
+('ziekte','Steenlong','Straling en stof: hoest met glanzend slijm, blauwe lippen. Kluwer-honingwas verlicht. Prijs: de gemiddelde mijnwerker wordt 45. Haak (romance): een Kluwer-heelster en een stervende Dhurn-meesteres. Zintuig: piepende adem.','ROM','zegelsteen'),
+('dood','Dieptegraf','Doden worden diep in uitgeputte gangen gelegd; men gelooft dat ze daar weer steen worden. Haak (horror): de doden in de oudste gang zijn verdwenen; Orrim-sporen leiden ernaar. Zintuig: druppelend water.','THRL','geen'),
+('muziek','Hamerkoor','Werkliederen op het ritme van hamers; elk gilde een eigen maat. Haak (intrige): een nieuw lied verspreidt de prijs van de veiling van Orvald. Zintuig: metaal op steen.','INTR','metaal'),
+('spel','Ladingsteen','Gokspel met gloeiende kiezels: wie de felste raadt, wint. Gewone vreugde: badavonden na de dienst, samen in warm water. Haak (thriller): een kiezel gloeit niet van steen maar van een kluiskern.','THRL','zegelsteen'),
+('humor','Mijngrap','Zwarte humor over doodgaan: "Een Dhurn sterft nooit, hij wordt gedolven." Bijnamen naar verwondingen. Haak (humor): een gildemeesteres met een gouden neus noemt zichzelf "de rijkste van ons".','HUM','geen'),
+('taal','Vloek: "Koude hand!"','Vloek die verwijst naar de verbannen Makerpartij van Corran Velt, hun eigen stamvader (PER-v4-corran-velt) zonder dat ze het weten. Haak (onthulling): de vloek is een eretitel.','INTR','metaal'),
+('feest','Steendag','Jaarlijks feest waarop de eerste Sterrensteen wordt gedolven en gezegend; daarna de Vreemdelingsnacht in de baden (instemmende volwassenen). Haak (erotiek, 18+): een Orde-inspectrice komt incognito naar de baden.','LUST','zegelsteen')]
+V['sael-mor']=[
+('eten','Zoutvis en wier','Gerookte vis, wierbrood, schelpen rauw; aan wal eten ze niets. Afrodisiacum: oesters met een druppel ladingswijn. Haak (romance): een zeevrouw weigert aan land te eten, behalve bij haar geliefde. Zintuig: zilt, jodium.','ROM','bio'),
+('drank','Stormrum','Rum uit Zoutkust-riet met geklopte vis-inkt; zwart. Drug: wie veel drinkt, hoort de getijdeparels. Haak (thriller): een kapitein drinkt om de parels te horen en vaart een schip met vrouwen op de klippen. Zintuig: brandend, zwart.','THRL','geen'),
+('geld','Vrachtrecht','Betaling in vrachtruimte: wie een plek in het ruim heeft, is rijk. Vreemd bloed is hun hoogste handelswaar (nieuw zaad tegen inteelt). Prijs: de Orde belast elk schip naar het aantal mannen aan boord. Haak (intrige): een schip vervoert meer mannen dan het register toestaat.','INTR','geen'),
+('ziekte','Zeebeen','Botverweking door jaren op zee; gebroken heupen. Genezing: Kluwer-was en strakke banden. Haak (romance): een verlamde kapiteinsvrouw bestuurt haar schip vanaf een stoel. Zintuig: krakend hout.','ROM','bio'),
+('dood','Zinkplicht','Doden gaan met een steen over boord; wie aan land wordt begraven, is gevangen. Haak (thriller): een Orde-tempel eist het lichaam van een gaven-man-kapitein en de bemanning steelt het terug. Zintuig: plons, stilte.','THRL','geen'),
+('muziek','Getijzang','Zang in twee stemmen die het getij volgen; Wanna Getijzangeres (PER-f3-sael-wanna) is de bekendste. Instrument: schelptrompet. Haak (intrige): een getijlied geeft zeekaarten door. Zintuig: lange golvende tonen.','INTR','geen'),
+('spel','Knopenspel','Wie het snelst een knoop legt en ontwart; ook een code. Gewone vreugde: dansen op het dek bij windstilte. Haak (intrige): de knopen bevatten de namen van gesmokkelde mannen.','INTR','geen'),
+('humor','Landrattengrap','Sael-mor lachen om wie zeeziek wordt en om Orde-zusters die "op het water lopen". Haak (humor): een hogepriesteres moet verkleed als matroos vluchten.','HUM','geen'),
+('taal','Vloek: "Droog lijf!"','Een droog lijf is een dood lijf; de vloek wenst iemand aan land. Haak (romance): een minnares zegt het teder tegen haar landgeliefde.','ROM','geen'),
+('feest','Knoopnacht','Schippers zweren trouw met knopen van zeekoord; daarna feest op alle dekken, liefde tussen instemmende volwassenen. Haak (erotiek, 18+): een knoop die vanzelf losgaat in de nacht.','LUST','geen')]
+V['grauwen']=[
+('eten','Restkeuken','Grauwen koken wat anderen weggooien: botsoep, schimmelkaas, gestolen tempelbrood. Zaadkracht culinair: zaadas uit tempels wordt bij hen gratis gegeven aan de zieken. Haak (intrige): de Orde laat expres bedorven brood achter. Zintuig: zuur, warm, armoedig.','INTR','bio'),
+('drank','Grijsbier','Bier van verlaten graan met grijswortel; maakt gevoel dof. Drug: wie het te lang drinkt, voelt geen pijn meer, maar ook geen liefde. Haak (romance): een Grauwe stopt met drinken om zijn geliefde te voelen. Zintuig: bitter.','ROM','bio'),
+('geld','Zorgschuld','Grauwen kennen geen geld; je betaalt in zorg: wie voor je zorgde, mag een dag van je vragen. Haak (intrige): een Varenne-agente laat zich verzorgen om een dag te kunnen eisen. Zintuig: warme handen.','INTR','geen'),
+('ziekte','Lijnverval','Inteeltziekte: vergroeide botten, blindheid, beroertes. Genezing: geen; verzorging met zorgstokken en zalf. Haak (thriller): een Registratrix ontdekt dat haar eigen huis Lijnverval draagt. Zintuig: scheef lopen.','THRL','bio'),
+('dood','Wakingsbed','Een stervende Grauwe wordt drie dagen door de hele familie aangeraakt; niemand sterft alleen. Haak (romance): een Orde-zuster mag de waking bijwonen en kan nooit meer terug.','ROM','geen'),
+('muziek','Krakende zang','Gezongen met gebroken stemmen, op zelfgemaakte rammelaars van bot. Mensen huiveren; Grauwen noemen het eerlijk. Haak (intrige): een lied vertelt welk huis hun voorouders verstootte.','INTR','bio'),
+('spel','Blinde tikker','Spel voor volwassenen met verbonden ogen; vertrouwen boven alles. Gewone vreugde: dans waarbij je elkaars vervormingen eert. Haak (romance): een gezonde vreemdeling speelt mee en raakt verliefd.','ROM','geen'),
+('humor','Spiegelspot','Grauwen spotten met mooie mensen: "zij ook, over drie generaties". Haak (humor): een Varenne-dame hoort het en laat haar register controleren.','HUM','geen'),
+('taal','Vloek: "Register!"','Het woord register is hun zwaarste vloek. Haak (intrige): een kind van een Registratrix leert het woord als scheldwoord kennen.','INTR','geen'),
+('feest','Nevelfeest','Eén nacht per jaar mogen Grauwen de dorpen in, gemaskerd; ze krijgen eten. De Orde noemt het genade, zij noemen het parade. Haak (thriller): een gemaskerde Grauwe is een vermomde gaven-man op de vlucht.','THRL','geen')]
+V['ishvar']=[
+('eten','Woestijnmaal','Dadels, kamelenmelk, gestoofde sprinkhanen, brood van woestijngras. Bijzonder: hun eten bevat geen Sterrensteen-stof, en mensen die het lang eten worden langzaam "ongeraakt". Haak (thriller): de Orde ontdekt dat Qesh dit voedsel aan haar wacht geeft. Zintuig: zoet, stof, kamelengeur.','THRL','geen'),
+('drank','Koudwater','Water uit de diepe putten van Qesh, zonder zegelstof; heilig voor Ishvar, ketterij voor de Orde. Prijs: een kruik kost een Kroon in Saelith. Haak (intrige): smokkel van putwater naar Moeders van de Stille Twijfel.','INTR','geen'),
+('geld','Zoutbaren en woord','Handel in zout en glas; een gesproken belofte geldt zonder papier. Prijs: wie een woord breekt, wordt de woestijn in gestuurd. Haak (intrige): een Varenne-handelaarster verliest alles door één leugen.','INTR','geen'),
+('ziekte','Zonblindheid','Oogziekte door zandstorm en zon; ze dragen sluiers. Genezing: koudwater-kompressen. Haak (romance): een blinde Ishvar herkent haar geliefde aan stem. Zintuig: brandende ogen.','ROM','geen'),
+('dood','Zandgraf','Doden worden rechtop in het zand gezet met het gezicht naar het oosten; de wind ontbloot ze na een jaar. Haak (thriller): een zandgraf toont een lichaam met een metalen implantaat.','THRL','metaal'),
+('muziek','Fluitwind','Lange fluiten van woestijnglas; muziek zonder zegelresonantie, rustgevend voor Vathren. Haak (romance): een Vathren hoort voor het eerst stilte in haar hoofd.','ROM','geen'),
+('spel','Zandloopwedstrijd','Wedlopen in mul zand; ook paarden en kamelen. Gewone vreugde: sterren tellen in de koude nacht. Haak (intrige): een gewonnen race opent een huwelijk.','INTR','geen'),
+('humor','Ongeraakt lachen','Ishvar maken grappen over zegellijnen: "wie gloeit, liegt". Haak (humor): Khaled-Ir laat zijn eigen hof uitlachen door een Ishvar-nar.','HUM','geen'),
+('taal','Vloek: "Gloed op je!"','Wens dat iemand door het Zegel geraakt wordt. Haak (intrige): de vloek wordt een rebellenleus.','INTR','geen'),
+('feest','Nacht van de Koude Ster','Feest op de koudste nacht; men wijst de "bewegende ster" aan (zie HEMEL-zaaischip). Haak (onthulling): de ster is het zaaischip Ysa in een baan.','THRL','metaal')]
+V['vathren']=[
+('eten','Stilmaal','Vathren eten bij stilte, want eten laat het Zegel harder kloppen. Ze eten rauwe groente en groeikom-licht. Haak (romance): een gaven-man kookt en het Zegel slaat over in haar hart. Zintuig: knapperig, koel.','ROM','zegelsteen'),
+('drank','Lekthee','Thee van lekbloemen, die waar het Zegel lekt groeien; versterkt de zegelzin. Drug: overmaat geeft visioenen van de Wieg. Haak (thriller): een visioen toont de Wiegkast. Zintuig: metaalachtig bloemig.','THRL','zegelsteen'),
+('geld','Lekvoorspelling','Vathren verdienen met het voorspellen van lekken; de Orde betaalt in vrijheid (een jaar niet opgejaagd). Haak (intrige): een valse voorspelling ontruimt een stad voor een roof.','INTR','zegelsteen'),
+('ziekte','Hartslagkoorts','Het hart volgt de Zegelhartslag; bij een lek slaat het over. Genezing: Ishvar-fluiten en koudwater. Haak (thriller): het hele volk krijgt tegelijk koorts.','THRL','zegelsteen'),
+('dood','Stille uitgang','Een Vathren sterft als het hart de Zegelhartslag loslaat; ze worden op een zegellijn begraven. Haak (horror): hun graven gloeien.','THRL','zegelsteen'),
+('muziek','Hartslagtrom','Trom op de maat van het Zegel; als de maat verandert, stopt het lied. Haak (thriller): in 801 verandert de maat.','THRL','zegelsteen'),
+('spel','Polsraden','Raden wie iemand liefheeft aan de hartslag. Gewone vreugde: samen in een kring liggen en de wereld horen kloppen. Haak (romance): het spel onthult een verboden liefde.','ROM','geen'),
+('humor','Hartgrap','Vathren plagen elkaar met "je hart sloeg over". Haak (humor): ze lachen in een tribunaal.','HUM','geen'),
+('taal','Vloek: "Lek in je!"','Wens dat iemand openbarst. Haak (horror): de vloek komt uit.','THRL','geen'),
+('feest','Hartnacht','Feest bij volle maan wanneer het Zegel rustig is; paren tussen instemmende volwassenen, de hartslagen samen. Haak (erotiek, 18+): twee harten vinden één maat.','LUST','zegelsteen')]
+V['kluwer']=[
+('eten','Korfhoning','Honing, larvenpap (dieren alleen als voedsel), wasbrood. Afrodisiacum: zwarte honing voor gaven-mannen; geneest zaadslijtage tijdelijk. Prijs: de Orde heeft het monopolie (ORDE-financien). Haak (intrige): een korf verkoopt buiten de Orde om. Zintuig: zoet, zoemend.','INTR','bio'),
+('drank','Mede van de korf','Mede die naar de korfstem smaakt; wie hem drinkt, hoort de korf even. Haak (thriller): een spion drinkt mede om korfgeheimen te horen. Zintuig: gonzend.','THRL','bio'),
+('geld','Wasgewicht','Waarde in was gewogen; het monopolie maakt de Orde rijk. Haak (intrige): de Kluwers vervalsen was om te bewijzen dat ze het monopolie kunnen breken.','INTR','bio'),
+('ziekte','Korfstilte','Een korf die stil valt: alle leden worden apathisch. Oorzaak: de koningin sterft. Haak (thriller): iemand vergiftigt de korfmoeder.','THRL','bio'),
+('dood','Wasgraf','Doden worden in was gegoten en in de korfwand gezet; de korf onthoudt ze. Haak (horror): een wasgraf bevat een mens.','THRL','bio'),
+('muziek','Gonzen','Muziek is samen gonzen in harmonie; een vals Kluwer wordt uitgestoten. Haak (romance): een uitgestoten Kluwer en een mens die hem leert zingen.','ROM','geen'),
+('spel','Zijdeweven','Wedstrijd wie de mooiste zijde spint. Gewone vreugde: de eerste honing van het jaar. Haak (intrige): een zijden kleed is een kaart.','INTR','bio'),
+('humor','Korfgrap','Kluwer-humor is collectief: één grap gonst door de hele korf. Mensen snappen het niet. Haak (humor): een Orde-gezant vraagt waarom de muur lacht.','HUM','geen'),
+('taal','Vloek: "Eén alleen!"','Alleen zijn is de grootste vloek. Haak (romance): een mens zegt het per ongeluk tegen een Kluwer-minnaar.','ROM','geen'),
+('feest','Waxnacht','De korf giet nieuwe cellen; gasten mogen honing proeven. Haak (intrige): wie op de Waxnacht honing weigert, verklaart oorlog.','INTR','bio')]
+V['myrrhen']=[
+('eten','Zwammaal','Ze eten niet, ze nemen op: aarde, rottend hout, af en toe een gekookte paddenstoel als gastvrijheid. Voor mensen bereid: sporenbrood. Haak (thriller): sporenbrood laat een mens dromen van de doden in het net. Zintuig: aards, vochtig.','THRL','bio'),
+('drank','Sporenroes-thee','Thee met sporen; geeft herinneringen van de doden. Drug, verslavend. Haak (intrige): een Stille Zuster drinkt om bewijs te horen.','INTR','bio'),
+('geld','Geheugenhuur','Myrrhen verhuren opslag in hun net: wie iets wil bewaren, laat het erin sterven of fluisteren. Prijs: een herinnering blijft voor altijd. Haak (thriller): de Orde betaalt om een herinnering te wissen en de Myrrhen weigeren.','THRL','bio'),
+('ziekte','Brandrot','Hun net verrot als de Orde hun bossen brandt; ze vergeten. Haak (thriller): het net vergeet de dag van de tweede Pest.','THRL','bio'),
+('dood','Netopname','Doden worden in het net opgenomen; niemand sterft echt. Haak (horror/romance): een weduwe praat elke nacht met haar dode vrouw in het net.','ROM','bio'),
+('muziek','Spoorzang','Lage trillingen door de bodem; mensen voelen het in hun voeten. Haak (intrige): de trilling waarschuwt voor de Orde.','INTR','bio'),
+('spel','Groeiwedstrijd','Wie het mooiste paddenstoelenpatroon laat groeien. Gewone vreugde: regen. Haak (humor): een patroon toont per ongeluk een obsceen woord.','HUM','bio'),
+('humor','Trage spot','Grappen die door het net gaan en terugkomen bij de verteller; mensen lachen om de echo. Haak (humor).','HUM','geen'),
+('taal','Vloek: "Vuur!"','Het woord vuur is hun vloek. Haak (intrige): een mensenleger gebruikt het als bedreiging.','INTR','geen'),
+('feest','Regenfeest','Eerste regen na droogte; ze zwellen op en zingen. Haak (romance): een mens danst in de regen tussen hen.','ROM','bio')]
+V['oevrin']=[
+('eten','Slikmaal','Rauwe vis, kroos, mosselen uit het slik. Bijzonder: eieren worden buiten het lichaam bevrucht en nooit gegeten. Haak (horror): Hal-Neth stal een slikbaar en at de inhoud uit onwetendheid.','THRL','bio'),
+('drank','Brakwater','Ze drinken brak; mensen worden er ziek van. Gastvrijheid: zoet water halen kost een Oevrin een dag. Haak (romance): een Oevrin haalt zoet water voor een mens.','ROM','geen'),
+('geld','Sluisrecht','Ze vragen tol in natura voor elke boot die ze door het slik trekken. Haak (intrige): ze trekken een Orde-boot gratis en vragen later een gunst.','INTR','geen'),
+('ziekte','Droogkoorts','Huid scheurt bij droogte; ze sterven aan land in drie dagen. Haak (thriller): een gevangen Oevrin moet nat gehouden worden tijdens een verhoor.','THRL','bio'),
+('dood','Teruggave','Doden worden in het diepste water gelegd. Haak (thriller): in het diepste water ligt iets van metaal: een lander van het zaaischip.','THRL','metaal'),
+('muziek','Klakzang','Muziek met kaken en water; onder water draagt het mijlen. Haak (intrige): een klakzang draagt een waarschuwing over de hele kust.','INTR','geen'),
+('spel','Adempoker','Wie het langst onder water kan met een mens. Gewone vreugde: de warme regen. Haak (romance): een mens wint en mag een geheim vragen.','ROM','geen'),
+('humor','Droge grap','Oevrin lachen om mensen die vies worden van modder. Haak (humor): een Varenne-dame valt in het slik.','HUM','geen'),
+('taal','Vloek: "Zand!"','Zand is de vloek: droogte, dood. Haak (romance).','ROM','geen'),
+('feest','Eiernacht','Paaitijd: eieren en zaad samen in het slik, zonder aanraking; een feest van zang. Haak (intrige): de Orde wil het geheim van buiten-lichaamsbevruchting stelen.','INTR','bio')]
+V['tharn']=[
+('eten','Reuzenpot','Hele ossen gestoofd, brood als karrenwielen; een Tharn eet voor twintig. Prijs: Kaldra betaalt hun voer en kan het stoppen. Haak (intrige): Kaldra halveert het voer om een eis af te dwingen. Zintuig: dampende ketels.','INTR','geen'),
+('drank','Dijkbier','Zwaar bier in reuzenbekers; eden worden met een volle beker gezworen. Haak (thriller): een eed onder dronken reuzen.','THRL','geen'),
+('geld','Steenschuld','Ze rekenen in gelegde stenen: elke steen van de oude dijk is een schuld die Velmara hen nog betaalt. Haak (intrige): de Tharn eisen de schuld op in 801.','INTR','geen'),
+('ziekte','Botgroei','Botten blijven groeien tot het hart het niet houdt. Haak (romance): een Tharn-vrouw krimpt haar leven in door minder te eten.','ROM','bio'),
+('dood','Dijkbegraving','Doden worden in de dijk gemetseld; de dijk is een graf. Haak (horror): bij een dijkbreuk komen de doden vrij.','THRL','geen'),
+('muziek','Bromlied','Lage liederen die steen laten trillen. Haak (thriller): het lied breekt een muur.','THRL','geen'),
+('spel','Steenwerpen','Wedstrijd keien werpen. Gewone vreugde: mensen op de schouders dragen. Haak (humor).','HUM','geen'),
+('humor','Grote grap','Tharn lachen om dingen die klein zijn; ze vinden mensen grappig. Haak (humor): een Tharn houdt een Moeder in de hand als een vogeltje.','HUM','geen'),
+('taal','Vloek: "Scheur!"','Vloek: moge je dijk breken. Haak (intrige).','INTR','geen'),
+('feest','Dijkfeest','Herdenking van de Eerste Dijk; namen voorlezen. Haak (onthulling): een naam op de grafsteen is een mens (VOOR-V4-tharn-4).','INTR','geen')]
+V['orrim']=[
+('eten','Zandmaal','Orrim eten zand, zout en mineralen; bij mensen proeven ze alleen zout. Haak (romance): een mensenvrouw zout haar huid voor Sha. Zintuig: knarsen.','ROM','zegelsteen'),
+('drank','Zoutwater','Mineraalrijk water uit grotten. Haak (thriller): de Orde vergiftigt een bron om Orrim te "oogsten".','THRL','zegelsteen'),
+('geld','Splinterprijs','Wat in hun lichaam groeit, is het duurste ter wereld; daarom worden ze geoogst. Prijs: een splinter is een vesting. Haak (thriller): een zwarte markt in Orrim-splinters.','THRL','zegelsteen'),
+('ziekte','Barstziekte','Hun lichaam barst mee met de Sterrensteen. Haak (thriller): de barst in de steen en in Sha lopen gelijk.','THRL','zegelsteen'),
+('dood','Groeve','Orrim sterven niet; ze verstenen tot groeve. De Orde mijnt hun doden. Haak (oorlog): het 801-ultimatum.','THRL','zegelsteen'),
+('muziek','Kristalzang','Ze zingen door hun eigen lichaam te laten resoneren; het Zegel antwoordt. Haak (thriller): een kristallied dat het Zegel laat trillen.','THRL','zegelsteen'),
+('spel','Echospel','Wie het verst een toon laat dragen. Gewone vreugde: zon op hun huid. Haak (romance).','ROM','geen'),
+('humor','Steenstilte','Orrim-humor is een stilte die te lang duurt. Haak (humor): een gezant breekt.','HUM','geen'),
+('taal','Vloek: "Oogst!"','Het woord oogst is moord. Haak (intrige).','INTR','geen'),
+('feest','Voorouderdag','Ze zingen naar de Orrim in het Zegel; die zingen terug. Haak (onthulling): de doden in het Zegel leven half.','THRL','zegelsteen')]
+V['skerra']=[
+('eten','Klifmaal','Vis, vogeleieren, zeewier; eten in de lucht gevangen. Haak (intrige): een gestolen ei is oorlog.','INTR','geen'),
+('drank','Windwijn','Gegiste bessen van de klif; lichter dan lucht in het hoofd. Drug: wie te veel drinkt, springt. Haak (thriller): een moord als ongeluk.','THRL','geen'),
+('geld','Veerprijs','Berichten zijn geld; een veer met zegel is een betaling. Haak (intrige): Skell Klifmeester verkoopt aan beide kanten.','INTR','geen'),
+('ziekte','Holbot','Holle botten breken; een gebroken vleugel is een dood leven. Haak (romance): een Skerra die niet meer kan vliegen en een mens die haar draagt.','ROM','bio'),
+('dood','Valbegrafenis','Doden worden van de hoogste klif geworpen; de wind neemt ze. Haak (thriller): een levende wordt gegooid.','THRL','geen'),
+('muziek','Fluitroep','Muziek van fluiten en roepen tussen kliffen. Haak (intrige): een code-roep.','INTR','geen'),
+('spel','Duikrace','Wie het laatst de vleugels opent. Gewone vreugde: zweven op warme wind. Haak (romance).','ROM','geen'),
+('humor','Luchtspot','Skerra lachen om alles wat niet vliegt. Haak (humor): een Tharn.','HUM','geen'),
+('taal','Vloek: "Grond!"','Grond is gevangenschap. Haak (romance).','ROM','geen'),
+('feest','Nestkroning','De vorstin wordt gekroond op het eerste nest. Haak (onthulling): het nest is leeg (VOOR-V4-skerra-4).','INTR','geen')]
+V['ves-lethi']=[
+('eten','Vormmaal','Ves-Lethi eten wat hun huidige vorm wil: in mannelijke fase vlees, in vrouwelijke zoet. Haak (thriller): een kok raadt hun fase aan de bestelling. Zintuig: wisselend.','THRL','bio'),
+('drank','Wisseldrank','Drank die de fasewissel versnelt; verboden door de Orde. Haak (intrige): de Orde zoekt de recepten.','INTR','bio'),
+('geld','Vormloon','Ze verdienen als spionnen en, verborgen, als vruchtbare mannelijke fase. Prijs: wie betrapt wordt, verdwijnt in de Stille Hand. Haak (thriller).','THRL','bio'),
+('ziekte','Vormverlies','Wie te vaak wisselt, vergeet de eigen vorm. Haak (romance): een minnaar die het ware-namenkoord bewaart.','ROM','bio'),
+('dood','Laatste vorm','Doden nemen de vorm van wie hen het meest liefhad. Haak (horror): een lijk heeft jouw gezicht.','THRL','bio'),
+('muziek','Spiegelzang','Ze imiteren elke stem. Haak (intrige): een stem van Ithrael.','INTR','geen'),
+('spel','Raad mijn vorm','Gezelschapsspel. Gewone vreugde: een avond zonder te veranderen. Haak (romance).','ROM','geen'),
+('humor','Imitatiegrap','Ze doen hoogwaardigheidsbekleders na. Haak (humor): een Moeder lacht om zichzelf.','HUM','geen'),
+('taal','Vloek: "Vast!"','Vast zijn (één vorm) is de vloek. Haak (romance).','ROM','geen'),
+('feest','Wisselnacht','Iedereen wisselt; liefde zonder vaste vorm tussen instemmende volwassenen. Haak (erotiek, 18+).','LUST','bio')]

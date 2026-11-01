@@ -1,0 +1,76 @@
+# 4 Noodtoestand: volken aelthir, dhurn, grauwen, ishvar, karrûk, kluwer, mens, oevrin, orrim, skerra, tharn, vathren, ves-lethi; bestaande bogen 4, eerdere profielen 29
+gewichten: verbondenheid 0.30, seriewaarde 0.25, nieuwheid 0.20, lezersvraag 0.15, kosten 0.10
+kandidaten na filters: 2899; afgevallen: {'R-verhaal_afstand': 26, 'rijm': 75}; Pareto-fronten: 36 (eerste front 25 profielen)
+
+## 10 uit het eerste front (greedy op marginale winst; niemand hierboven wordt op alle doelen tegelijk verslagen)
+
+1. VP-4-b2f84e0f | profiteur | romance | huis | mens | getuigenverslag | komt uit | 41-60|v
+    genre: rom5 ero1 hor0 sus2 act0 int0 kom2 tra1
+    doelen: nieuwheid 0.57, verbondenheid 0.84, seriewaarde 0.00, lezersvraag 0.70, kosten 0.24; marginale winst 0.546
+    raakt: ERF-brand; zaadje ZAAD-VERHAAL-fase3-Z35-1; wereldregel/rite RIT-zwijgende-rit; drager PER-vehlin
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+    gevoeligheid: robuust (blijft in de top-3 bij alle 10 verschuivingen van ±10%)
+
+2. VP-4-a706b0f8 | vervalser | thriller | rijk | dhurn | kasboek | keert om | 18-25|groep
+    genre: rom0 ero1 hor1 sus5 act2 int3 kom0 tra1
+    doelen: nieuwheid 0.71, verbondenheid 0.76, seriewaarde 0.00, lezersvraag 0.65, kosten 0.29; marginale winst 0.538
+    raakt: ERF-noodtoestand; zaadje ZAAD-VERHAAL-fase3-Z35-1; wereldregel/rite SEKS-VOLK-dhurn-mijnbroeders-Z6; drager PERS-Z4-dhurn-4-2-Z5b
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+    gevoeligheid: robuust (blijft in de top-3 bij alle 10 verschuivingen van ±10%)
+
+3. VP-4-7dbee30d | beslisser | romance | rijk | oevrin | register als verteller | faalt | 41-60|groep
+    genre: rom5 ero4 hor0 sus1 act0 int1 kom1 tra2
+    doelen: nieuwheid 0.71, verbondenheid 0.72, seriewaarde 0.00, lezersvraag 0.70, kosten 0.29; marginale winst 0.536
+    raakt: ERF-brand; zaadje ZAAD-VERHAAL-fase3-Z35-1; wereldregel/rite SEKS-VOLK-oevrin-poelzangers; drager PER-orvath
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+    gevoeligheid: robuust (blijft in de top-3 bij alle 10 verschuivingen van ±10%)
+
+4. VP-4-5ce3b393 | betaler | thriller | stad | karrûk | kasboek | komt uit | 61+|groep
+    genre: rom1 ero5 hor1 sus5 act2 int2 kom0 tra2
+    doelen: nieuwheid 0.71, verbondenheid 0.72, seriewaarde 0.00, lezersvraag 0.65, kosten 0.24; marginale winst 0.533
+    raakt: ERF-brand; zaadje ZAAD-VERHAAL-fase3-Z35-1; wereldregel/rite SEKS-VOLK-karruk-kampvechters; drager PERS-Z4-karruk-4-1
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+    gevoeligheid: robuust buiten de top-3 (10 verschuivingen)
+
+5. VP-4-1dd6ee63 | toeschouwer | mysterie | dorp | mens | kasboek | faalt | 41-60|v
+    genre: rom0 ero2 hor2 sus4 act0 int3 kom1 tra2
+    doelen: nieuwheid 0.57, verbondenheid 0.84, seriewaarde 0.00, lezersvraag 0.55, kosten 0.21; marginale winst 0.526
+    raakt: ERF-noodtoestand; zaadje ZAAD-VERHAAL-fase3-Z35-1; wereldregel/rite RIT-zwijgende-rit; drager PER-nessa-weerstand
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+    gevoeligheid: robuust buiten de top-3 (10 verschuivingen)
+
+6. VP-4-627bd9e5 | ontdekker | romance | stad | vathren | register als verteller | komt uit | 18-25|m
+    genre: rom5 ero0 hor0 sus3 act0 int0 kom1 tra1
+    doelen: nieuwheid 0.71, verbondenheid 0.67, seriewaarde 0.00, lezersvraag 0.70, kosten 0.24; marginale winst 0.524
+    raakt: ERF-noodtoestand; zaadje ZAAD-VERHAAL-fase3-Z35-1; wereldregel/rite SEKS-VOLK-vathren-gezellen; drager PERS-Z4-vathren-4-2
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+    gevoeligheid: robuust buiten de top-3 (10 verschuivingen)
+
+7. VP-4-49e38d59 | beslisser | actie | huis | mens | ballade | komt uit | 18-25|wisselend
+    genre: rom1 ero4 hor0 sus4 act5 int2 kom0 tra1
+    doelen: nieuwheid 0.57, verbondenheid 0.80, seriewaarde 0.00, lezersvraag 0.55, kosten 0.14; marginale winst 0.522
+    raakt: ERF-brand; zaadje ZAAD-VERHAAL-fase3-Z35-1; wereldregel/rite RIT-maanzalving; drager PER-vehlin
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+    gevoeligheid: robuust buiten de top-3 (10 verschuivingen)
+
+8. VP-4-a58af477 | liefde tussen posities | romance | huis | ishvar | toespraak | komt uit | 61+|groep
+    genre: rom5 ero1 hor0 sus2 act0 int0 kom1 tra1
+    doelen: nieuwheid 0.57, verbondenheid 0.72, seriewaarde 0.00, lezersvraag 0.70, kosten 0.14; marginale winst 0.522
+    raakt: ERF-noodtoestand; zaadje ZAAD-VERHAAL-fase3-Z35-1; wereldregel/rite SEKS-VOLK-ishvar-drieen; drager PERS-Z4-ishvar-4-2
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+    gevoeligheid: robuust buiten de top-3 (10 verschuivingen)
+
+9. VP-4-688cc826 | vervalser | horror | dorp | karrûk | ballade | faalt | 18-25|v
+    genre: rom0 ero2 hor5 sus3 act1 int1 kom0 tra3
+    doelen: nieuwheid 0.71, verbondenheid 0.72, seriewaarde 0.00, lezersvraag 0.50, kosten 0.16; marginale winst 0.519
+    raakt: ERF-noodtoestand; zaadje ZAAD-VERHAAL-fase3-Z35-1; wereldregel/rite SEKS-VOLK-karruk-kampvechters; drager PERS-Z4-karruk-4-2
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+    gevoeligheid: robuust buiten de top-3 (10 verschuivingen)
+
+10. VP-4-1de9245d | ontdekker | tragedie | dorp | mens | toespraak | komt uit | 26-40|wisselend
+    genre: rom2 ero3 hor0 sus3 act0 int1 kom0 tra5
+    doelen: nieuwheid 0.57, verbondenheid 0.84, seriewaarde 0.00, lezersvraag 0.45, kosten 0.16; marginale winst 0.516
+    raakt: ERF-noodtoestand; zaadje ZAAD-VERHAAL-fase3-Z35-1; wereldregel/rite RIT-zwijgende-rit; drager PER-f4-edrun
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+    gevoeligheid: robuust buiten de top-3 (10 verschuivingen)
+

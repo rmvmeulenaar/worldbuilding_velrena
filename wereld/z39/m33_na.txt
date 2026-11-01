@@ -1,0 +1,422 @@
+{
+ "1_veranderproef": {
+  "anker": "thalen_sterfjaar -1198",
+  "toets_vindt_mee_te_wijzigen": 7,
+  "levende_rijen_Thalen_en_1198": 10,
+  "levende_rijen_met_1198": 10,
+  "rijen_die_via_verwijzing_volgen": 0,
+  "plekken_te_wijzigen": 11,
+  "voorbeeld": [
+   "YSA-Z17-9",
+   "TOESTAND-Z17-PER-v4-thalen-orr-3",
+   "BESLUIT-Z18-3",
+   "YSA-Z21-13",
+   "BESLUIT-Z32-12",
+   "BESLUIT-Z32-13",
+   "ROMAN-Z16-h33",
+   "PER-v4-thalen-orr-Z32",
+   "ROMAN-Z16-roman-Z32",
+   "YSA-Z15-9-Z37"
+  ]
+ },
+ "2b_letterlijke_kopieen": {
+  "totaal": 542,
+  "per_anker": {
+   "heden_jaar": 141,
+   "muiterij_jaar": 54,
+   "liora_jaar": 46,
+   "eerste_register": 40,
+   "noodstand": 35,
+   "laatste_koning": 31,
+   "roman_hoofdstukken": 29,
+   "zegel_activatie": 24,
+   "thalen_leeftijd_1240": 21,
+   "annalen_vervalst": 15,
+   "pest_jaar": 12,
+   "eerste_zegellicht": 11,
+   "teo_leeftijd_801": 8,
+   "ysa_sterfjaar": 7,
+   "ysa_leeftijd_dood": 7,
+   "thalen_sterfjaar": 7,
+   "thalen_leeftijd_dood": 6,
+   "aan_boord": 6,
+   "muiterij_doden": 6,
+   "liora_leeftijd_801": 6,
+   "kharvos_inval": 5,
+   "kaldra_verraad": 5,
+   "overlevenden": 3,
+   "ysa_geboren": 2,
+   "annike_geboren": 2,
+   "eerste_kroon": 2,
+   "pest_oorsprong": 2,
+   "eerste_proef": 2,
+   "thalen_geboren": 1,
+   "roman_woorden": 1,
+   "nerys_geboren": 1,
+   "aukje_geboren": 1,
+   "ylva_geboren": 1,
+   "eerste_zoutopstand": 1,
+   "novelle_woorden": 1,
+   "tarn_geboren": 0,
+   "saske_geboren": 0,
+   "liane_geboren": 0,
+   "machteld_geboren": 0,
+   "joris_geboren": 0,
+   "gave_verhoudingen": 0
+  }
+ },
+ "2_duplicatiegraad": {
+  "ankers_met_patroon": 33,
+  "kopieen_totaal": 51,
+  "gemiddeld_per_anker": 1.5,
+  "per_anker": {
+   "ysa_geboren": 1,
+   "ysa_sterfjaar": 4,
+   "ysa_leeftijd_dood": 2,
+   "thalen_geboren": 2,
+   "thalen_leeftijd_1240": 2,
+   "thalen_sterfjaar": 7,
+   "thalen_leeftijd_dood": 5,
+   "muiterij_jaar": 1,
+   "aan_boord": 3,
+   "muiterij_doden": 7,
+   "overlevenden": 2,
+   "noodstand": 2,
+   "roman_hoofdstukken": 3,
+   "roman_woorden": 3,
+   "nerys_geboren": 0,
+   "aukje_geboren": 1,
+   "tarn_geboren": 0,
+   "saske_geboren": 0,
+   "ylva_geboren": 0,
+   "liane_geboren": 0,
+   "machteld_geboren": 0,
+   "joris_geboren": 0,
+   "annike_geboren": 2,
+   "pest_jaar": 1,
+   "kharvos_inval": 0,
+   "kaldra_verraad": 1,
+   "eerste_zegellicht": 0,
+   "annalen_vervalst": 0,
+   "eerste_kroon": 0,
+   "eerste_zoutopstand": 1,
+   "pest_oorsprong": 1,
+   "laatste_koning": 0,
+   "eerste_proef": 0
+  },
+  "ankers_totaal": 70
+ },
+ "3_dode_links": {
+  "dode_links": 0,
+  "van_levende_canon": 0
+ },
+ "4_herkomst": {
+  "Kern": {
+   "totaal": 111,
+   "met_bron": 111,
+   "pct": 100.0,
+   "proxy_reden_noemt_besluit_of_Rogier": 105,
+   "proxy_pct": 94.6
+  },
+  "Structuur": {
+   "totaal": 2625,
+   "met_bron": 1483,
+   "pct": 56.5,
+   "proxy_reden_noemt_besluit_of_Rogier": 1439,
+   "proxy_pct": 54.8
+  },
+  "kolom_bron_bestaat": true
+ },
+ "5_tests": {
+  "exit": 0,
+  "nieuw_falend": 0,
+  "bekend": 91,
+  "bekend_zonder_open_wrijving": 91,
+  "aantal_controles": 38,
+  "regeltabel": true
+ },
+ "6_roundtrip": {
+  "exit": 0,
+  "tabellen": 52,
+  "verschillen": 0,
+  "kolommen_kwijt": 0
+ },
+ "7_terugdraaien": {
+  "Z31->Z32 (backup_Z32 + r_Z32.py)": {
+   "exit": 0,
+   "verschillen": {
+    "canon": 0,
+    "wrijving": 0,
+    "open_vraag": 0,
+    "anker": 0,
+    "naam_markering": 0
+   },
+   "werkt": true
+  }
+ },
+ "4b_risico_top10": [
+  [
+   "thalen_sterfjaar",
+   "BESLUIT-Z32-12",
+   "-1198",
+   0,
+   "Kern",
+   18
+  ],
+  [
+   "thalen_leeftijd_dood",
+   "BESLUIT-Z32-12",
+   "74",
+   0,
+   "Kern",
+   18
+  ],
+  [
+   "thalen_sterfjaar",
+   "BESLUIT-Z32-13",
+   "-1198",
+   0,
+   "Kern",
+   18
+  ],
+  [
+   "muiterij_doden",
+   "ORIGIN-WAAROM-11",
+   "3454",
+   0,
+   "Kern",
+   18
+  ],
+  [
+   "noodstand",
+   "BESLUIT-Z30-2",
+   "100",
+   0,
+   "Kern",
+   17
+  ],
+  [
+   "aan_boord",
+   "BESLUIT-Z26-1",
+   "11.000",
+   0,
+   "Kern",
+   16
+  ],
+  [
+   "ysa_sterfjaar",
+   "BESLUIT-Z30-1",
+   "-1209",
+   0,
+   "Kern",
+   16
+  ],
+  [
+   "noodstand",
+   "BESLUIT-Z30-1",
+   "100",
+   0,
+   "Kern",
+   16
+  ],
+  [
+   "muiterij_jaar",
+   "BESLUIT-Z15-2",
+   "-1240",
+   0,
+   "Structuur",
+   15
+  ],
+  [
+   "ysa_geboren",
+   "YSA-Z17-9",
+   "-1270",
+   0,
+   "Structuur",
+   15
+  ]
+ ],
+ "extra": {
+  "bogen": 30,
+  "bogen_mal_score_4plus": 4,
+  "personages": 35,
+  "profiel_geen_personage": 0,
+  "zaadjes": [
+   [
+    "geland",
+    1
+   ],
+   [
+    "geoogst in canon (BESLUIT-Z36-1)",
+    1
+   ],
+   [
+    "geoogst in canon; tijdsvolgorde open in WRIJ-Z36-3",
+    1
+   ],
+   [
+    "gezaaid in voorstel (ZAAD-Z36-h32-protocol, wacht op roman)",
+    1
+   ],
+   [
+    "open",
+    1
+   ],
+   [
+    "open (WRIJ-Z29-1)",
+    1
+   ],
+   [
+    "open (verhaal nog niet geschreven)",
+    26
+   ],
+   [
+    "wacht op roman (Rogier)",
+    1
+   ]
+  ],
+  "relaties": [
+   [
+    "broer_zus_van",
+    6
+   ],
+   [
+    "eed_aan",
+    4
+   ],
+   [
+    "geboren_in",
+    139
+   ],
+   [
+    "kind_van",
+    3
+   ],
+   [
+    "leunt_op",
+    26188
+   ],
+   [
+    "meester_van",
+    3
+   ],
+   [
+    "ouder_van",
+    3
+   ],
+   [
+    "partner_van",
+    30
+   ],
+   [
+    "rivaal_van",
+    10
+   ],
+   [
+    "schuldig_aan",
+    79
+   ],
+   [
+    "sterft_in",
+    7
+   ],
+   [
+    "verbonden_met",
+    9
+   ],
+   [
+    "verraden_door",
+    46
+   ],
+   [
+    "vervangt",
+    2445
+   ],
+   [
+    "wil_hetzelfde_als",
+    54
+   ],
+   [
+    "woont_in",
+    258
+   ]
+  ],
+  "regels": [
+   [
+    "fout",
+    30
+   ],
+   [
+    "signaal",
+    8
+   ]
+  ],
+  "triggers": 35
+ },
+ "geuren": {
+  "puntkomma_lijsten_in_verwijst_naar": 6491,
+  "status_met_twee_betekenissen": 2445,
+  "historie_in_feit": 579,
+  "veiligheidsvarianten": 11,
+  "triggers": 35,
+  "foreign_keys": 0,
+  "ronde_aantallen_buiten_ideeenbank": {},
+  "open_wrijvingen": 2
+ },
+ "8_koude_lezer": {
+  "score": "10/10",
+  "goed": 10,
+  "detail": [
+   {
+    "vraag": "In welk jaar sterft Thalen Orr?",
+    "gekozen": "anker:thalen_sterfjaar",
+    "goed": true
+   },
+   {
+    "vraag": "In welk jaar sterft Ysa Maren?",
+    "gekozen": "anker:ysa_sterfjaar",
+    "goed": true
+   },
+   {
+    "vraag": "Hoeveel Makers overleven de Muiterij?",
+    "gekozen": "kern:BESLUIT-Z32-1",
+    "goed": true
+   },
+   {
+    "vraag": "Hoeveel mensen waren aan boord van het zaaischip?",
+    "gekozen": "anker:aan_boord",
+    "goed": true
+   },
+   {
+    "vraag": "Hoeveel vrouwen per man laat het Zegel over (noodstand)?",
+    "gekozen": "kern:REGEL-verhouding-Z12",
+    "goed": true
+   },
+   {
+    "vraag": "Wie activeert het Zegel in jaar 0?",
+    "gekozen": "anker:zegel_activatie",
+    "goed": true
+   },
+   {
+    "vraag": "Wat is de minimumleeftijd voor iedere seksuele rol?",
+    "gekozen": "handl:HANDL-Z31-2",
+    "goed": true
+   },
+   {
+    "vraag": "Hoeveel hoofdstukken heeft de roman over Ysa?",
+    "gekozen": "anker:roman_hoofdstukken",
+    "goed": true
+   },
+   {
+    "vraag": "In welk jaar speelt het verhaal van Liora?",
+    "gekozen": "anker:liora_jaar",
+    "goed": true
+   },
+   {
+    "vraag": "Geldt de harde grens ook als veilig_18plus = 0?",
+    "gekozen": "handl:HANDL-Z31-2",
+    "goed": true
+   }
+  ]
+ }
+}

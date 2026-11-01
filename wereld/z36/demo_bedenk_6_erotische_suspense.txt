@@ -1,0 +1,76 @@
+# 6 Markt: volken aelthir, dhurn, grauwen, ishvar, karrûk, kluwer, mens, myrrhen, oevrin, orrim, sael-mor, skerra, tharn, vathren; bestaande bogen 4, eerdere profielen 19
+gewichten: verbondenheid 0.30, seriewaarde 0.25, nieuwheid 0.20, lezersvraag 0.15, kosten 0.10; doelprofiel erotische suspense (min erotiek>=4, suspense>=4)
+kandidaten na filters: 421; afgevallen: {'doelprofiel-minimum': 3480, 'rijm': 74, 'R-verhaal_afstand': 25}
+
+## 10 profielen (farthest-point, eerst alle zeven posities, daarna marginale winst)
+
+1. VP-6-fec608ae | profiteur | mysterie | wereld | orrim | getuigenverslag | blijft verborgen | 61+|groep
+    genre: rom1 ero5 hor1 sus4 act0 int4 kom2 tra1
+    doelen: nieuwheid 0.86, verbondenheid 0.42, seriewaarde 0.00, lezersvraag 0.55, kosten 0.42, genrematch 0.82; marginale winst 0.516
+    raakt: ERF-ontvangst; zaadje -; wereldregel/rite SEKS-VOLK-orrim-slijpers; drager PER-orrim-schurk-graal
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+    gevoeligheid: robuust buiten de top-3 (10 verschuivingen)
+
+2. VP-6-69df71fc | liefde tussen posities | mysterie | huis | mens | brieven | faalt | 18-25|groep
+    genre: rom3 ero4 hor1 sus4 act0 int3 kom1 tra2
+    doelen: nieuwheid 0.71, verbondenheid 0.91, seriewaarde 0.00, lezersvraag 0.55, kosten 0.24, genrematch 0.82; marginale winst 0.625
+    raakt: ERF-markt; zaadje ZAAD-VERHAAL-fase5-Z35-2; wereldregel/rite RIT-veiling; drager PER-pest-zarah
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+    gevoeligheid: robuust (blijft in de top-3 bij alle 10 verschuivingen van ±10%)
+
+3. VP-6-53b69f11 | beslisser | thriller | wereld | sael-mor | aftellen | keert om | 26-40|v
+    genre: rom1 ero5 hor1 sus5 act2 int3 kom0 tra1
+    doelen: nieuwheid 0.71, verbondenheid 0.76, seriewaarde 0.00, lezersvraag 0.65, kosten 0.50, genrematch 0.93; marginale winst 0.599
+    raakt: ERF-ontvangst; zaadje ZAAD-VERHAAL-fase5-Z35-1; wereldregel/rite SEKS-VOLK-saelmor-diepduikers; drager PERS-Z4-saelmor-6-2
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+    gevoeligheid: robuust (blijft in de top-3 bij alle 10 verschuivingen van ±10%)
+
+4. VP-6-74c34da9 | betaler | mysterie | dorp | karrûk | brieven | komt uit | 26-40|v
+    genre: rom1 ero4 hor1 sus5 act0 int3 kom1 tra2
+    doelen: nieuwheid 0.71, verbondenheid 0.72, seriewaarde 0.00, lezersvraag 0.55, kosten 0.27, genrematch 0.85; marginale winst 0.582
+    raakt: ERF-ontvangst; zaadje ZAAD-VERHAAL-fase5-Z35-2; wereldregel/rite SEKS-VOLK-karruk-bloedkampen; drager PER-karruk-schurk-durgh
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+    gevoeligheid: robuust buiten de top-3 (10 verschuivingen)
+
+5. VP-6-392e4d5e | toeschouwer | mysterie | huis | aelthir | kasboek | keert om | 41-60|v
+    genre: rom1 ero5 hor2 sus5 act0 int3 kom1 tra1
+    doelen: nieuwheid 0.71, verbondenheid 0.67, seriewaarde 0.00, lezersvraag 0.55, kosten 0.19, genrematch 0.88; marginale winst 0.580
+    raakt: ERF-markt; zaadje ZAAD-VERHAAL-fase5-Z35-2; wereldregel/rite SEKS-VOLK-aelthir-geheugenruilers; drager PERS-Z4-aelthir-6-2-Z5b
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+    gevoeligheid: robuust buiten de top-3 (10 verschuivingen)
+
+6. VP-6-6853028f | ontdekker | actie | huis | karrûk | rechtszaak | keert om | 61+|groep
+    genre: rom1 ero5 hor0 sus5 act5 int1 kom0 tra1
+    doelen: nieuwheid 0.71, verbondenheid 0.72, seriewaarde 0.00, lezersvraag 0.55, kosten 0.29, genrematch 0.82; marginale winst 0.576
+    raakt: ERF-markt; zaadje ZAAD-VERHAAL-fase5-Z35-2; wereldregel/rite SEKS-VOLK-karruk-kampvechters; drager PER-karruk-schurk-durgh
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+    gevoeligheid: robuust buiten de top-3 (10 verschuivingen)
+
+7. VP-6-5618af24 | vervalser | survival | stad | ishvar | zelfportret | komt uit | 26-40|wisselend
+    genre: rom1 ero5 hor2 sus4 act3 int1 kom0 tra2
+    doelen: nieuwheid 0.71, verbondenheid 0.67, seriewaarde 0.00, lezersvraag 0.40, kosten 0.30, genrematch 0.82; marginale winst 0.543
+    raakt: ERF-markt; zaadje ZAAD-VERHAAL-fase5-Z35-1; wereldregel/rite SEKS-VOLK-ishvar-stilte; drager PERS-Z4-ishvar-6-2
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+    gevoeligheid: robuust buiten de top-3 (10 verschuivingen)
+
+8. VP-6-6e5a2d16 | liefde tussen posities | thriller | huis | oevrin | zelfportret | keert om | 61+|wisselend
+    genre: rom3 ero4 hor1 sus5 act2 int2 kom0 tra1
+    doelen: nieuwheid 0.71, verbondenheid 0.67, seriewaarde 0.00, lezersvraag 0.65, kosten 0.24, genrematch 0.93; marginale winst 0.598
+    raakt: ERF-markt; zaadje ZAAD-VERHAAL-fase5-Z35-1; wereldregel/rite SEKS-VOLK-oevrin-landminnaars; drager PERS-Z4-oevrin-6-2
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+    gevoeligheid: robuust (blijft in de top-3 bij alle 10 verschuivingen van ±10%)
+
+9. VP-6-540d2be2 | liefde tussen posities | thriller | rijk | ishvar | documenten | faalt | 26-40|groep
+    genre: rom3 ero5 hor1 sus5 act2 int2 kom0 tra2
+    doelen: nieuwheid 0.71, verbondenheid 0.67, seriewaarde 0.00, lezersvraag 0.65, kosten 0.36, genrematch 0.93; marginale winst 0.589
+    raakt: ERF-markt; zaadje ZAAD-VERHAAL-fase5-Z35-2; wereldregel/rite SEKS-VOLK-ishvar-stilte; drager PER-ishvar-schurk-ammar
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+    gevoeligheid: robuust buiten de top-3 (10 verschuivingen)
+
+10. VP-6-484aa271 | liefde tussen posities | mysterie | stad | orrim | ballade | keert om | 26-40|v
+    genre: rom3 ero4 hor1 sus5 act0 int3 kom1 tra1
+    doelen: nieuwheid 0.71, verbondenheid 0.67, seriewaarde 0.00, lezersvraag 0.55, kosten 0.18, genrematch 0.88; marginale winst 0.581
+    raakt: ERF-markt; zaadje ZAAD-VERHAAL-fase5-Z35-1; wereldregel/rite SEKS-VOLK-orrim-steeneters; drager PER-orrim-schurk-graal
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+    gevoeligheid: robuust buiten de top-3 (10 verschuivingen)
+

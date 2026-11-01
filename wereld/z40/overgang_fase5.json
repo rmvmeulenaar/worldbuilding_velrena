@@ -1,0 +1,25 @@
+{
+ "fase": [
+  130,
+  340
+ ],
+ "begin_van": "Z40-F4R-0931",
+ "geldig": 50,
+ "weggegooid": {},
+ "deelwet_of_register_opnieuw_ingesteld_runs": 0,
+ "instituten_bij_start": [
+  "deelwet",
+  "eilanden",
+  "orde",
+  "ramp_groenmuil",
+  "ramp_hoogvrouwe",
+  "register",
+  "rotatie"
+ ],
+ "gem": {
+  "intrige": 33.86,
+  "ommekeer": 59.32,
+  "verbinding": 2.0,
+  "gebeurtenissen": 522.88
+ }
+}

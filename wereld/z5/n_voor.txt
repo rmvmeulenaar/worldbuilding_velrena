@@ -1,0 +1,25 @@
+VOOR-V4-aelthir-1|hennep en dauw|knopen die tikken|ruw koord|schemer|wie het rekeningkoord leest kent geheimen van een eeuw|Een knoop is vers
+VOOR-V4-aelthir-2|zijde en huid|ruisen|zijde die strakker zit bij opwinding (volwassenen)|kaars|levende zijde liegt niet|De zijde trekt strak bij een leugen
+VOOR-V4-aelthir-4|oud bot|tikken|koud bot|lamp|Ileths sleutelbeen opent een kluis|Het bot is warm
+VOOR-V4-karrûk-2|ijzer en vonk|knetteren|hete steel|vonk|de bijl met vonknerf gloeit bij een kampioen|Hij gloeit bij een vrouw
+VOOR-V4-dhurn-2|olie|zoemen|warme lamp|blauw licht|de mijnlamp met splinter waarschuwt voor gas|De lamp waarschuwt voor een mens
+VOOR-V4-dhurn-4|metaal|een vrouwenstem|koud metaal|groen|de sprekende plaat spreekt de dode taal|Hij noemt een naam
+VOOR-V4-sael-mor-1|zout|ruisen|gladde parel|parelglans|de getijdeparel verandert met het getij|Hij verandert zonder getij
+VOOR-V4-grauwen-3|was|stilte|koele was op het gezicht|kaars|het wasmasker verbergt vergroeiing|Een masker smelt in de zon
+VOOR-V4-ishvar-1|zand|stilte|koud glas|geen weerspiegeling|de blinde spiegel toont alleen wat er niet is|Hij toont Liora's moeder
+VOOR-V4-ishvar-4|zand|ruisen|glas|maan|de zandklok loopt alleen bij aanraking|Hij loopt vanzelf
+VOOR-V4-kluwer-2|was en honing|kraken|zachte was|amber|een wasbrief smelt als hij geopend wordt door de verkeerde|Hij smelt in Liora's hand niet
+VOOR-V4-kluwer-4|chitine|klikken|hard en licht|glans|chitineharnas stopt pijlen|Er zit een korf in
+VOOR-V4-myrrhen-1|zwam en papier|ritselen|zachte bladzijden|zwamlicht|het geurboek vertelt in geuren|Een geur is van Hesta
+VOOR-V4-myrrhen-2|sporen|sissen|duizeligheid|rook|sporenwierook toont herinneringen|De herinnering is niet van jou
+VOOR-V4-oevrin-2|slik|bubbels|natte sluier|blauw|de kieuwsluier laat je onder water ademen|Hij lekt
+VOOR-V4-tharn-1|klei en ijzer|een dreun|zware hamer|grijs|de dijkhamer zingt bij de slag|Hij zingt niet meer
+VOOR-V4-orrim-1|ozon|zingen|kristal op de tong|gloed|de kristaltong vertaalt Orrim|Hij vertaalt ook het Zegel
+VOOR-V4-skerra-1|wind en veer|fluiten|lichte veer|helder|de klifveer wijst naar het nest|Hij wijst naar de ster
+VOOR-V4-ves-lethi-1|niets|stilte|koud glas|maan|de vormspiegel toont je ware vorm|Hij toont iets anders
+VOOR-V4-top-1|wierook|tikken op steen|koude staf|zegellicht|de Hogemoederstaf zoemt bij het Zegel|Hij stopt met zoemen
+VOOR-V4-top-8|koud metaal|een klik|zware sleutel|lamp|de sleutel van het registerorigineel past in twee sloten|Het tweede slot is in de Wortel
+VOOR-V4-mid-2|koper en zaad|tikken|koude schaal|lamp|de weegschaal voor zaad liegt bij warmte|Een koopster verwarmt hem
+VOOR-V4-mid-7|olie|zoemen|warm trillen (volwassenen)|zwak licht|de kleine trilkern is een stukje oude techniek|Hij draait nog op een Harrow-kern
+VOOR-V4-rebel-2|inkt en rook|ritselen|ruw papier|kaars|de lekkaart toont waar het Zegel lekt|Een lek bij Hallowyn
+VOOR-V4-rebel-8|bot en as|stilte|koud bot|lamp|de schedel van Varnath wordt doorgegeven|Hij is warm

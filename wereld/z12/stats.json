@@ -1,0 +1,47 @@
+{
+ "nieuw": 0,
+ "vastgesteld": {},
+ "vervangen": [],
+ "keten": {
+  "1": 132,
+  "2": 17,
+  "3": 138,
+  "4": 3,
+  "5": 10,
+  "6": 70,
+  "7": 58,
+  "8": 27,
+  "9": 2,
+  "10": 30,
+  "11": 42,
+  "12": 16,
+  "13": 1,
+  "14": 6,
+  "15": 15
+ },
+ "treffers": [],
+ "wrijvingen": 9,
+ "open": [
+  "Stem in de Wortel: Thalen Orr (Z4) of Ysara (besluit 15)"
+ ],
+ "canon": 6379,
+ "status": [
+  [
+   "vastgesteld",
+   241
+  ],
+  [
+   "vervallen",
+   45
+  ],
+  [
+   "voorlopig",
+   5746
+  ],
+  [
+   "voorlopig, vervangen",
+   347
+  ]
+ ],
+ "integriteit": "ok"
+}

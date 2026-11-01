@@ -1,0 +1,74 @@
+instroom 1983; uitval afstand 772; uitval verbinding 90; uitval filter 0; geen fase 1103; ent-klaar 18
+  fase (geen fase) : instroom 1103 | afstand 0 | verbinding 0 | ent-klaar 0
+  fase 0 Voortijd : instroom 48 | afstand 42 | verbinding 6 | ent-klaar 0
+  fase 1 Overvloed : instroom 128 | afstand 123 | verbinding 4 | ent-klaar 1
+  fase 2 Vonk : instroom 53 | afstand 48 | verbinding 2 | ent-klaar 3
+  fase 3 Brand : instroom 51 | afstand 51 | verbinding 0 | ent-klaar 0
+  fase 4 Noodtoestand : instroom 47 | afstand 45 | verbinding 1 | ent-klaar 1
+  fase 5 Ontvangst : instroom 62 | afstand 58 | verbinding 2 | ent-klaar 2
+  fase 6 Markt : instroom 60 | afstand 44 | verbinding 6 | ent-klaar 10
+  fase 7 Barsten : instroom 53 | afstand 53 | verbinding 0 | ent-klaar 0
+  fase 801 Heden : instroom 378 | afstand 308 | verbinding 69 | ent-klaar 1
+  per fase en positie (instroom, uitval afstand, uitval verbinding, ent-klaar):
+    0 Voortijd | - | 11 | 11 | 0 | 0
+    0 Voortijd | beslisser | 7 | 7 | 0 | 0
+    0 Voortijd | betaler | 9 | 5 | 4 | 0
+    0 Voortijd | liefde tussen posities | 13 | 11 | 2 | 0
+    0 Voortijd | ontdekker | 6 | 6 | 0 | 0
+    0 Voortijd | profiteur | 1 | 1 | 0 | 0
+    0 Voortijd | vervalser | 1 | 1 | 0 | 0
+    1 Overvloed | - | 70 | 69 | 1 | 0
+    1 Overvloed | beslisser | 1 | 1 | 0 | 0
+    1 Overvloed | betaler | 40 | 40 | 0 | 0
+    1 Overvloed | liefde tussen posities | 6 | 6 | 0 | 0
+    1 Overvloed | ontdekker | 6 | 4 | 2 | 0
+    1 Overvloed | profiteur | 2 | 1 | 0 | 1
+    1 Overvloed | toeschouwer | 1 | 1 | 0 | 0
+    1 Overvloed | vervalser | 2 | 1 | 1 | 0
+    2 Vonk | - | 26 | 25 | 0 | 1
+    2 Vonk | betaler | 15 | 11 | 2 | 2
+    2 Vonk | liefde tussen posities | 3 | 3 | 0 | 0
+    2 Vonk | ontdekker | 1 | 1 | 0 | 0
+    2 Vonk | profiteur | 5 | 5 | 0 | 0
+    2 Vonk | vervalser | 3 | 3 | 0 | 0
+    3 Brand | - | 27 | 27 | 0 | 0
+    3 Brand | betaler | 13 | 13 | 0 | 0
+    3 Brand | liefde tussen posities | 4 | 4 | 0 | 0
+    3 Brand | ontdekker | 4 | 4 | 0 | 0
+    3 Brand | profiteur | 3 | 3 | 0 | 0
+    4 Noodtoestand | - | 27 | 27 | 0 | 0
+    4 Noodtoestand | betaler | 5 | 3 | 1 | 1
+    4 Noodtoestand | liefde tussen posities | 3 | 3 | 0 | 0
+    4 Noodtoestand | ontdekker | 2 | 2 | 0 | 0
+    4 Noodtoestand | profiteur | 1 | 1 | 0 | 0
+    4 Noodtoestand | toeschouwer | 2 | 2 | 0 | 0
+    4 Noodtoestand | vervalser | 7 | 7 | 0 | 0
+    5 Ontvangst | - | 28 | 26 | 1 | 1
+    5 Ontvangst | betaler | 13 | 12 | 1 | 0
+    5 Ontvangst | liefde tussen posities | 2 | 2 | 0 | 0
+    5 Ontvangst | ontdekker | 6 | 6 | 0 | 0
+    5 Ontvangst | profiteur | 4 | 3 | 0 | 1
+    5 Ontvangst | toeschouwer | 2 | 2 | 0 | 0
+    5 Ontvangst | vervalser | 7 | 7 | 0 | 0
+    6 Markt | - | 10 | 10 | 0 | 0
+    6 Markt | beslisser | 1 | 1 | 0 | 0
+    6 Markt | betaler | 19 | 13 | 6 | 0
+    6 Markt | liefde tussen posities | 1 | 1 | 0 | 0
+    6 Markt | ontdekker | 4 | 4 | 0 | 0
+    6 Markt | profiteur | 24 | 15 | 0 | 9
+    6 Markt | vervalser | 1 | 0 | 0 | 1
+    7 Barsten | - | 36 | 36 | 0 | 0
+    7 Barsten | betaler | 8 | 8 | 0 | 0
+    7 Barsten | liefde tussen posities | 2 | 2 | 0 | 0
+    7 Barsten | ontdekker | 1 | 1 | 0 | 0
+    7 Barsten | profiteur | 2 | 2 | 0 | 0
+    7 Barsten | toeschouwer | 3 | 3 | 0 | 0
+    7 Barsten | vervalser | 1 | 1 | 0 | 0
+    801 Heden | - | 134 | 127 | 7 | 0
+    801 Heden | beslisser | 91 | 91 | 0 | 0
+    801 Heden | betaler | 103 | 59 | 44 | 0
+    801 Heden | liefde tussen posities | 17 | 10 | 7 | 0
+    801 Heden | ontdekker | 17 | 14 | 3 | 0
+    801 Heden | profiteur | 2 | 1 | 1 | 0
+    801 Heden | toeschouwer | 7 | 3 | 4 | 0
+    801 Heden | vervalser | 7 | 3 | 3 | 1

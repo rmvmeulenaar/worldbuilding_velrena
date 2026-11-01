@@ -1,0 +1,16 @@
+causale samenhang 4892 4892 100.0 {}
+steekproef fout 0 van 50 95%-bovengrens (Clopper-Pearson) 7.11 %; n nodig bij 0 fouten voor <=2%: 183
+premisse-afstand (4, ('IDEE-Z39-2', 'IDEE-Z39-4'))
+IDEE-Z39-1 0.029 PER-kesh-lijn 0 0
+IDEE-Z39-2 0.027 VOLK-GESCHIEDENIS-OVERZICHT-Z4-saelmor-Z32 0 0
+IDEE-Z39-3 0.034 DAG-TOP-ithrael-geheim 0 0
+IDEE-Z39-4 0.033 VERHAAL-fase4-Z35 0 0
+IDEE-Z39-5 0.027 ZINT-Z2-wetten-3 0 0
+IDEE-Z39-6 0.031 INTR-fase4-rustmaanden 0 0
+IDEE-Z39-7 0.048 VERHAAL-fase2-Z36 0 0
+IDEE-Z39-8 0.07 PER-f4-orde-moeder-iris 0 0
+IDEE-Z39-9 0.079 PER-f4-tharn-bula 0 0
+IDEE-Z39-10 0.029 ROM-fase6-hork-lezen 0 0
+v_kern botsing: Z39-wijzigingen op Kern-rijen [('GES-officiele-versie', 'canon.bron_handmatig', 'auteur (Rogier), wereldbijbel'), ('EROS-GRENZEN-Z7', 'canon.bron_handmatig', 'BESLUIT-Z30-4')]
+Kern zonder bron (0,)
+lagen Kern [('bijbel', 8), ('hard', 103)]

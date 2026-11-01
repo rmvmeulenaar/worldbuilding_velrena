@@ -1,0 +1,2 @@
+Thompson sampling (1000 trekkingen): romance 41.4%, thriller 25.7%, mysterie 9.6%, intrige 7.9%, actie 6.5%, horror 5.6%, tragedie 2.2%, komedie 0.6%, survival 0.5%
+lege posities (geen boog en geen profiel): 0

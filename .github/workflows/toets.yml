@@ -1,0 +1,16 @@
+name: toets
+on: [push, pull_request]
+jobs:
+  toets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Bouw canon.db uit de tekst en draai de toets
+        working-directory: wereld
+        run: python3 velmara.py bouw
+      - name: Knopenkaart
+        working-directory: wereld
+        run: python3 velmara.py kaart

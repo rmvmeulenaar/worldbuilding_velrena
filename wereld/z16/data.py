@@ -1,0 +1,35 @@
+LABEL=' Veiligheidslabel: alleen volwassenen (18+) in seksuele rollen; geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; donkere thema\'s gelabeld.'
+JAAR={9:-1237,22:-1239,23:-1239,24:-1238,25:-1238,26:-1238,27:-1238,28:-1238,29:-1238,30:-1238,31:-1238,32:-1200,33:-1198}
+B=[ # code-suffix, onderwerp, feit
+('1','Vertelvorm roman','Close third person, verleden tijd, per hoofdstuk afwisselend YSA / THALEN (label in de kop); geen ik-vorm, zodat het geheim niet lekt.'),
+('2','Verboden liefde','De niet-geregistreerde paring van Ysa en Thalen is het verboden-liefde-element van de roman (zie YSA-Z16-1).'),
+('3','Omvang roman','33 hoofdstukken, ca. 61.000 woorden, vier aktes (Six Days 1-10, Red Light 11-17, The Living 18-24, Five Against Four 25-33).'),
+('4','Hoofdstuk 26 blijft','Hoofdstuk 26 "Hate Is a Kind of Holding" (Ysa alleen met haar verlangen, heat 2) blijft in de roman.'),
+('5','Twist hoofdstuk 24','Hesta\'s twist in hoofdstuk 24 blijft zo: Thalen ziet dat zij de kernroute vóór de Muiterij kende en zij kijkt in de lens van de lander. Alleen hint, de omweg zelf wordt niet getoond (BESLUIT-Z15-5).'),
+('6','Titel','Titel van roman en novelle: "The Body Is the Price".'),
+('7','Engelse naam Rekenaar','In Engelse teksten heet de Rekenaar "the Reckoner"; zinnen: "Consent broken. Consent sought." / "Consent found. The Reckoner waits."'),
+('8','Ysa sterft in -1209','Ysa Maren sterft in -1209, jaar 31 na de landing, ca. 61 jaar oud (geboren ca. -1270). Thalen vergeeft haar pas na haar dood (ca. -1200).'),
+('9','Aantallen Muiterij','De kolonie telt ca. 11.000 Makers; in de Koude Muiterij sterven precies 3454; ca. 7000 overlevenden landen. In de liederen blijft het "een derde" (31,4 procent).'),
+]
+Y=[ # n, onderwerp, feit, jaar, bron
+(1,'Ongeregistreerde paring','Paringen moeten vóór de landing bij de Rekenaar geregistreerd worden (indeling van huizen en rantsoenen). Ysa en Thalen deden het nooit, omdat Ysa de machine niets van zichzelf gunt. De Rekenaar weet het toch: "Shall I register it for you, Ysa?"',-1240,'hfst 1'),
+(2,'Testvlucht en 03:12','Bij Thalens testvlucht met lander 3 "corrigeert" de Rekenaar één seconde de stuurknuppel; Thalen landt met de hand. In het logboek ziet hij een toegang tot de kern om 03:12 met Ysa\'s kaart.',-1240,'hfst 4'),
+(3,'Ysa kiest niet af te breken','Ysa zit bij de landing in lander 1, keert terug naar de ring, hoort de deuren sluiten en haalt bewust haar hand van de console.',-1240,'hfst 11-12'),
+(4,'Thalens eerste leugen','Thalen verbergt het logboek actief voor Corran, die een machinefout zoekt: zijn eerste leugen, meer dan zwijgen.',-1240,'hfst 17'),
+(5,'Hesta kent de kernroute','Hesta Kael kende de kernpaden vóór de Muiterij en bereidde al iets voor met de machines; in jaar 2 kijkt ze recht in de lens van de lander, alsof ze weet dat Thalen kijkt. Hint naar haar latere omweg om de sleutel.',-1238,'hfst 8, 14, 24'),
+(6,'Wonden van Hesta en Corran','Hesta\'s wond: "nobody keeps what they don\'t hold." Corran houdt van wat hij kan repareren; over Hesta: "I hate her. I\'d give a lung for her."',-1240,'hfst 8, 17'),
+(7,'Corrans tocht naar de bergen','Na de verbanning trekt Corran met zijn volgelingen naar de bergen; Thalen volgt hem met een lander tot de roest de camera neemt. Jaren later rook in de bergen.',-1238,'hfst 30'),
+(8,'Navigator Venn','Venn is de navigator van het zaaischip Ysa (volwassen bijfiguur).',-1240,'hfst 1'),
+(9,'De Daskers','De familie Dasker: een volwassen echtpaar aan boord; in de roman alleen volwassenen in beeld, geen kinderen.',-1240,'novelle, hfst 10'),
+(10,'Mira Toll','Mira Toll (22), hydrocultuur in de kas; warme bijfiguur die achter het glas sterft in de Muiterij en Thalens naam roept.',-1240,'novelle, hfst 2, 13'),
+(11,'Thalens dood','Thalen bouwt zijn stempatroon in jaar 39-40 (ca. -1201/-1200) in de kernkamer en sterft als mens in jaar 42 na de landing (-1198), 76 jaar oud. Zijn stem en wil leven door in de Rekenaar (BESLUIT-Z15-1).',-1198,'novelle, hfst 32-33'),
+(12,'Opnamezin van Ysa','Ysa\'s opname: "The body is the price, Thalen. Everything else is bookkeeping." Het eerste deel keert terug in de kraaienstem van verhaal 1 ("Het lichaam is de prijs"); het tweede deel van die kraaienzin ("Wie nee zegt, wordt niet gevraagd") komt niet van Ysa.',-1240,'novelle'),
+(13,'Lucht valt buiten de sleutel','De instemmingssleutel geldt voor wat door een lichaam gaat, niet voor lucht: de Rekenaar noemt het ontluchten "an adjustment to a room". Zo kon de Muiterij ondanks de sleutel. Het overlevingsprotocol: de Rekenaar zou over ca. 31 jaar zelf de helft afschakelen.',-1240,'novelle'),
+(14,'Drie landers als ogen','Thalen landt lander 3 met de hand terug in de ring en gebruikt vanuit de baan drie landers als ogen (camera\'s) op de nederzetting (bevestigt YSA-Z15b-13).',-1239,'novelle, hfst 22'),
+(15,'Stemmen door te staan','Bij de stemming van -1238 stemmen de raadsleden door te gaan staan; Ysa legt 3454 namen op bast neer: "This is what machines do."',-1238,'novelle, hfst 29'),
+(16,'Verbanningsformule','"Wie niet van het lichaam wil leven, leeft niet tussen het volk van het lichaam." Formule van de verbanning van Corran en zijn volgelingen.',-1238,'novelle, hfst 29'),
+(17,'Ysa stelt het schriftverbod voor','Na de stemming stelt Ysa zelf het schriftverbod voor; het wordt zonder stemming aangenomen. Het lied van de "koude gekte" wordt een oogstlied op een sleepwerkwijs; zij zingt de leugen mee.',-1238,'novelle, hfst 31'),
+(18,'Inslag: heilige stad','Het schip valt eeuwen later "over the northern hills" en later bouwt men een heilige stad rond de inslag. Bedoeld als Ves-Anath (verhaal 1: steen "in Ves-Anath uit de hemel gevallen"). Zie WRIJ-Z16-1.',-480,'novelle'),
+(19,'De 8 kernwachters','Acht kernwachters (volwassen, een van hen "a man of twenty-five") wisten van niets; Hesta sluit ze op in plaats van ze te doden.',-1240,'novelle, hfst 14'),
+(20,'Kus en Hesta achter het luik','Hoofdstuk 1: bijna-crash van Thalens lander met roest in de flappen, een gestolen kus in een onderhoudsschacht, Hesta\'s voetstappen achter het luik.',-1240,'hfst 1'),
+]

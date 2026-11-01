@@ -1,0 +1,9 @@
+[stap 0] toets exit 0: Regels gedraaid: 33 (fout: 26, signaal: 7) | Nieuwe fouten: 0 {} | Bekend (geregistreerd met wrijving): 149 {'harde_grens': 2, 'anker': 1, 'kern_zonder_bron': 6, 'kern_leunt_op_kleur': 140}
+[stap 1c] toets exit 0: Regels gedraaid: 33 (fout: 26, signaal: 7) | Nieuwe fouten: 0 {} | Bekend (geregistreerd met wrijving): 149 {'harde_grens': 2, 'anker': 1, 'kern_zonder_bron': 6, 'kern_leunt_op_kleur': 140}
+[stap 1a] toets exit 0: Regels gedraaid: 33 (fout: 26, signaal: 7) | Nieuwe fouten: 0 {} | Bekend (geregistreerd met wrijving): 149 {'harde_grens': 2, 'anker': 1, 'kern_zonder_bron': 6, 'kern_leunt_op_kleur': 140}
+[stap 2 basis] toets exit 0: Regels gedraaid: 33 (fout: 26, signaal: 7) | Nieuwe fouten: 0 {} | Bekend (geregistreerd met wrijving): 149 {'harde_grens': 2, 'anker': 1, 'kern_zonder_bron': 6, 'kern_leunt_op_kleur': 140}
+[stap 2 run Z36-01] toets exit 0: Regels gedraaid: 33 (fout: 26, signaal: 7) | Nieuwe fouten: 0 {} | Bekend (geregistreerd met wrijving): 149 {'harde_grens': 2, 'anker': 1, 'kern_zonder_bron': 6, 'kern_leunt_op_kleur': 140}
+[stap 2 run Z36-02] toets exit 0: Regels gedraaid: 33 (fout: 26, signaal: 7) | Nieuwe fouten: 0 {} | Bekend (geregistreerd met wrijving): 149 {'harde_grens': 2, 'anker': 1, 'kern_zonder_bron': 6, 'kern_leunt_op_kleur': 140}
+[stap 2 run Z36-03] toets exit 0: Regels gedraaid: 33 (fout: 26, signaal: 7) | Nieuwe fouten: 0 {} | Bekend (geregistreerd met wrijving): 149 {'harde_grens': 2, 'anker': 1, 'kern_zonder_bron': 6, 'kern_leunt_op_kleur': 140}
+[stap 2 run Z36-04] toets exit 0: Regels gedraaid: 33 (fout: 26, signaal: 7) | Nieuwe fouten: 0 {} | Bekend (geregistreerd met wrijving): 149 {'harde_grens': 2, 'anker': 1, 'kern_zonder_bron': 6, 'kern_leunt_op_kleur': 140}
+telling: {'uitzondering': 0, 'verhaal_as': 0, 'doel': 0, 'doelprofiel': 0, 'gewichtset': 0, 'ideeen_verwerking': 0}

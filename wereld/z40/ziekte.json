@@ -1,0 +1,45 @@
+{
+ "validatie": {
+  "runs": 1000,
+  "geldig": 1000,
+  "pest_ontstaat_%": 94.9,
+  "indexjaar_mediaan": 336,
+  "indexjaar_336_340_%": 27.0,
+  "piekjaar_mediaan": 337,
+  "piek_338_342_%": 23.7,
+  "sterfte_mannen_mediaan": 0.014,
+  "een_derde_(25-42%)_%": 40.3,
+  "qesh_lager_dan_half_rest_%": 88.9,
+  "qesh_dicht_mediaan": 337.0,
+  "ontsnapt_uit_halneth_%": 40.5,
+  "bij_ontsnapping_sterfte_mediaan": 0.307,
+  "bij_ontsnapping_een_derde_%": 99.5,
+  "bij_ontsnapping_piekjaar_mediaan": 338,
+  "bij_ontsnapping_vertraging_index_tot_piek_mediaan": 2,
+  "bij_ontsnapping_qesh_lager_dan_half_%": 74.6,
+  "bij_ontsnapping_qesh_sterfte_zonder_sluiting_mediaan": 0.35,
+  "bij_ontsnapping_qesh_sterfte_met_sluiting_mediaan": 0.0
+ },
+ "gevoeligheid": {
+  "cfr 0.3": {
+   "ontsnapt_uit_halneth_%": 39.5,
+   "bij_ontsnapping_sterfte_mediaan": 0.267,
+   "bij_ontsnapping_een_derde_%": 97.5
+  },
+  "cfr 0.5": {
+   "ontsnapt_uit_halneth_%": 39.5,
+   "bij_ontsnapping_sterfte_mediaan": 0.441,
+   "bij_ontsnapping_een_derde_%": 2.5
+  }
+ },
+ "gekozen": "Z40-ZIEKTE-0271",
+ "gekozen_scores": {
+  "sterfte_mannen": 0.306,
+  "sterfte_qesh": 0.0,
+  "sterfte_rest": 0.347,
+  "index_jaar": 338,
+  "piekjaar": 340,
+  "qesh_dicht": 339,
+  "gebeurtenissen": 90
+ }
+}

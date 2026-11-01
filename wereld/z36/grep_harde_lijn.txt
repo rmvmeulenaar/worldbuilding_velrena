@@ -1,0 +1,6 @@
+TE LEZEN VERHAAL-fase5-Z36 | Veertig jaar in negen Ontvangsten.
+TE LEZEN KEUZE-WRIJ-Z28-4 | Aanbeveling: Ja, vastleggen als vee uit de zaadvoorraad van het schip: geiten, een hond, vis in de weren.
+TE LEZEN KEUZE-WRIJ-Z28-4 | YSA-Z28-42: "Lading: landerplaten, gereedschap, zaad, twee geiten"
+TE LEZEN KEUZE-WRIJ-Z30-3 | geen dieren in een seksuele rol;
+zinnen met seks-woord + minderjarige/dier-woord in Z36-tekst: 4 (elk hierboven met de hand gelezen)
+verhaal_profiel: leeftijd<18: 0 | partner dier/minderjarig: 0

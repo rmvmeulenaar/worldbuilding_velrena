@@ -1,0 +1,5107 @@
+{
+ "fase": 801,
+ "n": 2000,
+ "seed": 41801,
+ "bron_personen": 60,
+ "met_botsing": 1346,
+ "cellen": 104,
+ "elites": [
+  {
+   "id": "K801-1020",
+   "volk": "mens",
+   "regio": "rosse",
+   "geslacht": "v",
+   "leeftijd": 37,
+   "gave": null,
+   "rol": "jongensverstopster",
+   "positie": "ontdekker",
+   "fout": "koppigheid",
+   "wil": "Liora beschermen",
+   "verbergt": "dat Varenne gaven-mannen fokt",
+   "geheim": "ze kent een Oevrin-slikgang",
+   "donors": [
+    "PER-aeron-profiel",
+    "PER-selvine",
+    "PER-sef"
+   ],
+   "botsingen": [
+    [
+     0.919,
+     "PER-ishvar-tamar",
+     "Tamar Zonder-gloed",
+     "rivaal"
+    ],
+    [
+     0.343,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "rivaal"
+    ],
+    [
+     0.255,
+     "PER-gew-marit-Z6-Z32",
+     "Marit Schrijfster",
+     "hefboom"
+    ],
+    [
+     0.247,
+     "PER-orrim-sha",
+     "Sha Kristalader",
+     "rivaal"
+    ],
+    [
+     0.24,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "rivaal"
+    ],
+    [
+     0.228,
+     "PER-sch-kreel",
+     "Schuldmeesteres Kreel",
+     "hefboom"
+    ]
+   ],
+   "hoofdlijn": "raakt Teo van Hallowyn zonder de afloop te veranderen",
+   "score": 1.382
+  },
+  {
+   "id": "K801-1568",
+   "volk": "mens",
+   "regio": "ambergaard",
+   "geslacht": "v",
+   "leeftijd": 31,
+   "gave": null,
+   "rol": "Ves-Lethi in mannelijke fase",
+   "positie": "liefde tussen posities",
+   "fout": "wraakzucht",
+   "wil": "de waarheid zonder bloedvergieten",
+   "verbergt": "dat ze vervalst",
+   "geheim": "zij weet wie Liora's moeder is",
+   "donors": [
+    "PER-imra",
+    "PER-sch-kreel",
+    "PER-gew-marit-Z6-Z32"
+   ],
+   "botsingen": [
+    [
+     0.5,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "dreiging"
+    ],
+    [
+     0.433,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "dreiging"
+    ],
+    [
+     0.3,
+     "PER-sef",
+     "Sef van Brakhaven",
+     "dreiging"
+    ],
+    [
+     0.26,
+     "PER-sch-vessa",
+     "Moeder Vessa",
+     "dreiging"
+    ],
+    [
+     0.26,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "dreiging"
+    ],
+    [
+     0.232,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Teo van Hallowyn zonder de afloop te veranderen",
+   "score": 1.008
+  },
+  {
+   "id": "K801-1406",
+   "volk": "mens",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 50,
+   "gave": null,
+   "rol": "naamgever",
+   "positie": "betaler",
+   "fout": "eigenmachtigheid",
+   "wil": "haar volk weg uit Kharvos",
+   "verbergt": "dat ze Sterrensteen steelt",
+   "geheim": "ze kan de Mirre-vloot laten zinken",
+   "donors": [
+    "PER-karruk-yssa",
+    "PER-gew-gudrun",
+    "PER-saelmor-wenna"
+   ],
+   "botsingen": [
+    [
+     0.586,
+     "PER-tharn-bor",
+     "Bor de Poortreus",
+     "dreiging"
+    ],
+    [
+     0.3,
+     "PER-dhurn-borga",
+     "Borga Gildemoeder",
+     "dreiging"
+    ],
+    [
+     0.221,
+     "PER-brannoch",
+     "Veldvrouwe Brannoch Kaldra",
+     "rivaal"
+    ],
+    [
+     0.18,
+     "PER-gew-tess",
+     "Tess Hoeder",
+     "dreiging"
+    ],
+    [
+     0.164,
+     "PER-selvine",
+     "Vrouwe Selvine Varenne",
+     "dreiging"
+    ]
+   ],
+   "score": 1.005
+  },
+  {
+   "id": "K801-1589",
+   "volk": "oevrin",
+   "regio": "ambergaard",
+   "geslacht": "m",
+   "leeftijd": 61,
+   "gave": null,
+   "rol": "poortwachter van de Amberpas",
+   "positie": "toeschouwer",
+   "fout": "begeerte via een leugen",
+   "wil": "vrij zijn",
+   "verbergt": "dat de Zegel sterft",
+   "geheim": "Kaldra verbergt hem",
+   "donors": [
+    "PER-bram",
+    "PER-ithrael",
+    "PER-sch-rhun-Z6"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-gew-wessel",
+     "Wessel Stalknecht",
+     "rivaal"
+    ],
+    [
+     0.404,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "rivaal"
+    ],
+    [
+     0.217,
+     "PER-liora-profiel-Z32",
+     "Liora van Hallowyn",
+     "dreiging"
+    ],
+    [
+     0.173,
+     "PER-skerra-ka",
+     "Ka Snelvleugel",
+     "rivaal"
+    ],
+    [
+     0.173,
+     "PER-gew-sander",
+     "Sander Melkos",
+     "rivaal"
+    ]
+   ],
+   "hoofdlijn": "raakt Teo van Hallowyn zonder de afloop te veranderen",
+   "score": 0.966
+  },
+  {
+   "id": "K801-0073",
+   "volk": "mens",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 54,
+   "gave": null,
+   "rol": "hoeder van Lijngravers",
+   "positie": "profiteur",
+   "fout": "neerbuigendheid",
+   "wil": "de Zegel breken en heersen",
+   "verbergt": "dat ze voor Varenne en de Orde werkt",
+   "geheim": "zij helpt Bram ontsnappen",
+   "donors": [
+    "PER-morvane-profiel",
+    "PER-skerra-ka",
+    "PER-gew-dagny"
+   ],
+   "botsingen": [
+    [
+     0.543,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "hefboom"
+    ],
+    [
+     0.306,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "dreiging"
+    ],
+    [
+     0.212,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "dreiging"
+    ],
+    [
+     0.206,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "dreiging"
+    ],
+    [
+     0.184,
+     "PER-ondessa",
+     "Kapitein-Vrouwe Ondessa Mirre",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Hoge Moeder Ithrael zonder de afloop te veranderen",
+   "score": 0.965
+  },
+  {
+   "id": "K801-1456",
+   "volk": "mens",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 57,
+   "gave": null,
+   "rol": "aardster",
+   "positie": "vervalser",
+   "fout": "berekening (eerzucht)",
+   "wil": "de Zegel breken en heersen",
+   "verbergt": "dat ze voor Varenne en de Orde werkt",
+   "geheim": "hypocrisie over de Zoutloodsen",
+   "donors": [
+    "PER-morvane-profiel",
+    "PER-skerra-ka",
+    "PER-ondessa"
+   ],
+   "botsingen": [
+    [
+     0.543,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "hefboom"
+    ],
+    [
+     0.335,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "dreiging"
+    ],
+    [
+     0.216,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "dreiging"
+    ],
+    [
+     0.164,
+     "PER-selvine",
+     "Vrouwe Selvine Varenne",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Hoge Moeder Ithrael zonder de afloop te veranderen",
+   "score": 0.952
+  },
+  {
+   "id": "K801-0677",
+   "volk": "mens",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 36,
+   "gave": null,
+   "rol": "naamgever",
+   "positie": "toeschouwer",
+   "fout": "beschermende leugen",
+   "wil": "macht en Qesh vrij",
+   "verbergt": "dat Mirre zelf Zoutloodsen houdt",
+   "geheim": "deels Ishvar-bloed?",
+   "donors": [
+    "PER-khaled-profiel",
+    "PER-ondessa",
+    "PER-liora-profiel-Z32"
+   ],
+   "botsingen": [
+    [
+     0.621,
+     "PER-gew-sander",
+     "Sander Melkos",
+     "dreiging"
+    ],
+    [
+     0.242,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "rivaal"
+    ],
+    [
+     0.171,
+     "PER-gew-wessel",
+     "Wessel Stalknecht",
+     "rivaal"
+    ]
+   ],
+   "score": 0.95
+  },
+  {
+   "id": "K801-0842",
+   "volk": "tharn",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 53,
+   "gave": null,
+   "rol": "Kluwer-darre",
+   "positie": "ontdekker",
+   "fout": "eerzucht",
+   "wil": "gaven-mannen en Velmara-vrouwen",
+   "verbergt": "dat Mirre zelf Zoutloodsen houdt",
+   "geheim": "haar splinters gaan naar de Annalisten",
+   "donors": [
+    "PER-drask",
+    "PER-ondessa",
+    "PER-gew-gudrun"
+   ],
+   "botsingen": [
+    [
+     0.629,
+     "PER-selvine",
+     "Vrouwe Selvine Varenne",
+     "hefboom"
+    ],
+    [
+     0.306,
+     "PER-gew-sander",
+     "Sander Melkos",
+     "dreiging"
+    ]
+   ],
+   "score": 0.947
+  },
+  {
+   "id": "K801-1265",
+   "volk": "mens",
+   "regio": "ambergaard",
+   "geslacht": "v",
+   "leeftijd": 22,
+   "gave": null,
+   "rol": "kraaientolk",
+   "positie": "beslisser",
+   "fout": "uitstel",
+   "wil": "één nacht vrij",
+   "verbergt": "dat ze Quirels exemplaar heeft",
+   "geheim": "in het register al \"gegeven\" als Lijngraver",
+   "donors": [
+    "PER-gew-sander",
+    "PER-myrrhen-lys",
+    "PER-teo-Z32"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "rivaal"
+    ],
+    [
+     0.35,
+     "PER-gew-wessel",
+     "Wessel Stalknecht",
+     "rivaal"
+    ],
+    [
+     0.18,
+     "PER-imra",
+     "Hoedster Imra",
+     "dreiging"
+    ],
+    [
+     0.171,
+     "PER-khaled-profiel",
+     "Khaled-Ir",
+     "rivaal"
+    ]
+   ],
+   "score": 0.911
+  },
+  {
+   "id": "K801-0456",
+   "volk": "myrrhen",
+   "regio": "ambergaard",
+   "geslacht": "v",
+   "leeftijd": 28,
+   "gave": null,
+   "rol": "mijnwerkster",
+   "positie": "ontdekker",
+   "fout": "lafheid of levenswil",
+   "wil": "één nacht vrij",
+   "verbergt": "dat de Aelthir het Offer hielpen",
+   "geheim": "ze kent de stem in de Wortel",
+   "donors": [
+    "PER-gew-sander",
+    "PER-aelthir-sorn",
+    "PER-ithrael"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "rivaal"
+    ],
+    [
+     0.35,
+     "PER-gew-wessel",
+     "Wessel Stalknecht",
+     "rivaal"
+    ],
+    [
+     0.286,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "rivaal"
+    ],
+    [
+     0.177,
+     "PER-liora-profiel-Z32",
+     "Liora van Hallowyn",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Teo van Hallowyn zonder de afloop te veranderen",
+   "score": 0.911
+  },
+  {
+   "id": "K801-1350",
+   "volk": "myrrhen",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 21,
+   "gave": null,
+   "rol": "wortelluisteraar",
+   "positie": "beslisser",
+   "fout": "medeplichtig zwijgen (liefde boven waarheid)",
+   "wil": "Liora beschermen",
+   "verbergt": "dat ze Leegtezieken verkoopt",
+   "geheim": "ze weet wie Ankerwortel levert",
+   "donors": [
+    "PER-aeron-profiel",
+    "PER-sch-mavra",
+    "PER-gew-yfke"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-gew-marit-Z6-Z32",
+     "Marit Schrijfster",
+     "hefboom"
+    ],
+    [
+     0.379,
+     "PER-sch-kreel",
+     "Schuldmeesteres Kreel",
+     "hefboom"
+    ],
+    [
+     0.35,
+     "PER-sef",
+     "Sef van Brakhaven",
+     "rivaal"
+    ],
+    [
+     0.35,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "rivaal"
+    ],
+    [
+     0.322,
+     "PER-ishvar-tamar",
+     "Tamar Zonder-gloed",
+     "rivaal"
+    ],
+    [
+     0.2,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "rivaal"
+    ]
+   ],
+   "score": 0.905
+  },
+  {
+   "id": "K801-1965",
+   "volk": "dhurn",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 65,
+   "gave": null,
+   "rol": "Hoge Moeder",
+   "positie": "liefde tussen posities",
+   "fout": "trots",
+   "wil": "Liora beschermen",
+   "verbergt": "dat ze Leegtezieken verkoopt",
+   "geheim": "half Ishvar",
+   "donors": [
+    "PER-aeron-profiel",
+    "PER-sch-mavra",
+    "PER-khaled-profiel"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-gew-marit-Z6-Z32",
+     "Marit Schrijfster",
+     "hefboom"
+    ],
+    [
+     0.379,
+     "PER-sch-kreel",
+     "Schuldmeesteres Kreel",
+     "hefboom"
+    ],
+    [
+     0.35,
+     "PER-sef",
+     "Sef van Brakhaven",
+     "rivaal"
+    ],
+    [
+     0.35,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "rivaal"
+    ],
+    [
+     0.322,
+     "PER-ishvar-tamar",
+     "Tamar Zonder-gloed",
+     "rivaal"
+    ],
+    [
+     0.2,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "rivaal"
+    ]
+   ],
+   "score": 0.905
+  },
+  {
+   "id": "K801-0940",
+   "volk": "sael-mor",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 23,
+   "gave": null,
+   "rol": "Kluwer-darre",
+   "positie": "toeschouwer",
+   "fout": "berekening (eerzucht)",
+   "wil": "Liora beschermen",
+   "verbergt": "hoeveel lekjongens ze naar de Vathren bracht",
+   "geheim": "ze kan de Mirre-vloot laten zinken",
+   "donors": [
+    "PER-aeron-profiel",
+    "PER-gew-hilde",
+    "PER-saelmor-wenna"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-gew-marit-Z6-Z32",
+     "Marit Schrijfster",
+     "hefboom"
+    ],
+    [
+     0.379,
+     "PER-sch-kreel",
+     "Schuldmeesteres Kreel",
+     "hefboom"
+    ],
+    [
+     0.35,
+     "PER-sef",
+     "Sef van Brakhaven",
+     "rivaal"
+    ],
+    [
+     0.35,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "rivaal"
+    ],
+    [
+     0.322,
+     "PER-ishvar-tamar",
+     "Tamar Zonder-gloed",
+     "rivaal"
+    ],
+    [
+     0.254,
+     "PER-myrrhen-lys",
+     "Lys Rotbed",
+     "dreiging"
+    ]
+   ],
+   "score": 0.905
+  },
+  {
+   "id": "K801-1789",
+   "volk": "oevrin",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 54,
+   "gave": null,
+   "rol": "jongensverstopster",
+   "positie": "beslisser",
+   "fout": "trouw aan de doden",
+   "wil": "het geheim bewaren",
+   "verbergt": "haar vervalste register",
+   "geheim": "ze verkoopt geruchten aan de Stille Hand",
+   "donors": [
+    "PER-aelthir-sorn",
+    "PER-liora-profiel-Z32",
+    "PER-gew-kara"
+   ],
+   "botsingen": [
+    [
+     0.62,
+     "PER-imra",
+     "Hoedster Imra",
+     "hefboom"
+    ],
+    [
+     0.21,
+     "PER-oevrin-glu",
+     "Glu Slikmond",
+     "rivaal"
+    ]
+   ],
+   "score": 0.89
+  },
+  {
+   "id": "K801-1275",
+   "volk": "ishvar",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 64,
+   "gave": null,
+   "rol": "Kharvos-slavenhandelaar",
+   "positie": "ontdekker",
+   "fout": "koppigheid",
+   "wil": "Liora beschermen",
+   "verbergt": "dat ze Ishvar is",
+   "geheim": "Ishvar-zonen sterven niet in de baarmoeder",
+   "donors": [
+    "PER-aeron-profiel",
+    "PER-ishvar-tamar",
+    "PER-ishvar-nadir"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-gew-marit-Z6-Z32",
+     "Marit Schrijfster",
+     "hefboom"
+    ],
+    [
+     0.379,
+     "PER-sch-kreel",
+     "Schuldmeesteres Kreel",
+     "hefboom"
+    ],
+    [
+     0.35,
+     "PER-sef",
+     "Sef van Brakhaven",
+     "rivaal"
+    ],
+    [
+     0.35,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "rivaal"
+    ],
+    [
+     0.2,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "rivaal"
+    ]
+   ],
+   "score": 0.882
+  },
+  {
+   "id": "K801-1797",
+   "volk": "sael-mor",
+   "regio": "zoutkust",
+   "geslacht": "m",
+   "leeftijd": 19,
+   "gave": null,
+   "rol": "spion van Mirre",
+   "positie": "ontdekker",
+   "fout": "trots",
+   "wil": "de Zegel breken en heersen",
+   "verbergt": "dat Varenne gaven-mannen fokt",
+   "geheim": "Kaldra verbergt hem",
+   "donors": [
+    "PER-morvane-profiel",
+    "PER-selvine",
+    "PER-sch-rhun-Z6"
+   ],
+   "botsingen": [
+    [
+     0.618,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "dreiging"
+    ],
+    [
+     0.19,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "hefboom"
+    ]
+   ],
+   "hoofdlijn": "raakt Hoge Moeder Ithrael zonder de afloop te veranderen",
+   "score": 0.878
+  },
+  {
+   "id": "K801-1543",
+   "volk": "skerra",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 34,
+   "gave": null,
+   "rol": "geoogste Orrim",
+   "positie": "vervalser",
+   "fout": "schaarste-denken",
+   "wil": "Liora beschermen",
+   "verbergt": "dat ze vervalst",
+   "geheim": "deels Ishvar-bloed?",
+   "donors": [
+    "PER-aeron-profiel",
+    "PER-sch-ysolde",
+    "PER-liora-profiel-Z32"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-gew-marit-Z6-Z32",
+     "Marit Schrijfster",
+     "hefboom"
+    ],
+    [
+     0.35,
+     "PER-sef",
+     "Sef van Brakhaven",
+     "rivaal"
+    ],
+    [
+     0.35,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "rivaal"
+    ],
+    [
+     0.322,
+     "PER-ishvar-tamar",
+     "Tamar Zonder-gloed",
+     "rivaal"
+    ],
+    [
+     0.2,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "rivaal"
+    ]
+   ],
+   "score": 0.868
+  },
+  {
+   "id": "K801-1555",
+   "volk": "vathren",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 68,
+   "gave": null,
+   "rol": "poortwachter van de Amberpas",
+   "positie": "betaler",
+   "fout": "noodzaak die ze geloof noemt",
+   "wil": "haar graver laten sterven",
+   "verbergt": "dat de Zegel sterft",
+   "geheim": "ze heeft Zuster Ennia binnengelaten",
+   "donors": [
+    "PER-gew-tess",
+    "PER-ithrael",
+    "PER-imra"
+   ],
+   "botsingen": [
+    [
+     0.584,
+     "PER-saelmor-wenna",
+     "Wenna Diepduikster",
+     "hefboom"
+    ],
+    [
+     0.233,
+     "PER-myrrhen-lys",
+     "Lys Rotbed",
+     "rivaal"
+    ]
+   ],
+   "score": 0.865
+  },
+  {
+   "id": "K801-1098",
+   "volk": "sael-mor",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 62,
+   "gave": null,
+   "rol": "melkos",
+   "positie": "profiteur",
+   "fout": "eerzucht",
+   "wil": "winst",
+   "verbergt": "een verborgen gaven-man in de bergen",
+   "geheim": "ze kan de Mirre-vloot laten zinken",
+   "donors": [
+    "PER-sch-harl",
+    "PER-brannoch",
+    "PER-saelmor-wenna"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-dhurn-borga",
+     "Borga Gildemoeder",
+     "rivaal"
+    ],
+    [
+     0.306,
+     "PER-sch-rhun-Z6",
+     "Rhun-ir de Stemvorst",
+     "dreiging"
+    ],
+    [
+     0.274,
+     "PER-tharn-bor",
+     "Bor de Poortreus",
+     "dreiging"
+    ]
+   ],
+   "score": 0.856
+  },
+  {
+   "id": "K801-1760",
+   "volk": "grauwen",
+   "regio": "ambergaard",
+   "geslacht": "m",
+   "leeftijd": 31,
+   "gave": null,
+   "rol": "kraaientolk",
+   "positie": "ontdekker",
+   "fout": "verraad uit gelijk",
+   "wil": "zijn stalbroeders vrij",
+   "verbergt": "zijn Ishvar-moeder",
+   "geheim": "hij was de broer van een Dochter",
+   "donors": [
+    "PER-gew-wessel",
+    "PER-khaled-profiel",
+    "PER-sch-tor"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "rivaal"
+    ],
+    [
+     0.286,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "rivaal"
+    ],
+    [
+     0.152,
+     "PER-gew-kara",
+     "Kara Bakster",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Teo van Hallowyn zonder de afloop te veranderen",
+   "score": 0.846
+  },
+  {
+   "id": "K801-1384",
+   "volk": "tharn",
+   "regio": "groenmuil",
+   "geslacht": "v",
+   "leeftijd": 48,
+   "gave": null,
+   "rol": "koerierster",
+   "positie": "betaler",
+   "fout": "verraad uit vaderliefde",
+   "wil": "haar graver laten sterven",
+   "verbergt": "hoeveel lekjongens ze naar de Vathren bracht",
+   "geheim": "ze kan de Mirre-vloot laten zinken",
+   "donors": [
+    "PER-gew-tess",
+    "PER-gew-hilde",
+    "PER-saelmor-wenna"
+   ],
+   "botsingen": [
+    [
+     0.487,
+     "PER-vathren-ruy",
+     "Ruy Hartstem",
+     "dreiging"
+    ],
+    [
+     0.292,
+     "PER-tharn-bor",
+     "Bor de Poortreus",
+     "dreiging"
+    ],
+    [
+     0.17,
+     "PER-myrrhen-lys",
+     "Lys Rotbed",
+     "dreiging"
+    ]
+   ],
+   "score": 0.841
+  },
+  {
+   "id": "K801-0231",
+   "volk": "ves-lethi",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 27,
+   "gave": null,
+   "rol": "poelhoudster",
+   "positie": "ontdekker",
+   "fout": "nieuwsgierigheid",
+   "wil": "Liora vangen",
+   "verbergt": "dat ze voor Ondessa spioneert",
+   "geheim": "ze levert aan de Varenne-randcompagnie",
+   "donors": [
+    "PER-sch-vessa",
+    "PER-sef",
+    "PER-sch-mavra"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-gew-marit-Z6-Z32",
+     "Marit Schrijfster",
+     "hefboom"
+    ],
+    [
+     0.379,
+     "PER-sch-kreel",
+     "Schuldmeesteres Kreel",
+     "hefboom"
+    ],
+    [
+     0.375,
+     "PER-veslethi-nara",
+     "Nara Vele Gezichten",
+     "dreiging"
+    ]
+   ],
+   "score": 0.821
+  },
+  {
+   "id": "K801-1492",
+   "volk": "tharn",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 37,
+   "gave": null,
+   "rol": "Ves-Lethi in mannelijke fase",
+   "positie": "vervalser",
+   "fout": "noodzaak die ze geloof noemt",
+   "wil": "haar man beschermen",
+   "verbergt": "dat de Aelthir het Offer hielpen",
+   "geheim": "het netwerk bewaart de echte annalen",
+   "donors": [
+    "PER-ishvar-tamar",
+    "PER-aelthir-sorn",
+    "PER-myrrhen-lys"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "rivaal"
+    ],
+    [
+     0.173,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "rivaal"
+    ],
+    [
+     0.162,
+     "PER-vaelorn-nu",
+     "Vaelorn Hoogaelthir (801)",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Aeron-as zonder de afloop te veranderen",
+   "score": 0.789
+  },
+  {
+   "id": "K801-0812",
+   "volk": "skerra",
+   "regio": "saelith",
+   "geslacht": "m",
+   "leeftijd": 32,
+   "gave": null,
+   "rol": "hoeder van Lijngravers",
+   "positie": "liefde tussen posities",
+   "fout": "wraakzucht",
+   "wil": "de gangen geheim",
+   "verbergt": "dat hij zelf zegelschaduw-ziek is",
+   "geheim": "in het register al \"gegeven\" als Lijngraver",
+   "donors": [
+    "PER-oevrin-glu",
+    "PER-drask",
+    "PER-teo-Z32"
+   ],
+   "botsingen": [
+    [
+     0.682,
+     "PER-imra",
+     "Hoedster Imra",
+     "hefboom"
+    ]
+   ],
+   "score": 0.786
+  },
+  {
+   "id": "K801-0488",
+   "volk": "dhurn",
+   "regio": "rosse",
+   "geslacht": "v",
+   "leeftijd": 48,
+   "gave": null,
+   "rol": "hoeder van Lijngravers",
+   "positie": "betaler",
+   "fout": "zelfbehoud (vlucht)",
+   "wil": "de paaipoel beschermen",
+   "verbergt": "dat ze half het geheim kent",
+   "geheim": "ze weet dat de lekken toenemen",
+   "donors": [
+    "PER-oevrin-vaa",
+    "PER-imra",
+    "PER-gew-hilde"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-ishvar-tamar",
+     "Tamar Zonder-gloed",
+     "rivaal"
+    ],
+    [
+     0.247,
+     "PER-orrim-sha",
+     "Sha Kristalader",
+     "rivaal"
+    ]
+   ],
+   "score": 0.783
+  },
+  {
+   "id": "K801-1578",
+   "volk": "sael-mor",
+   "regio": "zoutkust",
+   "geslacht": "m",
+   "leeftijd": 49,
+   "gave": null,
+   "rol": "Zonvorst",
+   "positie": "beslisser",
+   "fout": "koppigheid",
+   "wil": "vrijheid en Liora",
+   "verbergt": "dat zijn lampen lekken verraden",
+   "geheim": "in het register al \"gegeven\" als Lijngraver",
+   "donors": [
+    "PER-sef",
+    "PER-gew-oswin",
+    "PER-teo-Z32"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-gew-marit-Z6-Z32",
+     "Marit Schrijfster",
+     "hefboom"
+    ],
+    [
+     0.379,
+     "PER-sch-kreel",
+     "Schuldmeesteres Kreel",
+     "hefboom"
+    ]
+   ],
+   "score": 0.778
+  },
+  {
+   "id": "K801-0609",
+   "volk": "vathren",
+   "regio": "zoutkust",
+   "geslacht": "m",
+   "leeftijd": 23,
+   "gave": null,
+   "rol": "hoofd van Varenne",
+   "positie": "profiteur",
+   "fout": "koppigheid",
+   "wil": "vrijheid en Liora",
+   "verbergt": "dat hij onderdanig is",
+   "geheim": "hij kent de onderwaterpoort van de tempel",
+   "donors": [
+    "PER-sef",
+    "PER-karruk-gath",
+    "PER-gew-pell"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-gew-marit-Z6-Z32",
+     "Marit Schrijfster",
+     "hefboom"
+    ],
+    [
+     0.379,
+     "PER-sch-kreel",
+     "Schuldmeesteres Kreel",
+     "hefboom"
+    ]
+   ],
+   "score": 0.778
+  },
+  {
+   "id": "K801-0821",
+   "volk": "ishvar",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 64,
+   "gave": null,
+   "rol": "Kharvos-slavenhandelaar",
+   "positie": "liefde tussen posities",
+   "fout": "fanatisme (geloof als mes)",
+   "wil": "haar volk tegen de oogst beschermen",
+   "verbergt": "dat ze voor Ondessa spioneert",
+   "geheim": "Oevrin-voortplanting omzeilt de Zegel",
+   "donors": [
+    "PER-orrim-sha",
+    "PER-sef",
+    "PER-oevrin-vaa"
+   ],
+   "botsingen": [
+    [
+     0.335,
+     "PER-morvane-profiel",
+     "Morvane-ir",
+     "dreiging"
+    ],
+    [
+     0.3,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "dreiging"
+    ],
+    [
+     0.247,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "rivaal"
+    ],
+    [
+     0.21,
+     "PER-ishvar-tamar",
+     "Tamar Zonder-gloed",
+     "rivaal"
+    ],
+    [
+     0.204,
+     "PER-veslethi-nara",
+     "Nara Vele Gezichten",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Hoge Moeder Ithrael zonder de afloop te veranderen",
+   "score": 0.754
+  },
+  {
+   "id": "K801-1043",
+   "volk": "sael-mor",
+   "regio": "saelith",
+   "geslacht": "m",
+   "leeftijd": 53,
+   "gave": null,
+   "rol": "hoofd van Varenne",
+   "positie": "liefde tussen posities",
+   "fout": "neerbuigendheid",
+   "wil": "neutraliteit en winst",
+   "verbergt": "dat hij kan lezen",
+   "geheim": "hij heeft een kind in een fokstal",
+   "donors": [
+    "PER-dhurn-borga",
+    "PER-gew-sander",
+    "PER-aeron-profiel"
+   ],
+   "botsingen": [
+    [
+     0.5,
+     "PER-tharn-lunn",
+     "Lunn Dijkdochter",
+     "dreiging"
+    ],
+    [
+     0.173,
+     "PER-sch-harl",
+     "Harl Gaven-loze",
+     "rivaal"
+    ]
+   ],
+   "score": 0.751
+  },
+  {
+   "id": "K801-1014",
+   "volk": "grauwen",
+   "regio": "ambergaard",
+   "geslacht": "v",
+   "leeftijd": 26,
+   "gave": null,
+   "rol": "smokkelaarster",
+   "positie": "toeschouwer",
+   "fout": "gemakzucht",
+   "wil": "de Zegel breken en heersen",
+   "verbergt": "dat haar lichaam Sterrensteen voor de Zegelbinding bevat",
+   "geheim": "ze bezit de schuldbrief van Liora's moederhuis",
+   "donors": [
+    "PER-morvane-profiel",
+    "PER-orrim-sha",
+    "PER-sch-kreel"
+   ],
+   "botsingen": [
+    [
+     0.356,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "dreiging"
+    ],
+    [
+     0.306,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "dreiging"
+    ],
+    [
+     0.265,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "dreiging"
+    ],
+    [
+     0.184,
+     "PER-grauwen-vell",
+     "Vell Ontsluierde",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Hoge Moeder Ithrael zonder de afloop te veranderen",
+   "score": 0.75
+  },
+  {
+   "id": "K801-0696",
+   "volk": "tharn",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 31,
+   "gave": null,
+   "rol": "bedelaarster",
+   "positie": "profiteur",
+   "fout": "bewondering voor de vijand",
+   "wil": "haar man beschermen",
+   "verbergt": "dat ze een kind van een gaven-man wil",
+   "geheim": "in het register al \"gegeven\" als Lijngraver",
+   "donors": [
+    "PER-ishvar-tamar",
+    "PER-tharn-lunn",
+    "PER-teo-Z32"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "rivaal"
+    ],
+    [
+     0.173,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "rivaal"
+    ]
+   ],
+   "hoofdlijn": "raakt Aeron-as zonder de afloop te veranderen",
+   "score": 0.746
+  },
+  {
+   "id": "K801-1334",
+   "volk": "karrûk",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 52,
+   "gave": null,
+   "rol": "dijkwachter",
+   "positie": "vervalser",
+   "fout": "beschermende leugen",
+   "wil": "haar man beschermen",
+   "verbergt": "dat ze voor Ondessa spioneert",
+   "geheim": "de verborgen gaven-man is haar broer",
+   "donors": [
+    "PER-ishvar-tamar",
+    "PER-sef",
+    "PER-brannoch"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "rivaal"
+    ],
+    [
+     0.173,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "rivaal"
+    ]
+   ],
+   "hoofdlijn": "raakt Aeron-as zonder de afloop te veranderen",
+   "score": 0.746
+  },
+  {
+   "id": "K801-0043",
+   "volk": "myrrhen",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 38,
+   "gave": null,
+   "rol": "bakster",
+   "positie": "vervalser",
+   "fout": "lafheid of levenswil",
+   "wil": "winst",
+   "verbergt": "wiens gezicht ze draagt",
+   "geheim": "het netwerk bewaart de echte annalen",
+   "donors": [
+    "PER-sch-harl",
+    "PER-veslethi-nara",
+    "PER-myrrhen-lys"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-dhurn-borga",
+     "Borga Gildemoeder",
+     "rivaal"
+    ],
+    [
+     0.162,
+     "PER-vaelorn-nu",
+     "Vaelorn Hoogaelthir (801)",
+     "dreiging"
+    ]
+   ],
+   "score": 0.741
+  },
+  {
+   "id": "K801-0461",
+   "volk": "grauwen",
+   "regio": "groenmuil",
+   "geslacht": "m",
+   "leeftijd": 43,
+   "gave": null,
+   "rol": "gewillige verliezer",
+   "positie": "betaler",
+   "fout": "bewondering voor de vijand",
+   "wil": "de doden laten spreken",
+   "verbergt": "zijn liefde voor een mens",
+   "geheim": "hij verraadt de Vathren-schuilplaats",
+   "donors": [
+    "PER-myrrhen-lys",
+    "PER-dhurn-tavik",
+    "PER-vathren-orl"
+   ],
+   "botsingen": [
+    [
+     0.375,
+     "PER-kluwer-zzi",
+     "Zzi Darrenvriend",
+     "dreiging"
+    ],
+    [
+     0.286,
+     "PER-vaelorn-nu",
+     "Vaelorn Hoogaelthir (801)",
+     "rivaal"
+    ],
+    [
+     0.233,
+     "PER-vathren-ruy",
+     "Ruy Hartstem",
+     "rivaal"
+    ]
+   ],
+   "score": 0.726
+  },
+  {
+   "id": "K801-0678",
+   "volk": "oevrin",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 61,
+   "gave": null,
+   "rol": "hoofd van Mirre",
+   "positie": "vervalser",
+   "fout": "weglopen",
+   "wil": "haar zuster uit de kiel halen",
+   "verbergt": "dat ze vervalst",
+   "geheim": "in het register al \"gegeven\" als Lijngraver",
+   "donors": [
+    "PER-saelmor-wenna",
+    "PER-sch-kreel",
+    "PER-teo-Z32"
+   ],
+   "botsingen": [
+    [
+     0.618,
+     "PER-imra",
+     "Hoedster Imra",
+     "dreiging"
+    ]
+   ],
+   "score": 0.722
+  },
+  {
+   "id": "K801-0952",
+   "volk": "aelthir",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 57,
+   "gave": null,
+   "rol": "lampenmaker",
+   "positie": "vervalser",
+   "fout": "koppigheid",
+   "wil": "de Zegel redden met de Zegelbinding",
+   "verbergt": "dat ze schulden heeft bij Varenne",
+   "geheim": "de verborgen man is Aeron-as' broer",
+   "donors": [
+    "PER-ithrael",
+    "PER-gew-kara",
+    "PER-gew-jorrit"
+   ],
+   "botsingen": [
+    [
+     0.618,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "dreiging"
+    ]
+   ],
+   "score": 0.722
+  },
+  {
+   "id": "K801-0983",
+   "volk": "orrim",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 43,
+   "gave": null,
+   "rol": "Zonvorst",
+   "positie": "beslisser",
+   "fout": "overmoed",
+   "wil": "gaven-mannen en Velmara-vrouwen",
+   "verbergt": "een verborgen gaven-man in de bergen",
+   "geheim": "ze kent de stem in de Wortel",
+   "donors": [
+    "PER-drask",
+    "PER-brannoch",
+    "PER-ithrael"
+   ],
+   "botsingen": [
+    [
+     0.612,
+     "PER-sch-rhun-Z6",
+     "Rhun-ir de Stemvorst",
+     "dreiging"
+    ]
+   ],
+   "score": 0.716
+  },
+  {
+   "id": "K801-1757",
+   "volk": "ves-lethi",
+   "regio": "groenmuil",
+   "geslacht": "v",
+   "leeftijd": 21,
+   "gave": null,
+   "rol": "hoofd van de Stille Hand",
+   "positie": "liefde tussen posities",
+   "fout": "uitstel",
+   "wil": "haar dochter een gunstbrief",
+   "verbergt": "hoeveel lekjongens ze naar de Vathren bracht",
+   "geheim": "haar splinters gaan naar de Annalisten",
+   "donors": [
+    "PER-gew-kara",
+    "PER-gew-hilde",
+    "PER-gew-gudrun"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-sch-tor",
+     "Torvald Askoude",
+     "hefboom"
+    ],
+    [
+     0.254,
+     "PER-vathren-ruy",
+     "Ruy Hartstem",
+     "dreiging"
+    ]
+   ],
+   "score": 0.716
+  },
+  {
+   "id": "K801-0353",
+   "volk": "karrûk",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 21,
+   "gave": null,
+   "rol": "lekzoeker",
+   "positie": "ontdekker",
+   "fout": "fanatisme (geloof als mes)",
+   "wil": "de Orde ondermijnen",
+   "verbergt": "een verborgen gaven-man in de bergen",
+   "geheim": "ze weet wie Ankerwortel levert",
+   "donors": [
+    "PER-ondessa",
+    "PER-brannoch",
+    "PER-gew-yfke"
+   ],
+   "botsingen": [
+    [
+     0.379,
+     "PER-skerra-ka",
+     "Ka Snelvleugel",
+     "hefboom"
+    ],
+    [
+     0.335,
+     "PER-sch-rhun-Z6",
+     "Rhun-ir de Stemvorst",
+     "dreiging"
+    ]
+   ],
+   "score": 0.711
+  },
+  {
+   "id": "K801-0373",
+   "volk": "orrim",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 41,
+   "gave": null,
+   "rol": "wortelluisteraar",
+   "positie": "profiteur",
+   "fout": "berekening (eerzucht)",
+   "wil": "haar troepen gevoed",
+   "verbergt": "dat ze Losmaker is",
+   "geheim": "ze bezit de schuldbrief van Liora's moederhuis",
+   "donors": [
+    "PER-gew-yfke",
+    "PER-gew-tess",
+    "PER-sch-kreel"
+   ],
+   "botsingen": [
+    [
+     0.335,
+     "PER-sch-vessa",
+     "Moeder Vessa",
+     "dreiging"
+    ],
+    [
+     0.335,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "dreiging"
+    ],
+    [
+     0.3,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Aeron-as zonder de afloop te veranderen",
+   "score": 0.71
+  },
+  {
+   "id": "K801-1256",
+   "volk": "grauwen",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 20,
+   "gave": null,
+   "rol": "scheepsvrouw",
+   "positie": "liefde tussen posities",
+   "fout": "eerzucht",
+   "wil": "de paaipoel beschermen",
+   "verbergt": "dat ze half het geheim kent",
+   "geheim": "ze kan de Mirre-vloot laten zinken",
+   "donors": [
+    "PER-oevrin-vaa",
+    "PER-imra",
+    "PER-saelmor-wenna"
+   ],
+   "botsingen": [
+    [
+     0.35,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "rivaal"
+    ],
+    [
+     0.274,
+     "PER-gew-tess",
+     "Tess Hoeder",
+     "dreiging"
+    ],
+    [
+     0.173,
+     "PER-ishvar-tamar",
+     "Tamar Zonder-gloed",
+     "rivaal"
+    ]
+   ],
+   "hoofdlijn": "raakt Aeron-as zonder de afloop te veranderen",
+   "score": 0.695
+  },
+  {
+   "id": "K801-0174",
+   "volk": "sael-mor",
+   "regio": "zoutkust",
+   "geslacht": "m",
+   "leeftijd": 32,
+   "gave": null,
+   "rol": "schraper",
+   "positie": "vervalser",
+   "fout": "gemakzucht",
+   "wil": "leven",
+   "verbergt": "dat hij zelf zegelschaduw-ziek is",
+   "geheim": "als de Orde hem vindt, wordt hij gefokt",
+   "donors": [
+    "PER-sch-tor",
+    "PER-drask",
+    "PER-veslethi-ommo"
+   ],
+   "botsingen": [
+    [
+     0.375,
+     "PER-ondessa",
+     "Kapitein-Vrouwe Ondessa Mirre",
+     "dreiging"
+    ],
+    [
+     0.306,
+     "PER-selvine",
+     "Vrouwe Selvine Varenne",
+     "dreiging"
+    ]
+   ],
+   "score": 0.693
+  },
+  {
+   "id": "K801-1359",
+   "volk": "skerra",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 49,
+   "gave": null,
+   "rol": "slikganggids",
+   "positie": "toeschouwer",
+   "fout": "beschermende leugen",
+   "wil": "het geheim bewaren",
+   "verbergt": "dat ze vervalst",
+   "geheim": "ze heeft Zuster Ennia binnengelaten",
+   "donors": [
+    "PER-aelthir-sorn",
+    "PER-sch-ysolde",
+    "PER-imra"
+   ],
+   "botsingen": [
+    [
+     0.35,
+     "PER-oevrin-glu",
+     "Glu Slikmond",
+     "rivaal"
+    ],
+    [
+     0.306,
+     "PER-saelmor-wenna",
+     "Wenna Diepduikster",
+     "dreiging"
+    ]
+   ],
+   "score": 0.668
+  },
+  {
+   "id": "K801-1870",
+   "volk": "aelthir",
+   "regio": "kharvos",
+   "geslacht": "v",
+   "leeftijd": 67,
+   "gave": null,
+   "rol": "Kharvos-slavenhandelaar",
+   "positie": "toeschouwer",
+   "fout": "machtshonger (controle)",
+   "wil": "de Zegel redden met de Zegelbinding",
+   "verbergt": "dat ze Leegtezieken verkoopt",
+   "geheim": "ze wil Karrûk-mannen bevrijden van Kharvos",
+   "donors": [
+    "PER-ithrael",
+    "PER-sch-mavra",
+    "PER-karruk-yssa"
+   ],
+   "botsingen": [
+    [
+     0.335,
+     "PER-vathren-orl",
+     "Orl Brandzoeker",
+     "dreiging"
+    ],
+    [
+     0.335,
+     "PER-karruk-gath",
+     "Gath Kookbloed",
+     "dreiging"
+    ]
+   ],
+   "score": 0.667
+  },
+  {
+   "id": "K801-1160",
+   "volk": "oevrin",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 25,
+   "gave": null,
+   "rol": "hoofd van Mirre",
+   "positie": "ontdekker",
+   "fout": "trouw aan de doden",
+   "wil": "haar volk tegen de oogst beschermen",
+   "verbergt": "dat Mirre zelf Zoutloodsen houdt",
+   "geheim": "ze hielp het Offer",
+   "donors": [
+    "PER-orrim-sha",
+    "PER-ondessa",
+    "PER-vaelorn-nu"
+   ],
+   "botsingen": [
+    [
+     0.335,
+     "PER-gew-sander",
+     "Sander Melkos",
+     "dreiging"
+    ],
+    [
+     0.247,
+     "PER-veslethi-nara",
+     "Nara Vele Gezichten",
+     "rivaal"
+    ],
+    [
+     0.247,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "rivaal"
+    ]
+   ],
+   "score": 0.666
+  },
+  {
+   "id": "K801-1072",
+   "volk": "myrrhen",
+   "regio": "zoutkust",
+   "geslacht": "m",
+   "leeftijd": 33,
+   "gave": null,
+   "rol": "dijkwachter",
+   "positie": "toeschouwer",
+   "fout": "vroomheid als blindheid",
+   "wil": "de doden laten spreken",
+   "verbergt": "dat Mirre zelf Zoutloodsen houdt",
+   "geheim": "hij verraadt de Vathren-schuilplaats",
+   "donors": [
+    "PER-myrrhen-lys",
+    "PER-ondessa",
+    "PER-vathren-orl"
+   ],
+   "botsingen": [
+    [
+     0.335,
+     "PER-gew-sander",
+     "Sander Melkos",
+     "dreiging"
+    ],
+    [
+     0.31,
+     "PER-saelmor-wenna",
+     "Wenna Diepduikster",
+     "hefboom"
+    ]
+   ],
+   "score": 0.655
+  },
+  {
+   "id": "K801-1666",
+   "volk": "ves-lethi",
+   "regio": "ambergaard",
+   "geslacht": "v",
+   "leeftijd": 47,
+   "gave": null,
+   "rol": "kraaientolk",
+   "positie": "betaler",
+   "fout": "beschermende leugen",
+   "wil": "haar troepen gevoed",
+   "verbergt": "dat ze voor Ondessa spioneert",
+   "geheim": "zij helpt Bram ontsnappen",
+   "donors": [
+    "PER-gew-yfke",
+    "PER-sef",
+    "PER-gew-dagny"
+   ],
+   "botsingen": [
+    [
+     0.387,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "dreiging"
+    ],
+    [
+     0.201,
+     "PER-veslethi-nara",
+     "Nara Vele Gezichten",
+     "dreiging"
+    ]
+   ],
+   "score": 0.652
+  },
+  {
+   "id": "K801-1190",
+   "volk": "karrûk",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 51,
+   "gave": null,
+   "rol": "wortelluisteraar",
+   "positie": "betaler",
+   "fout": "eerzucht",
+   "wil": "meer vervorming",
+   "verbergt": "dat ze vervalst",
+   "geheim": "ze wil Karrûk-mannen bevrijden van Kharvos",
+   "donors": [
+    "PER-sch-mavra",
+    "PER-sch-kreel",
+    "PER-karruk-yssa"
+   ],
+   "botsingen": [
+    [
+     0.375,
+     "PER-ondessa",
+     "Kapitein-Vrouwe Ondessa Mirre",
+     "dreiging"
+    ],
+    [
+     0.225,
+     "PER-karruk-gath",
+     "Gath Kookbloed",
+     "dreiging"
+    ]
+   ],
+   "score": 0.652
+  },
+  {
+   "id": "K801-1258",
+   "volk": "tharn",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 53,
+   "gave": null,
+   "rol": "geoogste Orrim",
+   "positie": "toeschouwer",
+   "fout": "doodsangst",
+   "wil": "de Zegel breken en heersen",
+   "verbergt": "dat ze Losmaker is",
+   "geheim": "ze weet wie Ankerwortel levert",
+   "donors": [
+    "PER-morvane-profiel",
+    "PER-gew-tess",
+    "PER-gew-yfke"
+   ],
+   "botsingen": [
+    [
+     0.543,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "hefboom"
+    ]
+   ],
+   "hoofdlijn": "raakt Hoge Moeder Ithrael zonder de afloop te veranderen",
+   "score": 0.647
+  },
+  {
+   "id": "K801-0098",
+   "volk": "orrim",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 20,
+   "gave": null,
+   "rol": "naamgever",
+   "positie": "ontdekker",
+   "fout": "schuld (de rekensom)",
+   "wil": "de Zegel breken en heersen",
+   "verbergt": "haar vervalste register",
+   "geheim": "ze heeft Zuster Ennia binnengelaten",
+   "donors": [
+    "PER-morvane-profiel",
+    "PER-liora-profiel-Z32",
+    "PER-imra"
+   ],
+   "botsingen": [
+    [
+     0.543,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "hefboom"
+    ]
+   ],
+   "hoofdlijn": "raakt Hoge Moeder Ithrael zonder de afloop te veranderen",
+   "score": 0.647
+  },
+  {
+   "id": "K801-1173",
+   "volk": "orrim",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 29,
+   "gave": null,
+   "rol": "hoeder van Lijngravers",
+   "positie": "vervalser",
+   "fout": "schuld (de rekensom)",
+   "wil": "de Zegel breken en heersen",
+   "verbergt": "dat ze Losmaker is",
+   "geheim": "ze weet dat de lekken toenemen",
+   "donors": [
+    "PER-morvane-profiel",
+    "PER-gew-tess",
+    "PER-gew-hilde"
+   ],
+   "botsingen": [
+    [
+     0.543,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "hefboom"
+    ]
+   ],
+   "hoofdlijn": "raakt Hoge Moeder Ithrael zonder de afloop te veranderen",
+   "score": 0.647
+  },
+  {
+   "id": "K801-1848",
+   "volk": "tharn",
+   "regio": "zoutkust",
+   "geslacht": "m",
+   "leeftijd": 23,
+   "gave": null,
+   "rol": "Orrim-vluchteling",
+   "positie": "liefde tussen posities",
+   "fout": "koppigheid",
+   "wil": "zijn stalbroeders vrij",
+   "verbergt": "zijn gave en zijn angst",
+   "geheim": "het netwerk bewaart de echte annalen",
+   "donors": [
+    "PER-gew-wessel",
+    "PER-teo-Z32",
+    "PER-myrrhen-lys"
+   ],
+   "botsingen": [
+    [
+     0.35,
+     "PER-gew-sander",
+     "Sander Melkos",
+     "rivaal"
+    ],
+    [
+     0.175,
+     "PER-vaelorn-nu",
+     "Vaelorn Hoogaelthir (801)",
+     "dreiging"
+    ],
+    [
+     0.173,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "rivaal"
+    ]
+   ],
+   "score": 0.645
+  },
+  {
+   "id": "K801-1573",
+   "volk": "grauwen",
+   "regio": "saelith",
+   "geslacht": "m",
+   "leeftijd": 38,
+   "gave": null,
+   "rol": "Kharvos-slavenhandelaar",
+   "positie": "vervalser",
+   "fout": "uitstel",
+   "wil": "de paaipoel beschermen",
+   "verbergt": "zijn Ishvar-moeder",
+   "geheim": "Kaldra verbergt hem",
+   "donors": [
+    "PER-oevrin-vaa",
+    "PER-khaled-profiel",
+    "PER-sch-rhun-Z6"
+   ],
+   "botsingen": [
+    [
+     0.35,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "rivaal"
+    ],
+    [
+     0.173,
+     "PER-ishvar-tamar",
+     "Tamar Zonder-gloed",
+     "rivaal"
+    ],
+    [
+     0.152,
+     "PER-karruk-yssa",
+     "Yssa Vuurwinnares",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Aeron-as zonder de afloop te veranderen",
+   "score": 0.644
+  },
+  {
+   "id": "K801-0027",
+   "volk": "vathren",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 31,
+   "gave": null,
+   "rol": "nee-getuige",
+   "positie": "beslisser",
+   "fout": "verraad uit gelijk",
+   "wil": "eindelijk spreken",
+   "verbergt": "dat ze schulden heeft bij Varenne",
+   "geheim": "zij helpt Bram ontsnappen",
+   "donors": [
+    "PER-vaelorn-nu",
+    "PER-gew-kara",
+    "PER-gew-dagny"
+   ],
+   "botsingen": [
+    [
+     0.335,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "dreiging"
+    ],
+    [
+     0.286,
+     "PER-myrrhen-lys",
+     "Lys Rotbed",
+     "rivaal"
+    ]
+   ],
+   "score": 0.643
+  },
+  {
+   "id": "K801-0519",
+   "volk": "aelthir",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 55,
+   "gave": null,
+   "rol": "legerkokkin",
+   "positie": "ontdekker",
+   "fout": "beschermende leugen",
+   "wil": "eindelijk spreken",
+   "verbergt": "dat Varenne gaven-mannen fokt",
+   "geheim": "ze levert aan de Varenne-randcompagnie",
+   "donors": [
+    "PER-vaelorn-nu",
+    "PER-selvine",
+    "PER-sch-mavra"
+   ],
+   "botsingen": [
+    [
+     0.335,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "dreiging"
+    ],
+    [
+     0.286,
+     "PER-myrrhen-lys",
+     "Lys Rotbed",
+     "rivaal"
+    ]
+   ],
+   "score": 0.643
+  },
+  {
+   "id": "K801-1308",
+   "volk": "ves-lethi",
+   "regio": "groenmuil",
+   "geslacht": "v",
+   "leeftijd": 51,
+   "gave": null,
+   "rol": "Vuurkamp-winnares",
+   "positie": "vervalser",
+   "fout": "gemakzucht",
+   "wil": "winst",
+   "verbergt": "dat ze voor Varenne en de Orde werkt",
+   "geheim": "deels Ishvar-bloed?",
+   "donors": [
+    "PER-sch-harl",
+    "PER-skerra-ka",
+    "PER-liora-profiel-Z32"
+   ],
+   "botsingen": [
+    [
+     0.335,
+     "PER-grauwen-mott",
+     "Mott de Zachte",
+     "dreiging"
+    ],
+    [
+     0.278,
+     "PER-dhurn-borga",
+     "Borga Gildemoeder",
+     "rivaal"
+    ]
+   ],
+   "score": 0.639
+  },
+  {
+   "id": "K801-1675",
+   "volk": "ishvar",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 51,
+   "gave": null,
+   "rol": "gewillige verliezer",
+   "positie": "beslisser",
+   "fout": "wraakzucht",
+   "wil": "de gangen geheim",
+   "verbergt": "haar liefde voor Bram",
+   "geheim": "ze bezit de schuldbrief van Liora's moederhuis",
+   "donors": [
+    "PER-oevrin-glu",
+    "PER-gew-dagny",
+    "PER-sch-kreel"
+   ],
+   "botsingen": [
+    [
+     0.354,
+     "PER-sef",
+     "Sef van Brakhaven",
+     "dreiging"
+    ],
+    [
+     0.23,
+     "PER-aelthir-sorn",
+     "Sorn Nachtbast",
+     "rivaal"
+    ]
+   ],
+   "score": 0.634
+  },
+  {
+   "id": "K801-1339",
+   "volk": "orrim",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 60,
+   "gave": null,
+   "rol": "wortelluisteraar",
+   "positie": "toeschouwer",
+   "fout": "ijdelheid",
+   "wil": "oorlog tegen Kharvos en vaste gaven-toegang",
+   "verbergt": "dat de Zegel sterft",
+   "geheim": "ze hoort de wortelstem",
+   "donors": [
+    "PER-brannoch",
+    "PER-ithrael",
+    "PER-gew-tess"
+   ],
+   "botsingen": [
+    [
+     0.375,
+     "PER-morvane-profiel",
+     "Morvane-ir",
+     "dreiging"
+    ],
+    [
+     0.171,
+     "PER-karruk-yssa",
+     "Yssa Vuurwinnares",
+     "hefboom"
+    ]
+   ],
+   "score": 0.625
+  },
+  {
+   "id": "K801-1515",
+   "volk": "dhurn",
+   "regio": "ambergaard",
+   "geslacht": "v",
+   "leeftijd": 60,
+   "gave": null,
+   "rol": "melkman",
+   "positie": "ontdekker",
+   "fout": "bewondering voor de vijand",
+   "wil": "meer Lijngravers",
+   "verbergt": "dat Mirre zelf Zoutloodsen houdt",
+   "geheim": "ze kent de stem in de Wortel",
+   "donors": [
+    "PER-sch-ysolde",
+    "PER-ondessa",
+    "PER-ithrael"
+   ],
+   "botsingen": [
+    [
+     0.35,
+     "PER-sch-mavra",
+     "Mavra Vleesmoeder",
+     "rivaal"
+    ],
+    [
+     0.177,
+     "PER-liora-profiel-Z32",
+     "Liora van Hallowyn",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Liora van Hallowyn zonder de afloop te veranderen",
+   "score": 0.603
+  },
+  {
+   "id": "K801-0314",
+   "volk": "myrrhen",
+   "regio": "hoogvrouwe",
+   "geslacht": "m",
+   "leeftijd": 24,
+   "gave": null,
+   "rol": "hoeder van Lijngravers",
+   "positie": "profiteur",
+   "fout": "controle",
+   "wil": "één nacht vrij",
+   "verbergt": "dat hij Vaderling is",
+   "geheim": "hij testte de zwam op zichzelf",
+   "donors": [
+    "PER-gew-sander",
+    "PER-gew-wessel",
+    "PER-myrrhen-dov"
+   ],
+   "botsingen": [
+    [
+     0.35,
+     "PER-skerra-ka",
+     "Ka Snelvleugel",
+     "rivaal"
+    ],
+    [
+     0.173,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "rivaal"
+    ]
+   ],
+   "score": 0.601
+  },
+  {
+   "id": "K801-1494",
+   "volk": "oevrin",
+   "regio": "zoutkust",
+   "geslacht": "m",
+   "leeftijd": 21,
+   "gave": null,
+   "rol": "wortelluisteraar",
+   "positie": "liefde tussen posities",
+   "fout": "machtshonger (controle)",
+   "wil": "vrij vliegen",
+   "verbergt": "dat hij een Velmara-moeder had",
+   "geheim": "hij sterft binnen vijf jaar",
+   "donors": [
+    "PER-skerra-ka",
+    "PER-sch-harl",
+    "PER-drask"
+   ],
+   "botsingen": [
+    [
+     0.35,
+     "PER-gew-sander",
+     "Sander Melkos",
+     "rivaal"
+    ],
+    [
+     0.173,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "rivaal"
+    ]
+   ],
+   "score": 0.601
+  },
+  {
+   "id": "K801-1478",
+   "volk": "myrrhen",
+   "regio": "zoutkust",
+   "geslacht": "m",
+   "leeftijd": 28,
+   "gave": null,
+   "rol": "lekzoeker",
+   "positie": "liefde tussen posities",
+   "fout": "vroomheid als blindheid",
+   "wil": "vrij vliegen",
+   "verbergt": "schuld om een gebonden vrouw",
+   "geheim": "Oevrin-voortplanting omzeilt de Zegel",
+   "donors": [
+    "PER-skerra-ka",
+    "PER-aeron-profiel",
+    "PER-oevrin-vaa"
+   ],
+   "botsingen": [
+    [
+     0.35,
+     "PER-gew-sander",
+     "Sander Melkos",
+     "rivaal"
+    ],
+    [
+     0.173,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "rivaal"
+    ]
+   ],
+   "score": 0.601
+  },
+  {
+   "id": "K801-1236",
+   "volk": "kluwer",
+   "regio": "zoutkust",
+   "geslacht": "m",
+   "leeftijd": 46,
+   "gave": null,
+   "rol": "Kluwer-darre",
+   "positie": "profiteur",
+   "fout": "verraad uit vaderliefde",
+   "wil": "vrij vliegen",
+   "verbergt": "dat hij een Orde-spion is",
+   "geheim": "in het register al \"gegeven\" als Lijngraver",
+   "donors": [
+    "PER-skerra-ka",
+    "PER-vathren-orl",
+    "PER-teo-Z32"
+   ],
+   "botsingen": [
+    [
+     0.35,
+     "PER-gew-sander",
+     "Sander Melkos",
+     "rivaal"
+    ],
+    [
+     0.173,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "rivaal"
+    ]
+   ],
+   "score": 0.601
+  },
+  {
+   "id": "K801-1664",
+   "volk": "karrûk",
+   "regio": "zoutkust",
+   "geslacht": "m",
+   "leeftijd": 36,
+   "gave": null,
+   "rol": "wiegwacht",
+   "positie": "profiteur",
+   "fout": "doodsangst",
+   "wil": "vrij vliegen",
+   "verbergt": "dat hij uit het Offer-tijdperk stamt",
+   "geheim": "hij kent de onderwaterpoort van de tempel",
+   "donors": [
+    "PER-skerra-ka",
+    "PER-sch-tor",
+    "PER-gew-pell"
+   ],
+   "botsingen": [
+    [
+     0.35,
+     "PER-gew-sander",
+     "Sander Melkos",
+     "rivaal"
+    ],
+    [
+     0.173,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "rivaal"
+    ]
+   ],
+   "score": 0.601
+  },
+  {
+   "id": "K801-1681",
+   "volk": "dhurn",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 47,
+   "gave": null,
+   "rol": "dijkwachter",
+   "positie": "beslisser",
+   "fout": "doodsangst",
+   "wil": "winst",
+   "verbergt": "dat ze een kind van een gaven-man wil",
+   "geheim": "ze heeft Zuster Ennia binnengelaten",
+   "donors": [
+    "PER-sch-harl",
+    "PER-tharn-lunn",
+    "PER-imra"
+   ],
+   "botsingen": [
+    [
+     0.297,
+     "PER-dhurn-borga",
+     "Borga Gildemoeder",
+     "rivaal"
+    ],
+    [
+     0.274,
+     "PER-saelmor-wenna",
+     "Wenna Diepduikster",
+     "dreiging"
+    ]
+   ],
+   "score": 0.599
+  },
+  {
+   "id": "K801-1943",
+   "volk": "orrim",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 59,
+   "gave": null,
+   "rol": "jongensverstopster",
+   "positie": "liefde tussen posities",
+   "fout": "controle",
+   "wil": "winst",
+   "verbergt": "dat ze Ankerwortel herkent",
+   "geheim": "half Ishvar",
+   "donors": [
+    "PER-sch-harl",
+    "PER-gew-yfke",
+    "PER-khaled-profiel"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-dhurn-borga",
+     "Borga Gildemoeder",
+     "rivaal"
+    ]
+   ],
+   "score": 0.599
+  },
+  {
+   "id": "K801-0967",
+   "volk": "orrim",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 20,
+   "gave": null,
+   "rol": "boerin in een stalcollectief",
+   "positie": "betaler",
+   "fout": "zelfbehoud (vlucht)",
+   "wil": "winst",
+   "verbergt": "dat het misschien niet werkt",
+   "geheim": "de verborgen gaven-man is haar broer",
+   "donors": [
+    "PER-sch-harl",
+    "PER-myrrhen-dov",
+    "PER-brannoch"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-dhurn-borga",
+     "Borga Gildemoeder",
+     "rivaal"
+    ]
+   ],
+   "score": 0.599
+  },
+  {
+   "id": "K801-0408",
+   "volk": "ishvar",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 28,
+   "gave": null,
+   "rol": "poortwachter van de Amberpas",
+   "positie": "profiteur",
+   "fout": "koppigheid",
+   "wil": "winst",
+   "verbergt": "dat ze Losmaker is",
+   "geheim": "ze kent een Oevrin-slikgang",
+   "donors": [
+    "PER-sch-harl",
+    "PER-gew-tess",
+    "PER-sef"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-dhurn-borga",
+     "Borga Gildemoeder",
+     "rivaal"
+    ]
+   ],
+   "score": 0.599
+  },
+  {
+   "id": "K801-1876",
+   "volk": "grauwen",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 67,
+   "gave": null,
+   "rol": "bakster",
+   "positie": "profiteur",
+   "fout": "berekening (eerzucht)",
+   "wil": "haar graver laten sterven",
+   "verbergt": "dat ze vervalst",
+   "geheim": "ze kent de stem in de Wortel",
+   "donors": [
+    "PER-gew-tess",
+    "PER-sch-ysolde",
+    "PER-ithrael"
+   ],
+   "botsingen": [
+    [
+     0.31,
+     "PER-saelmor-wenna",
+     "Wenna Diepduikster",
+     "hefboom"
+    ],
+    [
+     0.233,
+     "PER-myrrhen-lys",
+     "Lys Rotbed",
+     "rivaal"
+    ]
+   ],
+   "score": 0.591
+  },
+  {
+   "id": "K801-0934",
+   "volk": "vathren",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 31,
+   "gave": null,
+   "rol": "zegger",
+   "positie": "vervalser",
+   "fout": "controle",
+   "wil": "haar graver laten sterven",
+   "verbergt": "dat haar lichaam Sterrensteen voor de Zegelbinding bevat",
+   "geheim": "zij helpt Bram ontsnappen",
+   "donors": [
+    "PER-gew-tess",
+    "PER-orrim-sha",
+    "PER-gew-dagny"
+   ],
+   "botsingen": [
+    [
+     0.31,
+     "PER-saelmor-wenna",
+     "Wenna Diepduikster",
+     "hefboom"
+    ],
+    [
+     0.233,
+     "PER-myrrhen-lys",
+     "Lys Rotbed",
+     "rivaal"
+    ]
+   ],
+   "score": 0.591
+  },
+  {
+   "id": "K801-0169",
+   "volk": "dhurn",
+   "regio": "zoutkust",
+   "geslacht": "m",
+   "leeftijd": 25,
+   "gave": null,
+   "rol": "Kharvos-slavenhandelaar",
+   "positie": "toeschouwer",
+   "fout": "berekening (eerzucht)",
+   "wil": "de Wortels laten zwijgen",
+   "verbergt": "dat hij uit het Offer-tijdperk stamt",
+   "geheim": "hij kent de pas waar Drask doorkomt",
+   "donors": [
+    "PER-vathren-ruy",
+    "PER-sch-tor",
+    "PER-karruk-gath"
+   ],
+   "botsingen": [
+    [
+     0.31,
+     "PER-saelmor-wenna",
+     "Wenna Diepduikster",
+     "hefboom"
+    ],
+    [
+     0.233,
+     "PER-myrrhen-lys",
+     "Lys Rotbed",
+     "rivaal"
+    ]
+   ],
+   "score": 0.591
+  },
+  {
+   "id": "K801-1346",
+   "volk": "kluwer",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 34,
+   "gave": null,
+   "rol": "netwerkhoudster",
+   "positie": "ontdekker",
+   "fout": "verraad uit vaderliefde",
+   "wil": "haar volk tegen de oogst beschermen",
+   "verbergt": "dat ze de Zegelbinding kan maken",
+   "geheim": "ze heeft Zuster Ennia binnengelaten",
+   "donors": [
+    "PER-orrim-sha",
+    "PER-dhurn-borga",
+    "PER-imra"
+   ],
+   "botsingen": [
+    [
+     0.3,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "dreiging"
+    ],
+    [
+     0.247,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "rivaal"
+    ]
+   ],
+   "hoofdlijn": "raakt Hoge Moeder Ithrael zonder de afloop te veranderen",
+   "score": 0.588
+  },
+  {
+   "id": "K801-0796",
+   "volk": "dhurn",
+   "regio": "groenmuil",
+   "geslacht": "v",
+   "leeftijd": 59,
+   "gave": null,
+   "rol": "gildemoeder",
+   "positie": "vervalser",
+   "fout": "gemakzucht",
+   "wil": "neutraliteit en winst",
+   "verbergt": "dat ze Ishvar is",
+   "geheim": "haar splinters gaan naar de Annalisten",
+   "donors": [
+    "PER-dhurn-borga",
+    "PER-ishvar-tamar",
+    "PER-gew-gudrun"
+   ],
+   "botsingen": [
+    [
+     0.335,
+     "PER-vathren-ruy",
+     "Ruy Hartstem",
+     "dreiging"
+    ],
+    [
+     0.173,
+     "PER-sch-harl",
+     "Harl Gaven-loze",
+     "rivaal"
+    ]
+   ],
+   "score": 0.586
+  },
+  {
+   "id": "K801-1780",
+   "volk": "aelthir",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 64,
+   "gave": null,
+   "rol": "Kharvos-slavenhandelaar",
+   "positie": "liefde tussen posities",
+   "fout": "fanatisme (geloof als mes)",
+   "wil": "de Wortels laten zwijgen",
+   "verbergt": "dat ze voor Varenne en de Orde werkt",
+   "geheim": "ze weet wie Ankerwortel levert",
+   "donors": [
+    "PER-vathren-ruy",
+    "PER-skerra-ka",
+    "PER-gew-yfke"
+   ],
+   "botsingen": [
+    [
+     0.3,
+     "PER-dhurn-borga",
+     "Borga Gildemoeder",
+     "dreiging"
+    ],
+    [
+     0.233,
+     "PER-tharn-bor",
+     "Bor de Poortreus",
+     "rivaal"
+    ]
+   ],
+   "score": 0.581
+  },
+  {
+   "id": "K801-0203",
+   "volk": "ishvar",
+   "regio": "groenmuil",
+   "geslacht": "v",
+   "leeftijd": 25,
+   "gave": null,
+   "rol": "wiegwacht",
+   "positie": "betaler",
+   "fout": "schuld (de rekensom)",
+   "wil": "de doden laten spreken",
+   "verbergt": "een verborgen gaven-man in de bergen",
+   "geheim": "ze weet wie Ankerwortel levert",
+   "donors": [
+    "PER-myrrhen-lys",
+    "PER-brannoch",
+    "PER-gew-yfke"
+   ],
+   "botsingen": [
+    [
+     0.286,
+     "PER-vaelorn-nu",
+     "Vaelorn Hoogaelthir (801)",
+     "rivaal"
+    ],
+    [
+     0.233,
+     "PER-vathren-ruy",
+     "Ruy Hartstem",
+     "rivaal"
+    ]
+   ],
+   "score": 0.567
+  },
+  {
+   "id": "K801-0667",
+   "volk": "ves-lethi",
+   "regio": "groenmuil",
+   "geslacht": "v",
+   "leeftijd": 44,
+   "gave": null,
+   "rol": "Aelthir-geheugen",
+   "positie": "profiteur",
+   "fout": "doodsangst",
+   "wil": "de Zegel breken en heersen",
+   "verbergt": "dat ze Leegtezieken verkoopt",
+   "geheim": "haar splinters gaan naar de Annalisten",
+   "donors": [
+    "PER-morvane-profiel",
+    "PER-sch-mavra",
+    "PER-gew-gudrun"
+   ],
+   "botsingen": [
+    [
+     0.3,
+     "PER-vathren-ruy",
+     "Ruy Hartstem",
+     "dreiging"
+    ],
+    [
+     0.19,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "hefboom"
+    ]
+   ],
+   "hoofdlijn": "raakt Hoge Moeder Ithrael zonder de afloop te veranderen",
+   "score": 0.56
+  },
+  {
+   "id": "K801-1942",
+   "volk": "karrûk",
+   "regio": "groenmuil",
+   "geslacht": "v",
+   "leeftijd": 30,
+   "gave": null,
+   "rol": "Brandzoeker",
+   "positie": "toeschouwer",
+   "fout": "schuld (de rekensom)",
+   "wil": "oorlog tegen Kharvos en vaste gaven-toegang",
+   "verbergt": "schuld om een gebonden vrouw",
+   "geheim": "ze leest elk bericht",
+   "donors": [
+    "PER-brannoch",
+    "PER-aeron-profiel",
+    "PER-skerra-ka"
+   ],
+   "botsingen": [
+    [
+     0.294,
+     "PER-karruk-yssa",
+     "Yssa Vuurwinnares",
+     "hefboom"
+    ],
+    [
+     0.201,
+     "PER-karruk-gath",
+     "Gath Kookbloed",
+     "dreiging"
+    ]
+   ],
+   "score": 0.559
+  },
+  {
+   "id": "K801-0600",
+   "volk": "dhurn",
+   "regio": "kharvos",
+   "geslacht": "v",
+   "leeftijd": 33,
+   "gave": null,
+   "rol": "hoofd van de Stille Hand",
+   "positie": "profiteur",
+   "fout": "zelfbehoud (vlucht)",
+   "wil": "meer Lijngravers",
+   "verbergt": "dat ze Losmaker is",
+   "geheim": "zij weet wie Liora's moeder is",
+   "donors": [
+    "PER-sch-ysolde",
+    "PER-gew-tess",
+    "PER-gew-marit-Z6-Z32"
+   ],
+   "botsingen": [
+    [
+     0.175,
+     "PER-sef",
+     "Sef van Brakhaven",
+     "dreiging"
+    ],
+    [
+     0.175,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "dreiging"
+    ],
+    [
+     0.152,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "dreiging"
+    ],
+    [
+     0.152,
+     "PER-sch-vessa",
+     "Moeder Vessa",
+     "dreiging"
+    ],
+    [
+     0.152,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "dreiging"
+    ],
+    [
+     0.152,
+     "PER-aelthir-sorn",
+     "Sorn Nachtbast",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Teo van Hallowyn zonder de afloop te veranderen",
+   "score": 0.554
+  },
+  {
+   "id": "K801-1646",
+   "volk": "tharn",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 41,
+   "gave": null,
+   "rol": "twijfelende priesteres",
+   "positie": "beslisser",
+   "fout": "berekening (eerzucht)",
+   "wil": "oorlog tegen Kharvos en vaste gaven-toegang",
+   "verbergt": "hoeveel lekjongens ze naar de Vathren bracht",
+   "geheim": "ze kan de Mirre-vloot laten zinken",
+   "donors": [
+    "PER-brannoch",
+    "PER-gew-hilde",
+    "PER-saelmor-wenna"
+   ],
+   "botsingen": [
+    [
+     0.254,
+     "PER-gew-tess",
+     "Tess Hoeder",
+     "dreiging"
+    ],
+    [
+     0.171,
+     "PER-karruk-yssa",
+     "Yssa Vuurwinnares",
+     "hefboom"
+    ],
+    [
+     0.152,
+     "PER-tharn-bor",
+     "Bor de Poortreus",
+     "dreiging"
+    ]
+   ],
+   "score": 0.547
+  },
+  {
+   "id": "K801-1611",
+   "volk": "grauwen",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 62,
+   "gave": null,
+   "rol": "smokkelaarster",
+   "positie": "beslisser",
+   "fout": "nieuwsgierigheid",
+   "wil": "zieken verzorgen",
+   "verbergt": "dat haar lichaam Sterrensteen voor de Zegelbinding bevat",
+   "geheim": "deels Ishvar-bloed?",
+   "donors": [
+    "PER-grauwen-mott",
+    "PER-orrim-sha",
+    "PER-liora-profiel-Z32"
+   ],
+   "botsingen": [
+    [
+     0.274,
+     "PER-dhurn-borga",
+     "Borga Gildemoeder",
+     "dreiging"
+    ],
+    [
+     0.212,
+     "PER-grauwen-vell",
+     "Vell Ontsluierde",
+     "dreiging"
+    ]
+   ],
+   "score": 0.545
+  },
+  {
+   "id": "K801-0160",
+   "volk": "skerra",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 31,
+   "gave": null,
+   "rol": "smokkelaarster",
+   "positie": "ontdekker",
+   "fout": "nieuwsgierigheid",
+   "wil": "de Zegel breken en heersen",
+   "verbergt": "wat er in de oogstkelders gebeurt",
+   "geheim": "in het register al \"gegeven\" als Lijngraver",
+   "donors": [
+    "PER-morvane-profiel",
+    "PER-orrim-dru",
+    "PER-teo-Z32"
+   ],
+   "botsingen": [
+    [
+     0.283,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "hefboom"
+    ],
+    [
+     0.19,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "hefboom"
+    ]
+   ],
+   "hoofdlijn": "raakt Hoge Moeder Ithrael zonder de afloop te veranderen",
+   "score": 0.543
+  },
+  {
+   "id": "K801-1213",
+   "volk": "vathren",
+   "regio": "groenmuil",
+   "geslacht": "v",
+   "leeftijd": 65,
+   "gave": null,
+   "rol": "lijfwacht",
+   "positie": "liefde tussen posities",
+   "fout": "eigenbelang",
+   "wil": "haar dochter een gunstbrief",
+   "verbergt": "dat Mirre zelf Zoutloodsen houdt",
+   "geheim": "de verborgen gaven-man is haar broer",
+   "donors": [
+    "PER-gew-kara",
+    "PER-ondessa",
+    "PER-brannoch"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-sch-tor",
+     "Torvald Askoude",
+     "hefboom"
+    ]
+   ],
+   "score": 0.528
+  },
+  {
+   "id": "K801-0436",
+   "volk": "ishvar",
+   "regio": "kharvos",
+   "geslacht": "v",
+   "leeftijd": 68,
+   "gave": null,
+   "rol": "aardster",
+   "positie": "vervalser",
+   "fout": "bewondering voor de vijand",
+   "wil": "de Orde ondermijnen",
+   "verbergt": "dat ze Ankerwortel herkent",
+   "geheim": "ze levert aan de Varenne-randcompagnie",
+   "donors": [
+    "PER-ondessa",
+    "PER-gew-yfke",
+    "PER-sch-mavra"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-veslethi-ommo",
+     "Ommo Tweevorm",
+     "hefboom"
+    ]
+   ],
+   "score": 0.528
+  },
+  {
+   "id": "K801-0002",
+   "volk": "ves-lethi",
+   "regio": "zoutkust",
+   "geslacht": "m",
+   "leeftijd": 43,
+   "gave": null,
+   "rol": "hoofdpersoon",
+   "positie": "toeschouwer",
+   "fout": "nieuwsgierigheid",
+   "wil": "de Orde ondermijnen",
+   "verbergt": "dat hij een Velmara-moeder had",
+   "geheim": "hij heeft een kind in een fokstal",
+   "donors": [
+    "PER-ondessa",
+    "PER-sch-harl",
+    "PER-aeron-profiel"
+   ],
+   "botsingen": [
+    [
+     0.255,
+     "PER-veslethi-ommo",
+     "Ommo Tweevorm",
+     "hefboom"
+    ],
+    [
+     0.175,
+     "PER-tharn-lunn",
+     "Lunn Dijkdochter",
+     "dreiging"
+    ]
+   ],
+   "score": 0.507
+  },
+  {
+   "id": "K801-0557",
+   "volk": "aelthir",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 23,
+   "gave": null,
+   "rol": "Zonvorst",
+   "positie": "profiteur",
+   "fout": "hebzucht (macht na een leven als knecht)",
+   "wil": "haar graver laten sterven",
+   "verbergt": "dat ze vervalst",
+   "geheim": "haar splinters gaan naar de Annalisten",
+   "donors": [
+    "PER-gew-tess",
+    "PER-sch-kreel",
+    "PER-gew-gudrun"
+   ],
+   "botsingen": [
+    [
+     0.233,
+     "PER-tharn-bor",
+     "Bor de Poortreus",
+     "rivaal"
+    ],
+    [
+     0.199,
+     "PER-vathren-ruy",
+     "Ruy Hartstem",
+     "dreiging"
+    ]
+   ],
+   "score": 0.497
+  },
+  {
+   "id": "K801-1329",
+   "volk": "kluwer",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 26,
+   "gave": null,
+   "rol": "tempelkoerier",
+   "positie": "liefde tussen posities",
+   "fout": "gemakzucht",
+   "wil": "gaven-mannen en Velmara-vrouwen",
+   "verbergt": "hoeveel lekjongens ze naar de Vathren bracht",
+   "geheim": "ze kent de stem in de Wortel",
+   "donors": [
+    "PER-drask",
+    "PER-gew-hilde",
+    "PER-ithrael"
+   ],
+   "botsingen": [
+    [
+     0.379,
+     "PER-selvine",
+     "Vrouwe Selvine Varenne",
+     "hefboom"
+    ]
+   ],
+   "score": 0.483
+  },
+  {
+   "id": "K801-0838",
+   "volk": "kluwer",
+   "regio": "groenmuil",
+   "geslacht": "m",
+   "leeftijd": 29,
+   "gave": null,
+   "rol": "hoofd van Varenne",
+   "positie": "beslisser",
+   "fout": "lafheid of levenswil",
+   "wil": "meer Lijngravers",
+   "verbergt": "dat hij een gaven-man verborgen heeft",
+   "geheim": "Kaldra verbergt hem",
+   "donors": [
+    "PER-sch-ysolde",
+    "PER-gew-jorrit",
+    "PER-sch-rhun-Z6"
+   ],
+   "botsingen": [
+    [
+     0.379,
+     "PER-grauwen-mott",
+     "Mott de Zachte",
+     "hefboom"
+    ]
+   ],
+   "score": 0.483
+  },
+  {
+   "id": "K801-0117",
+   "volk": "vathren",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 62,
+   "gave": null,
+   "rol": "Orrim-vluchteling",
+   "positie": "ontdekker",
+   "fout": "medeplichtig zwijgen (liefde boven waarheid)",
+   "wil": "het geheim bewaren",
+   "verbergt": "dat ze vervalst",
+   "geheim": "ze kent de stem in de Wortel",
+   "donors": [
+    "PER-aelthir-sorn",
+    "PER-sch-ysolde",
+    "PER-ithrael"
+   ],
+   "botsingen": [
+    [
+     0.375,
+     "PER-sch-rhun-Z6",
+     "Rhun-ir de Stemvorst",
+     "dreiging"
+    ]
+   ],
+   "score": 0.479
+  },
+  {
+   "id": "K801-0153",
+   "volk": "vathren",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 36,
+   "gave": null,
+   "rol": "aardster",
+   "positie": "toeschouwer",
+   "fout": "zelfbehoud (vlucht)",
+   "wil": "haar dochter een gunstbrief",
+   "verbergt": "dat ze voor Ondessa spioneert",
+   "geheim": "half Ishvar",
+   "donors": [
+    "PER-gew-kara",
+    "PER-sef",
+    "PER-khaled-profiel"
+   ],
+   "botsingen": [
+    [
+     0.375,
+     "PER-veslethi-nara",
+     "Nara Vele Gezichten",
+     "dreiging"
+    ]
+   ],
+   "score": 0.479
+  },
+  {
+   "id": "K801-1306",
+   "volk": "aelthir",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 52,
+   "gave": null,
+   "rol": "Zonvorst",
+   "positie": "betaler",
+   "fout": "beschermende leugen",
+   "wil": "contracten en lichamen",
+   "verbergt": "dat ze voor Ondessa spioneert",
+   "geheim": "ze is een halfzus van Selvine",
+   "donors": [
+    "PER-sch-kreel",
+    "PER-sef",
+    "PER-grauwen-vell"
+   ],
+   "botsingen": [
+    [
+     0.375,
+     "PER-veslethi-nara",
+     "Nara Vele Gezichten",
+     "dreiging"
+    ]
+   ],
+   "score": 0.479
+  },
+  {
+   "id": "K801-1421",
+   "volk": "kluwer",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 44,
+   "gave": null,
+   "rol": "schuldmeesteres",
+   "positie": "vervalser",
+   "fout": "koppigheid",
+   "wil": "de Wortels laten zwijgen",
+   "verbergt": "dat ze half het geheim kent",
+   "geheim": "het netwerk bewaart de echte annalen",
+   "donors": [
+    "PER-vathren-ruy",
+    "PER-imra",
+    "PER-myrrhen-lys"
+   ],
+   "botsingen": [
+    [
+     0.233,
+     "PER-gew-tess",
+     "Tess Hoeder",
+     "rivaal"
+    ],
+    [
+     0.162,
+     "PER-vaelorn-nu",
+     "Vaelorn Hoogaelthir (801)",
+     "dreiging"
+    ]
+   ],
+   "score": 0.479
+  },
+  {
+   "id": "K801-1582",
+   "volk": "skerra",
+   "regio": "kharvos",
+   "geslacht": "v",
+   "leeftijd": 21,
+   "gave": null,
+   "rol": "Drempelmoeder",
+   "positie": "beslisser",
+   "fout": "eigenbelang",
+   "wil": "haar volk verbergen",
+   "verbergt": "haar register-oorsprong (een Varenne-dochter)",
+   "geheim": "ze kent een Oevrin-slikgang",
+   "donors": [
+    "PER-veslethi-nara",
+    "PER-grauwen-vell",
+    "PER-sef"
+   ],
+   "botsingen": [
+    [
+     0.35,
+     "PER-karruk-yssa",
+     "Yssa Vuurwinnares",
+     "rivaal"
+    ]
+   ],
+   "score": 0.454
+  },
+  {
+   "id": "K801-1988",
+   "volk": "oevrin",
+   "regio": "groenmuil",
+   "geslacht": "v",
+   "leeftijd": 26,
+   "gave": null,
+   "rol": "lampenmaker",
+   "positie": "betaler",
+   "fout": "controle",
+   "wil": "de gangen geheim",
+   "verbergt": "dat ze Leegtezieken verkoopt",
+   "geheim": "ze weet dat de lekken toenemen",
+   "donors": [
+    "PER-oevrin-glu",
+    "PER-sch-mavra",
+    "PER-gew-hilde"
+   ],
+   "botsingen": [
+    [
+     0.35,
+     "PER-aelthir-sorn",
+     "Sorn Nachtbast",
+     "rivaal"
+    ]
+   ],
+   "score": 0.454
+  },
+  {
+   "id": "K801-0305",
+   "volk": "karrûk",
+   "regio": "ambergaard",
+   "geslacht": "v",
+   "leeftijd": 56,
+   "gave": null,
+   "rol": "smokkelaarster",
+   "positie": "liefde tussen posities",
+   "fout": "zelfbehoud (vlucht)",
+   "wil": "de waarheid zonder bloedvergieten",
+   "verbergt": "dat ze Leegtezieken verkoopt",
+   "geheim": "Oevrin-voortplanting omzeilt de Zegel",
+   "donors": [
+    "PER-imra",
+    "PER-sch-mavra",
+    "PER-oevrin-vaa"
+   ],
+   "botsingen": [
+    [
+     0.337,
+     "PER-liora-profiel-Z32",
+     "Liora van Hallowyn",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Liora van Hallowyn zonder de afloop te veranderen",
+   "score": 0.441
+  },
+  {
+   "id": "K801-1417",
+   "volk": "skerra",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 35,
+   "gave": null,
+   "rol": "Brandzoeker",
+   "positie": "profiteur",
+   "fout": "begeerte via een leugen",
+   "wil": "contracten en lichamen",
+   "verbergt": "dat ze Velmara-bloed heeft",
+   "geheim": "in het register al \"gegeven\" als Lijngraver",
+   "donors": [
+    "PER-sch-kreel",
+    "PER-karruk-yssa",
+    "PER-teo-Z32"
+   ],
+   "botsingen": [
+    [
+     0.335,
+     "PER-imra",
+     "Hoedster Imra",
+     "dreiging"
+    ]
+   ],
+   "score": 0.439
+  },
+  {
+   "id": "K801-0619",
+   "volk": "skerra",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 19,
+   "gave": null,
+   "rol": "Aelthir-geheugen",
+   "positie": "betaler",
+   "fout": "begeerte via een leugen",
+   "wil": "geld",
+   "verbergt": "dat ze Sterrensteen steelt",
+   "geheim": "het vault-fokprogramma (DEG-vault-fokprogramma)",
+   "donors": [
+    "PER-gew-pell",
+    "PER-gew-gudrun",
+    "PER-selvine"
+   ],
+   "botsingen": [
+    [
+     0.335,
+     "PER-dhurn-borga",
+     "Borga Gildemoeder",
+     "dreiging"
+    ]
+   ],
+   "score": 0.439
+  },
+  {
+   "id": "K801-0033",
+   "volk": "myrrhen",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 49,
+   "gave": null,
+   "rol": "schuldmeesteres",
+   "positie": "betaler",
+   "fout": "beschermende leugen",
+   "wil": "de doden laten spreken",
+   "verbergt": "dat ze Sterrensteen steelt",
+   "geheim": "in het register al \"gegeven\" als Lijngraver",
+   "donors": [
+    "PER-myrrhen-lys",
+    "PER-gew-gudrun",
+    "PER-teo-Z32"
+   ],
+   "botsingen": [
+    [
+     0.31,
+     "PER-saelmor-wenna",
+     "Wenna Diepduikster",
+     "hefboom"
+    ]
+   ],
+   "score": 0.414
+  },
+  {
+   "id": "K801-0019",
+   "volk": "aelthir",
+   "regio": "rosse",
+   "geslacht": "v",
+   "leeftijd": 40,
+   "gave": null,
+   "rol": "schraper",
+   "positie": "beslisser",
+   "fout": "verraad uit gelijk",
+   "wil": "oorlog tegen Kharvos en vaste gaven-toegang",
+   "verbergt": "dat ze vervalst",
+   "geheim": "ze is een halfzus van Selvine",
+   "donors": [
+    "PER-brannoch",
+    "PER-sch-ysolde",
+    "PER-grauwen-vell"
+   ],
+   "botsingen": [
+    [
+     0.171,
+     "PER-karruk-yssa",
+     "Yssa Vuurwinnares",
+     "hefboom"
+    ],
+    [
+     0.157,
+     "PER-orrim-sha",
+     "Sha Kristalader",
+     "rivaal"
+    ]
+   ],
+   "score": 0.414
+  },
+  {
+   "id": "K801-1525",
+   "volk": "ves-lethi",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 45,
+   "gave": null,
+   "rol": "lekzoeker",
+   "positie": "beslisser",
+   "fout": "zelfbehoud (vlucht)",
+   "wil": "vader worden",
+   "verbergt": "wiens gezicht ze draagt",
+   "geheim": "ze kent de stem in de Wortel",
+   "donors": [
+    "PER-veslethi-ommo",
+    "PER-veslethi-nara",
+    "PER-ithrael"
+   ],
+   "botsingen": [
+    [
+     0.306,
+     "PER-sch-rhun-Z6",
+     "Rhun-ir de Stemvorst",
+     "dreiging"
+    ]
+   ],
+   "score": 0.41
+  },
+  {
+   "id": "K801-0921",
+   "volk": "karrûk",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 68,
+   "gave": null,
+   "rol": "kraaientolk",
+   "positie": "beslisser",
+   "fout": "overmoed",
+   "wil": "liefdesbrieven verkopen",
+   "verbergt": "dat ze Ankerwortel herkent",
+   "geheim": "ze heeft Zuster Ennia binnengelaten",
+   "donors": [
+    "PER-gew-marit-Z6-Z32",
+    "PER-gew-yfke",
+    "PER-imra"
+   ],
+   "botsingen": [
+    [
+     0.274,
+     "PER-saelmor-wenna",
+     "Wenna Diepduikster",
+     "dreiging"
+    ]
+   ],
+   "score": 0.378
+  },
+  {
+   "id": "K801-0626",
+   "volk": "kluwer",
+   "regio": "ambergaard",
+   "geslacht": "v",
+   "leeftijd": 28,
+   "gave": null,
+   "rol": "Vuurkamp-winnares",
+   "positie": "toeschouwer",
+   "fout": "trouw aan de doden",
+   "wil": "haar graver laten sterven",
+   "verbergt": "dat ze schulden heeft bij Varenne",
+   "geheim": "ze heeft Zuster Ennia binnengelaten",
+   "donors": [
+    "PER-gew-tess",
+    "PER-gew-kara",
+    "PER-imra"
+   ],
+   "botsingen": [
+    [
+     0.204,
+     "PER-saelmor-wenna",
+     "Wenna Diepduikster",
+     "hefboom"
+    ]
+   ],
+   "score": 0.308
+  },
+  {
+   "id": "K801-1576",
+   "volk": "sael-mor",
+   "regio": "ambergaard",
+   "geslacht": "m",
+   "leeftijd": 60,
+   "gave": "licht",
+   "rol": "Ontsluierde",
+   "positie": "betaler",
+   "fout": "eigenmachtigheid",
+   "wil": "macht en Qesh vrij",
+   "verbergt": "dat zijn lampen lekken verraden",
+   "geheim": "hij is een Vonklijn",
+   "donors": [
+    "PER-khaled-profiel",
+    "PER-gew-oswin",
+    "PER-morvane-profiel"
+   ],
+   "botsingen": [
+    [
+     0.404,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "rivaal"
+    ],
+    [
+     0.286,
+     "PER-gew-wessel",
+     "Wessel Stalknecht",
+     "rivaal"
+    ],
+    [
+     0.233,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "rivaal"
+    ]
+   ],
+   "hoofdlijn": "afgewaardeerd: zou de afloop van Teo van Hallowyn raken",
+   "score": 0.302
+  },
+  {
+   "id": "K801-0654",
+   "volk": "kluwer",
+   "regio": "groenmuil",
+   "geslacht": "v",
+   "leeftijd": 52,
+   "gave": null,
+   "rol": "koerierster",
+   "positie": "betaler",
+   "fout": "overmoed",
+   "wil": "vrij vliegen",
+   "verbergt": "dat ze schulden heeft bij Varenne",
+   "geheim": "ze vervoert de vruchtbare Ves-Lethi",
+   "donors": [
+    "PER-skerra-ka",
+    "PER-gew-kara",
+    "PER-saelmor-orla"
+   ],
+   "botsingen": [
+    [
+     0.173,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "rivaal"
+    ]
+   ],
+   "score": 0.277
+  },
+  {
+   "id": "K801-0861",
+   "volk": "ishvar",
+   "regio": "groenmuil",
+   "geslacht": "m",
+   "leeftijd": 38,
+   "gave": "vuur",
+   "rol": "Brandzoeker",
+   "positie": "toeschouwer",
+   "fout": "hebzucht (macht na een leven als knecht)",
+   "wil": "oorlog tegen Kharvos en vaste gaven-toegang",
+   "verbergt": "dat hij uit het Offer-tijdperk stamt",
+   "geheim": "hij verkoopt ook aan Varenne",
+   "donors": [
+    "PER-brannoch",
+    "PER-sch-tor",
+    "PER-sch-harl"
+   ],
+   "botsingen": [
+    [
+     0.171,
+     "PER-karruk-yssa",
+     "Yssa Vuurwinnares",
+     "hefboom"
+    ]
+   ],
+   "score": 0.275
+  }
+ ],
+ "leesronde": [
+  {
+   "id": "K801-1020",
+   "volk": "mens",
+   "regio": "rosse",
+   "geslacht": "v",
+   "leeftijd": 37,
+   "gave": null,
+   "rol": "jongensverstopster",
+   "positie": "ontdekker",
+   "fout": "koppigheid",
+   "wil": "Liora beschermen",
+   "verbergt": "dat Varenne gaven-mannen fokt",
+   "geheim": "ze kent een Oevrin-slikgang",
+   "donors": [
+    "PER-aeron-profiel",
+    "PER-selvine",
+    "PER-sef"
+   ],
+   "botsingen": [
+    [
+     0.919,
+     "PER-ishvar-tamar",
+     "Tamar Zonder-gloed",
+     "rivaal"
+    ],
+    [
+     0.343,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "rivaal"
+    ],
+    [
+     0.255,
+     "PER-gew-marit-Z6-Z32",
+     "Marit Schrijfster",
+     "hefboom"
+    ],
+    [
+     0.247,
+     "PER-orrim-sha",
+     "Sha Kristalader",
+     "rivaal"
+    ],
+    [
+     0.24,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "rivaal"
+    ],
+    [
+     0.228,
+     "PER-sch-kreel",
+     "Schuldmeesteres Kreel",
+     "hefboom"
+    ]
+   ],
+   "hoofdlijn": "raakt Teo van Hallowyn zonder de afloop te veranderen",
+   "score": 1.382
+  },
+  {
+   "id": "K801-1589",
+   "volk": "oevrin",
+   "regio": "ambergaard",
+   "geslacht": "m",
+   "leeftijd": 61,
+   "gave": null,
+   "rol": "poortwachter van de Amberpas",
+   "positie": "toeschouwer",
+   "fout": "begeerte via een leugen",
+   "wil": "vrij zijn",
+   "verbergt": "dat de Zegel sterft",
+   "geheim": "Kaldra verbergt hem",
+   "donors": [
+    "PER-bram",
+    "PER-ithrael",
+    "PER-sch-rhun-Z6"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-gew-wessel",
+     "Wessel Stalknecht",
+     "rivaal"
+    ],
+    [
+     0.404,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "rivaal"
+    ],
+    [
+     0.217,
+     "PER-liora-profiel-Z32",
+     "Liora van Hallowyn",
+     "dreiging"
+    ],
+    [
+     0.173,
+     "PER-skerra-ka",
+     "Ka Snelvleugel",
+     "rivaal"
+    ],
+    [
+     0.173,
+     "PER-gew-sander",
+     "Sander Melkos",
+     "rivaal"
+    ]
+   ],
+   "hoofdlijn": "raakt Teo van Hallowyn zonder de afloop te veranderen",
+   "score": 0.966
+  },
+  {
+   "id": "K801-1350",
+   "volk": "myrrhen",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 21,
+   "gave": null,
+   "rol": "wortelluisteraar",
+   "positie": "beslisser",
+   "fout": "medeplichtig zwijgen (liefde boven waarheid)",
+   "wil": "Liora beschermen",
+   "verbergt": "dat ze Leegtezieken verkoopt",
+   "geheim": "ze weet wie Ankerwortel levert",
+   "donors": [
+    "PER-aeron-profiel",
+    "PER-sch-mavra",
+    "PER-gew-yfke"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-gew-marit-Z6-Z32",
+     "Marit Schrijfster",
+     "hefboom"
+    ],
+    [
+     0.379,
+     "PER-sch-kreel",
+     "Schuldmeesteres Kreel",
+     "hefboom"
+    ],
+    [
+     0.35,
+     "PER-sef",
+     "Sef van Brakhaven",
+     "rivaal"
+    ],
+    [
+     0.35,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "rivaal"
+    ],
+    [
+     0.322,
+     "PER-ishvar-tamar",
+     "Tamar Zonder-gloed",
+     "rivaal"
+    ],
+    [
+     0.2,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "rivaal"
+    ]
+   ],
+   "score": 0.905
+  },
+  {
+   "id": "K801-1797",
+   "volk": "sael-mor",
+   "regio": "zoutkust",
+   "geslacht": "m",
+   "leeftijd": 19,
+   "gave": null,
+   "rol": "spion van Mirre",
+   "positie": "ontdekker",
+   "fout": "trots",
+   "wil": "de Zegel breken en heersen",
+   "verbergt": "dat Varenne gaven-mannen fokt",
+   "geheim": "Kaldra verbergt hem",
+   "donors": [
+    "PER-morvane-profiel",
+    "PER-selvine",
+    "PER-sch-rhun-Z6"
+   ],
+   "botsingen": [
+    [
+     0.618,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "dreiging"
+    ],
+    [
+     0.19,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "hefboom"
+    ]
+   ],
+   "hoofdlijn": "raakt Hoge Moeder Ithrael zonder de afloop te veranderen",
+   "score": 0.878
+  },
+  {
+   "id": "K801-1098",
+   "volk": "sael-mor",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 62,
+   "gave": null,
+   "rol": "melkos",
+   "positie": "profiteur",
+   "fout": "eerzucht",
+   "wil": "winst",
+   "verbergt": "een verborgen gaven-man in de bergen",
+   "geheim": "ze kan de Mirre-vloot laten zinken",
+   "donors": [
+    "PER-sch-harl",
+    "PER-brannoch",
+    "PER-saelmor-wenna"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-dhurn-borga",
+     "Borga Gildemoeder",
+     "rivaal"
+    ],
+    [
+     0.306,
+     "PER-sch-rhun-Z6",
+     "Rhun-ir de Stemvorst",
+     "dreiging"
+    ],
+    [
+     0.274,
+     "PER-tharn-bor",
+     "Bor de Poortreus",
+     "dreiging"
+    ]
+   ],
+   "score": 0.856
+  },
+  {
+   "id": "K801-1384",
+   "volk": "tharn",
+   "regio": "groenmuil",
+   "geslacht": "v",
+   "leeftijd": 48,
+   "gave": null,
+   "rol": "koerierster",
+   "positie": "betaler",
+   "fout": "verraad uit vaderliefde",
+   "wil": "haar graver laten sterven",
+   "verbergt": "hoeveel lekjongens ze naar de Vathren bracht",
+   "geheim": "ze kan de Mirre-vloot laten zinken",
+   "donors": [
+    "PER-gew-tess",
+    "PER-gew-hilde",
+    "PER-saelmor-wenna"
+   ],
+   "botsingen": [
+    [
+     0.487,
+     "PER-vathren-ruy",
+     "Ruy Hartstem",
+     "dreiging"
+    ],
+    [
+     0.292,
+     "PER-tharn-bor",
+     "Bor de Poortreus",
+     "dreiging"
+    ],
+    [
+     0.17,
+     "PER-myrrhen-lys",
+     "Lys Rotbed",
+     "dreiging"
+    ]
+   ],
+   "score": 0.841
+  },
+  {
+   "id": "K801-1568",
+   "volk": "mens",
+   "regio": "ambergaard",
+   "geslacht": "v",
+   "leeftijd": 31,
+   "gave": null,
+   "rol": "Ves-Lethi in mannelijke fase",
+   "positie": "liefde tussen posities",
+   "fout": "wraakzucht",
+   "wil": "de waarheid zonder bloedvergieten",
+   "verbergt": "dat ze vervalst",
+   "geheim": "zij weet wie Liora's moeder is",
+   "donors": [
+    "PER-imra",
+    "PER-sch-kreel",
+    "PER-gew-marit-Z6-Z32"
+   ],
+   "botsingen": [
+    [
+     0.5,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "dreiging"
+    ],
+    [
+     0.433,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "dreiging"
+    ],
+    [
+     0.3,
+     "PER-sef",
+     "Sef van Brakhaven",
+     "dreiging"
+    ],
+    [
+     0.26,
+     "PER-sch-vessa",
+     "Moeder Vessa",
+     "dreiging"
+    ],
+    [
+     0.26,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "dreiging"
+    ],
+    [
+     0.232,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Teo van Hallowyn zonder de afloop te veranderen",
+   "score": 1.008
+  },
+  {
+   "id": "K801-1406",
+   "volk": "mens",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 50,
+   "gave": null,
+   "rol": "naamgever",
+   "positie": "betaler",
+   "fout": "eigenmachtigheid",
+   "wil": "haar volk weg uit Kharvos",
+   "verbergt": "dat ze Sterrensteen steelt",
+   "geheim": "ze kan de Mirre-vloot laten zinken",
+   "donors": [
+    "PER-karruk-yssa",
+    "PER-gew-gudrun",
+    "PER-saelmor-wenna"
+   ],
+   "botsingen": [
+    [
+     0.586,
+     "PER-tharn-bor",
+     "Bor de Poortreus",
+     "dreiging"
+    ],
+    [
+     0.3,
+     "PER-dhurn-borga",
+     "Borga Gildemoeder",
+     "dreiging"
+    ],
+    [
+     0.221,
+     "PER-brannoch",
+     "Veldvrouwe Brannoch Kaldra",
+     "rivaal"
+    ],
+    [
+     0.18,
+     "PER-gew-tess",
+     "Tess Hoeder",
+     "dreiging"
+    ],
+    [
+     0.164,
+     "PER-selvine",
+     "Vrouwe Selvine Varenne",
+     "dreiging"
+    ]
+   ],
+   "score": 1.005
+  },
+  {
+   "id": "K801-0073",
+   "volk": "mens",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 54,
+   "gave": null,
+   "rol": "hoeder van Lijngravers",
+   "positie": "profiteur",
+   "fout": "neerbuigendheid",
+   "wil": "de Zegel breken en heersen",
+   "verbergt": "dat ze voor Varenne en de Orde werkt",
+   "geheim": "zij helpt Bram ontsnappen",
+   "donors": [
+    "PER-morvane-profiel",
+    "PER-skerra-ka",
+    "PER-gew-dagny"
+   ],
+   "botsingen": [
+    [
+     0.543,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "hefboom"
+    ],
+    [
+     0.306,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "dreiging"
+    ],
+    [
+     0.212,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "dreiging"
+    ],
+    [
+     0.206,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "dreiging"
+    ],
+    [
+     0.184,
+     "PER-ondessa",
+     "Kapitein-Vrouwe Ondessa Mirre",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Hoge Moeder Ithrael zonder de afloop te veranderen",
+   "score": 0.965
+  },
+  {
+   "id": "K801-0842",
+   "volk": "tharn",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 53,
+   "gave": null,
+   "rol": "Kluwer-darre",
+   "positie": "ontdekker",
+   "fout": "eerzucht",
+   "wil": "gaven-mannen en Velmara-vrouwen",
+   "verbergt": "dat Mirre zelf Zoutloodsen houdt",
+   "geheim": "haar splinters gaan naar de Annalisten",
+   "donors": [
+    "PER-drask",
+    "PER-ondessa",
+    "PER-gew-gudrun"
+   ],
+   "botsingen": [
+    [
+     0.629,
+     "PER-selvine",
+     "Vrouwe Selvine Varenne",
+     "hefboom"
+    ],
+    [
+     0.306,
+     "PER-gew-sander",
+     "Sander Melkos",
+     "dreiging"
+    ]
+   ],
+   "score": 0.947
+  },
+  {
+   "id": "K801-0456",
+   "volk": "myrrhen",
+   "regio": "ambergaard",
+   "geslacht": "v",
+   "leeftijd": 28,
+   "gave": null,
+   "rol": "mijnwerkster",
+   "positie": "ontdekker",
+   "fout": "lafheid of levenswil",
+   "wil": "één nacht vrij",
+   "verbergt": "dat de Aelthir het Offer hielpen",
+   "geheim": "ze kent de stem in de Wortel",
+   "donors": [
+    "PER-gew-sander",
+    "PER-aelthir-sorn",
+    "PER-ithrael"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "rivaal"
+    ],
+    [
+     0.35,
+     "PER-gew-wessel",
+     "Wessel Stalknecht",
+     "rivaal"
+    ],
+    [
+     0.286,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "rivaal"
+    ],
+    [
+     0.177,
+     "PER-liora-profiel-Z32",
+     "Liora van Hallowyn",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Teo van Hallowyn zonder de afloop te veranderen",
+   "score": 0.911
+  },
+  {
+   "id": "K801-1965",
+   "volk": "dhurn",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 65,
+   "gave": null,
+   "rol": "Hoge Moeder",
+   "positie": "liefde tussen posities",
+   "fout": "trots",
+   "wil": "Liora beschermen",
+   "verbergt": "dat ze Leegtezieken verkoopt",
+   "geheim": "half Ishvar",
+   "donors": [
+    "PER-aeron-profiel",
+    "PER-sch-mavra",
+    "PER-khaled-profiel"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-gew-marit-Z6-Z32",
+     "Marit Schrijfster",
+     "hefboom"
+    ],
+    [
+     0.379,
+     "PER-sch-kreel",
+     "Schuldmeesteres Kreel",
+     "hefboom"
+    ],
+    [
+     0.35,
+     "PER-sef",
+     "Sef van Brakhaven",
+     "rivaal"
+    ],
+    [
+     0.35,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "rivaal"
+    ],
+    [
+     0.322,
+     "PER-ishvar-tamar",
+     "Tamar Zonder-gloed",
+     "rivaal"
+    ],
+    [
+     0.2,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "rivaal"
+    ]
+   ],
+   "score": 0.905
+  },
+  {
+   "id": "K801-1789",
+   "volk": "oevrin",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 54,
+   "gave": null,
+   "rol": "jongensverstopster",
+   "positie": "beslisser",
+   "fout": "trouw aan de doden",
+   "wil": "het geheim bewaren",
+   "verbergt": "haar vervalste register",
+   "geheim": "ze verkoopt geruchten aan de Stille Hand",
+   "donors": [
+    "PER-aelthir-sorn",
+    "PER-liora-profiel-Z32",
+    "PER-gew-kara"
+   ],
+   "botsingen": [
+    [
+     0.62,
+     "PER-imra",
+     "Hoedster Imra",
+     "hefboom"
+    ],
+    [
+     0.21,
+     "PER-oevrin-glu",
+     "Glu Slikmond",
+     "rivaal"
+    ]
+   ],
+   "score": 0.89
+  },
+  {
+   "id": "K801-1543",
+   "volk": "skerra",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 34,
+   "gave": null,
+   "rol": "geoogste Orrim",
+   "positie": "vervalser",
+   "fout": "schaarste-denken",
+   "wil": "Liora beschermen",
+   "verbergt": "dat ze vervalst",
+   "geheim": "deels Ishvar-bloed?",
+   "donors": [
+    "PER-aeron-profiel",
+    "PER-sch-ysolde",
+    "PER-liora-profiel-Z32"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-gew-marit-Z6-Z32",
+     "Marit Schrijfster",
+     "hefboom"
+    ],
+    [
+     0.35,
+     "PER-sef",
+     "Sef van Brakhaven",
+     "rivaal"
+    ],
+    [
+     0.35,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "rivaal"
+    ],
+    [
+     0.322,
+     "PER-ishvar-tamar",
+     "Tamar Zonder-gloed",
+     "rivaal"
+    ],
+    [
+     0.2,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "rivaal"
+    ]
+   ],
+   "score": 0.868
+  },
+  {
+   "id": "K801-1555",
+   "volk": "vathren",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 68,
+   "gave": null,
+   "rol": "poortwachter van de Amberpas",
+   "positie": "betaler",
+   "fout": "noodzaak die ze geloof noemt",
+   "wil": "haar graver laten sterven",
+   "verbergt": "dat de Zegel sterft",
+   "geheim": "ze heeft Zuster Ennia binnengelaten",
+   "donors": [
+    "PER-gew-tess",
+    "PER-ithrael",
+    "PER-imra"
+   ],
+   "botsingen": [
+    [
+     0.584,
+     "PER-saelmor-wenna",
+     "Wenna Diepduikster",
+     "hefboom"
+    ],
+    [
+     0.233,
+     "PER-myrrhen-lys",
+     "Lys Rotbed",
+     "rivaal"
+    ]
+   ],
+   "score": 0.865
+  },
+  {
+   "id": "K801-1760",
+   "volk": "grauwen",
+   "regio": "ambergaard",
+   "geslacht": "m",
+   "leeftijd": 31,
+   "gave": null,
+   "rol": "kraaientolk",
+   "positie": "ontdekker",
+   "fout": "verraad uit gelijk",
+   "wil": "zijn stalbroeders vrij",
+   "verbergt": "zijn Ishvar-moeder",
+   "geheim": "hij was de broer van een Dochter",
+   "donors": [
+    "PER-gew-wessel",
+    "PER-khaled-profiel",
+    "PER-sch-tor"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "rivaal"
+    ],
+    [
+     0.286,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "rivaal"
+    ],
+    [
+     0.152,
+     "PER-gew-kara",
+     "Kara Bakster",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Teo van Hallowyn zonder de afloop te veranderen",
+   "score": 0.846
+  },
+  {
+   "id": "K801-1870",
+   "volk": "aelthir",
+   "regio": "kharvos",
+   "geslacht": "v",
+   "leeftijd": 67,
+   "gave": null,
+   "rol": "Kharvos-slavenhandelaar",
+   "positie": "toeschouwer",
+   "fout": "machtshonger (controle)",
+   "wil": "de Zegel redden met de Zegelbinding",
+   "verbergt": "dat ze Leegtezieken verkoopt",
+   "geheim": "ze wil Karrûk-mannen bevrijden van Kharvos",
+   "donors": [
+    "PER-ithrael",
+    "PER-sch-mavra",
+    "PER-karruk-yssa"
+   ],
+   "botsingen": [
+    [
+     0.335,
+     "PER-vathren-orl",
+     "Orl Brandzoeker",
+     "dreiging"
+    ],
+    [
+     0.335,
+     "PER-karruk-gath",
+     "Gath Kookbloed",
+     "dreiging"
+    ]
+   ],
+   "score": 0.667
+  },
+  {
+   "id": "K801-1492",
+   "volk": "tharn",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 37,
+   "gave": null,
+   "rol": "Ves-Lethi in mannelijke fase",
+   "positie": "vervalser",
+   "fout": "noodzaak die ze geloof noemt",
+   "wil": "haar man beschermen",
+   "verbergt": "dat de Aelthir het Offer hielpen",
+   "geheim": "het netwerk bewaart de echte annalen",
+   "donors": [
+    "PER-ishvar-tamar",
+    "PER-aelthir-sorn",
+    "PER-myrrhen-lys"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "rivaal"
+    ],
+    [
+     0.173,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "rivaal"
+    ],
+    [
+     0.162,
+     "PER-vaelorn-nu",
+     "Vaelorn Hoogaelthir (801)",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Aeron-as zonder de afloop te veranderen",
+   "score": 0.789
+  },
+  {
+   "id": "K801-0812",
+   "volk": "skerra",
+   "regio": "saelith",
+   "geslacht": "m",
+   "leeftijd": 32,
+   "gave": null,
+   "rol": "hoeder van Lijngravers",
+   "positie": "liefde tussen posities",
+   "fout": "wraakzucht",
+   "wil": "de gangen geheim",
+   "verbergt": "dat hij zelf zegelschaduw-ziek is",
+   "geheim": "in het register al \"gegeven\" als Lijngraver",
+   "donors": [
+    "PER-oevrin-glu",
+    "PER-drask",
+    "PER-teo-Z32"
+   ],
+   "botsingen": [
+    [
+     0.682,
+     "PER-imra",
+     "Hoedster Imra",
+     "hefboom"
+    ]
+   ],
+   "score": 0.786
+  },
+  {
+   "id": "K801-0488",
+   "volk": "dhurn",
+   "regio": "rosse",
+   "geslacht": "v",
+   "leeftijd": 48,
+   "gave": null,
+   "rol": "hoeder van Lijngravers",
+   "positie": "betaler",
+   "fout": "zelfbehoud (vlucht)",
+   "wil": "de paaipoel beschermen",
+   "verbergt": "dat ze half het geheim kent",
+   "geheim": "ze weet dat de lekken toenemen",
+   "donors": [
+    "PER-oevrin-vaa",
+    "PER-imra",
+    "PER-gew-hilde"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-ishvar-tamar",
+     "Tamar Zonder-gloed",
+     "rivaal"
+    ],
+    [
+     0.247,
+     "PER-orrim-sha",
+     "Sha Kristalader",
+     "rivaal"
+    ]
+   ],
+   "score": 0.783
+  },
+  {
+   "id": "K801-0609",
+   "volk": "vathren",
+   "regio": "zoutkust",
+   "geslacht": "m",
+   "leeftijd": 23,
+   "gave": null,
+   "rol": "hoofd van Varenne",
+   "positie": "profiteur",
+   "fout": "koppigheid",
+   "wil": "vrijheid en Liora",
+   "verbergt": "dat hij onderdanig is",
+   "geheim": "hij kent de onderwaterpoort van de tempel",
+   "donors": [
+    "PER-sef",
+    "PER-karruk-gath",
+    "PER-gew-pell"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-gew-marit-Z6-Z32",
+     "Marit Schrijfster",
+     "hefboom"
+    ],
+    [
+     0.379,
+     "PER-sch-kreel",
+     "Schuldmeesteres Kreel",
+     "hefboom"
+    ]
+   ],
+   "score": 0.778
+  },
+  {
+   "id": "K801-1456",
+   "volk": "mens",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 57,
+   "gave": null,
+   "rol": "aardster",
+   "positie": "vervalser",
+   "fout": "berekening (eerzucht)",
+   "wil": "de Zegel breken en heersen",
+   "verbergt": "dat ze voor Varenne en de Orde werkt",
+   "geheim": "hypocrisie over de Zoutloodsen",
+   "donors": [
+    "PER-morvane-profiel",
+    "PER-skerra-ka",
+    "PER-ondessa"
+   ],
+   "botsingen": [
+    [
+     0.543,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "hefboom"
+    ],
+    [
+     0.335,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "dreiging"
+    ],
+    [
+     0.216,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "dreiging"
+    ],
+    [
+     0.164,
+     "PER-selvine",
+     "Vrouwe Selvine Varenne",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Hoge Moeder Ithrael zonder de afloop te veranderen",
+   "score": 0.952
+  },
+  {
+   "id": "K801-0677",
+   "volk": "mens",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 36,
+   "gave": null,
+   "rol": "naamgever",
+   "positie": "toeschouwer",
+   "fout": "beschermende leugen",
+   "wil": "macht en Qesh vrij",
+   "verbergt": "dat Mirre zelf Zoutloodsen houdt",
+   "geheim": "deels Ishvar-bloed?",
+   "donors": [
+    "PER-khaled-profiel",
+    "PER-ondessa",
+    "PER-liora-profiel-Z32"
+   ],
+   "botsingen": [
+    [
+     0.621,
+     "PER-gew-sander",
+     "Sander Melkos",
+     "dreiging"
+    ],
+    [
+     0.242,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "rivaal"
+    ],
+    [
+     0.171,
+     "PER-gew-wessel",
+     "Wessel Stalknecht",
+     "rivaal"
+    ]
+   ],
+   "score": 0.95
+  },
+  {
+   "id": "K801-0821",
+   "volk": "ishvar",
+   "regio": "saelith",
+   "geslacht": "v",
+   "leeftijd": 64,
+   "gave": null,
+   "rol": "Kharvos-slavenhandelaar",
+   "positie": "liefde tussen posities",
+   "fout": "fanatisme (geloof als mes)",
+   "wil": "haar volk tegen de oogst beschermen",
+   "verbergt": "dat ze voor Ondessa spioneert",
+   "geheim": "Oevrin-voortplanting omzeilt de Zegel",
+   "donors": [
+    "PER-orrim-sha",
+    "PER-sef",
+    "PER-oevrin-vaa"
+   ],
+   "botsingen": [
+    [
+     0.335,
+     "PER-morvane-profiel",
+     "Morvane-ir",
+     "dreiging"
+    ],
+    [
+     0.3,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "dreiging"
+    ],
+    [
+     0.247,
+     "PER-aeron-profiel",
+     "Aeron-as",
+     "rivaal"
+    ],
+    [
+     0.21,
+     "PER-ishvar-tamar",
+     "Tamar Zonder-gloed",
+     "rivaal"
+    ],
+    [
+     0.204,
+     "PER-veslethi-nara",
+     "Nara Vele Gezichten",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Hoge Moeder Ithrael zonder de afloop te veranderen",
+   "score": 0.754
+  },
+  {
+   "id": "K801-1014",
+   "volk": "grauwen",
+   "regio": "ambergaard",
+   "geslacht": "v",
+   "leeftijd": 26,
+   "gave": null,
+   "rol": "smokkelaarster",
+   "positie": "toeschouwer",
+   "fout": "gemakzucht",
+   "wil": "de Zegel breken en heersen",
+   "verbergt": "dat haar lichaam Sterrensteen voor de Zegelbinding bevat",
+   "geheim": "ze bezit de schuldbrief van Liora's moederhuis",
+   "donors": [
+    "PER-morvane-profiel",
+    "PER-orrim-sha",
+    "PER-sch-kreel"
+   ],
+   "botsingen": [
+    [
+     0.356,
+     "PER-ithrael",
+     "Hoge Moeder Ithrael",
+     "dreiging"
+    ],
+    [
+     0.306,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "dreiging"
+    ],
+    [
+     0.265,
+     "PER-teo-Z32",
+     "Teo van Hallowyn",
+     "dreiging"
+    ],
+    [
+     0.184,
+     "PER-grauwen-vell",
+     "Vell Ontsluierde",
+     "dreiging"
+    ]
+   ],
+   "hoofdlijn": "raakt Hoge Moeder Ithrael zonder de afloop te veranderen",
+   "score": 0.75
+  },
+  {
+   "id": "K801-1265",
+   "volk": "mens",
+   "regio": "ambergaard",
+   "geslacht": "v",
+   "leeftijd": 22,
+   "gave": null,
+   "rol": "kraaientolk",
+   "positie": "beslisser",
+   "fout": "uitstel",
+   "wil": "één nacht vrij",
+   "verbergt": "dat ze Quirels exemplaar heeft",
+   "geheim": "in het register al \"gegeven\" als Lijngraver",
+   "donors": [
+    "PER-gew-sander",
+    "PER-myrrhen-lys",
+    "PER-teo-Z32"
+   ],
+   "botsingen": [
+    [
+     0.495,
+     "PER-bram",
+     "Bram-van-de-Hallowynstal",
+     "rivaal"
+    ],
+    [
+     0.35,
+     "PER-gew-wessel",
+     "Wessel Stalknecht",
+     "rivaal"
+    ],
+    [
+     0.18,
+     "PER-imra",
+     "Hoedster Imra",
+     "dreiging"
+    ],
+    [
+     0.171,
+     "PER-khaled-profiel",
+     "Khaled-Ir",
+     "rivaal"
+    ]
+   ],
+   "score": 0.911
+  },
+  {
+   "id": "K801-0461",
+   "volk": "grauwen",
+   "regio": "groenmuil",
+   "geslacht": "m",
+   "leeftijd": 43,
+   "gave": null,
+   "rol": "gewillige verliezer",
+   "positie": "betaler",
+   "fout": "bewondering voor de vijand",
+   "wil": "de doden laten spreken",
+   "verbergt": "zijn liefde voor een mens",
+   "geheim": "hij verraadt de Vathren-schuilplaats",
+   "donors": [
+    "PER-myrrhen-lys",
+    "PER-dhurn-tavik",
+    "PER-vathren-orl"
+   ],
+   "botsingen": [
+    [
+     0.375,
+     "PER-kluwer-zzi",
+     "Zzi Darrenvriend",
+     "dreiging"
+    ],
+    [
+     0.286,
+     "PER-vaelorn-nu",
+     "Vaelorn Hoogaelthir (801)",
+     "rivaal"
+    ],
+    [
+     0.233,
+     "PER-vathren-ruy",
+     "Ruy Hartstem",
+     "rivaal"
+    ]
+   ],
+   "score": 0.726
+  },
+  {
+   "id": "K801-0940",
+   "volk": "sael-mor",
+   "regio": "zoutkust",
+   "geslacht": "v",
+   "leeftijd": 23,
+   "gave": null,
+   "rol": "Kluwer-darre",
+   "positie": "toeschouwer",
+   "fout": "berekening (eerzucht)",
+   "wil": "Liora beschermen",
+   "verbergt": "hoeveel lekjongens ze naar de Vathren bracht",
+   "geheim": "ze kan de Mirre-vloot laten zinken",
+   "donors": [
+    "PER-aeron-profiel",
+    "PER-gew-hilde",
+    "PER-saelmor-wenna"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-gew-marit-Z6-Z32",
+     "Marit Schrijfster",
+     "hefboom"
+    ],
+    [
+     0.379,
+     "PER-sch-kreel",
+     "Schuldmeesteres Kreel",
+     "hefboom"
+    ],
+    [
+     0.35,
+     "PER-sef",
+     "Sef van Brakhaven",
+     "rivaal"
+    ],
+    [
+     0.35,
+     "PER-oevrin-vaa",
+     "Vaa Paaivrouw",
+     "rivaal"
+    ],
+    [
+     0.322,
+     "PER-ishvar-tamar",
+     "Tamar Zonder-gloed",
+     "rivaal"
+    ],
+    [
+     0.254,
+     "PER-myrrhen-lys",
+     "Lys Rotbed",
+     "dreiging"
+    ]
+   ],
+   "score": 0.905
+  },
+  {
+   "id": "K801-0983",
+   "volk": "orrim",
+   "regio": "hoogvrouwe",
+   "geslacht": "v",
+   "leeftijd": 43,
+   "gave": null,
+   "rol": "Zonvorst",
+   "positie": "beslisser",
+   "fout": "overmoed",
+   "wil": "gaven-mannen en Velmara-vrouwen",
+   "verbergt": "een verborgen gaven-man in de bergen",
+   "geheim": "ze kent de stem in de Wortel",
+   "donors": [
+    "PER-drask",
+    "PER-brannoch",
+    "PER-ithrael"
+   ],
+   "botsingen": [
+    [
+     0.612,
+     "PER-sch-rhun-Z6",
+     "Rhun-ir de Stemvorst",
+     "dreiging"
+    ]
+   ],
+   "score": 0.716
+  },
+  {
+   "id": "K801-1757",
+   "volk": "ves-lethi",
+   "regio": "groenmuil",
+   "geslacht": "v",
+   "leeftijd": 21,
+   "gave": null,
+   "rol": "hoofd van de Stille Hand",
+   "positie": "liefde tussen posities",
+   "fout": "uitstel",
+   "wil": "haar dochter een gunstbrief",
+   "verbergt": "hoeveel lekjongens ze naar de Vathren bracht",
+   "geheim": "haar splinters gaan naar de Annalisten",
+   "donors": [
+    "PER-gew-kara",
+    "PER-gew-hilde",
+    "PER-gew-gudrun"
+   ],
+   "botsingen": [
+    [
+     0.424,
+     "PER-sch-tor",
+     "Torvald Askoude",
+     "hefboom"
+    ],
+    [
+     0.254,
+     "PER-vathren-ruy",
+     "Ruy Hartstem",
+     "dreiging"
+    ]
+   ],
+   "score": 0.716
+  }
+ ],
+ "verdeling": {
+  "score_mediaan": 0.311,
+  "score_max": 1.382
+ }
+}

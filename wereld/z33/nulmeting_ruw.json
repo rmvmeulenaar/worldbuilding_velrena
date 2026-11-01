@@ -1,0 +1,184 @@
+{
+ "1_veranderproef": {
+  "anker": "thalen_sterfjaar -1198",
+  "toets_vindt_mee_te_wijzigen": 2,
+  "levende_rijen_Thalen_en_1198": 10,
+  "levende_rijen_met_1198": 10,
+  "rijen_die_via_verwijzing_volgen": 0,
+  "plekken_te_wijzigen": 11,
+  "voorbeeld": [
+   "YSA-Z17-9",
+   "TOESTAND-Z17-PER-v4-thalen-orr-3",
+   "BESLUIT-Z18-3",
+   "YSA-Z21-13",
+   "BESLUIT-Z32-12",
+   "BESLUIT-Z32-13",
+   "YSA-Z15-9",
+   "ROMAN-Z16-h33",
+   "PER-v4-thalen-orr-Z32",
+   "ROMAN-Z16-roman-Z32"
+  ]
+ },
+ "2_duplicatiegraad": {
+  "ankers_met_patroon": 14,
+  "kopieen_totaal": 38,
+  "gemiddeld_per_anker": 2.7,
+  "per_anker": {
+   "ysa_geboren": 1,
+   "ysa_sterfjaar": 4,
+   "ysa_leeftijd_dood": 2,
+   "thalen_geboren": 2,
+   "thalen_leeftijd_1240": 2,
+   "thalen_sterfjaar": 2,
+   "thalen_leeftijd_dood": 4,
+   "muiterij_jaar": 1,
+   "aan_boord": 3,
+   "muiterij_doden": 7,
+   "overlevenden": 2,
+   "noodstand": 2,
+   "roman_hoofdstukken": 3,
+   "roman_woorden": 3
+  },
+  "ankers_totaal": 26
+ },
+ "3_dode_links": {
+  "dode_links": 0,
+  "van_levende_canon": 0
+ },
+ "4_herkomst": {
+  "Kern": {
+   "totaal": 93,
+   "met_bron": 0,
+   "pct": 0.0,
+   "proxy_reden_noemt_besluit_of_Rogier": 86,
+   "proxy_pct": 92.5
+  },
+  "Structuur": {
+   "totaal": 4824,
+   "met_bron": 0,
+   "pct": 0.0,
+   "proxy_reden_noemt_besluit_of_Rogier": 1670,
+   "proxy_pct": 34.6
+  },
+  "kolom_bron_bestaat": false
+ },
+ "5_tests": {
+  "exit": 0,
+  "nieuw_falend": 0,
+  "bekend": 2,
+  "bekend_zonder_open_wrijving": 2,
+  "aantal_controles": 10,
+  "regeltabel": false
+ },
+ "6_roundtrip": {
+  "exit": 0,
+  "tabellen": 13,
+  "verschillen": 0,
+  "kolommen_kwijt": 0
+ },
+ "7_terugdraaien": {
+  "Z31->Z32 (backup_Z32 + r_Z32.py)": {
+   "exit": 0,
+   "verschillen": {
+    "canon": 0,
+    "wrijving": 0,
+    "open_vraag": 0,
+    "anker": 0,
+    "naam_markering": 0
+   },
+   "werkt": true
+  }
+ },
+ "geuren": {
+  "puntkomma_lijsten_in_verwijst_naar": 6185,
+  "status_met_twee_betekenissen": 479,
+  "historie_in_feit": 571,
+  "veiligheidsvarianten": 11,
+  "triggers": 0,
+  "foreign_keys": 0,
+  "ronde_aantallen_buiten_ideeenbank": {
+   "Magie": 30,
+   "Ritueel systeem": 60,
+   "Planten en dieren": 60
+  },
+  "open_wrijvingen": 23
+ },
+ "8_koude_lezer": {
+  "score": "7/10",
+  "goed": 7,
+  "detail": [
+   {
+    "vraag": "In welk jaar sterft Thalen Orr?",
+    "gekozen": "kern:BESLUIT-Z16-8",
+    "goed": false
+   },
+   {
+    "vraag": "In welk jaar sterft Ysa Maren?",
+    "gekozen": "kern:TOESTAND-Z16-PER-v4-ysa-maren-3",
+    "goed": true
+   },
+   {
+    "vraag": "Hoeveel Makers overleven de Muiterij?",
+    "gekozen": "kern:BESLUIT-Z32-1",
+    "goed": true
+   },
+   {
+    "vraag": "Hoeveel mensen waren aan boord van het zaaischip?",
+    "gekozen": "kern:TOESTAND-Z17-PER-v4-thalen-orr-1",
+    "goed": false
+   },
+   {
+    "vraag": "Hoeveel vrouwen per man laat het Zegel over (noodstand)?",
+    "gekozen": "kern:REGEL-verhouding-Z12",
+    "goed": true
+   },
+   {
+    "vraag": "Wie activeert het Zegel in jaar 0?",
+    "gekozen": "kern:BESLUIT-Z12-1",
+    "goed": false
+   },
+   {
+    "vraag": "Wat is de minimumleeftijd voor iedere seksuele rol?",
+    "gekozen": "handl:HANDL-Z31-2",
+    "goed": true
+   },
+   {
+    "vraag": "Hoeveel hoofdstukken heeft de roman over Ysa?",
+    "gekozen": "kern:BESLUIT-Z16-3",
+    "goed": true
+   },
+   {
+    "vraag": "In welk jaar speelt het verhaal van Liora?",
+    "gekozen": "kern:BESLUIT-Z11-tijdlijn",
+    "goed": true
+   },
+   {
+    "vraag": "Geldt de harde grens ook als veilig_18plus = 0?",
+    "gekozen": "handl:HANDL-Z31-2",
+    "goed": true
+   }
+  ]
+ },
+ "2b_letterlijke_kopieen": {
+  "totaal": 720,
+  "per_anker": {
+   "liora_jaar": 477,
+   "muiterij_jaar": 96,
+   "noodstand": 34,
+   "zegel_activatie": 27,
+   "roman_hoofdstukken": 21,
+   "thalen_leeftijd_1240": 18,
+   "thalen_sterfjaar": 8,
+   "ysa_sterfjaar": 7,
+   "ysa_leeftijd_dood": 7,
+   "thalen_leeftijd_dood": 6,
+   "aan_boord": 6,
+   "muiterij_doden": 6,
+   "overlevenden": 3,
+   "ysa_geboren": 2,
+   "thalen_geboren": 1,
+   "roman_woorden": 1
+  }
+ },
+ "_noot": "1-7 gemeten op canon.db na Z32 (voor r_Z33); 8 en 2b op canon_backup_Z33.db (zelfde stand)"
+}

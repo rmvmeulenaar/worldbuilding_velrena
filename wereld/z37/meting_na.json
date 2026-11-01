@@ -1,0 +1,1325 @@
+{
+ "levend": 4669,
+ "families": 123,
+ "rijen_in_familie": 2793,
+ "aandeel_in_familie": 0.5982,
+ "canon_niet_ideeenbank": 2766,
+ "canon_in_familie": 1043,
+ "aandeel_canon_in_familie": 0.3771,
+ "per_categorie": {
+  "Actie": {
+   "n": 50,
+   "in_familie": 49,
+   "aandeel": 0.98,
+   "top_opening5": [
+    "Locatie: de leien daken en",
+    1
+   ],
+   "lengte_mediaan": 56.0,
+   "lengte_cv": 0.16
+  },
+  "Afstamming": {
+   "n": 2,
+   "in_familie": 1,
+   "aandeel": 0.5,
+   "top_opening5": [
+    "Elk kind wordt bij de",
+    1
+   ],
+   "lengte_mediaan": 39.5,
+   "lengte_cv": 0.37
+  },
+  "Beroep": {
+   "n": 11,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "In het registerhuis van Saelith",
+    1
+   ],
+   "lengte_mediaan": 73,
+   "lengte_cv": 0.1
+  },
+  "Besluit": {
+   "n": 281,
+   "in_familie": 160,
+   "aandeel": 0.569,
+   "top_opening5": [
+    "Gekozen door Rogier (\"alles zoals",
+    40
+   ],
+   "lengte_mediaan": 62,
+   "lengte_cv": 0.64
+  },
+  "Bestuur": {
+   "n": 74,
+   "in_familie": 25,
+   "aandeel": 0.338,
+   "top_opening5": [
+    "De Hoge Moeder (nu Ithrael)",
+    1
+   ],
+   "lengte_mediaan": 24.0,
+   "lengte_cv": 0.64
+  },
+  "Comedy": {
+   "n": 60,
+   "in_familie": 60,
+   "aandeel": 1.0,
+   "top_opening5": [
+    "Situatie: een registerfout maakt van",
+    1
+   ],
+   "lengte_mediaan": 32.5,
+   "lengte_cv": 0.37
+  },
+  "Cultuur": {
+   "n": 183,
+   "in_familie": 35,
+   "aandeel": 0.191,
+   "top_opening5": [
+    "Geen huwelijk met mannen. Vrouwen",
+    1
+   ],
+   "lengte_mediaan": 23,
+   "lengte_cv": 0.56
+  },
+  "Dagelijks leven": {
+   "n": 134,
+   "in_familie": 23,
+   "aandeel": 0.172,
+   "top_opening5": [
+    "Heersers en hoven: dag in",
+    1
+   ],
+   "lengte_mediaan": 33.5,
+   "lengte_cv": 0.62
+  },
+  "Demografie": {
+   "n": 3,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Een man heeft gemiddeld 300",
+    1
+   ],
+   "lengte_mediaan": 41,
+   "lengte_cv": 0.8
+  },
+  "Dieren": {
+   "n": 1,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Uit de veestapel van het",
+    1
+   ],
+   "lengte_mediaan": 54,
+   "lengte_cv": 0.0
+  },
+  "Economie": {
+   "n": 49,
+   "in_familie": 13,
+   "aandeel": 0.265,
+   "top_opening5": [
+    "Munten: de zilveren ‘Druppel’ (dagloon",
+    1
+   ],
+   "lengte_mediaan": 36,
+   "lengte_cv": 0.61
+  },
+  "Esthetiek": {
+   "n": 67,
+   "in_familie": 64,
+   "aandeel": 0.955,
+   "top_opening5": [
+    "Kleur: wit, goud, karmozijn. Materiaal:",
+    1
+   ],
+   "lengte_mediaan": 33,
+   "lengte_cv": 0.54
+  },
+  "Extreme rituelen": {
+   "n": 43,
+   "in_familie": 33,
+   "aandeel": 0.767,
+   "top_opening5": [
+    "Wie: Een vrouw en een",
+    3
+   ],
+   "lengte_mediaan": 57,
+   "lengte_cv": 0.35
+  },
+  "Fase": {
+   "n": 1,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Een noodstand die in de",
+    1
+   ],
+   "lengte_mediaan": 36,
+   "lengte_cv": 0.0
+  },
+  "Geheimen": {
+   "n": 1,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Het volk: gelooft de officiële",
+    1
+   ],
+   "lengte_mediaan": 52,
+   "lengte_cv": 0.0
+  },
+  "Genre": {
+   "n": 8,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Erotische fantasy voor volwassenen, met",
+    1
+   ],
+   "lengte_mediaan": 119.5,
+   "lengte_cv": 0.54
+  },
+  "Geschiedenis": {
+   "n": 320,
+   "in_familie": 194,
+   "aandeel": 0.606,
+   "top_opening5": [
+    "Verhouding tot Zegel en Orde.",
+    14
+   ],
+   "lengte_mediaan": 36.5,
+   "lengte_cv": 0.66
+  },
+  "Gezondheid": {
+   "n": 43,
+   "in_familie": 21,
+   "aandeel": 0.488,
+   "top_opening5": [
+    "Elke vrouw krijgt gemiddeld 4",
+    1
+   ],
+   "lengte_mediaan": 29,
+   "lengte_cv": 0.21
+  },
+  "Haak": {
+   "n": 4,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "De scherf die \"Toestemming gevonden.",
+    1
+   ],
+   "lengte_mediaan": 41.0,
+   "lengte_cv": 0.1
+  },
+  "Held": {
+   "n": 50,
+   "in_familie": 50,
+   "aandeel": 1.0,
+   "top_opening5": [
+    "Daad: ze legde het Zegel",
+    1
+   ],
+   "lengte_mediaan": 24.0,
+   "lengte_cv": 0.55
+  },
+  "Horror": {
+   "n": 100,
+   "in_familie": 99,
+   "aandeel": 0.99,
+   "top_opening5": [
+    "Dreiging: de Wortel ademt en",
+    1
+   ],
+   "lengte_mediaan": 44.0,
+   "lengte_cv": 0.27
+  },
+  "Kinks en situaties": {
+   "n": 341,
+   "in_familie": 281,
+   "aandeel": 0.824,
+   "top_opening5": [
+    "Functie in de wereld (status):",
+    15
+   ],
+   "lengte_mediaan": 37,
+   "lengte_cv": 0.38
+  },
+  "Land": {
+   "n": 95,
+   "in_familie": 64,
+   "aandeel": 0.674,
+   "top_opening5": [
+    "Een continent rond de binnenzee",
+    1
+   ],
+   "lengte_mediaan": 40,
+   "lengte_cv": 0.5
+  },
+  "Lichaam en vervorming": {
+   "n": 231,
+   "in_familie": 159,
+   "aandeel": 0.688,
+   "top_opening5": [
+    "Vrouwen die jarenlang vaak gaven-zaad",
+    1
+   ],
+   "lengte_mediaan": 68,
+   "lengte_cv": 0.45
+  },
+  "Maatschappij": {
+   "n": 5,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Losbandigheid wordt beloond; verlangen en",
+    1
+   ],
+   "lengte_mediaan": 61,
+   "lengte_cv": 0.59
+  },
+  "Macht": {
+   "n": 12,
+   "in_familie": 2,
+   "aandeel": 0.167,
+   "top_opening5": [
+    "Gaven-mannen hebben magische kracht en",
+    1
+   ],
+   "lengte_mediaan": 65.0,
+   "lengte_cv": 0.33
+  },
+  "Magie": {
+   "n": 36,
+   "in_familie": 6,
+   "aandeel": 0.167,
+   "top_opening5": [
+    "Het zaad van mannen geeft",
+    1
+   ],
+   "lengte_mediaan": 62.5,
+   "lengte_cv": 0.55
+  },
+  "Mode en kleding": {
+   "n": 9,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Lichte, gelaagde gewaden die met",
+    1
+   ],
+   "lengte_mediaan": 42,
+   "lengte_cv": 0.23
+  },
+  "Navigatie": {
+   "n": 1,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Een navigator die te lang",
+    1
+   ],
+   "lengte_mediaan": 115,
+   "lengte_cv": 0.0
+  },
+  "Oorlog": {
+   "n": 50,
+   "in_familie": 42,
+   "aandeel": 0.84,
+   "top_opening5": [
+    "Oorzaak: Hesta's verraad en Ysa",
+    1
+   ],
+   "lengte_mediaan": 70.0,
+   "lengte_cv": 0.2
+  },
+  "Oorsprong": {
+   "n": 9,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "De godin Ysa zond de",
+    1
+   ],
+   "lengte_mediaan": 82,
+   "lengte_cv": 0.53
+  },
+  "Personage": {
+   "n": 281,
+   "in_familie": 237,
+   "aandeel": 0.843,
+   "top_opening5": [
+    "Hoofdpersoon voor verhalen vanuit de",
+    11
+   ],
+   "lengte_mediaan": 42,
+   "lengte_cv": 0.59
+  },
+  "Personen": {
+   "n": 2,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Vrije huurman van 41, 17",
+    1
+   ],
+   "lengte_mediaan": 50.5,
+   "lengte_cv": 0.41
+  },
+  "Planten en dieren": {
+   "n": 60,
+   "in_familie": 4,
+   "aandeel": 0.067,
+   "top_opening5": [
+    "Witte waterlelie op de zeven",
+    1
+   ],
+   "lengte_mediaan": 19.0,
+   "lengte_cv": 0.87
+  },
+  "Rebellen": {
+   "n": 9,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Doel: het register vernietigen. Methode:",
+    1
+   ],
+   "lengte_mediaan": 36,
+   "lengte_cv": 0.1
+  },
+  "Regio": {
+   "n": 29,
+   "in_familie": 21,
+   "aandeel": 0.724,
+   "top_opening5": [
+    "Passende genres en rijen: actie:",
+    8
+   ],
+   "lengte_mediaan": 78,
+   "lengte_cv": 0.2
+  },
+  "Religie": {
+   "n": 151,
+   "in_familie": 31,
+   "aandeel": 0.205,
+   "top_opening5": [
+    "Het geloof is gericht op",
+    1
+   ],
+   "lengte_mediaan": 31,
+   "lengte_cv": 0.52
+  },
+  "Rite": {
+   "n": 1,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Samen vliegen is een voorgestelde",
+    1
+   ],
+   "lengte_mediaan": 87,
+   "lengte_cv": 0.0
+  },
+  "Riten": {
+   "n": 4,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Bij haar 18e jaar wordt",
+    1
+   ],
+   "lengte_mediaan": 39.0,
+   "lengte_cv": 0.24
+  },
+  "Ritueel systeem": {
+   "n": 60,
+   "in_familie": 56,
+   "aandeel": 0.933,
+   "top_opening5": [
+    "Metadoel: zegel, geheim. Heersers halen",
+    2
+   ],
+   "lengte_mediaan": 44.5,
+   "lengte_cv": 0.38
+  },
+  "Rituele handelingen": {
+   "n": 38,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Ontvangsters wassen en zalven haar",
+    1
+   ],
+   "lengte_mediaan": 48.0,
+   "lengte_cv": 0.46
+  },
+  "Rituelen": {
+   "n": 45,
+   "in_familie": 37,
+   "aandeel": 0.822,
+   "top_opening5": [
+    "Wie: Vrouw (18+) met gunstbrief,",
+    1
+   ],
+   "lengte_mediaan": 51,
+   "lengte_cv": 0.34
+  },
+  "Romantiek": {
+   "n": 50,
+   "in_familie": 49,
+   "aandeel": 0.98,
+   "top_opening5": [
+    "een ijsvrouw en een gloeiende",
+    1
+   ],
+   "lengte_mediaan": 31.0,
+   "lengte_cv": 0.18
+  },
+  "Sfeer en uiterlijk": {
+   "n": 7,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Tempels zijn open zuilenhallen met",
+    1
+   ],
+   "lengte_mediaan": 32,
+   "lengte_cv": 0.14
+  },
+  "Techniek": {
+   "n": 128,
+   "in_familie": 68,
+   "aandeel": 0.531,
+   "top_opening5": [
+    "Schuurheren tellen bloedlijnen van vee",
+    1
+   ],
+   "lengte_mediaan": 17.0,
+   "lengte_cv": 1.06
+  },
+  "Tijdlijn": {
+   "n": 8,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Jaar -480: het schip valt",
+    1
+   ],
+   "lengte_mediaan": 37.0,
+   "lengte_cv": 0.49
+  },
+  "Tijdperk": {
+   "n": 41,
+   "in_familie": 7,
+   "aandeel": 0.171,
+   "top_opening5": [
+    "Geur: wierook. Geluid: zang. Licht:",
+    2
+   ],
+   "lengte_mediaan": 25,
+   "lengte_cv": 1.03
+  },
+  "Verhaal": {
+   "n": 788,
+   "in_familie": 429,
+   "aandeel": 0.544,
+   "top_opening5": [
+    "Intrige, fase 1 Overvloed. Betrokken:",
+    9
+   ],
+   "lengte_mediaan": 34.0,
+   "lengte_cv": 1.0
+  },
+  "Volken": {
+   "n": 32,
+   "in_familie": 14,
+   "aandeel": 0.438,
+   "top_opening5": [
+    "Passende genres en rijen: actie:",
+    8
+   ],
+   "lengte_mediaan": 67.5,
+   "lengte_cv": 0.83
+  },
+  "Volken seksualiteit": {
+   "n": 193,
+   "in_familie": 171,
+   "aandeel": 0.886,
+   "top_opening5": [
+    "Extreme kern (voor dit volk",
+    14
+   ],
+   "lengte_mediaan": 40,
+   "lengte_cv": 0.46
+  },
+  "Volken uiterlijk": {
+   "n": 14,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Lichaamsbouw: Lang (2 m) en",
+    1
+   ],
+   "lengte_mediaan": 144.0,
+   "lengte_cv": 0.09
+  },
+  "Voorkeuren": {
+   "n": 112,
+   "in_familie": 86,
+   "aandeel": 0.768,
+   "top_opening5": [
+    "Wat hongerig maakt: de ander",
+    3
+   ],
+   "lengte_mediaan": 25.0,
+   "lengte_cv": 0.65
+  },
+  "Voorwerp": {
+   "n": 148,
+   "in_familie": 116,
+   "aandeel": 0.784,
+   "top_opening5": [
+    "Voorwerp van klasse mid (dagelijks).",
+    2
+   ],
+   "lengte_mediaan": 28.0,
+   "lengte_cv": 0.31
+  },
+  "Werkwijze": {
+   "n": 2,
+   "in_familie": 0,
+   "aandeel": 0.0,
+   "top_opening5": [
+    "Onder het kopje wrijving in",
+    1
+   ],
+   "lengte_mediaan": 92.0,
+   "lengte_cv": 0.05
+  },
+  "Wetten": {
+   "n": 64,
+   "in_familie": 15,
+   "aandeel": 0.234,
+   "top_opening5": [
+    "Verboden: verwantschapsseks (verbanning of dood),",
+    1
+   ],
+   "lengte_mediaan": 28.5,
+   "lengte_cv": 0.56
+  },
+  "Zintuigen": {
+   "n": 128,
+   "in_familie": 71,
+   "aandeel": 0.555,
+   "top_opening5": [
+    "Geur: pekel, teer en de",
+    1
+   ],
+   "lengte_mediaan": 34.0,
+   "lengte_cv": 0.67
+  }
+ },
+ "categorieen_boven_drempel": [
+  "Actie",
+  "Besluit",
+  "Comedy",
+  "Esthetiek",
+  "Extreme rituelen",
+  "Geschiedenis",
+  "Gezondheid",
+  "Held",
+  "Horror",
+  "Kinks en situaties",
+  "Land",
+  "Lichaam en vervorming",
+  "Oorlog",
+  "Personage",
+  "Regio",
+  "Ritueel systeem",
+  "Rituelen",
+  "Romantiek",
+  "Techniek",
+  "Verhaal",
+  "Volken",
+  "Volken seksualiteit",
+  "Voorkeuren",
+  "Voorwerp",
+  "Zintuigen"
+ ],
+ "top20": [
+  [
+   "L:Geur|Geluid|Gevoel|Licht|Vreemd|Haak",
+   204,
+   [
+    "ZINT-Z5-verhaal-1",
+    "ZINT-Z5-verhaal-2",
+    "ZINT-Z5-verhaal-3"
+   ],
+   [
+    [
+     "Geschiedenis",
+     40
+    ],
+    [
+     "Verhaal",
+     29
+    ],
+    [
+     "Cultuur",
+     25
+    ]
+   ],
+   "Verdieping van QST-queeste (Queeste). Geur: natte wegen en paardenzweet. Geluid: karrenwielen en kraaien. Gevoel: blaren in nieuwe laarzen. Licht: lage herfstzo"
+  ],
+  [
+   "O:Functie in de wereld",
+   126,
+   [
+    "KINKFUNC-Z10-1",
+    "KINKFUNC-Z10-2",
+    "KINKFUNC-Z10-3"
+   ],
+   [
+    [
+     "Kinks en situaties",
+     126
+    ]
+   ],
+   "Functie in de wereld (religie, wet): De Volle Hand is bij de Myrrhen een eed: wie haar ondergaat zweert trouw aan de priesteres; meineed na de Volle Hand is een"
+  ],
+  [
+   "O:Uit de roman (h#),",
+   111,
+   [
+    "YSA-Z28-1",
+    "YSA-Z28-2",
+    "YSA-Z28-3"
+   ],
+   [
+    [
+     "Verhaal",
+     111
+    ]
+   ],
+   "Uit de roman (h01), vastgelegd 2026-10-31: Eerste zin: \"Six days before landing, Ysa Maren decided to kill four thousand people.\" Het model: \"A third now ... or"
+  ],
+  [
+   "L:Functie|Maker|Prijs|Risico|Verhaalhaak|Zintuig",
+   85,
+   [
+    "TECH-ITEM-V4-gave-1",
+    "TECH-ITEM-V4-gave-2",
+    "TECH-ITEM-V4-gave-3"
+   ],
+   [
+    [
+     "Voorwerp",
+     56
+    ],
+    [
+     "Techniek",
+     29
+    ]
+   ],
+   "Voorwerp (gave, dagelijks). Functie: hemd dat een winter lang lading van een gaven-man vasthoudt. Maker: laadsters van Saelith. Prijs: drie gunstbrieven. Risico"
+  ],
+  [
+   "L:Oorzaak|Gevolg",
+   75,
+   [
+    "GESCH-aelthir-1",
+    "GESCH-aelthir-2",
+    "GESCH-aelthir-3"
+   ],
+   [
+    [
+     "Geschiedenis",
+     75
+    ]
+   ],
+   "Oorsprong. De Aelthir leven al eeuwen in de hoge wouden boven Hoogvrouwe als traag ceremonieel volk; de Sterrensteen valt in hun jeugd. Oorzaak: De val van de S"
+  ],
+  [
+   "L:Zintuig|Prijs|Haak",
+   74,
+   [
+    "SAW-Z10-16",
+    "SAW-Z10-17",
+    "SAW-Z10-18"
+   ],
+   [
+    [
+     "Romantiek",
+     49
+    ],
+    [
+     "Horror",
+     25
+    ]
+   ],
+   "in elk spel is de echte vraag niet overleven maar wat je nog bent erna. Zintuig: koud metaal, eigen adem, tikkende steen. Prijs: lichaam of loyaliteit. Haak: wi"
+  ],
+  [
+   "L:Betrokken|Motief|Wending|Gevolg",
+   59,
+   [
+    "INTR-V2-graanhuwelijk",
+    "INTR-V2-dijkgeld",
+    "INTR-V2-zoutgif"
+   ],
+   [
+    [
+     "Verhaal",
+     59
+    ]
+   ],
+   "Intrige, fase 1 Overvloed. Betrokken: twee schuurheren en de bruid Tessel. Motief: land. Wending: Tessel trouwt beiden in het geheim. Gevolg: de Schuurherenvete"
+  ],
+  [
+   "L:Dreiging|Opbouw|Afstoting|Wat de personages verliezen|Haak|Zo schrijf je het|Techniek",
+   59,
+   [
+    "HORROR-Z9-1",
+    "HORROR-Z9-2",
+    "HORROR-Z9-3"
+   ],
+   [
+    [
+     "Horror",
+     59
+    ]
+   ],
+   "Dreiging: de Wortel ademt en roept. Opbouw: eerst warmte in de grond, dan een hartslag, dan een stem die je naam kent. Zintuig dat de gruwel draagt: warm vlees "
+  ],
+  [
+   "L:Zintuig|Haak|Functie|Crosslinks",
+   54,
+   [
+    "MACHT-gaven-mannen",
+    "ORDE-doel-geloof",
+    "ORDE-rol-orde"
+   ],
+   [
+    [
+     "Besluit",
+     32
+    ],
+    [
+     "Geschiedenis",
+     15
+    ],
+    [
+     "Religie",
+     3
+    ]
+   ],
+   "Ze zijn de kern van het geloof. Hun zaad is het kostbaarste. Sommigen zijn vriendelijk, anderen duister. Zij kiezen; hun gunst is de grootste munt. Zintuig: De "
+  ],
+  [
+   "L:Wat in Velmara|Wie (volwassen)|Afspraak/stopwoord|Zintuig|Risico en prijs|Haak|Techniek",
+   54,
+   [
+    "KINK-Z8-1",
+    "KINK-Z8-2",
+    "KINK-Z8-3"
+   ],
+   [
+    [
+     "Kinks en situaties",
+     54
+    ]
+   ],
+   "Wat in Velmara: de hand als volledige overgave; bij de Myrrhen een vertrouwensrite. Wie (volwassen): Myrrhen, Saelith-vormhuizen. Afspraak/stopwoord: schimmelol"
+  ],
+  [
+   "L:Locatie|Wie (volwassen)|Wapen/gave|Zintuig|Wending|Wat het kost|Haak|Techniek",
+   49,
+   [
+    "ACTIE-Z9-1",
+    "ACTIE-Z9-2",
+    "ACTIE-Z9-3"
+   ],
+   [
+    [
+     "Actie",
+     49
+    ]
+   ],
+   "Locatie: de leien daken en gondelwerf van Saelith. Wie (volwassen): Liora tegen twee Orde-jaagsters. Wapen/gave: een gestolen bindsplinter en blote handen. Zint"
+  ],
+  [
+   "L:Situatie|Type|Haak|Zintuig",
+   47,
+   [
+    "COMEDY-Z10-2",
+    "COMEDY-Z10-6",
+    "COMEDY-Z10-10"
+   ],
+   [
+    [
+     "Comedy",
+     47
+    ]
+   ],
+   "Situatie: de Orde vereist een aanvraag om een aanvraag in te dienen. Type: satire. Haak: rebellen gebruiken de formulierlus als vertraging. Zintuig: gelach, gek"
+  ],
+  [
+   "L:Metadoel|Heersers halen eruit|Volk haalt eruit/gelooft|Overschreden taboe|Moment|Band|Als het wegvalt",
+   45,
+   [
+    "SYS-ontvangst",
+    "SYS-strijdontvangst",
+    "SYS-veiling"
+   ],
+   [
+    [
+     "Ritueel systeem",
+     45
+    ]
+   ],
+   "Metadoel: macht, geloofsintegratie, selectie, zegel. Heersers halen eruit: status, voyeurisme via getuigen, loyale huizen. Volk haalt eruit/gelooft: zegen en kr"
+  ],
+  [
+   "L:Aandeel|Voorkeuren|Officieel en feitelijk",
+   42,
+   [
+    "SEKS-VOLK-kluwer-korfzusters",
+    "SEKS-VOLK-kluwer-enkelingen",
+    "SEKS-VOLK-kluwer-darrenhoeders"
+   ],
+   [
+    [
+     "Volken seksualiteit",
+     42
+    ]
+   ],
+   "Genot alleen in de korfgeur, gedeeld, pan; geen ik. Aandeel: ±80%. Voorkeuren: VOOR-korf:5, VOOR-groep:4. Officieel en feitelijk: zie kern; afwijken kost status"
+  ],
+  [
+   "O:Romance (met belemmering), fase",
+   41,
+   [
+    "ROM-fase1-nerys-calden",
+    "ROM-fase1-wobke-garrit",
+    "ROM-fase1-lenne-merel"
+   ],
+   [
+    [
+     "Verhaal",
+     41
+    ]
+   ],
+   "Romance (met belemmering), fase 1 Overvloed. Een gevluchte zoutwerkster en een gekochte haremwachter. Belemmering: een wachter die een koningsvrouw aanraakt ver"
+  ],
+  [
+   "L:Geur|Geluid|Aanraking|Herkenbaar|Vreemd|Scène|Haak",
+   40,
+   [
+    "ZINT-Z2-bestuur-1",
+    "ZINT-Z2-bestuur-4",
+    "ZINT-Z2-bestuur-6"
+   ],
+   [
+    [
+     "Wetten",
+     7
+    ],
+    [
+     "Zintuigen",
+     7
+    ],
+    [
+     "Bestuur",
+     6
+    ]
+   ],
+   "Geur: was van honderd kaarsen en de zure inkt van verse besluiten. Geluid: één stem tegelijk, en het tikken van ringen op marmer als instemming. Aanraking: koud"
+  ],
+  [
+   "L:Waarom vereerd|Omslag en aanbidders|Wat het doet|Prijs|Haak|Zintuig",
+   40,
+   [
+    "NERD-Z10-1",
+    "NERD-Z10-2",
+    "NERD-Z10-3"
+   ],
+   [
+    [
+     "Personage",
+     40
+    ]
+   ],
+   "Waarom vereerd: hij kan de oude Maker-tekens lezen. Omslag en aanbidders: de Annalisten knielen; huizen sturen geschenken. Wat het doet: hij/zij leert dat verer"
+  ],
+  [
+   "L:Vorm|Stappen van de afglijding|Wat de omgeving doet|Uitkomst|Zintuig|Haak",
+   40,
+   [
+    "DEGEN-Z10-1",
+    "DEGEN-Z10-2",
+    "DEGEN-Z10-3"
+   ],
+   [
+    [
+     "Personage",
+     40
+    ]
+   ],
+   "Vorm: wreedheid. Stappen van de afglijding: eerlijke verhoren > spel > genot in de keuze. Wat de omgeving doet: de Stille Hand promoveert haar. Uitkomst: onomke"
+  ],
+  [
+   "L:Volk/klasse|Zintuigen veranderen|Wat de wereld zegt|Prijs en haak",
+   40,
+   [
+    "ONTWAAK-Z10-1",
+    "ONTWAAK-Z10-2",
+    "ONTWAAK-Z10-3"
+   ],
+   [
+    [
+     "Volken seksualiteit",
+     40
+    ]
+   ],
+   "Volk/klasse: mens/Saelith-ambtenares. De eerste keer dat ze/hij durft te willen: ze vraagt voor het eerst zelf om een plek op de lijst. Zintuigen veranderen: in"
+  ],
+  [
+   "O:Gekozen door Rogier (\"alles",
+   40,
+   [
+    "BESLUIT-Z16-1",
+    "BESLUIT-Z16-2",
+    "BESLUIT-Z16-3"
+   ],
+   [
+    [
+     "Besluit",
+     40
+    ]
+   ],
+   "Gekozen door Rogier (\"alles zoals aanbevolen\", 2026-10-31): Close third person, verleden tijd, per hoofdstuk afwisselend YSA / THALEN (label in de kop); geen ik"
+  ]
+ ],
+ "near_dup_paren": 1683,
+ "near_dup_binnen_cat": 1683,
+ "near_dup_tussen_cat": 0,
+ "near_dup_rijen": 245,
+ "near_dup_voorbeelden": [
+  [
+   "VOLK-GENRES-Z10-myrrhen-Z6",
+   "VOLK-GENRES-Z10-karrûk-Z6",
+   1.0
+  ],
+  [
+   "VOLK-GENRES-Z10-vathren-Z6",
+   "VOLK-GENRES-Z10-myrrhen-Z6",
+   1.0
+  ],
+  [
+   "VOLK-GENRES-Z10-vathren-Z6",
+   "VOLK-GENRES-Z10-karrûk-Z6",
+   1.0
+  ],
+  [
+   "VOLK-GENRES-Z10-aelthir-V5",
+   "VOLK-GENRES-Z10-vathren-Z6",
+   1.0
+  ],
+  [
+   "VOLK-GENRES-Z10-aelthir-V5",
+   "VOLK-GENRES-Z10-karrûk-Z6",
+   1.0
+  ],
+  [
+   "VOLK-GENRES-Z10-aelthir-V5",
+   "VOLK-GENRES-Z10-myrrhen-Z6",
+   1.0
+  ],
+  [
+   "KINKFUNC-Z10-109",
+   "KINKFUNC-Z10-110",
+   0.86
+  ],
+  [
+   "KINKFUNC-Z10-110",
+   "KINKFUNC-Z10-111",
+   0.86
+  ]
+ ],
+ "prefix": {
+  "KINK": {
+   "n": 81,
+   "in_familie": 54,
+   "grootste_fam": 54
+  },
+  "VOOR": {
+   "n": 140,
+   "in_familie": 121,
+   "grootste_fam": 56
+  },
+  "FASE": {
+   "n": 15,
+   "in_familie": 0,
+   "grootste_fam": 0
+  },
+  "VOLK": {
+   "n": 42,
+   "in_familie": 28,
+   "grootste_fam": 14
+  },
+  "HAAK": {
+   "n": 67,
+   "in_familie": 0,
+   "grootste_fam": 0
+  },
+  "DAG": {
+   "n": 129,
+   "in_familie": 17,
+   "grootste_fam": 11
+  },
+  "INTR": {
+   "n": 101,
+   "in_familie": 101,
+   "grootste_fam": 59
+  },
+  "THRL": {
+   "n": 42,
+   "in_familie": 42,
+   "grootste_fam": 6
+  },
+  "GESCH": {
+   "n": 84,
+   "in_familie": 75,
+   "grootste_fam": 75
+  },
+  "TECH": {
+   "n": 75,
+   "in_familie": 61,
+   "grootste_fam": 32
+  },
+  "ZINT": {
+   "n": 469,
+   "in_familie": 374,
+   "grootste_fam": 204
+  },
+  "PERS": {
+   "n": 80,
+   "in_familie": 64,
+   "grootste_fam": 39
+  },
+  "VERLEID": {
+   "n": 40,
+   "in_familie": 35,
+   "grootste_fam": 15
+  },
+  "ACTIE": {
+   "n": 50,
+   "in_familie": 49,
+   "grootste_fam": 49
+  },
+  "OORLOG": {
+   "n": 50,
+   "in_familie": 42,
+   "grootste_fam": 20
+  },
+  "HORROR": {
+   "n": 70,
+   "in_familie": 69,
+   "grootste_fam": 59
+  },
+  "KINKFUNC": {
+   "n": 150,
+   "in_familie": 126,
+   "grootste_fam": 126
+  },
+  "SAW": {
+   "n": 50,
+   "in_familie": 50,
+   "grootste_fam": 25
+  },
+  "COMEDY": {
+   "n": 70,
+   "in_familie": 70,
+   "grootste_fam": 47
+  },
+  "ROMANCE": {
+   "n": 84,
+   "in_familie": 68,
+   "grootste_fam": 49
+  },
+  "HELD": {
+   "n": 60,
+   "in_familie": 60,
+   "grootste_fam": 33
+  },
+  "NERD": {
+   "n": 48,
+   "in_familie": 48,
+   "grootste_fam": 40
+  },
+  "DEGEN": {
+   "n": 48,
+   "in_familie": 48,
+   "grootste_fam": 40
+  },
+  "ONTWAAK": {
+   "n": 48,
+   "in_familie": 48,
+   "grootste_fam": 40
+  },
+  "TOESTAND": {
+   "n": 59,
+   "in_familie": 41,
+   "grootste_fam": 32
+  }
+ },
+ "boog": {
+  "n": 30,
+  "motief": {
+   "besluit namens anderen": 1,
+   "vriendschap die aangeeft": 1,
+   "verbond": 1,
+   "last die je niet mag neerleggen": 1,
+   "verraad": 1,
+   "macht": 1,
+   "ritueel": 1,
+   "diefstal": 1,
+   "broedertrouw die kapotgaat": 1,
+   "offer": 1,
+   "trouw": 1,
+   "bevrijding": 1,
+   "stemming": 1,
+   "clan tegen zichzelf": 1,
+   "nee als liefde": 1,
+   "misverstand": 1,
+   "register": 4,
+   "geloof dat slijt": 1,
+   "bescherming door te liegen": 1,
+   "handel in tijd": 1,
+   "lichaam als getuige": 1,
+   "vrijheid": 1,
+   "voorteken dat genegeerd wordt": 1,
+   "chantage aan tafel": 1,
+   "vergeving": 1,
+   "geur als bewijs": 1,
+   "redden van het verkeerde": 1
+  },
+  "register_bogen": 4,
+  "profiel_gedeeld_bogen": 0,
+  "vorm_onbekend": 1,
+  "vorm_dubbel": 0,
+  "toon_dubbel": 0,
+  "nood_verdeling": {
+   "werkt (met prijs)": 3,
+   "faalt": 3,
+   "werkt": 10,
+   "half": 5,
+   "onbekend": 4,
+   "n.v.t.": 3,
+   "werkt (via leugen)": 1,
+   "werkt (voorlopig: de derde weg)": 1
+  },
+  "aangrenzend_zelfde_profiel": 0
+ },
+ "personage": {
+  "n": 35,
+  "profiel_geen_personage": 0,
+  "soort_fout_dubbel": 0
+ },
+ "nieuw_Z29_Z33": {
+  "n": 132,
+  "in_familie": 83,
+  "zinnen_meer_dan_1x": 4,
+  "top_zinnen": [
+   [
+    "Schuld (Z32, BESLUIT-Z32-9): in het midden van boek 1 zegt ze ja namens Teo: ze laat hem de Lijngraver zijn die de Lijn ",
+    2
+   ],
+   [
+    "Daardoor is haar doel niet alleen beschermen maar ook gebruiken, en is de derde weg een boete: eerst moet ze Teo zijn ei",
+    2
+   ],
+   [
+    "Niet-seksueel; nooit een seksuele rol met Teo.",
+    2
+   ],
+   [
+    "Ze ontkent het voor zichzelf.",
+    2
+   ]
+  ],
+  "top_getallen": [
+   [
+    "-10",
+    93
+   ],
+   [
+    "-31",
+    90
+   ],
+   [
+    "2026",
+    90
+   ],
+   [
+    "801",
+    12
+   ],
+   [
+    "40",
+    7
+   ],
+   [
+    "12",
+    5
+   ],
+   [
+    "100",
+    5
+   ],
+   [
+    "000",
+    4
+   ]
+  ],
+  "top_namen": [
+   [
+    "Ysa",
+    59
+   ],
+   [
+    "Thalen",
+    34
+   ],
+   [
+    "Corran",
+    31
+   ],
+   [
+    "Hesta",
+    22
+   ],
+   [
+    "Liora",
+    15
+   ],
+   [
+    "Zegel",
+    7
+   ],
+   [
+    "Rekenaar",
+    7
+   ],
+   [
+    "Wortel",
+    7
+   ]
+  ]
+ }
+}

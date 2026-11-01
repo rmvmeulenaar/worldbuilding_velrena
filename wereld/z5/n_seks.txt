@@ -1,0 +1,25 @@
+SEKS-VOLK-aelthir-eeuwparen|bloemen en koude dauw|een traag lied|lange, koele aanrakingen|schemer onder bomen|een eeuwpaar raakt elkaar een uur aan voor één kus (instemmende volwassenen)|Een eeuwpaar breekt na 99 jaar, één dag te vroeg
+SEKS-VOLK-aelthir-koelen|mos en stilte|ademhaling|een hand die blijft liggen|groen licht|Koelen tonen liefde door naast je te zitten|Een Koele kiest voor het eerst wel verlangen
+SEKS-VOLK-aelthir-snellen|zweet en wijn|gelach|warme, snelle huid|kaarslicht|Snellen ruilen geheugen voor gevoel|Een Snelle vergeet haar eigen naam
+SEKS-VOLK-aelthir-glazen|koud glas|tikken|gladde huid|helder licht|de Glazen worden verborgen omdat hun huid doorzichtig wordt bij lust|Een Glazen wordt ontmaskerd op een feest
+SEKS-VOLK-karruk-kampvechters|zweet en dierenvet|vuistslagen en gejuich|warme huid na een gevecht|kampvuur|wie wint kiest, wie verliest mag weigeren (volwassenen, instemming)|Een kampvechtster verliest expres
+SEKS-VOLK-karruk-bloedeed|koper en zweet|een gezworen eed|snee in de handpalm|olielamp|bloedeedparen delen één kom bloed|Een eed wordt verbroken en de kom barst
+SEKS-VOLK-karruk-vuurmoeders|rook en hars|trommels|hitte van het vuur|rood vuurlicht|vuurmoeders zegenen paren door rook|Een vuurmoeder weigert een kampioen
+SEKS-VOLK-dhurn-seizoenparen|steenstof en badzout|hamers|warme badstenen|mijnlicht|Dhurn kiezen een partner per seizoen in het badhuis|Een paar blijft na het seizoen samen, tegen de regel
+SEKS-VOLK-dhurn-mijnbroeders|kalk en zweet|stilte diep in de mijn|ruwe handen|lamplicht|mannen onder elkaar diep in de mijn, buiten het register|Een mijnbroeder wordt verraden door zijn lamp
+SEKS-VOLK-saelmor-scheepsvrouwen|zout en teer|golven|natte huid|zeilicht|scheepsvrouwen trouwen met hun schip en kiezen geliefden per haven|Een kapitein kiest een man en verliest haar schip
+SEKS-VOLK-saelmor-havenmannen|rum en vis|bellen|warme planken|lantaarns|gedeelde mannen (1 op 20) worden gevierd in de haven|Een havenman weigert te delen
+SEKS-VOLK-saelmor-diepduikers|zout en wier|stilte onder water|koud water|groene diepte|diepduiksters kussen onder water met ingehouden adem|Een duikster komt niet boven
+SEKS-VOLK-grauwen-zorgparen|veen en wol|zacht praten|ruwe, warme handen|grijs licht|zorgparen wassen elkaars vergroeiingen|Een zorgpaar verliest de tast
+SEKS-VOLK-grauwen-ontsluierden|veenrook|stilte bij het onthullen|koude lucht op blote huid|lamplicht|Ontsluierden tonen hun lichaam bij een feest (instemmende volwassenen)|Een Ontsluierde toont een merk van de Orde
+SEKS-VOLK-ishvar-tweegelofte|saffraan en zand|een gelofte|koude nacht en warme huid|sterren|een tweegelofte wordt onder de koude ster gesloten|De ster beweegt tijdens de gelofte
+SEKS-VOLK-ishvar-drieen|kamelenmelk en rook|drie stemmen|warme tent|olielamp|de Drieën delen een tent en een put|Een vierde wil erbij
+SEKS-VOLK-vathren-zieners|wierook|hartslagen|warme borst|kaarslicht|zieners voelen de hartslag van hun geliefde|Een ziener voelt een tweede hart
+SEKS-VOLK-vathren-hartparen|lekthee|één hartslag|hand op borst|kaars|hartparen stemmen hun hartslag af|Eén hart stopt en het andere telt door
+SEKS-VOLK-kluwer-korfzusters|honing en was|gonzen|warme raat|amberlicht|korfzusters delen warmte als liefde|Een zuster wil alleen zijn
+SEKS-VOLK-myrrhen-tweedraad|natte aarde|gezoem|zachte draad|zwamlicht|tweedraadparen groeien hun draden ineen|Een draad wordt doorgesneden
+SEKS-VOLK-oevrin-poelzangers|moeraswater|klakzang|warm slik|blauwe lichtbel|poelzangers vrijen zingend in de poel (volwassenen)|Een lied lokt een vreemde
+SEKS-VOLK-tharn-rouwparen|natte klei|bromlied|zware warme huid|grijs|Tharn vrijen na een rouw om de dode te eren|Een rouwpaar rouwt om een levende
+SEKS-VOLK-orrim-slijpers|gruis en ozon|kristalzang|ruw kristal tegen huid|blauwe gloed|slijpers slijpen elkaars kristal glad als tederheid|Een slijper slijpt te diep
+SEKS-VOLK-skerra-klifparen|wind en veren|fluitroepen|kou en warme veren|helder licht|klifparen vrijen in de val (volwassenen)|Een paar landt niet
+SEKS-VOLK-ves-lethi-wisselaars|niets en daarna parfum|zacht lachen|huid die verschuift|maanlicht|wisselaars nemen de vorm die hun partner vraagt, alleen met instemming|Een wisselaar neemt een vorm die niemand vroeg

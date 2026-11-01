@@ -1,0 +1,209 @@
+{
+ "1_dood_actief": {
+  "gevallen": 13,
+  "rijen_aangepast": 14,
+  "besluiten": [
+   [
+    "OORLOG-Z9-31",
+    "fout in de rij (naam als titel)"
+   ],
+   [
+    "TOESTAND-Z11-PER-orric-3",
+    "fout in jaar (versteend, niet gestorven)"
+   ],
+   [
+    "TOESTAND-Z11-PER-varnath-3",
+    "fout in jaar"
+   ],
+   [
+    "ACTIE-Z9-13",
+    "fout in jaar (mediaan-datering Z13)"
+   ],
+   [
+    "ACTIE-Z9-12",
+    "geen fout (oorsprong)"
+   ],
+   [
+    "TOESTAND-Z11-PER-ysara-3",
+    "fout in jaar + echo"
+   ],
+   [
+    "HAAK-PER-romance",
+    "geen fout (historisch)"
+   ],
+   [
+    "HAAK-PER-thriller",
+    "geen fout (geest/echo)"
+   ],
+   [
+    "HELD-SKELET-Z10-6",
+    "naamgenoot"
+   ],
+   [
+    "HELD-Z10-50",
+    "naamgenoot"
+   ],
+   [
+    "BESLUIT-Z12-8",
+    "geen fout (besluit noemt historische persoon)"
+   ],
+   [
+    "PLEKTOESTAND-Z11-registerkraai-2",
+    "geen fout (opname/echo)"
+   ],
+   [
+    "PLEKTOESTAND-Z11-registerkraai-1",
+    "geen fout (opname/echo)"
+   ],
+   [
+    "TOESTAND-Z11-PER-aelthir-schurk-ileth-V5-3",
+    "fout in levensduur (Aelthir)"
+   ]
+  ]
+ },
+ "1_langlevend_gemarkeerd": [
+  "TOESTAND-Z11-PER-vaelorn-3",
+  "TOESTAND-Z11-PER-vonk-orrim-3",
+  "TOESTAND-Z11-PER-f1-aelthir-thalen-3",
+  "TOESTAND-Z11-PER-f2-aelthir-sorrel-3",
+  "TOESTAND-Z11-PER-f5-aelthir-saela-3",
+  "TOESTAND-Z11-PER-orrim-schurk-graal-3"
+ ],
+ "2_twee_plekken": {
+  "opgelost": 3,
+  "rijen": 6
+ },
+ "3_verhoudingen": {
+  "nagelopen": [
+   "GES-herkomst-gave",
+   "DEG-askoude-Z6",
+   "REGEL-verhouding-Z12"
+  ],
+  "besluiten": [
+   [
+    "GES-herkomst-gave",
+    "bewuste uitzondering: andere grootheid"
+   ],
+   [
+    "DEG-askoude-Z6",
+    "bewuste uitzondering: andere grootheid"
+   ],
+   [
+    "REGEL-verhouding-Z12",
+    "geen afwijking (valse melding)"
+   ]
+  ]
+ },
+ "4_toekomst": {
+  "besluiten": [
+   [
+    "LIJN-voorinstemming-Z6",
+    "voorspelling/skelet"
+   ],
+   [
+    "BESLUIT-Z6-WRIJ-077",
+    "voorspelling/skelet"
+   ],
+   [
+    "BESLUIT-Z6-VRAAG-005",
+    "fout in formulering"
+   ],
+   [
+    "BESLUIT-Z11-tijdlijn",
+    "voorspelling/skelet"
+   ],
+   [
+    "PER-Z11-bram-kade",
+    "plan (voorspelling)"
+   ],
+   [
+    "TOESTAND-Z11-bram-van-de-kade-3",
+    "plan (voorspelling)"
+   ],
+   [
+    "NU-conflict-zegelbinding",
+    "deadline"
+   ],
+   [
+    "NU-volgende-crisis-Z6",
+    "deadline"
+   ]
+  ],
+  "tijdlijn_vooruitblik": [
+   "TOESTAND-Z11-ondessa-7",
+   "TOESTAND-Z11-varenne-7",
+   "TOESTAND-Z11-ferro-6",
+   "TOESTAND-Z11-gerla-5",
+   "TOESTAND-Z11-jorrit-7",
+   "TOESTAND-Z11-bram-van-de-kade-4"
+  ]
+ },
+ "5_haken": {
+  "herschreven": 420,
+  "per_categorie": {
+   "Besluit": 143,
+   "Geschiedenis": 61,
+   "Oorlog": 44,
+   "Regio": 29,
+   "Personage": 22,
+   "Held": 17,
+   "Volken": 14,
+   "Comedy": 13,
+   "Voorkeuren": 12,
+   "Lichaam en vervorming": 10,
+   "Verhaal": 9,
+   "Bestuur": 7,
+   "Tijdperk": 7,
+   "Macht": 6,
+   "Religie": 5,
+   "Techniek": 5,
+   "Genre": 3,
+   "Dagelijks leven": 2,
+   "Magie": 2,
+   "Afstamming": 1,
+   "Cultuur": 1,
+   "Economie": 1,
+   "Extreme rituelen": 1,
+   "Kinks en situaties": 1,
+   "Oorsprong": 1,
+   "Personen": 1,
+   "Voorwerp": 1,
+   "Wetten": 1
+  },
+  "nog_sjabloon": 0
+ },
+ "6_jaren": {
+  "jaar801_verbeterd": 3,
+  "jaar801_blijft": {
+   "Verhaal": 73,
+   "Geschiedenis": 1,
+   "Besluit": 1,
+   "Actie": 16,
+   "Oorlog": 12,
+   "Horror": 17,
+   "Comedy": 33,
+   "Romantiek": 24,
+   "Held": 8
+  },
+  "geboorte_verbeterd": 9,
+  "geboorte_voorbeelden": [
+   "TOESTAND-Z11-PER-ithrael-1",
+   "TOESTAND-Z11-PER-aeron-profiel-1",
+   "TOESTAND-Z11-PER-morvane-profiel-1",
+   "TOESTAND-Z11-PER-khaled-profiel-1",
+   "TOESTAND-Z11-PER-vathren-ruy-1",
+   "TOESTAND-Z11-PERS-Z4-grauwen-7-1-1",
+   "TOESTAND-Z11-PERS-Z4-vathren-7-2-1",
+   "TOESTAND-Z11-PERS-Z4-dhurn-7-2-Z5b-1",
+   "TOESTAND-Z11-PERS-Z4-aelthir-7-2-Z5b-1"
+  ],
+  "geboorte_blijft_aanname": 266
+ },
+ "status": {
+  "vastgesteld": 1751,
+  "vervallen": 45,
+  "voorlopig": 4240,
+  "voorlopig, vervangen": 347
+ },
+ "integriteit": "ok"
+}

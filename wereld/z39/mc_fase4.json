@@ -1,0 +1,153 @@
+{
+ "validatie": {
+  "GEB-deelwet-40": {
+   "ontstaat": 100.0,
+   "binnen_10j": 46.6,
+   "mediaan": 29.0,
+   "canon": "40"
+  },
+  "GEB-r10-eerste-register": {
+   "ontstaat": 100.0,
+   "binnen_10j": 96.0,
+   "mediaan": 20.0,
+   "canon": "22"
+  },
+  "GEB-r10-jongenshof": {
+   "ontstaat": 99.2,
+   "binnen_10j": 25.6,
+   "mediaan": 35.0,
+   "canon": "50"
+  },
+  "GEB-r10-rotatie": {
+   "ontstaat": 100.0,
+   "binnen_10j": 0.2,
+   "mediaan": 51.0,
+   "canon": "78"
+  },
+  "GEB-r10-orde-naam": {
+   "ontstaat": 100.0,
+   "binnen_10j": 0.2,
+   "mediaan": 60.0,
+   "canon": "90"
+  },
+  "GEB-r10-eilanden-weigering": {
+   "ontstaat": 99.9,
+   "binnen_10j": 12.1,
+   "mediaan": 86,
+   "canon": "100-130"
+  },
+  "GEB-r10-mannenroof": {
+   "ontstaat": 100.0,
+   "binnen_10j": 100.0,
+   "mediaan": 15.0,
+   "canon": "18-35"
+  },
+  "GEB-r10-neven-ramp": {
+   "ontstaat": 2.0,
+   "binnen_10j": 2.0,
+   "mediaan": 36.0,
+   "canon": "33-38"
+  },
+  "GEB-r10-deelwet-weerstand": {
+   "ontstaat": 98.2,
+   "binnen_10j": 34.9,
+   "mediaan": 29.0,
+   "canon": "41-60"
+  },
+  "GEB-r10-uitputting": {
+   "ontstaat": 59.2,
+   "binnen_10j": 0.6,
+   "mediaan": 123.0,
+   "canon": "60-80"
+  },
+  "raad 7-5 (jaar -3)": {
+   "ontstaat": 24.7,
+   "verdeling": {
+    "12-0": 1,
+    "11-1": 6,
+    "10-2": 50,
+    "9-3": 136,
+    "8-4": 229,
+    "7-5": 247,
+    "6-6": 197,
+    "5-7": 84,
+    "4-8": 36,
+    "3-9": 13,
+    "2-10": 1
+   }
+  }
+ },
+ "top": [
+  [
+   "Z39-F4-0203",
+   390203,
+   1,
+   0.5563,
+   {
+    "intrige": 163,
+    "ommekeer": 149,
+    "verbinding": 11,
+    "rijm": 3,
+    "doelmatch": 0.56,
+    "gebeurtenissen": 984
+   }
+  ],
+  [
+   "Z39-F4-0731",
+   390731,
+   1,
+   0.5471,
+   {
+    "intrige": 156,
+    "ommekeer": 150,
+    "verbinding": 11,
+    "rijm": 3,
+    "doelmatch": 0.58,
+    "gebeurtenissen": 987
+   }
+  ],
+  [
+   "Z39-F4-0539",
+   390539,
+   1,
+   0.5427,
+   {
+    "intrige": 140,
+    "ommekeer": 159,
+    "verbinding": 11,
+    "rijm": 3,
+    "doelmatch": 0.55,
+    "gebeurtenissen": 982
+   }
+  ],
+  [
+   "Z39-F4-0527",
+   390527,
+   1,
+   0.5358,
+   {
+    "intrige": 127,
+    "ommekeer": 115,
+    "verbinding": 12,
+    "rijm": 3,
+    "doelmatch": 0.59,
+    "gebeurtenissen": 849
+   }
+  ],
+  [
+   "Z39-F4-0214",
+   390214,
+   1,
+   0.5351,
+   {
+    "intrige": 166,
+    "ommekeer": 139,
+    "verbinding": 11,
+    "rijm": 3,
+    "doelmatch": 0.55,
+    "gebeurtenissen": 1006
+   }
+  ]
+ ],
+ "weggegooid": {}
+}

@@ -1,0 +1,25 @@
+score | volk | domein | dekking | diepte | verbonden | beantwoord | vraag | bogen/profielen | personages
+15.00 | skerra | recht | 0 | 0 | 0 | 0/3 | 10 | VP-801-5dd1cfad,VP-801-b210dd81,VP-801-d8b3dd15 | 4
+15.00 | skerra | dieren en planten | 0 | 0 | 0 | 0/3 | 10 | VP-801-5dd1cfad,VP-801-b210dd81,VP-801-d8b3dd15 | 4
+15.00 | skerra | kinderen en opvoeding (strikt niet-seksueel) | 0 | 0 | 0 | 0/3 | 10 | VP-801-5dd1cfad,VP-801-b210dd81,VP-801-d8b3dd15 | 4
+12.00 | myrrhen | recht | 0 | 0 | 0 | 0/3 | 8 | VP-801-419cc52e,VP-801-8aeb23d7 | 4
+12.00 | myrrhen | kinderen en opvoeding (strikt niet-seksueel) | 0 | 0 | 0 | 0/3 | 8 | VP-801-419cc52e,VP-801-8aeb23d7 | 4
+12.00 | myrrhen | reizen | 0 | 0 | 0 | 0/3 | 8 | VP-801-419cc52e,VP-801-8aeb23d7 | 4
+12.00 | myrrhen | geloof in het dagelijks leven | 0 | 0 | 0 | 0/3 | 8 | VP-801-419cc52e,VP-801-8aeb23d7 | 4
+9.00 | grauwen | recht | 0 | 0 | 0 | 0/3 | 6 |  | 6
+9.00 | grauwen | dieren en planten | 0 | 0 | 0 | 0/3 | 6 |  | 6
+9.00 | grauwen | reizen | 0 | 0 | 0 | 0/3 | 6 |  | 6
+9.00 | grauwen | geloof in het dagelijks leven | 0 | 0 | 0 | 0/3 | 6 |  | 6
+9.00 | orrim | recht | 0 | 0 | 0 | 0/3 | 6 | VP-801-8ccdb710 | 4
+9.00 | orrim | kinderen en opvoeding (strikt niet-seksueel) | 0 | 0 | 0 | 0/3 | 6 | VP-801-8ccdb710 | 4
+9.00 | orrim | reizen | 0 | 0 | 0 | 0/3 | 6 | VP-801-8ccdb710 | 4
+9.00 | orrim | geloof in het dagelijks leven | 0 | 0 | 0 | 0/3 | 6 | VP-801-8ccdb710 | 4
+9.00 | tharn | recht | 0 | 0 | 0 | 0/3 | 6 | VP-801-501c36d2 | 4
+9.00 | tharn | dieren en planten | 0 | 0 | 0 | 0/3 | 6 | VP-801-501c36d2 | 4
+9.00 | tharn | reizen | 0 | 0 | 0 | 0/3 | 6 | VP-801-501c36d2 | 4
+9.00 | vathren | recht | 0 | 0 | 0 | 0/3 | 6 | VP-801-868ced70 | 4
+9.00 | vathren | kinderen en opvoeding (strikt niet-seksueel) | 0 | 0 | 0 | 0/3 | 6 | VP-801-868ced70 | 4
+
+## mens 801 (vóór → na, v_rijkdom: dekking, beantwoord, vragen, verbonden)
+canon_backup_Z38.db (4, 0, 51, 1)
+canon.db (73, 54, 54, 69)

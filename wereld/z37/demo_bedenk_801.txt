@@ -1,0 +1,42 @@
+# 801 Heden: volken aelthir, dhurn, grauwen, ishvar, karrûk, kluwer, mens, myrrhen, oevrin, orrim, sael-mor, skerra, tharn, vathren, ves-lethi; bestaande bogen 1, eerdere profielen 18
+gewichten: verbondenheid 0.30, seriewaarde 0.25, nieuwheid 0.20, lezersvraag 0.15, kosten 0.10
+kandidaten na filters: 3964; afgevallen: {'rijm': 21, 'R-verhaal_afstand': 15}
+
+## 4 profielen (farthest-point, eerst alle zeven posities, daarna marginale winst)
+
+1. VP-801-478c390d | betaler | survival | rijk | dhurn | brieven | faalt | 61+|m
+    genre: rom0 ero0 hor2 sus3 act3 int0 kom0 tra4
+    doelen: nieuwheid 0.86, verbondenheid 0.78, seriewaarde 0.60, lezersvraag 0.40, kosten 0.36; marginale winst 0.680
+    raakt: ERF-voortijd; zaadje ZAAD-VERHAAL-fase7-b; wereldregel/rite SEKS-VOLK-dhurn-steenlust; drager PER-dhurn-tavik
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+    seriewaarde: via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+    premisse: Tussen Tavik Mijnbroeder (mijnbroeder) en zijn broeder liefhebben staat een noodstand die in de Wieg wacht tot iemand hem aanzet (ORIGIN-WAAROM-8, ORIGIN-10); Tavik zet door, tegen de prijs van zijn liefde voor een mens (wat nu verborgen blijft). [PER-dhurn-tavik;ERF-voortijd]
+    gevoeligheid: robuust (blijft in de top-3 bij alle 10 verschuivingen van ±10%)
+
+2. VP-801-4f8cb269 | ontdekker | horror | stad | grauwen | brieven | keert om | 26-40|m
+    genre: rom0 ero0 hor5 sus5 act1 int0 kom0 tra2
+    doelen: nieuwheid 0.86, verbondenheid 0.88, seriewaarde 0.00, lezersvraag 0.50, kosten 0.30; marginale winst 0.579
+    raakt: ERF-barsten; zaadje ZAAD-VERHAAL-fase7-a; wereldregel/rite SEKS-VOLK-grauwen-zorgparen; drager PER-grauwen-vell
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+    seriewaarde: raakt geen hoofdlijnrij (ook niet via een relatie)
+    premisse: Vell Ontsluierde (Ontsluierde) wil gezien worden, maar Lekkende Zegel, donkere rijken, ingestorte zaadmarkt staat in de weg, en het kan kosten wat Vell verbergt: haar register-oorsprong (een Varenne-dochter). [PER-grauwen-vell;ERF-barsten]
+    gevoeligheid: robuust (blijft in de top-3 bij alle 10 verschuivingen van ±10%)
+
+3. VP-801-43f26372 | beslisser | intrige | huis | orrim | ballade | blijft verborgen | 26-40|m
+    genre: rom0 ero0 hor0 sus2 act0 int5 kom0 tra1
+    doelen: nieuwheid 0.86, verbondenheid 0.54, seriewaarde 0.00, lezersvraag 0.55, kosten 0.14; marginale winst 0.502
+    raakt: ERF-barsten; zaadje -; wereldregel/rite SEKS-VOLK-orrim-slijpers; drager PER-orrim-sha
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+    seriewaarde: raakt geen hoofdlijnrij (ook niet via een relatie)
+    premisse: Sha Kristalader (Orrim-vluchteling) wil haar volk tegen de oogst beschermen. In de weg: Lekkende Zegel, donkere rijken, ingestorte zaadmarkt; al staat dan op het spel dat uitkomt: dat haar lichaam Sterrensteen voor de Zegelbinding bevat. [PER-orrim-sha;ERF-barsten]
+    gevoeligheid: robuust (blijft in de top-3 bij alle 10 verschuivingen van ±10%)
+
+4. VP-801-425d9412 | liefde tussen posities | tragedie | huis | oevrin | documenten | werkt | 61+|wisselend
+    genre: rom3 ero1 hor0 sus1 act0 int1 kom0 tra5
+    doelen: nieuwheid 0.86, verbondenheid 0.54, seriewaarde 0.00, lezersvraag 0.45, kosten 0.24; marginale winst 0.476
+    raakt: ERF-barsten; zaadje -; wereldregel/rite SEKS-VOLK-oevrin-keelzakken; drager PER-oevrin-glu
+    mag niet breken (v_kern): BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+    seriewaarde: raakt geen hoofdlijnrij (ook niet via een relatie)
+    premisse: Tussen Glu Slikmond (slikganggids) en de gangen geheim staat Lekkende Zegel, donkere rijken, ingestorte zaadmarkt; Glu zet door, tegen de prijs van dat de Oevrin zonen hebben (wat nu verborgen blijft). [PER-oevrin-glu;ERF-barsten]
+    gevoeligheid: robuust buiten de top-3 (10 verschuivingen)
+

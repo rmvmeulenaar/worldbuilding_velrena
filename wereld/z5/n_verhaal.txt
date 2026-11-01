@@ -1,0 +1,40 @@
+QST-queeste|natte wegen en paardenzweet|karrenwielen en kraaien|blaren in nieuwe laarzen|lage herfstzon|elke halte ruikt anders, zodat de lezer weet waar hij is met zijn ogen dicht|Liora ruikt Hallowyn's hooi in de Wortel en weet dat iemand van thuis haar voorging
+QST-doel-reden-gevaar|koude wierook in Ves-Anath|het tikken van een Zegel dat trager gaat|kou die uit je huid wordt gezogen|bleek zegellicht|het offer dat de Orde wil, voelt als een warm lichaam dat koud wordt|Teo's handen worden koud weken voor de datum, en niemand zegt waarom
+QST-etappes-queeste|hooi, zout, wierook, slik|een andere bel in elke stad|hard wordende voeten|van goud naar grijs licht|elke etappe heeft een eigen klank die in het slothoofdstuk terugkeert|In de Wortel klinken alle bellen tegelijk
+NU-conflict-zegelbinding|koude kalk en angstzweet|een bindsnoer dat knapt|een pols die gloeit waar het snoer zat|zegellicht op de huid|wie gebonden is ruikt naar zijn meester|Een gebonden vrouw ruikt ineens naar niemand
+NU-conflict-kharvos|kolenrook op de wind|hoorns aan de pas|ijzige wind|vuren op de bergkam|de eerste Kharvos-spionnen ruiken naar olie, niet naar paard|Een paard op de pas ruikt naar machineolie
+NU-conflict-schuld|inkt en leer|een pen die krast|zware boeken|één lamp|de Orde-schuld is te ruiken: elke tempel brandt goedkopere wierook|Liora ruikt de goedkope wierook en weet dat de tempel bankroet is
+NU-conflict-teo|lelies en zweet|zijn hartslag in een stille kamer|koude handen|kaarslicht op zijn huid|zijn gave doet de kaarsen in zijn buurt feller branden|Op de avond van de Wijding gaan alle kaarsen uit
+NU-conflict-lekken|zure melk en natte doeken|een baby die huilt waar geen moeder had mogen zijn|warme deken|een lamp die flakkert|een lek is te zien aan een Ysa-lamp die bij een geboorte donker wordt|Een vroedvrouw dekt de lamp toe met haar sjaal
+NU-conflict-stallen|hooi en kalk|kettingen|ruw touw|zwak stallicht|de stalreuzen neuriën een lied als ze opstand plannen|Bram hoort het lied en zingt de tweede stem
+NU-conflict-veslethi|zweet en bloed|kreunen|huid die verschuift|maanlicht|een Ves-Lethi die man wordt, ruikt eerst naar niets en dan naar ijzer|De Orde stuurt honden die ijzer ruiken
+NU-volgende-crisis|as op de wind|een stilte waar zegelzoem hoort|koude zomer|bleke zon|de Zegelstilte is te horen: honden janken een nacht lang|In heel Saelith janken de honden tegelijk
+NU-wie-wil-wat|wierook, olie, saffraan, slik|zeven stemmen die tegelijk praten|een tafel vol handen|kaarslicht|elke partij heeft een eigen geur zodat Liora ze blind herkent|Op een geheim beraad ruikt iemand naar twee partijen
+VERHAAL-fase4|kampvuur en zweet|een koning die lacht|warme nachten|vuur|de gedeelde koning ruikt naar alle vrouwen die hem deelden|Hij herkent elk kind aan de geur
+VERHAAL-fase1-a|natte klei en hooi|dijkgezang|koud water tot de knieën|grijze dageraad|de dijkvrouw kust met slik op haar lippen|De schuurheer zegt het water te zullen stoppen, maar opent de sluis
+VERHAAL-fase1-c|wijn en parfum|een deur die zacht sluit|zijde|kaarslicht|de tweede vrouw ruikt naar het parfum van de eerste|De eerste vrouw ruikt haar eigen parfum op haar man
+VERHAAL-fase2-a|zweet, bloed en wijn|strijdkreten|warme huid na een gevecht|vuur|strijdnacht: wie wint, kiest, en wie verliest mag nee zeggen|Ze kiest de verliezer
+VERHAAL-fase2-b|aardewerk en wijn|brekende kruiken|koude kelder|toorts|de kruiken zingen zacht als ze vol vonk zijn|Eén kruik zingt niet: hij is leeg en iemand weet dat
+VERHAAL-fase2-c|wierook en ijzer|twee stemmen die dezelfde eed zweren|koude kroon|ochtendlicht|de kroon is warm voor de ene broer en koud voor de andere|De koude broer draagt hem toch
+VERHAAL-fase3-a|as en rook|een brug die kraakt|hitte onder je voeten|rood licht|de brug van as houdt alleen wie elkaar vasthoudt|Halverwege laat één hand los
+VERHAAL-fase3-b|rook en angstzweet|een klok die telt|honger|grauw|negen dagen: elke dag een kaars minder|Op dag acht branden er weer negen
+VERHAAL-fase3-c|wierook en inkt|zeven stemmen tegen vijf|koud perkament|kaarslicht|de stemming wordt geteld met stenen die warm blijven van de hand|Eén steen is koud: niemand heeft hem vastgehouden
+VERHAAL-fase4-a|rivierwater en riet|een veerpont die kreunt|natte touwen|mistlicht|de veerman telt de passagiers en er is er één te veel|De extra passagier is een vrouw die al dood is
+VERHAAL-fase4-b|aarde en schimmel|krabben onder de vloer|koude grond|een kier licht|onder de schuur ademt iemand|Het is een man die al dertig jaar verstopt zit
+VERHAAL-fase4-c|nieuwe inkt|een pen die krast|ruw perkament|kaarslicht|het eerste register ruikt naar zweet van de klerk die loog|Liora ruikt dezelfde inkt in de kluis
+VERHAAL-fase5-a|lavendel en papier|een postbel|gevouwen brieven|ochtendlicht|brieven die nooit aankwamen ruiken nog naar haar|Liora vindt ze in de Bibliotheek van de Stillen
+VERHAAL-fase5-b|kalk en zeep|stilte|koude muren|wit licht|de witte cel heeft geen schaduw|Een gevangene ziet daar toch een schaduw
+VERHAAL-fase5-c|parfum en goud|een veilinghamer|zijde|kroonluchter|verkochte uren worden met een zandloper gemeten|Een zandloper loopt achteruit
+VERHAAL-fase6-a|lindebloesem en zweet|een zacht lied|warme nachten|maanlicht|in de rustmaand mag niemand registreren en geliefden kiezen vrij|Na de rustmaand ligt er toch een register
+VERHAAL-fase6-b|zure koorts en kamfer|hoesten|builen onder de huid; afstoting 8|bleek licht|de Pest ruikt naar zoete appels|Een tempel ruikt naar appels voordat de Pest uitbreekt
+VERHAAL-fase6-c|goud en stof|een slot dat klikt|koude kluis|lamp|de kluis van Varenne ademt|Achter de kluisdeur zit iemand
+VERHAAL-fase7-a|wijn en tranen|verwijten in een herberg|warme handen|kaarslicht|wijn en verwijten: elk glas is een herinnering|Het laatste glas is vergiftigd
+VERHAAL-fase7-b|ozon en olie|een toren die zoemt|trillende trappen|knipperend licht|de Lampentoren knippert een signaal|Liora herkent het signaal van de ster
+VERHAAL-fase7-c|inkt en kalk|een naam die wordt afgeroepen|koud registerblad|lamplicht|een verkochte naam ruikt naar de koper|Liora's eigen naam ruikt naar Varenne
+THRL-fase7-wortel|warme rot|een stem die telt|kruipende wortels; afstoting 8|bleek licht|grijswortel smaakt bitter en maakt de stem luider|Wie grijswortel eet hoort Thalen
+THRL-fase7-wijding|lelies en kaarsvet|een tel tot honderd|koude vloer|kaarsen|de tel van aarde: elke tel een kaars|Bij honderd gaat geen kaars uit
+MEGA-Z4-kluwer|was en honing|een korf die stemt|warme raat|amberlicht|een korf stemt door te gonzen in één toon|De Raad hoort de toon en begrijpt hem
+MEGA-Z4-orrim|ozon en gruis|kristalzang|koud kristal|blauwe gloed|elke gebonden Orrim zingt een andere toon in het Zegel|Krie herkent de toon van haar grootmoeder
+MEGA-Z4-skerra|ijle lucht|fluitroepen|bevroren tranen|sterrenlicht|het signaal van de ster is te horen als een tik in de kliffen|Een nest telt de tikken en vindt een getal
+MEGA-Z4-tharn|natte klei|een dijklied dat stopt|trillende dijken|grijze storm|zonder lied scheuren de dijken in één nacht|Een reus zingt alleen en de dijk houdt
+MEGA-Z4-veslethi|niets en daarna ijzer|een hart dat van ritme wisselt|huid die verschuift; afstoting 6|maanlicht|de noodvoorraad wordt wakker en ruikt het Zegel|Een Ves-Lethi neemt de vorm van Thalen aan

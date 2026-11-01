@@ -1,0 +1,11 @@
+score | volk | domein | dekking | diepte | verbonden | beantwoord | vraag | bogen/profielen | personages
+73.50 | mens | eten | 0 | 0 | 0 | 0/3 | 49 | BOOG-boek1,VP-801-0e7101bc,VP-801-aa200200,VP-801-403035f3,VP-801-546baa02,VP-801-88b9fd5f | 33
+73.50 | mens | drinken | 0 | 0 | 0 | 0/3 | 49 | BOOG-boek1,VP-801-0e7101bc,VP-801-aa200200,VP-801-403035f3,VP-801-546baa02,VP-801-88b9fd5f | 33
+73.50 | mens | muziek | 0 | 0 | 0 | 0/3 | 49 | BOOG-boek1,VP-801-0e7101bc,VP-801-aa200200,VP-801-403035f3,VP-801-546baa02,VP-801-88b9fd5f | 33
+73.50 | mens | recht | 0 | 0 | 0 | 0/3 | 49 | BOOG-boek1,VP-801-0e7101bc,VP-801-aa200200,VP-801-403035f3,VP-801-546baa02,VP-801-88b9fd5f | 33
+73.50 | mens | geld en handel | 0 | 0 | 0 | 0/3 | 49 | BOOG-boek1,VP-801-0e7101bc,VP-801-aa200200,VP-801-403035f3,VP-801-546baa02,VP-801-88b9fd5f | 33
+73.50 | mens | dieren en planten | 0 | 0 | 0 | 0/3 | 49 | BOOG-boek1,VP-801-0e7101bc,VP-801-aa200200,VP-801-403035f3,VP-801-546baa02,VP-801-88b9fd5f | 33
+73.50 | mens | kinderen en opvoeding (strikt niet-seksueel) | 0 | 0 | 0 | 0/3 | 49 | BOOG-boek1,VP-801-0e7101bc,VP-801-aa200200,VP-801-403035f3,VP-801-546baa02,VP-801-88b9fd5f | 33
+73.50 | mens | rouw | 0 | 0 | 0 | 0/3 | 49 | BOOG-boek1,VP-801-0e7101bc,VP-801-aa200200,VP-801-403035f3,VP-801-546baa02,VP-801-88b9fd5f | 33
+73.50 | mens | feest (en gewone vreugde) | 0 | 0 | 0 | 0/3 | 49 | BOOG-boek1,VP-801-0e7101bc,VP-801-aa200200,VP-801-403035f3,VP-801-546baa02,VP-801-88b9fd5f | 33
+73.50 | mens | werk | 0 | 0 | 0 | 0/3 | 49 | BOOG-boek1,VP-801-0e7101bc,VP-801-aa200200,VP-801-403035f3,VP-801-546baa02,VP-801-88b9fd5f | 33

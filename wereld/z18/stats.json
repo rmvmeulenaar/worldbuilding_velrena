@@ -1,0 +1,29 @@
+{
+ "toegevoegd": 0,
+ "aangevuld": [
+  "PER-v4-hesta-kael",
+  "PER-v4-thalen-orr",
+  "ROMAN-Z16-h07",
+  "ROMAN-Z16-h08",
+  "ROMAN-Z16-h09",
+  "ROMAN-Z16-h10",
+  "ROMAN-Z16-h11",
+  "ROMAN-Z16-h12",
+  "ROMAN-Z16-h13",
+  "ROMAN-Z16-h32",
+  "YSA-Z16-3"
+ ],
+ "status_gewijzigd": [
+  "TOESTAND-Z17-PER-v4-thalen-orr-1",
+  "TOESTAND-Z17-PER-v4-thalen-orr-2",
+  "TOESTAND-Z17-PER-v4-thalen-orr-3",
+  "YSA-Z17-9"
+ ],
+ "status": {
+  "vastgesteld": 1791,
+  "vervallen": 45,
+  "voorlopig": 4364,
+  "voorlopig, vervangen": 382
+ },
+ "totaal": 6582
+}

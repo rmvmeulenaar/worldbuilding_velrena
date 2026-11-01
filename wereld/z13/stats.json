@@ -1,0 +1,851 @@
+{
+ "1_wortelstem": {
+  "besluit": "BESLUIT-Z12-wortelstem vastgesteld",
+  "rijen_aangepast": []
+ },
+ "2_dubbel": {
+  "groepen": 121,
+  "zelfde": 124,
+  "naamgenoot": 0,
+  "lijst": [
+   [
+    "PER-aeron",
+    "PER-aeron-profiel",
+    "zelfde"
+   ],
+   [
+    "PER-morvane",
+    "PER-morvane-profiel",
+    "zelfde"
+   ],
+   [
+    "PER-khaled",
+    "PER-khaled-profiel",
+    "zelfde"
+   ],
+   [
+    "PER-khaled",
+    "PERS-Z4-ishvar-7-2",
+    "zelfde"
+   ],
+   [
+    "PER-tamsin",
+    "PERS-Z4-tharn-1-2",
+    "zelfde"
+   ],
+   [
+    "PER-gorrum",
+    "PERS-Z4-tharn-1-1",
+    "zelfde"
+   ],
+   [
+    "PER-vaelorn",
+    "PER-vaelorn-nu",
+    "zelfde"
+   ],
+   [
+    "PER-vaelorn",
+    "PERS-Z4-aelthir-1-1",
+    "zelfde"
+   ],
+   [
+    "PER-vaelorn",
+    "PERS-Z4-aelthir-7-1",
+    "zelfde"
+   ],
+   [
+    "PER-skerra-ilwa",
+    "PERS-Z4-skerra-1-1",
+    "zelfde"
+   ],
+   [
+    "PER-dhuran",
+    "PERS-Z4-dhurn-2-2",
+    "zelfde"
+   ],
+   [
+    "PER-ithra-oud",
+    "PERS-Z4-aelthir-3-1",
+    "zelfde"
+   ],
+   [
+    "PER-yrr",
+    "PERS-Z4-kluwer-7-1",
+    "zelfde"
+   ],
+   [
+    "PER-qesh-azim",
+    "PERS-Z4-ishvar-3-1",
+    "zelfde"
+   ],
+   [
+    "PER-grom-reus",
+    "PERS-Z4-tharn-3-1",
+    "zelfde"
+   ],
+   [
+    "PER-tharn-oela",
+    "PERS-Z4-tharn-4-2",
+    "zelfde"
+   ],
+   [
+    "PER-myrr-ondal",
+    "PERS-Z4-myrrhen-4-1",
+    "zelfde"
+   ],
+   [
+    "PER-ves-ithrel",
+    "PERS-Z4-veslethi-3-1",
+    "zelfde"
+   ],
+   [
+    "PER-tobin",
+    "PERS-Z4-oevrin-7-1",
+    "zelfde"
+   ],
+   [
+    "PER-ondessa",
+    "PERS-Z4-saelmor-7-2",
+    "zelfde"
+   ],
+   [
+    "PER-liora-Z6",
+    "PER-liora-profiel",
+    "zelfde"
+   ],
+   [
+    "PER-vonk-orrim",
+    "PERS-Z4-orrim-2-1",
+    "zelfde"
+   ],
+   [
+    "PER-brand-vathren",
+    "PERS-Z4-vathren-3-1",
+    "zelfde"
+   ],
+   [
+    "PER-aelthir-sorn",
+    "PERS-Z4-aelthir-2-2",
+    "zelfde"
+   ],
+   [
+    "PER-karruk-gath",
+    "PERS-Z4-karruk-5-1",
+    "zelfde"
+   ],
+   [
+    "PER-karruk-yssa",
+    "PERS-Z4-karruk-6-1",
+    "zelfde"
+   ],
+   [
+    "PER-dhurn-borga",
+    "PERS-Z4-dhurn-5-1",
+    "zelfde"
+   ],
+   [
+    "PER-dhurn-tavik",
+    "PERS-Z4-dhurn-6-1",
+    "zelfde"
+   ],
+   [
+    "PER-saelmor-wenna",
+    "PERS-Z4-saelmor-6-1",
+    "zelfde"
+   ],
+   [
+    "PER-saelmor-orla",
+    "PERS-Z4-saelmor-5-2",
+    "zelfde"
+   ],
+   [
+    "PER-grauwen-mott",
+    "PERS-Z4-grauwen-5-1",
+    "zelfde"
+   ],
+   [
+    "PER-grauwen-vell",
+    "PERS-Z4-grauwen-3-1",
+    "zelfde"
+   ],
+   [
+    "PER-ishvar-tamar",
+    "PERS-Z4-ishvar-4-1",
+    "zelfde"
+   ],
+   [
+    "PER-ishvar-nadir",
+    "PERS-Z4-ishvar-5-1",
+    "zelfde"
+   ],
+   [
+    "PER-vathren-ruy",
+    "PERS-Z4-vathren-5-1",
+    "zelfde"
+   ],
+   [
+    "PER-vathren-orl",
+    "PERS-Z4-vathren-6-1",
+    "zelfde"
+   ],
+   [
+    "PER-kluwer-zzi",
+    "PERS-Z4-kluwer-4-2",
+    "zelfde"
+   ],
+   [
+    "PER-myrrhen-lys",
+    "PERS-Z4-myrrhen-4-2",
+    "zelfde"
+   ],
+   [
+    "PER-myrrhen-dov",
+    "PERS-Z4-myrrhen-5-2",
+    "zelfde"
+   ],
+   [
+    "PER-oevrin-glu",
+    "PERS-Z4-oevrin-4-1",
+    "zelfde"
+   ],
+   [
+    "PER-oevrin-vaa",
+    "PERS-Z4-oevrin-4-2",
+    "zelfde"
+   ],
+   [
+    "PER-tharn-bor",
+    "PERS-Z4-tharn-5-1",
+    "zelfde"
+   ],
+   [
+    "PER-tharn-lunn",
+    "PERS-Z4-tharn-5-2",
+    "zelfde"
+   ],
+   [
+    "PER-orrim-sha",
+    "PERS-Z4-orrim-4-1",
+    "zelfde"
+   ],
+   [
+    "PER-orrim-dru",
+    "PERS-Z4-orrim-3-1",
+    "zelfde"
+   ],
+   [
+    "PER-skerra-ka",
+    "PERS-Z4-skerra-5-1",
+    "zelfde"
+   ],
+   [
+    "PER-skerra-hilt",
+    "PERS-Z4-skerra-4-1",
+    "zelfde"
+   ],
+   [
+    "PER-veslethi-ommo",
+    "PERS-Z4-veslethi-1-1",
+    "zelfde"
+   ],
+   [
+    "PER-veslethi-nara",
+    "PERS-Z4-veslethi-2-1",
+    "zelfde"
+   ],
+   [
+    "PER-f1-nerys",
+    "PERS-Z4-saelmor-1-2",
+    "zelfde"
+   ],
+   [
+    "PER-f1-brom",
+    "PERS-Z4-dhurn-1-2",
+    "zelfde"
+   ],
+   [
+    "PER-f1-sabe",
+    "PERS-Z4-saelmor-2-1",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-dhurn-1-1",
+    "PER-f1-dhurn-garra",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-aelthir-0-2",
+    "PER-f1-aelthir-thalen",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-karruk-1-1",
+    "PER-f1-karruk-hroth",
+    "zelfde"
+   ],
+   [
+    "PER-f1-sael-ondre",
+    "PERS-Z4-saelmor-1-1",
+    "zelfde"
+   ],
+   [
+    "PER-f2-mabbe",
+    "PERS-Z4-myrrhen-2-1",
+    "zelfde"
+   ],
+   [
+    "PER-f2-qesh-amira",
+    "PERS-Z4-ishvar-1-1",
+    "zelfde"
+   ],
+   [
+    "PER-f2-skerra-hilt",
+    "PERS-Z4-skerra-2-1",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-dhurn-2-1",
+    "PER-f2-dhurn-brakka",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-aelthir-2-1",
+    "PER-f2-aelthir-sorrel",
+    "zelfde"
+   ],
+   [
+    "PER-f2-karruk-gorn",
+    "PERS-Z4-karruk-2-1",
+    "zelfde"
+   ],
+   [
+    "PER-f2-oevrin-glo",
+    "PERS-Z4-oevrin-2-1",
+    "zelfde"
+   ],
+   [
+    "PER-f2-vathren-oll",
+    "PERS-Z4-vathren-2-1",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-saelmor-3-2",
+    "PER-f3-mirre-kapitein",
+    "zelfde"
+   ],
+   [
+    "PER-f3-vathren-ysbe",
+    "PERS-Z4-vathren-3-2",
+    "zelfde"
+   ],
+   [
+    "PER-f3-sael-wanna",
+    "PERS-Z4-saelmor-3-1",
+    "zelfde"
+   ],
+   [
+    "PER-f4-ylva",
+    "PERS-Z4-saelmor-4-2",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-saelmor-4-1",
+    "PER-f4-eiland-moeder-runa",
+    "zelfde"
+   ],
+   [
+    "PER-f4-tharn-bula",
+    "PERS-Z4-tharn-4-1",
+    "zelfde"
+   ],
+   [
+    "PER-f4-grauwe-heske",
+    "PERS-Z4-grauwen-4-2",
+    "zelfde"
+   ],
+   [
+    "PER-f4-vathren-kerl",
+    "PERS-Z4-vathren-4-1",
+    "zelfde"
+   ],
+   [
+    "PER-f4-kluwer-zzak",
+    "PERS-Z4-kluwer-4-1",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-ishvar-5-2",
+    "PER-f5-karavaan-hadra",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-saelmor-5-1",
+    "PER-f5-mirre-kapitein-zee",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-aelthir-5-1",
+    "PER-f5-aelthir-saela",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-dhurn-5-2",
+    "PER-f5-dhurn-steenkoper",
+    "zelfde"
+   ],
+   [
+    "PER-f5-ves-lethi-ona",
+    "PERS-Z4-veslethi-5-1",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-ishvar-6-1",
+    "PER-f6-qesh-khaled-ar",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-veslethi-6-1",
+    "PER-f6-ves-anath-ontruimster",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-tharn-6-1",
+    "PER-f6-reuzenstier-hork",
+    "zelfde"
+   ],
+   [
+    "PER-f6-oevrin-pluu",
+    "PERS-Z4-oevrin-6-1",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-myrrhen-6-1",
+    "PER-f6-myrrhen-ondalis",
+    "zelfde"
+   ],
+   [
+    "PER-f6-grauwe-tamme",
+    "PERS-Z4-grauwen-6-1",
+    "zelfde"
+   ],
+   [
+    "PER-f7-zegelwachter",
+    "PERS-Z4-vathren-7-1",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-tharn-7-2",
+    "PER-f7-tharn-oela-zoon",
+    "zelfde"
+   ],
+   [
+    "PER-f7-skerra-kaw",
+    "PERS-Z4-skerra-7-1",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-veslethi-7-1",
+    "PER-f7-veslethi-nara-oud",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-aelthir-1-2",
+    "PER-aelthir-held-ileth-jong",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-karruk-7-1",
+    "PER-karruk-held-asha",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-karruk-6-2",
+    "PER-karruk-schurk-durgh",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-dhurn-7-1",
+    "PER-dhurn-held-brakka",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-dhurn-6-2",
+    "PER-dhurn-schurk-orvald",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-saelmor-7-1",
+    "PER-saelmor-held-tamsin",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-saelmor-6-2",
+    "PER-saelmor-schurk-vessa",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-grauwen-5-2",
+    "PER-grauwen-held-moeder-wrak",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-grauwen-6-2",
+    "PER-grauwen-schurk-kael",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-ishvar-7-1",
+    "PER-ishvar-held-nouri",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-ishvar-6-2",
+    "PER-ishvar-schurk-ammar",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-vathren-5-2",
+    "PER-vathren-held-sorrel",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-vathren-6-2",
+    "PER-vathren-schurk-dax",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-kluwer-5-1",
+    "PER-kluwer-held-zirr",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-kluwer-6-1",
+    "PER-kluwer-schurk-broedmoeder",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-myrrhen-5-1",
+    "PER-myrrhen-held-veen",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-myrrhen-6-2",
+    "PER-myrrhen-schurk-rhoss",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-oevrin-5-1",
+    "PER-oevrin-held-glu-moeder",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-oevrin-6-2",
+    "PER-oevrin-schurk-slik",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-tharn-7-1",
+    "PER-tharn-held-orund",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-tharn-6-2",
+    "PER-tharn-schurk-gaarde",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-orrim-1-1",
+    "PER-orrim-held-sliep",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-orrim-6-1",
+    "PER-orrim-schurk-graal",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-skerra-6-1",
+    "PER-skerra-held-kira",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-veslethi-4-1",
+    "PER-veslethi-held-lan",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-veslethi-5-2",
+    "PER-veslethi-schurk-mirror",
+    "zelfde"
+   ],
+   [
+    "PER-iru-sporenwacht",
+    "PERS-Z4-myrrhen-7-1",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-orrim-6-2",
+    "PER-orvaine-glasblazer",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-orrim-7-1",
+    "PER-tobrecht-splinterwacht",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-dhurn-0-1",
+    "PER-v4-corran-velt",
+    "zelfde"
+   ],
+   [
+    "PER-v4-thalen-orr",
+    "PERS-Z4-vathren-0-1",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-aelthir-4-1",
+    "PER-aelthir-schurk-ileth-V5",
+    "zelfde"
+   ],
+   [
+    "PER-nood-grauwen-V5",
+    "PERS-Z4-grauwen-4-1",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-skerra-2-2",
+    "PER-skerra-schurk-skell",
+    "zelfde"
+   ],
+   [
+    "PER-grauwen-oud-Z6",
+    "PERS-Z4-grauwen-2-1",
+    "zelfde"
+   ],
+   [
+    "PERS-Z4-veslethi-6-2",
+    "PER-barsten-veslethi-Z6",
+    "zelfde"
+   ]
+  ]
+ },
+ "3_jaren": {
+  "gedateerd": 728,
+  "bron": {
+   "fase in tekst": 66,
+   "heden aangenomen (geen aanwijzing)": 188,
+   "heden genoemd/Liora-lijn": 22,
+   "jaartal in tekst": 16,
+   "mediaan verwezen rijen": 394,
+   "volksbeschrijving: stand 801": 42
+  },
+  "aannames_verbeterd": 3,
+  "aannames_blijven": 278,
+  "voorbeelden": []
+ },
+ "4_verwijzingen": {
+  "gerepareerd": 73,
+  "verwijderd_uit_veld": 0,
+  "toelichting": "alleen verwijst_naar; hangt_samen_met is vrije tekst en bleef ongemoeid. Van de 274 \"kapotte\" verwijzingen wezen er 201 naar bestaande wrijving- en vraagcodes (geldig, andere tabel); 73 echt kapot (18 codes)",
+  "opvolger_toegevoegd": 1233
+ },
+ "7_coherentie_ferro": [],
+ "7_coherentie": {
+  "toekomstjaren": 3,
+  "dood_later_actief": 13,
+  "negatieve_leeftijd": 0,
+  "twee_plekken": 3,
+  "strijdig_patroon": 0,
+  "andere_verhoudingen": 3,
+  "jaar_kolom_na_801": 6
+ },
+ "5_status": {
+  "vastgesteld": 1507,
+  "per_categorie": {
+   "Kinks en situaties": 272,
+   "Personage": 265,
+   "Verhaal": 100,
+   "Geschiedenis": 75,
+   "Lichaam en vervorming": 69,
+   "Volken seksualiteit": 69,
+   "Voorkeuren": 57,
+   "Besluit": 50,
+   "Cultuur": 45,
+   "Land": 44,
+   "Religie": 44,
+   "Ritueel systeem": 43,
+   "Voorwerp": 41,
+   "Zintuigen": 34,
+   "Wetten": 22,
+   "Rituele handelingen": 21,
+   "Economie": 20,
+   "Esthetiek": 19,
+   "Planten en dieren": 19,
+   "Extreme rituelen": 18,
+   "Horror": 18,
+   "Rituelen": 18,
+   "Comedy": 14,
+   "Romantiek": 14,
+   "Actie": 13,
+   "Bestuur": 13,
+   "Oorlog": 13,
+   "Held": 12,
+   "Volken": 10,
+   "Magie": 9,
+   "Tijdperk": 8,
+   "Techniek": 7,
+   "Gezondheid": 6,
+   "Mode en kleding": 5,
+   "Dagelijks leven": 4,
+   "Volken uiterlijk": 4,
+   "Genre": 3,
+   "Regio": 3,
+   "Macht": 2,
+   "Sfeer en uiterlijk": 2,
+   "Oorsprong": 1,
+   "Riten": 1
+  },
+  "blijft_voorlopig": {
+   "niet gedekt door een besluit van Rogier (eigen voorstel ingenieur)": 3120,
+   "seksuele inhoud zonder 18+-label": 213,
+   "jaar alleen aangenomen": 187,
+   "botst (zie WRIJ-Z13)": 16,
+   "verwijst naar vervangen rij zonder opvolger": 410,
+   "aanname of nog uit te voeren aanpassing": 293
+  }
+ },
+ "6_bijgeschreven": {
+  "totaal": 420,
+  "per_categorie": {
+   "Afstamming": 1,
+   "Besluit": 143,
+   "Bestuur": 7,
+   "Comedy": 13,
+   "Cultuur": 1,
+   "Dagelijks leven": 2,
+   "Economie": 1,
+   "Extreme rituelen": 1,
+   "Genre": 3,
+   "Geschiedenis": 61,
+   "Held": 17,
+   "Kinks en situaties": 1,
+   "Lichaam en vervorming": 10,
+   "Macht": 6,
+   "Magie": 2,
+   "Oorlog": 44,
+   "Oorsprong": 1,
+   "Personage": 22,
+   "Personen": 1,
+   "Regio": 29,
+   "Religie": 5,
+   "Techniek": 5,
+   "Tijdperk": 7,
+   "Verhaal": 9,
+   "Volken": 14,
+   "Voorkeuren": 12,
+   "Voorwerp": 1,
+   "Wetten": 1
+  },
+  "kandidaten": 3621,
+  "eerste": []
+ },
+ "8_kwaliteit": {
+  "voor": {
+   "status": {
+    "voorlopig, vervangen": 347,
+    "vastgesteld": 241,
+    "voorlopig": 5746,
+    "vervallen": 45
+   },
+   "actief": 5987,
+   "haak": 2693,
+   "zintuig": 1134,
+   "crosslinks": 5987,
+   "functie": 5987,
+   "alle4": 966,
+   "wrijving_open": 3,
+   "canon": 6379
+  },
+  "na": {
+   "status": {
+    "voorlopig, vervangen": 347,
+    "vastgesteld": 1750,
+    "voorlopig": 4239,
+    "vervallen": 45
+   },
+   "actief": 5989,
+   "haak": 2979,
+   "zintuig": 1254,
+   "crosslinks": 5989,
+   "functie": 5989,
+   "alle4": 1113,
+   "wrijving_open": 4,
+   "canon": 6381
+  },
+  "niet_gecontroleerd": [
+   "inhoudelijke juistheid van vrije tekst: controles zijn patronen en verwijzingen, geen lezing van alle 6.379 rijen",
+   "dood-maar-actief alleen via expliciete verwijzingen en de aangenomen levensduur van 70; vermeldingen bij naam zonder code niet",
+   "personen op twee plekken alleen voor de handgemaakte tijdlijnen met maand",
+   "leeftijden in vrije tekst die niet in \"leeftijd N\" of \"N jaar oud\" staan",
+   "of de bijgeschreven zintuig/haak/functie-zinnen literair goed zijn (ze zijn per rij uit bestaande canon samengesteld, niet met de hand geschreven)",
+   "de 9 + Z12 verhaal-aanpassingen: niet uitgevoerd, verhalen niet herschreven"
+  ],
+  "top10": [
+   "de rijen die voorlopig bleven omdat geen besluit ze dekt, per thema aan Rogier voorleggen (grootste groep)",
+   "WRIJ-Z13 open wrijvingen handmatig nalopen (dood-later-actief, verhoudingen, toekomstjaren)",
+   "de aangenomen geboortejaren (Z11) vervangen door echte leeftijden bij de 50 belangrijkste personages",
+   "de verhaal-aanpassingen (Z11/Z12) in verhaal 1 en 2 doorvoeren als Rogier dat zegt",
+   "de automatisch bijgeschreven verdiepingen bij de top-100 met de hand herschrijven",
+   "maanden toevoegen aan tijdlijnen van hoofdpersonen zodat twee-plekken controleerbaar wordt",
+   "één naamregister (personen, huizen, plekken) met unieke spelling, ook voor diakrieten (Karrûk/karruk, Saelmor/Sael-mor)",
+   "levensduur per volk vastleggen en de automatische overlijdensjaren daarop herberekenen",
+   "verhalenlijst (20-30) maken en na elk verhaal terugschrijven",
+   "een vaste controle-script draaien na elke ronde (dit script als basis)"
+  ]
+ },
+ "nieuw": 0,
+ "integriteit": "ok",
+ "wrijvingen": [
+  [
+   "WRIJ-Z13-1",
+   "Dubbele namen en identiteiten",
+   "opgelost"
+  ],
+  [
+   "WRIJ-Z13-2",
+   "Datering skeletten en volkrijen",
+   "opgelost"
+  ],
+  [
+   "WRIJ-Z13-3",
+   "Jaartallen na het heden (801)",
+   "open"
+  ],
+  [
+   "WRIJ-Z13-4",
+   "Dode personages later actief",
+   "open"
+  ],
+  [
+   "WRIJ-Z13-5",
+   "Negatieve of onmogelijke leeftijden",
+   "opgelost"
+  ],
+  [
+   "WRIJ-Z13-6",
+   "Personen op twee plekken tegelijk",
+   "open"
+  ],
+  [
+   "WRIJ-Z13-7",
+   "Strijdig met de besluiten (patrooncontrole)",
+   "opgelost"
+  ],
+  [
+   "WRIJ-Z13-8",
+   "Andere verhoudingsgetallen (1 op N)",
+   "open"
+  ]
+ ]
+}

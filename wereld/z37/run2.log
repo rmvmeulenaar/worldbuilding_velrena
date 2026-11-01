@@ -1,0 +1,6 @@
+[stap 0] toets exit 0: Regels gedraaid: 34 (fout: 26, signaal: 8) | Nieuwe fouten: 0 {} | Bekend (geregistreerd met wrijving): 87 {'harde_grens': 2, 'kern_leunt_op_kleur': 85}
+[D1 machine] toets exit 0: Regels gedraaid: 34 (fout: 26, signaal: 8) | Nieuwe fouten: 0 {} | Bekend (geregistreerd met wrijving): 87 {'harde_grens': 2, 'kern_leunt_op_kleur': 85}
+[D2 omzetten] toets exit 0: Regels gedraaid: 34 (fout: 26, signaal: 8) | Nieuwe fouten: 0 {} | Bekend (geregistreerd met wrijving): 87 {'harde_grens': 2, 'kern_leunt_op_kleur': 85}
+[B personages (na D2)] toets exit 0: Regels gedraaid: 34 (fout: 26, signaal: 8) | Nieuwe fouten: 0 {} | Bekend (geregistreerd met wrijving): 87 {'harde_grens': 2, 'kern_leunt_op_kleur': 85}
+[D3 rijkdom] toets exit 0: Regels gedraaid: 34 (fout: 26, signaal: 8) | Nieuwe fouten: 0 {} | Bekend (geregistreerd met wrijving): 87 {'harde_grens': 2, 'kern_leunt_op_kleur': 85}
+{'d1_sw=0.6': 25, 'd1_zonder premisse': 64, 'd1_sw=0.0': 107, 'd1_met premisse': 68, 'd1_ideeen_uitval: geen fase': 1103, 'd1_ideeen_onbekend: te weinig assen': 714, 'd1_ideeen_uitval: verbinding': 41, 'd1_ideeen_uitval: afstand': 27, 'd1_ideeen_ent-klaar': 18, 'd2_kern_overgeslagen': 2, 'profiel_voor': 669, 'profiel_na': 669, 'domein': 0, 'competentievraag': 0, 'competentie_antwoord': 0, 'beroep': 0, 'gave': 0}

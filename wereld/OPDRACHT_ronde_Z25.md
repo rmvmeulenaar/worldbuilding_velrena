@@ -1,0 +1,2 @@
+# Ronde Z25: laatste feedback (Rogier: leg alles vast, 2026-10-31)
+Leg vast als vastgesteld (BESLUIT-Z25-n): oortje 'two years' (h26); lander één omgebouwd met stoelrekken (h19), eerste golf 46/40 in vrachtframe; mess = lange hal (één zaal). [Z25]-notities bij ROMAN-Z16-h10, h15, h19, h26. WRIJ-Z25-1..2 opgelost. Nooit verwijderen. Daarna genereer.py, export.py, importeer.py roundtrip, grep, canon_lees.db.

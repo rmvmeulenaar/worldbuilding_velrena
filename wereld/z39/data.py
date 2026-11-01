@@ -1,0 +1,8 @@
+R='Rogier'
+BESLUIT=[
+('BESLUIT-Z39-1','Werkwijze','WRIJ-Z29-1 blijft open (romanwerk)',"Na Z38 houdt Rogier de kruipgang in h27 (WRIJ-Z29-1) bewust open: dat is werk voor de roman, niet voor de database.",'BESLUIT-Z38-4'),
+('BESLUIT-Z39-2','Magie','"1 op 20" bij Sael-Mor blijft staan',"Rogier over WRIJ-Z38-1: de rijen die '1 op 20' als geslachtsverhouding gebruiken, blijven zoals ze zijn. Wie ze ooit herschrijft, schrijft 'geslachtsverhouding 1 op 20', zodat niemand het met de gave-kans uit GAVE-VERHOUDINGEN-Z38 verwart.",'GAVE-VERHOUDINGEN-Z38;UIT-VOLK-saelmor;GESCH-sael-mor-1'),
+('BESLUIT-Z39-3','Werkwijze','Bronnen voor de laatste twee Kern-rijen',"Twee Kern-rijen hadden na Z38 geen bron (WRIJ-Z38-2). Rogier wijst ze aan: EROS-GRENZEN-Z7 volgt uit BESLUIT-Z30-4, want het is dezelfde harde regel; GES-officiele-versie komt van de auteur zelf, uit de wereldbijbel.",'EROS-GRENZEN-Z7;GES-officiele-versie;BESLUIT-Z30-4'),
+('BESLUIT-Z39-4','Werkwijze','De oude ideeënbank is inspiratie, geen mijn',"Enten uit de oude ideeënbank leverde na drie rondes nog steeds maar 18 ent-klare ideeën op. Rogier stopt daarmee: de bank blijft staan om in te bladeren, maar nieuwe verhalen komen uit de generator, met premisses die met de hand geschreven zijn (R-premisse_vorm blijft gelden).",'BESLUIT-Z38-12;BESLUIT-Z38-13'),
+('BESLUIT-Z39-5','Werkwijze','Simulatie is verkenning, geen canon',"Aanscherping bij Z39, door Rogier doorgegeven: fase 4 is een proefomgeving. De simulatie mag geen nieuwe canonfeiten nodig hebben om te werken; elke rij en gebeurtenis draagt zijn epistemiek (feit, aanname of simulatie met run-id en seed), en wat een run oplevert wordt pas canon als Rogier dat besluit.",'FASE-noodtoestand-Z38;BESLUIT-Z39-4'),
+]

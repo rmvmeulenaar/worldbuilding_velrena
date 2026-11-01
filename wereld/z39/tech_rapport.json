@@ -1,0 +1,38 @@
+{
+ "register": {
+  "ontstaat_%": 99.9,
+  "mediaan": 12,
+  "canon": 22,
+  "binnen_10j_%": 36.8
+ },
+ "bloedmerk": {
+  "ontstaat_%": 99.9,
+  "mediaan": 21,
+  "canon": 28,
+  "binnen_10j_%": 38.4
+ },
+ "jongenshof": {
+  "ontstaat_%": 98.7,
+  "mediaan": 32,
+  "canon": 50,
+  "binnen_10j_%": 19.6
+ },
+ "rooster": {
+  "ontstaat_%": 89.4,
+  "mediaan": 46.0,
+  "canon": 78,
+  "binnen_10j_%": 11.7
+ },
+ "makerskennis_vergeten_in_alle_regios_%": 89.2,
+ "beroep BEROEP-Z37-kraaientolk": "niet in fase 4: de techniek van zijn wereldregel bestaat nog niet",
+ "beroep BEROEP-Z37-zegger": "niet in fase 4: de techniek van zijn wereldregel bestaat nog niet",
+ "beroep BEROEP-Z37-schraper": "niet in fase 4: de techniek van zijn wereldregel bestaat nog niet",
+ "beroep BEROEP-Z37-wiegwacht": "niet in fase 4: de techniek van zijn wereldregel bestaat nog niet",
+ "beroep BEROEP-Z37-jongensverstopster": "97.9% runs; tweeling in 95.4%",
+ "beroep BEROEP-Z37-naamgever": "99.9% runs; tweeling in 99.6%",
+ "beroep BEROEP-Z37-aardster": "niet in fase 4: de techniek van zijn wereldregel bestaat nog niet",
+ "beroep BEROEP-Z37-zaadkeurder": "niet in fase 4: de techniek van zijn wereldregel bestaat nog niet",
+ "beroep BEROEP-Z37-lekzoeker": "niet in fase 4: de techniek van zijn wereldregel bestaat nog niet",
+ "beroep BEROEP-Z37-nee-getuige": "99.9% runs; tweeling in 99.8%",
+ "beroep BEROEP-Z37-wortelluisteraar": "niet in fase 4: de techniek van zijn wereldregel bestaat nog niet"
+}

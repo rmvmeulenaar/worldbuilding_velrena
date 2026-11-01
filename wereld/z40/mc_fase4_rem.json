@@ -1,0 +1,133 @@
+{
+ "validatie": {
+  "GEB-deelwet-40": {
+   "ontstaat": 100.0,
+   "binnen_10j": 47.1,
+   "mediaan": 29.0,
+   "canon": "40"
+  },
+  "GEB-r10-eerste-register": {
+   "ontstaat": 100.0,
+   "binnen_10j": 97.0,
+   "mediaan": 20.0,
+   "canon": "22"
+  },
+  "GEB-r10-jongenshof": {
+   "ontstaat": 99.7,
+   "binnen_10j": 30.8,
+   "mediaan": 37,
+   "canon": "50"
+  },
+  "GEB-r10-rotatie": {
+   "ontstaat": 100.0,
+   "binnen_10j": 15.9,
+   "mediaan": 55.0,
+   "canon": "78"
+  },
+  "GEB-r10-orde-naam": {
+   "ontstaat": 99.5,
+   "binnen_10j": 7.0,
+   "mediaan": 62,
+   "canon": "90"
+  },
+  "GEB-r10-eilanden-weigering": {
+   "ontstaat": 100.0,
+   "binnen_10j": 12.1,
+   "mediaan": 86.0,
+   "canon": "100-130"
+  },
+  "GEB-r10-mannenroof": {
+   "ontstaat": 100.0,
+   "binnen_10j": 100.0,
+   "mediaan": 15.0,
+   "canon": "18-35"
+  },
+  "GEB-r10-neven-ramp": {
+   "ontstaat": 19.5,
+   "binnen_10j": 19.5,
+   "mediaan": 36,
+   "canon": "33-38"
+  },
+  "GEB-r10-deelwet-weerstand": {
+   "ontstaat": 99.4,
+   "binnen_10j": 36.9,
+   "mediaan": 29.0,
+   "canon": "41-60"
+  },
+  "GEB-r10-uitputting": {
+   "ontstaat": 61.8,
+   "binnen_10j": 3.4,
+   "mediaan": 122.0,
+   "canon": "60-80"
+  },
+  "raad 7-5 (jaar -3)": {
+   "ontstaat": 24.7,
+   "verdeling": {
+    "12-0": 1,
+    "11-1": 11,
+    "10-2": 46,
+    "9-3": 146,
+    "8-4": 246,
+    "7-5": 247,
+    "6-6": 175,
+    "5-7": 91,
+    "4-8": 30,
+    "3-9": 7
+   }
+  }
+ },
+ "nevenramp_groenmuil_%": 19.5,
+ "gevoeligheid_opleiding": {
+  "15": {
+   "rotatie_mediaan": 52.0,
+   "orde_mediaan": 60.0,
+   "nevenramp_%": 8.0,
+   "geldig": 200
+  },
+  "25": {
+   "rotatie_mediaan": 68.5,
+   "orde_mediaan": 71,
+   "nevenramp_%": 29.5,
+   "geldig": 200
+  },
+  "30": {
+   "rotatie_mediaan": 80,
+   "orde_mediaan": 82,
+   "nevenramp_%": 41.0,
+   "geldig": 200
+  }
+ },
+ "top": [
+  [
+   "Z40-F4R-0931",
+   400931,
+   1,
+   0.582
+  ],
+  [
+   "Z40-F4R-0168",
+   400168,
+   1,
+   0.5807
+  ],
+  [
+   "Z40-F4R-0180",
+   400180,
+   1,
+   0.542
+  ],
+  [
+   "Z40-F4R-0208",
+   400208,
+   1,
+   0.5246
+  ],
+  [
+   "Z40-F4R-0310",
+   400310,
+   1,
+   0.3923
+  ]
+ ],
+ "weggegooid": {}
+}

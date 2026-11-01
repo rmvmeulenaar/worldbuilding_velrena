@@ -1,0 +1,25 @@
+LICH-zaadslijtage|lelies en ijzer|zuchten|gouden aderen|goudglans|vroege grijze haren worden gezien als zegen|Een jonge vrouw verft haar haar grijs
+LICH-vonkkoorts|onweer|ijlen|hete huid; afstoting 6|rood|vonkkoorts laat vonken uit de vingers springen|Een vonk steekt een bed aan
+LICH-zegelgeboorte|ozon en melk|een baby die niet huilt|koude huid; afstoting 7|bleek|zegelgeboorten gloeien zwak|De Orde haalt ze weg
+LICH-dochters|lelies en rot|ademhaling|koude huid; afstoting 8|zegellicht|de Dochters ademen in het ritme van het Zegel|Eén ademt anders
+LICH-ves-anath-gruwel|as en glas|wind|glas in huid; afstoting 9|grijs|in Ves-Anath groeit glas door vlees|Een Glasbroeder zingt
+LICH-bloedgave-prijs|koper|kloppende aderen|zwarte aderen; afstoting 7|olielamp|bloedgave laat de aderen zwart opzwellen|De aderen kloppen na
+LICH-liora|hooi|een hart dat te langzaam slaat|warme huid in koud licht|zegellicht|Liora blijft warm in zegellicht|De reliek slaat sneller
+LICH-mutatie-ritueel|wierook en bloed|gezang|een mes; afstoting 6|kaarsen|riten veranderen het lichaam blijvend|Een rite mislukt
+LICH-bloedspiegel|ijzer|stilte|koude ogen; afstoting 6|rood glanzend oog|bloedspiegel-ogen weerkaatsen kaarslicht rood|Een spiegelend oog toont een ander
+LICH-merkweefsel|kalk en bloed|kloppen|levend weefsel onder de huid; afstoting 7|bleek|het merk beweegt bij liegen|Liora's merk beweegt niet
+LICH-rotmerk|rot|zacht gesis|zwerende huid; afstoting 8|groenig|het rotmerk ruikt|Een gemerkte wordt door honden gevonden
+LICH-steenbloed|steen|kraken|koude huid|dof|steenbloed maakt je zwaar|Een drager zinkt in de rivier
+LICH-moederblindheid|wierook|stilte|koude ogen|wit|Moeders worden blind voor zonen|Een Moeder ziet toch
+LICH-goudmasker|saffraan|tinkelend goud|koud metaal op huid|zon op goud|het gouden masker groeit vast|Een vrouw scheurt het af; afstoting 7
+LICH-melkkraag|melk|zuigen|zware borst|stallicht|de melkkraag houdt de melk|Een kraag breekt
+LICH-pestlitteken|appels|hoest|littekens|bleek|pestlittekens glanzen bij regen|Een litteken is vals
+LICH-stille-handen|lavendel en brand|stilte|verbrande handen|kaars|de Stillen verbranden hun handen om niet te schrijven|Eén schrijft met haar mond
+LICH-orric-steen|ozon|een hartslag|kristal; afstoting 7|gloed|Orric's lichaam werd steen|De steen slaat nog
+LICH-r17-rotklier|rot en zoet|borrelen|zwellende klier; afstoting 9|groen|de rotklier lekt een zoete geur die lokt|Een vlieg kiest
+LICH-r17-zwamlijk|zwam|kraken|zachte schimmel; afstoting 9|zwamlicht|zwamlijken lopen nog|Een zwamlijk herkent je
+LICH-r17-vleesbrug|vlees|kreunen|warm vlees onder voeten; afstoting 10|bleek|de vleesbrug van Ves-Anath ademt|Een gezicht in de brug knippert
+LICH-r17-gezichtsrot|rot|gefluister|zachte huid; afstoting 8|kaars|gezichtsrot begint bij de lippen|Een vrouw kust en weet het
+DEG-askoude|as en kou|schuifelen|koude huid; afstoting 7|grijs|askouden zoeken warmte|Een askoude volgt Liora
+DEG-stalreus|hooi en zweet|brullen|enorme handen; afstoting 6|stallicht|stalreuzen zijn gewone mannen die te veel kregen|Een stalreus noemt zijn naam
+DEG-glasbroeders|as en glas|zingen|glas in vlees; afstoting 8|grijs licht door glas|Glasbroeders zien door hun eigen huid|Een Glasbroeder kent Liora's bloed

@@ -1,0 +1,6 @@
+# Toets /workspace/wereld/canon.db
+Regels gedraaid: 34 (fout: 26, signaal: 8)
+Nieuwe fouten: 0 {}
+Bekend (geregistreerd met wrijving): 87 {'harde_grens': 2, 'kern_leunt_op_kleur': 85}
+Signalen (laten de ronde niet falen): 613 {'structuur_leunt_op_kleur': 510, 'zaadje_open': 28, 'boog_onbekend': 12, 'herhaling_categorie': 14, 'dode_rijkdom': 49}
+

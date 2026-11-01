@@ -1,0 +1,51 @@
+{
+ "toegevoegd": 0,
+ "vervangen": [
+  "HAAK-Z15-4",
+  "ROMANCE-Z15-ysa-beat-01",
+  "ROMANCE-Z15-ysa-beat-02",
+  "ROMANCE-Z15-ysa-beat-03",
+  "ROMANCE-Z15-ysa-beat-04",
+  "ROMANCE-Z15-ysa-beat-05",
+  "ROMANCE-Z15-ysa-beat-06",
+  "ROMANCE-Z15-ysa-beat-07",
+  "ROMANCE-Z15-ysa-beat-08",
+  "ROMANCE-Z15-ysa-beat-09",
+  "ROMANCE-Z15-ysa-beat-10",
+  "ROMANCE-Z15-ysa-beat-11",
+  "ROMANCE-Z15-ysa-beat-12",
+  "ROMANCE-Z15-ysa-beat-13",
+  "ROMANCE-Z15-ysa-beat-14",
+  "ROMANCE-Z15-ysa-beat-15",
+  "ROMANCE-Z15-ysa-beat-16",
+  "ROMANCE-Z15-ysa-beat-17",
+  "ROMANCE-Z15-ysa-beat-18",
+  "ROMANCE-Z15-ysa-beat-19",
+  "ROMANCE-Z15-ysa-beat-20",
+  "ROMANCE-Z15-ysa-beat-21",
+  "ROMANCE-Z15-ysa-beat-22",
+  "ROMANCE-Z15-ysa-beatplan",
+  "YSA-Z15-6"
+ ],
+ "aangevuld": [
+  "BESLUIT-Z15-3",
+  "BESLUIT-Z15-4",
+  "BESLUIT-Z15-5",
+  "BESLUIT-Z15-6",
+  "ORIGIN-WAAROM-6",
+  "PER-v4-corran-velt",
+  "PER-v4-hesta-kael",
+  "TOESTAND-Z15-PER-v4-thalen-orr-6",
+  "VERHAALTIJD-Z15-ysa",
+  "YSA-Z15-12"
+ ],
+ "beats": 23,
+ "verwijzing_bijgewerkt": [],
+ "status": {
+  "vastgesteld": 1761,
+  "vervallen": 45,
+  "voorlopig": 4288,
+  "voorlopig, vervangen": 375
+ },
+ "totaal": 6469
+}

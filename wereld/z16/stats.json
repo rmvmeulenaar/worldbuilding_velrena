@@ -1,0 +1,25 @@
+{
+ "toegevoegd": 0,
+ "vervangen": [
+  "TOESTAND-Z11-PER-v4-ysa-maren-3",
+  "TOESTAND-Z15-PER-v4-thalen-orr-3"
+ ],
+ "aangevuld": [
+  "ORIGIN-WAAROM-11",
+  "PER-v4-corran-velt",
+  "PER-v4-hesta-kael",
+  "PER-v4-thalen-orr",
+  "PER-v4-ysa-maren",
+  "YSA-Z15-11",
+  "YSA-Z15-4",
+  "YSA-Z15-9"
+ ],
+ "hoofdstukken": 33,
+ "status": {
+  "vastgesteld": 1771,
+  "vervallen": 45,
+  "voorlopig": 4343,
+  "voorlopig, vervangen": 377
+ },
+ "totaal": 6536
+}

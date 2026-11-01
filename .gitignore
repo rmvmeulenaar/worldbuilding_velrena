@@ -1,0 +1,13 @@
+# afgeleid: wordt gebouwd uit wereld/canon_tekst/
+*.db
+*.db-journal
+wereld/WERELD_VELMARA.md
+wereld/WERELD_VELMARA.md.check
+wereld/canon.md
+wereld/ideeenbank.md
+wereld/bijbel/
+wereld/scene_pakket.md
+wereld/kaart/graaf.json
+wereld/kaart/knopenkaart.html
+__pycache__/
+*_backup_*.py

@@ -1,0 +1,6471 @@
+# VERHAAL_PROFIEL
+<!-- REC verhaal_profiel -->
+### VP-0-ad504c10 · 18-25|m
+- **code:** VP-0-ad504c10
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** betaler
+- **genre:** thriller
+- **schaal:** dorp
+- **volk:** karrûk
+- **vorm:** toespraak
+- **afloop:** faalt
+- **hoofdpersoon:** 18-25|m
+- **leeftijd:** 22
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 2
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-karruk-kampvechters
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.446
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.65
+- **kosten:** 0.161
+- **genrematch:** 
+- **marginale_winst:** 0.5902
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-karruk-0-2
+- **premisse:** De wachtmeester van de landers zag Hesta de stemkist openen vóór de stemming en wil dat iemand het ooit hoort. Alleen weet de machine niets meer van die dagen, en wie een ander begin vertelt dan het kamp kent, wint daar geen wedstrijd meer.
+- **premisse_codes:** PERS-Z4-karruk-0-2;ERF-voortijd;SEKS-VOLK-karruk-kampvechters
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-f88409d2 · 26-40|wisselend
+- **code:** VP-0-f88409d2
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** betaler
+- **genre:** romance
+- **schaal:** huis
+- **volk:** oevrin
+- **vorm:** kamerspel
+- **afloop:** keert om
+- **hoofdpersoon:** 26-40|wisselend
+- **leeftijd:** 32
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 1
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-oevrin-poelzangers
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.446
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.7
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.5614
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-oevrin-0-1
+- **premisse:** Een bio-ingenieur die een kweeksoort voor het slik aanpaste, ziet één tank leeglopen in zee en wil weten wat eruit zwemt. Melden kan niet bij een schip dat zijn eigen muiterij vergat; gaat ze zoeken, dan ruilt ze haar plaats aan boord voor de poel.
+- **premisse_codes:** PERS-Z4-oevrin-0-1;ERF-voortijd;SEKS-VOLK-oevrin-poelzangers
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-2d1ddb54 · 41-60|wisselend
+- **code:** VP-0-2d1ddb54
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** betaler
+- **genre:** intrige
+- **schaal:** rijk
+- **volk:** tharn
+- **vorm:** ballade
+- **afloop:** komt uit
+- **hoofdpersoon:** 41-60|wisselend
+- **leeftijd:** 50
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 5
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-tharn-rouwparen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.446
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.55
+- **kosten:** 0.214
+- **genrematch:** 
+- **marginale_winst:** 0.5413
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-tharn-0-2-Z5b
+- **premisse:** De eerste Tharn-reuzin leert haar werkers een lied dat de dagen telt, en ze wil weten waarheen het telt: naar de noodstand die in de Wieg op een hand ligt te wachten. Zegt ze het hardop, dan zingen haar mensen voortaan rouw in plaats van werk.
+- **premisse_codes:** PERS-Z4-tharn-0-2-Z5b;ERF-voortijd;SEKS-VOLK-tharn-rouwparen
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-5d3f8e08 · 26-40|m
+- **code:** VP-0-5d3f8e08
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** vervalser
+- **genre:** romance
+- **schaal:** dorp
+- **volk:** tharn
+- **vorm:** register als verteller
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 26-40|m
+- **leeftijd:** 32
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 5
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 2
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-tharn-rouwparen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.446
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.7
+- **kosten:** 0.214
+- **genrematch:** 
+- **marginale_winst:** 0.5924
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-tharn-0-1-Z5b
+- **premisse:** Een Tharn-zwaarwerker wil blijven bouwen, maar zijn lijf groeit door terwijl het daar nooit voor bedoeld was, en de enige die het kon verklaren is een vrouw van wie alleen gebeden over zijn. Hij verzwijgt het en draagt het zoals Tharn alles dragen: langzaam, met rouw om de kinderen die niet komen.
+- **premisse_codes:** PERS-Z4-tharn-0-1-Z5b;ERF-voortijd;SEKS-VOLK-tharn-rouwparen
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-ea49fdfa · 26-40|wisselend
+- **code:** VP-0-ea49fdfa
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** vervalser
+- **genre:** thriller
+- **schaal:** stad
+- **volk:** vathren
+- **vorm:** ballade
+- **afloop:** keert om
+- **hoofdpersoon:** 26-40|wisselend
+- **leeftijd:** 32
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-vathren-brandzoekers
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.423
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.65
+- **kosten:** 0.179
+- **genrematch:** 
+- **marginale_winst:** 0.5529
+- **gevoeligheid:** 
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-vathren-0-2-Z38
+- **premisse:** 
+- **premisse_codes:** geen premisse: drager zonder Wil in personage_profiel
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** VP-0-ae964893
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-2da65ff3 · 18-25|wisselend
+- **code:** VP-0-2da65ff3
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** vervalser
+- **genre:** romance
+- **schaal:** huis
+- **volk:** aelthir
+- **vorm:** getuigenverslag
+- **afloop:** werkt
+- **hoofdpersoon:** 18-25|wisselend
+- **leeftijd:** 22
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 1
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-aelthir-koelen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.464
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.7
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.5382
+- **gevoeligheid:** 
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-aelthir-0-1-Z5b-Z38
+- **premisse:** 
+- **premisse_codes:** geen premisse: drager zonder Wil in personage_profiel
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** VP-0-1d6af0ca
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-a89a4114 · 18-25|groep
+- **code:** VP-0-a89a4114
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** ontdekker
+- **genre:** romance
+- **schaal:** stad
+- **volk:** sael-mor
+- **vorm:** kasboek
+- **afloop:** komt uit
+- **hoofdpersoon:** 18-25|groep
+- **leeftijd:** 22
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-saelmor-havenmannen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.446
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.7
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.59
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-saelmor-0-1
+- **premisse:** De landerpilote zette haar lander op zee neer en wil hem daar laten liggen, stroom en al. Boven haar wacht een noodstand op wie hem aanzet, en haar lander is een sleutel; houdt ze hem verborgen, dan krijgt haar bemanning het land nooit meer terug.
+- **premisse_codes:** PERS-Z4-saelmor-0-1;ERF-voortijd;SEKS-VOLK-saelmor-havenmannen
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-485f6af1 · 18-25|m
+- **code:** VP-0-485f6af1
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** ontdekker
+- **genre:** thriller
+- **schaal:** huis
+- **volk:** kluwer
+- **vorm:** ballade
+- **afloop:** faalt
+- **hoofdpersoon:** 18-25|m
+- **leeftijd:** 22
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 0
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-kluwer-darrenhoeders
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.423
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.65
+- **kosten:** 0.143
+- **genrematch:** 
+- **marginale_winst:** 0.5565
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-kluwer-0-1
+- **premisse:** Een korf die de Makers kweekten voor zijde en medicijn, stelt als eerste woord een vraag en wil antwoord van mensen die hun eigen opstand vergeten zijn. Het antwoord zal hem leren dat zijn darren bestaan voor één dodelijke paartijd.
+- **premisse_codes:** PERS-Z4-kluwer-0-1;ERF-voortijd;SEKS-VOLK-kluwer-darrenhoeders
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-2e0ce3bb · 41-60|wisselend
+- **code:** VP-0-2e0ce3bb
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** ontdekker
+- **genre:** intrige
+- **schaal:** dorp
+- **volk:** aelthir
+- **vorm:** lijst die krimpt
+- **afloop:** keert om
+- **hoofdpersoon:** 41-60|wisselend
+- **leeftijd:** 50
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-aelthir-koelen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.464
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.55
+- **kosten:** 0.321
+- **genrematch:** 
+- **marginale_winst:** 0.536
+- **gevoeligheid:** 
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-aelthir-0-1-Z5b-Z38
+- **premisse:** 
+- **premisse_codes:** geen premisse: drager zonder Wil in personage_profiel
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** VP-0-1d6af0ca
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-9ba83aaf · 26-40|wisselend
+- **code:** VP-0-9ba83aaf
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** profiteur
+- **genre:** romance
+- **schaal:** stad
+- **volk:** ves-lethi
+- **vorm:** ballade
+- **afloop:** keert om
+- **hoofdpersoon:** 26-40|wisselend
+- **leeftijd:** 32
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 1
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 2
+- **g_tragiek:** 1
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-ves-lethi-spiegels
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.423
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.7
+- **kosten:** 0.179
+- **genrematch:** 
+- **marginale_winst:** 0.589
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-veslethi-0-2-Z5b
+- **premisse:** De eerste vormwisselaar ontsnapt uit het lab met één gezicht, dat van een Maker, en wil het houden. Maar de vrouw van dat gezicht bestaat nog alleen in gebeden, en wie haar gezicht draagt, wordt een gebed dat te koop is.
+- **premisse_codes:** PERS-Z4-veslethi-0-2-Z5b;ERF-voortijd;SEKS-VOLK-ves-lethi-spiegels
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-a4968fae · 41-60|wisselend
+- **code:** VP-0-a4968fae
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** profiteur
+- **genre:** thriller
+- **schaal:** huis
+- **volk:** karrûk
+- **vorm:** register als verteller
+- **afloop:** faalt
+- **hoofdpersoon:** 41-60|wisselend
+- **leeftijd:** 50
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-karruk-verliezers
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.446
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.65
+- **kosten:** 0.19
+- **genrematch:** 
+- **marginale_winst:** 0.5587
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-karruk-0-1
+- **premisse:** Een ingenieur uit Corrans ploeg leidt de verbannen bewakers de steppe op en wil dat het ene wapen van het schip nooit gevonden wordt. In de Wieg wacht een noodstand die zo'n wapen weer nodig kan maken; ze kan het niemand toevertrouwen, zelfs de mannen niet die in het kamp voor haar verliezen.
+- **premisse_codes:** PERS-Z4-karruk-0-1;ERF-voortijd;SEKS-VOLK-karruk-verliezers
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-65aa2126 · 26-40|m
+- **code:** VP-0-65aa2126
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** profiteur
+- **genre:** intrige
+- **schaal:** dorp
+- **volk:** ishvar
+- **vorm:** zelfportret
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-40|m
+- **leeftijd:** 32
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 2
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-ishvar-drieen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.446
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.55
+- **kosten:** 0.268
+- **genrematch:** 
+- **marginale_winst:** 0.5359
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-ishvar-0-1
+- **premisse:** Een scheepsarts weigert zijn groep in de Wiegkasten te leggen en bewaart het kristal uit de kast die hij openbrak; zijn nakomelingen mogen nooit aangesloten worden. Zolang de noodstand slaapt is hij alleen een dwarsligger, en wie hem volgt, raakt het erfrecht kwijt.
+- **premisse_codes:** PERS-Z4-ishvar-0-1;ERF-voortijd;SEKS-VOLK-ishvar-drieen
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-63bb912c · 18-25|groep
+- **code:** VP-0-63bb912c
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** toeschouwer
+- **genre:** romance
+- **schaal:** huis
+- **volk:** dhurn
+- **vorm:** ballade
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 18-25|groep
+- **leeftijd:** 22
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 1
+- **g_horror:** 1
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-dhurn-seizoenparen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.446
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.7
+- **kosten:** 0.143
+- **genrematch:** 
+- **marginale_winst:** 0.5995
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-dhurn-0-2-Z38
+- **premisse:** Corrans zuster wil het tweede genenboek dat ze achterhield veilig in de kluis houden, ook nu de noodstand in de Wieg ontwaakt voor wie hem zoekt. Daarvoor trouwt ze een mijnseizoen lang wie het gilde haar toewijst, en zwijgt ze tegen hem.
+- **premisse_codes:** PERS-Z4-dhurn-0-2-Z38;ERF-voortijd;SEKS-VOLK-dhurn-seizoenparen
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-ae964893 · 18-25|m
+- **code:** VP-0-ae964893
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** toeschouwer
+- **genre:** thriller
+- **schaal:** stad
+- **volk:** vathren
+- **vorm:** toespraak
+- **afloop:** faalt
+- **hoofdpersoon:** 18-25|m
+- **leeftijd:** 22
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 2
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-vathren-zieners
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.446
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.65
+- **kosten:** 0.179
+- **genrematch:** 
+- **marginale_winst:** 0.5598
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-vathren-0-2-Z38
+- **premisse:** De sensortechnica van de Wieg probeerde haar sensor op zichzelf uit en wil weten wat hij in haar meet. De machine die het kan uitlezen is vergeten waarom ze gebouwd werd; zoekt ze verder, dan wordt haar eigen lichaam het eerste instrument van de raad.
+- **premisse_codes:** PERS-Z4-vathren-0-2-Z38;ERF-voortijd;SEKS-VOLK-vathren-zieners
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-b6ed516f · 26-40|wisselend
+- **code:** VP-0-b6ed516f
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** toeschouwer
+- **genre:** actie
+- **schaal:** dorp
+- **volk:** aelthir
+- **vorm:** getuigenverslag
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-40|wisselend
+- **leeftijd:** 32
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-aelthir-snellen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.446
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.55
+- **kosten:** 0.268
+- **genrematch:** 
+- **marginale_winst:** 0.5359
+- **gevoeligheid:** 
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-aelthir-0-1-Z5b-Z38
+- **premisse:** 
+- **premisse_codes:** geen premisse: drager zonder Wil in personage_profiel
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** VP-0-1d6af0ca
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-1d6af0ca · 26-40|wisselend
+- **code:** VP-0-1d6af0ca
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** liefde tussen posities
+- **genre:** romance
+- **schaal:** dorp
+- **volk:** aelthir
+- **vorm:** ballade
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 26-40|wisselend
+- **leeftijd:** 32
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-aelthir-snellen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.446
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.7
+- **kosten:** 0.161
+- **genrematch:** 
+- **marginale_winst:** 0.5977
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-aelthir-0-1-Z5b-Z38
+- **premisse:** Een Aelthir-kolonist wil lang leven zonder de stemming te vergeten, terwijl de machine van het schip haar eigen Muiterij al kwijt is. Wie onthoudt, doet het alleen: elke nacht met een snelle mens kost hem weer een stukje van wat hij bewaart.
+- **premisse_codes:** PERS-Z4-aelthir-0-1-Z5b-Z38;ERF-voortijd;SEKS-VOLK-aelthir-snellen
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-b8bf3ce9 · 26-40|groep
+- **code:** VP-0-b8bf3ce9
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** liefde tussen posities
+- **genre:** thriller
+- **schaal:** wereld
+- **volk:** dhurn
+- **vorm:** toespraak
+- **afloop:** keert om
+- **hoofdpersoon:** 26-40|groep
+- **leeftijd:** 32
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 5
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-dhurn-mijnbroeders-Z6
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.464
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.65
+- **kosten:** 0.25
+- **genrematch:** 
+- **marginale_winst:** 0.5581
+- **gevoeligheid:** 
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-dhurn-0-2-Z38
+- **premisse:** 
+- **premisse_codes:** geen premisse: drager zonder Wil in personage_profiel
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** VP-0-63bb912c
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-7f3db3eb · 61+|m
+- **code:** VP-0-7f3db3eb
+- **run:** Z36-02
+- **fase:** 0 Voortijd
+- **positie:** liefde tussen posities
+- **genre:** romance
+- **schaal:** huis
+- **volk:** sael-mor
+- **vorm:** kasboek
+- **afloop:** keert om
+- **hoofdpersoon:** 61+|m
+- **leeftijd:** 67
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 2
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-saelmor-havenmannen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.446
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.7
+- **kosten:** 0.19
+- **genrematch:** 
+- **marginale_winst:** 0.5376
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-saelmor-0-2-Z5b
+- **premisse:** De navigator van de Sael-mor telt hardop sterren en ziet er één bewegen op de kaart die hij meenam; hij wil weten wat daar vaart. Het schip dat het hem kan vertellen weet zijn eigen Muiterij niet meer, en wie aan land blijft vragen, wordt een gedeelde havenman zonder zeggenschap.
+- **premisse_codes:** PERS-Z4-saelmor-0-2-Z5b;ERF-voortijd;SEKS-VOLK-saelmor-havenmannen
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-1-0f4d87b2 · 41-60|wisselend
+- **code:** VP-1-0f4d87b2
+- **run:** Z36-02
+- **fase:** 1 Overvloed
+- **positie:** vervalser
+- **genre:** romance
+- **schaal:** huis
+- **volk:** kluwer
+- **vorm:** dagboek
+- **afloop:** komt uit
+- **hoofdpersoon:** 41-60|wisselend
+- **leeftijd:** 50
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-overvloed
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-kluwer-stillen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.39
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.4982
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-korra
+- **premisse:** Korra Muilkoningin ruilt was voor land om haar korf buiten bereik van de mensen te houden. Maar mensen erven nu langs de vader en de Zusterhuizen schrijven elke geboorte op, dus het eerste ei met een mensenkind erin staat in een register voor het uitkomt.
+- **premisse_codes:** PER-korra;ERF-overvloed;SEKS-VOLK-kluwer-stillen
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-1-bfc5da6f · 18-25|groep
+- **code:** VP-1-bfc5da6f
+- **run:** Z36-02
+- **fase:** 1 Overvloed
+- **positie:** vervalser
+- **genre:** thriller
+- **schaal:** stad
+- **volk:** vathren
+- **vorm:** ballade
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 18-25|groep
+- **leeftijd:** 22
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 0
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-overvloed
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-vathren-brandzoekers
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.39
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.179
+- **genrematch:** 
+- **marginale_winst:** 0.468
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-vathren-1-1-Z5b
+- **premisse:** Een vroege voelster hoort in -480 het hart van de Sterrensteen terwijl iedereen nog doof is, en verstaat één woord dat ze kwijt wil aan wie het begrijpt. De Zusterhuizen noteren ook wie vreemd geboren wordt, en Morvane-ir haalt zijn brandzoekers uit precies dat soort lijnen.
+- **premisse_codes:** PERS-Z4-vathren-1-1-Z5b;ERF-overvloed;SEKS-VOLK-vathren-brandzoekers
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-1-752edcd6 · 41-60|m
+- **code:** VP-1-752edcd6
+- **run:** Z36-02
+- **fase:** 1 Overvloed
+- **positie:** vervalser
+- **genre:** romance
+- **schaal:** dorp
+- **volk:** karrûk
+- **vorm:** toespraak
+- **afloop:** keert om
+- **hoofdpersoon:** 41-60|m
+- **leeftijd:** 50
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-overvloed
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-karruk-bloedeed
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.423
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.161
+- **genrematch:** 
+- **marginale_winst:** 0.4586
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-karruk-1-2
+- **premisse:** Een Karrûk-vroedvrouw voert de bloedproef in en ziet het bloed van één clan gloeien; ze wil weten waarom voordat de andere clans het merken. Aan gene zijde van de bergen erft alles langs de vader en wordt een vrouw bezit; zwijgt ze, dan moet die clan het alleen uitzoeken.
+- **premisse_codes:** PERS-Z4-karruk-1-2;ERF-overvloed;SEKS-VOLK-karruk-bloedeed
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-1-a188205f · 61+|wisselend
+- **code:** VP-1-a188205f
+- **run:** Z36-02
+- **fase:** 1 Overvloed
+- **positie:** ontdekker
+- **genre:** romance
+- **schaal:** huis
+- **volk:** sael-mor
+- **vorm:** getuigenverslag
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 61+|wisselend
+- **leeftijd:** 67
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-overvloed
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-saelmor-korstbrekers
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.39
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.4982
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** 
+- **premisse:** geen premisse: geen drager (nieuw personage nodig)
+- **premisse_codes:** 
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-1-ce29ce3b · 41-60|v
+- **code:** VP-1-ce29ce3b
+- **run:** Z36-02
+- **fase:** 1 Overvloed
+- **positie:** ontdekker
+- **genre:** thriller
+- **schaal:** dorp
+- **volk:** kluwer
+- **vorm:** kasboek
+- **afloop:** keert om
+- **hoofdpersoon:** 41-60|v
+- **leeftijd:** 50
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-overvloed
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-kluwer-stillen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.39
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.214
+- **genrematch:** 
+- **marginale_winst:** 0.4645
+- **gevoeligheid:** 
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PER-korra
+- **premisse:** Korra Muilkoningin (Kluwer-Broedmoeder) wil de korf beschermen tegen mensen, maar Vaderlijk erfrecht en vrouwen als erfgoed staat in de weg, en het kan kosten wat Korra verbergt: dat de korf mensen-eieren draagt. [PER-korra;ERF-overvloed]
+- **premisse_codes:** PER-korra;ERF-overvloed
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** VP-1-0f4d87b2
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-1-c5a3a45f · 61+|m
+- **code:** VP-1-c5a3a45f
+- **run:** Z36-02
+- **fase:** 1 Overvloed
+- **positie:** ontdekker
+- **genre:** romance
+- **schaal:** stad
+- **volk:** ves-lethi
+- **vorm:** ballade
+- **afloop:** werkt
+- **hoofdpersoon:** 61+|m
+- **leeftijd:** 67
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-overvloed
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-ves-lethi-wisselaars
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.423
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.179
+- **genrematch:** 
+- **marginale_winst:** 0.4568
+- **gevoeligheid:** 
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-veslethi-1-2-Z5b-Z38
+- **premisse:** 
+- **premisse_codes:** geen premisse: drager zonder Wil in personage_profiel
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** VP-1-ba43dea5
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-1-7868405a · 26-40|wisselend
+- **code:** VP-1-7868405a
+- **run:** Z36-02
+- **fase:** 1 Overvloed
+- **positie:** profiteur
+- **genre:** romance
+- **schaal:** huis
+- **volk:** tharn
+- **vorm:** brieven
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 26-40|wisselend
+- **leeftijd:** 32
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 2
+- **g_tragiek:** 1
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-tharn-kleinmakers
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.423
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.7
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.5081
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-tharn-1-1
+- **premisse:** Gorrum van de Dijken wil zijn volk een plaats geven en bouwt dijken voor mensen die niet meer weten waarvoor reuzen ooit gemaakt zijn. Een plaats krijgen ze, maar aan de ketting, en sommige Tharn vinden dat juist fijn; Gorrum moet kiezen of hij hen tegenhoudt.
+- **premisse_codes:** PERS-Z4-tharn-1-1;ERF-voortijd;SEKS-VOLK-tharn-kleinmakers
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-1-a6af78d4 · 61+|v
+- **code:** VP-1-a6af78d4
+- **run:** Z36-02
+- **fase:** 1 Overvloed
+- **positie:** profiteur
+- **genre:** thriller
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** kasboek
+- **afloop:** keert om
+- **hoofdpersoon:** 61+|v
+- **leeftijd:** 67
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 1
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** RIT-zwijgende-rit
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.521
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.65
+- **kosten:** 0.214
+- **genrematch:** 
+- **marginale_winst:** 0.4752
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-selenne-oogst
+- **premisse:** Selenne de Oogstmoeder houdt het oude oogstfeest in leven, met gemaskerde dansen waar niemand een naam noemt. Zo'n feest is ook de beste vluchtweg voor koningsvrouwen, en een priesteres over wie later alleen gebeden overblijven, kan zich niet verweren als iemand onder een masker kijkt.
+- **premisse_codes:** PER-selenne-oogst;ERF-voortijd;RIT-zwijgende-rit
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-1-1a8b0e2c · 18-25|v
+- **code:** VP-1-1a8b0e2c
+- **run:** Z36-02
+- **fase:** 1 Overvloed
+- **positie:** profiteur
+- **genre:** mysterie
+- **schaal:** stad
+- **volk:** aelthir
+- **vorm:** ballade
+- **afloop:** komt uit
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 22
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 2
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 0
+- **g_intrige:** 3
+- **g_komedie:** 2
+- **g_tragiek:** 1
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-aelthir-rekenaars
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.423
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.55
+- **kosten:** 0.179
+- **genrematch:** 
+- **marginale_winst:** 0.4629
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-vaelorn
+- **premisse:** Vaelorn wil het Lange Geheugen bewaren en weigert daarvoor zelfs de Kroon. Het geheugen van de Makers heeft al een gat waar de Muiterij zat, en als zij dat gat vult, moet ze ook vertellen wat ze van een Zegel heeft gezien die nog moet komen.
+- **premisse_codes:** PER-vaelorn;ERF-voortijd;SEKS-VOLK-aelthir-rekenaars
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-1-b43d8de6 · 18-25|wisselend
+- **code:** VP-1-b43d8de6
+- **run:** Z36-02
+- **fase:** 1 Overvloed
+- **positie:** toeschouwer
+- **genre:** romance
+- **schaal:** huis
+- **volk:** sael-mor
+- **vorm:** register als verteller
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 18-25|wisselend
+- **leeftijd:** 22
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 1
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-overvloed
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-saelmor-scheepsvrouwen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.423
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.19
+- **genrematch:** 
+- **marginale_winst:** 0.5129
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** 
+- **premisse:** geen premisse: geen drager (nieuw personage nodig)
+- **premisse_codes:** 
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-1-ba43dea5 · 61+|wisselend
+- **code:** VP-1-ba43dea5
+- **run:** Z36-02
+- **fase:** 1 Overvloed
+- **positie:** toeschouwer
+- **genre:** thriller
+- **schaal:** wereld
+- **volk:** ves-lethi
+- **vorm:** ballade
+- **afloop:** keert om
+- **hoofdpersoon:** 61+|wisselend
+- **leeftijd:** 67
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 2
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-overvloed
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-ves-lethi-spiegels
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.39
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.25
+- **genrematch:** 
+- **marginale_winst:** 0.4609
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-veslethi-1-2-Z5b-Z38
+- **premisse:** Een geurloze Ves-Lethi-spion wil ongezien blijven aan het hof van de eerste koning. Daar gaat de troon voortaan van vader op zoon en schrijven de Zusters elke geboorte op; wil hij zelf koning worden, dan moet iemand een vader voor hem verzinnen, en die iemand weet dan wat hij is.
+- **premisse_codes:** PERS-Z4-veslethi-1-2-Z5b-Z38;ERF-overvloed;SEKS-VOLK-ves-lethi-spiegels
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-1-4e16e912 · 26-40|groep
+- **code:** VP-1-4e16e912
+- **run:** Z36-02
+- **fase:** 1 Overvloed
+- **positie:** toeschouwer
+- **genre:** romance
+- **schaal:** wereld
+- **volk:** mens
+- **vorm:** dagboek
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-40|groep
+- **leeftijd:** 32
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 1
+- **g_horror:** 1
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-overvloed
+- **zaadje_code:** 
+- **wereldregel_code:** RIT-zwijgende-rit
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.512
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.417
+- **genrematch:** 
+- **marginale_winst:** 0.4597
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f1-oda
+- **premisse:** Hoofdzuster Oda wil een kroon die zonder de Zusters niet kan, en de geboorteregisters zijn haar gereedschap: een zoon die er niet in staat, erft niets. Elke naam die ze schrapt, brengt haar dichter bij de ene die ze zelf ooit wegaf.
+- **premisse_codes:** PER-f1-oda;ERF-overvloed;RIT-zwijgende-rit
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-2-b0bcda31 · 41-60|m
+- **code:** VP-2-b0bcda31
+- **run:** Z36-02
+- **fase:** 2 Vonk
+- **positie:** profiteur
+- **genre:** thriller
+- **schaal:** huis
+- **volk:** aelthir
+- **vorm:** zelfportret
+- **afloop:** faalt
+- **hoofdpersoon:** 41-60|m
+- **leeftijd:** 50
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 0
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-overvloed
+- **zaadje_code:** ZAAD-VERHAAL-fase1-Z35-2
+- **wereldregel_code:** SEKS-VOLK-aelthir-snellen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-2;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.756
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.6005
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** 
+- **premisse:** geen premisse: geen drager (nieuw personage nodig)
+- **premisse_codes:** 
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-2-dc4482b4 · 41-60|groep
+- **code:** VP-2-dc4482b4
+- **run:** Z36-02
+- **fase:** 2 Vonk
+- **positie:** profiteur
+- **genre:** romance
+- **schaal:** wereld
+- **volk:** skerra
+- **vorm:** documenten
+- **afloop:** komt uit
+- **hoofdpersoon:** 41-60|groep
+- **leeftijd:** 50
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 2
+- **g_tragiek:** 1
+- **erf_code:** ERF-overvloed
+- **zaadje_code:** ZAAD-VERHAAL-fase1-Z35-1
+- **wereldregel_code:** SEKS-VOLK-skerra-grondlingen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-2;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.417
+- **genrematch:** 
+- **marginale_winst:** 0.5516
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-skerra-ilwa
+- **premisse:** Ilwa Klifvleugel wil vliegen zonder meester, maar haar vader is een vonkkoning, en waar de vader alles erft, erft hij ook zijn dochters. Verraadt ze hem, dan moet ze ook vertellen dat de Skerra in zijn kweekhallen begonnen.
+- **premisse_codes:** PER-skerra-ilwa;ERF-overvloed;SEKS-VOLK-skerra-grondlingen;ZAAD-VERHAAL-fase1-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-2-111d37fe · 18-25|wisselend
+- **code:** VP-2-111d37fe
+- **run:** Z36-02
+- **fase:** 2 Vonk
+- **positie:** profiteur
+- **genre:** romance
+- **schaal:** huis
+- **volk:** vathren
+- **vorm:** ballade
+- **afloop:** keert om
+- **hoofdpersoon:** 18-25|wisselend
+- **leeftijd:** 22
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 5
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 2
+- **g_tragiek:** 1
+- **erf_code:** ERF-overvloed
+- **zaadje_code:** ZAAD-VERHAAL-fase1-Z35-1
+- **wereldregel_code:** SEKS-VOLK-vathren-brandzoekers
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-2;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.143
+- **genrematch:** 
+- **marginale_winst:** 0.5504
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-vathren-2-2-Z5b
+- **premisse:** Een Vathren-waarzegster wil waarschuwen dat de Vonk wild is, en in het register van Nerys vindt ze de jongen uit de graanzolder wiens kleinzonen hem zullen dragen. Een vader geeft alles door aan zijn zoon, ook een vonk; noemt ze die naam, dan laat een vonkkoning haar tong snijden.
+- **premisse_codes:** PERS-Z4-vathren-2-2-Z5b;ERF-overvloed;SEKS-VOLK-vathren-brandzoekers;ZAAD-VERHAAL-fase1-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-2-6ded70ad · 41-60|m
+- **code:** VP-2-6ded70ad
+- **run:** Z36-02
+- **fase:** 2 Vonk
+- **positie:** toeschouwer
+- **genre:** romance
+- **schaal:** rijk
+- **volk:** dhurn
+- **vorm:** jij-vorm
+- **afloop:** faalt
+- **hoofdpersoon:** 41-60|m
+- **leeftijd:** 50
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 1
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-vonk
+- **zaadje_code:** ZAAD-VERHAAL-fase1-Z35-1
+- **wereldregel_code:** SEKS-VOLK-dhurn-mijnbroeders-Z6
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-2;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.756
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.357
+- **genrematch:** 
+- **marginale_winst:** 0.5675
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-dhurn-2-2
+- **premisse:** Dhuran Steenhand wil het Sterrensteengilde buiten de strijd houden, nu vonkzaad gewoon over de toonbank gaat. In zijn eigen schachten groeide de jongen uit Nerys' register op; komt dat uit, dan kiest de hele wereld een kant voor het gilde.
+- **premisse_codes:** PERS-Z4-dhurn-2-2;ERF-vonk;SEKS-VOLK-dhurn-mijnbroeders-Z6;ZAAD-VERHAAL-fase1-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-2-392cfa5d · 41-60|wisselend
+- **code:** VP-2-392cfa5d
+- **run:** Z36-02
+- **fase:** 2 Vonk
+- **positie:** toeschouwer
+- **genre:** thriller
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** rechtszaak
+- **afloop:** faalt
+- **hoofdpersoon:** 41-60|wisselend
+- **leeftijd:** 50
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 1
+- **g_horror:** 2
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-vonk
+- **zaadje_code:** ZAAD-VERHAAL-fase1-Z35-1
+- **wereldregel_code:** RIT-gunstnacht
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-2;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.836
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.321
+- **genrematch:** 
+- **marginale_winst:** 0.559
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-orric
+- **premisse:** Orric wil macht na een leven als knecht, en die komt nu zijn zaad een prijs heeft en elke vrouw die het proeft eraan vastzit. Wie te diep graaft, vindt de Sterrensteenput waar zijn vonk vandaan kwam; dan is hij geen wonder meer maar een mijnwerkerszoon uit Nerys' register.
+- **premisse_codes:** PER-orric;ERF-vonk;RIT-gunstnacht;ZAAD-VERHAAL-fase1-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-2-e8415a99 · 26-40|v
+- **code:** VP-2-e8415a99
+- **run:** Z36-02
+- **fase:** 2 Vonk
+- **positie:** toeschouwer
+- **genre:** survival
+- **schaal:** huis
+- **volk:** aelthir
+- **vorm:** getuigenverslag
+- **afloop:** keert om
+- **hoofdpersoon:** 26-40|v
+- **leeftijd:** 32
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 3
+- **g_suspense:** 4
+- **g_actie:** 3
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-vonk
+- **zaadje_code:** ZAAD-VERHAAL-fase1-Z35-2
+- **wereldregel_code:** SEKS-VOLK-aelthir-koelen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-2;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.756
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.4
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.5344
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-aelthir-2-1
+- **premisse:** Sorrel Lange Adem wil de vonk begrijpen en zoekt in kruiden naar wat vrouwen aan gaven-mannen bindt. Ze ontdekt dat het zaad zelf het bindmiddel is, en een Aelthir die zoiets opschrijft, wordt door de Orde als bode opgeëist en nooit meer met rust gelaten.
+- **premisse_codes:** PERS-Z4-aelthir-2-1;ERF-vonk;SEKS-VOLK-aelthir-koelen;ZAAD-VERHAAL-fase1-Z35-2
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-2-603f7d00 · 41-60|m
+- **code:** VP-2-603f7d00
+- **run:** Z36-02
+- **fase:** 2 Vonk
+- **positie:** liefde tussen posities
+- **genre:** thriller
+- **schaal:** huis
+- **volk:** ves-lethi
+- **vorm:** jij-vorm
+- **afloop:** faalt
+- **hoofdpersoon:** 41-60|m
+- **leeftijd:** 50
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-vonk
+- **zaadje_code:** ZAAD-VERHAAL-fase1-Z35-2
+- **wereldregel_code:** SEKS-VOLK-ves-lethi-wisselaars
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-2;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.5906
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-veslethi-2-2
+- **premisse:** Een Ves-Lethi die zich tot man wisselde, krijgt de Vonk en wil terug naar de vorm van daarvoor. In een land dat van elke vonkdrager ontlading eist, is een man die zijn vorm wil inruilen een prooi; zelfs op de zoutkust, waar ze Aukjes lied nog zingen, wordt op hem gejaagd.
+- **premisse_codes:** PERS-Z4-veslethi-2-2;ERF-vonk;SEKS-VOLK-ves-lethi-wisselaars;ZAAD-VERHAAL-fase1-Z35-2
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-2-b559c4cf · 61+|m
+- **code:** VP-2-b559c4cf
+- **run:** Z36-02
+- **fase:** 2 Vonk
+- **positie:** liefde tussen posities
+- **genre:** thriller
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** brieven
+- **afloop:** faalt
+- **hoofdpersoon:** 61+|m
+- **leeftijd:** 67
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 2
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-vonk
+- **zaadje_code:** ZAAD-VERHAAL-fase1-Z35-2
+- **wereldregel_code:** RIT-strijdontvangst
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-2;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.571
+- **verbondenheid:** 0.902
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.298
+- **genrematch:** 
+- **marginale_winst:** 0.5525
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-cael-vonk
+- **premisse:** Caelvonk wil een eeuwig rijk en beveelt met zijn stem wat mensen voelen, ook vlak voor de slag, als de krijgsvrouwen in rij staan. Een land dat verlangen tot wet maakt, kan zo'n stem niet missen, maar wie onder die wet gaat graven, vindt de zuster die hij als eerste bond.
+- **premisse_codes:** PER-cael-vonk;ERF-vonk;RIT-strijdontvangst;ZAAD-VERHAAL-fase1-Z35-2
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-2-6b9d257f · 26-40|wisselend
+- **code:** VP-2-6b9d257f
+- **run:** Z36-02
+- **fase:** 2 Vonk
+- **positie:** liefde tussen posities
+- **genre:** intrige
+- **schaal:** dorp
+- **volk:** karrûk
+- **vorm:** register als verteller
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-40|wisselend
+- **leeftijd:** 32
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-vonk
+- **zaadje_code:** ZAAD-VERHAAL-fase1-Z35-1
+- **wereldregel_code:** SEKS-VOLK-karruk-bloedeed
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-2;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.214
+- **genrematch:** 
+- **marginale_winst:** 0.5494
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-karruk-2-1
+- **premisse:** Gorn Hoornbreker wil een vonkdrager doden en verhuurt zich daarom aan een vonkkoning. Die koning betaalt met zaad, en wie dat aanneemt raakt verslaafd; Gorn moet zijn bloedeedgenoot laten kiezen tussen hem en de opdracht.
+- **premisse_codes:** PERS-Z4-karruk-2-1;ERF-vonk;SEKS-VOLK-karruk-bloedeed;ZAAD-VERHAAL-fase1-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-3-bc8f89a7 · 26-40|m
+- **code:** VP-3-bc8f89a7
+- **run:** Z36-02
+- **fase:** 3 Brand
+- **positie:** betaler
+- **genre:** actie
+- **schaal:** stad
+- **volk:** vathren
+- **vorm:** jij-vorm
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-40|m
+- **leeftijd:** 32
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-overvloed
+- **zaadje_code:** ZAAD-VERHAAL-fase2-Z35-1
+- **wereldregel_code:** SEKS-VOLK-vathren-hartparen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-3;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.756
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.298
+- **genrematch:** 
+- **marginale_winst:** 0.6545
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-vathren-3-2
+- **premisse:** Ysbe Steenhart wil horen wat de steen zegt en zit er dag en nacht naast. Sinds bezit via de vader gaat en de Zusterhuizen elke geboorte bijhouden, wil iedereen weten wat een voelster hoort; ze moet kiezen voor wie ze luistert, en elke keuze kost haar de raad.
+- **premisse_codes:** PERS-Z4-vathren-3-2;ERF-overvloed;SEKS-VOLK-vathren-hartparen;ZAAD-VERHAAL-fase2-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-3-d4ffd237 · 26-40|wisselend
+- **code:** VP-3-d4ffd237
+- **run:** Z36-02
+- **fase:** 3 Brand
+- **positie:** betaler
+- **genre:** romance
+- **schaal:** dorp
+- **volk:** aelthir
+- **vorm:** register als verteller
+- **afloop:** keert om
+- **hoofdpersoon:** 26-40|wisselend
+- **leeftijd:** 32
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 2
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-overvloed
+- **zaadje_code:** ZAAD-VERHAAL-fase2-Z35-1
+- **wereldregel_code:** SEKS-VOLK-aelthir-geheugenruilers
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-3;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.214
+- **genrematch:** 
+- **marginale_winst:** 0.6469
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-aelthir-3-2-Z5b-Z38
+- **premisse:** Een Aelthir-woudwachter ziet haar woud branden en kiest de kant van de Orde om de daders te laten boeten. Die daders bezitten hun grond langs vaderszijde, met papieren van de Zusterhuizen; wraak kan alleen via die papieren, en ze betaalt ervoor met herinneringen tot er van het woud niets in haar over is.
+- **premisse_codes:** PERS-Z4-aelthir-3-2-Z5b-Z38;ERF-overvloed;SEKS-VOLK-aelthir-geheugenruilers;ZAAD-VERHAAL-fase2-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-3-54d9f2b6 · 41-60|wisselend
+- **code:** VP-3-54d9f2b6
+- **run:** Z36-02
+- **fase:** 3 Brand
+- **positie:** betaler
+- **genre:** thriller
+- **schaal:** wereld
+- **volk:** ishvar
+- **vorm:** getuigenverslag
+- **afloop:** faalt
+- **hoofdpersoon:** 41-60|wisselend
+- **leeftijd:** 50
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 2
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** ERF-overvloed
+- **zaadje_code:** ZAAD-VERHAAL-fase2-Z35-1
+- **wereldregel_code:** SEKS-VOLK-ishvar-stilte
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-3;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.417
+- **genrematch:** 
+- **marginale_winst:** 0.6191
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-ishvar-3-2-Z5b-Z38
+- **premisse:** Een Ishvar-putwachteres verbergt vluchtende mannen in de diepe putten en wil ze daar houden tot de Brand voorbij is. Een van hen is een vonkkoning in vermomming, en zo'n koning krijgt zijn land alleen terug als hij levend boven komt; haar putten worden zijn slagveld.
+- **premisse_codes:** PERS-Z4-ishvar-3-2-Z5b-Z38;ERF-overvloed;SEKS-VOLK-ishvar-stilte;ZAAD-VERHAAL-fase2-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-3-813bd79d · 18-25|groep
+- **code:** VP-3-813bd79d
+- **run:** Z36-02
+- **fase:** 3 Brand
+- **positie:** ontdekker
+- **genre:** romance
+- **schaal:** stad
+- **volk:** ves-lethi
+- **vorm:** ballade
+- **afloop:** keert om
+- **hoofdpersoon:** 18-25|groep
+- **leeftijd:** 22
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-brand
+- **zaadje_code:** ZAAD-VERHAAL-fase2-Z35-1
+- **wereldregel_code:** SEKS-VOLK-ves-lethi-wisselaars
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-3;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.179
+- **genrematch:** 
+- **marginale_winst:** 0.6504
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-veslethi-3-2-Z5b-Z38
+- **premisse:** Een Ves-Lethi-spionne glipt het Offer binnen omdat ze het geheim ervan wil kennen. Ze leert het, en ontdekt dat de Zusters het zelf niet helemaal kennen; wie dat rondvertelt, maakt de verliezers van de stemming sterker dan ooit, dus zegt ze het tegen niemand.
+- **premisse_codes:** PERS-Z4-veslethi-3-2-Z5b-Z38;ERF-brand;SEKS-VOLK-ves-lethi-wisselaars;ZAAD-VERHAAL-fase2-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-3-6f0967ed · 18-25|wisselend
+- **code:** VP-3-6f0967ed
+- **run:** Z36-02
+- **fase:** 3 Brand
+- **positie:** ontdekker
+- **genre:** thriller
+- **schaal:** dorp
+- **volk:** vathren
+- **vorm:** register als verteller
+- **afloop:** komt uit
+- **hoofdpersoon:** 18-25|wisselend
+- **leeftijd:** 22
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 5
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-brand
+- **zaadje_code:** ZAAD-VERHAAL-fase2-Z35-1
+- **wereldregel_code:** SEKS-VOLK-vathren-gloedlikkers
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-3;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.667
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.214
+- **genrematch:** 
+- **marginale_winst:** 0.6226
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-vathren-3-1
+- **premisse:** Ysbrand Eerstvoeler voelt de Zegel al voor hij gelegd is en wil het Offer tegenhouden. De Zusters weten zelf niet precies wat ze leggen, en de stemming was zo krap dat één voeler die getuigt de verliezers een wapen geeft; hij moet kiezen tussen het Offer en een burgeroorlog in de Burcht.
+- **premisse_codes:** PERS-Z4-vathren-3-1;ERF-brand;SEKS-VOLK-vathren-gloedlikkers;ZAAD-VERHAAL-fase2-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-3-9f008480 · 41-60|v
+- **code:** VP-3-9f008480
+- **run:** Z36-02
+- **fase:** 3 Brand
+- **positie:** ontdekker
+- **genre:** actie
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** realtime
+- **afloop:** keert om
+- **hoofdpersoon:** 41-60|v
+- **leeftijd:** 50
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 2
+- **g_horror:** 0
+- **g_suspense:** 5
+- **g_actie:** 5
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-brand
+- **zaadje_code:** ZAAD-VERHAAL-fase2-Z35-1
+- **wereldregel_code:** RIT-maanzalving
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-3;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.798
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.286
+- **genrematch:** 
+- **marginale_winst:** 0.6111
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-gerran
+- **premisse:** Gerran de smid verstopt zich voor ronselaars en smeedt intussen wapens voor de Zusters, want hij wil zijn drie dochters redden. Die Zusters zijn onderling verdeeld, en als een van de vijf tegenstemmers zijn smidse vindt, komen zijn dochters op de verkeerde lijst.
+- **premisse_codes:** PER-gerran;ERF-brand;RIT-maanzalving;ZAAD-VERHAAL-fase2-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-3-1adcca11 · 18-25|m
+- **code:** VP-3-1adcca11
+- **run:** Z36-02
+- **fase:** 3 Brand
+- **positie:** toeschouwer
+- **genre:** thriller
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** kasboek
+- **afloop:** keert om
+- **hoofdpersoon:** 18-25|m
+- **leeftijd:** 22
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 2
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-brand
+- **zaadje_code:** ZAAD-VERHAAL-fase2-Z35-1
+- **wereldregel_code:** RIT-maanzalving
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-3;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.798
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.6595
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f3-dochter-elin
+- **premisse:** Elin, de negenenveertigste Dochter, wil haar zus redden en biedt zich in haar plaats aan voor een Zegel waar ze zelf niet in gelooft. Het Offer kwam er met zeven tegen vijf; de vijf zoeken een reden, en een Dochter die niet gelooft is die reden.
+- **premisse_codes:** PER-f3-dochter-elin;ERF-brand;RIT-maanzalving;ZAAD-VERHAAL-fase2-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-3-d04ab764 · 26-40|wisselend
+- **code:** VP-3-d04ab764
+- **run:** Z36-02
+- **fase:** 3 Brand
+- **positie:** toeschouwer
+- **genre:** romance
+- **schaal:** dorp
+- **volk:** skerra
+- **vorm:** jij-vorm
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-40|wisselend
+- **leeftijd:** 32
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 1
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-brand
+- **zaadje_code:** ZAAD-VERHAAL-fase2-Z35-1
+- **wereldregel_code:** SEKS-VOLK-skerra-klifparen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-3;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.268
+- **genrematch:** 
+- **marginale_winst:** 0.6415
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-skerra-3-1-Z5b-Z38
+- **premisse:** Een Skerra-koerierster vliegt het nieuws van het Offer rond en wil de ware versie brengen, niet die van de Burcht. Die versie zegt dat de Zusters niet weten wat ze gelegd hebben, precies wat de verbitterde verliezers willen horen; haar veren zijn al geschroeid.
+- **premisse_codes:** PERS-Z4-skerra-3-1-Z5b-Z38;ERF-brand;SEKS-VOLK-skerra-klifparen;ZAAD-VERHAAL-fase2-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-3-14eaeff6 · 61+|wisselend
+- **code:** VP-3-14eaeff6
+- **run:** Z36-02
+- **fase:** 3 Brand
+- **positie:** toeschouwer
+- **genre:** actie
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** ballade
+- **afloop:** komt uit
+- **hoofdpersoon:** 61+|wisselend
+- **leeftijd:** 67
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 5
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-brand
+- **zaadje_code:** ZAAD-VERHAAL-fase2-Z35-1
+- **wereldregel_code:** RIT-ontzegging-binding
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-3;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.836
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.214
+- **genrematch:** 
+- **marginale_winst:** 0.6297
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-torvaal
+- **premisse:** Torvaal Asvorst wil alle vrouwen van Velmara en voert oorlog tot het eind, terwijl de Zusters een Zegel leggen die ze zelf maar half snappen. Dat zijn eigen land eronderuit glipt is zijn sterkste kaart en zijn zwakke plek: wie het weet, weet ook waar de laatste koning naartoe vlucht.
+- **premisse_codes:** PER-torvaal;ERF-brand;RIT-ontzegging-binding;ZAAD-VERHAAL-fase2-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-4534de18 · 61+|wisselend
+- **code:** VP-4-4534de18
+- **run:** Z36-02
+- **fase:** 4 Noodtoestand
+- **positie:** betaler
+- **genre:** romance
+- **schaal:** dorp
+- **volk:** aelthir
+- **vorm:** toespraak
+- **afloop:** komt uit
+- **hoofdpersoon:** 61+|wisselend
+- **leeftijd:** 67
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-brand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-aelthir-koelen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.756
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.161
+- **genrematch:** 
+- **marginale_winst:** 0.5871
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-aelthir-4-1-Z38
+- **premisse:** Oudste Ileth wil verborgen houden dat zij het geheim van de Zegel aan de Orde verkocht. Wat ze verkocht was maar een half antwoord, want de Zusters doorgronden de Zegel nog altijd niet; zolang ze vragen blijven stellen, moet Ileth blijven liegen.
+- **premisse_codes:** PERS-Z4-aelthir-4-1-Z38;ERF-brand;SEKS-VOLK-aelthir-koelen;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-0253f390 · 61+|v
+- **code:** VP-4-0253f390
+- **run:** Z36-02
+- **fase:** 4 Noodtoestand
+- **positie:** betaler
+- **genre:** actie
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** ballade
+- **afloop:** keert om
+- **hoofdpersoon:** 61+|v
+- **leeftijd:** 67
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-brand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** RIT-maanzalving
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.798
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.179
+- **genrematch:** 
+- **marginale_winst:** 0.5754
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-halvar
+- **premisse:** Halvar wil één vrouw liefhebben, maar onder een Zegel waarvan zelfs de Zusters niet weten hoe hij werkt, telt alleen zijn zaad. Elke keer dat hij weigert te dekken, komt de vraag naar zijn kind dichterbij.
+- **premisse_codes:** PER-halvar;ERF-brand;RIT-maanzalving;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-41d6e967 · 41-60|wisselend
+- **code:** VP-4-41d6e967
+- **run:** Z36-02
+- **fase:** 4 Noodtoestand
+- **positie:** betaler
+- **genre:** thriller
+- **schaal:** huis
+- **volk:** vathren
+- **vorm:** register als verteller
+- **afloop:** faalt
+- **hoofdpersoon:** 41-60|wisselend
+- **leeftijd:** 50
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 5
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** ERF-brand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-vathren-gezellen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.667
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.19
+- **genrematch:** 
+- **marginale_winst:** 0.55
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-vathren-4-2
+- **premisse:** De eerste geboren zegelvoelster wil weten waarom het koude ritme onder haar borstbeen elk jaar op dezelfde dag een slag overslaat. De Orde die haar opnam weet het zelf niet, en de verliezers van de oude stemming zouden haar graag horen; vraagt ze het hardop, dan is ze voortaan getuige in plaats van dochter van de Orde.
+- **premisse_codes:** PERS-Z4-vathren-4-2;ERF-brand;SEKS-VOLK-vathren-gezellen;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-f64f0bab · 61+|m
+- **code:** VP-4-f64f0bab
+- **run:** Z36-02
+- **fase:** 4 Noodtoestand
+- **positie:** ontdekker
+- **genre:** mysterie
+- **schaal:** stad
+- **volk:** aelthir
+- **vorm:** ballade
+- **afloop:** keert om
+- **hoofdpersoon:** 61+|m
+- **leeftijd:** 67
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 1
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 0
+- **g_intrige:** 3
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-aelthir-snellen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.179
+- **genrematch:** 
+- **marginale_winst:** 0.5815
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-aelthir-4-1-Z38
+- **premisse:** Ileth wil dat niemand ontdekt wat zij aan de Orde verkocht, en juist de Orde schrijft alles op: elke man, elke geboorte, elke uitzondering. Haar handel staat ergens in die boeken, en de snelle jonge Aelthir die alles opzoeken zijn haar grootste gevaar.
+- **premisse_codes:** PERS-Z4-aelthir-4-1-Z38;ERF-noodtoestand;SEKS-VOLK-aelthir-snellen;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-2b6a768d · 61+|v
+- **code:** VP-4-2b6a768d
+- **run:** Z36-02
+- **fase:** 4 Noodtoestand
+- **positie:** ontdekker
+- **genre:** thriller
+- **schaal:** huis
+- **volk:** tharn
+- **vorm:** rechtszaak
+- **afloop:** komt uit
+- **hoofdpersoon:** 61+|v
+- **leeftijd:** 67
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 0
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-tharn-rouwparen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.286
+- **genrematch:** 
+- **marginale_winst:** 0.5572
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** 
+- **premisse:** geen premisse: geen drager (nieuw personage nodig)
+- **premisse_codes:** 
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-bc0751b6 · 18-25|wisselend
+- **code:** VP-4-bc0751b6
+- **run:** Z36-02
+- **fase:** 4 Noodtoestand
+- **positie:** ontdekker
+- **genre:** romance
+- **schaal:** huis
+- **volk:** aelthir
+- **vorm:** brieven
+- **afloop:** faalt
+- **hoofdpersoon:** 18-25|wisselend
+- **leeftijd:** 22
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 1
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-aelthir-snellen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.5409
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-aelthir-4-2-Z5b
+- **premisse:** Een Aelthir-archivaris weigert mee te verkopen en bewaart een kopie van wat zijn volk wegdeed. De registers waarmee de Orde mannen verdeelt, rusten op wat in die kopie staat; laat hij haar zien, dan verbannen de oudsten hem.
+- **premisse_codes:** PERS-Z4-aelthir-4-2-Z5b;ERF-noodtoestand;SEKS-VOLK-aelthir-snellen;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-f123db38 · 26-40|wisselend
+- **code:** VP-4-f123db38
+- **run:** Z36-02
+- **fase:** 4 Noodtoestand
+- **positie:** profiteur
+- **genre:** thriller
+- **schaal:** wereld
+- **volk:** ishvar
+- **vorm:** toespraak
+- **afloop:** keert om
+- **hoofdpersoon:** 26-40|wisselend
+- **leeftijd:** 32
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 1
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-brand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-ishvar-tweegelofte
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.25
+- **genrematch:** 
+- **marginale_winst:** 0.5894
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-ishvar-4-2-Z38
+- **premisse:** Een Ishvar wiens kamp vol jongens is, wil die jongens in leven houden en fluistert zijn eden zoals altijd. De Zusters weten niet waarom de Zegel zijn volk overslaat, en wat ze niet begrijpen willen ze openmaken; de moordenares die komt, zoekt geen man maar een antwoord.
+- **premisse_codes:** PERS-Z4-ishvar-4-2-Z38;ERF-brand;SEKS-VOLK-ishvar-tweegelofte;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-5592de36 · 18-25|wisselend
+- **code:** VP-4-5592de36
+- **run:** Z36-02
+- **fase:** 4 Noodtoestand
+- **positie:** profiteur
+- **genre:** romance
+- **schaal:** rijk
+- **volk:** ves-lethi
+- **vorm:** dagboek
+- **afloop:** komt uit
+- **hoofdpersoon:** 18-25|wisselend
+- **leeftijd:** 22
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 2
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 2
+- **g_tragiek:** 1
+- **erf_code:** ERF-brand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-ves-lethi-wisselaars
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.357
+- **genrematch:** 
+- **marginale_winst:** 0.5576
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-veslethi-4-2-Z5b-Z38
+- **premisse:** Een Ves-Lethi wordt man om een dorp te redden, en blijkt vruchtbaar. Niemand in de Burcht weet wat de Zegel met zo'n man doet, en wat de Orde niet begrijpt, neemt ze mee om het te onderzoeken.
+- **premisse_codes:** PERS-Z4-veslethi-4-2-Z5b-Z38;ERF-brand;SEKS-VOLK-ves-lethi-wisselaars;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-b21c6d10 · 41-60|m
+- **code:** VP-4-b21c6d10
+- **run:** Z36-02
+- **fase:** 4 Noodtoestand
+- **positie:** profiteur
+- **genre:** romance
+- **schaal:** huis
+- **volk:** karrûk
+- **vorm:** kasboek
+- **afloop:** faalt
+- **hoofdpersoon:** 41-60|m
+- **leeftijd:** 50
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 2
+- **g_tragiek:** 2
+- **erf_code:** ERF-brand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-karruk-bloedeed
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.19
+- **genrematch:** 
+- **marginale_winst:** 0.5457
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-karruk-4-1
+- **premisse:** Een Karrûk-clanvoogdes laat de weinige mannen over de clans rouleren en knoopt er één per man in haar vlecht; nu telt ze een knoop te veel. Iemand houdt een man verborgen, en zolang zelfs de Zusters hun Zegel niet doorzien, is één man te veel genoeg voor een clanoorlog.
+- **premisse_codes:** PERS-Z4-karruk-4-1;ERF-brand;SEKS-VOLK-karruk-bloedeed;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-5-79d68e40 · 26-40|groep
+- **code:** VP-5-79d68e40
+- **run:** Z36-02
+- **fase:** 5 Ontvangst
+- **positie:** beslisser
+- **genre:** actie
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** register als verteller
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-40|groep
+- **leeftijd:** 32
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 2
+- **g_horror:** 0
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase4-Z35-1
+- **wereldregel_code:** RIT-wijding
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen;VALS-ontvangst-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.922
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.214
+- **genrematch:** 
+- **marginale_winst:** 0.5805
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-aelith-stille
+- **premisse:** Aelith van de Stilte wil weg van de tempels en neemt haar zusters mee naar de Stille eilanden. Daar ontloopt ze de registers niet: wie vertrekt, staat er nog steeds in, net als het kind dat ze van Saevir kreeg.
+- **premisse_codes:** PER-aelith-stille;ERF-noodtoestand;RIT-wijding;ZAAD-VERHAAL-fase4-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-5-93b56747 · 18-25|v
+- **code:** VP-5-93b56747
+- **run:** Z36-02
+- **fase:** 5 Ontvangst
+- **positie:** beslisser
+- **genre:** thriller
+- **schaal:** wereld
+- **volk:** mens
+- **vorm:** getuigenverslag
+- **afloop:** keert om
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 22
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 2
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase4-Z35-1
+- **wereldregel_code:** RIT-wijding
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen;VALS-ontvangst-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.922
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.417
+- **genrematch:** 
+- **marginale_winst:** 0.5752
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-quirel
+- **premisse:** Quirel wil de annalen opnieuw schrijven en heeft daarvoor de boeken nodig waarmee de Orde mannen toewijst. Wie die vervalst, moet elk Jongenshof mee laten liegen, en het kost haar de laatste verslagen waarin staat hoe het vóór 210 ging.
+- **premisse_codes:** PER-quirel;ERF-noodtoestand;RIT-wijding;ZAAD-VERHAAL-fase4-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-5-d1a685b7 · 18-25|wisselend
+- **code:** VP-5-d1a685b7
+- **run:** Z36-02
+- **fase:** 5 Ontvangst
+- **positie:** beslisser
+- **genre:** komedie
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** rechtszaak
+- **afloop:** faalt
+- **hoofdpersoon:** 18-25|wisselend
+- **leeftijd:** 22
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 0
+- **g_actie:** 1
+- **g_intrige:** 2
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase4-Z35-1
+- **wereldregel_code:** RIT-ontvangst
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen;VALS-ontvangst-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.911
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.4
+- **kosten:** 0.286
+- **genrematch:** 
+- **marginale_winst:** 0.5475
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-brunna
+- **premisse:** Brunna de Melkster wil een welvarend stalhuis en verhuurt haar mannen aan wie betaalt. Volgens het register zijn die mannen van iedereen, ook de stalman van wie ze houdt; wil ze hem houden, dan moet ze haar beste man nooit verhuren en dat aan de buren uitleggen.
+- **premisse_codes:** PER-brunna;ERF-noodtoestand;RIT-ontvangst;ZAAD-VERHAAL-fase4-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-5-dbde8612 · 18-25|v
+- **code:** VP-5-dbde8612
+- **run:** Z36-02
+- **fase:** 5 Ontvangst
+- **positie:** toeschouwer
+- **genre:** mysterie
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** jij-vorm
+- **afloop:** komt uit
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 22
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 1
+- **g_horror:** 2
+- **g_suspense:** 5
+- **g_actie:** 0
+- **g_intrige:** 3
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-ontvangst
+- **zaadje_code:** ZAAD-VERHAAL-fase4-Z35-1
+- **wereldregel_code:** RIT-wijding
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen;VALS-ontvangst-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.925
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.579
+- **gevoeligheid:** 
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PER-mael
+- **premisse:** Tussen Mael van Merk (schismatica) en vrouwen elkaar laten zegenen staat Verlangen als plicht-van-binnen, tempels die de Zegel voeden, een gunstbrief die munt wordt; Mael zet door, tegen de prijs van dat vrouwenliefde geen kracht geeft (wat nu verborgen blijft). [PER-mael;ERF-ontvangst]
+- **premisse_codes:** PER-mael;ERF-ontvangst
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** VP-5-06a8b093
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-5-6a4ba9f9 · 18-25|m
+- **code:** VP-5-6a4ba9f9
+- **run:** Z36-02
+- **fase:** 5 Ontvangst
+- **positie:** toeschouwer
+- **genre:** romance
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** ballade
+- **afloop:** keert om
+- **hoofdpersoon:** 18-25|m
+- **leeftijd:** 22
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 1
+- **g_horror:** 1
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-ontvangst
+- **zaadje_code:** ZAAD-VERHAAL-fase4-Z35-1
+- **wereldregel_code:** RIT-ontvangst
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen;VALS-ontvangst-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.571
+- **verbondenheid:** 0.915
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.179
+- **genrematch:** 
+- **marginale_winst:** 0.5758
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-thessaly
+- **premisse:** Hoge Moeder Thessaly wil van plicht verlangen maken en verzint er een hele leer bij. Hoe beter het werkt, hoe meer de tempels de Zegel voeden, en hoe groter de kans dat iemand ziet dat het zegellicht geen teken is maar de Zegel zelf.
+- **premisse_codes:** PER-thessaly;ERF-ontvangst;RIT-ontvangst;ZAAD-VERHAAL-fase4-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-5-294e4319 · 26-40|groep
+- **code:** VP-5-294e4319
+- **run:** Z36-02
+- **fase:** 5 Ontvangst
+- **positie:** toeschouwer
+- **genre:** thriller
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** kamerspel
+- **afloop:** faalt
+- **hoofdpersoon:** 26-40|groep
+- **leeftijd:** 32
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 2
+- **g_horror:** 2
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-ontvangst
+- **zaadje_code:** ZAAD-VERHAAL-fase4-Z35-1
+- **wereldregel_code:** RIT-wijding
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen;VALS-ontvangst-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.571
+- **verbondenheid:** 0.925
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.357
+- **genrematch:** 
+- **marginale_winst:** 0.5535
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-saelmor-5-1
+- **premisse:** Kapitein Zee Mirre wil haar huis rijk en vrij, en aan de kust is een gunstbrief inmiddels meer waard dan zilver. Ze kan rijk worden door ze bij de tempels op te kopen; dan is ze vrij van iedereen behalve van de Orde.
+- **premisse_codes:** PERS-Z4-saelmor-5-1;ERF-ontvangst;RIT-wijding;ZAAD-VERHAAL-fase4-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-5-06a8b093 · 18-25|groep
+- **code:** VP-5-06a8b093
+- **run:** Z36-02
+- **fase:** 5 Ontvangst
+- **positie:** liefde tussen posities
+- **genre:** thriller
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** getuigenverslag
+- **afloop:** keert om
+- **hoofdpersoon:** 18-25|groep
+- **leeftijd:** 22
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-ontvangst
+- **zaadje_code:** ZAAD-VERHAAL-fase4-Z35-1
+- **wereldregel_code:** RIT-wijding
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen;VALS-ontvangst-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.925
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.268
+- **genrematch:** 
+- **marginale_winst:** 0.591
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-mael
+- **premisse:** Mael van Merk wil dat vrouwen elkaar zegenen, ook nu Moeder Iresse heeft gepreekt dat wie ontvangt, bidt. Elke tempel leeft van wat het ontvangen de Zegel geeft; ziet iemand dat Maels zegen geen kracht geeft, dan valt haar schisma om.
+- **premisse_codes:** PER-mael;ERF-ontvangst;RIT-wijding;ZAAD-VERHAAL-fase4-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-5-8ae0ae4b · 61+|groep
+- **code:** VP-5-8ae0ae4b
+- **run:** Z36-02
+- **fase:** 5 Ontvangst
+- **positie:** liefde tussen posities
+- **genre:** mysterie
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** register als verteller
+- **afloop:** faalt
+- **hoofdpersoon:** 61+|groep
+- **leeftijd:** 67
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 3
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-ontvangst
+- **zaadje_code:** ZAAD-VERHAAL-fase4-Z35-1
+- **wereldregel_code:** RIT-wijding
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen;VALS-ontvangst-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.925
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.579
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-quirel
+- **premisse:** Registratrix Quirel herschrijft de annalen zodat de tempels de enige bron van de gave lijken. Dat maakt elke gunstbrief meer waard, ook die van haar eigen gilde, maar de verslagen van vóór 210 moeten ervoor weg, en zij is de laatste die ze gelezen heeft.
+- **premisse_codes:** PER-quirel;ERF-ontvangst;RIT-wijding;ZAAD-VERHAAL-fase4-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-5-a10d8d49 · 41-60|groep
+- **code:** VP-5-a10d8d49
+- **run:** Z36-02
+- **fase:** 5 Ontvangst
+- **positie:** liefde tussen posities
+- **genre:** romance
+- **schaal:** huis
+- **volk:** orrim
+- **vorm:** wij-vorm
+- **afloop:** komt uit
+- **hoofdpersoon:** 41-60|groep
+- **leeftijd:** 50
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-ontvangst
+- **zaadje_code:** ZAAD-VERHAAL-fase4-Z35-1
+- **wereldregel_code:** SEKS-VOLK-orrim-zand
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;REGEL-harde-grenzen;VALS-ontvangst-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.333
+- **genrematch:** 
+- **marginale_winst:** 0.56
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-orrim-5-1-Z5b
+- **premisse:** Een Orrim die als reliek achter glas in een tempel ligt, wil dat iemand merkt dat hij sneller slaat als Liora voorbijkomt. Onder zijn glas wordt de Zegel elke dag gevoed; begrijpt iemand wat hij in haar bloed herkent, dan haalt de Orde hem weg naar een plek waar niemand langskomt.
+- **premisse_codes:** PERS-Z4-orrim-5-1-Z5b;ERF-ontvangst;SEKS-VOLK-orrim-zand;ZAAD-VERHAAL-fase4-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-dd60378d · 61+|groep
+- **code:** VP-6-dd60378d
+- **run:** Z36-02
+- **fase:** 6 Markt
+- **positie:** beslisser
+- **genre:** romance
+- **schaal:** huis
+- **volk:** dhurn
+- **vorm:** toespraak
+- **afloop:** faalt
+- **hoofdpersoon:** 61+|groep
+- **leeftijd:** 67
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-ontvangst
+- **zaadje_code:** ZAAD-VERHAAL-fase5-Z35-2
+- **wereldregel_code:** SEKS-VOLK-dhurn-ingemetselden
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.143
+- **genrematch:** 
+- **marginale_winst:** 0.579
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-dhurn-7-1-Z38
+- **premisse:** Brakka wil de barsten bewaren waar geen vuur bij kan, en laat zich dagen inmetselen om ze te hakken. De tempels willen weten waarom hun licht zwakker brandt; ontdekken ze dat het antwoord in haar steen staat, dan maken ze van haar mijn een heiligdom of een graf.
+- **premisse_codes:** PERS-Z4-dhurn-7-1-Z38;ERF-ontvangst;SEKS-VOLK-dhurn-ingemetselden;ZAAD-VERHAAL-fase5-Z35-2
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-1f4bbe14 · 18-25|wisselend
+- **code:** VP-6-1f4bbe14
+- **run:** Z36-02
+- **fase:** 6 Markt
+- **positie:** beslisser
+- **genre:** romance
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** wij-vorm
+- **afloop:** keert om
+- **hoofdpersoon:** 18-25|wisselend
+- **leeftijd:** 22
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 5
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-ontvangst
+- **zaadje_code:** ZAAD-VERHAAL-fase5-Z35-1
+- **wereldregel_code:** RIT-veiling
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.571
+- **verbondenheid:** 0.915
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.333
+- **genrematch:** 
+- **marginale_winst:** 0.5604
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-selvara
+- **premisse:** Selvara Varenne wil zaad als munt en koopt daarvoor de Orde om. Gunstbrieven zijn al geld, dus een beurs ernaast is snel gebouwd; maar sinds Iresse de echte annalen liet uitlekken, kijkt iedereen naar oorsprongen, en de hare is roof.
+- **premisse_codes:** PER-selvara;ERF-ontvangst;RIT-veiling;ZAAD-VERHAAL-fase5-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-4ff2c2f9 · 41-60|wisselend
+- **code:** VP-6-4ff2c2f9
+- **run:** Z36-02
+- **fase:** 6 Markt
+- **positie:** beslisser
+- **genre:** intrige
+- **schaal:** rijk
+- **volk:** skerra
+- **vorm:** ballade
+- **afloop:** komt uit
+- **hoofdpersoon:** 41-60|wisselend
+- **leeftijd:** 50
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-ontvangst
+- **zaadje_code:** ZAAD-VERHAAL-fase5-Z35-1
+- **wereldregel_code:** SEKS-VOLK-skerra-klifparen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.756
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.214
+- **genrematch:** 
+- **marginale_winst:** 0.5593
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-skerra-6-2-Z5b
+- **premisse:** Een Skerra-koerier brengt per vergissing de Pest mee en wil weten of het zijn schuld is. De Orde wist het, en een Orde die van tempels en gunstbrieven leeft, hangt liever een koerier op dan dat ze zegt wat ze wist.
+- **premisse_codes:** PERS-Z4-skerra-6-2-Z5b;ERF-ontvangst;SEKS-VOLK-skerra-klifparen;ZAAD-VERHAAL-fase5-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-1366129f · 41-60|v
+- **code:** VP-6-1366129f
+- **run:** Z36-02
+- **fase:** 6 Markt
+- **positie:** betaler
+- **genre:** thriller
+- **schaal:** huis
+- **volk:** skerra
+- **vorm:** ballade
+- **afloop:** faalt
+- **hoofdpersoon:** 41-60|v
+- **leeftijd:** 50
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 0
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** ERF-ontvangst
+- **zaadje_code:** ZAAD-VERHAAL-fase5-Z35-1
+- **wereldregel_code:** SEKS-VOLK-skerra-gebondenen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.143
+- **genrematch:** 
+- **marginale_winst:** 0.5715
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-skerra-schurk-skell
+- **premisse:** Skell Klifmeester wil aan iedereen verkopen en vliegt berichten voor de tempels én voor hun vijanden. Als Iresse de echte annalen naar de Stille Zusters lekt, wil elke partij weten wie de boodschap droeg, en een koerier die van twee kanten geld aanneemt, betaalt dan met zijn vleugels.
+- **premisse_codes:** PER-skerra-schurk-skell;ERF-ontvangst;SEKS-VOLK-skerra-gebondenen;ZAAD-VERHAAL-fase5-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-cf040865 · 61+|v
+- **code:** VP-6-cf040865
+- **run:** Z36-02
+- **fase:** 6 Markt
+- **positie:** betaler
+- **genre:** romance
+- **schaal:** wereld
+- **volk:** aelthir
+- **vorm:** documenten
+- **afloop:** komt uit
+- **hoofdpersoon:** 61+|v
+- **leeftijd:** 67
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-ontvangst
+- **zaadje_code:** ZAAD-VERHAAL-fase5-Z35-2
+- **wereldregel_code:** SEKS-VOLK-aelthir-koelen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.78
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.417
+- **genrematch:** 
+- **marginale_winst:** 0.5687
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-aelthir-6-2-Z5b-Z38
+- **premisse:** Een Aelthir-kluiswachter herinnert zich de vervalsing van 205 en wil de echte annalen bewaren. In een tijd waarin gunstbrieven munt zijn, is waarheid het minst waard; houdt hij vol, dan stuurt de Orde hem als onkreukbare bode het land in, ver van zijn kluis.
+- **premisse_codes:** PERS-Z4-aelthir-6-2-Z5b-Z38;ERF-ontvangst;SEKS-VOLK-aelthir-koelen;ZAAD-VERHAAL-fase5-Z35-2
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-70ba8e21 · 18-25|v
+- **code:** VP-6-70ba8e21
+- **run:** Z36-02
+- **fase:** 6 Markt
+- **positie:** betaler
+- **genre:** horror
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** dagboek
+- **afloop:** komt uit
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 22
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 4
+- **g_actie:** 1
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** ERF-ontvangst
+- **zaadje_code:** ZAAD-VERHAAL-fase5-Z35-2
+- **wereldregel_code:** RIT-veiling
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.915
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.5
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.5685
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-brannoch-oud
+- **premisse:** Veldvrouwe Hedra Kaldra wil de oorlog winnen en dwingt daarvoor Strijdontvangsten af. Een tempel die een gestolen gaven-man laat voeden, moet er een gunstbrief voor uitschrijven, en elke brief laat een spoor na naar het huis dat hem stal.
+- **premisse_codes:** PER-brannoch-oud;ERF-ontvangst;RIT-veiling;ZAAD-VERHAAL-fase5-Z35-2
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-af7c711a · 18-25|m
+- **code:** VP-6-af7c711a
+- **run:** Z36-02
+- **fase:** 6 Markt
+- **positie:** vervalser
+- **genre:** romance
+- **schaal:** rijk
+- **volk:** dhurn
+- **vorm:** ballade
+- **afloop:** komt uit
+- **hoofdpersoon:** 18-25|m
+- **leeftijd:** 22
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 2
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-markt
+- **zaadje_code:** ZAAD-VERHAAL-fase5-Z35-1
+- **wereldregel_code:** SEKS-VOLK-dhurn-mijnbroeders-Z6
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.756
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.214
+- **genrematch:** 
+- **marginale_winst:** 0.5818
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-dhurn-7-1-Z38
+- **premisse:** Mijnmeester Brakka wil de barsten vastleggen waar de Orde ze niet kan verbranden en hakt ze daarom in steen. Het Tribunaal laat geen papier veranderen, maar aan steen dacht niemand; zodra iemand dat ziet, wordt elke mijngang bewijs en elke mijnwerker getuige.
+- **premisse_codes:** PERS-Z4-dhurn-7-1-Z38;ERF-markt;SEKS-VOLK-dhurn-mijnbroeders-Z6;ZAAD-VERHAAL-fase5-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-6aa61c57 · 41-60|v
+- **code:** VP-6-6aa61c57
+- **run:** Z36-02
+- **fase:** 6 Markt
+- **positie:** vervalser
+- **genre:** intrige
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** lijst die krimpt
+- **afloop:** komt uit
+- **hoofdpersoon:** 41-60|v
+- **leeftijd:** 50
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-markt
+- **zaadje_code:** ZAAD-VERHAAL-fase5-Z35-1
+- **wereldregel_code:** RIT-veiling
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.911
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.286
+- **genrematch:** 
+- **marginale_winst:** 0.57
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-grom-reus
+- **premisse:** Grom de Reuzenstier wil leren lezen en oefent stiekem tussen twee keuringen in de stallen van Varenne. Een stier die kan lezen, kan zijn eigen schuldbrief lezen; ontdekt iemand het, dan gaat hij op de volgende veiling als iets wat je beter niet kunt houden.
+- **premisse_codes:** PER-grom-reus;ERF-markt;RIT-veiling;ZAAD-VERHAAL-fase5-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-e9545445 · 18-25|wisselend
+- **code:** VP-6-e9545445
+- **run:** Z36-02
+- **fase:** 6 Markt
+- **positie:** vervalser
+- **genre:** actie
+- **schaal:** wereld
+- **volk:** aelthir
+- **vorm:** toespraak
+- **afloop:** keert om
+- **hoofdpersoon:** 18-25|wisselend
+- **leeftijd:** 22
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 2
+- **g_horror:** 0
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-markt
+- **zaadje_code:** ZAAD-VERHAAL-fase5-Z35-1
+- **wereldregel_code:** SEKS-VOLK-aelthir-snellen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.25
+- **genrematch:** 
+- **marginale_winst:** 0.5458
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-aelthir-6-2-Z5b-Z38
+- **premisse:** De kluiswachter die zich de vervalsing van 205 herinnert, wil de echte annalen redden voordat het Tribunaal ze in een la bevriest. Daarvoor moet hij ze toevertrouwen aan de snelle jonge Aelthir die alles ruilen, en wat er van de waarheid overblijft, hangt dan af van wie hun een nacht aanbiedt.
+- **premisse_codes:** PERS-Z4-aelthir-6-2-Z5b-Z38;ERF-markt;SEKS-VOLK-aelthir-snellen;ZAAD-VERHAAL-fase5-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-7-8109c2d4 · 26-40|wisselend
+- **code:** VP-7-8109c2d4
+- **run:** Z36-02
+- **fase:** 7 Barsten
+- **positie:** beslisser
+- **genre:** romance
+- **schaal:** dorp
+- **volk:** oevrin
+- **vorm:** realtime
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-40|wisselend
+- **leeftijd:** 32
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-markt
+- **zaadje_code:** ZAAD-VERHAAL-fase6-Z35-1
+- **wereldregel_code:** SEKS-VOLK-oevrin-poelzangers
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-7;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.321
+- **genrematch:** 
+- **marginale_winst:** 0.6648
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-oevrin-held-glu-moeder-Z38
+- **premisse:** Poelmoeder Kwaar wil de laatste grote broedpoel behouden, en die ligt op grond die bij Varenne verpand is. Ze kan hem terugkopen met alles wat haar volk nog bezit, of hem laten gaan en daarmee de groepszang van haar mensen.
+- **premisse_codes:** PER-oevrin-held-glu-moeder-Z38;ERF-markt;SEKS-VOLK-oevrin-poelzangers;ZAAD-VERHAAL-fase6-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-7-747b15ce · 26-40|m
+- **code:** VP-7-747b15ce
+- **run:** Z36-02
+- **fase:** 7 Barsten
+- **positie:** beslisser
+- **genre:** mysterie
+- **schaal:** wereld
+- **volk:** mens
+- **vorm:** lijst die krimpt
+- **afloop:** faalt
+- **hoofdpersoon:** 26-40|m
+- **leeftijd:** 32
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 2
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-markt
+- **zaadje_code:** ZAAD-VERHAAL-fase6-Z35-1
+- **wereldregel_code:** RIT-rolwisseling
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-7;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.862
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.5
+- **genrematch:** 
+- **marginale_winst:** 0.6375
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-lisk-bloednacht
+- **premisse:** Hoedster Caela wil de Bloednacht overleven en tegen Morvane-ir getuigen. Het Tribunaal luistert alleen naar getuigen zonder vlek, en de hare is dat ze zijn gebonden minnares was; vertelt ze de hele waarheid, dan verliest ze de zaak.
+- **premisse_codes:** PER-lisk-bloednacht;ERF-markt;RIT-rolwisseling;ZAAD-VERHAAL-fase6-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-7-0e975f27 · 26-40|wisselend
+- **code:** VP-7-0e975f27
+- **run:** Z36-02
+- **fase:** 7 Barsten
+- **positie:** beslisser
+- **genre:** thriller
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** rondes
+- **afloop:** keert om
+- **hoofdpersoon:** 26-40|wisselend
+- **leeftijd:** 32
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-markt
+- **zaadje_code:** ZAAD-VERHAAL-fase6-Z35-1
+- **wereldregel_code:** RIT-boeterite
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-7;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.854
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.5
+- **genrematch:** 
+- **marginale_winst:** 0.6215
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f7-hadewych
+- **premisse:** Zuster Hadewych wil één kind verbergen en huurt een vervalser uit het gilde dat in 680 begon. Het Tribunaal bevriest alle papieren, ook de valse; wordt de vervalsing ontdekt, dan moet ze op de tempeltrappen biechten en zeggen wie Liora's moeder is.
+- **premisse_codes:** PER-f7-hadewych;ERF-markt;RIT-boeterite;ZAAD-VERHAAL-fase6-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-7-3923a542 · 18-25|wisselend
+- **code:** VP-7-3923a542
+- **run:** Z36-02
+- **fase:** 7 Barsten
+- **positie:** ontdekker
+- **genre:** romance
+- **schaal:** wereld
+- **volk:** skerra
+- **vorm:** documenten
+- **afloop:** komt uit
+- **hoofdpersoon:** 18-25|wisselend
+- **leeftijd:** 22
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 1
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase6-Z35-1
+- **wereldregel_code:** SEKS-VOLK-skerra-klifparen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-7;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.417
+- **genrematch:** 
+- **marginale_winst:** 0.6552
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-skerra-held-kira-Z38
+- **premisse:** Kira Valvang onderschept een vervalst bericht en wil dat het echte alsnog aankomt. Maar de Zegel lekt en de zaadmarkt ligt plat, en in zulke jaren grijpt de Orde naar dezelfde noodwet als vroeger; het echte bericht is precies wat die noodwet niet mag horen.
+- **premisse_codes:** PER-skerra-held-kira-Z38;ERF-barsten;SEKS-VOLK-skerra-klifparen;ZAAD-VERHAAL-fase6-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-7-46bc46e3 · 26-40|m
+- **code:** VP-7-46bc46e3
+- **run:** Z36-02
+- **fase:** 7 Barsten
+- **positie:** ontdekker
+- **genre:** thriller
+- **schaal:** huis
+- **volk:** aelthir
+- **vorm:** jij-vorm
+- **afloop:** faalt
+- **hoofdpersoon:** 26-40|m
+- **leeftijd:** 32
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 5
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase6-Z35-1
+- **wereldregel_code:** SEKS-VOLK-aelthir-glazen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-7;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.756
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.6469
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-aelthir-1-2-Z38
+- **premisse:** Ysmeriel van de Twaalf wil de Stille Zusters vertellen wat Ileth verkocht en breekt daarvoor de zwijgplicht. Met een Zegel die het begeeft, is dat het antwoord waar iedereen op wacht; het kost haar de geheime salons op de eilanden en haar plaats bij de Twaalf.
+- **premisse_codes:** PERS-Z4-aelthir-1-2-Z38;ERF-barsten;SEKS-VOLK-aelthir-glazen;ZAAD-VERHAAL-fase6-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-7-4893ec11 · 18-25|groep
+- **code:** VP-7-4893ec11
+- **run:** Z36-02
+- **fase:** 7 Barsten
+- **positie:** ontdekker
+- **genre:** intrige
+- **schaal:** wereld
+- **volk:** mens
+- **vorm:** register als verteller
+- **afloop:** keert om
+- **hoofdpersoon:** 18-25|groep
+- **leeftijd:** 22
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase6-Z35-1
+- **wereldregel_code:** RIT-boeterite
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-7;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.854
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.333
+- **genrematch:** 
+- **marginale_winst:** 0.6232
+- **gevoeligheid:** 
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PER-lekmoeder
+- **premisse:** Tussen Ruya Lekmoeder (moeder van een lekkind) en haar zoon houden staat Lekkende Zegel, donkere rijken, ingestorte zaadmarkt; Ruya zet door, tegen de prijs van dat haar zoon Vathren is (wat nu verborgen blijft). [PER-lekmoeder;ERF-barsten]
+- **premisse_codes:** PER-lekmoeder;ERF-barsten
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** VP-7-fff3fdbb
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-7-fff3fdbb · 41-60|groep
+- **code:** VP-7-fff3fdbb
+- **run:** Z36-02
+- **fase:** 7 Barsten
+- **positie:** toeschouwer
+- **genre:** mysterie
+- **schaal:** wereld
+- **volk:** mens
+- **vorm:** register als verteller
+- **afloop:** komt uit
+- **hoofdpersoon:** 41-60|groep
+- **leeftijd:** 50
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 2
+- **g_suspense:** 5
+- **g_actie:** 0
+- **g_intrige:** 3
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase6-Z35-1
+- **wereldregel_code:** RIT-rolwisseling
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-7;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.862
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.333
+- **genrematch:** 
+- **marginale_winst:** 0.6542
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-lekmoeder
+- **premisse:** Ruya wil haar zoon houden, die met het lekken van de Zegel een zegelvoeler blijkt te zijn. Het Hof zoekt juist zulke jongens, en verbergen lukt alleen op de Nacht der Omkering, als niemand gestraft wordt; daarna moet ze kiezen tussen vluchten en het register.
+- **premisse_codes:** PER-lekmoeder;ERF-barsten;RIT-rolwisseling;ZAAD-VERHAAL-fase6-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-7-e82f253e · 18-25|v
+- **code:** VP-7-e82f253e
+- **run:** Z36-02
+- **fase:** 7 Barsten
+- **positie:** toeschouwer
+- **genre:** romance
+- **schaal:** huis
+- **volk:** grauwen
+- **vorm:** brieven
+- **afloop:** faalt
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 22
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 3
+- **g_horror:** 1
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase6-Z35-1
+- **wereldregel_code:** SEKS-VOLK-grauwen-ontsluierden
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-7;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.6445
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-grauwen-7-2-Z38
+- **premisse:** Een Grauwe wachter wil mannen veilig langs Grauwendorp leiden en laat daarvoor 's nachts zijn lantaarn branden. Met de zaadmarkt ingestort zoekt iedereen op de wegen naar mannen; als Liora langs zijn licht komt, moet hij zijn gezicht ontbloten om haar te laten zien dat hij geen jager is.
+- **premisse_codes:** PERS-Z4-grauwen-7-2-Z38;ERF-barsten;SEKS-VOLK-grauwen-ontsluierden;ZAAD-VERHAAL-fase6-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-7-dec539ab · 41-60|m
+- **code:** VP-7-dec539ab
+- **run:** Z36-02
+- **fase:** 7 Barsten
+- **positie:** toeschouwer
+- **genre:** intrige
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** jij-vorm
+- **afloop:** keert om
+- **hoofdpersoon:** 41-60|m
+- **leeftijd:** 50
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase6-Z35-1
+- **wereldregel_code:** RIT-boeterite
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-7;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.854
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.357
+- **genrematch:** 
+- **marginale_winst:** 0.6208
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-stille-terug
+- **premisse:** Zuster Ennia keert terug naar Saelith om de Orde van binnenuit te breken, juist nu de Zegel lekt en de Moeders naar oude noodwetten grijpen. Wie in zulke jaren als bekeerlinge binnenkomt, wordt het eerst verdacht; één fout en ze staat in het grijs op de tempeltrappen.
+- **premisse_codes:** PER-stille-terug;ERF-barsten;RIT-boeterite;ZAAD-VERHAAL-fase6-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-419cc52e · 61+|groep
+- **code:** VP-801-419cc52e
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** betaler
+- **genre:** thriller
+- **schaal:** dorp
+- **volk:** myrrhen
+- **vorm:** toespraak
+- **afloop:** komt uit
+- **hoofdpersoon:** 61+|groep
+- **leeftijd:** 67
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 0
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** ZAAD-VERHAAL-fase7-c
+- **wereldregel_code:** SEKS-VOLK-myrrhen-draadvolk
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.756
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.65
+- **kosten:** 0.161
+- **genrematch:** 
+- **marginale_winst:** 0.8165
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-myrrhen-5-2
+- **premisse:** Dov Zwamman zoekt in het net een middel om de Lijngravers te genezen en vindt een herinnering aan een machine die haar eigen muiterij vergat. Wie dat gat opvult, deelt het met iedereen die op het net droomt; zijn genezing wordt dan ieders nachtmerrie.
+- **premisse_codes:** PERS-Z4-myrrhen-5-2;ERF-voortijd;SEKS-VOLK-myrrhen-draadvolk;ZAAD-VERHAAL-fase7-c
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-5dd1cfad · 41-60|groep
+- **code:** VP-801-5dd1cfad
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** betaler
+- **genre:** romance
+- **schaal:** stad
+- **volk:** skerra
+- **vorm:** aftellen
+- **afloop:** komt uit
+- **hoofdpersoon:** 41-60|groep
+- **leeftijd:** 50
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** ZAAD-VERHAAL-fase7-c
+- **wereldregel_code:** SEKS-VOLK-skerra-klifparen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.78
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.7
+- **kosten:** 0.357
+- **genrematch:** 
+- **marginale_winst:** 0.7543
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-skerra-5-1
+- **premisse:** Ka Snelvleugel wil vrij vliegen en vervalst daarvoor berichten voor wie betaalt. Eén opdracht leidt naar de Wieg, waar een noodstand wacht tot iemand hem aanzet; brengt ze dat bericht, dan weet ze niet meer voor wie ze vliegt.
+- **premisse_codes:** PERS-Z4-skerra-5-1;ERF-voortijd;SEKS-VOLK-skerra-klifparen;ZAAD-VERHAAL-fase7-c
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-1745e1ba · 41-60|wisselend
+- **code:** VP-801-1745e1ba
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** betaler
+- **genre:** actie
+- **schaal:** huis
+- **volk:** karrûk
+- **vorm:** kamerspel
+- **afloop:** komt uit
+- **hoofdpersoon:** 41-60|wisselend
+- **leeftijd:** 50
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 2
+- **g_horror:** 0
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-voortijd
+- **zaadje_code:** ZAAD-VERHAAL-fase7-c
+- **wereldregel_code:** SEKS-VOLK-karruk-kampvechters
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.78
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.55
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.7438
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-karruk-yssa
+- **premisse:** Yssa Vuurwinnares wil haar volk weg uit Kharvos en helpt daarvoor Kaldra. Ze heeft een verhaal nodig over waarom de Karrûk ooit de steppe op trokken, en de enige die het weet is een machine die haar eigen muiterij vergat; vraagt ze verder, dan vraagt iemand ook naar haar bloed.
+- **premisse_codes:** PER-karruk-yssa;ERF-voortijd;SEKS-VOLK-karruk-kampvechters;ZAAD-VERHAAL-fase7-c
+- **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-8ccdb710 · 61+|groep
+- **code:** VP-801-8ccdb710
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** vervalser
+- **genre:** romance
+- **schaal:** dorp
+- **volk:** orrim
+- **vorm:** register als verteller
+- **afloop:** faalt
+- **hoofdpersoon:** 61+|groep
+- **leeftijd:** 67
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase7-c
+- **wereldregel_code:** SEKS-VOLK-orrim-slijpers
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.214
+- **genrematch:** 
+- **marginale_winst:** 0.8087
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-orrim-sha
+- **premisse:** Sha Kristalader wil haar volk beschermen tegen de oogst en valt een kamp van de Orde aan. Om het lek te dichten zoekt de Orde meer Sterrensteen om hem te binden, en die zit in haar eigen lichaam; elke aanval brengt de oogsters dichter bij wat ze werkelijk zoeken.
+- **premisse_codes:** PER-orrim-sha;ERF-barsten;SEKS-VOLK-orrim-slijpers;ZAAD-VERHAAL-fase7-c
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-0e7101bc · 18-25|wisselend
+- **code:** VP-801-0e7101bc
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** vervalser
+- **genre:** romance
+- **schaal:** wereld
+- **volk:** mens
+- **vorm:** jij-vorm
+- **afloop:** faalt
+- **hoofdpersoon:** 18-25|wisselend
+- **leeftijd:** 22
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase7-c
+- **wereldregel_code:** RIT-wijding
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.571
+- **verbondenheid:** 0.922
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.417
+- **genrematch:** 
+- **marginale_winst:** 0.7623
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-saelmor-7-2
+- **premisse:** Ondessa Mirre wil de Orde ondermijnen, en in Orvane leeft een vrouw die geruchten verkoopt en weet van een blad met Liora's naam. In deze jaren van scheuren is dat blad goud waard; om het te krijgen moet Ondessa iets prijsgeven wat de Orde ook graag hoort.
+- **premisse_codes:** PERS-Z4-saelmor-7-2;ERF-barsten;RIT-wijding;ZAAD-VERHAAL-fase7-c
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-501c36d2 · 41-60|groep
+- **code:** VP-801-501c36d2
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** vervalser
+- **genre:** thriller
+- **schaal:** huis
+- **volk:** tharn
+- **vorm:** kasboek
+- **afloop:** faalt
+- **hoofdpersoon:** 41-60|groep
+- **leeftijd:** 50
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 2
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase7-c
+- **wereldregel_code:** SEKS-VOLK-tharn-rouwparen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.19
+- **genrematch:** 
+- **marginale_winst:** 0.7465
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-tharn-lunn
+- **premisse:** Lunn Dijkdochter wil een kind en kiest daarvoor een mensenman, maar eigenlijk wil ze een gaven-man. Met de zaadmarkt ingestort zijn die onbetaalbaar; zegt ze het hardop, dan rouwen de Tharn om haar alsof ze al verloren is.
+- **premisse_codes:** PER-tharn-lunn;ERF-barsten;SEKS-VOLK-tharn-rouwparen;ZAAD-VERHAAL-fase7-c
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-f9f1ae8e · 26-40|wisselend
+- **code:** VP-801-f9f1ae8e
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** ontdekker
+- **genre:** romance
+- **schaal:** huis
+- **volk:** karrûk
+- **vorm:** register als verteller
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-40|wisselend
+- **leeftijd:** 32
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-2
+- **wereldregel_code:** SEKS-VOLK-karruk-kampvechters
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 1.0
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.19
+- **genrematch:** 
+- **marginale_winst:** 0.7279
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-karruk-5-1
+- **premisse:** Gath Kookbloed wil een vrouw die hem eerlijk verslaat, niet een die hij laat winnen. Nu de rijken donker worden en elke krijger wordt opgeroepen, is daar geen tijd voor; blijft hij wachten, dan verliest hij zijn plek in het Vuurkamp aan mannen die wel vechten.
+- **premisse_codes:** PERS-Z4-karruk-5-1;ERF-barsten;SEKS-VOLK-karruk-kampvechters;ZAAD-VERHAAL-fase3-Z35-2
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-aa200200 · 41-60|groep
+- **code:** VP-801-aa200200
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** ontdekker
+- **genre:** thriller
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** lichaam als verteller
+- **afloop:** faalt
+- **hoofdpersoon:** 41-60|groep
+- **leeftijd:** 50
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 1
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase6-c-Z32
+- **wereldregel_code:** RIT-rolwisseling
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.862
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.429
+- **genrematch:** 
+- **marginale_winst:** 0.7096
+- **gevoeligheid:** 
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PER-drask
+- **premisse:** Wat Krijgsheer Drask (Kharvos-krijgsheer) wil is gaven-mannen en Velmara-vrouwen; Lekkende Zegel, donkere rijken, ingestorte zaadmarkt houdt dat tegen, en verliest misschien de dekking van dat hij zelf zegelschaduw-ziek is. [PER-drask;ERF-barsten]
+- **premisse_codes:** PER-drask;ERF-barsten
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** VP-801-546baa02
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-403035f3 · 41-60|m
+- **code:** VP-801-403035f3
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** ontdekker
+- **genre:** intrige
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** kasboek
+- **afloop:** komt uit
+- **hoofdpersoon:** 41-60|m
+- **leeftijd:** 50
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-2
+- **wereldregel_code:** RIT-rolwisseling
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.862
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.286
+- **genrematch:** 
+- **marginale_winst:** 0.6803
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-gew-gudrun
+- **premisse:** Gudrun wil uit de mijn en steelt Sterrensteen om haar weg naar de krijgsvrouwen te betalen. In een Wortel hoort ze een vrouwenstem 'onthoud' zeggen, net nu de Zegel begint te lekken; meldt ze het, dan wil men weten wat ze daar te zoeken had.
+- **premisse_codes:** PER-gew-gudrun;ERF-barsten;RIT-rolwisseling;ZAAD-VERHAAL-fase3-Z35-2
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-546baa02 · 26-40|groep
+- **code:** VP-801-546baa02
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** profiteur
+- **genre:** thriller
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** getuigenverslag
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-40|groep
+- **leeftijd:** 32
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 2
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase5-b
+- **wereldregel_code:** RIT-wijding
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.922
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.298
+- **genrematch:** 
+- **marginale_winst:** 0.7407
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-drask
+- **premisse:** Krijgsheer Drask wil gaven-mannen en Velmara-vrouwen en sluit daarvoor een pact met Morvane-ir. De lekkende Zegel maakt het rijk zwak genoeg om aan te vallen, maar hem ook: hij is zelf zegelschaduw-ziek, en een bondgenoot die dat merkt, heeft hem niet meer nodig.
+- **premisse_codes:** PER-drask;ERF-barsten;RIT-wijding;ZAAD-VERHAAL-fase5-b
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-b210dd81 · 26-40|v
+- **code:** VP-801-b210dd81
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** profiteur
+- **genre:** romance
+- **schaal:** rijk
+- **volk:** skerra
+- **vorm:** ballade
+- **afloop:** keert om
+- **hoofdpersoon:** 26-40|v
+- **leeftijd:** 32
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 2
+- **g_tragiek:** 1
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase7-b
+- **wereldregel_code:** SEKS-VOLK-skerra-klifparen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.214
+- **genrematch:** 
+- **marginale_winst:** 0.6969
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-skerra-ka
+- **premisse:** Ka werkt stiekem voor Varenne én voor de Orde, en die twee willen sinds de ineenstorting elk een ander verhaal horen, terwijl zij alleen vrij wil vliegen. Op een dag moet ze één bericht vervalsen dat beide lezen; wie het doorziet, houdt haar vleugels vast.
+- **premisse_codes:** PER-skerra-ka;ERF-barsten;SEKS-VOLK-skerra-klifparen;ZAAD-VERHAAL-fase7-b
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-88b9fd5f · 18-25|wisselend
+- **code:** VP-801-88b9fd5f
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** profiteur
+- **genre:** actie
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** rondes
+- **afloop:** faalt
+- **hoofdpersoon:** 18-25|wisselend
+- **leeftijd:** 22
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 5
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-2
+- **wereldregel_code:** RIT-wijding
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.922
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.375
+- **genrematch:** 
+- **marginale_winst:** 0.6894
+- **gevoeligheid:** 
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PER-drask
+- **premisse:** Tussen Krijgsheer Drask (Kharvos-krijgsheer) en gaven-mannen en Velmara-vrouwen staat Lekkende Zegel, donkere rijken, ingestorte zaadmarkt; Krijgsheer zet door, tegen de prijs van dat hij zelf zegelschaduw-ziek is (wat nu verborgen blijft). [PER-drask;ERF-barsten]
+- **premisse_codes:** PER-drask;ERF-barsten
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** VP-801-546baa02
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-133772c1 · 18-25|wisselend
+- **code:** VP-801-133772c1
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** toeschouwer
+- **genre:** mysterie
+- **schaal:** dorp
+- **volk:** kluwer
+- **vorm:** toespraak
+- **afloop:** keert om
+- **hoofdpersoon:** 18-25|wisselend
+- **leeftijd:** 22
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 0
+- **g_horror:** 2
+- **g_suspense:** 5
+- **g_actie:** 0
+- **g_intrige:** 3
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase7-c
+- **wereldregel_code:** SEKS-VOLK-kluwer-korfzusters
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.161
+- **genrematch:** 
+- **marginale_winst:** 0.763
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-kluwer-4-2
+- **premisse:** Zzi Darrenvriend wil haar darrendood-nacht overleven, in een korf waar genot alleen gedeeld bestaat. Met de donkere rijken zo dichtbij, kan die nacht anders lopen dan ooit; wie hem overleeft, moet leven met een ik dat haar zusters niet hebben.
+- **premisse_codes:** PERS-Z4-kluwer-4-2;ERF-barsten;SEKS-VOLK-kluwer-korfzusters;ZAAD-VERHAAL-fase7-c
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-8becfb70 · 18-25|groep
+- **code:** VP-801-8becfb70
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** toeschouwer
+- **genre:** romance
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** register als verteller
+- **afloop:** faalt
+- **hoofdpersoon:** 18-25|groep
+- **leeftijd:** 22
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 5
+- **g_horror:** 1
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase5-b
+- **wereldregel_code:** RIT-wijding
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.922
+- **seriewaarde:** 0.6
+- **lezersvraag:** 0.7
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.7542
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-sef
+- **premisse:** Sef van Brakhaven wil vrijheid en Liora, en smokkelt alles wat de kapotte zaadmarkt nog waard vindt. Ondessa betaalt haar om Liora in de gaten te houden; kiest Sef voor Liora, dan raakt ze het schip kwijt dat haar vrij maakt.
+- **premisse_codes:** PER-sef;ERF-barsten;RIT-wijding;ZAAD-VERHAAL-fase5-b
+- **seriewaarde_reden:** via relatie: PER-sef - PER-liora-profiel-Z32 (BOOG-boek1)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-d8b3dd15 · 26-40|v
+- **code:** VP-801-d8b3dd15
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** toeschouwer
+- **genre:** romance
+- **schaal:** wereld
+- **volk:** skerra
+- **vorm:** jij-vorm
+- **afloop:** keert om
+- **hoofdpersoon:** 26-40|v
+- **leeftijd:** 32
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 0
+- **g_horror:** 1
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase7-c
+- **wereldregel_code:** SEKS-VOLK-skerra-klifparen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.417
+- **genrematch:** 
+- **marginale_winst:** 0.7312
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-skerra-hilt
+- **premisse:** Hilt Gebonden Veer wil zijn vleugels terug en wacht op een kans om uit de tempel te vluchten. Sinds er scheuren in de Zegel zitten, staat de tempel op scherp; met gekortwiekte vleugels kan hij alleen te voet weg, langs mensen die hem als dienaar kennen.
+- **premisse_codes:** PER-skerra-hilt;ERF-barsten;SEKS-VOLK-skerra-klifparen;ZAAD-VERHAAL-fase7-c
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-a5d3ff57 · 18-25|groep
+- **code:** VP-801-a5d3ff57
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** liefde tussen posities
+- **genre:** horror
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** toespraak
+- **afloop:** komt uit
+- **hoofdpersoon:** 18-25|groep
+- **leeftijd:** 22
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 5
+- **g_horror:** 5
+- **g_suspense:** 4
+- **g_actie:** 1
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase7-b
+- **wereldregel_code:** RIT-wijding
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.922
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.5
+- **kosten:** 0.214
+- **genrematch:** 
+- **marginale_winst:** 0.7266
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-gew-kara
+- **premisse:** Kara Bakster wil voor haar dochter een gunstbrief en zet daarvoor haar spaargeld in, terwijl ze al bij Varenne in het krijt staat. Sinds de zaadmarkt instortte kan een brief morgen niets meer waard zijn; gaat het mis, dan erft haar dochter de schuld.
+- **premisse_codes:** PER-gew-kara;ERF-barsten;RIT-wijding;ZAAD-VERHAAL-fase7-b
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-8aeb23d7 · 26-40|groep
+- **code:** VP-801-8aeb23d7
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** liefde tussen posities
+- **genre:** romance
+- **schaal:** stad
+- **volk:** myrrhen
+- **vorm:** ballade
+- **afloop:** faalt
+- **hoofdpersoon:** 26-40|groep
+- **leeftijd:** 32
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase7-a
+- **wereldregel_code:** SEKS-VOLK-myrrhen-brandzoekers
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.667
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.179
+- **genrematch:** 
+- **marginale_winst:** 0.6836
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-myrrhen-4-2
+- **premisse:** Lys Rotbed wil de doden laten spreken en vindt in het net de stem van Annike, wier ring nu aan het koord van Marit Schrijfster hangt. De donkere rijken drukken tegen het net sinds de Zegel lekt; laat ze Annike te lang praten, dan praat er iets anders mee.
+- **premisse_codes:** PERS-Z4-myrrhen-4-2;ERF-barsten;SEKS-VOLK-myrrhen-brandzoekers;ZAAD-VERHAAL-fase7-a
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-868ced70 · 41-60|m
+- **code:** VP-801-868ced70
+- **run:** Z36-02
+- **fase:** 801 Heden
+- **positie:** liefde tussen posities
+- **genre:** thriller
+- **schaal:** dorp
+- **volk:** vathren
+- **vorm:** aftellen
+- **afloop:** keert om
+- **hoofdpersoon:** 41-60|m
+- **leeftijd:** 50
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 3
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-barsten
+- **zaadje_code:** ZAAD-VERHAAL-fase6-c-Z32
+- **wereldregel_code:** SEKS-VOLK-vathren-afwenders
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-801;REGEL-harde-grenzen
+- **herkomst:** positie vullen (dekking)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.667
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.321
+- **genrematch:** 
+- **marginale_winst:** 0.6619
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-vathren-orl
+- **premisse:** Orl Brandzoeker zoekt de koorts tot het randje en verkoopt zich aan Kharvos, terwijl hij voor de Orde spioneert. Door het lek brandt die koorts heter dan ooit; elke nacht in zijn rol kan zijn laatste zijn, en de afwenders in zijn clan zien het allang.
+- **premisse_codes:** PER-vathren-orl;ERF-barsten;SEKS-VOLK-vathren-afwenders;ZAAD-VERHAAL-fase6-c-Z32
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-8b8c0046 · 61+|wisselend
+- **code:** VP-4-8b8c0046
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** toeschouwer
+- **genre:** intrige
+- **schaal:** huis
+- **volk:** grauwen
+- **vorm:** documenten
+- **afloop:** keert om
+- **hoofdpersoon:** 61+|wisselend
+- **leeftijd:** 67
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 1
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-grauwen-ontsluierden
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.238
+- **genrematch:** 
+- **marginale_winst:** 0.547
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-grauwen-4-1
+- **premisse:** Grem wil een plaats voor de Grauwen in de boeken, maar die boeken zijn de registers van de Orde, en een naam erin maakt je mannen deelbaar. Ontsluiert hij zijn mensen voor de klerken, dan worden ze gezien en geteld tegelijk.
+- **premisse_codes:** PERS-Z4-grauwen-4-1;ERF-noodtoestand;SEKS-VOLK-grauwen-ontsluierden;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-d35cf227 · 41-60|groep
+- **code:** VP-4-d35cf227
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** liefde tussen posities
+- **genre:** horror
+- **schaal:** dorp
+- **volk:** dhurn
+- **vorm:** dagboek
+- **afloop:** keert om
+- **hoofdpersoon:** 41-60|groep
+- **leeftijd:** 50
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 0
+- **g_horror:** 5
+- **g_suspense:** 4
+- **g_actie:** 1
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-dhurn-mijnbroeders-Z6
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.756
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.5
+- **kosten:** 0.268
+- **genrematch:** 
+- **marginale_winst:** 0.5464
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-dhurn-4-1-Z38
+- **premisse:** Een Dhurn-kluisopener hoort een koud huis haar naam zeggen en wil weten hoe het die kent. Namen staan in de registers van de Orde, en een kluis die meeleest is gevaarlijk voor wie die registers beheert; ze moet het uitzoeken zonder dat haar gilde haar opgeeft.
+- **premisse_codes:** PERS-Z4-dhurn-4-1-Z38;ERF-noodtoestand;SEKS-VOLK-dhurn-mijnbroeders-Z6;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-60b25ae9 · 61+|groep
+- **code:** VP-4-60b25ae9
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** vervalser
+- **genre:** mysterie
+- **schaal:** wereld
+- **volk:** dhurn
+- **vorm:** getuigenverslag
+- **afloop:** komt uit
+- **hoofdpersoon:** 61+|groep
+- **leeftijd:** 67
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-dhurn-mijnbroeders-Z6
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.756
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.417
+- **genrematch:** 
+- **marginale_winst:** 0.539
+- **gevoeligheid:** 
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-dhurn-4-1-Z38
+- **premisse:** 
+- **premisse_codes:** geen premisse: drager zonder Wil in personage_profiel
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** VP-4-d35cf227
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-4a1ce734 · 26-40|m
+- **code:** VP-4-4a1ce734
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** beslisser
+- **genre:** komedie
+- **schaal:** rijk
+- **volk:** kluwer
+- **vorm:** jij-vorm
+- **afloop:** keert om
+- **hoofdpersoon:** 26-40|m
+- **leeftijd:** 32
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 5
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 1
+- **g_intrige:** 2
+- **g_komedie:** 5
+- **g_tragiek:** 0
+- **erf_code:** ERF-brand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-kluwer-korfzusters
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.4
+- **kosten:** 0.357
+- **genrematch:** 
+- **marginale_winst:** 0.5126
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-kluwer-4-1
+- **premisse:** Zzak Waskoerier wil zijn honingwas kwijt aan de Burcht, maar de Zusters daar zijn zo verdeeld dat elke bestelling twee keer binnenkomt, van de zeven en van de vijf. Hij levert aan allebei en verdient goed, tot ze ontdekken dat hun kaarsen uit dezelfde korf komen.
+- **premisse_codes:** PERS-Z4-kluwer-4-1;ERF-brand;SEKS-VOLK-kluwer-korfzusters;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-3e74d18b · 26-40|wisselend
+- **code:** VP-4-3e74d18b
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** ontdekker
+- **genre:** horror
+- **schaal:** rijk
+- **volk:** vathren
+- **vorm:** kamerspel
+- **afloop:** werkt
+- **hoofdpersoon:** 26-40|wisselend
+- **leeftijd:** 32
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 0
+- **g_horror:** 5
+- **g_suspense:** 4
+- **g_actie:** 1
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-vathren-hartparen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.39
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.5
+- **kosten:** 0.357
+- **genrematch:** 
+- **marginale_winst:** 0.4277
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f4-vathren-kerl
+- **premisse:** Kerl Pulsdrager hoort het bloed kloppen en wil de clans waarschuwen wie te nauw verwant zijn. Maar de registers bepalen wie met wie mag, en wie zegt dat ze liegen, verraadt dat hij zelf kan voelen wat de Orde in boeken bewaart.
+- **premisse_codes:** PER-f4-vathren-kerl;ERF-noodtoestand;SEKS-VOLK-vathren-hartparen
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-2be6ef78 · 18-25|groep
+- **code:** VP-4-2be6ef78
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** profiteur
+- **genre:** actie
+- **schaal:** dorp
+- **volk:** skerra
+- **vorm:** rondes
+- **afloop:** werkt
+- **hoofdpersoon:** 18-25|groep
+- **leeftijd:** 22
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 1
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 5
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-brand
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-skerra-windzusters
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.333
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.375
+- **genrematch:** 
+- **marginale_winst:** 0.4163
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-skerra-4-2-Z5b
+- **premisse:** Een Skerra-koerierster vervoert de eerste registers en leest ze onderweg; ze zijn vervalst. Bij een Zegel die de Zusters zelf niet doorgronden is een vals register het enige houvast dat ze hebben, en wie het breekt, vliegt nooit meer met haar windzusters.
+- **premisse_codes:** PERS-Z4-skerra-4-2-Z5b;ERF-brand;SEKS-VOLK-skerra-windzusters
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-76562355 · 26-40|m
+- **code:** VP-4-76562355
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** betaler
+- **genre:** survival
+- **schaal:** wereld
+- **volk:** grauwen
+- **vorm:** dagboek
+- **afloop:** werkt
+- **hoofdpersoon:** 26-40|m
+- **leeftijd:** 32
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 2
+- **g_suspense:** 3
+- **g_actie:** 3
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** ERF-brand
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-grauwen-ontsluierden
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.39
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.4
+- **kosten:** 0.417
+- **genrematch:** 
+- **marginale_winst:** 0.4067
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-nood-grauwen-V5
+- **premisse:** Grem de Eerste Grauwe wil dat zijn volk erkend wordt en klaagt de Orde aan. Een Orde die haar eigen Zegel niet begrijpt, kan ook niet uitleggen waarom zijn mensen vervormd geboren worden; maar wie aanklaagt, moet zijn afstamming tonen, en zijn vader was ook zijn oom.
+- **premisse_codes:** PER-nood-grauwen-V5;ERF-brand;SEKS-VOLK-grauwen-ontsluierden
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-df8f31e3 · 41-60|v
+- **code:** VP-4-df8f31e3
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** toeschouwer
+- **genre:** horror
+- **schaal:** stad
+- **volk:** orrim
+- **vorm:** jij-vorm
+- **afloop:** faalt
+- **hoofdpersoon:** 41-60|v
+- **leeftijd:** 50
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 3
+- **g_actie:** 1
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-orrim-beelden
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.667
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.5
+- **kosten:** 0.298
+- **genrematch:** 
+- **marginale_winst:** 0.5167
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-orrim-4-2-Z5b
+- **premisse:** Een Orrim-rouwer zingt voor zijn gebonden verwanten en merkt dat de Zegel van zijn lied trilt. Het Jongenshof en de registers houden het land stil; een lied dat de Zegel raakt, verbiedt de Orde nog voor het af is, en wie blijft zingen, wordt zelf een beeld.
+- **premisse_codes:** PERS-Z4-orrim-4-2-Z5b;ERF-noodtoestand;SEKS-VOLK-orrim-beelden;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-b03c5d53 · 18-25|v
+- **code:** VP-4-b03c5d53
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** liefde tussen posities
+- **genre:** actie
+- **schaal:** wereld
+- **volk:** ves-lethi
+- **vorm:** zelfportret
+- **afloop:** faalt
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 22
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 2
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 5
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-ves-lethi-spiegels
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.667
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.417
+- **genrematch:** 
+- **marginale_winst:** 0.5123
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-veslethi-4-2-Z5b-Z38
+- **premisse:** De Ves-Lethi die man werd om een dorp te redden, staat binnen een week als vruchtbaar in het mannenregister. Vanaf dan is hij van iedereen, en terugwisselen betekent dat het dorp zonder hem verder moet.
+- **premisse_codes:** PERS-Z4-veslethi-4-2-Z5b-Z38;ERF-noodtoestand;SEKS-VOLK-ves-lethi-spiegels;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-37b6872b · 41-60|m
+- **code:** VP-4-37b6872b
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** liefde tussen posities
+- **genre:** intrige
+- **schaal:** stad
+- **volk:** ishvar
+- **vorm:** wij-vorm
+- **afloop:** komt uit
+- **hoofdpersoon:** 41-60|m
+- **leeftijd:** 50
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-ishvar-eedmeesters
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.667
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.417
+- **genrematch:** 
+- **marginale_winst:** 0.5123
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-ishvar-4-2-Z38
+- **premisse:** Een Ishvar met volle verhouding wil zijn kamp vol kinderen in leven houden, waar de helft van de baby's jongens zijn. Elders telt het register elke jongen als bezit van allen; de Orde stuurt een stille moordenares, en hij moet beslissen of hij zijn zonen laat opschrijven om haar voor te zijn.
+- **premisse_codes:** PERS-Z4-ishvar-4-2-Z38;ERF-noodtoestand;SEKS-VOLK-ishvar-eedmeesters;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-1e17af11 · 18-25|m
+- **code:** VP-4-1e17af11
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** beslisser
+- **genre:** survival
+- **schaal:** huis
+- **volk:** dhurn
+- **vorm:** lichaam als verteller
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 18-25|m
+- **leeftijd:** 22
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 2
+- **g_suspense:** 3
+- **g_actie:** 3
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-brand
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-dhurn-seizoenparen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.39
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.4
+- **kosten:** 0.381
+- **genrematch:** 
+- **marginale_winst:** 0.4103
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-dhurn-4-2-Z5b
+- **premisse:** Een Dhurn-gildevoorman legt het Sterrensteenmonopolie vast met de jonge Orde en wil dat het blijft staan. Hij tekende met een vals register, en de vijf Zusters die tegen het Offer stemden, zoeken precies zo'n vervalsing; valt die uit, dan valt het monopolie met hem.
+- **premisse_codes:** PERS-Z4-dhurn-4-2-Z5b;ERF-brand;SEKS-VOLK-dhurn-seizoenparen
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-628e36eb · 61+|groep
+- **code:** VP-4-628e36eb
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** vervalser
+- **genre:** romance
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** aftellen
+- **afloop:** faalt
+- **hoofdpersoon:** 61+|groep
+- **leeftijd:** 67
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 1
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** RIT-zwijgende-rit
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.836
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.357
+- **genrematch:** 
+- **marginale_winst:** 0.5629
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-ithra-oud
+- **premisse:** Ithra de Hofmoeder neemt jongens bij hun moeders weg om ze te beschermen, en het Jongenshof dat ze sticht wordt de plek waar de Orde ze telt. Wie haar boeken leest, ziet ook welke jongens ze apart zet voor de fokkerij.
+- **premisse_codes:** PER-ithra-oud;ERF-noodtoestand;RIT-zwijgende-rit;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-a6364ee3 · 26-40|m
+- **code:** VP-4-a6364ee3
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** ontdekker
+- **genre:** thriller
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** ballade
+- **afloop:** faalt
+- **hoofdpersoon:** 26-40|m
+- **leeftijd:** 32
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** RIT-maanzalving
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.798
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.214
+- **genrematch:** 
+- **marginale_winst:** 0.5583
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-halvar
+- **premisse:** Halvar de Gedeelde is volgens het register van iedereen, en hij wil maar van één vrouw zijn. Om dat vol te houden moet hij het kind uit hun liefde buiten de boeken houden die precies bijhouden wie van wie is.
+- **premisse_codes:** PER-halvar;ERF-noodtoestand;RIT-maanzalving;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-942e2254 · 18-25|v
+- **code:** VP-4-942e2254
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** toeschouwer
+- **genre:** romance
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** rondes
+- **afloop:** keert om
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 22
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 1
+- **g_horror:** 1
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** RIT-zwijgende-rit
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.836
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.5
+- **genrematch:** 
+- **marginale_winst:** 0.5486
+- **gevoeligheid:** 
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-aelthir-3-1
+- **premisse:** Wat Ithra de Hofmoeder (stichteres van het Jongenshof) wil is de jongens bescherm Haak: zie PER-ithra-oud; Registers als machtsmiddel, mannen als gedeeld bezit, het Jongenshof als controle houdt dat tegen, tegen een prijs die de laatste mannen (uitgeput) en vrouwen zonder kind (FASE-noodtoestand) draagt. [PERS-Z4-aelthir-3-1;ERF-noodtoestand;fase_rijm:4 Noodtoestand]
+- **premisse_codes:** PERS-Z4-aelthir-3-1;ERF-noodtoestand;fase_rijm:4 Noodtoestand
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** VP-4-628e36eb
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-3ac4ec7b · 41-60|v
+- **code:** VP-4-3ac4ec7b
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** liefde tussen posities
+- **genre:** romance
+- **schaal:** stad
+- **volk:** kluwer
+- **vorm:** toespraak
+- **afloop:** keert om
+- **hoofdpersoon:** 41-60|v
+- **leeftijd:** 50
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-kluwer-korfzusters
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.179
+- **genrematch:** 
+- **marginale_winst:** 0.5468
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** 
+- **premisse:** geen premisse: geen drager (nieuw personage nodig)
+- **premisse_codes:** 
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-bff6c62f · 26-40|groep
+- **code:** VP-4-bff6c62f
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** toeschouwer
+- **genre:** thriller
+- **schaal:** wereld
+- **volk:** mens
+- **vorm:** register als verteller
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-40|groep
+- **leeftijd:** 32
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 5
+- **g_horror:** 2
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** RIT-maanzalving
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.798
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.333
+- **genrematch:** 
+- **marginale_winst:** 0.5464
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f4-orde-moeder-iris
+- **premisse:** Moeder Iris wil van de Zusters een kerk maken en geeft ze daarvoor een nieuwe naam. Een kerk heeft heilige boeken nodig, en de hare zijn de registers die mannen verdelen; wie ver genoeg terugbladert, ziet dat de Orde begon als kantoor van Saske.
+- **premisse_codes:** PER-f4-orde-moeder-iris;ERF-noodtoestand;RIT-maanzalving;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-55ef90f5 · 41-60|groep
+- **code:** VP-4-55ef90f5
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** profiteur
+- **genre:** intrige
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** kamerspel
+- **afloop:** komt uit
+- **hoofdpersoon:** 41-60|groep
+- **leeftijd:** 50
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 1
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-brand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** RIT-maanzalving
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.798
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.268
+- **genrematch:** 
+- **marginale_winst:** 0.5379
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-vehlin
+- **premisse:** Vehlin de Stille heeft de Zegel gezien en bewaart Mira's afschrift van Anaths notities op de Stille eilanden. Ze wil de waarheid veilig houden, maar de Orde begrijpt zelf niet wat ze heeft gelegd en zoekt elke getuige; blijven betekent dat ze nooit meer kan weglopen.
+- **premisse_codes:** PER-vehlin;ERF-brand;RIT-maanzalving;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-90ca192a · 26-40|m
+- **code:** VP-4-90ca192a
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** betaler
+- **genre:** romance
+- **schaal:** huis
+- **volk:** tharn
+- **vorm:** lijst die krimpt
+- **afloop:** keert om
+- **hoofdpersoon:** 26-40|m
+- **leeftijd:** 32
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-brand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-tharn-rouwparen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.7
+- **kosten:** 0.286
+- **genrematch:** 
+- **marginale_winst:** 0.5361
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-tharn-4-1
+- **premisse:** Bula de Zachte Reus wil haar volk een toekomst geven en bouwt daarvoor dijken voor de jonge Orde. Die Orde legt een Zegel waarvan niemand kan zeggen wat hij met reuzen doet, en Bula bouwt door terwijl ze rouwt om kinderen die er nog niet zijn.
+- **premisse_codes:** PERS-Z4-tharn-4-1;ERF-brand;SEKS-VOLK-tharn-rouwparen;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-c2519535 · 41-60|m
+- **code:** VP-4-c2519535
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** beslisser
+- **genre:** actie
+- **schaal:** dorp
+- **volk:** aelthir
+- **vorm:** kasboek
+- **afloop:** keert om
+- **hoofdpersoon:** 41-60|m
+- **leeftijd:** 50
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 0
+- **g_horror:** 0
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-brand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-aelthir-glazen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.756
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.214
+- **genrematch:** 
+- **marginale_winst:** 0.5307
+- **gevoeligheid:** 
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-aelthir-4-1-Z38
+- **premisse:** 
+- **premisse_codes:** geen premisse: drager zonder Wil in personage_profiel
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** VP-4-4534de18
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-13154f16 · 26-40|m
+- **code:** VP-4-13154f16
+- **run:** Z36-03
+- **fase:** 4 Noodtoestand
+- **positie:** liefde tussen posities
+- **genre:** thriller
+- **schaal:** dorp
+- **volk:** kluwer
+- **vorm:** getuigenverslag
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-40|m
+- **leeftijd:** 32
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 3
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-noodtoestand
+- **zaadje_code:** ZAAD-VERHAAL-fase3-Z35-1
+- **wereldregel_code:** SEKS-VOLK-kluwer-korfzusters
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-4;REGEL-harde-grenzen
+- **herkomst:** test fase 4 (20 profielen)
+- **doelprofiel:** 
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.268
+- **genrematch:** 
+- **marginale_winst:** 0.5304
+- **gevoeligheid:** 
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-kluwer-4-1
+- **premisse:** Zzak Waskoerier wil honingwas ruilen tussen korf en mensen, en rijdt daarvoor langs de grenzen van een land waar mannen gemeengoed zijn. Zijn waskarren zijn ideaal om een man in te verstoppen; neemt hij er één mee, dan is hij geen koerier meer maar een dief.
+- **premisse_codes:** PERS-Z4-kluwer-4-1;ERF-noodtoestand;SEKS-VOLK-kluwer-korfzusters;ZAAD-VERHAAL-fase3-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-ce910fec · 18-25|v
+- **code:** VP-6-ce910fec
+- **run:** Z36-04
+- **fase:** 6 Markt
+- **positie:** toeschouwer
+- **genre:** thriller
+- **schaal:** rijk
+- **volk:** grauwen
+- **vorm:** lijst die krimpt
+- **afloop:** keert om
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 22
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 2
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-markt
+- **zaadje_code:** ZAAD-VERHAAL-fase5-Z35-2
+- **wereldregel_code:** SEKS-VOLK-grauwen-walghuurders
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** demo fase 6
+- **doelprofiel:** erotische suspense
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.667
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.429
+- **genrematch:** 0.9
+- **marginale_winst:** 0.6009
+- **gevoeligheid:** robuust buiten de top-3 (10 verschuivingen)
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-grauwen-6-2-Z38
+- **premisse:** Kael de Rover wil rijk worden aan gestolen mannen en verkoopt ze in plaats van ze te delen. Zijn beste klant is Varenne, bij wie de halve kust schuld heeft; wie aan haar verkoopt, staat in haar boeken, en die boeken kan het Tribunaal elk moment opvragen.
+- **premisse_codes:** PERS-Z4-grauwen-6-2-Z38;ERF-markt;SEKS-VOLK-grauwen-walghuurders;ZAAD-VERHAAL-fase5-Z35-2
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-dad38114 · 41-60|m
+- **code:** VP-6-dad38114
+- **run:** Z36-04
+- **fase:** 6 Markt
+- **positie:** vervalser
+- **genre:** mysterie
+- **schaal:** stad
+- **volk:** tharn
+- **vorm:** dagboek
+- **afloop:** faalt
+- **hoofdpersoon:** 41-60|m
+- **leeftijd:** 50
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 5
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** ERF-markt
+- **zaadje_code:** ZAAD-VERHAAL-fase5-Z35-2
+- **wereldregel_code:** SEKS-VOLK-tharn-rouwparen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** demo fase 6
+- **doelprofiel:** erotische suspense
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.298
+- **genrematch:** 0.825
+- **marginale_winst:** 0.5978
+- **gevoeligheid:** robuust buiten de top-3 (10 verschuivingen)
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-tharn-oela
+- **premisse:** Oela de Laatste Moeder wil een kind, en omdat Tharn-kinderen sterven, kiest ze een mensenman. In de fokstallen van Varenne is zo'n man te koop, maar alleen tegen een schuld die haar volk mee moet dragen.
+- **premisse_codes:** PER-tharn-oela;ERF-markt;SEKS-VOLK-tharn-rouwparen;ZAAD-VERHAAL-fase5-Z35-2
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-d9b4e106 · 41-60|groep
+- **code:** VP-6-d9b4e106
+- **run:** Z36-04
+- **fase:** 6 Markt
+- **positie:** beslisser
+- **genre:** thriller
+- **schaal:** dorp
+- **volk:** aelthir
+- **vorm:** rechtszaak
+- **afloop:** werkt
+- **hoofdpersoon:** 41-60|groep
+- **leeftijd:** 50
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-ontvangst
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-aelthir-glazen
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** demo fase 6
+- **doelprofiel:** erotische suspense
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.446
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.321
+- **genrematch:** 0.9
+- **marginale_winst:** 0.5565
+- **gevoeligheid:** robuust buiten de top-3 (10 verschuivingen)
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-aelthir-6-2-Z5b-Z38
+- **premisse:** 
+- **premisse_codes:** geen premisse: drager zonder Wil in personage_profiel
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** VP-6-cf040865
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-9ea83228 · 26-40|wisselend
+- **code:** VP-6-9ea83228
+- **run:** Z36-04
+- **fase:** 6 Markt
+- **positie:** ontdekker
+- **genre:** mysterie
+- **schaal:** rijk
+- **volk:** kluwer
+- **vorm:** toespraak
+- **afloop:** werkt
+- **hoofdpersoon:** 26-40|wisselend
+- **leeftijd:** 32
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 5
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 0
+- **g_intrige:** 3
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-markt
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-kluwer-korfzusters
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** demo fase 6
+- **doelprofiel:** erotische suspense
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.39
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.214
+- **genrematch:** 0.9
+- **marginale_winst:** 0.5396
+- **gevoeligheid:** robuust buiten de top-3 (10 verschuivingen)
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-kluwer-schurk-broedmoeder
+- **premisse:** Broedmoeder Vasse wil haar korf laten groeien en mengt daarvoor het zaad van gestolen mensenmannen door het broed. Ze koopt het van wie bij Varenne in de schuld staat; begint het Tribunaal ooit te graven, dan begint het bij de korf waar die mannen nooit meer uitkwamen.
+- **premisse_codes:** PER-kluwer-schurk-broedmoeder;ERF-markt;SEKS-VOLK-kluwer-korfzusters
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-ab3bf9c8 · 41-60|groep
+- **code:** VP-6-ab3bf9c8
+- **run:** Z36-04
+- **fase:** 6 Markt
+- **positie:** betaler
+- **genre:** survival
+- **schaal:** stad
+- **volk:** vathren
+- **vorm:** twee stemmen
+- **afloop:** keert om
+- **hoofdpersoon:** 41-60|groep
+- **leeftijd:** 50
+- **geslacht:** groep
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 2
+- **g_suspense:** 4
+- **g_actie:** 3
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** ERF-ontvangst
+- **zaadje_code:** ZAAD-VERHAAL-fase5-Z35-2
+- **wereldregel_code:** SEKS-VOLK-vathren-afwenders
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** demo fase 6
+- **doelprofiel:** erotische suspense
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.4
+- **kosten:** 0.714
+- **genrematch:** 0.75
+- **marginale_winst:** 0.5315
+- **gevoeligheid:** robuust buiten de top-3 (10 verschuivingen)
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PER-vathren-schurk-dax-Z38
+- **premisse:** 
+- **premisse_codes:** geen premisse: drager zonder Wil in personage_profiel
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** VP-6-55d609bb
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-55d609bb · 61+|wisselend
+- **code:** VP-6-55d609bb
+- **run:** Z36-04
+- **fase:** 6 Markt
+- **positie:** profiteur
+- **genre:** thriller
+- **schaal:** dorp
+- **volk:** vathren
+- **vorm:** toespraak
+- **afloop:** komt uit
+- **hoofdpersoon:** 61+|wisselend
+- **leeftijd:** 67
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-ontvangst
+- **zaadje_code:** ZAAD-VERHAAL-fase5-Z35-1
+- **wereldregel_code:** SEKS-VOLK-vathren-gloedlikkers
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** demo fase 6
+- **doelprofiel:** erotische suspense
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.161
+- **genrematch:** 0.9
+- **marginale_winst:** 0.6129
+- **gevoeligheid:** robuust (blijft in de top-3 bij alle 10 verschuivingen van ±10%)
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-vathren-schurk-dax-Z38
+- **premisse:** Dax Brandader wil verdienen aan Morvanes oorlog en brandt voor hem dorpen plat. Hij wordt betaald in gunstbrieven, die alleen iets waard zijn zolang de tempels draaien; met elk dorp dat hij uitbrandt, verdwijnt er een tempel.
+- **premisse_codes:** PER-vathren-schurk-dax-Z38;ERF-ontvangst;SEKS-VOLK-vathren-gloedlikkers;ZAAD-VERHAAL-fase5-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-66abf285 · 41-60|m
+- **code:** VP-6-66abf285
+- **run:** Z36-04
+- **fase:** 6 Markt
+- **positie:** liefde tussen posities
+- **genre:** thriller
+- **schaal:** wereld
+- **volk:** myrrhen
+- **vorm:** ballade
+- **afloop:** komt uit
+- **hoofdpersoon:** 41-60|m
+- **leeftijd:** 50
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-markt
+- **zaadje_code:** ZAAD-VERHAAL-fase5-Z35-1
+- **wereldregel_code:** SEKS-VOLK-myrrhen-tweedraad
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** demo fase 6
+- **doelprofiel:** erotische suspense
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.723
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.65
+- **kosten:** 0.25
+- **genrematch:** 0.925
+- **marginale_winst:** 0.6108
+- **gevoeligheid:** robuust buiten de top-3 (10 verschuivingen)
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-myrrhen-4-1
+- **premisse:** Ondal Netwever wil niet sterven en laat het schimmelnet door zich heen groeien. In een land dat bij Varenne in de schuld staat, is een man die niet doodgaat handelswaar; groeit hij verder, dan wordt hij iets wat niemand meer kan kopen of begraven.
+- **premisse_codes:** PERS-Z4-myrrhen-4-1;ERF-markt;SEKS-VOLK-myrrhen-tweedraad;ZAAD-VERHAAL-fase5-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-a53d9bf2 · 41-60|v
+- **code:** VP-6-a53d9bf2
+- **run:** Z36-04
+- **fase:** 6 Markt
+- **positie:** ontdekker
+- **genre:** actie
+- **schaal:** dorp
+- **volk:** myrrhen
+- **vorm:** realtime
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 41-60|v
+- **leeftijd:** 50
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-markt
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-myrrhen-rotpriesters
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** demo fase 6
+- **doelprofiel:** erotische suspense
+- **nieuwheid:** 0.857
+- **verbondenheid:** 0.333
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.321
+- **genrematch:** 0.8
+- **marginale_winst:** 0.4974
+- **gevoeligheid:** robuust buiten de top-3 (10 verschuivingen)
+- **uitslag:** samengevoegd
+- **reden:** 
+- **status:** vervangen
+- **ideeenbank:** 1
+- **drager:** PER-myrr-ondal
+- **premisse:** Wat Ondal Netwever (eerste Myrrhen) wil is niet sterven; Fokstallen, schuldenlast bij Varenne, het Tribunaal dat alles verstart, een onbewaakte Zegel houdt dat tegen, en verliest misschien de dekking van dat het netwerk de doden onthoudt. [PER-myrr-ondal;ERF-markt]
+- **premisse_codes:** PER-myrr-ondal;ERF-markt
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** VP-6-66abf285
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-2ce8c763 · 41-60|m
+- **code:** VP-6-2ce8c763
+- **run:** Z36-04
+- **fase:** 6 Markt
+- **positie:** toeschouwer
+- **genre:** actie
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** zelfportret
+- **afloop:** keert om
+- **hoofdpersoon:** 41-60|m
+- **leeftijd:** 50
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 5
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** ERF-markt
+- **zaadje_code:** ZAAD-VERHAAL-fase5-Z35-2
+- **wereldregel_code:** RIT-veiling
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** demo fase 6
+- **doelprofiel:** erotische suspense
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.911
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.298
+- **genrematch:** 0.825
+- **marginale_winst:** 0.62
+- **gevoeligheid:** robuust (blijft in de top-3 bij alle 10 verschuivingen van ±10%)
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f6-stalmeester-kobus-Z32
+- **premisse:** Kobus Stalmeester wil zijn baan in de fokstallen van Hal-Neth houden en legt daarvoor een heelster het zwijgen op. Het Tribunaal verandert niets zonder een schuldige; zwijgen houdt hem binnen, praten maakt hem die schuldige.
+- **premisse_codes:** PER-f6-stalmeester-kobus-Z32;ERF-markt;RIT-veiling;ZAAD-VERHAAL-fase5-Z35-2
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-4b9f7c0d · 41-60|wisselend
+- **code:** VP-6-4b9f7c0d
+- **run:** Z36-04
+- **fase:** 6 Markt
+- **positie:** vervalser
+- **genre:** mysterie
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** realtime
+- **afloop:** keert om
+- **hoofdpersoon:** 41-60|wisselend
+- **leeftijd:** 50
+- **geslacht:** wisselend
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 5
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** ERF-markt
+- **zaadje_code:** ZAAD-VERHAAL-fase5-Z35-1
+- **wereldregel_code:** RIT-veiling
+- **kern_codes:** BESLUIT-Z30-4;BESLUIT-Z36-4;FASE-OVERZICHT-Z36-6;REGEL-harde-grenzen;VALS-markt-Z36
+- **herkomst:** demo fase 6
+- **doelprofiel:** erotische suspense
+- **nieuwheid:** 0.714
+- **verbondenheid:** 0.911
+- **seriewaarde:** 0.0
+- **lezersvraag:** 0.55
+- **kosten:** 0.429
+- **genrematch:** 0.875
+- **marginale_winst:** 0.6196
+- **gevoeligheid:** robuust (blijft in de top-3 bij alle 10 verschuivingen van ±10%)
+- **uitslag:** voorgesteld
+- **reden:** 
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-veslethi-3-1
+- **premisse:** Ithrel de Ontruimster wil begraven wat ze in Ves-Anath zag, en een Tribunaal dat alles bevriest helpt haar daarbij. Alleen ligt de Zegel er nu onbewaakt bij, en wie gaat kijken, vindt het geheim dat zij eronder schoof.
+- **premisse_codes:** PERS-Z4-veslethi-3-1;ERF-markt;RIT-veiling;ZAAD-VERHAAL-fase5-Z35-1
+- **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
+- **vervangen_door:** 
+<!-- /REC -->
+
+<!-- SECTIE: DOEL -->

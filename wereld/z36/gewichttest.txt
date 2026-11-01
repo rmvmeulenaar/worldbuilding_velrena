@@ -1,0 +1,4 @@
+# Bradley-Terry-test: synthetische keuzes van een lezer die alleen op nieuwheid let (tijdelijke kopie, niets bewaard)
+Bradley-Terry uit 104 keuzes: coëfficiënten {'nieuwheid': 2.713, 'verbondenheid': -1.597, 'seriewaarde': 0.197, 'lezersvraag': 0.173, 'kosten': 0.354} -> gewichten {'nieuwheid': 0.79, 'verbondenheid': 0.0, 'seriewaarde': 0.057, 'lezersvraag': 0.05, 'kosten': 0.103}
+# swing-test
+swing-gewichten: {'kosten': 0.034, 'lezersvraag': 0.138, 'nieuwheid': 0.207, 'seriewaarde': 0.276, 'verbondenheid': 0.345}

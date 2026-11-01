@@ -1,0 +1,5 @@
+# Ronde Z31: robuust tegen kettingschade (2026-10-31)
+Additief, niets verwijderd, geen canonfeit (kolom feit/status) gewijzigd, roman niet aangeraakt. Backup canon_backup_Z31.db (vóór wijzigingen); genereer/export/importeer/afgeleid/vraag_backup_Z30.py; verhalen/canon_lees_backup_Z30.db.
+Toetsen (uitkomst in z31/stats.json en z31/toets_rapport.md): handmatige draagkracht (nieuwe kolom draagkracht_handmatig, voorrang), Kern alleen vastgesteld, veilig_18plus=0-tekst, varianten, feit_schoon-verlies, herhaling sleutelfeiten (tabel anker), toets.py, naambotsingen (naam_markering), migraties (migraties/, schema_versie), wijziging (licht event sourcing), lagen in SCHEMA.md, vraag.py wie-leunt-op/kern/open/ideeen/toets.
+Creatief alleen als voorstel: VOORSTEL-Z31-mal-1..5, VOORSTEL-Z31-liora-1, VOORSTEL-Z31-thalen-1 (voorlopig); WRIJ-Z31-1..14; VRAAG-Z31-1..4.
+Controles: tweede run voegt niets toe; toets.py exit 0 (11 bekende bevindingen geregistreerd); roundtrip.py 0 verschillen in alle 13 tabellen + views; grep Z31-rijen schoon.
