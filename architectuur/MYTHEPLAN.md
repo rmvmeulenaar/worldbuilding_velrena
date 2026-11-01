@@ -189,6 +189,31 @@ create table vervorming(cluster text, stap int, eeuw text, tekst text, regel tex
 
 **Netwerk:** Wikidata en Gutenberg zijn vanaf een gewone computer bereikbaar. In een afgeschermde cloudsessie kunnen ze geblokkeerd zijn. Draai M0 dan lokaal, in Claude Code op je eigen machine.
 
+## Tijdsplanning: drie klokken
+In 800 jaar (de leeftijd van het Zegel) of de 2.040 jaar van Velmara past dit niet allemaal. Daarom zijn er drie klokken.
+
+| Klok | Wat | Duur | Status |
+|---|---|---|---|
+| **1. Velmara** | landing tot 801, de acht lagen | Zegeljaren −1240 tot 801 (ca. 2.040 jaar) | canon, ligt vast |
+| **2. Na het Zegel** | de magie sterft (alleen gegeven kracht blijft), de volken vervagen, de heldentijd (zoals Midden-aarde) | eeuwen tot enkele duizenden jaren | **te beslissen door Rogier** |
+| **3. De aarde** | de herinnering bereikt de aarde en vervormt tot onze mythen | tienduizenden jaren, gerekend in jaren geleden (BP) | **te beslissen door Rogier**: hoe de herinnering aankomt (via de vloot en de kaartplaat, via mensen die overstaken, via scherven die vielen) |
+
+**Tijdvenster per mythecluster, uit de verspreiding.** De verspreiding (Berezkin, Witzel) bepaalt hoe oud de oorsprong moet zijn:
+
+| Verspreiding | Oorsprong moet liggen | Waarom |
+|---|---|---|
+| alle continenten, ook Amerika en Oceanië | vóór ca. 15.000–20.000 jaar geleden | vóór de mens Amerika bereikte |
+| gedeelde verhaallijn van Eurazië (Witzel) | ca. 40.000–20.000 jaar geleden | Witzels datering |
+| Europa en Azië | ca. 10.000–5.000 jaar geleden | landbouw, de eerste steden |
+| één cultuur | jonger; kan historisch zijn | lokale vervorming |
+| eerste geschreven mythen | ca. 3200 v.Chr. (Mesopotamië) | ondergrens: vanaf hier staan ze op schrift |
+
+Elke oorsprong in `oorsprong.yaml` krijgt daarom twee extra velden: `aarde_venster` (bv. "vóór 15.000 BP") en `klok2_moment` (wanneer na het Zegel de vervorming begint). Vensters die elkaar tegenspreken, gaan naar de keuzelijst.
+
+**Het zwevende gat.** Tussen het einde van klok 2 en de eerste geschreven mythen ligt een lange periode waarover niemand iets weet (Vansina). Dat gat is geen probleem maar ruimte: daar spelen eigen verhalen. Bijvoorbeeld de laatste gaven-man, de eerste generatie die het zich niet meer herinnert, of een stam die een scherf vindt.
+
+**Planning van de verhalen per klok.** Klok 1 levert de reeks: boek 0 tot en met de finale. Klok 2 levert de heldentijd: een eigen reeks of losse verhalen. Klok 3 levert de verhalen op de aarde van nu en in de oudheid. Elke klok krijgt pas verhalen als Rogier haar duur en de manier van aankomen heeft vastgelegd.
+
 ## Stap 5: door de poort
 Elke oorsprong moet kloppen met de canon. Ze gaat als voorstel de ideeënbank in, en Rogier beslist wat canon wordt. Daarbij gelden twee dingen:
 - **De harde lijnen gelden ook voor mythen.** Veel oude mythen bevatten ontvoering of dwang. In Velmara wordt dat een gelabeld donker thema tussen volwassenen, of het blijft weg. Nooit minderjarigen.
