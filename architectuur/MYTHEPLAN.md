@@ -92,6 +92,50 @@ Zo wordt geschiedenis een mythe. Elke keten gebruikt er twee tot vier:
 - **de plek verschuift** naar een bekende plek op aarde;
 - **het erotische wordt verhuld** tot een huwelijk met een god, of een verboden vrucht.
 
+### Theorieën over hoe mythen vervormen (gereedschap voor de motor)
+| Theorie | Wat ze zegt | Wat de motor ermee doet |
+|---|---|---|
+| **Euhemerisme** (Euhemerus, ca. 300 v.Chr.) | goden waren ooit mensen die na hun dood vergoddelijkt werden | Makers, Ysa en gaven-mannen worden goden; dit is de ruggengraat van het hele plan |
+| **Serial reproduction** (Bartlett, *Remembering*, 1932) | wie een verhaal doorvertelt, maakt het korter, logischer en passend bij de eigen cultuur; vreemde details verdwijnen of worden vervangen door vertrouwde | per eeuw doorvertellen: vreemde techniek wordt magie, onbekende dieren worden bekende |
+| **Mondelinge overlevering** (Parry en Lord; Vansina) | vaste formules blijven, details zwerven; tussen de oorsprong en het recente verleden zit een "zwevend gat" | sommige zinnen blijven letterlijk staan ("de prijs van het lichaam"), de rest vervormt; het gat tussen 801 en onze tijd is dat zwevende gat |
+| **Structuralisme** (Lévi-Strauss) | varianten van een mythe zijn transformaties van dezelfde tegenstellingen (natuur/cultuur, leven/dood) | elke variant is een andere oplossing van de tegenstelling geven/nemen, ja/nee |
+| **Morfologie** (Propp) | verhalen bestaan uit vaste functies (verbod, overtreding, beproeving, terugkeer) | de vervormde mythe houdt de functies; personages en plekken wisselen |
+| **Ziekte van de taal** (Max Müller) | een beeldspraak wordt letterlijk genomen ("de zon verslindt de dageraad" wordt een monster) | uitdrukkingen uit Velmara worden wezens en gebeurtenissen |
+| **Geomythologie** (Adrienne Mayor) | mythen ontstaan uit vondsten: botten, fossielen, ruïnes | sporen van Velmara op aarde verklaren mythen (zie wezens) |
+| **Stamboom van mythen** (d'Huy) | mythen veranderen langs verspreidingsroutes, zoals talen | toets: de verspreiding van een vervormde mythe moet geloofwaardig ogen |
+
+### Hoe mythische wezens ontstaan, en wat ze in Velmara waren
+Wezens ontstaan op een handvol manieren:
+- **Botten en fossielen** (geomythologie): de griffioen uit fossielen van *Protoceratops* in de Gobi; de cycloop uit schedels van dwergolifanten met één groot neusgat (Abel, 1914).
+- **Verkeerd beschreven echte dieren:** de eenhoorn uit de narwal en de neushoorn; de zeemeermin uit doejongs en lamantijnen.
+- **Lichaam en ziekte:** de nachtmerrie en incubus/succubus uit slaapverlamming; de weerwolf en de vampier deels uit ziekte en ontbinding.
+- **Samenvoegen** van delen: sfinx, chimaera, minotaurus.
+- **Angsten en natuurkrachten** die een gezicht krijgen.
+- **Mensen die goden worden** (euhemerisme).
+
+In Velmara zijn de wezens **echt**. Body horror en volken zijn de oorsprong, en de vervorming doet de rest:
+
+| Aards wezen | Oorsprong in Velmara | Mechanisme |
+|---|---|---|
+| **dwergen** (smeden in de berg) | de **Dhurn**: stralingstaai gefokt voor de mijnen, met handen die de machines nog herkennen | volk wordt soort |
+| **elfen** (lang levend, geheugen, mist) | de **Aelthir**: hoven, het Lange Geheugen | volk wordt soort |
+| **feeën, feeënringen, vooroudergeesten** | de **Myrrhen**: het Netwerk onthoudt de doden; feeënringen | schimmel wordt magie |
+| **reuzen en trollen** | de **Tharn**: Bor de Poortreus, Grom de Reuzenstier | volk wordt soort |
+| **minotaurus** | de **reuzenstieren** in de stallen onder Saelith | gefokt lichaam wordt mengwezen |
+| **harpijen, engelen** | de **Skerra** met vleugels | volk wordt soort |
+| **zeemeerminnen, selkies, zwanenmaagden** | de **Sael-mor** en **Oevrin** | volk wordt soort; huid die je aflegt |
+| **weerwolven, kitsune, gedaantewisselaars** | de **Ves-Lethi** | volk wordt soort |
+| **draken, zeeslangen, Jörmungandr** | de **Leegtewormen**, met het Harrow-ruim in hun buik | dier wordt monster |
+| **vampiers** (koude die warmte steelt) | **zegellicht** dat de warmte uit ontvangsters trekt | ziekte wordt wezen |
+| **incubus en succubus** | de **Ontvangst** in tempels, de stormontlading | ritueel wordt nachtmerrie |
+| **wisselkinderen** | de **lekjongens**, verstopt en geruild om ze te redden | verborgen kind wordt feeënkind |
+| **versteende wezens, gargouilles** | de **Dochters en Orrim** in de steen | lichaam wordt beeld |
+| **vuurreuzen, ifrits** | gaven-mannen met de **Vonkkoorts** | ziekte wordt geest |
+| **dondergod** (Zeus, Thor) | gaven-mannen met de **storm** | mens wordt god |
+| **reuzenbotten in de aarde** | botten van reuzenstieren en Tharn, op aarde gevonden | geomythologie |
+
+Zo is elk wezen tegelijk een **verlies** (Tolkien). Na de breuk sterven de volken uit of vermengen ze. Wat overblijft, zijn verhalen over dwergen en elfen.
+
 ## Stap 5: door de poort
 Elke oorsprong moet kloppen met de canon. Ze gaat als voorstel de ideeënbank in, en Rogier beslist wat canon wordt. Daarbij gelden twee dingen:
 - **De harde lijnen gelden ook voor mythen.** Veel oude mythen bevatten ontvoering of dwang. In Velmara wordt dat een gelabeld donker thema tussen volwassenen, of het blijft weg. Nooit minderjarigen.
@@ -105,13 +149,16 @@ Elke oorsprong moet kloppen met de canon. Ze gaat als voorstel de ideeënbank in
 ## Stap 7: recentere wereldgeschiedenis (later)
 Na de mythen volgen de oudheid en latere tijdperken, als **echo en rijm**. Hetzelfde patroon van de prijs van een lichaam keert terug in een historische vorm. Echte volken en levende godsdiensten worden niet belachelijk gemaakt en niet tot product van Velmara verklaard. Hun motieven mogen we wel gebruiken, zoals alle fantasy dat doet.
 
+**Moderne mythen als knipoog.** Ook moderne mythen kunnen uit Velmara komen. Het verhaal dat de goden ruimtevaarders waren (von Däniken), of een sekte-mythe over zielen van een gevallen ruimtevloot die aan mensen kleven, leest als een slecht doorvertelde herinnering aan de landing van de Ysa. Altijd als knipoog, nooit bij naam: een sekte in een verhaal op aarde, die de lezer zelf herkent.
+
 ## Opleveringen
 | # | Wat | Waar |
 |---|---|---|
 | M1 | kernset motieven (100–150) | `wereld/mythen/motieven.yaml` |
 | M2 | clusters met verspreiding | `wereld/mythen/clusters.yaml` |
 | M3 | oorsprongen in Velmara met vervormingsketen | `wereld/mythen/oorsprong.yaml` + voorstellen in de ideeënbank via een rondescript (`r_Z42.py`) |
-| M4 | vervormingsregels | `wereld/mythen/vervorming.yaml` (later de mythemotor, F-Z4) |
+| M4 | vervormingsregels + theorieën (Bartlett, euhemerisme, Propp, Lévi-Strauss, geomythologie) | `wereld/mythen/vervorming.yaml` (later de mythemotor, F-Z4) |
+| M4b | mythische wezens: per aards wezen de oorsprong in Velmara en het mechanisme | `wereld/mythen/wezens.yaml` |
 | M5 | plotplaatsing per boek | `wereld/mythen/plot.md` |
 | M6 | mythekaart: per laag welke aardse mythen eruit voortkomen | uitbreiding van de knopenkaart |
 
