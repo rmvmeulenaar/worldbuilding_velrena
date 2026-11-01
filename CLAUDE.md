@@ -44,6 +44,11 @@ Dit is de canon van de wereld Velmara (zegelpunk, erotische donkere fantasy met 
 - **Verwondering zit in verlies.** Wat mooi is en bij de breuk verdwijnt, weegt zwaar (zoals bij Tolkien).
 - **Elke oplossing wordt het probleem van de volgende fase.** Verhalen zijn de plekken waar iemand die prijs betaalt.
 
+## Plannen
+- `architectuur/VISIE_EN_EISEN.md`, `SOFTWARE_ARCHITECTUUR.md`, `BOUWPLAN.md`: de wereldmotor.
+- `architectuur/MYTHEPLAN.md`: alle aardse mythen krijgen een oorsprong in Velmara (fantasie, aannemelijk gemaakt met kennis; motieven, geen teksten; harde lijnen gelden).
+- `architectuur/HISTORIE.md`: hoe we hier kwamen. Lees dit eerst in een nieuwe sessie.
+
 ## Kaart van de map
 - `wereld/canon_tekst/`: de canon als tekst. **Bron.**
 - `wereld/velmara.py`: bouw, tekst, toets, kaart.
