@@ -136,6 +136,59 @@ In Velmara zijn de wezens **echt**. Body horror en volken zijn de oorsprong, en 
 
 Zo is elk wezen tegelijk een **verlies** (Tolkien). Na de breuk sterven de volken uit of vermengen ze. Wat overblijft, zijn verhalen over dwergen en elfen.
 
+### Het hele bovennatuurlijke veld, niet alleen wezens
+| Soort | Voorbeelden op aarde | Oorsprong in Velmara (richting) |
+|---|---|---|
+| **spoken en geesten** | spookhuizen, stemmen in stenen, rusteloze doden | scherven van de Reckoner ("elk stuk bleef vragen"), Thalens patroon, Ysara's stem in de Wortel, het Netwerk van de Myrrhen, registerkraaien die namen van doden roepen |
+| **demonen en bezetenheid** | iets wat in je lichaam kruipt en je wil overneemt | vonkcellen in het lichaam; een gave die zonder ja niet weg kan |
+| **goden en halfgoden** | pantheons, kinderen van goden | Makers, Ysa, gaven-mannen, hun nakomelingen (euhemerisme) |
+| **hiernamaals en onderwereld** | Hades, Hel, Valhalla, het paradijs | de steen van het Zegel, het Netwerk, de deep memory van de Reckoner |
+| **heksen en tovenaressen** | kruidenvrouwen, vloeken, bezems | Zusterheelsters, Stille Zusters, kluisgeneeskunde |
+| **vloeken en geboden** | erfvloek, taboe, verboden vrucht | de Stille Modus als vloek op zonen, de Deelwet, het schriftverbod |
+| **heilige voorwerpen** | graal, ring, zwaard in de steen | Sterrensteen, de sleutel van Thalen, de kaartplaat, de logboekplaat |
+| **plekken** | Atlantis, Avalon, de Olympus, het labyrint | Ves-Anath, de Wieg, de Stemklok-kamer, de stallen onder Saelith |
+| **kosmologie en eindtijd** | Ragnarök, zondvloed, wereldboom | Barsten, Brand, de Wortel |
+| **helden en bedriegers** | Herakles, Loki, Anansi | figuren uit de bogen per fase |
+
+## Aanpak: hoe we dit met databases doen
+Het is een grote klus, maar geen handwerk. We oogsten, koppelen en laten de machine voorstellen doen. Alleen het kiezen doet Rogier.
+
+### Bronnen die als database bruikbaar zijn
+| Bron | Wat | Gebruik |
+|---|---|---|
+| **Wikidata** (vrij, CC0, opvraagbaar met SPARQL) | duizenden legendarische wezens, goden, geesten, plekken en voorwerpen, met cultuur en eigenschappen | de ruggengraat: entiteiten en verbanden oogsten |
+| **Project Gutenberg** (publiek domein) | oude mythologieën in volledige tekst: Edda, Bulfinch, Frazer (*The Golden Bough*), Grimm, Lang | verhalen en details ontginnen; vrij te gebruiken |
+| **Motievencatalogi** (Thompson, ATU, Berezkin) | codes en indeling van motieven | alleen codes en indeling overnemen, geen tekst |
+| **Wikipedia** | samenvattingen, overzichtslijsten | alleen als achtergrond; in eigen woorden, nooit kopiëren |
+
+### Database (eigen bestand `wereld/mythen/mythen.db`, los van de canon)
+```sql
+create table entiteit(id text primary key,            -- bv. Wikidata-id
+  naam text, soort text,                               -- wezen, geest, god, plek, voorwerp, vloek, held, ...
+  cultuur text, regio text, periode text, bron text);
+create table kenmerk(entiteit text, kenmerk text, waarde text);   -- vleugels, koud, steen, drinkt bloed, wisselt van vorm, ...
+create table motief(entiteit text, systeem text, code text);      -- thompson, atu, berezkin
+create table cluster(id text primary key, naam text, kern text);
+create table lid(cluster text, entiteit text);
+create table oorsprong(cluster text, laag text, canon_codes text, voorstel text, score real, status text);
+create table vervorming(cluster text, stap int, eeuw text, tekst text, regel text);
+```
+
+### Pijplijn
+| Stap | Wat | Wie |
+|---|---|---|
+| **M0 oogsten** | Wikidata opvragen (legendarische wezens, geesten, goden, plekken, voorwerpen) naar `entiteit`; teksten van Gutenberg ophalen | script |
+| **M1 kenmerken** | per entiteit de kenmerken uit beschrijving en tekst halen (vleugels, koude, steen, bloed, vorm wisselen, onderwereld, ...) | LLM, met steekproef door de architect |
+| **M2 clusteren** | groeperen op gedeelde kenmerken en motiefcodes, over culturen heen | script |
+| **M3 koppelen** | de kenmerken van de clusters naast de kenmerken van Velmara-dingen (volken, lichaamsvormen, plekken, voorwerpen, gebeurtenissen uit de canon) leggen; de beste kandidaat-oorsprong per cluster, met score | script + LLM |
+| **M4 vervormen** | per gekozen koppeling de keten van eeuw tot eeuw, met de theorieën hierboven | LLM, binnen de regels |
+| **M5 door de poort** | canontoets en harde lijnen; als voorstel in de ideeënbank | motor + Rogier |
+| **M6 plot** | per boek plaatsen; mythekaart | architect + Rogier |
+
+**Waarom dit werkt:** dezelfde aanpak als bij de canon. De bronnen leveren de breedte, de kenmerken maken alles vergelijkbaar, de koppeling stelt voor, de poort bewaakt, en Rogier kiest. Elke keer dat er iets wordt toegevoegd, wordt het geheel rijker.
+
+**Netwerk:** Wikidata en Gutenberg zijn vanaf een gewone computer bereikbaar. In een afgeschermde cloudsessie kunnen ze geblokkeerd zijn. Draai M0 dan lokaal, in Claude Code op je eigen machine.
+
 ## Stap 5: door de poort
 Elke oorsprong moet kloppen met de canon. Ze gaat als voorstel de ideeënbank in, en Rogier beslist wat canon wordt. Daarbij gelden twee dingen:
 - **De harde lijnen gelden ook voor mythen.** Veel oude mythen bevatten ontvoering of dwang. In Velmara wordt dat een gelabeld donker thema tussen volwassenen, of het blijft weg. Nooit minderjarigen.
