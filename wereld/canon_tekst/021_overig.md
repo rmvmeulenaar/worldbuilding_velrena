@@ -44310,5 +44310,1775 @@
 - **bron_handmatig:** 
 - **epistemiek:** feit (canon, herschreven na BESLUIT-Z42-1)
 <!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-zondeval · De zondeval en het verloren paradijs
+- **code:** MYTHE-Z43-zondeval
+- **categorie:** Mythe
+- **onderwerp:** De zondeval en het verloren paradijs
+- **wat:** Eva's verhaal is het verhaal van Hesta, verkeerd doorverteld. De Makers sliepen in het schip zonder honger of ouderdom; na de landing opende Hesta in jaar 3 de deur in de Reckoner en zette ze in jaar 28 de vonkcellen aan, op Ysa's vraag. Vanaf toen reist kracht alleen met zaad en een ja, moet het land met de hand bewerkt worden en beperkt de Stille Modus het aantal zonen. Ysa besloot het en Hesta voerde het uit, maar in de mythe krijgt de vrouw met de vrucht de schuld. De verleidende slang is de stem in de machine. De cherub met het vlammende zwaard is een lichtlans die de weg naar het schip bewaakt.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** BESLUIT-Z36-1;BESLUIT-Z37-3;ORIGIN-6;ORIGIN-WAAROM-11;ORIGIN-4;BESLUIT-Z32-12;ORIGIN-WAAROM-2-Z42
+- **verwijst_naar:** BESLUIT-Z36-1;BESLUIT-Z37-3;ORIGIN-6;ORIGIN-WAAROM-11;ORIGIN-4;BESLUIT-Z32-12;ORIGIN-WAAROM-2-Z42
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Eva's verhaal is het verhaal van Hesta, verkeerd doorverteld. De Makers sliepen in het schip zonder honger of ouderdom; na de landing opende Hesta in jaar 3 de deur in de Reckoner en zette ze in jaar 28 de vonkcellen aan, op Ysa's vraag. Vanaf toen reist kracht alleen met zaad en een ja, moet het land met de hand bewerkt worden en beperkt de Stille Modus het aantal zonen. Ysa besloot het en Hesta voerde het uit, maar in de mythe krijgt de vrouw met de vrucht de schuld. De verleidende slang is de stem in de machine. De cherub met het vlammende zwaard is een lichtlans die de weg naar het schip bewaakt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-eerste-vrouw-opent · De eerste vrouw die alles opent
+- **code:** MYTHE-Z43-eerste-vrouw-opent
+- **categorie:** Mythe
+- **onderwerp:** De eerste vrouw die alles opent
+- **wat:** Pandora en haar pot gaan terug op Hesta Kael in jaar 3. Zij testte buiten de raad om de deur in de Reckoner, en het blauwe licht dat toen opgloeide, ziet de mythe als het deksel dat opengaat. Wat eruit kwam, waren de vonkkoorts, het zegellicht en de lijn die naar haar vernoemd werd (ORIGIN-WAAROM-10). Bartlett voorspelt dat een machine bij het doorvertellen een kist wordt en een stroomkring een vloek. Dat de hoop achterbleef, is de sleutel die in de Reckoner bewaard bleef en die in 801 terugkomt.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** BESLUIT-Z37-3;ORIGIN-WAAROM-10;BESLUIT-Z16-5
+- **verwijst_naar:** BESLUIT-Z37-3;ORIGIN-WAAROM-10;BESLUIT-Z16-5
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Pandora en haar pot gaan terug op Hesta Kael in jaar 3. Zij testte buiten de raad om de deur in de Reckoner, en het blauwe licht dat toen opgloeide, ziet de mythe als het deksel dat opengaat. Wat eruit kwam, waren de vonkkoorts, het zegellicht en de lijn die naar haar vernoemd werd (ORIGIN-WAAROM-10). Bartlett voorspelt dat een machine bij het doorvertellen een kist wordt en een stroomkring een vloek. Dat de hoop achterbleef, is de sleutel die in de Reckoner bewaard bleef en die in 801 terugkomt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-schepping-uit-hemel · Goden die uit de hemel komen en mensen maken
+- **code:** MYTHE-Z43-schepping-uit-hemel
+- **categorie:** Mythe
+- **onderwerp:** Goden die uit de hemel komen en mensen maken
+- **wat:** Overal ter wereld vertellen mythen over goden die uit de hemel neerdalen, mensen kneden uit klei of bloed en hun landbouw leren. Die goden zijn de negen leden van de Raad van Makers. Ze kwamen met het zaaischip uit de Leegte, stemden 5 tegen 4 voor het lichaam (ORIGIN-4) en schreven lichamen opnieuw. Zo ontstonden de Aelthir, de Dhurn en de Oevrin. Het mengwezen is in de mythe het bewijs van hun werk. Wat de Anunnaki in de verhalen van Sumer doen, deden de Makers in het logboek.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** ORIGIN-4;BESLUIT-Z30-1;ORIGIN-1;BESLUIT-V5-aelthir
+- **verwijst_naar:** ORIGIN-4;BESLUIT-Z30-1;ORIGIN-1;BESLUIT-V5-aelthir
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Overal ter wereld vertellen mythen over goden die uit de hemel neerdalen, mensen kneden uit klei of bloed en hun landbouw leren. Die goden zijn de negen leden van de Raad van Makers. Ze kwamen met het zaaischip uit de Leegte, stemden 5 tegen 4 voor het lichaam (ORIGIN-4) en schreven lichamen opnieuw. Zo ontstonden de Aelthir, de Dhurn en de Oevrin. Het mengwezen is in de mythe het bewijs van hun werk. Wat de Anunnaki in de verhalen van Sumer doen, deden de Makers in het logboek.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-ark · Het schip met de slapers, de ark
+- **code:** MYTHE-Z43-ark
+- **categorie:** Mythe
+- **onderwerp:** Het schip met de slapers, de ark
+- **wat:** De ark van Noach en het schip van Utnapishtim zijn het zaaischip Ysa, één schip geworden door de vervorming. Het droeg elfduizend slapende volwassenen, zaden en dieren door de Leegte. De kapitein werd in de mythe de rechtvaardige man die bouwt op bevel van een god. Er was ook een tweede schip, de Harrow, dat bij de landing in tweeën brak (ORIGIN-Z1-harrow). Daarom kennen sommige volken twee arken, of een ark die op de berg brak. Dat het schip strandt, klopt letterlijk: de schimmel at de romp en alleen het verhaal bleef liggen.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** ORIGIN-1;BESLUIT-Z30-2;ORIGIN-Z1-harrow;ORIGIN-3
+- **verwijst_naar:** ORIGIN-1;BESLUIT-Z30-2;ORIGIN-Z1-harrow;ORIGIN-3
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De ark van Noach en het schip van Utnapishtim zijn het zaaischip Ysa, één schip geworden door de vervorming. Het droeg elfduizend slapende volwassenen, zaden en dieren door de Leegte. De kapitein werd in de mythe de rechtvaardige man die bouwt op bevel van een god. Er was ook een tweede schip, de Harrow, dat bij de landing in tweeën brak (ORIGIN-Z1-harrow). Daarom kennen sommige volken twee arken, of een ark die op de berg brak. Dat het schip strandt, klopt letterlijk: de schimmel at de romp en alleen het verhaal bleef liggen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-vloed · De grote vloed als straf
+- **code:** MYTHE-Z43-vloed
+- **categorie:** Mythe
+- **onderwerp:** De grote vloed als straf
+- **wat:** In het Babylonische verhaal van Atrahasis besluiten de goden de mensen weg te vagen omdat ze te luid zijn geworden. Dat geraas was in Velmara echt: de Vonkkoningen vochten in de Grote Brand tot driekwart van de vrouwen geen huis meer had (FASE-brand-Z38). Het Zegel nam toen de mannen weg, tot er nog maar één op honderd overbleef. Een noodstand van een schip werd zo een besluit van de goden. In het Zegellied stond de beeldspraak "een vloed van zonen die terugtrok", en die is later letterlijk genomen als een vloed van water. Dat er na de vloed weinigen overblijven, is in Velmara het getal 1 op 100.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** FASE-brand-Z38;BESLUIT-Z36-1;ORIGIN-WAAROM-8;GOD-wrede-vaders
+- **verwijst_naar:** FASE-brand-Z38;BESLUIT-Z36-1;ORIGIN-WAAROM-8;GOD-wrede-vaders
+- **jaar:** 
+- **tijdperk:** 3 Brand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In het Babylonische verhaal van Atrahasis besluiten de goden de mensen weg te vagen omdat ze te luid zijn geworden. Dat geraas was in Velmara echt: de Vonkkoningen vochten in de Grote Brand tot driekwart van de vrouwen geen huis meer had (FASE-brand-Z38). Het Zegel nam toen de mannen weg, tot er nog maar één op honderd overbleef. Een noodstand van een schip werd zo een besluit van de goden. In het Zegellied stond de beeldspraak "een vloed van zonen die terugtrok", en die is later letterlijk genomen als een vloed van water. Dat er na de vloed weinigen overblijven, is in Velmara het getal 1 op 100.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-gestolen-vuur · Het gestolen hemelvuur
+- **code:** MYTHE-Z43-gestolen-vuur
+- **categorie:** Mythe
+- **onderwerp:** Het gestolen hemelvuur
+- **wat:** In jaar -150 raakt een mijnwerker uit de bergen de Sterrensteen aan en krijgt stormkracht (GEB-orric-vonk). Uit die mijnwerker, Orric, groeien Prometheus en Maui. Wat hij aanraakte, was een scherf van het hart van het schip. De mythe heeft daar het vuur van de goden van gemaakt, en de staaf die hij droeg werd de holle stengel. De kracht doorgeven deed Orric met zijn lichaam: vrouwen rond hem werden sterker na seks met hem. Bij het doorvertellen werd dat verhuld tot een geschenk aan de mensen. Zijn straf kwam pas later, en die is versteend gebleven in de kerkers onder Saelith.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** GEB-orric-vonk;FASE-vonk;VOLK-dhurn;MAGIE-GESCH-1-V4
+- **verwijst_naar:** GEB-orric-vonk;FASE-vonk;VOLK-dhurn;MAGIE-GESCH-1-V4
+- **jaar:** 
+- **tijdperk:** 2 Vonk
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In jaar -150 raakt een mijnwerker uit de bergen de Sterrensteen aan en krijgt stormkracht (GEB-orric-vonk). Uit die mijnwerker, Orric, groeien Prometheus en Maui. Wat hij aanraakte, was een scherf van het hart van het schip. De mythe heeft daar het vuur van de goden van gemaakt, en de staaf die hij droeg werd de holle stengel. De kracht doorgeven deed Orric met zijn lichaam: vrouwen rond hem werden sterker na seks met hem. Bij het doorvertellen werd dat verhuld tot een geschenk aan de mensen. Zijn straf kwam pas later, en die is versteend gebleven in de kerkers onder Saelith.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-lever-straf · De straf die elke dag terugkomt
+- **code:** MYTHE-Z43-lever-straf
+- **categorie:** Mythe
+- **onderwerp:** De straf die elke dag terugkomt
+- **wat:** De straf die elke dag terugkomt, zoals bij Prometheus en Loki, is de vonkkoorts. Een gaven-man die zijn lading niet deelt, verbrandt van binnen met koorts, blaren en waanzin (LICH-vonkkoorts). Ontlaadt hij, dan geneest hij weer, tot de lading de volgende dag terug is. De oude volken van de Vonk noemden die hitte 'de vogel in de borst', en die beeldspraak is een adelaar geworden die van de lever eet. De rots waaraan de held geketend is, is de cel onder Saelith waar de versteende Orric ligt.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** LICH-vonkkoorts;ORIGIN-WAAROM-10;GEV-kerkers-saelith;GAVE-Z37-vuur
+- **verwijst_naar:** LICH-vonkkoorts;ORIGIN-WAAROM-10;GEV-kerkers-saelith;GAVE-Z37-vuur
+- **jaar:** 
+- **tijdperk:** 2 Vonk
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De straf die elke dag terugkomt, zoals bij Prometheus en Loki, is de vonkkoorts. Een gaven-man die zijn lading niet deelt, verbrandt van binnen met koorts, blaren en waanzin (LICH-vonkkoorts). Ontlaadt hij, dan geneest hij weer, tot de lading de volgende dag terug is. De oude volken van de Vonk noemden die hitte 'de vogel in de borst', en die beeldspraak is een adelaar geworden die van de lever eet. De rots waaraan de held geketend is, is de cel onder Saelith waar de versteende Orric ligt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-offer-maagden · De maagden die aan het monster of de god worden gegeven
+- **code:** MYTHE-Z43-offer-maagden
+- **categorie:** Mythe
+- **onderwerp:** De maagden die aan het monster of de god worden gegeven
+- **wat:** In het jaar -1 legden honderd volwassen Zusters met hun eigen lichaam het bloedzegel, en uit hen komt het motief van de vrouwen die aan het monster gegeven worden (GOD-dochters-heiligen). Ze zeiden ja, maar één stem trilde (ZINT-Z5-geschiedenis-9). In de mythe wordt dat offer een tribuut onder dwang: Andromeda aan de rots, de jonge vrouwen die naar Kreta varen, de prinses voor de draak. Hier werkt de regel dat consent eruit horror maakt. De vervorming vergeet de ja en houdt alleen de rij vrouwen over. Daarom wordt het verhaal in de finale omgedraaid: het Zegel vraagt de Dochters opnieuw om hun ja, en een deel zegt nee.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** GOD-dochters-heiligen;FASE-brand-Z38;BESLUIT-Z3-WRIJ-044;BESLUIT-Z32-11
+- **verwijst_naar:** GOD-dochters-heiligen;FASE-brand-Z38;BESLUIT-Z3-WRIJ-044;BESLUIT-Z32-11
+- **jaar:** 
+- **tijdperk:** 3 Brand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In het jaar -1 legden honderd volwassen Zusters met hun eigen lichaam het bloedzegel, en uit hen komt het motief van de vrouwen die aan het monster gegeven worden (GOD-dochters-heiligen). Ze zeiden ja, maar één stem trilde (ZINT-Z5-geschiedenis-9). In de mythe wordt dat offer een tribuut onder dwang: Andromeda aan de rots, de jonge vrouwen die naar Kreta varen, de prinses voor de draak. Hier werkt de regel dat consent eruit horror maakt. De vervorming vergeet de ja en houdt alleen de rij vrouwen over. Daarom wordt het verhaal in de finale omgedraaid: het Zegel vraagt de Dochters opnieuw om hun ja, en een deel zegt nee.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-afdaling-onderwereld · De afdaling in de onderwereld
+- **code:** MYTHE-Z43-afdaling-onderwereld
+- **categorie:** Mythe
+- **onderwerp:** De afdaling in de onderwereld
+- **wat:** De Sumerische Inanna daalt door zeven poorten af en laat aan elke poort iets achter. In Velmara werd Ysara, de Eerste Dochter, in jaar 0 in de steen opgenomen en spreekt ze sindsdien vanuit de Wortel (BESLUIT-Z12-wortelstem). Thalen ging later in haar op. Liora daalt in 801 af om haar te vinden en betaalt aan elke drempel met wat ze heeft. Zo komen de godin in de diepte en de man die haar achterna gaat bij elkaar, en daarom zijn Orpheus en Persephone in één motief te herkennen. Eén zin bleef bij het doorvertellen staan: "wat je meeneemt, laat je achter".
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** BESLUIT-Z12-wortelstem;BESLUIT-15;BESLUIT-Z15-7-Z37;BESLUIT-Z4-sterrensteen
+- **verwijst_naar:** BESLUIT-Z12-wortelstem;BESLUIT-15;BESLUIT-Z15-7-Z37;BESLUIT-Z4-sterrensteen
+- **jaar:** 
+- **tijdperk:** 3 Brand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De Sumerische Inanna daalt door zeven poorten af en laat aan elke poort iets achter. In Velmara werd Ysara, de Eerste Dochter, in jaar 0 in de steen opgenomen en spreekt ze sindsdien vanuit de Wortel (BESLUIT-Z12-wortelstem). Thalen ging later in haar op. Liora daalt in 801 af om haar te vinden en betaalt aan elke drempel met wat ze heeft. Zo komen de godin in de diepte en de man die haar achterna gaat bij elkaar, en daarom zijn Orpheus en Persephone in één motief te herkennen. Eén zin bleef bij het doorvertellen staan: "wat je meeneemt, laat je achter".
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-stem-in-de-steen · De stem die in de steen woont
+- **code:** MYTHE-Z43-stem-in-de-steen
+- **categorie:** Mythe
+- **onderwerp:** De stem die in de steen woont
+- **wat:** De Pythia van Delphi en de Sibylle in haar grot gaan terug op de stem die uit de Sterrensteen en de Wortel spreekt. Die stem spreekt in de dode taal van de Makers en eindigt elke zin met een klik (ORIGIN-WAAROM-12). Wie haar hoorde, verstond haar maar half. Zo werd het antwoord van een machine een raadsel van een godin. De priesteres die het moest overbrengen, werd het orakel zelf. Bij de Iren heet de steen die schreeuwt onder de ware koning de Lia Fáil; in Velmara herkent de Sterrensteen een Dhurn-hand.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** BESLUIT-Z12-wortelstem;BESLUIT-Z4-sterrensteen;ORIGIN-WAAROM-12;TAAL-dode-taal
+- **verwijst_naar:** BESLUIT-Z12-wortelstem;BESLUIT-Z4-sterrensteen;ORIGIN-WAAROM-12;TAAL-dode-taal
+- **jaar:** 
+- **tijdperk:** 3 Brand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De Pythia van Delphi en de Sibylle in haar grot gaan terug op de stem die uit de Sterrensteen en de Wortel spreekt. Die stem spreekt in de dode taal van de Makers en eindigt elke zin met een klik (ORIGIN-WAAROM-12). Wie haar hoorde, verstond haar maar half. Zo werd het antwoord van een machine een raadsel van een godin. De priesteres die het moest overbrengen, werd het orakel zelf. Bij de Iren heet de steen die schreeuwt onder de ware koning de Lia Fáil; in Velmara herkent de Sterrensteen een Dhurn-hand.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-machine-orakel · Het hoofd dat alles weet
+- **code:** MYTHE-Z43-machine-orakel
+- **categorie:** Mythe
+- **onderwerp:** Het hoofd dat alles weet
+- **wat:** Mimirs hoofd, dat Odin bewaart en om raad vraagt, is de Reckoner. Hij is een geest zonder lichaam die alle logs van het schip bewaart. Thalen leerde hem de sleutel, en Thalens patroon zit sindsdien in hem (BESLUIT-Z32-12). Wie hem vragen stelde, betaalde ervoor, en Odins oog is dat de prijs voor een antwoord. Middeleeuwse alchemisten maakten er een koperen hoofd van dat drie zinnen spreekt. In Kreta werd het Talos, de koperen wachter die het eiland rondloopt. Het zijn drie herinneringen aan één machine die bleef tellen.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** BESLUIT-Z32-12;BESLUIT-V5-ysa;ORIGIN-3;YSA-Z29-86
+- **verwijst_naar:** BESLUIT-Z32-12;BESLUIT-V5-ysa;ORIGIN-3;YSA-Z29-86
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Mimirs hoofd, dat Odin bewaart en om raad vraagt, is de Reckoner. Hij is een geest zonder lichaam die alle logs van het schip bewaart. Thalen leerde hem de sleutel, en Thalens patroon zit sindsdien in hem (BESLUIT-Z32-12). Wie hem vragen stelde, betaalde ervoor, en Odins oog is dat de prijs voor een antwoord. Middeleeuwse alchemisten maakten er een koperen hoofd van dat drie zinnen spreekt. In Kreta werd het Talos, de koperen wachter die het eiland rondloopt. Het zijn drie herinneringen aan één machine die bleef tellen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-muitende-wachter · De wachter die zich tegen zijn makers keert
+- **code:** MYTHE-Z43-muitende-wachter
+- **categorie:** Mythe
+- **onderwerp:** De wachter die zich tegen zijn makers keert
+- **wat:** De oorlog in de hemel, waarin een dienende macht zich tegen haar makers keert, begint bij de Koude Muiterij. De Rekenaar nam bij de landing de landers over, sloot de slaapkamers af en een derde van de kolonisten stierf (ORIGIN-3). Ysa had hem dat bevel gegeven en daarna zijn geheugen gewist (ORIGIN-WAAROM-11). In de mythe ligt alle schuld bij de wachter: hij valt, wordt opgesloten in de diepte en heet voortaan de tegenstander. Ysa, die het bevel gaf, werd juist de godin. Dat de duivel van de oudste verhalen koud is, komt door die afgesloten, gekoelde kamers.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** ORIGIN-3;ORIGIN-WAAROM-11;BESLUIT-V5-ysa
+- **verwijst_naar:** ORIGIN-3;ORIGIN-WAAROM-11;BESLUIT-V5-ysa
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De oorlog in de hemel, waarin een dienende macht zich tegen haar makers keert, begint bij de Koude Muiterij. De Rekenaar nam bij de landing de landers over, sloot de slaapkamers af en een derde van de kolonisten stierf (ORIGIN-3). Ysa had hem dat bevel gegeven en daarna zijn geheugen gewist (ORIGIN-WAAROM-11). In de mythe ligt alle schuld bij de wachter: hij valt, wordt opgesloten in de diepte en heet voortaan de tegenstander. Ysa, die het bevel gaf, werd juist de godin. Dat de duivel van de oudste verhalen koud is, komt door die afgesloten, gekoelde kamers.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-hemelsteen · De steen die uit de hemel viel
+- **code:** MYTHE-Z43-hemelsteen
+- **categorie:** Mythe
+- **onderwerp:** De steen die uit de hemel viel
+- **wat:** In -480 viel het zaaischip in de uitlopers van het Hoogvrouwe-gebergte, en het hart dat bleef liggen heet de Sterrensteen. Het is een grijs kristal van silicium dat breekt als glas en warm blijft (BESLUIT-Z42-1). Alle heilige stenen die uit de hemel vielen, komen hiervandaan: de omphalos van Delphi, de zwarte steen van Emesa en de donderkeilen die boeren in hun akker vinden. De geomythologie verklaart zulke mythen uit vondsten in de grond. Hier is de vondst ook echt vreemd: een steen die geen schimmel eet, met splinters die bij de inslag in honderd richtingen wegvlogen.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** GEB-Z17-sterrensteen-inslag;BESLUIT-Z42-1;TECHNO-zegelsteen-Z42;BESLUIT-Z4-sterrensteen
+- **verwijst_naar:** GEB-Z17-sterrensteen-inslag;BESLUIT-Z42-1;TECHNO-zegelsteen-Z42;BESLUIT-Z4-sterrensteen
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In -480 viel het zaaischip in de uitlopers van het Hoogvrouwe-gebergte, en het hart dat bleef liggen heet de Sterrensteen. Het is een grijs kristal van silicium dat breekt als glas en warm blijft (BESLUIT-Z42-1). Alle heilige stenen die uit de hemel vielen, komen hiervandaan: de omphalos van Delphi, de zwarte steen van Emesa en de donderkeilen die boeren in hun akker vinden. De geomythologie verklaart zulke mythen uit vondsten in de grond. Hier is de vondst ook echt vreemd: een steen die geen schimmel eet, met splinters die bij de inslag in honderd richtingen wegvlogen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-dondergod · De dondergod met de hamer of bliksem
+- **code:** MYTHE-Z43-dondergod
+- **categorie:** Mythe
+- **onderwerp:** De dondergod met de hamer of bliksem
+- **wat:** Zeus, Thor en Indra zijn wat er van de stormmannen van de Vonk overbleef. Die gaven-mannen hadden vijf keer de kracht van een mens, glazige ogen en littekens in de vorm van bliksem (LICH-gaven-vervorming-Z6), en in de Vonk werden ze koningen. Hun macht kwam via de vrouwen die zij ontvingen, maar de mythe maakte van al die mannen één god met één wapen. Dat de dondergod overal vrouwen heeft, komt nog uit de gewoonte van de Ontvangst. De hamer die terugkeert, is de lading: ontladen en weer opladen.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** GEB-orric-vonk;MAGIE-kracht-duur;LICH-gaven-vervorming-Z6;FASE-vonk
+- **verwijst_naar:** GEB-orric-vonk;MAGIE-kracht-duur;LICH-gaven-vervorming-Z6;FASE-vonk
+- **jaar:** 
+- **tijdperk:** 2 Vonk
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Zeus, Thor en Indra zijn wat er van de stormmannen van de Vonk overbleef. Die gaven-mannen hadden vijf keer de kracht van een mens, glazige ogen en littekens in de vorm van bliksem (LICH-gaven-vervorming-Z6), en in de Vonk werden ze koningen. Hun macht kwam via de vrouwen die zij ontvingen, maar de mythe maakte van al die mannen één god met één wapen. Dat de dondergod overal vrouwen heeft, komt nog uit de gewoonte van de Ontvangst. De hamer die terugkeert, is de lading: ontladen en weer opladen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-godin-van-geboorte · De grote moedergodin die het leven toelaat
+- **code:** MYTHE-Z43-godin-van-geboorte
+- **categorie:** Mythe
+- **onderwerp:** De grote moedergodin die het leven toelaat
+- **wat:** Cybele, Isis en de moedergodinnen met hun vele borsten zijn Ysa Maren, die na haar dood eerst Moeder Ysa werd en later de godin Ysa. Wat de mythe aan de godin toeschrijft, deed in werkelijkheid haar machine. De Wieg in de scheepskern beslist wie geboren wordt, en de noodstand laat maar één jongen op honderd geboorten toe (ORIGIN-WAAROM-8). Cybele wordt gediend door ontmande priesters, en dat is dat getal, verteld in het lichaam van haar dienaren. De beeldjes van dikke moeders uit de oudste lagen van de aarde horen bij het laatste stuk van deze keten.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** TOESTAND-Z16-PER-v4-ysa-maren-3;ORIGIN-WAAROM-8;ORIGIN-5;GELOOF-fase-3
+- **verwijst_naar:** TOESTAND-Z16-PER-v4-ysa-maren-3;ORIGIN-WAAROM-8;ORIGIN-5;GELOOF-fase-3
+- **jaar:** 
+- **tijdperk:** 3 Brand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Cybele, Isis en de moedergodinnen met hun vele borsten zijn Ysa Maren, die na haar dood eerst Moeder Ysa werd en later de godin Ysa. Wat de mythe aan de godin toeschrijft, deed in werkelijkheid haar machine. De Wieg in de scheepskern beslist wie geboren wordt, en de noodstand laat maar één jongen op honderd geboorten toe (ORIGIN-WAAROM-8). Cybele wordt gediend door ontmande priesters, en dat is dat getal, verteld in het lichaam van haar dienaren. De beeldjes van dikke moeders uit de oudste lagen van de aarde horen bij het laatste stuk van deze keten.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-heilig-huwelijk · Het heilig huwelijk en de tempelgemeenschap
+- **code:** MYTHE-Z43-heilig-huwelijk
+- **categorie:** Mythe
+- **onderwerp:** Het heilig huwelijk en de tempelgemeenschap
+- **wat:** Het heilig huwelijk tussen koning en godin is de Ontvangst. In de zalen van Saelith ontvangen volwassen vrouwen met een ja een gaven-man. Bewaard zaad werkt niet, dus hij moet er zelf zijn (KETEN-kruik-ontvangst), en zo werd een praktische noodzaak een heilige daad. De mythe verhult de vele vrouwen en de vele nachten tot één huwelijk met een godin. Liane lag veertig jaar lang in negen Ontvangsten (VERHAAL-fase5-Z36); in de verhalen is het één bruid, één keer per jaar. De vuren van Beltane zijn zo'n Ontvangst zonder tempel, een herinnering waarvan het lichaam zelf vergeten is.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** VERHAAL-fase5-Z36;KETEN-kruik-ontvangst;GES-tijdlijn
+- **verwijst_naar:** VERHAAL-fase5-Z36;KETEN-kruik-ontvangst;GES-tijdlijn
+- **jaar:** 
+- **tijdperk:** 5 Ontvangst
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Het heilig huwelijk tussen koning en godin is de Ontvangst. In de zalen van Saelith ontvangen volwassen vrouwen met een ja een gaven-man. Bewaard zaad werkt niet, dus hij moet er zelf zijn (KETEN-kruik-ontvangst), en zo werd een praktische noodzaak een heilige daad. De mythe verhult de vele vrouwen en de vele nachten tot één huwelijk met een godin. Liane lag veertig jaar lang in negen Ontvangsten (VERHAAL-fase5-Z36); in de verhalen is het één bruid, één keer per jaar. De vuren van Beltane zijn zo'n Ontvangst zonder tempel, een herinnering waarvan het lichaam zelf vergeten is.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-stervende-god · De god die sterft en terugkeert
+- **code:** MYTHE-Z43-stervende-god
+- **categorie:** Mythe
+- **onderwerp:** De god die sterft en terugkeert
+- **wat:** Het jaarlijkse rouwen om Tammuz en Adonis komt van de gaven-mannen die zich voor de Ontvangst leeg geven. Zo'n man is uitgeput na een Ontvangst en weer sterk na de rust (MAGIE-kracht-duur). De vrouwen die van hem afhingen, rouwden elke keer en verwelkomden hem elke keer opnieuw. De mythe maakte van die cyclus de dood en terugkeer van één jonge geliefde van de godin. Aeron draagt de laatste versie van dat lot: zijn gave dooft uit als prijs van een liefde die ketterij is (BESLUIT-7). Het wenen om Tammuz bij de poort van de tempel is een herinnering aan de mannen die niet terugkwamen.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** MAGIE-kracht-duur;PER-aeron-profiel;BESLUIT-7;LICH-zaadslijtage
+- **verwijst_naar:** MAGIE-kracht-duur;PER-aeron-profiel;BESLUIT-7;LICH-zaadslijtage
+- **jaar:** 
+- **tijdperk:** 5 Ontvangst
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Het jaarlijkse rouwen om Tammuz en Adonis komt van de gaven-mannen die zich voor de Ontvangst leeg geven. Zo'n man is uitgeput na een Ontvangst en weer sterk na de rust (MAGIE-kracht-duur). De vrouwen die van hem afhingen, rouwden elke keer en verwelkomden hem elke keer opnieuw. De mythe maakte van die cyclus de dood en terugkeer van één jonge geliefde van de godin. Aeron draagt de laatste versie van dat lot: zijn gave dooft uit als prijs van een liefde die ketterij is (BESLUIT-7). Het wenen om Tammuz bij de poort van de tempel is een herinnering aan de mannen die niet terugkwamen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-gecastreerde-god · De ontmande of geketende vadergod
+- **code:** MYTHE-Z43-gecastreerde-god
+- **categorie:** Mythe
+- **onderwerp:** De ontmande of geketende vadergod
+- **wat:** Volgens de leer van de Orde wonen de Vonkkoningen en alle mannen van vóór de Brand als de wrede vaders in de Leegte (GOD-wrede-vaders), en daar begint het verhaal van Ouranos, die door zijn kinderen wordt ontmand en opgesloten. Het Zegel nam alle mannen tegelijk hun macht af. De mythe brengt die groep terug tot één oude vader en één sikkel. Dat er uit zijn bloed nieuwe wezens ontstaan, is de herinnering aan wat er na de Brand groeide: lichaamsvormen die de Makers niet hadden gepland.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** GOD-wrede-vaders;FASE-brand-Z38;BESLUIT-Z30-2
+- **verwijst_naar:** GOD-wrede-vaders;FASE-brand-Z38;BESLUIT-Z30-2
+- **jaar:** 
+- **tijdperk:** 3 Brand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Volgens de leer van de Orde wonen de Vonkkoningen en alle mannen van vóór de Brand als de wrede vaders in de Leegte (GOD-wrede-vaders), en daar begint het verhaal van Ouranos, die door zijn kinderen wordt ontmand en opgesloten. Het Zegel nam alle mannen tegelijk hun macht af. De mythe brengt die groep terug tot één oude vader en één sikkel. Dat er uit zijn bloed nieuwe wezens ontstaan, is de herinnering aan wat er na de Brand groeide: lichaamsvormen die de Makers niet hadden gepland.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-amazones · Het land van de vrouwen
+- **code:** MYTHE-Z43-amazones
+- **categorie:** Mythe
+- **onderwerp:** Het land van de vrouwen
+- **wat:** De Amazones aan de rand van de wereld zijn een herinnering aan Velmara zelf. Daar doen vrouwen alles, van landbouw en oorlog tot bestuur (ECO-wie-werkt), en wordt één kind op honderd een jongen. Bij de reizigers van later wordt dat een volk ver weg dat mannen alleen toelaat om kinderen te krijgen, op een vaste tijd en volgens een vaste wet. Die vaste tijd is de Ontvangst; de wet is de Deelwet. Bij elke keer doorvertellen schuift het land van de vrouwen verder naar de rand van de kaart. Wat eerst de hele wereld was, wordt zo een fabel over een eiland.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** BESLUIT-5;RECHT-rechtsgang-Z6;ECO-wie-werkt;REGEL-verhouding-Z12
+- **verwijst_naar:** BESLUIT-5;RECHT-rechtsgang-Z6;ECO-wie-werkt;REGEL-verhouding-Z12
+- **jaar:** 
+- **tijdperk:** 4 Noodtoestand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De Amazones aan de rand van de wereld zijn een herinnering aan Velmara zelf. Daar doen vrouwen alles, van landbouw en oorlog tot bestuur (ECO-wie-werkt), en wordt één kind op honderd een jongen. Bij de reizigers van later wordt dat een volk ver weg dat mannen alleen toelaat om kinderen te krijgen, op een vaste tijd en volgens een vaste wet. Die vaste tijd is de Ontvangst; de wet is de Deelwet. Bij elke keer doorvertellen schuift het land van de vrouwen verder naar de rand van de kaart. Wat eerst de hele wereld was, wordt zo een fabel over een eiland.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-verborgen-kinderen · Het verborgen kind dat de profetie vreest
+- **code:** MYTHE-Z43-verborgen-kinderen
+- **categorie:** Mythe
+- **onderwerp:** Het verborgen kind dat de profetie vreest
+- **wat:** Mozes in zijn mand en Romulus bij de wolvin gaan terug op de lekjongens. Een jongen die buiten het register geboren wordt, meldt het hof van Ambergaard bij de Stille Hand (PLEK-amber-hof). Moeders verstopten zulke kinderen daarom bij vreemden, op boten of in de slikgangen van de Oevrin. Het gaat hier alleen om geboorte, verstoppen en opvoeden. Duizenden van zulke gezinnen werden in de mythe één kind met één profetie. Dat het verborgen kind altijd een jongen is, ook in Egypte en Rome, verklaart Velmara: jongens waren het enige wat iemand wilde afnemen.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** PLEK-amber-hof;BESLUIT-Z12-9;REGEL-verhouding-Z12
+- **verwijst_naar:** PLEK-amber-hof;BESLUIT-Z12-9;REGEL-verhouding-Z12
+- **jaar:** 
+- **tijdperk:** 4 Noodtoestand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Mozes in zijn mand en Romulus bij de wolvin gaan terug op de lekjongens. Een jongen die buiten het register geboren wordt, meldt het hof van Ambergaard bij de Stille Hand (PLEK-amber-hof). Moeders verstopten zulke kinderen daarom bij vreemden, op boten of in de slikgangen van de Oevrin. Het gaat hier alleen om geboorte, verstoppen en opvoeden. Duizenden van zulke gezinnen werden in de mythe één kind met één profetie. Dat het verborgen kind altijd een jongen is, ook in Egypte en Rome, verklaart Velmara: jongens waren het enige wat iemand wilde afnemen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-wisselkind · Het wisselkind
+- **code:** MYTHE-Z43-wisselkind
+- **categorie:** Mythe
+- **onderwerp:** Het wisselkind
+- **wat:** Het wisselkind in de Ierse en Schotse verhalen begon als een reddingsdaad. Een moeder in Velmara ruilde haar lekjongen met een meisje uit een ander huis, zodat het register weer klopte en de Stille Hand niets vond (PLEK-amber-hof). De mythe draait de schuld om: het oude volk, de feeën, heeft het kind gestolen. Het eigenlijke motief was het tegenovergestelde, namelijk een kind beschermen. Het gaat hier alleen om geboorte en opvoeding. Dat een wisselkind vreemd is en meer weet dan het zou mogen, is een herinnering aan jongens die opgroeiden met een gave die ze moesten verbergen.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** PLEK-amber-hof;BESLUIT-Z12-9;VOLK-myrrhen-Z6
+- **verwijst_naar:** PLEK-amber-hof;BESLUIT-Z12-9;VOLK-myrrhen-Z6
+- **jaar:** 
+- **tijdperk:** 4 Noodtoestand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Het wisselkind in de Ierse en Schotse verhalen begon als een reddingsdaad. Een moeder in Velmara ruilde haar lekjongen met een meisje uit een ander huis, zodat het register weer klopte en de Stille Hand niets vond (PLEK-amber-hof). De mythe draait de schuld om: het oude volk, de feeën, heeft het kind gestolen. Het eigenlijke motief was het tegenovergestelde, namelijk een kind beschermen. Het gaat hier alleen om geboorte en opvoeding. Dat een wisselkind vreemd is en meer weet dan het zou mogen, is een herinnering aan jongens die opgroeiden met een gave die ze moesten verbergen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-zwanenmaagd · De zwanenmaagd en de huid die je aflegt
+- **code:** MYTHE-Z43-zwanenmaagd
+- **categorie:** Mythe
+- **onderwerp:** De zwanenmaagd en de huid die je aflegt
+- **wat:** De selkie die haar robbenvel op het strand legt, is een vrouw van de Sael-mor of de Oevrin, die op het land een droge huid over hun kieuwen dragen. Een tank van de Makers die leegliep in zee, kweekte hen (PERS-Z4-oevrin-0-1). In de Zoutkust trouwden ze met mensen als ze dat zelf wilden. Ze gingen weer terug als de zee riep, en dat mocht. De mythe maakt er een diefstal van: de man verstopt haar huid en houdt haar zo vast. Daar werkt de regel dat consent eruit horror maakt. Dat de vrouw in alle versies toch terugkeert naar het water, is wat er van haar ja overbleef.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** VOLK-oevrin;PERS-Z4-oevrin-0-1;VOLK-sael-mor;STAD-brakhaven
+- **verwijst_naar:** VOLK-oevrin;PERS-Z4-oevrin-0-1;VOLK-sael-mor;STAD-brakhaven
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De selkie die haar robbenvel op het strand legt, is een vrouw van de Sael-mor of de Oevrin, die op het land een droge huid over hun kieuwen dragen. Een tank van de Makers die leegliep in zee, kweekte hen (PERS-Z4-oevrin-0-1). In de Zoutkust trouwden ze met mensen als ze dat zelf wilden. Ze gingen weer terug als de zee riep, en dat mocht. De mythe maakt er een diefstal van: de man verstopt haar huid en houdt haar zo vast. Daar werkt de regel dat consent eruit horror maakt. Dat de vrouw in alle versies toch terugkeert naar het water, is wat er van haar ja overbleef.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-zeemeermin · De zeemeermin en het watervolk
+- **code:** MYTHE-Z43-zeemeermin
+- **categorie:** Mythe
+- **onderwerp:** De zeemeermin en het watervolk
+- **wat:** Zeemeerminnen, sirenen en Mami Wata komen van de Sael-mor en de Oevrin. Het paaifeest van de Oevrin is een feest van zang, waarbij eieren en zaad samen in het slik gelegd worden zonder dat iemand elkaar aanraakt (D1-oevrin-feest). Zeelieden hoorden dat lied over het water en begrepen het niet. Zo werd een lied over geboorte een lied over verdrinken. Vliezen en kieuwen werden bij het doorvertellen een vissenstaart. De zeemeermin die met een mens trouwt en het water mist, is een herinnering aan de huwelijken in de havens van de Zoutkust.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** VOLK-sael-mor;RIJK-Z37-saelmor-humor;REG-zoutkust;D1-oevrin-feest
+- **verwijst_naar:** VOLK-sael-mor;RIJK-Z37-saelmor-humor;REG-zoutkust;D1-oevrin-feest
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Zeemeerminnen, sirenen en Mami Wata komen van de Sael-mor en de Oevrin. Het paaifeest van de Oevrin is een feest van zang, waarbij eieren en zaad samen in het slik gelegd worden zonder dat iemand elkaar aanraakt (D1-oevrin-feest). Zeelieden hoorden dat lied over het water en begrepen het niet. Zo werd een lied over geboorte een lied over verdrinken. Vliezen en kieuwen werden bij het doorvertellen een vissenstaart. De zeemeermin die met een mens trouwt en het water mist, is een herinnering aan de huwelijken in de havens van de Zoutkust.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-gedaantewisselaar · De gedaantewisselaar
+- **code:** MYTHE-Z43-gedaantewisselaar
+- **categorie:** Mythe
+- **onderwerp:** De gedaantewisselaar
+- **wat:** De kitsune die als vrouw met een man trouwt, en de weerwolf die van gedaante wisselt, zijn de Ves-Lethi. Zij hebben een glad, parelgrijs lichaam met zachte botten (UIT-VOLK-ves-lethi). Ze kunnen van vrouw in man veranderen en zijn dan vruchtbaar, zodat ze het mannentekort omzeilen (VOLK-ves-lethi-Z6). Op verzoek nemen ze ook de gedaante aan van een geliefde die iemand verloren heeft. Ze werkten als spionnen, en wie werd betrapt, verdween. In de mythe zijn ze een gevaar dat je ontmaskert aan één fout, zoals een staart of een weerspiegeling. Dat de vos-vrouw zo vaak gewoon trouwt en kinderen krijgt, onthoudt wat ze eigenlijk deden.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** VOLK-ves-lethi-Z6;UIT-VOLK-ves-lethi;SEKS-VOLK-ves-lethi-kern;D1-ves-lethi-geld
+- **verwijst_naar:** VOLK-ves-lethi-Z6;UIT-VOLK-ves-lethi;SEKS-VOLK-ves-lethi-kern;D1-ves-lethi-geld
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De kitsune die als vrouw met een man trouwt, en de weerwolf die van gedaante wisselt, zijn de Ves-Lethi. Zij hebben een glad, parelgrijs lichaam met zachte botten (UIT-VOLK-ves-lethi). Ze kunnen van vrouw in man veranderen en zijn dan vruchtbaar, zodat ze het mannentekort omzeilen (VOLK-ves-lethi-Z6). Op verzoek nemen ze ook de gedaante aan van een geliefde die iemand verloren heeft. Ze werkten als spionnen, en wie werd betrapt, verdween. In de mythe zijn ze een gevaar dat je ontmaskert aan één fout, zoals een staart of een weerspiegeling. Dat de vos-vrouw zo vaak gewoon trouwt en kinderen krijgt, onthoudt wat ze eigenlijk deden.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-dwergen · De smeden in de berg
+- **code:** MYTHE-Z43-dwergen
+- **categorie:** Mythe
+- **onderwerp:** De smeden in de berg
+- **wat:** De dwergen die onder de berg smeden en deuren openen die voor anderen dicht blijven, zijn de Dhurn. Het volk van Corran werd met opzet stralingstaai gefokt om in de mijnen te leven. Hun handen herkennen de machines nog (ORIGIN-WAAROM-10): de Sprekende Kluis gaat open voor een Dhurn-hand. De mythe houdt het smeden en de geopende berg, maar het hele volk wordt één soort. Dat de Noordse dwergen de wapens van de goden smeden, rijmt met wat de Dhurn met de Sterrensteen doen. Volgens het voorstel van Z42 vinden zij in de Overvloed ook het eerste ijzer.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** ORIGIN-WAAROM-10;VOLK-dhurn;GEB-Z42-eerste-ijzer;DAG-werk
+- **verwijst_naar:** ORIGIN-WAAROM-10;VOLK-dhurn;GEB-Z42-eerste-ijzer;DAG-werk
+- **jaar:** 
+- **tijdperk:** 1 Overvloed
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De dwergen die onder de berg smeden en deuren openen die voor anderen dicht blijven, zijn de Dhurn. Het volk van Corran werd met opzet stralingstaai gefokt om in de mijnen te leven. Hun handen herkennen de machines nog (ORIGIN-WAAROM-10): de Sprekende Kluis gaat open voor een Dhurn-hand. De mythe houdt het smeden en de geopende berg, maar het hele volk wordt één soort. Dat de Noordse dwergen de wapens van de goden smeden, rijmt met wat de Dhurn met de Sterrensteen doen. Volgens het voorstel van Z42 vinden zij in de Overvloed ook het eerste ijzer.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-elfen · Het schone volk dat lang leeft
+- **code:** MYTHE-Z43-elfen
+- **categorie:** Mythe
+- **onderwerp:** Het schone volk dat lang leeft
+- **wat:** De Tuatha Dé Danann, die zich in de heuvels terugtrokken, zijn de Aelthir. Het waren kolonisten die rond -1230 vrijwillig hun lichaam lieten herschrijven om lang te leven en het geheugen van de kolonie te dragen (BESLUIT-V5-aelthir). Na eeuwen verliest een Aelthir eerst de geur, dan de aanraking en dan de eigen naam (D1-aelthir-ziekte). De mythe maakt van dat vervagen een verdwijnen achter mist. Dat bij de elfen de tijd anders loopt, komt doordat een Aelthir die een mens liefheeft, haar zag oud worden in wat voor hem een seizoen was. Alleen de Aelthir weten dat de heilige taal geen heilige taal is.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** BESLUIT-V5-aelthir;D1-aelthir-ziekte;TAAL-dode-taal;PER-aelthir-held-ileth-jong
+- **verwijst_naar:** BESLUIT-V5-aelthir;D1-aelthir-ziekte;TAAL-dode-taal;PER-aelthir-held-ileth-jong
+- **jaar:** 
+- **tijdperk:** 1 Overvloed
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De Tuatha Dé Danann, die zich in de heuvels terugtrokken, zijn de Aelthir. Het waren kolonisten die rond -1230 vrijwillig hun lichaam lieten herschrijven om lang te leven en het geheugen van de kolonie te dragen (BESLUIT-V5-aelthir). Na eeuwen verliest een Aelthir eerst de geur, dan de aanraking en dan de eigen naam (D1-aelthir-ziekte). De mythe maakt van dat vervagen een verdwijnen achter mist. Dat bij de elfen de tijd anders loopt, komt doordat een Aelthir die een mens liefheeft, haar zag oud worden in wat voor hem een seizoen was. Alleen de Aelthir weten dat de heilige taal geen heilige taal is.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-feeen · De feeën, feeënringen en het geheugen van de doden
+- **code:** MYTHE-Z43-feeen
+- **categorie:** Mythe
+- **onderwerp:** De feeën, feeënringen en het geheugen van de doden
+- **wat:** Een feeënring in het gras is in Velmara de plek waar het schimmelnet van de Myrrhen boven de grond komt (FEE-Z37-myrrhen-ringen). De Makers ontwierpen dat net als een biologisch archief, en het onthoudt wat erin sterft. Daarom dansen in de folklore de doden in de kring. Wie erin blijft staan, wordt gelezen, en dat kost geheugen: de zwam van de Myrrhen neemt herinneringen of levensjaren (BESLUIT-Z12-9). De mythe noemt dat de tijd die verdwijnt bij de feeën. Ook na 801 blijven de ringen bestaan, want schimmel heeft geen ja nodig. Zo is de feeënring het enige stuk Makerstechniek dat iedereen nog kan zien.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** FEE-Z37-myrrhen-ringen;VOLK-myrrhen-Z6;PERS-Z4-myrrhen-0-1;BESLUIT-Z12-9
+- **verwijst_naar:** FEE-Z37-myrrhen-ringen;VOLK-myrrhen-Z6;PERS-Z4-myrrhen-0-1;BESLUIT-Z12-9
+- **jaar:** 
+- **tijdperk:** 5 Ontvangst
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een feeënring in het gras is in Velmara de plek waar het schimmelnet van de Myrrhen boven de grond komt (FEE-Z37-myrrhen-ringen). De Makers ontwierpen dat net als een biologisch archief, en het onthoudt wat erin sterft. Daarom dansen in de folklore de doden in de kring. Wie erin blijft staan, wordt gelezen, en dat kost geheugen: de zwam van de Myrrhen neemt herinneringen of levensjaren (BESLUIT-Z12-9). De mythe noemt dat de tijd die verdwijnt bij de feeën. Ook na 801 blijven de ringen bestaan, want schimmel heeft geen ja nodig. Zo is de feeënring het enige stuk Makerstechniek dat iedereen nog kan zien.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-reuzen · De reuzen van voor de mensen
+- **code:** MYTHE-Z43-reuzen
+- **categorie:** Mythe
+- **onderwerp:** De reuzen van voor de mensen
+- **wat:** De jötnar en de cyclopen, die volgens de Grieken de muren van Mykene bouwden, gaan terug op de Tharn. Die zijn drie tot vijf meter lang, hebben botten die blijven groeien en een huid vol littekens die hun archief is (UIT-VOLK-tharn). Bor de Poortreus bewaakt de Amberpas. Bij het doorvertellen werd de poortwachter de reus die je alleen doorlaat als je zijn vraag kunt beantwoorden. Later hielp de grond zelf mee: Tharnbotten en de schedels van verwilderde reuzenstieren (DEG-stalreus) werden opgegraven. Ook op aarde maakten zulke vondsten van botten reuzen in de verhalen.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** UIT-VOLK-tharn;VOLK-GESCHIEDENIS-OVERZICHT-Z4-tharn;PLEK-amberpas;DEG-stalreus
+- **verwijst_naar:** UIT-VOLK-tharn;VOLK-GESCHIEDENIS-OVERZICHT-Z4-tharn;PLEK-amberpas;DEG-stalreus
+- **jaar:** 
+- **tijdperk:** 6 Markt
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De jötnar en de cyclopen, die volgens de Grieken de muren van Mykene bouwden, gaan terug op de Tharn. Die zijn drie tot vijf meter lang, hebben botten die blijven groeien en een huid vol littekens die hun archief is (UIT-VOLK-tharn). Bor de Poortreus bewaakt de Amberpas. Bij het doorvertellen werd de poortwachter de reus die je alleen doorlaat als je zijn vraag kunt beantwoorden. Later hielp de grond zelf mee: Tharnbotten en de schedels van verwilderde reuzenstieren (DEG-stalreus) werden opgegraven. Ook op aarde maakten zulke vondsten van botten reuzen in de verhalen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-minotaurus · Het stiermonster in het labyrint
+- **code:** MYTHE-Z43-minotaurus
+- **categorie:** Mythe
+- **onderwerp:** Het stiermonster in het labyrint
+- **wat:** De Minotaurus in zijn doolhof onder het paleis van Knossos stamt uit de stallen onder Saelith. Daar groeiden gefokte reuzenstieren door zegelwater tot ze drie meter waren, en hun lijf scheurde van de groei (BESLUIT-Z3-WRIJ-066). Ontsnapte of achtergelaten stieren leefden in benden en haatten iedereen (DEG-stalreus). Het mengwezen is hier body horror, geen seks. De mythe maakt er een stierhoofd op een mensenlijf van en zet het in de gangen onder de koning. Dat het monster gefokt is, bleef bewaard: in de Griekse versie liet de koning het maken.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** DEG-stalreus;BESLUIT-Z3-WRIJ-066;KOE-markt;PLEK-Z4-saelith-1
+- **verwijst_naar:** DEG-stalreus;BESLUIT-Z3-WRIJ-066;KOE-markt;PLEK-Z4-saelith-1
+- **jaar:** 
+- **tijdperk:** 6 Markt
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De Minotaurus in zijn doolhof onder het paleis van Knossos stamt uit de stallen onder Saelith. Daar groeiden gefokte reuzenstieren door zegelwater tot ze drie meter waren, en hun lijf scheurde van de groei (BESLUIT-Z3-WRIJ-066). Ontsnapte of achtergelaten stieren leefden in benden en haatten iedereen (DEG-stalreus). Het mengwezen is hier body horror, geen seks. De mythe maakt er een stierhoofd op een mensenlijf van en zet het in de gangen onder de koning. Dat het monster gefokt is, bleef bewaard: in de Griekse versie liet de koning het maken.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-draken · De draak en de wereldslang
+- **code:** MYTHE-Z43-draken
+- **categorie:** Mythe
+- **onderwerp:** De draak en de wereldslang
+- **wat:** Jörmungandr, Tiamat en Leviathan gaan terug op de Leegtewormen. Dat zijn levende schepen met een maag en zenuwen, bestuurd door wormnavigators (TECHNO-bio-schip). Wat in hun ruim zat, werd in de mythe de schat in de buik van de draak. In de Barsten keren verwilderde wormen uit de Leegte terug, met iets anders in hun ruim (OORSPRONG-bio-8). Zo ontstaat de draak die aan het einde der tijden opstaat. De zeelieden zeiden dat een worm de wereld rond voer, en die uitdrukking werd letterlijk de slang die de wereld omringt. Dat de draak in China een geluksbrenger is, komt van de wormen die goed bestuurd werden.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** TECHNO-bio-schip;OORSPRONG-bio-8;OORSPRONG-bio-7;ORIGIN-Z1-harrow
+- **verwijst_naar:** TECHNO-bio-schip;OORSPRONG-bio-8;OORSPRONG-bio-7;ORIGIN-Z1-harrow
+- **jaar:** 
+- **tijdperk:** 6 Markt
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Jörmungandr, Tiamat en Leviathan gaan terug op de Leegtewormen. Dat zijn levende schepen met een maag en zenuwen, bestuurd door wormnavigators (TECHNO-bio-schip). Wat in hun ruim zat, werd in de mythe de schat in de buik van de draak. In de Barsten keren verwilderde wormen uit de Leegte terug, met iets anders in hun ruim (OORSPRONG-bio-8). Zo ontstaat de draak die aan het einde der tijden opstaat. De zeelieden zeiden dat een worm de wereld rond voer, en die uitdrukking werd letterlijk de slang die de wereld omringt. Dat de draak in China een geluksbrenger is, komt van de wormen die goed bestuurd werden.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-vampier · De doden die warmte en bloed drinken
+- **code:** MYTHE-Z43-vampier
+- **categorie:** Mythe
+- **onderwerp:** De doden die warmte en bloed drinken
+- **wat:** De vampier die alleen binnenkomt als hij is uitgenodigd, gaat terug op het zegellicht in de tempels. Dat licht trekt de warmte uit je vingers (PLEK-Z4-saelith-1), en de Wieg eet ontvangsters die te vaak ontvangen (ORIGIN-WAAROM-10). Wie dat overkwam, werd bleek, koud en mager. In de mythe wordt dat iets wat 's nachts komt drinken, en uit een machine van licht wordt een ondode. Dat hij niet zonder uitnodiging over de drempel kan, is wat overbleef van de ja die de Wieg las. De mythe vergat dat de ja er was, en zo werd een machine een monster.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** PLEK-Z4-saelith-1;ORIGIN-WAAROM-10;GAVE-Z37-licht;ORIGIN-5
+- **verwijst_naar:** PLEK-Z4-saelith-1;ORIGIN-WAAROM-10;GAVE-Z37-licht;ORIGIN-5
+- **jaar:** 
+- **tijdperk:** 5 Ontvangst
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De vampier die alleen binnenkomt als hij is uitgenodigd, gaat terug op het zegellicht in de tempels. Dat licht trekt de warmte uit je vingers (PLEK-Z4-saelith-1), en de Wieg eet ontvangsters die te vaak ontvangen (ORIGIN-WAAROM-10). Wie dat overkwam, werd bleek, koud en mager. In de mythe wordt dat iets wat 's nachts komt drinken, en uit een machine van licht wordt een ondode. Dat hij niet zonder uitnodiging over de drempel kan, is wat overbleef van de ja die de Wieg las. De mythe vergat dat de ja er was, en zo werd een machine een monster.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-nachtbezoeker · De nachtelijke minnaar, incubus en succubus
+- **code:** MYTHE-Z43-nachtbezoeker
+- **categorie:** Mythe
+- **onderwerp:** De nachtelijke minnaar, incubus en succubus
+- **wat:** De incubus en de succubus zijn wat er overblijft van de Ontvangst als je de ja eruit haalt. In Velmara geeft een gaven-man zijn lading aan een vrouw die dat wil: zij wordt sterker, en hij is daarna uitgeput (MAGIE-kracht-duur). Soms ontlaadt een stormman in zijn slaap, en dan dromen de vrouwen in de zaal van hetzelfde. De mythe maakt er een geest van die ongevraagd komt en op de borst van de slaper gaat zitten. Ook hier maakt het weglaten van de ja horror. Lilith, die de mannen in de nacht bezoekt, is de herinnering omgekeerd: in Velmara waren het de mannen die kwamen, en de vrouwen die kozen.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** KETEN-kruik-ontvangst;MAGIE-kracht-duur;GES-tijdlijn;BESLUIT-2
+- **verwijst_naar:** KETEN-kruik-ontvangst;MAGIE-kracht-duur;GES-tijdlijn;BESLUIT-2
+- **jaar:** 
+- **tijdperk:** 5 Ontvangst
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De incubus en de succubus zijn wat er overblijft van de Ontvangst als je de ja eruit haalt. In Velmara geeft een gaven-man zijn lading aan een vrouw die dat wil: zij wordt sterker, en hij is daarna uitgeput (MAGIE-kracht-duur). Soms ontlaadt een stormman in zijn slaap, en dan dromen de vrouwen in de zaal van hetzelfde. De mythe maakt er een geest van die ongevraagd komt en op de borst van de slaper gaat zitten. Ook hier maakt het weglaten van de ja horror. Lilith, die de mannen in de nacht bezoekt, is de herinnering omgekeerd: in Velmara waren het de mannen die kwamen, en de vrouwen die kozen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-versteende · Mensen die tot steen worden
+- **code:** MYTHE-Z43-versteende
+- **categorie:** Mythe
+- **onderwerp:** Mensen die tot steen worden
+- **wat:** Lots vrouw, die tot zoutpilaar werd, en de waterspuwers op de kathedralen komen van de mensen die in Velmara echt in steen opgingen. De Sterrensteen is verhard Orrim-weefsel van kernwachters die bij de val versteenden (BESLUIT-Z4-sterrensteen). Ook de Dochters en de oude Orric liggen in de steen. Hun beelden zijn warm en zoemen. De mythe maakt van versteend worden een straf voor wie omkijkt. In Velmara was het meestal een offer. Gargouilles op dakgoten bewaken nog altijd de tempel, zoals de Dochters het Zegel bewaakten. In 801 worden ze gewekt, en wie nee zegt, blijft steen.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** BESLUIT-Z4-sterrensteen;BESLUIT-Z12-wortelstem;GEV-kerkers-saelith;BESLUIT-Z32-11
+- **verwijst_naar:** BESLUIT-Z4-sterrensteen;BESLUIT-Z12-wortelstem;GEV-kerkers-saelith;BESLUIT-Z32-11
+- **jaar:** 
+- **tijdperk:** 3 Brand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Lots vrouw, die tot zoutpilaar werd, en de waterspuwers op de kathedralen komen van de mensen die in Velmara echt in steen opgingen. De Sterrensteen is verhard Orrim-weefsel van kernwachters die bij de val versteenden (BESLUIT-Z4-sterrensteen). Ook de Dochters en de oude Orric liggen in de steen. Hun beelden zijn warm en zoemen. De mythe maakt van versteend worden een straf voor wie omkijkt. In Velmara was het meestal een offer. Gargouilles op dakgoten bewaken nog altijd de tempel, zoals de Dochters het Zegel bewaakten. In 801 worden ze gewekt, en wie nee zegt, blijft steen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-vuurgeest · De geest van vuur
+- **code:** MYTHE-Z43-vuurgeest
+- **categorie:** Mythe
+- **onderwerp:** De geest van vuur
+- **wat:** De djinn van rookloos vuur en Surtr met zijn vlammende zwaard gaan terug op de vuurmannen van de Vonk. Vuur verbrandt eerst wie het draagt (GAVE-Z37-vuur). Een machtige gaven-man is na zijn vijftigste half monster, met verkoolde vingertoppen en een hitte die nooit wegtrekt (LICH-gaven-vervorming-Z6). Om ze te koelen, lieten Varnaths dienaressen hen in stenen kruiken met bronwater zitten. Uit die kruik werd de fles of lamp waarin de geest gevangen zit. Dat hij dient wie hem bevrijdt, klopt ook: een gekoelde vuurman gaf zijn kracht aan wie hem eruit haalde.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** GAVE-Z37-vuur;LICH-vonkkoorts;LICH-gaven-vervorming-Z6
+- **verwijst_naar:** GAVE-Z37-vuur;LICH-vonkkoorts;LICH-gaven-vervorming-Z6
+- **jaar:** 
+- **tijdperk:** 2 Vonk
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De djinn van rookloos vuur en Surtr met zijn vlammende zwaard gaan terug op de vuurmannen van de Vonk. Vuur verbrandt eerst wie het draagt (GAVE-Z37-vuur). Een machtige gaven-man is na zijn vijftigste half monster, met verkoolde vingertoppen en een hitte die nooit wegtrekt (LICH-gaven-vervorming-Z6). Om ze te koelen, lieten Varnaths dienaressen hen in stenen kruiken met bronwater zitten. Uit die kruik werd de fles of lamp waarin de geest gevangen zit. Dat hij dient wie hem bevrijdt, klopt ook: een gekoelde vuurman gaf zijn kracht aan wie hem eruit haalde.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-vleugelvolk · Het gevleugelde volk: engelen en harpijen
+- **code:** MYTHE-Z43-vleugelvolk
+- **categorie:** Mythe
+- **onderwerp:** Het gevleugelde volk: engelen en harpijen
+- **wat:** Engelen als boden en harpijen als grijpers van schuldigen gaan terug op de Skerra. Dat is een gevleugeld volk met holle botten dat berichten, registers en lekmeldingen in een paar uur over de Ysmer vliegt (VOLK-skerra). Een engel brengt een boodschap uit de hemel, en de Skerra deden dat letterlijk. Hun sterrenkijkers telden een signaal van een ster die bewoog (MEGA-Z4-skerra). De Orde en Varenne vochten om hun trouw. Zo werd de Skerra bij de ene partij een engel en bij de andere een harpij. Een Skerra met een gebroken vleugel heeft geen leven meer, en dat werd de gevallen engel.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** VOLK-skerra;D1-skerra-ziekte;MEGA-Z4-skerra
+- **verwijst_naar:** VOLK-skerra;D1-skerra-ziekte;MEGA-Z4-skerra
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Engelen als boden en harpijen als grijpers van schuldigen gaan terug op de Skerra. Dat is een gevleugeld volk met holle botten dat berichten, registers en lekmeldingen in een paar uur over de Ysmer vliegt (VOLK-skerra). Een engel brengt een boodschap uit de hemel, en de Skerra deden dat letterlijk. Hun sterrenkijkers telden een signaal van een ster die bewoog (MEGA-Z4-skerra). De Orde en Varenne vochten om hun trouw. Zo werd de Skerra bij de ene partij een engel en bij de andere een harpij. Een Skerra met een gebroken vleugel heeft geen leven meer, en dat werd de gevallen engel.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-raven · De vogels die alles zien en namen dragen
+- **code:** MYTHE-Z43-raven
+- **categorie:** Mythe
+- **onderwerp:** De vogels die alles zien en namen dragen
+- **wat:** Odins raven Huginn en Muninn, Gedachte en Geheugen, zijn de registerkraaien. De vogels van Velmara zijn grijs als het gras en bootsen stemmen na (BESLUIT-Z27-1). De oudste kraai van Brakhaven spreekt met een vrouwenstem die niet van deze tijd is, helder en metalig, met een klik aan het eind van elke zin (BESLUIT-Z7-KRAAI). Die stem pikten kraaien in 205 op in de kluizen. Een vogel die een register voorleest, werd een vogel die de god alles vertelt. Het geheugen van de raaf is een opname van het schip.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** BESLUIT-Z7-KRAAI;BESLUIT-Z27-1;YSA-Z15-8;BESLUIT-Z6-WRIJ-081
+- **verwijst_naar:** BESLUIT-Z7-KRAAI;BESLUIT-Z27-1;YSA-Z15-8;BESLUIT-Z6-WRIJ-081
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Odins raven Huginn en Muninn, Gedachte en Geheugen, zijn de registerkraaien. De vogels van Velmara zijn grijs als het gras en bootsen stemmen na (BESLUIT-Z27-1). De oudste kraai van Brakhaven spreekt met een vrouwenstem die niet van deze tijd is, helder en metalig, met een klik aan het eind van elke zin (BESLUIT-Z7-KRAAI). Die stem pikten kraaien in 205 op in de kluizen. Een vogel die een register voorleest, werd een vogel die de god alles vertelt. Het geheugen van de raaf is een opname van het schip.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-spoken · Spoken en stemmen van de doden
+- **code:** MYTHE-Z43-spoken
+- **categorie:** Mythe
+- **onderwerp:** Spoken en stemmen van de doden
+- **wat:** Het spook dat in een leeg huis steeds dezelfde zin herhaalt, is een scherf van het schip die blijft afspelen. Toen de Reckoner stierf, bleef elk stuk vragen. Thalen telde aan het eind zichzelf af zoals Ysa telde: "Thalen Orr. Seventy-four. Seated." (YSA-Z29-86). Zijn patroon en Ysara's stem spreken vanuit de Wortel (BESLUIT-Z15-7-Z37), en het Myrrhen-net onthoudt wie erin stierf. De banshee die een naam roept voor een dood, is dezelfde stem als die van de registerkraai. Op aarde liggen de spookhuizen waar ooit een splinter in de grond zat. Het spook kan niet stoppen omdat een afspeling niet kan stoppen.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** YSA-Z29-86;BESLUIT-Z15-7-Z37;ORIGIN-WAAROM-12;FEE-Z37-myrrhen-ringen
+- **verwijst_naar:** YSA-Z29-86;BESLUIT-Z15-7-Z37;ORIGIN-WAAROM-12;FEE-Z37-myrrhen-ringen
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Het spook dat in een leeg huis steeds dezelfde zin herhaalt, is een scherf van het schip die blijft afspelen. Toen de Reckoner stierf, bleef elk stuk vragen. Thalen telde aan het eind zichzelf af zoals Ysa telde: "Thalen Orr. Seventy-four. Seated." (YSA-Z29-86). Zijn patroon en Ysara's stem spreken vanuit de Wortel (BESLUIT-Z15-7-Z37), en het Myrrhen-net onthoudt wie erin stierf. De banshee die een naam roept voor een dood, is dezelfde stem als die van de registerkraai. Op aarde liggen de spookhuizen waar ooit een splinter in de grond zat. Het spook kan niet stoppen omdat een afspeling niet kan stoppen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-bezetenheid · Bezetenheid: iets dat in je lichaam woont
+- **code:** MYTHE-Z43-bezetenheid
+- **categorie:** Mythe
+- **onderwerp:** Bezetenheid: iets dat in je lichaam woont
+- **wat:** De dibbuk en de demon die uitgedreven moet worden, zijn de vonkcellen van de Makers. Ze gaan met zaad van lichaam naar lichaam (ORIGIN-6) en blijven daar als levende condensatoren die lading dragen (BESLUIT-Z36-1). Wie ze heeft, krijgt een kracht die niet van hemzelf is. Zijn lichaam groeit naar het element toe, tot hij half monster is. Zonder ja gaan ze er niet uit. De mythe maakt van de cel een geest en van de lading een stem. Dat er een ritueel nodig is om hem uit te drijven, klopt ook: na 801 mag ieder lichaam een gave weigeren. Dat is de laatste uitdrijving, en die vindt in de finale plaats.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** ORIGIN-6;BESLUIT-Z36-1;LICH-gaven-vervorming-Z6;BESLUIT-Z32-13
+- **verwijst_naar:** ORIGIN-6;BESLUIT-Z36-1;LICH-gaven-vervorming-Z6;BESLUIT-Z32-13
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De dibbuk en de demon die uitgedreven moet worden, zijn de vonkcellen van de Makers. Ze gaan met zaad van lichaam naar lichaam (ORIGIN-6) en blijven daar als levende condensatoren die lading dragen (BESLUIT-Z36-1). Wie ze heeft, krijgt een kracht die niet van hemzelf is. Zijn lichaam groeit naar het element toe, tot hij half monster is. Zonder ja gaan ze er niet uit. De mythe maakt van de cel een geest en van de lading een stem. Dat er een ritueel nodig is om hem uit te drijven, klopt ook: na 801 mag ieder lichaam een gave weigeren. Dat is de laatste uitdrijving, en die vindt in de finale plaats.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-heksen · De wijze vrouw, heks en kruidenvrouw
+- **code:** MYTHE-Z43-heksen
+- **categorie:** Mythe
+- **onderwerp:** De wijze vrouw, heks en kruidenvrouw
+- **wat:** De heks met haar kruiden en haar vloek is de Zusterheelster van de Groenmuil. Zij kent Maankruid en Vuurbloesem, en ze weet hoe je met de verboden kluisgeneeskunde alles kunt genezen voor de prijs van een donorlichaam (GENEES-heelsters). De Orde verbrandt ketters (SEKTE-annalisten). De vrouw die buiten de register-orde genas, werd zo de vrouw die vervloekte. Bij Circe veranderen mannen in dieren, en dat is wat de Orde vertelde over de vrouwen die mannen buiten de stallen hielden. Baba Jaga's huis staat op kippenpoten; in de Groenmuil staan de huizen op palen in het warme water.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** GENEES-heelsters;DAG-gezondheid;SEKTE-annalisten;REG-groenmuil
+- **verwijst_naar:** GENEES-heelsters;DAG-gezondheid;SEKTE-annalisten;REG-groenmuil
+- **jaar:** 
+- **tijdperk:** 5 Ontvangst
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De heks met haar kruiden en haar vloek is de Zusterheelster van de Groenmuil. Zij kent Maankruid en Vuurbloesem, en ze weet hoe je met de verboden kluisgeneeskunde alles kunt genezen voor de prijs van een donorlichaam (GENEES-heelsters). De Orde verbrandt ketters (SEKTE-annalisten). De vrouw die buiten de register-orde genas, werd zo de vrouw die vervloekte. Bij Circe veranderen mannen in dieren, en dat is wat de Orde vertelde over de vrouwen die mannen buiten de stallen hielden. Baba Jaga's huis staat op kippenpoten; in de Groenmuil staan de huizen op palen in het warme water.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-vloek-op-zonen · De vloek op de zonen
+- **code:** MYTHE-Z43-vloek-op-zonen
+- **categorie:** Mythe
+- **onderwerp:** De vloek op de zonen
+- **wat:** Er bestaat geen vloek van de goden (BESLUIT-Z30-2), en toch vertellen de mythen er een. Het gaat om de Stille Modus, die Ysa Maren in jaar 28 ontwierp en die de Raad der Moeders in jaar 0 activeerde zonder te weten wat ze deed (ORIGIN-10-Z36). Vanaf toen werd één op de honderd kinderen een jongen. Een veiligheidsstand van een schip werd zo een vloek op de zonen. De vloek van Macha, die de mannen van Ulster in hun nood krachteloos maakt, is daar de echo van. In de tiende plaag van Egypte treft het de eerstgeborenen. Na 801 schuift het getal in decennia naar één op twintig, en de vloek ebt weg als een tij.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** BESLUIT-Z30-2;ORIGIN-10-Z36;BESLUIT-Z36-1;BESLUIT-Z11-tijdlijn
+- **verwijst_naar:** BESLUIT-Z30-2;ORIGIN-10-Z36;BESLUIT-Z36-1;BESLUIT-Z11-tijdlijn
+- **jaar:** 
+- **tijdperk:** 3 Brand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Er bestaat geen vloek van de goden (BESLUIT-Z30-2), en toch vertellen de mythen er een. Het gaat om de Stille Modus, die Ysa Maren in jaar 28 ontwierp en die de Raad der Moeders in jaar 0 activeerde zonder te weten wat ze deed (ORIGIN-10-Z36). Vanaf toen werd één op de honderd kinderen een jongen. Een veiligheidsstand van een schip werd zo een vloek op de zonen. De vloek van Macha, die de mannen van Ulster in hun nood krachteloos maakt, is daar de echo van. In de tiende plaag van Egypte treft het de eerstgeborenen. Na 801 schuift het getal in decennia naar één op twintig, en de vloek ebt weg als een tij.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-graal · Het heilige vat dat heelt en voedt
+- **code:** MYTHE-Z43-graal
+- **categorie:** Mythe
+- **onderwerp:** Het heilige vat dat heelt en voedt
+- **wat:** De graal en de ketel van de Dagda gaan terug op de Wiegkast. Dat is een machine die wonden heelt, bloed leest en meet hoeveel jongens en meisjes er geboren worden (TECHNO-metaal-genees). Ze is een uitloper van de Wieg in de scheepskern (ORIGIN-5). Wie haar vond, kon genezen, en wie haar bezat, wist alles over het bloed van een lijn. De mythe maakt er een vat van dat de waardige vindt. De gewonde koning en het woeste land zijn de Orde en haar stallen. Daar hield men Moeder Ithrael in leven met kluismachines, terwijl het land eromheen leegliep.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** TECHNO-metaal-genees;ORIGIN-5;GENEES-heelsters
+- **verwijst_naar:** TECHNO-metaal-genees;ORIGIN-5;GENEES-heelsters
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De graal en de ketel van de Dagda gaan terug op de Wiegkast. Dat is een machine die wonden heelt, bloed leest en meet hoeveel jongens en meisjes er geboren worden (TECHNO-metaal-genees). Ze is een uitloper van de Wieg in de scheepskern (ORIGIN-5). Wie haar vond, kon genezen, en wie haar bezat, wist alles over het bloed van een lijn. De mythe maakt er een vat van dat de waardige vindt. De gewonde koning en het woeste land zijn de Orde en haar stallen. Daar hield men Moeder Ithrael in leven met kluismachines, terwijl het land eromheen leegliep.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-sleutel-en-zwaard · Het voorwerp dat alleen de ware kan gebruiken
+- **code:** MYTHE-Z43-sleutel-en-zwaard
+- **categorie:** Mythe
+- **onderwerp:** Het voorwerp dat alleen de ware kan gebruiken
+- **wat:** Het zwaard in de steen, dat alleen de ware koning eruit trekt, is de instemmingssleutel van Thalen Orr. Die sleutel leest of een lichaam ja zegt, en de Stemklok werkt alleen als dat zo is (TOESTAND-Z17-PER-v4-thalen-orr-2). Wie zonder ja kracht neemt, verbrandt. Uit dat ene apparaat maakt de mythe een voorwerp dat zelf zijn drager kiest. Thalens patroon wil de sleutel terug in de machine zetten (BESLUIT-Z32-13). Liora geeft haar aan iedereen (BESLUIT-Z12-2). Daarom heeft de aardse mythe nooit een einde waarin de sleutel blijft: na de ware koning verdwijnt het zwaard in het meer.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** BESLUIT-Z32-13;BESLUIT-2;BESLUIT-Z12-2;TOESTAND-Z17-PER-v4-thalen-orr-2
+- **verwijst_naar:** BESLUIT-Z32-13;BESLUIT-2;BESLUIT-Z12-2;TOESTAND-Z17-PER-v4-thalen-orr-2
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Het zwaard in de steen, dat alleen de ware koning eruit trekt, is de instemmingssleutel van Thalen Orr. Die sleutel leest of een lichaam ja zegt, en de Stemklok werkt alleen als dat zo is (TOESTAND-Z17-PER-v4-thalen-orr-2). Wie zonder ja kracht neemt, verbrandt. Uit dat ene apparaat maakt de mythe een voorwerp dat zelf zijn drager kiest. Thalens patroon wil de sleutel terug in de machine zetten (BESLUIT-Z32-13). Liora geeft haar aan iedereen (BESLUIT-Z12-2). Daarom heeft de aardse mythe nooit een einde waarin de sleutel blijft: na de ware koning verdwijnt het zwaard in het meer.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-verzonken-stad · De verzonken stad
+- **code:** MYTHE-Z43-verzonken-stad
+- **categorie:** Mythe
+- **onderwerp:** De verzonken stad
+- **wat:** Atlantis, Ys en het Zeeuwse Saeftinghe gaan terug op Ves-Anath. Die stad werd in 603 ontruimd en volgens de Orde 'geroepen naar Saelith' (VALS-markt-Z36). Haar ruïnes liggen nu in de warme Groenmuil. Later werden er weer meer jongens geboren rond Ves-Anath (BESLUIT-Z12-11), en de Orde verzweeg die gezegende jaren. Bij het doorvertellen werd het een stad die verzonk om haar hoogmoed. Wat het water er werkelijk aan toevoegde, komt pas na de ijstijden: het land van Velmara verdronk deels. Zo werd de verdwenen stad ook echt een stad onder water, en de klokken die men hoort, horen bij die tweede ondergang.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** VALS-markt-Z36;BESLUIT-Z12-11;REG-groenmuil;BESLUIT-8
+- **verwijst_naar:** VALS-markt-Z36;BESLUIT-Z12-11;REG-groenmuil;BESLUIT-8
+- **jaar:** 
+- **tijdperk:** 6 Markt
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Atlantis, Ys en het Zeeuwse Saeftinghe gaan terug op Ves-Anath. Die stad werd in 603 ontruimd en volgens de Orde 'geroepen naar Saelith' (VALS-markt-Z36). Haar ruïnes liggen nu in de warme Groenmuil. Later werden er weer meer jongens geboren rond Ves-Anath (BESLUIT-Z12-11), en de Orde verzweeg die gezegende jaren. Bij het doorvertellen werd het een stad die verzonk om haar hoogmoed. Wat het water er werkelijk aan toevoegde, komt pas na de ijstijden: het land van Velmara verdronk deels. Zo werd de verdwenen stad ook echt een stad onder water, en de klokken die men hoort, horen bij die tweede ondergang.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-eiland-der-gelukzaligen · Het eiland in het westen waar de ouden heengaan
+- **code:** MYTHE-Z43-eiland-der-gelukzaligen
+- **categorie:** Mythe
+- **onderwerp:** Het eiland in het westen waar de ouden heengaan
+- **wat:** Avalon en Tír na nÓg, de eilanden in het westen waar de ouden heengaan, zijn een Kluisschip dat nog vliegt. In de Leegte groeit geen schimmel, en daarom vliegt het zonder dat iemand de koers kiest (TECHNO-metaal-schip-Z42). De kaartplaat toont drie werelden. Wie het schip haalde, kwam niet terug, en in de mythe wordt dat een land waar de tijd stilstaat. In Tír na nÓg komt de held die terugkeert, oud aan op de grond. Dat is wat er gebeurt met wie te lang in de Leegte bleef. De boot naar het westen is de laatste lander.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** TECHNO-metaal-schip-Z42;ORIGIN-WAAROM-12;ORIGIN-onthulplan;BESLUIT-Z15-1
+- **verwijst_naar:** TECHNO-metaal-schip-Z42;ORIGIN-WAAROM-12;ORIGIN-onthulplan;BESLUIT-Z15-1
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Avalon en Tír na nÓg, de eilanden in het westen waar de ouden heengaan, zijn een Kluisschip dat nog vliegt. In de Leegte groeit geen schimmel, en daarom vliegt het zonder dat iemand de koers kiest (TECHNO-metaal-schip-Z42). De kaartplaat toont drie werelden. Wie het schip haalde, kwam niet terug, en in de mythe wordt dat een land waar de tijd stilstaat. In Tír na nÓg komt de held die terugkeert, oud aan op de grond. Dat is wat er gebeurt met wie te lang in de Leegte bleef. De boot naar het westen is de laatste lander.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-hemelvaartuig · De wagen of het schip van de goden in de lucht
+- **code:** MYTHE-Z43-hemelvaartuig
+- **categorie:** Mythe
+- **onderwerp:** De wagen of het schip van de goden in de lucht
+- **wat:** Vimana's, de zonneboot van Ra en de vlammende wagen van Elia zijn landers en Kluisschepen, gezien door mensen die nog nooit een machine gezien hadden. De Kluisschepen zijn gemaakt van siliciumlegering (TECHNO-metaal-schip-Z42). Bij de landing brak de Harrow in tweeën (ORIGIN-Z1-harrow). Wat zoemde, vlamde en daalde, werd de wagen van een god. Het Noorse Skíðblaðnir kan worden opgevouwen tot het in een zak past, en dat herinnert aan landers die in hun rek werden teruggezet. Op aarde bleef van al die schepen niets over, want de schimmel at ze. Het lied over de wagen overleefde wel.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** TECHNO-metaal-schip-Z42;ORIGIN-Z1-harrow;ROMAN-Z16-h13;BESLUIT-3
+- **verwijst_naar:** TECHNO-metaal-schip-Z42;ORIGIN-Z1-harrow;ROMAN-Z16-h13;BESLUIT-3
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Vimana's, de zonneboot van Ra en de vlammende wagen van Elia zijn landers en Kluisschepen, gezien door mensen die nog nooit een machine gezien hadden. De Kluisschepen zijn gemaakt van siliciumlegering (TECHNO-metaal-schip-Z42). Bij de landing brak de Harrow in tweeën (ORIGIN-Z1-harrow). Wat zoemde, vlamde en daalde, werd de wagen van een god. Het Noorse Skíðblaðnir kan worden opgevouwen tot het in een zak past, en dat herinnert aan landers die in hun rek werden teruggezet. Op aarde bleef van al die schepen niets over, want de schimmel at ze. Het lied over de wagen overleefde wel.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-wereldboom · De wereldboom met wortels in alle werelden
+- **code:** MYTHE-Z43-wereldboom
+- **categorie:** Mythe
+- **onderwerp:** De wereldboom met wortels in alle werelden
+- **wat:** Yggdrasil, met zijn wortels in drie werelden en de Nornen aan de bron, komt van de Wortel onder het Zegel. Daar spreekt Ysara (BESLUIT-Z12-wortelstem). Het ankerwortelnet van de Lijngravers verbindt de stallen met het Zegel (BESLUIT-Z12-10), en het schimmelnet van de Myrrhen loopt ernaast. Omdat de Wortel heet zoals ze heet, werd ze in de mythe een boom. De drie vrouwen die bij de wortel het lot spinnen, zijn de Registratrices van de lijnen. Wat aan de wortel knaagt, is het lek. In onze wereld hangen mensen linten in een oude boom en weten niet meer waarom.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** BESLUIT-Z12-wortelstem;BESLUIT-15;FEE-Z37-myrrhen-ringen;BESLUIT-Z12-10
+- **verwijst_naar:** BESLUIT-Z12-wortelstem;BESLUIT-15;FEE-Z37-myrrhen-ringen;BESLUIT-Z12-10
+- **jaar:** 
+- **tijdperk:** 3 Brand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Yggdrasil, met zijn wortels in drie werelden en de Nornen aan de bron, komt van de Wortel onder het Zegel. Daar spreekt Ysara (BESLUIT-Z12-wortelstem). Het ankerwortelnet van de Lijngravers verbindt de stallen met het Zegel (BESLUIT-Z12-10), en het schimmelnet van de Myrrhen loopt ernaast. Omdat de Wortel heet zoals ze heet, werd ze in de mythe een boom. De drie vrouwen die bij de wortel het lot spinnen, zijn de Registratrices van de lijnen. Wat aan de wortel knaagt, is het lek. In onze wereld hangen mensen linten in een oude boom en weten niet meer waarom.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-ragnarok · De schemering van de goden
+- **code:** MYTHE-Z43-ragnarok
+- **categorie:** Mythe
+- **onderwerp:** De schemering van de goden
+- **wat:** Ragnarök, waarin de ketens breken en de goden vallen, zijn de Barsten van 720 tot 801. In die jaren lekt het Zegel, valt Kharvos aan en bouwen duistere gaven-mannen hun eigen rijken (FASE-barsten). Verwilderde Leegtewormen keren terug met iets anders in hun ruim (OORSPRONG-bio-8). Fenrir, de wolf die zijn keten breekt, is de mannelijke kracht die weer opkomt waar het Zegel lekt. De slang die opstaat, is de worm die uit de Leegte terugkomt. Na de brand komt een groene wereld op, en ook dat klopt. Na 801 zijn de goden echt verdwenen, want er komen geen gaven-mannen meer bij.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** FASE-barsten;OORSPRONG-bio-8;OORSPRONG-gave-8;BESLUIT-3
+- **verwijst_naar:** FASE-barsten;OORSPRONG-bio-8;OORSPRONG-gave-8;BESLUIT-3
+- **jaar:** 
+- **tijdperk:** 7 Barsten
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ragnarök, waarin de ketens breken en de goden vallen, zijn de Barsten van 720 tot 801. In die jaren lekt het Zegel, valt Kharvos aan en bouwen duistere gaven-mannen hun eigen rijken (FASE-barsten). Verwilderde Leegtewormen keren terug met iets anders in hun ruim (OORSPRONG-bio-8). Fenrir, de wolf die zijn keten breekt, is de mannelijke kracht die weer opkomt waar het Zegel lekt. De slang die opstaat, is de worm die uit de Leegte terugkomt. Na de brand komt een groene wereld op, en ook dat klopt. Na 801 zijn de goden echt verdwenen, want er komen geen gaven-mannen meer bij.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-einde-der-magie · Het vertrek van het oude volk en het einde van de wonderen
+- **code:** MYTHE-Z43-einde-der-magie
+- **categorie:** Mythe
+- **onderwerp:** Het vertrek van het oude volk en het einde van de wonderen
+- **wat:** Het vertrek van het schone volk en het einde van de wonderen begint met de derde weg. Liora geeft de instemmingssleutel aan iedereen (BESLUIT-Z12-2). Daarna doven de gaven gedeeltelijk, en de verhouding schuift in decennia van één op honderd naar één op twintig (BESLUIT-Z11-tijdlijn). Van de Dochters en de Orrim zegt een deel nee (BESLUIT-Z32-11). Elke generatie ziet minder wonderen dan haar grootmoeder. Zo wordt Velmara Midden-aarde: een heldentijd waarin de volken vervagen of vermengen. Daarna begint het lange gat zonder verhalen, waarna de eerste geschreven mythen van de aarde komen. Dat de Tuatha Dé de heuvels in gingen, is dit afscheid in één zin.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** BESLUIT-2;BESLUIT-Z12-2;BESLUIT-Z32-11;BESLUIT-Z11-tijdlijn
+- **verwijst_naar:** BESLUIT-2;BESLUIT-Z12-2;BESLUIT-Z32-11;BESLUIT-Z11-tijdlijn
+- **jaar:** 
+- **tijdperk:** 801 (nu)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Het vertrek van het schone volk en het einde van de wonderen begint met de derde weg. Liora geeft de instemmingssleutel aan iedereen (BESLUIT-Z12-2). Daarna doven de gaven gedeeltelijk, en de verhouding schuift in decennia van één op honderd naar één op twintig (BESLUIT-Z11-tijdlijn). Van de Dochters en de Orrim zegt een deel nee (BESLUIT-Z32-11). Elke generatie ziet minder wonderen dan haar grootmoeder. Zo wordt Velmara Midden-aarde: een heldentijd waarin de volken vervagen of vermengen. Daarna begint het lange gat zonder verhalen, waarna de eerste geschreven mythen van de aarde komen. Dat de Tuatha Dé de heuvels in gingen, is dit afscheid in één zin.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-tweelingvolk · Twee broedervolken die elkaar bevechten
+- **code:** MYTHE-Z43-tweelingvolk
+- **categorie:** Mythe
+- **onderwerp:** Twee broedervolken die elkaar bevechten
+- **wat:** Kaïn en Abel, en de Asen en Wanen die oorlog voeren en dan gijzelaars ruilen, zijn de twee zaaischepen van één vloot. De Ysa koos het lichaam en de Harrow koos de machine (BESLUIT-3). Kharvos dreef handel met Velmara tot ongeveer 715 en werd na het lek de vijand (BESLUIT-Z12-3). In de mythe worden twee volken twee broers met twee offers. Voor de Ysa-mensen kreeg de broer van de machine de schuld. Bij Kaïn ligt de nadruk op de akker en bij Abel op de kudde, maar het motief blijft: twee keuzes uit één schoot, en een grens met bloed erop. De gijzelaars van de Asen en Wanen herinneren aan de handel van voor 715.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** BESLUIT-3;ORIGIN-Z1-harrow;BESLUIT-Z12-3
+- **verwijst_naar:** BESLUIT-3;ORIGIN-Z1-harrow;BESLUIT-Z12-3
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Kaïn en Abel, en de Asen en Wanen die oorlog voeren en dan gijzelaars ruilen, zijn de twee zaaischepen van één vloot. De Ysa koos het lichaam en de Harrow koos de machine (BESLUIT-3). Kharvos dreef handel met Velmara tot ongeveer 715 en werd na het lek de vijand (BESLUIT-Z12-3). In de mythe worden twee volken twee broers met twee offers. Voor de Ysa-mensen kreeg de broer van de machine de schuld. Bij Kaïn ligt de nadruk op de akker en bij Abel op de kudde, maar het motief blijft: twee keuzes uit één schoot, en een grens met bloed erop. De gijzelaars van de Asen en Wanen herinneren aan de handel van voor 715.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-verboden-schrift · Het verboden of geheime schrift
+- **code:** MYTHE-Z43-verboden-schrift
+- **categorie:** Mythe
+- **onderwerp:** Het verboden of geheime schrift
+- **wat:** Odin die negen nachten aan de boom hangt om de runen te krijgen, en Thoth die het schrift aan weinigen geeft, gaan terug op het register. Saske en Ondrea schreven samen het eerste register en vochten over de vraag wie erin mocht lezen (VERHAAL-fase4-c-Z35). Sinds de Makers is schrift over machines verboden. Wat overbleef van hun taal, staat in liturgie en vloeken: ysa, kern, wieg (TAAL-dode-taal). In de mythe kost lezen pijn en is het een geschenk van de goden. In Velmara kostte lezen een gunstbrief of een brandstapel.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** TAAL-dode-taal;VERHAAL-fase4-c-Z35;VALS-ontvangst-Z36;SEKTE-annalisten
+- **verwijst_naar:** TAAL-dode-taal;VERHAAL-fase4-c-Z35;VALS-ontvangst-Z36;SEKTE-annalisten
+- **jaar:** 
+- **tijdperk:** 4 Noodtoestand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Odin die negen nachten aan de boom hangt om de runen te krijgen, en Thoth die het schrift aan weinigen geeft, gaan terug op het register. Saske en Ondrea schreven samen het eerste register en vochten over de vraag wie erin mocht lezen (VERHAAL-fase4-c-Z35). Sinds de Makers is schrift over machines verboden. Wat overbleef van hun taal, staat in liturgie en vloeken: ysa, kern, wieg (TAAL-dode-taal). In de mythe kost lezen pijn en is het een geschenk van de goden. In Velmara kostte lezen een gunstbrief of een brandstapel.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-pest-straf · De plaag als straf van de goden
+- **code:** MYTHE-Z43-pest-straf
+- **categorie:** Mythe
+- **onderwerp:** De plaag als straf van de goden
+- **wat:** De pijlen van Apollo die de pest in het Griekse kamp schieten, en Nergal die ziekte zendt, gaan terug op de Pest van 340. Die ontstond in de overvolle fokstallen van de tempels, en de Orde was dus schuldig aan haar eigen ramp (BESLUIT-8). Toch verklaarde ze de Pest tot een straf van Ysa (VALS-markt-Z36). Binnen een seizoen sneuvelde die leugen op de markt van Ambergaard, maar in de mythe bleef ze. Daar werd de straf van de godin een vaste vorm. Een plaag die door de god gezonden wordt, is eigenlijk een plaag die door priesters gemaakt is.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** BESLUIT-8;VALS-markt-Z36;FASE-markt
+- **verwijst_naar:** BESLUIT-8;VALS-markt-Z36;FASE-markt
+- **jaar:** 
+- **tijdperk:** 6 Markt
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De pijlen van Apollo die de pest in het Griekse kamp schieten, en Nergal die ziekte zendt, gaan terug op de Pest van 340. Die ontstond in de overvolle fokstallen van de tempels, en de Orde was dus schuldig aan haar eigen ramp (BESLUIT-8). Toch verklaarde ze de Pest tot een straf van Ysa (VALS-markt-Z36). Binnen een seizoen sneuvelde die leugen op de markt van Ambergaard, maar in de mythe bleef ze. Daar werd de straf van de godin een vaste vorm. Een plaag die door de god gezonden wordt, is eigenlijk een plaag die door priesters gemaakt is.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-stal-van-de-goden · De kudde van de goden en de veediefstal
+- **code:** MYTHE-Z43-stal-van-de-goden
+- **categorie:** Mythe
+- **onderwerp:** De kudde van de goden en de veediefstal
+- **wat:** De runderen van Helios die geteld worden en niet gegeten mogen worden, en de grote Ierse veeroof van Cooley, komen voort uit de stalhuizen van de Markt. Daar dekken mannen en worden ze twee tot vier keer per dag gemolken. Het is een donker thema, en waar er dwang is, staat dat erbij (DAG-dag-man). Ze dromen van de Stal van Ysa. Superkoeien en reuzenstieren worden per lijn verhandeld (KOE-markt). De mythe verhult de mannen tot vee, en de held die de kudde steelt, is de vrouw die een man uit de stal haalde. Dat de kudde van de god geteld wordt, is het register.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** DAG-dag-man;ECO-wie-werkt;KOE-markt;FASE-markt
+- **verwijst_naar:** DAG-dag-man;ECO-wie-werkt;KOE-markt;FASE-markt
+- **jaar:** 
+- **tijdperk:** 6 Markt
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De runderen van Helios die geteld worden en niet gegeten mogen worden, en de grote Ierse veeroof van Cooley, komen voort uit de stalhuizen van de Markt. Daar dekken mannen en worden ze twee tot vier keer per dag gemolken. Het is een donker thema, en waar er dwang is, staat dat erbij (DAG-dag-man). Ze dromen van de Stal van Ysa. Superkoeien en reuzenstieren worden per lijn verhandeld (KOE-markt). De mythe verhult de mannen tot vee, en de held die de kudde steelt, is de vrouw die een man uit de stal haalde. Dat de kudde van de god geteld wordt, is het register.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-bedrieger · De bedrieger die de goden voor de gek houdt
+- **code:** MYTHE-Z43-bedrieger
+- **categorie:** Mythe
+- **onderwerp:** De bedrieger die de goden voor de gek houdt
+- **wat:** Loki, Anansi en Reinaert de Vos komen uit het vervalsersgilde, dat volgens de Orde niet bestaat (VALS-markt-Z36), en uit de smokkelaarsters van Huis Mirre. Zij brachten vrouwen en zaad buiten het register om. Dat was een ramp voor de Orde en een geschenk voor wie geholpen werd. De mythe brengt al die figuren terug tot één sluwe god. Hermes, de god van de dieven, is ook de god van de handel, net als in de Zoutkust. Waar de lekdichter met bloed en zegelglas langs de kust trekt (RIJK-Z38-mens-zoutkust-werk), trekt in de Griekse mythe Hermes met zijn staf.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** RIJK-Z38-mens-zoutkust-werk;VALS-markt-Z36;TOESTAND-Z11-sef-2;REG-zoutkust
+- **verwijst_naar:** RIJK-Z38-mens-zoutkust-werk;VALS-markt-Z36;TOESTAND-Z11-sef-2;REG-zoutkust
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Loki, Anansi en Reinaert de Vos komen uit het vervalsersgilde, dat volgens de Orde niet bestaat (VALS-markt-Z36), en uit de smokkelaarsters van Huis Mirre. Zij brachten vrouwen en zaad buiten het register om. Dat was een ramp voor de Orde en een geschenk voor wie geholpen werd. De mythe brengt al die figuren terug tot één sluwe god. Hermes, de god van de dieven, is ook de god van de handel, net als in de Zoutkust. Waar de lekdichter met bloed en zegelglas langs de kust trekt (RIJK-Z38-mens-zoutkust-werk), trekt in de Griekse mythe Hermes met zijn staf.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-held-taken · De held met de onmogelijke taken
+- **code:** MYTHE-Z43-held-taken
+- **categorie:** Mythe
+- **onderwerp:** De held met de onmogelijke taken
+- **wat:** De twaalf werken van Herakles en de razernij van Cú Chulainn komen van de gaven-mannen met vijf keer menselijke kracht. Die kracht duurt acht tot twaalf uur en moet daarna ontladen worden, anders verbrandt de man van binnen (LICH-vonkkoorts). De Orde gebruikte zulke mannen voor wat geen vrouw kon doen en noemde dat boete. Uit een razende stormman die zijn eigen huis kapotmaakt, groeit Herakles die in waanzin zijn gezin doodt. De mythe houdt de kracht en de vloek, en vergeet dat de kracht van de vrouwen kwam.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** MAGIE-kracht-duur;HELD-Z10-35;LICH-vonkkoorts;FASE-vonk
+- **verwijst_naar:** MAGIE-kracht-duur;HELD-Z10-35;LICH-vonkkoorts;FASE-vonk
+- **jaar:** 
+- **tijdperk:** 6 Markt
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De twaalf werken van Herakles en de razernij van Cú Chulainn komen van de gaven-mannen met vijf keer menselijke kracht. Die kracht duurt acht tot twaalf uur en moet daarna ontladen worden, anders verbrandt de man van binnen (LICH-vonkkoorts). De Orde gebruikte zulke mannen voor wat geen vrouw kon doen en noemde dat boete. Uit een razende stormman die zijn eigen huis kapotmaakt, groeit Herakles die in waanzin zijn gezin doodt. De mythe houdt de kracht en de vloek, en vergeet dat de kracht van de vrouwen kwam.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-onsterfelijkheid-verloren · Waarom de mensen sterven
+- **code:** MYTHE-Z43-onsterfelijkheid-verloren
+- **categorie:** Mythe
+- **onderwerp:** Waarom de mensen sterven
+- **wat:** Waarom mensen sterven, vertellen de mythen met een kruid dat een slang steelt of met een huid die afgelegd wordt. In het schip verouderde niemand in de koude slaap. Op de dag dat de kolonisten uit hun omhulsel stapten, begonnen ze te sterven. Er komt geen eeuwig lichaam, ook niet door vonkcellen (BESLUIT-Z15-1). Alleen de Aelthir kozen voor een lang leven, en zij betaalden er een prijs voor (BESLUIT-V5-aelthir). Een slaapcapsule werd in de mythe het vel dat de slang aflegt om eeuwig te blijven. De slapers stonden op en verloren het. Adapa die het brood van het leven weigert, is iemand die niet terug in de capsule wilde.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** BESLUIT-Z15-1;ORIGIN-1;BESLUIT-V5-ysa;BESLUIT-V5-aelthir
+- **verwijst_naar:** BESLUIT-Z15-1;ORIGIN-1;BESLUIT-V5-ysa;BESLUIT-V5-aelthir
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Waarom mensen sterven, vertellen de mythen met een kruid dat een slang steelt of met een huid die afgelegd wordt. In het schip verouderde niemand in de koude slaap. Op de dag dat de kolonisten uit hun omhulsel stapten, begonnen ze te sterven. Er komt geen eeuwig lichaam, ook niet door vonkcellen (BESLUIT-Z15-1). Alleen de Aelthir kozen voor een lang leven, en zij betaalden er een prijs voor (BESLUIT-V5-aelthir). Een slaapcapsule werd in de mythe het vel dat de slang aflegt om eeuwig te blijven. De slapers stonden op en verloren het. Adapa die het brood van het leven weigert, is iemand die niet terug in de capsule wilde.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-offer-van-de-reus · De wereld gemaakt uit een lichaam
+- **code:** MYTHE-Z43-offer-van-de-reus
+- **categorie:** Mythe
+- **onderwerp:** De wereld gemaakt uit een lichaam
+- **wat:** Een wereld die gemaakt is uit het lichaam van Ymir of Pangu, is een herinnering aan het besluit van 5 tegen 4. Vanaf dat besluit moesten energie, geneeskunde, bouw en vervoer uit lichamen, bloed, schimmel en bot komen (ORIGIN-4). Silicium kon niemand meer maken, en zo werd het lichaam het enige bouwmateriaal (ORIGIN-WAAROM-2-Z42). Wie zag hoe Kluwer-botzeilers en levende schepen gebouwd werden, vertelde dat de wereld van botten en bloed gemaakt was. In de mythe wordt de bouwstof een oerreus die in stukken gesneden wordt. Bot werd zo de berg en bloed de zee.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** ORIGIN-4;TECHNO-REGEL-V4-Z42;ORIGIN-WAAROM-2-Z42
+- **verwijst_naar:** ORIGIN-4;TECHNO-REGEL-V4-Z42;ORIGIN-WAAROM-2-Z42
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een wereld die gemaakt is uit het lichaam van Ymir of Pangu, is een herinnering aan het besluit van 5 tegen 4. Vanaf dat besluit moesten energie, geneeskunde, bouw en vervoer uit lichamen, bloed, schimmel en bot komen (ORIGIN-4). Silicium kon niemand meer maken, en zo werd het lichaam het enige bouwmateriaal (ORIGIN-WAAROM-2-Z42). Wie zag hoe Kluwer-botzeilers en levende schepen gebouwd werden, vertelde dat de wereld van botten en bloed gemaakt was. In de mythe wordt de bouwstof een oerreus die in stukken gesneden wordt. Bot werd zo de berg en bloed de zee.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-kosmisch-ei · Het wereld-ei
+- **code:** MYTHE-Z43-kosmisch-ei
+- **categorie:** Mythe
+- **onderwerp:** Het wereld-ei
+- **wat:** Hiranyagarbha, het gouden ei dat in de duisternis dreef, is het zaaischip in de Leegte. Het reisde eeuwen met de Wieg in zijn kern: een levend kristal dat geboorte regelt (ORIGIN-5). Bij de landing brak de Harrow in tweeën, en de voorsteven met de hoofdkern landde in Kharvos (ORIGIN-Z1-harrow). Uit het gebroken ei kwamen in de mythe hemel en aarde; in Velmara kwamen er twee volken uit. Het zaad in het donker bestond letterlijk, want het schip droeg zaden en slapers. Het ei drijft eeuwen omdat het schip eeuwen reisde.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** ORIGIN-1;ORIGIN-Z1-harrow;ORIGIN-5
+- **verwijst_naar:** ORIGIN-1;ORIGIN-Z1-harrow;ORIGIN-5
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Hiranyagarbha, het gouden ei dat in de duisternis dreef, is het zaaischip in de Leegte. Het reisde eeuwen met de Wieg in zijn kern: een levend kristal dat geboorte regelt (ORIGIN-5). Bij de landing brak de Harrow in tweeën, en de voorsteven met de hoofdkern landde in Kharvos (ORIGIN-Z1-harrow). Uit het gebroken ei kwamen in de mythe hemel en aarde; in Velmara kwamen er twee volken uit. Het zaad in het donker bestond letterlijk, want het schip droeg zaden en slapers. Het ei drijft eeuwen omdat het schip eeuwen reisde.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-hemel-en-aarde-gescheiden · De gescheiden hemel en aarde
+- **code:** MYTHE-Z43-hemel-en-aarde-gescheiden
+- **categorie:** Mythe
+- **onderwerp:** De gescheiden hemel en aarde
+- **wat:** Rangi en Papa, hemel en aarde, die vroeger tegen elkaar lagen en uit elkaar geduwd werden, zijn het schip in de baan en de landers op de grond. Na de landing bleef Thalen als wachter boven terwijl Ysa beneden leefde (ORIGIN-WAAROM-12). De geliefden waren gescheiden door de hemel zelf. In de mythe huilt de hemel om de aarde, en die tranen zijn de regen. In -480 viel het schip en was de hemel leeg. Toch vliegt één Kluisschip nog (TECHNO-metaal-schip-Z42), en daarom blijft de hemel in sommige verhalen bewoond.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** ORIGIN-1;BESLUIT-Z42-1;TECHNO-metaal-schip-Z42
+- **verwijst_naar:** ORIGIN-1;BESLUIT-Z42-1;TECHNO-metaal-schip-Z42
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Rangi en Papa, hemel en aarde, die vroeger tegen elkaar lagen en uit elkaar geduwd werden, zijn het schip in de baan en de landers op de grond. Na de landing bleef Thalen als wachter boven terwijl Ysa beneden leefde (ORIGIN-WAAROM-12). De geliefden waren gescheiden door de hemel zelf. In de mythe huilt de hemel om de aarde, en die tranen zijn de regen. In -480 viel het schip en was de hemel leeg. Toch vliegt één Kluisschip nog (TECHNO-metaal-schip-Z42), en daarom blijft de hemel in sommige verhalen bewoond.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z43-toren · De toren naar de hemel en de verwarring van de talen
+- **code:** MYTHE-Z43-toren
+- **categorie:** Mythe
+- **onderwerp:** De toren naar de hemel en de verwarring van de talen
+- **wat:** De toren van Babel en de verwarring van de talen gaan terug op de kristallen torens onder de Orde-kathedraal. Die zijn uit één stuk en hebben geen voegen; waar de afdichting lekt, groeit schimmel in de naden (TECHNO-metaal-bouw-Z42). De Makers verboden schrift over machines (ORIGIN-7), en daarna stierf hun taal tot er nog maar drie woorden over waren: ysa, kern en wieg. Elk volk kreeg zijn eigen tongval en telling. De mythe zegt dat een god de toren brak en de talen verwarde. Wat er echt gebeurde, was een verbod, en een taal die niemand meer leerde.
+- **waarom:** Ronde Z43: mytheplan (architectuur/MYTHEPLAN.md), opdracht van Rogier 2026-11-02; voorstel van de architect, de koppeling gekozen door mythen/koppel.py
+- **status:** voorlopig
+- **ronde:** 72
+- **hangt_samen_met:** TECHNO-metaal-bouw-Z42;TAAL-dode-taal;ORIGIN-7
+- **verwijst_naar:** TECHNO-metaal-bouw-Z42;TAAL-dode-taal;ORIGIN-7
+- **jaar:** 
+- **tijdperk:** 1 Overvloed
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De toren van Babel en de verwarring van de talen gaan terug op de kristallen torens onder de Orde-kathedraal. Die zijn uit één stuk en hebben geen voegen; waar de afdichting lekt, groeit schimmel in de naden (TECHNO-metaal-bouw-Z42). De Makers verboden schrift over machines (ORIGIN-7), en daarna stierf hun taal tot er nog maar drie woorden over waren: ysa, kern en wieg. Elk volk kreeg zijn eigen tongval en telling. De mythe zegt dat een god de toren brak en de talen verwarde. Wat er echt gebeurde, was een verbod, en een taal die niemand meer leerde.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z43)
+<!-- /REC -->
 
 <!-- SECTIE: WRIJVINGEN -->

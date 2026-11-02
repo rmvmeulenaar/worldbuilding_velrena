@@ -1,6 +1,6 @@
 # Mytheplan: alle mythen van de aarde krijgen hun oorsprong in Velmara
 
-Versie 0.1, 1 november 2026. Opdrachtgever: Rogier. Uit te voeren in Claude Code. De rollen architect, tester en bouwer staan in `BOUWPLAN.md`.
+Versie 0.2, 2 november 2026 (M0 tot en met M5 uitgevoerd in ronde Z43: zie `wereld/wijzigingen_Z43.md`). Opdrachtgever: Rogier. Uit te voeren in Claude Code. De rollen architect, tester en bouwer staan in `BOUWPLAN.md`.
 
 ## Uitgangspunt
 **Dit is fantasie, geen wetenschap.** We gebruiken kennis (mythologie, folklore, geschiedenis) als gereedschap om alles **aannemelijk** te maken, niet om iets te bewijzen. De lezer moet steeds vaker denken: *"hé, dit herken ik"*. Tegen het eind van de reeks moet hij vermoeden dat onze mythen herinneringen zijn aan Velmara.
@@ -244,9 +244,9 @@ Na de mythen volgen de oudheid en latere tijdperken, als **echo en rijm**. Hetze
 |---|---|---|
 | M1 | kernset motieven (100–150) | `wereld/mythen/motieven.yaml` |
 | M2 | clusters met verspreiding | `wereld/mythen/clusters.yaml` |
-| M3 | oorsprongen in Velmara met vervormingsketen | `wereld/mythen/oorsprong.yaml` + voorstellen in de ideeënbank via een rondescript (`r_Z42.py`) |
+| M3 | oorsprongen in Velmara met vervormingsketen | `wereld/mythen/oorsprong.yaml` + 59 voorstellen in de ideeënbank via `r_Z43.py` (gedaan) |
 | M4 | vervormingsregels + theorieën (Bartlett, euhemerisme, Propp, Lévi-Strauss, geomythologie) | `wereld/mythen/vervorming.yaml` (later de mythemotor, F-Z4) |
-| M4b | mythische wezens: per aards wezen de oorsprong in Velmara en het mechanisme | `wereld/mythen/wezens.yaml` |
+| M4b | mythische wezens: per aards wezen de oorsprong in Velmara en het mechanisme | in `wereld/mythen/oorsprong.yaml` (wezens zijn clusters zoals de andere) |
 | M5 | plotplaatsing per boek | `wereld/mythen/plot.md` |
 | M6 | mythekaart: per laag welke aardse mythen eruit voortkomen | uitbreiding van de knopenkaart |
 | M7 | tijdas met tellingen + geschatte vensters (ABC) + Velmara op de kaart van de diepe voortijd | `wereld/mythen/tijd.yaml`, `wereld/mythen/landschap.yaml` |

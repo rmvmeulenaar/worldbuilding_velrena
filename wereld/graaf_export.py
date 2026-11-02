@@ -64,7 +64,7 @@ def soort_knoop(code):
     return 'wereld'
 
 # ---- verhalen ----
-VERHAAL_CAT = ('Verhaal', 'Horror', 'Comedy', 'Romantiek', 'Oorlog', 'Held', 'Actie')  # genre-skeletten tellen mee
+VERHAAL_CAT = ('Verhaal', 'Horror', 'Comedy', 'Romantiek', 'Oorlog', 'Held', 'Actie', 'Mythe')  # genre-skeletten tellen mee; Mythe: oorsprong van een aardse mythe (Z43)
 verhalen = {}
 for code, d in canon.items():
     if d['cat'] in VERHAAL_CAT and not dood(code):

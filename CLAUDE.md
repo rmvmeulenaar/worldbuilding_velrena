@@ -55,6 +55,7 @@ Dit is de canon van de wereld Velmara (zegelpunk, erotische donkere fantasy met 
 - `wereld/toets.py`, `roundtrip.py`, `afgeleid.py`, `afgeleid_motor.py`, `migraties/`: integriteit en afgeleide tabellen.
 - `wereld/r_Z*.py`: rondescripts, in volgorde. `bouw.py`, `ronde3.py`, `r6.py` en `r7.py` nooit draaien (zie README_VOOR_LLM.md).
 - `wereld/z39/`, `z40/`: simulatie (fase 4, Pest van 340). `wereld/z41/personen.py`: personen trekken en schiften (quality-diversity).
+- `wereld/mythen/`: mytheplan. `velmara.py mythen` oogst Wikidata naar mythen.db, koppelt clusters aan de canon (koppeling.md) en toetst. oorsprong.yaml is de bron van de MYTHE-rijen (r_Z43.py).
 - `wereld/graaf_export.py` en `kaart/`: de verhalengraaf en de knopenkaart.
 - `wereld/scorekaart_Z*.md`, `keuzelijst_Z*.md`, `wijzigingen_Z*.md`: per ronde wat er gebeurde en wat Rogier nog beslist.
 - `architect/`: opdrachten en besluitdocumenten van de architect.

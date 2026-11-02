@@ -1,0 +1,16 @@
+# M4: vervormingsregels. Elke keten in oorsprong.yaml gebruikt er twee tot vier (toets in mythen/toets_mythen.py).
+# Bron: MYTHEPLAN stap 4 en de theorieën (Euhemerus, Bartlett, Parry/Lord/Vansina, Lévi-Strauss, Propp, Müller, Mayor, d'Huy).
+mens-wordt-god: {tekst: "een mens wordt een god (euhemerisme)", theorie: Euhemerus}
+machine-wordt-wezen: {tekst: "een machine wordt een wezen, geest of orakel", theorie: Bartlett}
+getal-wordt-symbool: {tekst: "een getal wordt een heilig of vervloekt getal", theorie: Parry/Lord}
+besluit-wordt-vloek: {tekst: "een besluit van mensen wordt een straf of vloek van de goden", theorie: Lévi-Strauss}
+groep-wordt-een: {tekst: "een groep of volk wordt één held, één monster of één soort", theorie: Bartlett}
+lichaam-wordt-mengwezen: {tekst: "een gefokt of vervormd lichaam wordt een mengwezen", theorie: Mayor}
+schuld-verschuift: {tekst: "de schuld verschuift van wie besloot naar wie het onderging", theorie: Lévi-Strauss}
+plek-verschuift: {tekst: "de plek verschuift naar een bekende plek op aarde", theorie: d'Huy}
+erotiek-verhuld: {tekst: "het erotische wordt verhuld tot huwelijk met een god of verboden vrucht", theorie: Bartlett}
+vreemd-wordt-vertrouwd: {tekst: "vreemde techniek wordt magie, onbekende dieren worden bekende", theorie: Bartlett}
+beeldspraak-letterlijk: {tekst: "een uitdrukking wordt letterlijk genomen en wordt een wezen of gebeurtenis", theorie: Müller}
+vondst-wordt-verhaal: {tekst: "een vondst in de grond (bot, steen, ruïne) krijgt een verhaal", theorie: Mayor}
+formule-blijft: {tekst: "een vaste zin blijft letterlijk staan terwijl de rest zwerft", theorie: Parry/Lord}
+ja-wordt-dwang: {tekst: "wat in Velmara met een ja gebeurde, wordt in de mythe dwang of overval (consent eruit = horror)", theorie: eigen regel Velmara}
