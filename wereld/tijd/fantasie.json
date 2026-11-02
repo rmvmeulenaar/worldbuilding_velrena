@@ -126,7 +126,7 @@
 "status": {
 "9": "echt",
 "10": "zeldzaam",
-"11": "spel",
+"11": "zeldzaam",
 "12": "spel",
 "13": "spel",
 "14": "spel",
@@ -586,7 +586,7 @@
 "9": "echt",
 "10": "echt",
 "11": "zeldzaam",
-"12": "onmogelijk",
+"12": "zeldzaam",
 "13": "onmogelijk",
 "14": "onmogelijk",
 "15": "onmogelijk",
@@ -662,7 +662,7 @@
 "9": "echt",
 "10": "echt",
 "11": "zeldzaam",
-"12": "onmogelijk",
+"12": "zeldzaam",
 "13": "onmogelijk",
 "14": "onmogelijk",
 "15": "onmogelijk",
@@ -775,7 +775,7 @@
 "status": {
 "9": "echt",
 "10": "zeldzaam",
-"11": "spel",
+"11": "zeldzaam",
 "12": "spel",
 "13": "spel",
 "14": "spel",
@@ -794,7 +794,7 @@
 "status": {
 "9": "echt",
 "10": "zeldzaam",
-"11": "spel",
+"11": "zeldzaam",
 "12": "spel",
 "13": "spel",
 "14": "spel",
@@ -2223,7 +2223,7 @@
 "laatst_echt": null,
 "status": {
 "9": "zeldzaam",
-"10": "onmogelijk",
+"10": "zeldzaam",
 "11": "onmogelijk",
 "12": "onmogelijk",
 "13": "onmogelijk",
@@ -2413,7 +2413,7 @@
 "laatst_echt": null,
 "status": {
 "9": "zeldzaam",
-"10": "onmogelijk",
+"10": "zeldzaam",
 "11": "onmogelijk",
 "12": "onmogelijk",
 "13": "onmogelijk",
@@ -2514,7 +2514,7 @@
 "status": {
 "9": "echt",
 "10": "zeldzaam",
-"11": "spel",
+"11": "zeldzaam",
 "12": "spel",
 "13": "spel",
 "14": "spel",
@@ -2534,7 +2534,7 @@
 "status": {
 "9": "echt",
 "10": "zeldzaam",
-"11": "spel",
+"11": "zeldzaam",
 "12": "spel",
 "13": "spel",
 "14": "spel",
@@ -2555,7 +2555,7 @@
 "status": {
 "9": "echt",
 "10": "zeldzaam",
-"11": "spel",
+"11": "zeldzaam",
 "12": "spel",
 "13": "spel",
 "14": "spel",
@@ -3117,7 +3117,7 @@
 "9": "echt",
 "10": "echt",
 "11": "zeldzaam",
-"12": "onmogelijk",
+"12": "zeldzaam",
 "13": "onmogelijk",
 "14": "onmogelijk",
 "15": "onmogelijk",
@@ -3163,7 +3163,7 @@
 }
 },
 {
-"code": "VOOR-onderdanige-man",
+"code": "VOOR-onderdanige-man-Z50",
 "naam": "Onderdanige man",
 "afh": [
 "ishvar"
@@ -3239,7 +3239,7 @@
 }
 },
 {
-"code": "VOOR-overgave",
+"code": "VOOR-overgave-Z50",
 "naam": "Overgave en machtsoverdracht",
 "afh": [
 "ishvar"
@@ -3448,7 +3448,7 @@
 }
 },
 {
-"code": "VOOR-teder",
+"code": "VOOR-teder-Z50",
 "naam": "Tederheid en trouw",
 "afh": [
 "ishvar"
@@ -3676,7 +3676,7 @@
 }
 },
 {
-"code": "VOOR-vrouwenliefde",
+"code": "VOOR-vrouwenliefde-Z50",
 "naam": "Liefde tussen vrouwen",
 "afh": [
 "ishvar"
@@ -3721,19 +3721,18 @@
 },
 "10": {
 "echt": 184,
-"zeldzaam": 6,
-"onmogelijk": 2
+"zeldzaam": 8
 },
 "11": {
 "echt": 181,
-"spel": 6,
-"zeldzaam": 3,
+"zeldzaam": 9,
 "onmogelijk": 2
 },
 "12": {
 "echt": 181,
 "spel": 6,
-"onmogelijk": 5
+"zeldzaam": 3,
+"onmogelijk": 2
 },
 "13": {
 "echt": 181,

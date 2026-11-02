@@ -483,5 +483,16 @@
 - **status:** actief
 - **niveau:** signaal
 <!-- /REC -->
+<!-- REC regel -->
+### R-lijn_naar_begin · Een verhaal, persoon of verhaalpad zonder keten van links naar de Voortijd (BESLUIT-Z51-1: in alle fasen het lijntje terug naar het begin).
+- **code:** R-lijn_naar_begin
+- **domein:** tijd
+- **omschrijving:** Een verhaal, persoon of verhaalpad zonder keten van links naar de Voortijd (BESLUIT-Z51-1: in alle fasen het lijntje terug naar het begin).
+- **sql_test:** select code,'geen lijn naar het begin ('||soort||', fase '||coalesce(fase,'?')||')' from lijn_begin where stappen is null
+- **bron:** Z51 (afgeleid_motor.lijn_naar_begin)
+- **goedgekeurd_door:** Rogier, BESLUIT-Z51-1 (signaal)
+- **status:** actief
+- **niveau:** signaal
+<!-- /REC -->
 
 <!-- SECTIE: BOOG -->

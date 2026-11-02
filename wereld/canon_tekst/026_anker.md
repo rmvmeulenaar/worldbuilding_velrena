@@ -156,7 +156,7 @@
 ### None · None
 - **sleutel:** liora_jaar
 - **waarde:** 801
-- **bron_code:** PER-liora-profiel-Z32
+- **bron_code:** PER-liora-profiel-Z32-Z51
 - **toelichting:** het "nu" van de hoofdreeks
 - **patroon:** 
 - **bereik:** 
@@ -318,7 +318,7 @@
 ### None · None
 - **sleutel:** liora_naam
 - **waarde:** Liora van Hallowyn
-- **bron_code:** PER-liora-profiel-Z32
+- **bron_code:** PER-liora-profiel-Z32-Z51
 - **toelichting:** Hoofdpersoon boek 1.
 - **patroon:** 
 - **bereik:** 
@@ -327,7 +327,7 @@
 ### None · None
 - **sleutel:** liora_leeftijd_801
 - **waarde:** 25
-- **bron_code:** PER-liora-profiel-Z32
+- **bron_code:** PER-liora-profiel-Z32-Z51
 - **toelichting:** Leeftijd in 801.
 - **patroon:** 
 - **bereik:** 

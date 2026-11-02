@@ -343,7 +343,7 @@ def fantasie_tijd(c):
       if fv is None: continue
       verlies.append(fv); s='lichaam' if n in LICHAAM else 'macht'; soorten.add(s)
       for f in range(9,17):
-        k='echt' if f<fv else ('zeldzaam' if f==fv else ('onmogelijk' if s=='lichaam' else 'spel'))
+        k='echt' if f<fv else ('zeldzaam' if f<=fv+1 else ('onmogelijk' if s=='lichaam' else 'spel'))  # BESLUIT-Z51-1: legende = zeldzaam, weg een tijdperk later
         if k!='echt' and any(d<=f for d in DR.get(a,[])): k='echt'
         if ORDE.index(k)>ORDE.index(st[f]): st[f]=k
     c.execute('insert into fantasie_kern values(?,?,?,?,?,?)',(code,ond,';'.join(anker),','.join(sorted(soorten)),min(vf) if vf else None,min(verlies) if verlies else None))
@@ -352,8 +352,54 @@ def fantasie_tijd(c):
   c.execute("""create view v_fantasie_matrix as select s.fase,t.naam,sum(s.status='echt') echt,sum(s.status='zeldzaam') zeldzaam,sum(s.status='spel') spel,
     sum(s.status='onmogelijk') onmogelijk from fantasie_status s left join tijdas t on t.fase=s.fase group by s.fase""")
 
+def lijn_naar_begin(c):
+  """Z51 (Rogier: 'alle fasen kunnen we het lijntje terughalen naar het begin'): voor elk verhaal en verhaalpad de kortste keten van links
+  (verwijst_naar, hangt_samen_met, kern_codes, drager) naar een rij uit de Voortijd (fase 0: landing, Makers, schip). Omgekeerde BFS vanaf alle fase-0-rijen."""
+  import collections as _c
+  c.execute('drop table if exists lijn_begin')
+  c.execute('create table lijn_begin(code text primary key, soort text, fase integer, stappen integer, keten text)')
+  lab=dict(c.execute('select label,fase from tijdperk_label').fetchall())
+  rij={code:(tp,cat) for code,tp,cat in c.execute("select code,tijdperk,categorie from canon where status in ('vastgesteld','voorlopig')")}
+  uit=_c.defaultdict(set)
+  def lev_(x):
+    seen=set()
+    while x and x not in rij and x not in seen:
+      seen.add(x); r=c.execute('select vervangen_door from canon where code=?',(x,)).fetchone()
+      if not r or not r[0] or r[0].startswith('personage_profiel:'): return x
+      x=r[0].split(';')[0].strip()
+    return x
+  for code,v,h in c.execute("select code,coalesce(verwijst_naar,''),coalesce(hangt_samen_met,'') from canon where status in ('vastgesteld','voorlopig')"):
+    for x in (v+';'+h).split(';'):
+      x=lev_(x.strip())
+      if x and x in rij and x!=code: uit[code].add(x)
+  vp={}
+  for code,fase,k,d in c.execute("select code,fase,coalesce(kern_codes,''),coalesce(drager,'') from verhaal_profiel where coalesce(vervangen_door,'')='' and status='voorlopig'"):
+    vp[code]=fase
+    for x in (k+';'+d).split(';'):
+      x=lev_(x.strip())
+      if x and x in rij: uit[code].add(x)
+  inn=_c.defaultdict(set)
+  for a,bs in uit.items():
+    for b in bs: inn[b].add(a)
+  doel=sorted(x for x,(tp,_) in rij.items() if lab.get(tp)==0 or x.startswith('ORIGIN-'))
+  dist={x:0 for x in doel}; volg={}; q=_c.deque(doel)
+  while q:
+    b=q.popleft()
+    for a in sorted(inn[b]):
+      if a not in dist: dist[a]=dist[b]+1; volg[a]=b; q.append(a)
+  VCAT=('Verhaal','Horror','Comedy','Romantiek','Oorlog','Held','Actie','Mythe','Drager','Personage','Tijdperk','Cultuur','Geschiedenis')
+  def keten(x):
+    k=[x]
+    while k[-1] in volg and len(k)<30: k.append(volg[k[-1]])
+    return ' > '.join(k)
+  for x,(tp,cat) in rij.items():
+    if cat in VCAT: c.execute('insert into lijn_begin values(?,?,?,?,?)',(x,cat,lab.get(tp),dist.get(x),keten(x) if x in dist else None))
+  for x,fase in vp.items(): c.execute('insert or replace into lijn_begin values(?,?,?,?,?)',(x,'verhaalpad',lab.get(fase),dist.get(x),keten(x) if x in dist else None))
+  c.execute('drop view if exists v_lijn_begin')
+  c.execute("create view v_lijn_begin as select fase,soort,count(*) n,sum(stappen is not null) met_lijn,round(avg(stappen),1) gem_stappen,max(stappen) max_stappen from lijn_begin group by fase,soort")
+
 def bouw(c):
-  schema(c);herkomst(c);personage_profiel(c);relaties(c);per_relaties(c);anker_kopie(c);persoon_identiteit(c);tijdas(c);fantasie_tijd(c)
+  schema(c);herkomst(c);personage_profiel(c);relaties(c);per_relaties(c);anker_kopie(c);persoon_identiteit(c);tijdas(c);fantasie_tijd(c);lijn_naar_begin(c)
   import os,sys,importlib.util as iu  # Z37: rijkdom_lid (afgeleid) als de tabel domein bestaat
   pad=os.path.join(os.path.dirname(os.path.abspath(__file__)),'z37','rijkdom.py')
   if os.path.exists(pad):

@@ -5,9 +5,9 @@
 | Tijdperk | Echt | Zeldzaam | Spel | Onmogelijk |
 |---|---|---|---|---|
 | 9 Tijd van de Ja (na 801) | 183 | 9 | 0 | 0 |
-| 10 Tijd der Volken (na 801) | 184 | 6 | 0 | 2 |
-| 11 Heldentijd (na 801) | 181 | 3 | 6 | 2 |
-| 12 Het Vertrek (na 801) | 181 | 0 | 6 | 5 |
+| 10 Tijd der Volken (na 801) | 184 | 8 | 0 | 0 |
+| 11 Heldentijd (na 801) | 181 | 9 | 0 | 2 |
+| 12 Het Vertrek (na 801) | 181 | 3 | 6 | 2 |
 | 13 Tijd der Mensen (na 801) | 181 | 0 | 6 | 5 |
 | 14 De Grote Smelt (na 801) | 181 | 0 | 6 | 5 |
 | 15 Het Zwevende Gat (na 801) | 181 | 0 | 6 | 5 |
@@ -45,18 +45,18 @@ Kolommen: **hangt af van** = wat er echt moet bestaan (link naar de LOT-rij van 
 | `RIT-pelgrimszalving-Z50` | De Pelgrimszalving | nog niet ingedeeld | ? | ? | ? | ? | ? | ? | ? |
 | `RIT-stille-kind-Z50` | Het Stille Kind | nog niet ingedeeld | ? | ? | ? | ? | ? | ? | ? |
 | `RIT-tribunaal-drie-Z50` | Het Tribunaal van Drie | nog niet ingedeeld | ? | ? | ? | ? | ? | ? | ? |
-| `RIT-volk-grauwen-Z50` | Volle Ontsluiering | grauwen | 4 | - | z | - | - | - | -- |
-| `RIT-volk-vathren-Z50` | Koortsontvangst bij lekpiek | vathren | 4 | - | z | - | - | - | -- |
+| `RIT-volk-grauwen-Z50` | Volle Ontsluiering | grauwen | 4 | - | z | z | - | - | -- |
+| `RIT-volk-vathren-Z50` | Koortsontvangst bij lekpiek | vathren | 4 | - | z | z | - | - | -- |
 | `RIT-zilverwake` | De Zilverwake | nog niet ingedeeld | ? | ? | ? | ? | ? | ? | ? |
-| `KINK-Z8-14` | Kink: Boeien van zegelsteen | sterrensteen, gaven-mannen | 4 | 9 | E | z | s | s | ss |
-| `KINK-Z8-45-Z50` | Kink: Zegelsteenvibraties | sterrensteen | 3 | 9 | E | z | s | s | ss |
-| `KINK-Z8-46-Z50` | Kink: Gehoorzaamheidsspel met de bindsplinter (donker) | sterrensteen | 4 | 9 | E | z | s | s | ss |
-| `RIT-zegelbinding` | De Zegelbinding | gaven-mannen, zegellicht, sterrensteen | 7 | 9 | E | z | s | s | ss |
-| `RIT-zegelnacht-volk-Z50` | De Zegelnacht van het Volk | zegellicht, sterrensteen | 5 | 9 | E | z | s | s | ss |
-| `RIT-zegelvoeding-Z50` | De Zegelvoeding | gaven-mannen, zegellicht, sterrensteen | 5 | 9 | E | z | s | s | ss |
-| `KINK-Z8-36-Z50` | Kink: Vormspel als kink | leegtewormen | 1 | 10 | E | E | z | - | -- |
-| `KINK-Z8-4-Z50` | Kink: Rekspel met kweekvlees | leegtewormen | 1 | 10 | E | E | z | - | -- |
-| `VOOR-metamorfose` | Metamorfose | leegtewormen | 4 | 10 | E | E | z | - | -- |
+| `KINK-Z8-14` | Kink: Boeien van zegelsteen | sterrensteen, gaven-mannen | 4 | 9 | E | z | z | s | ss |
+| `KINK-Z8-45-Z50` | Kink: Zegelsteenvibraties | sterrensteen | 3 | 9 | E | z | z | s | ss |
+| `KINK-Z8-46-Z50` | Kink: Gehoorzaamheidsspel met de bindsplinter (donker) | sterrensteen | 4 | 9 | E | z | z | s | ss |
+| `RIT-zegelbinding` | De Zegelbinding | gaven-mannen, zegellicht, sterrensteen | 7 | 9 | E | z | z | s | ss |
+| `RIT-zegelnacht-volk-Z50` | De Zegelnacht van het Volk | zegellicht, sterrensteen | 5 | 9 | E | z | z | s | ss |
+| `RIT-zegelvoeding-Z50` | De Zegelvoeding | gaven-mannen, zegellicht, sterrensteen | 5 | 9 | E | z | z | s | ss |
+| `KINK-Z8-36-Z50` | Kink: Vormspel als kink | leegtewormen | 1 | 10 | E | E | z | z | -- |
+| `KINK-Z8-4-Z50` | Kink: Rekspel met kweekvlees | leegtewormen | 1 | 10 | E | E | z | z | -- |
+| `VOOR-metamorfose` | Metamorfose | leegtewormen | 4 | 10 | E | E | z | z | -- |
 | `KINK-NETWERK-Z10` | Kink-netwerk Z10 | ishvar | 0 | 16 | E | E | E | E | EE |
 | `KINK-Z8-1-Z50` | Kink: Fisting: de Volle Hand | ishvar | 0 | 16 | E | E | E | E | EE |
 | `KINK-Z8-10-Z50` | Kink: Glanshandschoenen | aelthir | 0 | 16 | E | E | E | E | EE |
@@ -209,11 +209,11 @@ Kolommen: **hangt af van** = wat er echt moet bestaan (link naar de LOT-rij van 
 | `VOOR-melken-Z50` | Melken en zaadwinning | stalsysteem | 6 | 16 | E | E | E | E | EE |
 | `VOOR-nabootsing` | Nabootsing | ves-lethi | 3 | 16 | z | E | E | E | EE |
 | `VOOR-omhulling` | Omhulling | oevrin | 0 | 16 | E | E | E | E | EE |
-| `VOOR-onderdanige-man` | Onderdanige man | ishvar | 6 | 16 | E | E | E | E | EE |
+| `VOOR-onderdanige-man-Z50` | Onderdanige man | ishvar | 6 | 16 | E | E | E | E | EE |
 | `VOOR-ontlading-Z50` | De overladen man | gaven-mannen | 2 | 16 | E | E | E | E | EE |
 | `VOOR-ontzegging-Z50` | Ontzegging en uitstel | ishvar | 6 | 16 | E | E | E | E | EE |
 | `VOOR-oudere-vrouw-Z50` | Rijpe vrouw | ishvar | 4 | 16 | E | E | E | E | EE |
-| `VOOR-overgave` | Overgave en machtsoverdracht | ishvar | 5 | 16 | E | E | E | E | EE |
+| `VOOR-overgave-Z50` | Overgave en machtsoverdracht | ishvar | 5 | 16 | E | E | E | E | EE |
 | `VOOR-overvloed-Z50` | Teveel aan zaad | gaven-mannen | 2 | 16 | E | E | E | E | EE |
 | `VOOR-paaipoel` | Paaipoel | oevrin | 0 | 16 | E | E | E | E | EE |
 | `VOOR-pijn-genot-Z50` | Pijn en genot | ishvar | 2 | 16 | E | E | E | E | EE |
@@ -224,7 +224,7 @@ Kolommen: **hangt af van** = wat er echt moet bestaan (link naar de LOT-rij van 
 | `VOOR-slijm` | Slijmlust | oevrin | 0 | 16 | E | E | E | E | EE |
 | `VOOR-slijpen` | Slijpen | orrim | 1 | 16 | E | E | E | E | EE |
 | `VOOR-sporenroes` | Sporenroes | myrrhen | 6 | 16 | E | E | E | E | EE |
-| `VOOR-teder` | Tederheid en trouw | ishvar | 1 | 16 | E | E | E | E | EE |
+| `VOOR-teder-Z50` | Tederheid en trouw | ishvar | 1 | 16 | E | E | E | E | EE |
 | `VOOR-uithouding-Z50` | Uithouding | ishvar | 6 | 16 | E | E | E | E | EE |
 | `VOOR-valparing` | Valparing | skerra | 2 | 16 | z | E | E | E | EE |
 | `VOOR-veiling-Z50` | Gekocht en verkocht worden | ishvar | 6 | 16 | E | E | E | E | EE |
@@ -236,5 +236,5 @@ Kolommen: **hangt af van** = wat er echt moet bestaan (link naar de LOT-rij van 
 | `VOOR-vleugelbinding` | Vleugelbinding | skerra | 2 | 16 | z | E | E | E | EE |
 | `VOOR-vormwissel` | Vormwissel | ves-lethi | 3 | 16 | z | E | E | E | EE |
 | `VOOR-voyeurisme-Z50` | Toekijken | ishvar | 5 | 16 | E | E | E | E | EE |
-| `VOOR-vrouwenliefde` | Liefde tussen vrouwen | ishvar | 1 | 16 | E | E | E | E | EE |
+| `VOOR-vrouwenliefde-Z50` | Liefde tussen vrouwen | ishvar | 1 | 16 | E | E | E | E | EE |
 | `VOOR-walglust` | Walglust | ishvar | 0 | 16 | E | E | E | E | EE |

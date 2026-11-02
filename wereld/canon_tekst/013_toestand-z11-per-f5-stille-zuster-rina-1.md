@@ -26674,7 +26674,7 @@
 - **onderwerp:** Liora van Hallowyn
 - **wat:** Naam: Liora van Hallowyn. Volk: mens. Regio: ambergaard. Huis: -. Rol: hoofdpersoon. Fase: 801 (nu), jaar 801. Wil: Teo beschermen en de waarheid over de Zegel, en bij de Wortel komen, ook als ze daarvoor Teo gebruikt (BESLUIT-Z32-9). Durft: zaadkracht zonder binding verdragen. Verbergt: haar vervalste register. Wat de omgeving weet: een arme boerendochter (25). Seksuele voorkeur: VOOR-overgave (3/5), VOOR-teder (4/5), VOOR-vrouwenliefde (3/5); kinks: tederheid met Aeron-as, vrouwenliefde met Sef. Lichaam/vervorming: gloed bij Ontvangst (LICH-liora). Relaties: halfzus van Teo, geliefde van Aeron-as en Sef. Rol in de keten: GEB-r10-quest-begin. Geheim: deels Ishvar-bloed?. Einde: open. Verhaalhaken: Romance: halfzus van Teo, geliefde van Aeron-as en Sef; belemmering: haar vervalste register. Intrige: wil Teo beschermen en de waarheid over de Zegel, maar verbergt haar vervalste register. Erotiek: tederheid met Aeron-as, vrouwenliefde met Sef. Thriller: geheim "deels Ishvar-bloed?" kan uitkomen; lot nog open (klok loopt in 801). Eigen gevoel: verlangen, al jaren: Teo beschermen en de waarheid over de Zegel; en de vermoeidheid van het steeds weer moeten wachten. Zintuig: Hooi, aarde en het lichte gloeien van haar huid bij zegellicht. Haak: Liora verdraagt zaadkracht zonder binding, en dat maakt haar gevaarlijk voor de Orde. Functie: VERH — legt de kern van de hoofdpersoon vast. Crosslinks: REG-ambergaard, GEB-r10-quest-begin, GEB-heden, VOOR-overgave, VOOR-teder, VOOR-vrouwenliefde, HAAK-techno-bio-2. Schuld (Z32, BESLUIT-Z32-9): in het midden van boek 1 zegt ze ja namens Teo: ze laat hem de Lijngraver zijn die de Lijn naar de Wortel opent, zonder het hem te vragen, en het kost hem zijn gave. Ze ontkent het voor zichzelf. Daardoor is haar doel niet alleen beschermen maar ook gebruiken, en is de derde weg een boete: eerst moet ze Teo zijn eigen ja teruggeven (en zijn nee aanvaarden). Niet-seksueel; nooit een seksuele rol met Teo.
 - **waarom:** Rogier: alles zoals aanbevolen, 2026-10-31; vervangt PER-liora-profiel. Liora's schuld (BESLUIT-Z32-9); Kern-rij aangepast via besluit
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 62
 - **hangt_samen_met:** REG-ambergaard;GEB-r10-quest-begin;GEB-heden;VOOR-overgave;VOOR-teder;VOOR-vrouwenliefde;PER-liora;PER-liora-profiel
 - **verwijst_naar:** REG-ambergaard;GEB-r10-quest-begin;GEB-heden;VOOR-overgave;VOOR-teder;VOOR-vrouwenliefde;HAAK-techno-bio-2
@@ -26687,13 +26687,13 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** bio
-- **draagkracht:** Kern
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** PER-liora-profiel-Z32-Z51
 - **feit_schoon:** Naam: Liora van Hallowyn. Volk: mens. Regio: ambergaard. Huis: -. Rol: hoofdpersoon. Fase: 801 (nu), jaar 801. Wil: Teo beschermen en de waarheid over de Zegel, en bij de Wortel komen, ook als ze daarvoor Teo gebruikt (BESLUIT-Z32-9). Durft: zaadkracht zonder binding verdragen. Verbergt: haar vervalste register. Wat de omgeving weet: een arme boerendochter (25). Seksuele voorkeur: VOOR-overgave (3/5), VOOR-teder (4/5), VOOR-vrouwenliefde (3/5); kinks: tederheid met Aeron-as, vrouwenliefde met Sef. Lichaam/vervorming: gloed bij Ontvangst (LICH-liora). Relaties: halfzus van Teo, geliefde van Aeron-as en Sef. Rol in de keten: GEB-r10-quest-begin. Geheim: deels Ishvar-bloed?. Einde: open. Verhaalhaken: Romance: halfzus van Teo, geliefde van Aeron-as en Sef; belemmering: haar vervalste register. Intrige: wil Teo beschermen en de waarheid over de Zegel, maar verbergt haar vervalste register. Erotiek: tederheid met Aeron-as, vrouwenliefde met Sef. Thriller: geheim "deels Ishvar-bloed?" kan uitkomen; lot nog open (klok loopt in 801). Eigen gevoel: verlangen, al jaren: Teo beschermen en de waarheid over de Zegel; en de vermoeidheid van het steeds weer moeten wachten. Zintuig: Hooi, aarde en het lichte gloeien van haar huid bij zegellicht. Haak: Liora verdraagt zaadkracht zonder binding, en dat maakt haar gevaarlijk voor de Orde. Functie: VERH — legt de kern van de hoofdpersoon vast. Crosslinks: REG-ambergaard, GEB-r10-quest-begin, GEB-heden, VOOR-overgave, VOOR-teder, VOOR-vrouwenliefde, HAAK-techno-bio-2. Schuld (Z32, BESLUIT-Z32-9): in het midden van boek 1 zegt ze ja namens Teo: ze laat hem de Lijngraver zijn die de Lijn naar de Wortel opent, zonder het hem te vragen, en het kost hem zijn gave. Ze ontkent het voor zichzelf. Daardoor is haar doel niet alleen beschermen maar ook gebruiken, en is de derde weg een boete: eerst moet ze Teo zijn eigen ja teruggeven (en zijn nee aanvaarden). Niet-seksueel; nooit een seksuele rol met Teo.
-- **draagkracht_handmatig:** Kern
+- **draagkracht_handmatig:** 
 - **bron_handmatig:** 
 - **epistemiek:** 
 <!-- /REC -->
@@ -30326,5 +30326,65 @@
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
 - **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-aeron-profiel-Z51 · Aeron-as
+- **code:** PER-aeron-profiel-Z51
+- **categorie:** Personage
+- **onderwerp:** Aeron-as
+- **wat:** Naam: Aeron-as. Volk: mens. Regio: saelith. Huis: -. Rol: lieve gaven-man. Fase: 801 (nu), jaar 801. Wil: Liora beschermen. Durft: de Orde weigeren. Verbergt: schuld om een gebonden vrouw. Wat de omgeving weet: een gevluchte Uitverkorene (35). Seksuele voorkeur: VOOR-teder-Z50 (4/5), VOOR-onderdanige-man-Z50 (2/5); kinks: Stormontlading, zachte Overdracht. Lichaam/vervorming: stormaders. Relaties: geliefde van Liora. Rol in de keten: GEB-r10-aeron-geboorte. Geheim: hij heeft een kind in een fokstal. Einde: open. Verhaalhaken: Romance: geliefde van Liora; belemmering: schuld om een gebonden vrouw. Intrige: wil Liora beschermen, maar verbergt schuld om een gebonden vrouw. Erotiek: Stormontlading, zachte Overdracht. Thriller: geheim "hij heeft een kind in een fokstal" kan uitkomen; lot nog open (klok loopt in 801). Eigen gevoel: schaamte over wat verborgen blijft (schuld om een gebonden vrouw), en opluchting zodra iemand het toch ziet. Label: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; geen seksuele inhoud met wie niet kan instemmen; donkere thema's gelabeld.
+- **waarom:** Ronde G2: personage fase 801 (nu) | Ronde V1: eigen gevoel i.p.v. vaste zin [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-7)] [Z13 samengevoegd: zelfde persoon als PER-aeron (leidend); deze rij beschrijft een ander moment of aspect] | Z51: codes van de vier fantasieën wijzen naar hun opvolgers (BESLUIT-Z51-1)
+- **status:** vastgesteld
+- **ronde:** 79
+- **hangt_samen_met:** REG-saelith;GEB-r10-aeron-geboorte;GEB-heden;VOOR-teder-Z50;VOOR-onderdanige-man-Z50;PER-aeron
+- **verwijst_naar:** REG-saelith;GEB-r10-aeron-geboorte;GEB-heden;VOOR-teder-Z50;VOOR-onderdanige-man-Z50;PER-aeron;STAD-saelith;BESLUIT-Z51-1
+- **jaar:** 
+- **tijdperk:** 801 (nu)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kern
+- **ideeenbank:** 0
+- **veilig_18plus:** 1
+- **veilig_variant:** 3
+- **vervangen_door:** 
+- **feit_schoon:** Naam: Aeron-as. Volk: mens. Regio: saelith. Huis: -. Rol: lieve gaven-man. Fase: 801 (nu), jaar 801. Wil: Liora beschermen. Durft: de Orde weigeren. Verbergt: schuld om een gebonden vrouw. Wat de omgeving weet: een gevluchte Uitverkorene (35). Seksuele voorkeur: VOOR-teder-Z50 (4/5), VOOR-onderdanige-man-Z50 (2/5); kinks: Stormontlading, zachte Overdracht. Lichaam/vervorming: stormaders. Relaties: geliefde van Liora. Rol in de keten: GEB-r10-aeron-geboorte. Geheim: hij heeft een kind in een fokstal. Einde: open. Verhaalhaken: Romance: geliefde van Liora; belemmering: schuld om een gebonden vrouw. Intrige: wil Liora beschermen, maar verbergt schuld om een gebonden vrouw. Erotiek: Stormontlading, zachte Overdracht. Thriller: geheim "hij heeft een kind in een fokstal" kan uitkomen; lot nog open (klok loopt in 801). Eigen gevoel: schaamte over wat verborgen blijft (schuld om een gebonden vrouw), en opluchting zodra iemand het toch ziet.
+- **draagkracht_handmatig:** Kern
+- **bron_handmatig:** 
+- **epistemiek:** feit (canon; Z51: alleen codes bijgewerkt, BESLUIT-Z51-1)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-liora-profiel-Z32-Z51 · Liora van Hallowyn
+- **code:** PER-liora-profiel-Z32-Z51
+- **categorie:** Personage
+- **onderwerp:** Liora van Hallowyn
+- **wat:** Naam: Liora van Hallowyn. Volk: mens. Regio: ambergaard. Huis: -. Rol: hoofdpersoon. Fase: 801 (nu), jaar 801. Wil: Teo beschermen en de waarheid over de Zegel, en bij de Wortel komen, ook als ze daarvoor Teo gebruikt (BESLUIT-Z32-9). Durft: zaadkracht zonder binding verdragen. Verbergt: haar vervalste register. Wat de omgeving weet: een arme boerendochter (25). Seksuele voorkeur: VOOR-overgave-Z50 (3/5), VOOR-teder-Z50 (4/5), VOOR-vrouwenliefde-Z50 (3/5); kinks: tederheid met Aeron-as, vrouwenliefde met Sef. Lichaam/vervorming: gloed bij Ontvangst (LICH-liora). Relaties: halfzus van Teo, geliefde van Aeron-as en Sef. Rol in de keten: GEB-r10-quest-begin. Geheim: deels Ishvar-bloed?. Einde: open. Verhaalhaken: Romance: halfzus van Teo, geliefde van Aeron-as en Sef; belemmering: haar vervalste register. Intrige: wil Teo beschermen en de waarheid over de Zegel, maar verbergt haar vervalste register. Erotiek: tederheid met Aeron-as, vrouwenliefde met Sef. Thriller: geheim "deels Ishvar-bloed?" kan uitkomen; lot nog open (klok loopt in 801). Eigen gevoel: verlangen, al jaren: Teo beschermen en de waarheid over de Zegel; en de vermoeidheid van het steeds weer moeten wachten. Zintuig: Hooi, aarde en het lichte gloeien van haar huid bij zegellicht. Haak: Liora verdraagt zaadkracht zonder binding, en dat maakt haar gevaarlijk voor de Orde. Functie: VERH — legt de kern van de hoofdpersoon vast. Crosslinks: REG-ambergaard, GEB-r10-quest-begin, GEB-heden, VOOR-overgave-Z50, VOOR-teder-Z50, VOOR-vrouwenliefde-Z50, HAAK-techno-bio-2. Schuld (Z32, BESLUIT-Z32-9): in het midden van boek 1 zegt ze ja namens Teo: ze laat hem de Lijngraver zijn die de Lijn naar de Wortel opent, zonder het hem te vragen, en het kost hem zijn gave. Ze ontkent het voor zichzelf. Daardoor is haar doel niet alleen beschermen maar ook gebruiken, en is de derde weg een boete: eerst moet ze Teo zijn eigen ja teruggeven (en zijn nee aanvaarden). Niet-seksueel; nooit een seksuele rol met Teo.
+- **waarom:** Rogier: alles zoals aanbevolen, 2026-10-31; vervangt PER-liora-profiel. Liora's schuld (BESLUIT-Z32-9); Kern-rij aangepast via besluit | Z51: codes van de vier fantasieën wijzen naar hun opvolgers (BESLUIT-Z51-1)
+- **status:** vastgesteld
+- **ronde:** 79
+- **hangt_samen_met:** REG-ambergaard;GEB-r10-quest-begin;GEB-heden;VOOR-overgave-Z50;VOOR-teder-Z50;VOOR-vrouwenliefde-Z50;PER-liora;PER-liora-profiel
+- **verwijst_naar:** REG-ambergaard;GEB-r10-quest-begin;GEB-heden;VOOR-overgave-Z50;VOOR-teder-Z50;VOOR-vrouwenliefde-Z50;HAAK-techno-bio-2;BESLUIT-Z51-1
+- **jaar:** 
+- **tijdperk:** 801 (nu)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kern
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Naam: Liora van Hallowyn. Volk: mens. Regio: ambergaard. Huis: -. Rol: hoofdpersoon. Fase: 801 (nu), jaar 801. Wil: Teo beschermen en de waarheid over de Zegel, en bij de Wortel komen, ook als ze daarvoor Teo gebruikt (BESLUIT-Z32-9). Durft: zaadkracht zonder binding verdragen. Verbergt: haar vervalste register. Wat de omgeving weet: een arme boerendochter (25). Seksuele voorkeur: VOOR-overgave-Z50 (3/5), VOOR-teder-Z50 (4/5), VOOR-vrouwenliefde-Z50 (3/5); kinks: tederheid met Aeron-as, vrouwenliefde met Sef. Lichaam/vervorming: gloed bij Ontvangst (LICH-liora). Relaties: halfzus van Teo, geliefde van Aeron-as en Sef. Rol in de keten: GEB-r10-quest-begin. Geheim: deels Ishvar-bloed?. Einde: open. Verhaalhaken: Romance: halfzus van Teo, geliefde van Aeron-as en Sef; belemmering: haar vervalste register. Intrige: wil Teo beschermen en de waarheid over de Zegel, maar verbergt haar vervalste register. Erotiek: tederheid met Aeron-as, vrouwenliefde met Sef. Thriller: geheim "deels Ishvar-bloed?" kan uitkomen; lot nog open (klok loopt in 801). Eigen gevoel: verlangen, al jaren: Teo beschermen en de waarheid over de Zegel; en de vermoeidheid van het steeds weer moeten wachten. Zintuig: Hooi, aarde en het lichte gloeien van haar huid bij zegellicht. Haak: Liora verdraagt zaadkracht zonder binding, en dat maakt haar gevaarlijk voor de Orde. Functie: VERH — legt de kern van de hoofdpersoon vast. Crosslinks: REG-ambergaard, GEB-r10-quest-begin, GEB-heden, VOOR-overgave-Z50, VOOR-teder-Z50, VOOR-vrouwenliefde-Z50, HAAK-techno-bio-2. Schuld (Z32, BESLUIT-Z32-9): in het midden van boek 1 zegt ze ja namens Teo: ze laat hem de Lijngraver zijn die de Lijn naar de Wortel opent, zonder het hem te vragen, en het kost hem zijn gave. Ze ontkent het voor zichzelf. Daardoor is haar doel niet alleen beschermen maar ook gebruiken, en is de derde weg een boete: eerst moet ze Teo zijn eigen ja teruggeven (en zijn nee aanvaarden). Niet-seksueel; nooit een seksuele rol met Teo.
+- **draagkracht_handmatig:** Kern
+- **bron_handmatig:** 
+- **epistemiek:** feit (canon; Z51: alleen codes bijgewerkt, BESLUIT-Z51-1)
 <!-- /REC -->
 

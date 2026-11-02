@@ -7,7 +7,7 @@
 - **onderwerp:** Overgave en machtsoverdracht
 - **wat:** Zich volledig overgeven aan een sterkere partner. Intensiteit: 4. Oorsprong: GEB-uitverkorenen-210. Hoort bij: RIT-overdracht;RIT-ketenwake;PER-liora;PER-khaled. Relatie: versterkt VOOR-ontzegging; botst met VOOR-dominante-vrouw. Taboe: nee. Alleen tussen volwassenen. [Z14 verdieping, per rij geschreven] Zintuig: De stilte van overgave aan een sterkere partner. Haak: Liora geeft zich over en neemt daarmee de kracht. Functie: WERELD — maakt overgave een omkering van macht. Crosslinks: GEB-uitverkorenen-210, GEB-uitverkorenen-210-Z6, RIT-overdracht, RIT-ketenwake, PER-liora, PER-liora-Z6, HAAK-V5-zegel-2.
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 8
 - **hangt_samen_met:** GEB-uitverkorenen;RIT-overdracht-Z50;RIT-ketenwake-Z50;PER-liora;PER-khaled;LOT-Z44-ishvar;FASE-ontvangst
 - **verwijst_naar:** GEB-uitverkorenen-210-Z6;RIT-overdracht-Z50;RIT-ketenwake-Z50;PER-liora-Z6-Z32;HAAK-V5-zegel-2;LOT-Z44-ishvar;FASE-ontvangst
@@ -20,11 +20,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** VOOR-overgave-Z50
 - **feit_schoon:** Zich volledig overgeven aan een sterkere partner. Intensiteit: 4. Oorsprong: GEB-uitverkorenen-210. Hoort bij: RIT-overdracht;RIT-ketenwake;PER-liora;PER-khaled. Relatie: versterkt VOOR-ontzegging; botst met VOOR-dominante-vrouw. Taboe: nee. Alleen tussen volwassenen. Zintuig: De stilte van overgave aan een sterkere partner. Haak: Liora geeft zich over en neemt daarmee de kracht. Functie: WERELD — maakt overgave een omkering van macht. Crosslinks: GEB-uitverkorenen-210, GEB-uitverkorenen-210-Z6, RIT-overdracht, RIT-ketenwake, PER-liora, PER-liora-Z6, HAAK-V5-zegel-2.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -397,7 +397,7 @@
 - **onderwerp:** Tederheid en trouw
 - **wat:** Langzame, liefdevolle seks met één partner. Intensiteit: 1. Oorsprong: GEB-zusterburcht. Hoort bij: RIT-tweegelofte;RIT-gunstnacht;RIT-spiegelnacht;RIT-melkzegen;PER-aeron;PER-liora. Relatie: botst met VOOR-binding. Taboe: nee. Alleen tussen volwassenen. [Z14 verdieping, per rij geschreven] Zintuig: Een langzame hand en één vaste naam. Haak: Tederheid met één partner is ketterij, en daarom gevaarlijk. Functie: WERELD — geeft de romance haar kern. Crosslinks: GEB-zusterburcht, RIT-tweegelofte, RIT-gunstnacht, RIT-spiegelnacht, RIT-melkzegen, PER-aeron, HAAK-techno-gave-3.
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar PER-aeron), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 8
 - **hangt_samen_met:** GEB-zusters-heelsters;RIT-tweegelofte-Z50;RIT-gunstnacht-Z50;RIT-spiegelnacht-Z50;RIT-melkzegen-Z50;PER-aeron;PER-liora;LOT-Z44-ishvar;FASE-overvloed
 - **verwijst_naar:** GEB-zusterburcht;RIT-tweegelofte-Z50;RIT-gunstnacht-Z50;RIT-spiegelnacht-Z50;RIT-melkzegen-Z50;PER-aeron;HAAK-techno-gave-3;LOT-Z44-ishvar;FASE-overvloed
@@ -410,11 +410,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** VOOR-teder-Z50
 - **feit_schoon:** Langzame, liefdevolle seks met één partner. Intensiteit: 1. Oorsprong: GEB-zusterburcht. Hoort bij: RIT-tweegelofte;RIT-gunstnacht;RIT-spiegelnacht;RIT-melkzegen;PER-aeron;PER-liora. Relatie: botst met VOOR-binding. Taboe: nee. Alleen tussen volwassenen. Zintuig: Een langzame hand en één vaste naam. Haak: Tederheid met één partner is ketterij, en daarom gevaarlijk. Functie: WERELD — geeft de romance haar kern. Crosslinks: GEB-zusterburcht, RIT-tweegelofte, RIT-gunstnacht, RIT-spiegelnacht, RIT-melkzegen, PER-aeron, HAAK-techno-gave-3.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -427,7 +427,7 @@
 - **onderwerp:** Liefde tussen vrouwen
 - **wat:** Vrouwen onder elkaar, dagelijks en heilig. Intensiteit: 2. Oorsprong: GEB-zusterburcht. Hoort bij: RIT-maanzalving;RIT-laatste-bed;RIT-doorgang-duizend-handen;REG-stille;PER-bondgenoten. Relatie: versterkt VOOR-teder. Taboe: nee. Alleen tussen volwassenen. [Z14 verdieping, per rij geschreven] Zintuig: Zachte stemmen en handen onder elkaar. Haak: Ysara en Mira, de nacht voor het Offer. Functie: WERELD — maakt liefde tussen vrouwen alledaags en heilig. Crosslinks: GEB-zusterburcht, RIT-maanzalving, RIT-laatste-bed, RIT-doorgang-duizend-handen, REG-stille, PER-bondgenoten, HAAK-REG-hoogvrouwe.
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 8
 - **hangt_samen_met:** GEB-zustersburcht;RIT-maanzalving-Z50;RIT-laatste-bed-Z50;RIT-doorgang-duizend-handen-Z50;REG-stille;PER-bondgenoten;LOT-Z44-ishvar;FASE-overvloed
 - **verwijst_naar:** GEB-zusterburcht;RIT-maanzalving-Z50;RIT-laatste-bed-Z50;RIT-doorgang-duizend-handen-Z50;REG-stille;PER-bondgenoten;HAAK-REG-hoogvrouwe;LOT-Z44-ishvar;FASE-overvloed
@@ -440,11 +440,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** VOOR-vrouwenliefde-Z50
 - **feit_schoon:** Vrouwen onder elkaar, dagelijks en heilig. Intensiteit: 2. Oorsprong: GEB-zusterburcht. Hoort bij: RIT-maanzalving;RIT-laatste-bed;RIT-doorgang-duizend-handen;REG-stille;PER-bondgenoten. Relatie: versterkt VOOR-teder. Taboe: nee. Alleen tussen volwassenen. Zintuig: Zachte stemmen en handen onder elkaar. Haak: Ysara en Mira, de nacht voor het Offer. Functie: WERELD — maakt liefde tussen vrouwen alledaags en heilig. Crosslinks: GEB-zusterburcht, RIT-maanzalving, RIT-laatste-bed, RIT-doorgang-duizend-handen, REG-stille, PER-bondgenoten, HAAK-REG-hoogvrouwe.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -487,7 +487,7 @@
 - **onderwerp:** Onderdanige man
 - **wat:** Een man die zich laat bezitten en sturen. Intensiteit: 3. Oorsprong: GEB-pest-340. Hoort bij: RIT-melkrite;RIT-kettingstoet;RIT-halsbandoverdracht;PER-gewone-mannen. Relatie: versterkt VOOR-dominante-vrouw. Taboe: nee. Alleen tussen volwassenen.
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 8
 - **hangt_samen_met:** GEB-grote-pest;RIT-melkrite-Z50;RIT-kettingstoet-Z50;RIT-halsbandoverdracht-Z50;PER-gewone-mannen;LOT-Z44-ishvar;FASE-markt
 - **verwijst_naar:** GEB-pest-340;RIT-melkrite-Z50;RIT-kettingstoet-Z50;RIT-halsbandoverdracht-Z50;PER-gewone-mannen;LOT-Z44-ishvar;FASE-markt
@@ -500,11 +500,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** VOOR-onderdanige-man-Z50
 - **feit_schoon:** Een man die zich laat bezitten en sturen. Intensiteit: 3. Oorsprong: GEB-pest-340. Hoort bij: RIT-melkrite;RIT-kettingstoet;RIT-halsbandoverdracht;PER-gewone-mannen. Relatie: versterkt VOOR-dominante-vrouw. Taboe: nee. Alleen tussen volwassenen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -4466,6 +4466,126 @@
 - **veilig_variant:** 
 - **vervangen_door:** 
 - **feit_schoon:** Kijken naar anderen begon met priesteressen die in 130 zagen hoe de stenen opgloeiden, en beseften dat ze iets konden bedienen. Oorsprong: GEB-eerste-zegellicht. Je vindt het in RIT-ontvangst, RIT-duel-man en RIT-oogstbed, en het versterkt VOOR-exhibitionisme. Intensiteit 2, geen taboe, alleen tussen volwassenen. Wie toekijkt, is getuige, en een getuige weet soms meer dan wie er lag. Achter elk rooster in Saelith zit iemand die onthoudt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### VOOR-teder-Z50 · Tederheid en trouw
+- **code:** VOOR-teder-Z50
+- **categorie:** Voorkeuren
+- **onderwerp:** Tederheid en trouw
+- **wat:** Een langzame hand en één vaste naam. Tederheid en trouw komen uit de Zusterburcht van Ves-Anath, in -220, waar gevluchte haremvrouwen zelf een vesting bouwden. Oorsprong: GEB-zusterburcht. Ze leeft in RIT-tweegelofte, RIT-gunstnacht, RIT-spiegelnacht en RIT-melkzegen, bij PER-aeron en PER-liora, en botst met VOOR-binding. Intensiteit 1, geen taboe. Toch is tederheid met één partner ketterij, en daarom gevaarlijk (HAAK-techno-gave-3). Dit geeft de romance haar kern, alleen tussen volwassenen.
+- **waarom:** Ronde Z51: zelfde inhoud, eigen vorm (BESLUIT-Z51-1)
+- **status:** vastgesteld
+- **ronde:** 79
+- **hangt_samen_met:** GEB-zusters-heelsters;RIT-tweegelofte-Z50;RIT-gunstnacht-Z50;RIT-spiegelnacht-Z50;RIT-melkzegen-Z50;PER-aeron;PER-liora;LOT-Z44-ishvar;FASE-overvloed
+- **verwijst_naar:** GEB-zusterburcht;RIT-tweegelofte-Z50;RIT-gunstnacht-Z50;RIT-spiegelnacht-Z50;RIT-melkzegen-Z50;PER-aeron;HAAK-techno-gave-3;LOT-Z44-ishvar;FASE-overvloed
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een langzame hand en één vaste naam. Tederheid en trouw komen uit de Zusterburcht van Ves-Anath, in -220, waar gevluchte haremvrouwen zelf een vesting bouwden. Oorsprong: GEB-zusterburcht. Ze leeft in RIT-tweegelofte, RIT-gunstnacht, RIT-spiegelnacht en RIT-melkzegen, bij PER-aeron en PER-liora, en botst met VOOR-binding. Intensiteit 1, geen taboe. Toch is tederheid met één partner ketterij, en daarom gevaarlijk (HAAK-techno-gave-3). Dit geeft de romance haar kern, alleen tussen volwassenen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### VOOR-overgave-Z50 · Overgave en machtsoverdracht
+- **code:** VOOR-overgave-Z50
+- **categorie:** Voorkeuren
+- **onderwerp:** Overgave en machtsoverdracht
+- **wat:** De stilte van overgave aan een sterkere partner. Zich volledig geven werd heilig toen de gave in 210 goddelijk werd verklaard. Oorsprong: GEB-uitverkorenen-210, bijgesteld in GEB-uitverkorenen-210-Z6. Het hoort bij RIT-overdracht, RIT-ketenwake, PER-liora, PER-liora-Z6 en PER-khaled. Het versterkt VOOR-ontzegging en botst met VOOR-dominante-vrouw. Intensiteit 4, geen taboe. Liora geeft zich over en neemt daarmee de kracht (HAAK-V5-zegel-2). Zo wordt overgave een omkering van macht, alleen tussen volwassenen.
+- **waarom:** Ronde Z51: zelfde inhoud, eigen vorm (BESLUIT-Z51-1)
+- **status:** voorlopig
+- **ronde:** 79
+- **hangt_samen_met:** GEB-uitverkorenen;RIT-overdracht-Z50;RIT-ketenwake-Z50;PER-liora;PER-khaled;LOT-Z44-ishvar;FASE-ontvangst
+- **verwijst_naar:** GEB-uitverkorenen-210-Z6;RIT-overdracht-Z50;RIT-ketenwake-Z50;PER-liora-Z6-Z32;HAAK-V5-zegel-2;LOT-Z44-ishvar;FASE-ontvangst
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De stilte van overgave aan een sterkere partner. Zich volledig geven werd heilig toen de gave in 210 goddelijk werd verklaard. Oorsprong: GEB-uitverkorenen-210, bijgesteld in GEB-uitverkorenen-210-Z6. Het hoort bij RIT-overdracht, RIT-ketenwake, PER-liora, PER-liora-Z6 en PER-khaled. Het versterkt VOOR-ontzegging en botst met VOOR-dominante-vrouw. Intensiteit 4, geen taboe. Liora geeft zich over en neemt daarmee de kracht (HAAK-V5-zegel-2). Zo wordt overgave een omkering van macht, alleen tussen volwassenen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### VOOR-onderdanige-man-Z50 · Onderdanige man
+- **code:** VOOR-onderdanige-man-Z50
+- **categorie:** Voorkeuren
+- **onderwerp:** Onderdanige man
+- **wat:** Een man die zich laat bezitten en sturen, is in Velmara geen uitzondering sinds de pest de mannen schaars maakte. Oorsprong: GEB-pest-340. Je kent hem uit RIT-melkrite, RIT-kettingstoet en RIT-halsbandoverdracht, en uit PER-gewone-mannen. Zijn lust versterkt VOOR-dominante-vrouw. Intensiteit 3, geen taboe, alleen tussen volwassenen. Wie zich zo geeft, kiest dat zelf, en houdt in zijn eigen stilte iets wat zijn eigenares niet bezit.
+- **waarom:** Ronde Z51: zelfde inhoud, eigen vorm (BESLUIT-Z51-1)
+- **status:** voorlopig
+- **ronde:** 79
+- **hangt_samen_met:** GEB-grote-pest;RIT-melkrite-Z50;RIT-kettingstoet-Z50;RIT-halsbandoverdracht-Z50;PER-gewone-mannen;LOT-Z44-ishvar;FASE-markt
+- **verwijst_naar:** GEB-pest-340;RIT-melkrite-Z50;RIT-kettingstoet-Z50;RIT-halsbandoverdracht-Z50;PER-gewone-mannen;LOT-Z44-ishvar;FASE-markt
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een man die zich laat bezitten en sturen, is in Velmara geen uitzondering sinds de pest de mannen schaars maakte. Oorsprong: GEB-pest-340. Je kent hem uit RIT-melkrite, RIT-kettingstoet en RIT-halsbandoverdracht, en uit PER-gewone-mannen. Zijn lust versterkt VOOR-dominante-vrouw. Intensiteit 3, geen taboe, alleen tussen volwassenen. Wie zich zo geeft, kiest dat zelf, en houdt in zijn eigen stilte iets wat zijn eigenares niet bezit.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### VOOR-vrouwenliefde-Z50 · Liefde tussen vrouwen
+- **code:** VOOR-vrouwenliefde-Z50
+- **categorie:** Voorkeuren
+- **onderwerp:** Liefde tussen vrouwen
+- **wat:** Zachte stemmen en handen onder elkaar. Liefde tussen vrouwen is in Velmara dagelijks en heilig, sinds de Zusterburcht van Ves-Anath. Oorsprong: GEB-zusterburcht. Ze leeft in RIT-maanzalving, RIT-laatste-bed en RIT-doorgang-duizend-handen, bij REG-stille en PER-bondgenoten, en versterkt VOOR-teder. Intensiteit 2, geen taboe. Haar haak zijn Ysara en Mira, de nacht voor het Offer (HAAK-REG-hoogvrouwe). Zo wordt liefde tussen vrouwen alledaags en heilig tegelijk, alleen tussen volwassenen.
+- **waarom:** Ronde Z51: zelfde inhoud, eigen vorm (BESLUIT-Z51-1)
+- **status:** voorlopig
+- **ronde:** 79
+- **hangt_samen_met:** GEB-zustersburcht;RIT-maanzalving-Z50;RIT-laatste-bed-Z50;RIT-doorgang-duizend-handen-Z50;REG-stille;PER-bondgenoten;LOT-Z44-ishvar;FASE-overvloed
+- **verwijst_naar:** GEB-zusterburcht;RIT-maanzalving-Z50;RIT-laatste-bed-Z50;RIT-doorgang-duizend-handen-Z50;REG-stille;PER-bondgenoten;HAAK-REG-hoogvrouwe;LOT-Z44-ishvar;FASE-overvloed
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Zachte stemmen en handen onder elkaar. Liefde tussen vrouwen is in Velmara dagelijks en heilig, sinds de Zusterburcht van Ves-Anath. Oorsprong: GEB-zusterburcht. Ze leeft in RIT-maanzalving, RIT-laatste-bed en RIT-doorgang-duizend-handen, bij REG-stille en PER-bondgenoten, en versterkt VOOR-teder. Intensiteit 2, geen taboe. Haar haak zijn Ysara en Mira, de nacht voor het Offer (HAAK-REG-hoogvrouwe). Zo wordt liefde tussen vrouwen alledaags en heilig tegelijk, alleen tussen volwassenen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
 - **epistemiek:** feit (herschreven in Z50, inhoud gelijk)

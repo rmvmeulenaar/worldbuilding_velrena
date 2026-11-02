@@ -48180,5 +48180,35 @@
 - **bron_handmatig:** 
 - **epistemiek:** voorstel (Z48, drager)
 <!-- /REC -->
+<!-- REC canon -->
+### BESLUIT-Z51-1 · Keuzelijst Z50: herschrijven, Sef, legende, verdwijnen, fase 16
+- **code:** BESLUIT-Z51-1
+- **categorie:** Besluit
+- **onderwerp:** Keuzelijst Z50: herschrijven, Sef, legende, verdwijnen, fase 16
+- **wat:** Besluit van Rogier (2 november 2026, "ja is goed") op keuzelijst Z50. (1) De vier fantasieën VOOR-teder, VOOR-overgave, VOOR-onderdanige-man en VOOR-vrouwenliefde krijgen hun herschreven opvolger; de profielen van Liora en Aeron wijzen naar die opvolgers, en verder verandert er niets aan hen. (2) Sef van Brakhaven is een vrouw, zoals in haar personage. (3) Legende betekent zeldzaam: wat in een tijdperk legende wordt, is pas een tijdperk later weg. (4) De Grauwen en de Vathren verdwijnen; dat verlies is het verhaal. (5) In fase 16 mogen verhalen op echte plekken en in echte jaren spelen, met motieven, zonder echte personen en zonder levende godsdiensten als product van Velmara. Daarnaast vroeg Rogier dat in alle fasen het lijntje naar het begin terug te halen is: zie de afgeleide tabel lijn_begin en de regel R-lijn_naar_begin.
+- **waarom:** Ronde Z51: besluit van Rogier
+- **status:** vastgesteld
+- **ronde:** 79
+- **hangt_samen_met:** BESLUIT-Z12-2;ORIGIN-1
+- **verwijst_naar:** BESLUIT-Z12-2;ORIGIN-1
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kern
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Besluit van Rogier (2 november 2026, "ja is goed") op keuzelijst Z50. (1) De vier fantasieën VOOR-teder, VOOR-overgave, VOOR-onderdanige-man en VOOR-vrouwenliefde krijgen hun herschreven opvolger; de profielen van Liora en Aeron wijzen naar die opvolgers, en verder verandert er niets aan hen. (2) Sef van Brakhaven is een vrouw, zoals in haar personage. (3) Legende betekent zeldzaam: wat in een tijdperk legende wordt, is pas een tijdperk later weg. (4) De Grauwen en de Vathren verdwijnen; dat verlies is het verhaal. (5) In fase 16 mogen verhalen op echte plekken en in echte jaren spelen, met motieven, zonder echte personen en zonder levende godsdiensten als product van Velmara. Daarnaast vroeg Rogier dat in alle fasen het lijntje naar het begin terug te halen is: zie de afgeleide tabel lijn_begin en de regel R-lijn_naar_begin.
+- **draagkracht_handmatig:** Kern
+- **bron_handmatig:** 
+- **epistemiek:** feit (besluit van Rogier, 2026-11-02)
+<!-- /REC -->
 
 <!-- SECTIE: WRIJVINGEN -->

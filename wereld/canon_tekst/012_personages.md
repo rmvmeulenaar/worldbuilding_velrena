@@ -2167,7 +2167,7 @@
 - **onderwerp:** Aeron-as
 - **wat:** Naam: Aeron-as. Volk: mens. Regio: saelith. Huis: -. Rol: lieve gaven-man. Fase: 801 (nu), jaar 801. Wil: Liora beschermen. Durft: de Orde weigeren. Verbergt: schuld om een gebonden vrouw. Wat de omgeving weet: een gevluchte Uitverkorene (35). Seksuele voorkeur: VOOR-teder (4/5), VOOR-onderdanige-man (2/5); kinks: Stormontlading, zachte Overdracht. Lichaam/vervorming: stormaders. Relaties: geliefde van Liora. Rol in de keten: GEB-r10-aeron-geboorte. Geheim: hij heeft een kind in een fokstal. Einde: open. Verhaalhaken: Romance: geliefde van Liora; belemmering: schuld om een gebonden vrouw. Intrige: wil Liora beschermen, maar verbergt schuld om een gebonden vrouw. Erotiek: Stormontlading, zachte Overdracht. Thriller: geheim "hij heeft een kind in een fokstal" kan uitkomen; lot nog open (klok loopt in 801). Eigen gevoel: schaamte over wat verborgen blijft (schuld om een gebonden vrouw), en opluchting zodra iemand het toch ziet. Label: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; geen seksuele inhoud met wie niet kan instemmen; donkere thema's gelabeld.
 - **waarom:** Ronde G2: personage fase 801 (nu) | Ronde V1: eigen gevoel i.p.v. vaste zin [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-7)] [Z13 samengevoegd: zelfde persoon als PER-aeron (leidend); deze rij beschrijft een ander moment of aspect]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 20
 - **hangt_samen_met:** REG-saelith;GEB-r10-aeron-geboorte;GEB-heden;VOOR-teder;VOOR-onderdanige-man;PER-aeron
 - **verwijst_naar:** REG-saelith;GEB-r10-aeron-geboorte;GEB-heden;VOOR-teder;VOOR-onderdanige-man;PER-aeron;STAD-saelith
@@ -2180,11 +2180,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Kern
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 1
 - **veilig_variant:** 3
-- **vervangen_door:** 
+- **vervangen_door:** PER-aeron-profiel-Z51
 - **feit_schoon:** Naam: Aeron-as. Volk: mens. Regio: saelith. Huis: -. Rol: lieve gaven-man. Fase: 801 (nu), jaar 801. Wil: Liora beschermen. Durft: de Orde weigeren. Verbergt: schuld om een gebonden vrouw. Wat de omgeving weet: een gevluchte Uitverkorene (35). Seksuele voorkeur: VOOR-teder (4/5), VOOR-onderdanige-man (2/5); kinks: Stormontlading, zachte Overdracht. Lichaam/vervorming: stormaders. Relaties: geliefde van Liora. Rol in de keten: GEB-r10-aeron-geboorte. Geheim: hij heeft een kind in een fokstal. Einde: open. Verhaalhaken: Romance: geliefde van Liora; belemmering: schuld om een gebonden vrouw. Intrige: wil Liora beschermen, maar verbergt schuld om een gebonden vrouw. Erotiek: Stormontlading, zachte Overdracht. Thriller: geheim "hij heeft een kind in een fokstal" kan uitkomen; lot nog open (klok loopt in 801). Eigen gevoel: schaamte over wat verborgen blijft (schuld om een gebonden vrouw), en opluchting zodra iemand het toch ziet.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
