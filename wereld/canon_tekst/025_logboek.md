@@ -893,5 +893,11 @@
 - **datum:** 2026-11-02
 - **wat:** Ronde Z43: de geschiedenis verklaart zichzelf (z43/geschiedenis.py, na review 1 van Z42). Nieuwe tabellen sim_fase, sim_wet, sim_huis (migratie 010) met views v_sim_keten, v_sim_wetboek, v_sim_stamboom en regels R-sim_oorzaak, R-sim_rijm, R-sim_wetgever, R-sim_huis. 7 motorregels GESCH2-*, 1000 runs Z43-GESCH-0001..1000 (dezelfde seeds als Z42), zes gekozen runs met alle details, vier open keuzes KEUZE-Z43-*. Alles simulatie of aanname; niets in de canon gezet.
 <!-- /REC -->
+<!-- REC logboek -->
+### 150 · 2026-11-02
+- **id:** 150
+- **datum:** 2026-11-02
+- **wat:** Ronde Z44: de technologieboom (z44/boom.py, z44/geschiedenis.py). Nieuwe tabellen tech_knoop (17 mogelijke en 7 onmogelijke of onnodige technieken, elk met canonbron) en sim_uitvinding (migratie 011), views v_tech_boom en v_sim_uitvinding, regels R-tech_boom en R-sim_uitvinding. 5 motorregels GESCH3-*, 1000 runs Z44-GESCH-0001..1000 (dezelfde seeds als Z42 en Z43), zes gekozen runs met alle details, vier open keuzes KEUZE-Z44-*. Alles voorstel of simulatie; niets in de canon gezet.
+<!-- /REC -->
 
 <!-- SECTIE: ANKER -->

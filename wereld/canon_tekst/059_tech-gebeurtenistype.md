@@ -269,5 +269,14 @@
 - **bron_code:** GESCH2-macht
 - **epistemiek:** aanname (moduleontwerp Z43, bron GESCH2-macht)
 <!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_uitvinding_boom · Een uitvinding uit de technologieboom (zie sim_uitvinding).
+- **code:** gesch_uitvinding_boom
+- **module:** geschiedenis_z44
+- **omschrijving:** Een uitvinding uit de technologieboom (zie sim_uitvinding).
+- **invariant:** nooit vóór haar vereisten
+- **bron_code:** GESCH3-boom
+- **epistemiek:** aanname (moduleontwerp Z44, bron GESCH3-boom)
+<!-- /REC -->
 
 <!-- SECTIE: SIM_RUN -->

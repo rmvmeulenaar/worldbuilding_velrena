@@ -25,7 +25,7 @@ sys.path.insert(0,os.path.join(os.path.dirname(os.path.abspath(__file__)),'migra
 import importlib.util as _iu
 for _p in sorted(sum((__import__('glob').glob(os.path.join(os.path.dirname(os.path.abspath(__file__)),'migraties',_g)) for _g in ('00[56789]_*.py','01[0-9]_*.py')),[])):
   _s=_iu.spec_from_file_location('m5',_p);_m=_iu.module_from_spec(_s);_s.loader.exec_module(_m);_m.migreer(c)
-Z36T=('verhaal_as','boog_as','verhaal_profiel','doel','doelprofiel','lezersdata','gewichtset','ideeen_verwerking','domein','competentievraag','competentie_antwoord','motief_detail','beroep','gave','sim_regel','gebeurtenis_type','tech_gebeurtenistype','sim_run','sim_gebeurtenis','sim_figuur','verblijf','kennis','per_relatie','steekproef','sim_fase','sim_wet','sim_huis')
+Z36T=('verhaal_as','boog_as','verhaal_profiel','doel','doelprofiel','lezersdata','gewichtset','ideeen_verwerking','domein','competentievraag','competentie_antwoord','motief_detail','beroep','gave','sim_regel','gebeurtenis_type','tech_gebeurtenistype','sim_run','sim_gebeurtenis','sim_figuur','verblijf','kennis','per_relatie','steekproef','sim_fase','sim_wet','sim_huis','tech_knoop','sim_uitvinding')
 INV={'wat':'feit','waarom':'reden'};n={}
 for t,body in re.findall(r'<!-- REC (\w+) -->\n(.*?)<!-- /REC -->',open(src).read(),re.S):
   d={}

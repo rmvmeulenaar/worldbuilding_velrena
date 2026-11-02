@@ -1663,5 +1663,57 @@
 - **bron:** r_Z43.py
 - **citaat:** Rogier (2026-11-02): eerst de geschiedenis zichzelf laten verklaren, daarna de technologieboom.
 <!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z44-boom · De technologieboom van Velmara na 801
+- **code:** KEUZE-Z44-boom
+- **soort:** wereld
+- **onderwerp:** De technologieboom van Velmara na 801
+- **aanbeveling:** Bevestig de 17 knopen (tech_knoop, status mogelijk) of schrap en voeg toe. Elke knoop komt uit TECHNO-bio, -gave, -zegelsteen, -metaal of TECHNO-MIX-V4.
+- **raakt:** TECHNO-REGEL-V4;TECHNO-MIX-V4
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Rogier (2026-11-02): ja, begin met de technologieboom. Review 1: laat de boom vanuit Velmara ontstaan, niet uit de aardse reeks ijzer, stoom, elektriciteit.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z44-onmogelijk · Wat Velmara niet uitvindt
+- **code:** KEUZE-Z44-onmogelijk
+- **soort:** wereld
+- **onderwerp:** Wat Velmara niet uitvindt
+- **aanbeveling:** Bevestig de zeven onmogelijke of onnodige technieken (stoom, kolen, staal, kruit, stroomnet, rekenmachines, nieuwe kernen) met hun reden uit de canon.
+- **raakt:** ORIGIN-2;YSA-Z17-6;ORIGIN-7
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Review 1, vraag 27: welke technologieën zijn onmogelijk, onnodig of onaantrekkelijk, juist doordat de wereld andere mogelijkheden heeft?
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z44-nood · Nood maakt vindingrijk
+- **code:** KEUZE-Z44-nood
+- **soort:** wereld
+- **onderwerp:** Nood maakt vindingrijk
+- **aanbeveling:** Bevestig dat een uitvinding waar een crisis om vroeg veel waarschijnlijker is. Daardoor verschilt de volgorde van uitvinden per geschiedenis (278 verschillende volgordes in 300 runs).
+- **raakt:** GESCH3-nood
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Review 1: meet de verschillen tussen runs causaal, niet cosmetisch.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z44-staat · Edelen kosten de staat geld
+- **code:** KEUZE-Z44-staat
+- **soort:** wereld
+- **onderwerp:** Edelen kosten de staat geld
+- **aanbeveling:** Bevestig dat het aantal edelen de kas uitput. Zonder die regel komt een strijd om posities bijna nooit voor.
+- **raakt:** GESCH3-staat;FASE-markt
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Gevonden bij het bouwen van Z44: met extra voedsel uit de kweekakkers verdween de strijd van te veel edelen.
+<!-- /REC -->
 
 <!-- SECTIE: VERHAAL_AS -->

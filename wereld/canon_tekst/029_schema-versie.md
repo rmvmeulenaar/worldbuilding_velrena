@@ -59,5 +59,11 @@
 - **naam:** z43_keten
 - **toegepast:** 2026-11-02
 <!-- /REC -->
+<!-- REC schema_versie -->
+### None · z44_boom
+- **versie:** 11
+- **naam:** z44_boom
+- **toegepast:** 2026-11-02
+<!-- /REC -->
 
 <!-- SECTIE: WIJZIGING -->

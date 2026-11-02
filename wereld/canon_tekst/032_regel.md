@@ -472,5 +472,27 @@
 - **status:** actief
 - **niveau:** fout
 <!-- /REC -->
+<!-- REC regel -->
+### R-tech_boom · Elke mogelijke knoop van de technologieboom heeft materiaal, noodzaak, uitvinder, gevolg, prijs en een bron, en haar vereisten bestaan in de boom; elke onmogelijke of onnodige knoop heeft een reden.
+- **code:** R-tech_boom
+- **domein:** simulatie
+- **omschrijving:** Elke mogelijke knoop van de technologieboom heeft materiaal, noodzaak, uitvinder, gevolg, prijs en een bron, en haar vereisten bestaan in de boom; elke onmogelijke of onnodige knoop heeft een reden.
+- **sql_test:** select code,'knoop onvolledig of vereiste bestaat niet' from tech_knoop k where (status='mogelijk' and (materiaal is null or noodzaak is null or uitvinder is null or gevolg is null or prijs is null or bron is null)) or (status in ('onmogelijk','onnodig','onmogelijk en onnodig') and reden is null) union select k.code,'vereiste '||v.value||' bestaat niet' from tech_knoop k, json_each('["'||replace(coalesce(k.vereist,''),';','","')||'"]') v where v.value!='' and v.value not in (select code from tech_knoop)
+- **bron:** r_Z44.py (review 1 van Z42, blok H)
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-sim_uitvinding · Elke gesimuleerde uitvinding is een mogelijke knoop, komt na al haar vereisten in dezelfde run, en heeft een uitvinder met minstens 5 procent macht, een noodzaak en een gevolg.
+- **code:** R-sim_uitvinding
+- **domein:** simulatie
+- **omschrijving:** Elke gesimuleerde uitvinding is een mogelijke knoop, komt na al haar vereisten in dezelfde run, en heeft een uitvinder met minstens 5 procent macht, een noodzaak en een gevolg.
+- **sql_test:** select u.run_id||':'||u.knoop,'uitvinding zonder geldige knoop, uitvinder, noodzaak of gevolg' from sim_uitvinding u where u.knoop not in (select code from tech_knoop where status='mogelijk') or coalesce(u.uitvinder_macht,0)<0.05 or u.noodzaak is null or u.gevolg is null union select u.run_id||':'||u.knoop,'uitvinding vóór haar vereiste '||j.key from sim_uitvinding u, json_each(u.vereist_met) j where j.value>=u.jaar or not exists(select 1 from sim_uitvinding v where v.run_id=u.run_id and v.knoop=j.key and v.jaar=j.value)
+- **bron:** r_Z44.py (review 1 van Z42, blok H)
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
 
 <!-- SECTIE: BOOG -->

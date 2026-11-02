@@ -47533,5 +47533,7812 @@
 - **bron:** r_Z43.py
 - **epistemiek:** simulatie (Z43-GESCH-1000, seed 421000)
 <!-- /REC -->
-
-<!-- SECTIE: SIM_GEBEURTENIS -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0001
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420001
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 217
+- **scores:** {"fasen": 14, "onopgelost": 8, "uitvindingen": [["TK-sporennet", 1161], ["TK-vrijladen", 1221], ["TK-roestlak", 1261], ["TK-laadwerkplaats", 2001], ["TK-kweekakker", 2041], ["TK-spiermolen", 2081], ["TK-heelkweek", 2261], ["TK-lichtnet", 3121], ["TK-lakijzer", 3141], ["TK-sporendruk", 3161], ["TK-steenlens", 3701], ["TK-kluisherstel", 3761], ["TK-lichtcel", 3781], ["TK-sporenkern", 3901], ["TK-vleesmetaal", 4821]], "uit_nood": 8, "magie_min": 0.205, "magie_eind": 0.205, "golven": 12, "techniek_eind": 1, "werkplaatsen_vanaf": 3281, "heersers": 5, "wetten": 19, "rustige_jaren": 2120, "macht_eind": {"staat": 0.201, "huizen": 0.07, "kerk": 0.004, "steden": 0.291, "dragers": 0.212, "buren": 0.18, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.173, "buren_honger": 1.13, "ev": 1.074, "aelthir": 0.339, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 1
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0002
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420002
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 201
+- **scores:** {"fasen": 10, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 1041], ["TK-roestlak", 1281], ["TK-steenlens", 1481], ["TK-vrijladen", 1541], ["TK-kweekakker", 1981], ["TK-lakijzer", 2041], ["TK-heelkweek", 2141], ["TK-kluisherstel", 3521], ["TK-echonet", 3621], ["TK-lichtcel", 4061], ["TK-sporenkern", 4181], ["TK-vleesmetaal", 4621]], "uit_nood": 5, "magie_min": 0.337, "magie_eind": 0.337, "golven": 9, "techniek_eind": 0.854, "werkplaatsen_vanaf": 4181, "heersers": 3, "wetten": 16, "rustige_jaren": 2280, "macht_eind": {"staat": 0.252, "huizen": 0.068, "kerk": 0.006, "steden": 0.174, "dragers": 0.256, "buren": 0.189, "orrim": 0.039, "volk": 0.017}, "parameters": {"groei": 0.158, "buren_honger": 0.939, "ev": 0.998, "aelthir": 0.682, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 1
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0003
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420003
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 226
+- **scores:** {"fasen": 15, "onopgelost": 10, "uitvindingen": [["TK-kluisherstel", 1061], ["TK-lichtnet", 1081], ["TK-vleesmetaal", 1101], ["TK-vrijladen", 1181], ["TK-steenlens", 1401], ["TK-echonet", 1581], ["TK-roestlak", 1641], ["TK-kweekakker", 2521], ["TK-heelkweek", 2541], ["TK-sporennet", 3161], ["TK-sporendruk", 3181], ["TK-sporenkern", 3261], ["TK-lakijzer", 3421]], "uit_nood": 9, "magie_min": 0.165, "magie_eind": 0.216, "golven": 17, "techniek_eind": 1, "werkplaatsen_vanaf": 3181, "heersers": 2, "wetten": 20, "rustige_jaren": 1960, "macht_eind": {"staat": 0.224, "huizen": 0.048, "kerk": 0.004, "steden": 0.309, "dragers": 0.14, "buren": 0.233, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.203, "buren_honger": 1.42, "ev": 1.101, "aelthir": 0.256, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 1
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0004
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420004
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 14, "onopgelost": 12, "uitvindingen": [["TK-lichtnet", 941], ["TK-vrijladen", 1221], ["TK-roestlak", 1261], ["TK-steenlens", 1681], ["TK-laadwerkplaats", 1881], ["TK-kweekakker", 2341], ["TK-heelkweek", 2381], ["TK-spiermolen", 2701], ["TK-lakijzer", 2961], ["TK-lichtcel", 3281], ["TK-kluisherstel", 4421], ["TK-sporenkern", 4641]], "uit_nood": 6, "magie_min": 0.332, "magie_eind": 0.332, "golven": 11, "techniek_eind": 0.933, "werkplaatsen_vanaf": 3921, "heersers": 3, "wetten": 18, "rustige_jaren": 1860, "macht_eind": {"staat": 0.225, "huizen": 0.085, "kerk": 0.005, "steden": 0.178, "dragers": 0.308, "buren": 0.175, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.179, "buren_honger": 0.998, "ev": 0.888, "aelthir": 0.784, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0004, seed 420004)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0005
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420005
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 227
+- **scores:** {"fasen": 15, "onopgelost": 2, "uitvindingen": [["TK-lichtnet", 881], ["TK-steenlens", 1021], ["TK-sporennet", 1161], ["TK-vrijladen", 1321], ["TK-kweekakker", 2121], ["TK-heelkweek", 2281], ["TK-sporendruk", 2501], ["TK-spiermolen", 2921], ["TK-roestlak", 2961], ["TK-kluisherstel", 2981], ["TK-vleesmetaal", 3301], ["TK-lichtcel", 3381], ["TK-sporenkern", 3581]], "uit_nood": 3, "magie_min": 0.125, "magie_eind": 0.125, "golven": 13, "techniek_eind": 1, "werkplaatsen_vanaf": 2921, "heersers": 3, "wetten": 18, "rustige_jaren": 2960, "macht_eind": {"staat": 0.202, "huizen": 0.046, "kerk": 0.004, "steden": 0.36, "dragers": 0.157, "buren": 0.213, "orrim": 0.007, "volk": 0.011}, "parameters": {"groei": 0.132, "buren_honger": 1.284, "ev": 1.27, "aelthir": 0.478, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 1
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0006
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420006
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 10, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 2481], ["TK-lichtnet", 4021], ["TK-laadwerkplaats", 4141], ["TK-echonet", 4201], ["TK-steenlens", 4621], ["TK-lichtcel", 4681]], "uit_nood": 1, "magie_min": 0.349, "magie_eind": 0.349, "golven": 15, "techniek_eind": 0.575, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 2440, "macht_eind": {"staat": 0.208, "huizen": 0.074, "kerk": 0.069, "steden": 0.062, "dragers": 0.387, "buren": 0.18, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.148, "buren_honger": 1.202, "ev": 1.189, "aelthir": 0.684, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0006, seed 420006)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0007
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420007
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 8, "onopgelost": 9, "uitvindingen": [["TK-roestlak", 1241], ["TK-vrijladen", 1601], ["TK-kweekakker", 2541], ["TK-heelkweek", 3321], ["TK-lichtnet", 3581], ["TK-spiermolen", 4281]], "uit_nood": 4, "magie_min": 0.352, "magie_eind": 0.355, "golven": 9, "techniek_eind": 0.495, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 15, "rustige_jaren": 2280, "macht_eind": {"staat": 0.304, "huizen": 0.078, "kerk": 0.046, "steden": 0.115, "dragers": 0.287, "buren": 0.105, "orrim": 0.045, "volk": 0.02}, "parameters": {"groei": 0.21, "buren_honger": 0.693, "ev": 0.903, "aelthir": 0.229, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0007, seed 420007)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0008
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420008
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 175
+- **scores:** {"fasen": 7, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1841], ["TK-laadwerkplaats", 1921], ["TK-roestlak", 1981], ["TK-kweekakker", 3461], ["TK-lichtnet", 3841], ["TK-lakijzer", 3861], ["TK-steenlens", 3921], ["TK-lichtcel", 4001], ["TK-kluisherstel", 4381], ["TK-vleesmetaal", 4761], ["TK-sporenkern", 4781]], "uit_nood": 3, "magie_min": 0.352, "magie_eind": 0.352, "golven": 7, "techniek_eind": 0.816, "werkplaatsen_vanaf": 4381, "heersers": 3, "wetten": 14, "rustige_jaren": 3320, "macht_eind": {"staat": 0.243, "huizen": 0.065, "kerk": 0.046, "steden": 0.125, "dragers": 0.299, "buren": 0.197, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.16, "buren_honger": 1.117, "ev": 0.776, "aelthir": 0.38, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 1
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0009
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420009
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 6, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 2581]], "uit_nood": 0, "magie_min": 0.349, "magie_eind": 0.432, "golven": 5, "techniek_eind": 0.375, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 2660, "macht_eind": {"staat": 0.268, "huizen": 0.121, "kerk": 0.103, "steden": 0.043, "dragers": 0.35, "buren": 0.081, "orrim": 0.012, "volk": 0.023}, "parameters": {"groei": 0.149, "buren_honger": 0.547, "ev": 1.036, "aelthir": 0.432, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0009, seed 420009)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0010
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420010
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 21
+- **scores:** {"fasen": 7, "onopgelost": 4, "uitvindingen": [["TK-lichtnet", 1021], ["TK-steenlens", 1481], ["TK-vrijladen", 2421], ["TK-roestlak", 2661], ["TK-kluisherstel", 3141], ["TK-vleesmetaal", 3501], ["TK-lichtcel", 3541], ["TK-kweekakker", 3781], ["TK-heelkweek", 3921], ["TK-lakijzer", 4121], ["TK-spiermolen", 4241], ["TK-sporenkern", 4361], ["TK-echonet", 4461], ["TK-gaveglas", 4521]], "uit_nood": 3, "magie_min": 0.339, "magie_eind": 0.339, "golven": 13, "techniek_eind": 0.918, "werkplaatsen_vanaf": 4201, "heersers": 2, "wetten": 15, "rustige_jaren": 3440, "macht_eind": {"staat": 0.264, "huizen": 0.098, "kerk": 0.006, "steden": 0.18, "dragers": 0.252, "buren": 0.174, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.183, "buren_honger": 0.926, "ev": 0.725, "aelthir": 0.66, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0010, seed 420010)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0011
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420011
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 8, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1241], ["TK-laadwerkplaats", 1441], ["TK-echonet", 1661], ["TK-roestlak", 2541], ["TK-kluisherstel", 3141], ["TK-vleesmetaal", 3861], ["TK-lakijzer", 4021], ["TK-kweekakker", 4481], ["TK-spiermolen", 4501]], "uit_nood": 3, "magie_min": 0.353, "magie_eind": 0.464, "golven": 15, "techniek_eind": 0.612, "werkplaatsen_vanaf": 4881, "heersers": 4, "wetten": 15, "rustige_jaren": 2180, "macht_eind": {"staat": 0.258, "huizen": 0.065, "kerk": 0.036, "steden": 0.139, "dragers": 0.355, "buren": 0.12, "orrim": 0.009, "volk": 0.018}, "parameters": {"groei": 0.161, "buren_honger": 0.778, "ev": 1.291, "aelthir": 0.348, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0011, seed 420011)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0012
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420012
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 8, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 841], ["TK-laadwerkplaats", 1621], ["TK-echonet", 1681], ["TK-kweekakker", 2701], ["TK-spiermolen", 2761], ["TK-heelkweek", 2781], ["TK-kluisherstel", 3601]], "uit_nood": 5, "magie_min": 0.353, "magie_eind": 0.353, "golven": 11, "techniek_eind": 0.577, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 2440, "macht_eind": {"staat": 0.227, "huizen": 0.054, "kerk": 0.028, "steden": 0.117, "dragers": 0.284, "buren": 0.244, "orrim": 0.031, "volk": 0.015}, "parameters": {"groei": 0.162, "buren_honger": 1.391, "ev": 1.174, "aelthir": 0.597, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0012, seed 420012)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0013
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420013
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 206
+- **scores:** {"fasen": 11, "onopgelost": 7, "uitvindingen": [["TK-roestlak", 1301], ["TK-vrijladen", 1961], ["TK-kweekakker", 2761], ["TK-kluisherstel", 2961], ["TK-heelkweek", 3041], ["TK-vleesmetaal", 3081], ["TK-sporennet", 3581], ["TK-spiermolen", 3621], ["TK-sporendruk", 3641], ["TK-lichtnet", 3881], ["TK-steenlens", 3921], ["TK-lakijzer", 4361], ["TK-sporenkern", 4761], ["TK-lichtcel", 4801]], "uit_nood": 8, "magie_min": 0.179, "magie_eind": 0.179, "golven": 7, "techniek_eind": 1, "werkplaatsen_vanaf": 3501, "heersers": 3, "wetten": 18, "rustige_jaren": 2720, "macht_eind": {"staat": 0.289, "huizen": 0.066, "kerk": 0.006, "steden": 0.356, "dragers": 0.171, "buren": 0.089, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.123, "buren_honger": 0.705, "ev": 1.097, "aelthir": 0.44, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 1
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0014
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420014
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 11, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1061], ["TK-echonet", 1581], ["TK-kluisherstel", 3621], ["TK-vleesmetaal", 3721], ["TK-lichtnet", 4721]], "uit_nood": 0, "magie_min": 0.349, "magie_eind": 0.516, "golven": 13, "techniek_eind": 0.433, "werkplaatsen_vanaf": null, "heersers": 5, "wetten": 15, "rustige_jaren": 2500, "macht_eind": {"staat": 0.213, "huizen": 0.083, "kerk": 0.044, "steden": 0.056, "dragers": 0.382, "buren": 0.174, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.201, "buren_honger": 1.108, "ev": 1.164, "aelthir": 0.376, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0014, seed 420014)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0015
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420015
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 4, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1381], ["TK-kweekakker", 1781], ["TK-spiermolen", 2441], ["TK-heelkweek", 2821], ["TK-lichtnet", 3001], ["TK-kluisherstel", 3121], ["TK-vleesmetaal", 3401], ["TK-steenlens", 4941]], "uit_nood": 2, "magie_min": 0.349, "magie_eind": 0.533, "golven": 10, "techniek_eind": 0.572, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 12, "rustige_jaren": 2580, "macht_eind": {"staat": 0.309, "huizen": 0.075, "kerk": 0.042, "steden": 0.118, "dragers": 0.277, "buren": 0.148, "orrim": 0.011, "volk": 0.02}, "parameters": {"groei": 0.212, "buren_honger": 0.842, "ev": 0.996, "aelthir": 0.747, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0015, seed 420015)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0016
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420016
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 8, "onopgelost": 7, "uitvindingen": [["TK-lichtnet", 841], ["TK-vrijladen", 1081], ["TK-kluisherstel", 3501], ["TK-vleesmetaal", 4361]], "uit_nood": 0, "magie_min": 0.369, "magie_eind": 0.436, "golven": 10, "techniek_eind": 0.411, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 15, "rustige_jaren": 1960, "macht_eind": {"staat": 0.224, "huizen": 0.091, "kerk": 0.105, "steden": 0.036, "dragers": 0.32, "buren": 0.199, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.165, "buren_honger": 1.044, "ev": 0.784, "aelthir": 0.628, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0016, seed 420016)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0017
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420017
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 31
+- **scores:** {"fasen": 16, "onopgelost": 7, "uitvindingen": [["TK-lichtnet", 941], ["TK-roestlak", 1421], ["TK-vrijladen", 1581], ["TK-laadwerkplaats", 1621], ["TK-echonet", 1721], ["TK-lakijzer", 2201], ["TK-steenlens", 2661], ["TK-kluisherstel", 3021], ["TK-sporenkern", 3141], ["TK-sporennet", 3181], ["TK-sporendruk", 3201], ["TK-kweekakker", 3621], ["TK-heelkweek", 4081], ["TK-vleesmetaal", 4681], ["TK-lichtcel", 4861]], "uit_nood": 8, "magie_min": 0.148, "magie_eind": 0.148, "golven": 13, "techniek_eind": 1, "werkplaatsen_vanaf": 3141, "heersers": 5, "wetten": 19, "rustige_jaren": 2400, "macht_eind": {"staat": 0.192, "huizen": 0.046, "kerk": 0.004, "steden": 0.286, "dragers": 0.228, "buren": 0.225, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.188, "buren_honger": 1.467, "ev": 1.155, "aelthir": 0.479, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0017, seed 420017)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0018
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420018
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 9, "onopgelost": 5, "uitvindingen": [["TK-lichtnet", 2881], ["TK-kluisherstel", 3861], ["TK-vrijladen", 4121]], "uit_nood": 0, "magie_min": 0.347, "magie_eind": 0.347, "golven": 13, "techniek_eind": 0.463, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 2340, "macht_eind": {"staat": 0.223, "huizen": 0.073, "kerk": 0.052, "steden": 0.056, "dragers": 0.315, "buren": 0.237, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.213, "buren_honger": 1.425, "ev": 1.109, "aelthir": 0.572, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0018, seed 420018)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0019
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420019
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 10, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1641], ["TK-echonet", 1981], ["TK-laadwerkplaats", 3401], ["TK-kluisherstel", 3901], ["TK-vleesmetaal", 4161]], "uit_nood": 1, "magie_min": 0.347, "magie_eind": 0.497, "golven": 10, "techniek_eind": 0.472, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 1660, "macht_eind": {"staat": 0.2, "huizen": 0.118, "kerk": 0.061, "steden": 0.055, "dragers": 0.299, "buren": 0.215, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.217, "buren_honger": 1.198, "ev": 0.956, "aelthir": 0.715, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0019, seed 420019)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0020
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420020
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 4, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1181], ["TK-kluisherstel", 3361], ["TK-lichtnet", 3661], ["TK-vleesmetaal", 3921]], "uit_nood": 1, "magie_min": 0.349, "magie_eind": 0.444, "golven": 13, "techniek_eind": 0.415, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 2780, "macht_eind": {"staat": 0.313, "huizen": 0.114, "kerk": 0.084, "steden": 0.047, "dragers": 0.331, "buren": 0.078, "orrim": 0.011, "volk": 0.021}, "parameters": {"groei": 0.205, "buren_honger": 0.521, "ev": 0.848, "aelthir": 0.426, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0020, seed 420020)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0021
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420021
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 12, "onopgelost": 5, "uitvindingen": [["TK-sporennet", 941], ["TK-roestlak", 1241], ["TK-kweekakker", 1661], ["TK-spiermolen", 1801], ["TK-sporendruk", 2221], ["TK-heelkweek", 2741], ["TK-lakijzer", 3041], ["TK-lichtnet", 3561], ["TK-steenlens", 3961], ["TK-kluisherstel", 4341], ["TK-lichtcel", 4581], ["TK-vleesmetaal", 4601]], "uit_nood": 3, "magie_min": 0.28, "magie_eind": 0.28, "golven": 9, "techniek_eind": 0.994, "werkplaatsen_vanaf": 3921, "heersers": 3, "wetten": 17, "rustige_jaren": 2540, "macht_eind": {"staat": 0.232, "huizen": 0.076, "kerk": 0.005, "steden": 0.239, "dragers": 0.146, "buren": 0.283, "orrim": 0.008, "volk": 0.012}, "parameters": {"groei": 0.16, "buren_honger": 1.401, "ev": 0.829, "aelthir": 0.734, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0021, seed 420021)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0022
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420022
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 9, "onopgelost": 6, "uitvindingen": [["TK-roestlak", 1221], ["TK-vrijladen", 3261], ["TK-lakijzer", 3501], ["TK-kluisherstel", 3941], ["TK-vleesmetaal", 4161], ["TK-kweekakker", 4321], ["TK-lichtnet", 4621], ["TK-heelkweek", 4921]], "uit_nood": 2, "magie_min": 0.351, "magie_eind": 0.39, "golven": 13, "techniek_eind": 0.49, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 15, "rustige_jaren": 3180, "macht_eind": {"staat": 0.222, "huizen": 0.085, "kerk": 0.049, "steden": 0.073, "dragers": 0.435, "buren": 0.087, "orrim": 0.034, "volk": 0.016}, "parameters": {"groei": 0.173, "buren_honger": 0.718, "ev": 1.052, "aelthir": 0.607, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0022, seed 420022)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0023
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420023
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 15, "onopgelost": 6, "uitvindingen": [["TK-roestlak", 1081], ["TK-sporennet", 1101], ["TK-kweekakker", 1881], ["TK-sporendruk", 1901], ["TK-lakijzer", 1921], ["TK-spiermolen", 1981], ["TK-heelkweek", 2101], ["TK-lichtnet", 3341], ["TK-kluisherstel", 3541], ["TK-vleesmetaal", 4021], ["TK-sporenkern", 4141], ["TK-steenlens", 4801]], "uit_nood": 6, "magie_min": 0.125, "magie_eind": 0.125, "golven": 8, "techniek_eind": 1, "werkplaatsen_vanaf": 3041, "heersers": 5, "wetten": 17, "rustige_jaren": 2840, "macht_eind": {"staat": 0.201, "huizen": 0.048, "kerk": 0.004, "steden": 0.373, "dragers": 0.179, "buren": 0.175, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.158, "buren_honger": 1.111, "ev": 0.761, "aelthir": 0.328, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0023, seed 420023)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0024
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420024
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 8, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1661], ["TK-laadwerkplaats", 1741], ["TK-lichtnet", 3201], ["TK-kluisherstel", 4721]], "uit_nood": 2, "magie_min": 0.35, "magie_eind": 0.35, "golven": 10, "techniek_eind": 0.459, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 15, "rustige_jaren": 2720, "macht_eind": {"staat": 0.225, "huizen": 0.082, "kerk": 0.073, "steden": 0.046, "dragers": 0.351, "buren": 0.176, "orrim": 0.033, "volk": 0.014}, "parameters": {"groei": 0.183, "buren_honger": 1.12, "ev": 1.155, "aelthir": 0.707, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0024, seed 420024)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0025
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420025
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 11, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1041], ["TK-roestlak", 1761], ["TK-kweekakker", 3201], ["TK-lakijzer", 3401], ["TK-heelkweek", 3601], ["TK-kluisherstel", 3621], ["TK-lichtnet", 4001], ["TK-sporenkern", 4041], ["TK-steenlens", 4061]], "uit_nood": 2, "magie_min": 0.332, "magie_eind": 0.54, "golven": 12, "techniek_eind": 0.892, "werkplaatsen_vanaf": 4041, "heersers": 4, "wetten": 16, "rustige_jaren": 2380, "macht_eind": {"staat": 0.207, "huizen": 0.074, "kerk": 0.004, "steden": 0.179, "dragers": 0.255, "buren": 0.26, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.199, "buren_honger": 1.48, "ev": 0.968, "aelthir": 0.278, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0025, seed 420025)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0026
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420026
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 6, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 1901], ["TK-echonet", 2561]], "uit_nood": 0, "magie_min": 0.357, "magie_eind": 0.389, "golven": 9, "techniek_eind": 0.4, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 3200, "macht_eind": {"staat": 0.298, "huizen": 0.103, "kerk": 0.095, "steden": 0.046, "dragers": 0.258, "buren": 0.141, "orrim": 0.041, "volk": 0.018}, "parameters": {"groei": 0.122, "buren_honger": 0.836, "ev": 0.792, "aelthir": 0.65, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0026, seed 420026)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0027
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420027
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 15, "onopgelost": 11, "uitvindingen": [["TK-lichtnet", 1041], ["TK-steenlens", 1221], ["TK-sporennet", 1481], ["TK-roestlak", 2101], ["TK-vrijladen", 2761], ["TK-kweekakker", 2881], ["TK-heelkweek", 2901], ["TK-sporendruk", 3361], ["TK-lakijzer", 3621], ["TK-lichtcel", 3881], ["TK-kluisherstel", 4041]], "uit_nood": 9, "magie_min": 0.208, "magie_eind": 0.208, "golven": 12, "techniek_eind": 1, "werkplaatsen_vanaf": 3701, "heersers": 5, "wetten": 19, "rustige_jaren": 2000, "macht_eind": {"staat": 0.194, "huizen": 0.048, "kerk": 0.004, "steden": 0.247, "dragers": 0.241, "buren": 0.226, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.171, "buren_honger": 1.415, "ev": 0.981, "aelthir": 0.669, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0027, seed 420027)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0028
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420028
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 9, "onopgelost": 6, "uitvindingen": [["TK-roestlak", 2981], ["TK-kluisherstel", 3361], ["TK-lakijzer", 3461], ["TK-sporenkern", 3781], ["TK-lichtnet", 3901], ["TK-kweekakker", 4221], ["TK-steenlens", 4341], ["TK-lichtcel", 4581], ["TK-vleesmetaal", 4641]], "uit_nood": 2, "magie_min": 0.323, "magie_eind": 0.586, "golven": 12, "techniek_eind": 0.982, "werkplaatsen_vanaf": 3781, "heersers": 4, "wetten": 16, "rustige_jaren": 2980, "macht_eind": {"staat": 0.264, "huizen": 0.067, "kerk": 0.006, "steden": 0.21, "dragers": 0.235, "buren": 0.161, "orrim": 0.039, "volk": 0.017}, "parameters": {"groei": 0.166, "buren_honger": 0.916, "ev": 0.864, "aelthir": 0.231, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0028, seed 420028)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0029
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420029
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 19
+- **scores:** {"fasen": 11, "onopgelost": 11, "uitvindingen": [["TK-lichtnet", 961], ["TK-steenlens", 1001], ["TK-roestlak", 1921], ["TK-kweekakker", 2161], ["TK-vrijladen", 2681], ["TK-lakijzer", 3801], ["TK-heelkweek", 3841], ["TK-spiermolen", 4081]], "uit_nood": 1, "magie_min": 0.345, "magie_eind": 0.45, "golven": 9, "techniek_eind": 0.666, "werkplaatsen_vanaf": 4501, "heersers": 4, "wetten": 16, "rustige_jaren": 2460, "macht_eind": {"staat": 0.203, "huizen": 0.086, "kerk": 0.005, "steden": 0.137, "dragers": 0.243, "buren": 0.278, "orrim": 0.035, "volk": 0.013}, "parameters": {"groei": 0.175, "buren_honger": 1.415, "ev": 0.816, "aelthir": 0.454, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0029, seed 420029)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0030
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420030
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 21
+- **scores:** {"fasen": 10, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1121], ["TK-laadwerkplaats", 1781], ["TK-roestlak", 2021], ["TK-kweekakker", 3001], ["TK-lakijzer", 3401], ["TK-lichtnet", 3421], ["TK-steenlens", 3481], ["TK-heelkweek", 3501], ["TK-kluisherstel", 4121], ["TK-lichtcel", 4261], ["TK-vleesmetaal", 4761]], "uit_nood": 3, "magie_min": 0.338, "magie_eind": 0.54, "golven": 13, "techniek_eind": 0.707, "werkplaatsen_vanaf": 4261, "heersers": 4, "wetten": 16, "rustige_jaren": 3000, "macht_eind": {"staat": 0.287, "huizen": 0.068, "kerk": 0.006, "steden": 0.14, "dragers": 0.405, "buren": 0.067, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.182, "buren_honger": 0.676, "ev": 0.861, "aelthir": 0.682, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0030, seed 420030)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0031
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420031
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 21
+- **scores:** {"fasen": 9, "onopgelost": 10, "uitvindingen": [["TK-kweekakker", 1361], ["TK-heelkweek", 1641], ["TK-vrijladen", 1781], ["TK-echonet", 1901], ["TK-spiermolen", 2101], ["TK-roestlak", 2321], ["TK-lakijzer", 2601], ["TK-lichtnet", 3261], ["TK-steenlens", 3321], ["TK-kluisherstel", 4161], ["TK-lichtcel", 4601], ["TK-vleesmetaal", 4761]], "uit_nood": 5, "magie_min": 0.362, "magie_eind": 0.417, "golven": 16, "techniek_eind": 0.685, "werkplaatsen_vanaf": 4601, "heersers": 3, "wetten": 16, "rustige_jaren": 1480, "macht_eind": {"staat": 0.258, "huizen": 0.065, "kerk": 0.05, "steden": 0.14, "dragers": 0.403, "buren": 0.034, "orrim": 0.037, "volk": 0.013}, "parameters": {"groei": 0.173, "buren_honger": 0.565, "ev": 1.295, "aelthir": 0.206, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0031, seed 420031)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0032
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420032
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 4, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1361], ["TK-echonet", 3061], ["TK-kluisherstel", 4761]], "uit_nood": 0, "magie_min": 0.347, "magie_eind": 0.347, "golven": 12, "techniek_eind": 0.467, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 12, "rustige_jaren": 2680, "macht_eind": {"staat": 0.237, "huizen": 0.054, "kerk": 0.04, "steden": 0.054, "dragers": 0.271, "buren": 0.321, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.201, "buren_honger": 1.494, "ev": 0.874, "aelthir": 0.221, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0032, seed 420032)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0033
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420033
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 18, "onopgelost": 13, "uitvindingen": [["TK-lichtnet", 821], ["TK-steenlens", 861], ["TK-roestlak", 1061], ["TK-lakijzer", 1681], ["TK-vrijladen", 2341], ["TK-kweekakker", 2581], ["TK-sporennet", 2781], ["TK-spiermolen", 2801], ["TK-sporendruk", 2921], ["TK-heelkweek", 3201]], "uit_nood": 7, "magie_min": 0.135, "magie_eind": 0.145, "golven": 6, "techniek_eind": 1, "werkplaatsen_vanaf": 2801, "heersers": 8, "wetten": 18, "rustige_jaren": 1460, "macht_eind": {"staat": 0.062, "huizen": 0.086, "kerk": 0.005, "steden": 0.555, "dragers": 0.01, "buren": 0.259, "orrim": 0.009, "volk": 0.014}, "parameters": {"groei": 0.193, "buren_honger": 1.492, "ev": 0.808, "aelthir": 0.352, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0033, seed 420033)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0034
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420034
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 6, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 821], ["TK-vrijladen", 1201], ["TK-steenlens", 1721], ["TK-kweekakker", 2921], ["TK-roestlak", 4901]], "uit_nood": 2, "magie_min": 0.348, "magie_eind": 0.46, "golven": 9, "techniek_eind": 0.499, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 12, "rustige_jaren": 2640, "macht_eind": {"staat": 0.255, "huizen": 0.07, "kerk": 0.038, "steden": 0.091, "dragers": 0.251, "buren": 0.237, "orrim": 0.04, "volk": 0.019}, "parameters": {"groei": 0.186, "buren_honger": 1.175, "ev": 0.76, "aelthir": 0.719, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0034, seed 420034)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0035
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420035
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 33
+- **scores:** {"fasen": 16, "onopgelost": 15, "uitvindingen": [["TK-sporennet", 1361], ["TK-vrijladen", 1701], ["TK-laadwerkplaats", 1841], ["TK-echonet", 2281], ["TK-roestlak", 2321], ["TK-sporendruk", 2501], ["TK-kweekakker", 2561], ["TK-kluisherstel", 3701], ["TK-vleesmetaal", 3741], ["TK-spiermolen", 3761], ["TK-heelkweek", 3821], ["TK-lichtnet", 4001], ["TK-gaveglas", 4101], ["TK-steenlens", 4261], ["TK-lakijzer", 4381], ["TK-lichtcel", 4501], ["TK-sporenkern", 4681]], "uit_nood": 7, "magie_min": 0.22, "magie_eind": 0.406, "golven": 17, "techniek_eind": 1, "werkplaatsen_vanaf": 3881, "heersers": 6, "wetten": 18, "rustige_jaren": 1580, "macht_eind": {"staat": 0.179, "huizen": 0.054, "kerk": 0.004, "steden": 0.232, "dragers": 0.307, "buren": 0.204, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.148, "buren_honger": 1.466, "ev": 1.16, "aelthir": 0.658, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0035, seed 420035)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0036
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420036
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 10, "onopgelost": 7, "uitvindingen": [["TK-kluisherstel", 921], ["TK-vleesmetaal", 1221], ["TK-roestlak", 1361], ["TK-vrijladen", 1761], ["TK-lakijzer", 1821], ["TK-lichtnet", 3121], ["TK-steenlens", 3141], ["TK-lichtcel", 3161], ["TK-kweekakker", 3261], ["TK-heelkweek", 3541], ["TK-gaveglas", 3821], ["TK-sporenkern", 4261]], "uit_nood": 3, "magie_min": 0.333, "magie_eind": 0.333, "golven": 9, "techniek_eind": 0.905, "werkplaatsen_vanaf": 3681, "heersers": 3, "wetten": 17, "rustige_jaren": 1640, "macht_eind": {"staat": 0.275, "huizen": 0.107, "kerk": 0.006, "steden": 0.264, "dragers": 0.165, "buren": 0.154, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.21, "buren_honger": 0.854, "ev": 0.86, "aelthir": 0.53, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0036, seed 420036)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0037
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420037
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 15, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 861], ["TK-kluisherstel", 941], ["TK-vleesmetaal", 1261], ["TK-roestlak", 1601], ["TK-kweekakker", 2561], ["TK-heelkweek", 2661], ["TK-lakijzer", 3781], ["TK-sporenkern", 4261], ["TK-sporennet", 4441]], "uit_nood": 4, "magie_min": 0.3, "magie_eind": 0.4, "golven": 13, "techniek_eind": 0.909, "werkplaatsen_vanaf": 4261, "heersers": 4, "wetten": 18, "rustige_jaren": 2260, "macht_eind": {"staat": 0.195, "huizen": 0.05, "kerk": 0.011, "steden": 0.212, "dragers": 0.269, "buren": 0.243, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.132, "buren_honger": 1.47, "ev": 1.235, "aelthir": 0.399, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0037, seed 420037)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0038
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420038
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 8, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 2401], ["TK-kweekakker", 5001]], "uit_nood": 1, "magie_min": 0.347, "magie_eind": 0.347, "golven": 12, "techniek_eind": 0.417, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 12, "rustige_jaren": 2600, "macht_eind": {"staat": 0.214, "huizen": 0.096, "kerk": 0.057, "steden": 0.066, "dragers": 0.279, "buren": 0.259, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.208, "buren_honger": 1.419, "ev": 0.799, "aelthir": 0.477, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0038, seed 420038)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0039
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420039
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 10, "onopgelost": 9, "uitvindingen": [["TK-kweekakker", 2201], ["TK-spiermolen", 2281], ["TK-vrijladen", 2421], ["TK-echonet", 2461], ["TK-roestlak", 2821], ["TK-laadwerkplaats", 2961], ["TK-heelkweek", 2981], ["TK-lakijzer", 4181], ["TK-kluisherstel", 4901], ["TK-sporenkern", 4961]], "uit_nood": 3, "magie_min": 0.375, "magie_eind": 0.43, "golven": 17, "techniek_eind": 0.751, "werkplaatsen_vanaf": 4961, "heersers": 4, "wetten": 14, "rustige_jaren": 2600, "macht_eind": {"staat": 0.227, "huizen": 0.058, "kerk": 0.049, "steden": 0.114, "dragers": 0.348, "buren": 0.181, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.15, "buren_honger": 1.036, "ev": 1.232, "aelthir": 0.43, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0039, seed 420039)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0040
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420040
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 6, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1041], ["TK-echonet", 1121], ["TK-roestlak", 1661], ["TK-kweekakker", 2421], ["TK-lakijzer", 3081], ["TK-kluisherstel", 3321], ["TK-heelkweek", 3461], ["TK-vleesmetaal", 3601], ["TK-lichtnet", 4801]], "uit_nood": 3, "magie_min": 0.353, "magie_eind": 0.353, "golven": 11, "techniek_eind": 0.505, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 480, "macht_eind": {"staat": 0.241, "huizen": 0.087, "kerk": 0.021, "steden": 0.088, "dragers": 0.307, "buren": 0.205, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.174, "buren_honger": 1.172, "ev": 0.749, "aelthir": 0.7, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0040, seed 420040)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0041
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420041
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 31
+- **scores:** {"fasen": 17, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 1061], ["TK-roestlak", 1241], ["TK-steenlens", 1441], ["TK-kweekakker", 1901], ["TK-vrijladen", 1961], ["TK-spiermolen", 2241], ["TK-heelkweek", 2481], ["TK-sporennet", 2601], ["TK-sporendruk", 2661], ["TK-lakijzer", 2721], ["TK-kluisherstel", 2801], ["TK-vleesmetaal", 3161], ["TK-lichtcel", 3441], ["TK-sporenkern", 3721]], "uit_nood": 6, "magie_min": 0.125, "magie_eind": 0.125, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 2801, "heersers": 4, "wetten": 18, "rustige_jaren": 2420, "macht_eind": {"staat": 0.242, "huizen": 0.05, "kerk": 0.004, "steden": 0.409, "dragers": 0.122, "buren": 0.154, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.133, "buren_honger": 0.852, "ev": 1.132, "aelthir": 0.558, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0041, seed 420041)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0042
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420042
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 14, "onopgelost": 10, "uitvindingen": [["TK-roestlak", 1201], ["TK-vrijladen", 2501], ["TK-kweekakker", 2541], ["TK-lakijzer", 2621], ["TK-spiermolen", 2701], ["TK-kluisherstel", 4101], ["TK-lichtnet", 4121], ["TK-echonet", 4521], ["TK-heelkweek", 4581], ["TK-gaveglas", 4741], ["TK-steenlens", 4981]], "uit_nood": 5, "magie_min": 0.357, "magie_eind": 0.519, "golven": 12, "techniek_eind": 0.76, "werkplaatsen_vanaf": 4661, "heersers": 4, "wetten": 18, "rustige_jaren": 1880, "macht_eind": {"staat": 0.197, "huizen": 0.061, "kerk": 0.005, "steden": 0.154, "dragers": 0.324, "buren": 0.218, "orrim": 0.032, "volk": 0.008}, "parameters": {"groei": 0.12, "buren_honger": 1.28, "ev": 1.022, "aelthir": 0.689, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0042, seed 420042)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0043
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420043
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 15, "onopgelost": 10, "uitvindingen": [["TK-lichtnet", 961], ["TK-roestlak", 1021], ["TK-steenlens", 1121], ["TK-sporennet", 1661], ["TK-kweekakker", 2221], ["TK-sporendruk", 2301], ["TK-lakijzer", 2401], ["TK-heelkweek", 2861], ["TK-kluisherstel", 4121], ["TK-lichtcel", 4521], ["TK-vleesmetaal", 4961]], "uit_nood": 4, "magie_min": 0.125, "magie_eind": 0.125, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 2901, "heersers": 4, "wetten": 18, "rustige_jaren": 2240, "macht_eind": {"staat": 0.205, "huizen": 0.065, "kerk": 0.006, "steden": 0.548, "dragers": 0.059, "buren": 0.092, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.179, "buren_honger": 0.624, "ev": 1.025, "aelthir": 0.512, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0043, seed 420043)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0044
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420044
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 9, "onopgelost": 9, "uitvindingen": [["TK-roestlak", 2261], ["TK-vrijladen", 2741], ["TK-laadwerkplaats", 2761], ["TK-kweekakker", 2781], ["TK-spiermolen", 2981], ["TK-lichtnet", 3441], ["TK-steenlens", 3461], ["TK-lichtcel", 3701], ["TK-echonet", 3721], ["TK-lakijzer", 3881], ["TK-kluisherstel", 4201], ["TK-heelkweek", 4801], ["TK-sporenkern", 4941]], "uit_nood": 5, "magie_min": 0.327, "magie_eind": 0.367, "golven": 7, "techniek_eind": 0.953, "werkplaatsen_vanaf": 3781, "heersers": 4, "wetten": 14, "rustige_jaren": 2680, "macht_eind": {"staat": 0.229, "huizen": 0.057, "kerk": 0.005, "steden": 0.16, "dragers": 0.278, "buren": 0.247, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.135, "buren_honger": 1.48, "ev": 0.97, "aelthir": 0.68, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0044, seed 420044)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0045
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420045
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 9, "onopgelost": 8, "uitvindingen": [["TK-roestlak", 1061], ["TK-kweekakker", 2721], ["TK-spiermolen", 2741], ["TK-vrijladen", 3081], ["TK-lakijzer", 4081], ["TK-heelkweek", 4381]], "uit_nood": 3, "magie_min": 0.36, "magie_eind": 0.363, "golven": 15, "techniek_eind": 0.532, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 15, "rustige_jaren": 2540, "macht_eind": {"staat": 0.238, "huizen": 0.064, "kerk": 0.04, "steden": 0.135, "dragers": 0.294, "buren": 0.176, "orrim": 0.036, "volk": 0.017}, "parameters": {"groei": 0.195, "buren_honger": 1.073, "ev": 1.132, "aelthir": 0.76, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0045, seed 420045)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0046
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420046
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 4, "onopgelost": 2, "uitvindingen": [["TK-vrijladen", 881], ["TK-echonet", 1061], ["TK-laadwerkplaats", 1121], ["TK-kluisherstel", 3481], ["TK-vleesmetaal", 4041]], "uit_nood": 3, "magie_min": 0.36, "magie_eind": 0.547, "golven": 12, "techniek_eind": 0.471, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 13, "rustige_jaren": 3580, "macht_eind": {"staat": 0.293, "huizen": 0.093, "kerk": 0.063, "steden": 0.063, "dragers": 0.355, "buren": 0.107, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.139, "buren_honger": 0.662, "ev": 1.228, "aelthir": 0.321, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0046, seed 420046)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0047
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420047
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 7, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 2201], ["TK-kluisherstel", 3381], ["TK-lichtnet", 3721], ["TK-steenlens", 4861]], "uit_nood": 0, "magie_min": 0.347, "magie_eind": 0.347, "golven": 9, "techniek_eind": 0.5, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 15, "rustige_jaren": 2440, "macht_eind": {"staat": 0.26, "huizen": 0.084, "kerk": 0.057, "steden": 0.059, "dragers": 0.252, "buren": 0.241, "orrim": 0.034, "volk": 0.014}, "parameters": {"groei": 0.182, "buren_honger": 1.325, "ev": 0.868, "aelthir": 0.703, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0047, seed 420047)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0048
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420048
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 11, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1381], ["TK-echonet", 2041], ["TK-kweekakker", 2121], ["TK-spiermolen", 2141], ["TK-roestlak", 2221], ["TK-lakijzer", 2461], ["TK-heelkweek", 2741], ["TK-kluisherstel", 3261], ["TK-lichtnet", 3581], ["TK-steenlens", 3681], ["TK-laadwerkplaats", 3741], ["TK-sporenkern", 4321], ["TK-vleesmetaal", 4541]], "uit_nood": 5, "magie_min": 0.316, "magie_eind": 0.454, "golven": 10, "techniek_eind": 0.862, "werkplaatsen_vanaf": 4161, "heersers": 2, "wetten": 16, "rustige_jaren": 2380, "macht_eind": {"staat": 0.265, "huizen": 0.066, "kerk": 0.006, "steden": 0.225, "dragers": 0.248, "buren": 0.164, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.19, "buren_honger": 1.025, "ev": 0.808, "aelthir": 0.481, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0048, seed 420048)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0049
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420049
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 6, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1881], ["TK-lichtnet", 3201]], "uit_nood": 1, "magie_min": 0.353, "magie_eind": 0.408, "golven": 11, "techniek_eind": 0.391, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 13, "rustige_jaren": 3160, "macht_eind": {"staat": 0.308, "huizen": 0.113, "kerk": 0.076, "steden": 0.061, "dragers": 0.26, "buren": 0.148, "orrim": 0.011, "volk": 0.022}, "parameters": {"groei": 0.209, "buren_honger": 0.787, "ev": 0.954, "aelthir": 0.262, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0049, seed 420049)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0050
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420050
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 8, "onopgelost": 7, "uitvindingen": [["TK-lichtnet", 1021], ["TK-steenlens", 1321], ["TK-vrijladen", 1341], ["TK-roestlak", 1981], ["TK-lakijzer", 2221], ["TK-kweekakker", 2641], ["TK-spiermolen", 2821], ["TK-heelkweek", 3121], ["TK-kluisherstel", 3521], ["TK-lichtcel", 3661], ["TK-sporenkern", 4261], ["TK-vleesmetaal", 5001]], "uit_nood": 2, "magie_min": 0.289, "magie_eind": 0.289, "golven": 9, "techniek_eind": 0.994, "werkplaatsen_vanaf": 3661, "heersers": 2, "wetten": 14, "rustige_jaren": 3200, "macht_eind": {"staat": 0.285, "huizen": 0.068, "kerk": 0.006, "steden": 0.259, "dragers": 0.243, "buren": 0.112, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.124, "buren_honger": 0.668, "ev": 1.075, "aelthir": 0.732, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0050, seed 420050)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0051
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420051
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 9, "onopgelost": 10, "uitvindingen": [["TK-vrijladen", 1281], ["TK-echonet", 1841], ["TK-laadwerkplaats", 2381], ["TK-lichtnet", 3721], ["TK-kluisherstel", 4021], ["TK-vleesmetaal", 4461], ["TK-steenlens", 4721], ["TK-kweekakker", 4961]], "uit_nood": 2, "magie_min": 0.356, "magie_eind": 0.366, "golven": 10, "techniek_eind": 0.543, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 2320, "macht_eind": {"staat": 0.214, "huizen": 0.083, "kerk": 0.058, "steden": 0.077, "dragers": 0.298, "buren": 0.249, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.168, "buren_honger": 1.328, "ev": 1.147, "aelthir": 0.207, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0051, seed 420051)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0052
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420052
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 9, "onopgelost": 8, "uitvindingen": [["TK-roestlak", 1641], ["TK-vrijladen", 1881], ["TK-kweekakker", 2321], ["TK-laadwerkplaats", 2581], ["TK-heelkweek", 3301], ["TK-lakijzer", 3321], ["TK-lichtnet", 3541], ["TK-kluisherstel", 3641], ["TK-steenlens", 3761], ["TK-echonet", 4761], ["TK-sporenkern", 4821]], "uit_nood": 5, "magie_min": 0.353, "magie_eind": 0.381, "golven": 10, "techniek_eind": 0.783, "werkplaatsen_vanaf": 4821, "heersers": 2, "wetten": 16, "rustige_jaren": 700, "macht_eind": {"staat": 0.263, "huizen": 0.083, "kerk": 0.005, "steden": 0.109, "dragers": 0.278, "buren": 0.215, "orrim": 0.033, "volk": 0.014}, "parameters": {"groei": 0.18, "buren_honger": 1.126, "ev": 1.297, "aelthir": 0.275, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0052, seed 420052)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0053
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420053
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 6, "onopgelost": 4, "uitvindingen": [["TK-vrijladen", 1641], ["TK-kweekakker", 1721], ["TK-laadwerkplaats", 1861], ["TK-heelkweek", 2001], ["TK-spiermolen", 2781], ["TK-roestlak", 3061], ["TK-lakijzer", 3981], ["TK-lichtnet", 4741], ["TK-kluisherstel", 4901], ["TK-steenlens", 5001]], "uit_nood": 2, "magie_min": 0.339, "magie_eind": 0.339, "golven": 9, "techniek_eind": 0.693, "werkplaatsen_vanaf": 4901, "heersers": 3, "wetten": 14, "rustige_jaren": 3540, "macht_eind": {"staat": 0.3, "huizen": 0.077, "kerk": 0.007, "steden": 0.147, "dragers": 0.279, "buren": 0.159, "orrim": 0.011, "volk": 0.02}, "parameters": {"groei": 0.137, "buren_honger": 0.832, "ev": 1.03, "aelthir": 0.421, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0053, seed 420053)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0054
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420054
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 12, "onopgelost": 4, "uitvindingen": [["TK-vrijladen", 901], ["TK-laadwerkplaats", 1001], ["TK-roestlak", 1301], ["TK-lakijzer", 2081], ["TK-kweekakker", 2981], ["TK-lichtnet", 3361], ["TK-kluisherstel", 3401], ["TK-steenlens", 3501], ["TK-spiermolen", 3581], ["TK-lichtcel", 3641], ["TK-sporenkern", 3701]], "uit_nood": 6, "magie_min": 0.318, "magie_eind": 0.318, "golven": 7, "techniek_eind": 0.989, "werkplaatsen_vanaf": 3641, "heersers": 4, "wetten": 18, "rustige_jaren": 2760, "macht_eind": {"staat": 0.252, "huizen": 0.095, "kerk": 0.006, "steden": 0.269, "dragers": 0.183, "buren": 0.169, "orrim": 0.01, "volk": 0.017}, "parameters": {"groei": 0.214, "buren_honger": 0.897, "ev": 0.742, "aelthir": 0.594, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0054, seed 420054)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0055
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420055
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 30
+- **scores:** {"fasen": 15, "onopgelost": 10, "uitvindingen": [["TK-lichtnet", 1041], ["TK-roestlak", 1061], ["TK-steenlens", 1121], ["TK-vrijladen", 1321], ["TK-sporennet", 1361], ["TK-echonet", 1741], ["TK-sporendruk", 2041], ["TK-kweekakker", 2701], ["TK-heelkweek", 2821], ["TK-spiermolen", 3181], ["TK-lakijzer", 3241], ["TK-lichtcel", 3501], ["TK-kluisherstel", 3581], ["TK-vleesmetaal", 3621], ["TK-sporenkern", 4921]], "uit_nood": 8, "magie_min": 0.146, "magie_eind": 0.172, "golven": 4, "techniek_eind": 1, "werkplaatsen_vanaf": 3401, "heersers": 5, "wetten": 18, "rustige_jaren": 2060, "macht_eind": {"staat": 0.173, "huizen": 0.075, "kerk": 0.005, "steden": 0.368, "dragers": 0.16, "buren": 0.198, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.155, "buren_honger": 1.375, "ev": 1.045, "aelthir": 0.659, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0055, seed 420055)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0056
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420056
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 10, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 1001], ["TK-laadwerkplaats", 2141], ["TK-kluisherstel", 3081], ["TK-vleesmetaal", 3781], ["TK-kweekakker", 4861]], "uit_nood": 1, "magie_min": 0.358, "magie_eind": 0.47, "golven": 6, "techniek_eind": 0.489, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 2120, "macht_eind": {"staat": 0.24, "huizen": 0.088, "kerk": 0.062, "steden": 0.065, "dragers": 0.274, "buren": 0.25, "orrim": 0.009, "volk": 0.012}, "parameters": {"groei": 0.212, "buren_honger": 1.287, "ev": 0.784, "aelthir": 0.456, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0056, seed 420056)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0057
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420057
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 17, "onopgelost": 5, "uitvindingen": [["TK-lichtnet", 901], ["TK-roestlak", 1281], ["TK-kweekakker", 2161], ["TK-spiermolen", 2201], ["TK-vrijladen", 2541], ["TK-lakijzer", 2741], ["TK-heelkweek", 3241], ["TK-steenlens", 3541], ["TK-lichtcel", 3561], ["TK-kluisherstel", 3861], ["TK-vleesmetaal", 4161]], "uit_nood": 4, "magie_min": 0.273, "magie_eind": 0.273, "golven": 15, "techniek_eind": 1, "werkplaatsen_vanaf": 3561, "heersers": 4, "wetten": 19, "rustige_jaren": 2180, "macht_eind": {"staat": 0.222, "huizen": 0.081, "kerk": 0.005, "steden": 0.275, "dragers": 0.229, "buren": 0.142, "orrim": 0.032, "volk": 0.013}, "parameters": {"groei": 0.159, "buren_honger": 0.914, "ev": 1.112, "aelthir": 0.261, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0057, seed 420057)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0058
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420058
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 14, "onopgelost": 4, "uitvindingen": [["TK-roestlak", 1481], ["TK-kweekakker", 2321], ["TK-heelkweek", 2701], ["TK-lakijzer", 3001], ["TK-lichtnet", 3041], ["TK-kluisherstel", 3201], ["TK-sporennet", 3321], ["TK-sporenkern", 3421], ["TK-sporendruk", 3541], ["TK-steenlens", 3781], ["TK-lichtcel", 4061], ["TK-vleesmetaal", 4281]], "uit_nood": 4, "magie_min": 0.128, "magie_eind": 0.128, "golven": 12, "techniek_eind": 1, "werkplaatsen_vanaf": 3281, "heersers": 5, "wetten": 19, "rustige_jaren": 2600, "macht_eind": {"staat": 0.238, "huizen": 0.05, "kerk": 0.004, "steden": 0.363, "dragers": 0.146, "buren": 0.181, "orrim": 0.007, "volk": 0.01}, "parameters": {"groei": 0.127, "buren_honger": 1.082, "ev": 0.742, "aelthir": 0.339, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0058, seed 420058)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0059
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420059
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 6, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1141], ["TK-echonet", 1281], ["TK-kluisherstel", 2921], ["TK-lichtnet", 3081], ["TK-vleesmetaal", 3781], ["TK-gaveglas", 4081]], "uit_nood": 1, "magie_min": 0.349, "magie_eind": 0.349, "golven": 13, "techniek_eind": 0.431, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 15, "rustige_jaren": 2840, "macht_eind": {"staat": 0.314, "huizen": 0.075, "kerk": 0.086, "steden": 0.059, "dragers": 0.357, "buren": 0.051, "orrim": 0.04, "volk": 0.019}, "parameters": {"groei": 0.131, "buren_honger": 0.508, "ev": 1.268, "aelthir": 0.68, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0059, seed 420059)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0060
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420060
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 15, "onopgelost": 10, "uitvindingen": [["TK-roestlak", 1061], ["TK-kluisherstel", 1081], ["TK-kweekakker", 1721], ["TK-spiermolen", 2021], ["TK-lakijzer", 2241], ["TK-vrijladen", 2301], ["TK-sporennet", 2801], ["TK-heelkweek", 2841], ["TK-sporendruk", 2861], ["TK-lichtnet", 3301], ["TK-steenlens", 3361], ["TK-sporenkern", 4521]], "uit_nood": 7, "magie_min": 0.128, "magie_eind": 0.128, "golven": 8, "techniek_eind": 1, "werkplaatsen_vanaf": 3161, "heersers": 5, "wetten": 16, "rustige_jaren": 2260, "macht_eind": {"staat": 0.182, "huizen": 0.051, "kerk": 0.004, "steden": 0.38, "dragers": 0.147, "buren": 0.216, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.16, "buren_honger": 1.461, "ev": 0.802, "aelthir": 0.466, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0060, seed 420060)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0061
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420061
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 9, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1381], ["TK-lichtnet", 3161], ["TK-steenlens", 3261], ["TK-kluisherstel", 4221], ["TK-kweekakker", 4341], ["TK-lichtcel", 4641], ["TK-heelkweek", 4661]], "uit_nood": 2, "magie_min": 0.347, "magie_eind": 0.347, "golven": 8, "techniek_eind": 0.613, "werkplaatsen_vanaf": 4881, "heersers": 4, "wetten": 16, "rustige_jaren": 1940, "macht_eind": {"staat": 0.246, "huizen": 0.091, "kerk": 0.032, "steden": 0.089, "dragers": 0.218, "buren": 0.272, "orrim": 0.036, "volk": 0.015}, "parameters": {"groei": 0.136, "buren_honger": 1.36, "ev": 0.947, "aelthir": 0.386, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0061, seed 420061)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0062
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420062
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 14, "onopgelost": 6, "uitvindingen": [["TK-kluisherstel", 881], ["TK-vrijladen", 1661], ["TK-kweekakker", 2061], ["TK-heelkweek", 2261], ["TK-roestlak", 2661], ["TK-lichtnet", 3761], ["TK-vleesmetaal", 3861], ["TK-sporenkern", 4081], ["TK-gaveglas", 4301], ["TK-steenlens", 4341]], "uit_nood": 5, "magie_min": 0.337, "magie_eind": 0.337, "golven": 9, "techniek_eind": 0.861, "werkplaatsen_vanaf": 4081, "heersers": 3, "wetten": 19, "rustige_jaren": 2600, "macht_eind": {"staat": 0.248, "huizen": 0.096, "kerk": 0.005, "steden": 0.215, "dragers": 0.235, "buren": 0.176, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.219, "buren_honger": 0.973, "ev": 1.12, "aelthir": 0.465, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0062, seed 420062)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0063
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420063
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 14, "onopgelost": 10, "uitvindingen": [["TK-roestlak", 1041], ["TK-vrijladen", 1281], ["TK-lakijzer", 2401], ["TK-kluisherstel", 3001], ["TK-kweekakker", 3401], ["TK-heelkweek", 3581], ["TK-laadwerkplaats", 3661], ["TK-vleesmetaal", 4261], ["TK-lichtnet", 4441], ["TK-steenlens", 4601]], "uit_nood": 5, "magie_min": 0.331, "magie_eind": 0.331, "golven": 11, "techniek_eind": 0.845, "werkplaatsen_vanaf": 3901, "heersers": 7, "wetten": 17, "rustige_jaren": 2480, "macht_eind": {"staat": 0.214, "huizen": 0.051, "kerk": 0.004, "steden": 0.17, "dragers": 0.325, "buren": 0.215, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.214, "buren_honger": 1.352, "ev": 1.053, "aelthir": 0.733, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0063, seed 420063)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0064
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420064
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 13, "onopgelost": 8, "uitvindingen": [["TK-roestlak", 1461], ["TK-kweekakker", 1741], ["TK-vrijladen", 1861], ["TK-heelkweek", 2021], ["TK-spiermolen", 2041], ["TK-lakijzer", 2181], ["TK-kluisherstel", 3261], ["TK-lichtnet", 3501], ["TK-vleesmetaal", 3821], ["TK-steenlens", 3841], ["TK-lichtcel", 3861], ["TK-gaveglas", 4121]], "uit_nood": 7, "magie_min": 0.296, "magie_eind": 0.296, "golven": 13, "techniek_eind": 0.92, "werkplaatsen_vanaf": 3841, "heersers": 3, "wetten": 18, "rustige_jaren": 2360, "macht_eind": {"staat": 0.308, "huizen": 0.096, "kerk": 0.005, "steden": 0.262, "dragers": 0.246, "buren": 0.057, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.136, "buren_honger": 0.629, "ev": 1.15, "aelthir": 0.726, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0064, seed 420064)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0065
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420065
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 7, "onopgelost": 2, "uitvindingen": [["TK-kweekakker", 1481], ["TK-spiermolen", 1901], ["TK-vrijladen", 2081], ["TK-roestlak", 2661], ["TK-lichtnet", 3501], ["TK-kluisherstel", 3601], ["TK-lakijzer", 4181], ["TK-heelkweek", 4601], ["TK-sporenkern", 4761]], "uit_nood": 2, "magie_min": 0.356, "magie_eind": 0.41, "golven": 13, "techniek_eind": 0.634, "werkplaatsen_vanaf": 4761, "heersers": 3, "wetten": 15, "rustige_jaren": 3480, "macht_eind": {"staat": 0.268, "huizen": 0.11, "kerk": 0.051, "steden": 0.154, "dragers": 0.31, "buren": 0.078, "orrim": 0.011, "volk": 0.019}, "parameters": {"groei": 0.122, "buren_honger": 0.525, "ev": 0.854, "aelthir": 0.246, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0065, seed 420065)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0066
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420066
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 13, "onopgelost": 11, "uitvindingen": [["TK-lichtnet", 1021], ["TK-vrijladen", 1361], ["TK-roestlak", 1601], ["TK-steenlens", 1701], ["TK-laadwerkplaats", 1861], ["TK-kweekakker", 3421], ["TK-lichtcel", 3441], ["TK-spiermolen", 3481], ["TK-lakijzer", 3821], ["TK-kluisherstel", 4081], ["TK-gaveglas", 4221], ["TK-heelkweek", 4841]], "uit_nood": 8, "magie_min": 0.319, "magie_eind": 0.452, "golven": 11, "techniek_eind": 0.891, "werkplaatsen_vanaf": 3561, "heersers": 3, "wetten": 18, "rustige_jaren": 2280, "macht_eind": {"staat": 0.201, "huizen": 0.066, "kerk": 0.005, "steden": 0.235, "dragers": 0.271, "buren": 0.171, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.215, "buren_honger": 0.946, "ev": 0.988, "aelthir": 0.794, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0066, seed 420066)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0067
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420067
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 10, "onopgelost": 7, "uitvindingen": [["TK-lichtnet", 841], ["TK-kweekakker", 1201], ["TK-spiermolen", 1361], ["TK-roestlak", 1481], ["TK-vrijladen", 1521], ["TK-laadwerkplaats", 1581], ["TK-heelkweek", 2061], ["TK-echonet", 2121], ["TK-steenlens", 2401], ["TK-kluisherstel", 2781], ["TK-sporenkern", 3401], ["TK-lakijzer", 3621], ["TK-gaveglas", 3861], ["TK-vleesmetaal", 4341]], "uit_nood": 5, "magie_min": 0.327, "magie_eind": 0.524, "golven": 12, "techniek_eind": 0.839, "werkplaatsen_vanaf": 3401, "heersers": 2, "wetten": 18, "rustige_jaren": 2700, "macht_eind": {"staat": 0.251, "huizen": 0.083, "kerk": 0.005, "steden": 0.202, "dragers": 0.254, "buren": 0.184, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.172, "buren_honger": 1.053, "ev": 1.146, "aelthir": 0.221, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0067, seed 420067)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0068
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420068
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 21
+- **scores:** {"fasen": 12, "onopgelost": 9, "uitvindingen": [["TK-roestlak", 1221], ["TK-vrijladen", 2081], ["TK-kluisherstel", 2921], ["TK-kweekakker", 3261], ["TK-vleesmetaal", 3301], ["TK-lichtnet", 3501], ["TK-heelkweek", 4661], ["TK-sporenkern", 4701], ["TK-steenlens", 4741]], "uit_nood": 3, "magie_min": 0.29, "magie_eind": 0.29, "golven": 9, "techniek_eind": 0.975, "werkplaatsen_vanaf": 4161, "heersers": 5, "wetten": 17, "rustige_jaren": 2100, "macht_eind": {"staat": 0.255, "huizen": 0.058, "kerk": 0.005, "steden": 0.222, "dragers": 0.232, "buren": 0.205, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.191, "buren_honger": 1.073, "ev": 1.052, "aelthir": 0.751, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0068, seed 420068)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0069
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420069
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 15, "onopgelost": 5, "uitvindingen": [["TK-lichtnet", 1061], ["TK-roestlak", 1161], ["TK-steenlens", 1441], ["TK-vrijladen", 2201], ["TK-sporennet", 2241], ["TK-kweekakker", 2561], ["TK-spiermolen", 2681], ["TK-heelkweek", 2721], ["TK-sporendruk", 2981], ["TK-lakijzer", 3021], ["TK-kluisherstel", 3081], ["TK-sporenkern", 3241], ["TK-lichtcel", 3341], ["TK-vleesmetaal", 3681]], "uit_nood": 6, "magie_min": 0.128, "magie_eind": 0.128, "golven": 10, "techniek_eind": 1, "werkplaatsen_vanaf": 3041, "heersers": 3, "wetten": 20, "rustige_jaren": 2260, "macht_eind": {"staat": 0.2, "huizen": 0.051, "kerk": 0.004, "steden": 0.366, "dragers": 0.211, "buren": 0.127, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.133, "buren_honger": 0.933, "ev": 1.165, "aelthir": 0.773, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0069, seed 420069)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0070
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420070
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 14, "onopgelost": 5, "uitvindingen": [["TK-roestlak", 1081], ["TK-kweekakker", 2021], ["TK-spiermolen", 2081], ["TK-heelkweek", 2241], ["TK-lakijzer", 2361], ["TK-vrijladen", 2381], ["TK-lichtnet", 3081], ["TK-kluisherstel", 3201], ["TK-sporennet", 3661], ["TK-sporendruk", 3681], ["TK-steenlens", 3701]], "uit_nood": 7, "magie_min": 0.207, "magie_eind": 0.252, "golven": 12, "techniek_eind": 1, "werkplaatsen_vanaf": 3201, "heersers": 3, "wetten": 18, "rustige_jaren": 2860, "macht_eind": {"staat": 0.281, "huizen": 0.057, "kerk": 0.005, "steden": 0.333, "dragers": 0.212, "buren": 0.095, "orrim": 0.008, "volk": 0.01}, "parameters": {"groei": 0.196, "buren_honger": 0.757, "ev": 0.919, "aelthir": 0.499, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0070, seed 420070)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0071
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420071
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 5, "onopgelost": 4, "uitvindingen": [["TK-roestlak", 1481], ["TK-kweekakker", 2141], ["TK-heelkweek", 2221], ["TK-vrijladen", 3441], ["TK-kluisherstel", 3601], ["TK-lakijzer", 4041], ["TK-vleesmetaal", 4581], ["TK-echonet", 4921]], "uit_nood": 4, "magie_min": 0.353, "magie_eind": 0.402, "golven": 15, "techniek_eind": 0.511, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 13, "rustige_jaren": 3560, "macht_eind": {"staat": 0.296, "huizen": 0.077, "kerk": 0.053, "steden": 0.115, "dragers": 0.279, "buren": 0.149, "orrim": 0.011, "volk": 0.02}, "parameters": {"groei": 0.121, "buren_honger": 0.831, "ev": 0.816, "aelthir": 0.631, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0071, seed 420071)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0072
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420072
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 30
+- **scores:** {"fasen": 17, "onopgelost": 8, "uitvindingen": [["TK-roestlak", 1041], ["TK-lakijzer", 1901], ["TK-kweekakker", 2341], ["TK-heelkweek", 2681], ["TK-spiermolen", 2861], ["TK-sporennet", 3381], ["TK-sporendruk", 3401], ["TK-kluisherstel", 3681], ["TK-lichtnet", 3721], ["TK-steenlens", 3901], ["TK-vleesmetaal", 4001], ["TK-lichtcel", 4601], ["TK-sporenkern", 4801]], "uit_nood": 6, "magie_min": 0.135, "magie_eind": 0.135, "golven": 9, "techniek_eind": 1, "werkplaatsen_vanaf": 3161, "heersers": 6, "wetten": 17, "rustige_jaren": 2160, "macht_eind": {"staat": 0.167, "huizen": 0.055, "kerk": 0.005, "steden": 0.392, "dragers": 0.183, "buren": 0.176, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.197, "buren_honger": 1.303, "ev": 0.737, "aelthir": 0.216, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0072, seed 420072)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0073
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420073
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 9, "onopgelost": 8, "uitvindingen": [["TK-roestlak", 1721], ["TK-lakijzer", 2701], ["TK-kluisherstel", 3401], ["TK-kweekakker", 3721], ["TK-vleesmetaal", 4341], ["TK-sporenkern", 4561], ["TK-heelkweek", 4721], ["TK-vrijladen", 4801]], "uit_nood": 3, "magie_min": 0.356, "magie_eind": 0.362, "golven": 9, "techniek_eind": 0.657, "werkplaatsen_vanaf": 4561, "heersers": 4, "wetten": 16, "rustige_jaren": 2160, "macht_eind": {"staat": 0.216, "huizen": 0.058, "kerk": 0.046, "steden": 0.128, "dragers": 0.276, "buren": 0.232, "orrim": 0.033, "volk": 0.012}, "parameters": {"groei": 0.168, "buren_honger": 1.286, "ev": 0.953, "aelthir": 0.725, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0073, seed 420073)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0074
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420074
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 12, "onopgelost": 14, "uitvindingen": [["TK-vrijladen", 1201], ["TK-laadwerkplaats", 1581], ["TK-kluisherstel", 3961], ["TK-vleesmetaal", 4461]], "uit_nood": 1, "magie_min": 0.35, "magie_eind": 0.362, "golven": 14, "techniek_eind": 0.457, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 15, "rustige_jaren": 1140, "macht_eind": {"staat": 0.172, "huizen": 0.08, "kerk": 0.041, "steden": 0.048, "dragers": 0.439, "buren": 0.177, "orrim": 0.032, "volk": 0.011}, "parameters": {"groei": 0.211, "buren_honger": 1.15, "ev": 1.202, "aelthir": 0.559, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0074, seed 420074)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0075
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420075
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 5, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 881], ["TK-echonet", 1241], ["TK-kluisherstel", 3061], ["TK-vleesmetaal", 3641]], "uit_nood": 1, "magie_min": 0.362, "magie_eind": 0.364, "golven": 14, "techniek_eind": 0.471, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 12, "rustige_jaren": 1240, "macht_eind": {"staat": 0.302, "huizen": 0.071, "kerk": 0.073, "steden": 0.083, "dragers": 0.346, "buren": 0.097, "orrim": 0.01, "volk": 0.017}, "parameters": {"groei": 0.199, "buren_honger": 0.701, "ev": 1.007, "aelthir": 0.307, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0075, seed 420075)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0076
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420076
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 17, "onopgelost": 10, "uitvindingen": [["TK-vrijladen", 961], ["TK-lichtnet", 981], ["TK-kluisherstel", 1081], ["TK-roestlak", 1401], ["TK-steenlens", 2081], ["TK-lakijzer", 2221], ["TK-kweekakker", 2481], ["TK-heelkweek", 3021], ["TK-sporennet", 3121], ["TK-sporendruk", 3301], ["TK-sporenkern", 3621], ["TK-vleesmetaal", 4061]], "uit_nood": 7, "magie_min": 0.155, "magie_eind": 0.155, "golven": 13, "techniek_eind": 1, "werkplaatsen_vanaf": 3461, "heersers": 7, "wetten": 18, "rustige_jaren": 1660, "macht_eind": {"staat": 0.13, "huizen": 0.05, "kerk": 0.004, "steden": 0.321, "dragers": 0.37, "buren": 0.105, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.183, "buren_honger": 0.946, "ev": 1.015, "aelthir": 0.648, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0076, seed 420076)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0077
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420077
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 8, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 1061], ["TK-roestlak", 1301], ["TK-vrijladen", 1601], ["TK-steenlens", 1621], ["TK-laadwerkplaats", 1661], ["TK-kweekakker", 2221], ["TK-gaveglas", 2301], ["TK-heelkweek", 2481], ["TK-lakijzer", 2541], ["TK-echonet", 2701], ["TK-kluisherstel", 2881], ["TK-vleesmetaal", 2921], ["TK-lichtcel", 3341], ["TK-spiermolen", 3381], ["TK-sporenkern", 3961]], "uit_nood": 6, "magie_min": 0.332, "magie_eind": 0.375, "golven": 11, "techniek_eind": 0.943, "werkplaatsen_vanaf": 3381, "heersers": 2, "wetten": 15, "rustige_jaren": 3100, "macht_eind": {"staat": 0.296, "huizen": 0.1, "kerk": 0.006, "steden": 0.223, "dragers": 0.19, "buren": 0.156, "orrim": 0.009, "volk": 0.02}, "parameters": {"groei": 0.212, "buren_honger": 0.87, "ev": 0.863, "aelthir": 0.329, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0077, seed 420077)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0078
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420078
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 9, "onopgelost": 9, "uitvindingen": [["TK-roestlak", 1161], ["TK-kweekakker", 2741], ["TK-spiermolen", 2761], ["TK-heelkweek", 2921], ["TK-lakijzer", 3221], ["TK-kluisherstel", 4681], ["TK-vleesmetaal", 4701], ["TK-vrijladen", 4781]], "uit_nood": 4, "magie_min": 0.361, "magie_eind": 0.372, "golven": 9, "techniek_eind": 0.563, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 14, "rustige_jaren": 1420, "macht_eind": {"staat": 0.24, "huizen": 0.055, "kerk": 0.051, "steden": 0.101, "dragers": 0.309, "buren": 0.221, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.206, "buren_honger": 1.181, "ev": 1.196, "aelthir": 0.673, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0078, seed 420078)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0079
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420079
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 3, "onopgelost": 3, "uitvindingen": [["TK-roestlak", 1241], ["TK-vrijladen", 1881], ["TK-kweekakker", 2141], ["TK-heelkweek", 2781], ["TK-lichtnet", 3141], ["TK-steenlens", 3161], ["TK-kluisherstel", 3281], ["TK-lakijzer", 3661], ["TK-echonet", 4241], ["TK-lichtcel", 4921]], "uit_nood": 2, "magie_min": 0.348, "magie_eind": 0.473, "golven": 9, "techniek_eind": 0.59, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 13, "rustige_jaren": 3800, "macht_eind": {"staat": 0.387, "huizen": 0.125, "kerk": 0.062, "steden": 0.112, "dragers": 0.18, "buren": 0.099, "orrim": 0.012, "volk": 0.023}, "parameters": {"groei": 0.124, "buren_honger": 0.668, "ev": 0.703, "aelthir": 0.62, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0079, seed 420079)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0080
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420080
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 14, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1521], ["TK-kweekakker", 1921], ["TK-spiermolen", 1961], ["TK-roestlak", 2041], ["TK-echonet", 2061], ["TK-laadwerkplaats", 2201], ["TK-heelkweek", 3241], ["TK-lakijzer", 3861], ["TK-lichtnet", 3921], ["TK-kluisherstel", 4021], ["TK-steenlens", 4041], ["TK-lichtcel", 4101]], "uit_nood": 6, "magie_min": 0.254, "magie_eind": 0.254, "golven": 11, "techniek_eind": 0.979, "werkplaatsen_vanaf": 4021, "heersers": 5, "wetten": 20, "rustige_jaren": 2500, "macht_eind": {"staat": 0.209, "huizen": 0.052, "kerk": 0.004, "steden": 0.238, "dragers": 0.284, "buren": 0.172, "orrim": 0.03, "volk": 0.011}, "parameters": {"groei": 0.173, "buren_honger": 1.194, "ev": 1.076, "aelthir": 0.49, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0080, seed 420080)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0081
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420081
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 21
+- **scores:** {"fasen": 10, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 921], ["TK-steenlens", 1181], ["TK-roestlak", 1321], ["TK-vrijladen", 2321], ["TK-lichtcel", 3041], ["TK-lakijzer", 3221], ["TK-kweekakker", 3341], ["TK-spiermolen", 3361], ["TK-heelkweek", 3701], ["TK-kluisherstel", 3821], ["TK-sporenkern", 4641]], "uit_nood": 8, "magie_min": 0.311, "magie_eind": 0.311, "golven": 9, "techniek_eind": 0.949, "werkplaatsen_vanaf": 3721, "heersers": 2, "wetten": 17, "rustige_jaren": 2680, "macht_eind": {"staat": 0.275, "huizen": 0.068, "kerk": 0.006, "steden": 0.24, "dragers": 0.273, "buren": 0.112, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.138, "buren_honger": 0.788, "ev": 0.984, "aelthir": 0.636, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0081, seed 420081)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0082
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420082
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 8, "onopgelost": 13, "uitvindingen": [["TK-vrijladen", 1561], ["TK-lichtnet", 3241], ["TK-kluisherstel", 3261], ["TK-echonet", 4281], ["TK-vleesmetaal", 4321]], "uit_nood": 0, "magie_min": 0.349, "magie_eind": 0.349, "golven": 19, "techniek_eind": 0.398, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 1580, "macht_eind": {"staat": 0.254, "huizen": 0.062, "kerk": 0.093, "steden": 0.035, "dragers": 0.469, "buren": 0.061, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.181, "buren_honger": 0.643, "ev": 1.162, "aelthir": 0.582, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0082, seed 420082)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0083
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420083
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 17, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1061], ["TK-laadwerkplaats", 1241], ["TK-echonet", 1461], ["TK-kweekakker", 1861], ["TK-roestlak", 2141], ["TK-heelkweek", 2201], ["TK-spiermolen", 3381], ["TK-lakijzer", 4101], ["TK-kluisherstel", 4301], ["TK-sporennet", 4401], ["TK-sporendruk", 4441], ["TK-vleesmetaal", 4941]], "uit_nood": 7, "magie_min": 0.28, "magie_eind": 0.394, "golven": 11, "techniek_eind": 0.966, "werkplaatsen_vanaf": 3541, "heersers": 6, "wetten": 20, "rustige_jaren": 2320, "macht_eind": {"staat": 0.173, "huizen": 0.051, "kerk": 0.004, "steden": 0.243, "dragers": 0.284, "buren": 0.223, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.199, "buren_honger": 1.415, "ev": 1.195, "aelthir": 0.659, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0083, seed 420083)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0084
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420084
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 6
+- **scores:** {"fasen": 3, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1521], ["TK-lichtnet", 3261], ["TK-kluisherstel", 3721]], "uit_nood": 0, "magie_min": 0.347, "magie_eind": 0.347, "golven": 8, "techniek_eind": 0.428, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 12, "rustige_jaren": 2820, "macht_eind": {"staat": 0.329, "huizen": 0.08, "kerk": 0.086, "steden": 0.051, "dragers": 0.285, "buren": 0.138, "orrim": 0.011, "volk": 0.019}, "parameters": {"groei": 0.185, "buren_honger": 0.766, "ev": 0.709, "aelthir": 0.549, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0084, seed 420084)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0085
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420085
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 13, "onopgelost": 10, "uitvindingen": [["TK-lichtnet", 1061], ["TK-roestlak", 1261], ["TK-steenlens", 1841], ["TK-lakijzer", 1921], ["TK-vrijladen", 2201], ["TK-kweekakker", 2921], ["TK-spiermolen", 3201], ["TK-lichtcel", 3341], ["TK-heelkweek", 3761], ["TK-laadwerkplaats", 4141], ["TK-gaveglas", 4161], ["TK-kluisherstel", 4201], ["TK-vleesmetaal", 4841], ["TK-sporenkern", 4901]], "uit_nood": 8, "magie_min": 0.291, "magie_eind": 0.41, "golven": 14, "techniek_eind": 1, "werkplaatsen_vanaf": 3481, "heersers": 4, "wetten": 16, "rustige_jaren": 2320, "macht_eind": {"staat": 0.203, "huizen": 0.057, "kerk": 0.005, "steden": 0.253, "dragers": 0.309, "buren": 0.153, "orrim": 0.008, "volk": 0.012}, "parameters": {"groei": 0.208, "buren_honger": 1.101, "ev": 1.015, "aelthir": 0.775, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0085, seed 420085)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0086
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420086
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 31
+- **scores:** {"fasen": 16, "onopgelost": 7, "uitvindingen": [["TK-lichtnet", 821], ["TK-steenlens", 1021], ["TK-kluisherstel", 1041], ["TK-roestlak", 1221], ["TK-vleesmetaal", 1401], ["TK-vrijladen", 1441], ["TK-lakijzer", 1461], ["TK-laadwerkplaats", 1541], ["TK-lichtcel", 1581], ["TK-echonet", 1621], ["TK-sporennet", 2321], ["TK-sporendruk", 2381], ["TK-kweekakker", 2881], ["TK-spiermolen", 2981], ["TK-sporenkern", 3001]], "uit_nood": 7, "magie_min": 0.123, "magie_eind": 0.123, "golven": 7, "techniek_eind": 1, "werkplaatsen_vanaf": 2381, "heersers": 4, "wetten": 21, "rustige_jaren": 2400, "macht_eind": {"staat": 0.15, "huizen": 0.06, "kerk": 0.005, "steden": 0.559, "dragers": 0.07, "buren": 0.131, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.207, "buren_honger": 0.864, "ev": 1.207, "aelthir": 0.448, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0086, seed 420086)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0087
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420087
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 16, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 921], ["TK-sporennet", 981], ["TK-roestlak", 1181], ["TK-vrijladen", 1361], ["TK-lakijzer", 1441], ["TK-steenlens", 1661], ["TK-kweekakker", 1881], ["TK-sporendruk", 2601], ["TK-heelkweek", 2641], ["TK-kluisherstel", 2821], ["TK-lichtcel", 3601], ["TK-vleesmetaal", 4081]], "uit_nood": 4, "magie_min": 0.127, "magie_eind": 0.127, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 2841, "heersers": 3, "wetten": 19, "rustige_jaren": 2460, "macht_eind": {"staat": 0.26, "huizen": 0.053, "kerk": 0.005, "steden": 0.404, "dragers": 0.108, "buren": 0.149, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.183, "buren_honger": 0.865, "ev": 1.29, "aelthir": 0.216, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0087, seed 420087)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0088
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420088
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 5, "onopgelost": 4, "uitvindingen": [["TK-roestlak", 1141], ["TK-kweekakker", 1761], ["TK-vrijladen", 2281], ["TK-kluisherstel", 4601], ["TK-lichtnet", 4801]], "uit_nood": 1, "magie_min": 0.348, "magie_eind": 0.41, "golven": 10, "techniek_eind": 0.455, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 13, "rustige_jaren": 2960, "macht_eind": {"staat": 0.309, "huizen": 0.129, "kerk": 0.066, "steden": 0.053, "dragers": 0.297, "buren": 0.119, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.177, "buren_honger": 0.763, "ev": 1.011, "aelthir": 0.263, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0088, seed 420088)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0089
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420089
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 11, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 821], ["TK-roestlak", 1981], ["TK-kluisherstel", 3421], ["TK-lichtnet", 3461], ["TK-lakijzer", 3541], ["TK-kweekakker", 3561], ["TK-spiermolen", 3581], ["TK-vleesmetaal", 3741], ["TK-sporenkern", 3901], ["TK-heelkweek", 4001], ["TK-steenlens", 4261], ["TK-sporennet", 4581], ["TK-sporendruk", 4681]], "uit_nood": 5, "magie_min": 0.25, "magie_eind": 0.25, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 3901, "heersers": 5, "wetten": 18, "rustige_jaren": 2840, "macht_eind": {"staat": 0.241, "huizen": 0.058, "kerk": 0.005, "steden": 0.242, "dragers": 0.29, "buren": 0.142, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.138, "buren_honger": 1.007, "ev": 1.246, "aelthir": 0.512, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0089, seed 420089)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0090
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420090
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 12, "onopgelost": 5, "uitvindingen": [["TK-lichtnet", 921], ["TK-roestlak", 1281], ["TK-kweekakker", 1721], ["TK-heelkweek", 2061], ["TK-lakijzer", 2501], ["TK-steenlens", 2621], ["TK-spiermolen", 2721], ["TK-kluisherstel", 3601], ["TK-lichtcel", 3861], ["TK-sporenkern", 4501], ["TK-vleesmetaal", 4901]], "uit_nood": 4, "magie_min": 0.217, "magie_eind": 0.217, "golven": 9, "techniek_eind": 1, "werkplaatsen_vanaf": 3441, "heersers": 3, "wetten": 19, "rustige_jaren": 3000, "macht_eind": {"staat": 0.223, "huizen": 0.061, "kerk": 0.005, "steden": 0.319, "dragers": 0.21, "buren": 0.157, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.133, "buren_honger": 0.94, "ev": 0.856, "aelthir": 0.365, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0090, seed 420090)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0091
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420091
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 6, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1801], ["TK-kluisherstel", 3321], ["TK-vleesmetaal", 4521], ["TK-lichtnet", 4621]], "uit_nood": 1, "magie_min": 0.346, "magie_eind": 0.346, "golven": 14, "techniek_eind": 0.422, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 14, "rustige_jaren": 2900, "macht_eind": {"staat": 0.295, "huizen": 0.096, "kerk": 0.076, "steden": 0.042, "dragers": 0.347, "buren": 0.089, "orrim": 0.039, "volk": 0.017}, "parameters": {"groei": 0.2, "buren_honger": 0.61, "ev": 1.167, "aelthir": 0.795, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0091, seed 420091)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0092
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420092
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 4, "onopgelost": 6, "uitvindingen": [["TK-kweekakker", 1681], ["TK-roestlak", 1801], ["TK-heelkweek", 1921], ["TK-vrijladen", 2801], ["TK-lakijzer", 3641], ["TK-kluisherstel", 4001]], "uit_nood": 2, "magie_min": 0.351, "magie_eind": 0.557, "golven": 12, "techniek_eind": 0.508, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 1540, "macht_eind": {"staat": 0.343, "huizen": 0.119, "kerk": 0.053, "steden": 0.112, "dragers": 0.22, "buren": 0.119, "orrim": 0.012, "volk": 0.022}, "parameters": {"groei": 0.215, "buren_honger": 0.714, "ev": 0.715, "aelthir": 0.405, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0092, seed 420092)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0093
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420093
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 7, "onopgelost": 12, "uitvindingen": [["TK-vrijladen", 1321], ["TK-echonet", 1641], ["TK-kluisherstel", 4201], ["TK-vleesmetaal", 4241], ["TK-lichtnet", 4281], ["TK-steenlens", 4881], ["TK-lichtcel", 4961]], "uit_nood": 2, "magie_min": 0.353, "magie_eind": 0.359, "golven": 13, "techniek_eind": 0.575, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 1660, "macht_eind": {"staat": 0.219, "huizen": 0.055, "kerk": 0.061, "steden": 0.059, "dragers": 0.301, "buren": 0.258, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.188, "buren_honger": 1.418, "ev": 1.176, "aelthir": 0.441, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0093, seed 420093)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0094
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420094
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 13, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1301], ["TK-laadwerkplaats", 1501], ["TK-roestlak", 1901], ["TK-lakijzer", 2241], ["TK-kweekakker", 2341], ["TK-heelkweek", 2441], ["TK-spiermolen", 2801], ["TK-lichtnet", 3521], ["TK-steenlens", 3601], ["TK-lichtcel", 3901], ["TK-kluisherstel", 4441]], "uit_nood": 4, "magie_min": 0.337, "magie_eind": 0.337, "golven": 17, "techniek_eind": 0.799, "werkplaatsen_vanaf": 4261, "heersers": 3, "wetten": 18, "rustige_jaren": 2380, "macht_eind": {"staat": 0.248, "huizen": 0.059, "kerk": 0.005, "steden": 0.147, "dragers": 0.33, "buren": 0.163, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.196, "buren_honger": 1.074, "ev": 1.208, "aelthir": 0.601, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0094, seed 420094)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0095
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420095
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 11, "onopgelost": 15, "uitvindingen": [["TK-vrijladen", 1281], ["TK-laadwerkplaats", 2181], ["TK-kluisherstel", 4541], ["TK-vleesmetaal", 4821]], "uit_nood": 2, "magie_min": 0.351, "magie_eind": 0.439, "golven": 13, "techniek_eind": 0.414, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 2280, "macht_eind": {"staat": 0.163, "huizen": 0.13, "kerk": 0.078, "steden": 0.034, "dragers": 0.449, "buren": 0.091, "orrim": 0.04, "volk": 0.016}, "parameters": {"groei": 0.217, "buren_honger": 0.728, "ev": 0.924, "aelthir": 0.738, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0095, seed 420095)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0096
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420096
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 7, "onopgelost": 6, "uitvindingen": [["TK-kluisherstel", 3021], ["TK-vleesmetaal", 3141], ["TK-vrijladen", 4801]], "uit_nood": 0, "magie_min": 0.359, "magie_eind": 0.541, "golven": 10, "techniek_eind": 0.452, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 15, "rustige_jaren": 2440, "macht_eind": {"staat": 0.228, "huizen": 0.08, "kerk": 0.082, "steden": 0.054, "dragers": 0.223, "buren": 0.287, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.169, "buren_honger": 1.475, "ev": 1.009, "aelthir": 0.662, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0096, seed 420096)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0097
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420097
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 6, "onopgelost": 11, "uitvindingen": [["TK-vrijladen", 2361], ["TK-echonet", 2561], ["TK-lichtnet", 4121]], "uit_nood": 1, "magie_min": 0.363, "magie_eind": 0.394, "golven": 14, "techniek_eind": 0.356, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 14, "rustige_jaren": 2760, "macht_eind": {"staat": 0.265, "huizen": 0.071, "kerk": 0.118, "steden": 0.029, "dragers": 0.394, "buren": 0.064, "orrim": 0.04, "volk": 0.019}, "parameters": {"groei": 0.131, "buren_honger": 0.658, "ev": 1.082, "aelthir": 0.796, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0097, seed 420097)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0098
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420098
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 10, "onopgelost": 11, "uitvindingen": [["TK-vrijladen", 841], ["TK-sporennet", 1041], ["TK-roestlak", 1361], ["TK-echonet", 1881], ["TK-laadwerkplaats", 1901], ["TK-lakijzer", 2881], ["TK-kweekakker", 2941], ["TK-lichtnet", 3241], ["TK-spiermolen", 3501], ["TK-steenlens", 3681], ["TK-heelkweek", 3881], ["TK-sporendruk", 4241], ["TK-kluisherstel", 4341], ["TK-lichtcel", 4601]], "uit_nood": 5, "magie_min": 0.321, "magie_eind": 0.36, "golven": 10, "techniek_eind": 0.956, "werkplaatsen_vanaf": 3681, "heersers": 2, "wetten": 15, "rustige_jaren": 2440, "macht_eind": {"staat": 0.253, "huizen": 0.057, "kerk": 0.005, "steden": 0.195, "dragers": 0.247, "buren": 0.196, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.179, "buren_honger": 1.093, "ev": 1.09, "aelthir": 0.688, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0098, seed 420098)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0099
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420099
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 8, "onopgelost": 4, "uitvindingen": [["TK-roestlak", 1941], ["TK-kweekakker", 1981], ["TK-heelkweek", 2041], ["TK-spiermolen", 2161], ["TK-vrijladen", 2221], ["TK-lakijzer", 2261], ["TK-kluisherstel", 4381], ["TK-vleesmetaal", 4401], ["TK-laadwerkplaats", 4481], ["TK-lichtnet", 4621]], "uit_nood": 2, "magie_min": 0.329, "magie_eind": 0.329, "golven": 8, "techniek_eind": 0.656, "werkplaatsen_vanaf": 4741, "heersers": 3, "wetten": 16, "rustige_jaren": 2300, "macht_eind": {"staat": 0.287, "huizen": 0.069, "kerk": 0.006, "steden": 0.151, "dragers": 0.286, "buren": 0.176, "orrim": 0.01, "volk": 0.015}, "parameters": {"groei": 0.151, "buren_honger": 0.902, "ev": 1.059, "aelthir": 0.552, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0099, seed 420099)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0100
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420100
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 6
+- **scores:** {"fasen": 4, "onopgelost": 11, "uitvindingen": [["TK-vrijladen", 3841], ["TK-lichtnet", 4201]], "uit_nood": 0, "magie_min": 0.349, "magie_eind": 0.349, "golven": 15, "techniek_eind": 0.371, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 13, "rustige_jaren": 1440, "macht_eind": {"staat": 0.25, "huizen": 0.067, "kerk": 0.089, "steden": 0.035, "dragers": 0.395, "buren": 0.107, "orrim": 0.039, "volk": 0.018}, "parameters": {"groei": 0.134, "buren_honger": 0.656, "ev": 1.055, "aelthir": 0.775, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0100, seed 420100)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0101
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420101
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 15, "onopgelost": 6, "uitvindingen": [["TK-roestlak", 1181], ["TK-kweekakker", 1681], ["TK-spiermolen", 1761], ["TK-lakijzer", 1841], ["TK-heelkweek", 3181], ["TK-lichtnet", 3721], ["TK-steenlens", 3761], ["TK-sporennet", 4301], ["TK-kluisherstel", 4321], ["TK-sporendruk", 4361], ["TK-sporenkern", 4941]], "uit_nood": 9, "magie_min": 0.24, "magie_eind": 0.281, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 3821, "heersers": 4, "wetten": 18, "rustige_jaren": 2440, "macht_eind": {"staat": 0.212, "huizen": 0.051, "kerk": 0.004, "steden": 0.251, "dragers": 0.219, "buren": 0.221, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.188, "buren_honger": 1.37, "ev": 1.256, "aelthir": 0.71, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0101, seed 420101)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0102
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420102
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 13, "onopgelost": 6, "uitvindingen": [["TK-roestlak", 1201], ["TK-vrijladen", 1441], ["TK-laadwerkplaats", 1681], ["TK-kweekakker", 1701], ["TK-spiermolen", 1741], ["TK-lichtnet", 3041], ["TK-kluisherstel", 3201], ["TK-heelkweek", 3521], ["TK-sporenkern", 3721], ["TK-steenlens", 3841], ["TK-lakijzer", 4301], ["TK-lichtcel", 4901]], "uit_nood": 7, "magie_min": 0.258, "magie_eind": 0.444, "golven": 8, "techniek_eind": 1, "werkplaatsen_vanaf": 3721, "heersers": 5, "wetten": 17, "rustige_jaren": 2680, "macht_eind": {"staat": 0.242, "huizen": 0.055, "kerk": 0.005, "steden": 0.274, "dragers": 0.215, "buren": 0.163, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.2, "buren_honger": 1.096, "ev": 0.75, "aelthir": 0.208, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0102, seed 420102)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0103
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420103
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 13, "onopgelost": 7, "uitvindingen": [["TK-sporennet", 901], ["TK-roestlak", 1221], ["TK-vrijladen", 2081], ["TK-kweekakker", 2221], ["TK-echonet", 2501], ["TK-sporendruk", 3321], ["TK-heelkweek", 3361], ["TK-lichtnet", 3721], ["TK-kluisherstel", 3901], ["TK-steenlens", 4261], ["TK-sporenkern", 4401]], "uit_nood": 4, "magie_min": 0.326, "magie_eind": 0.326, "golven": 14, "techniek_eind": 0.872, "werkplaatsen_vanaf": 4261, "heersers": 4, "wetten": 18, "rustige_jaren": 2580, "macht_eind": {"staat": 0.231, "huizen": 0.083, "kerk": 0.005, "steden": 0.219, "dragers": 0.265, "buren": 0.149, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.213, "buren_honger": 0.943, "ev": 1.166, "aelthir": 0.736, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0103, seed 420103)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0104
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420104
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 31
+- **scores:** {"fasen": 19, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 1041], ["TK-roestlak", 1201], ["TK-vrijladen", 1301], ["TK-steenlens", 1541], ["TK-lakijzer", 1601], ["TK-laadwerkplaats", 1941], ["TK-sporennet", 2881], ["TK-sporendruk", 2921], ["TK-kweekakker", 3521], ["TK-spiermolen", 3541], ["TK-heelkweek", 3561], ["TK-kluisherstel", 4881]], "uit_nood": 6, "magie_min": 0.128, "magie_eind": 0.128, "golven": 13, "techniek_eind": 1, "werkplaatsen_vanaf": 2701, "heersers": 6, "wetten": 19, "rustige_jaren": 1920, "macht_eind": {"staat": 0.173, "huizen": 0.046, "kerk": 0.004, "steden": 0.403, "dragers": 0.166, "buren": 0.189, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.192, "buren_honger": 1.334, "ev": 0.913, "aelthir": 0.662, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0104, seed 420104)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0105
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420105
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 7, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 1421], ["TK-kluisherstel", 3221], ["TK-vleesmetaal", 3241]], "uit_nood": 0, "magie_min": 0.362, "magie_eind": 0.363, "golven": 13, "techniek_eind": 0.419, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 15, "rustige_jaren": 2840, "macht_eind": {"staat": 0.268, "huizen": 0.063, "kerk": 0.094, "steden": 0.041, "dragers": 0.314, "buren": 0.169, "orrim": 0.036, "volk": 0.017}, "parameters": {"groei": 0.219, "buren_honger": 0.928, "ev": 1.053, "aelthir": 0.72, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0105, seed 420105)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0106
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420106
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 10, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 2221], ["TK-laadwerkplaats", 2261], ["TK-kluisherstel", 4001], ["TK-vleesmetaal", 4561], ["TK-echonet", 4781], ["TK-kweekakker", 4961], ["TK-heelkweek", 4981]], "uit_nood": 1, "magie_min": 0.362, "magie_eind": 0.362, "golven": 13, "techniek_eind": 0.508, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 15, "rustige_jaren": 2520, "macht_eind": {"staat": 0.184, "huizen": 0.067, "kerk": 0.036, "steden": 0.062, "dragers": 0.433, "buren": 0.201, "orrim": 0.007, "volk": 0.01}, "parameters": {"groei": 0.169, "buren_honger": 1.329, "ev": 1.231, "aelthir": 0.452, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0106, seed 420106)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0107
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420107
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 13, "onopgelost": 7, "uitvindingen": [["TK-roestlak", 1541], ["TK-vrijladen", 2221], ["TK-kweekakker", 2361], ["TK-spiermolen", 2401], ["TK-heelkweek", 2621], ["TK-lakijzer", 2941], ["TK-lichtnet", 4241], ["TK-kluisherstel", 4321], ["TK-steenlens", 4341], ["TK-sporenkern", 4401]], "uit_nood": 5, "magie_min": 0.355, "magie_eind": 0.54, "golven": 12, "techniek_eind": 0.796, "werkplaatsen_vanaf": 4401, "heersers": 4, "wetten": 18, "rustige_jaren": 2520, "macht_eind": {"staat": 0.247, "huizen": 0.071, "kerk": 0.006, "steden": 0.168, "dragers": 0.367, "buren": 0.084, "orrim": 0.041, "volk": 0.017}, "parameters": {"groei": 0.167, "buren_honger": 0.588, "ev": 1.254, "aelthir": 0.565, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0107, seed 420107)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0108
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420108
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 3, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 981], ["TK-roestlak", 1041], ["TK-steenlens", 1761], ["TK-lakijzer", 3381], ["TK-vrijladen", 3801], ["TK-kweekakker", 4881], ["TK-heelkweek", 4981], ["TK-kluisherstel", 5001]], "uit_nood": 2, "magie_min": 0.347, "magie_eind": 0.347, "golven": 11, "techniek_eind": 0.503, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 11, "rustige_jaren": 3040, "macht_eind": {"staat": 0.331, "huizen": 0.082, "kerk": 0.062, "steden": 0.098, "dragers": 0.215, "buren": 0.178, "orrim": 0.012, "volk": 0.022}, "parameters": {"groei": 0.124, "buren_honger": 0.843, "ev": 1.105, "aelthir": 0.696, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0108, seed 420108)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0109
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420109
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 8, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1741], ["TK-echonet", 2261], ["TK-laadwerkplaats", 2301], ["TK-kluisherstel", 4161], ["TK-lichtnet", 4381], ["TK-steenlens", 4481], ["TK-vleesmetaal", 4641]], "uit_nood": 1, "magie_min": 0.344, "magie_eind": 0.532, "golven": 15, "techniek_eind": 0.559, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 13, "rustige_jaren": 2400, "macht_eind": {"staat": 0.191, "huizen": 0.057, "kerk": 0.04, "steden": 0.078, "dragers": 0.431, "buren": 0.156, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.149, "buren_honger": 1.079, "ev": 0.924, "aelthir": 0.635, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0109, seed 420109)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0110
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420110
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 8, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 1061], ["TK-vrijladen", 1881], ["TK-kweekakker", 1961], ["TK-spiermolen", 1981], ["TK-gaveglas", 2261], ["TK-steenlens", 2801], ["TK-roestlak", 3741], ["TK-lakijzer", 4201]], "uit_nood": 4, "magie_min": 0.35, "magie_eind": 0.35, "golven": 11, "techniek_eind": 0.534, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 900, "macht_eind": {"staat": 0.203, "huizen": 0.097, "kerk": 0.049, "steden": 0.105, "dragers": 0.267, "buren": 0.225, "orrim": 0.037, "volk": 0.017}, "parameters": {"groei": 0.194, "buren_honger": 1.205, "ev": 0.75, "aelthir": 0.312, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0110, seed 420110)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0111
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420111
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 6, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1461], ["TK-laadwerkplaats", 1561], ["TK-roestlak", 1721], ["TK-echonet", 2341], ["TK-lichtnet", 2641], ["TK-kweekakker", 2781], ["TK-steenlens", 3321], ["TK-lichtcel", 3441], ["TK-kluisherstel", 3621], ["TK-heelkweek", 3641], ["TK-sporenkern", 3681], ["TK-lakijzer", 3921]], "uit_nood": 2, "magie_min": 0.333, "magie_eind": 0.481, "golven": 13, "techniek_eind": 0.875, "werkplaatsen_vanaf": 3681, "heersers": 3, "wetten": 14, "rustige_jaren": 3100, "macht_eind": {"staat": 0.291, "huizen": 0.061, "kerk": 0.005, "steden": 0.177, "dragers": 0.282, "buren": 0.159, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.128, "buren_honger": 0.918, "ev": 0.876, "aelthir": 0.524, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0111, seed 420111)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0112
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420112
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 30
+- **scores:** {"fasen": 16, "onopgelost": 7, "uitvindingen": [["TK-lichtnet", 1041], ["TK-roestlak", 1061], ["TK-kweekakker", 1741], ["TK-spiermolen", 1841], ["TK-lakijzer", 2561], ["TK-heelkweek", 2701], ["TK-vrijladen", 2761], ["TK-echonet", 2821], ["TK-steenlens", 2881], ["TK-gaveglas", 2901], ["TK-kluisherstel", 3661], ["TK-vleesmetaal", 3981], ["TK-lichtcel", 4081], ["TK-sporenkern", 4341]], "uit_nood": 7, "magie_min": 0.289, "magie_eind": 0.497, "golven": 12, "techniek_eind": 1, "werkplaatsen_vanaf": 3661, "heersers": 3, "wetten": 20, "rustige_jaren": 2580, "macht_eind": {"staat": 0.19, "huizen": 0.083, "kerk": 0.005, "steden": 0.244, "dragers": 0.238, "buren": 0.195, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.144, "buren_honger": 1.214, "ev": 1.015, "aelthir": 0.633, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0112, seed 420112)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0113
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420113
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 10, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 1041], ["TK-roestlak", 1441], ["TK-steenlens", 1661], ["TK-kweekakker", 2181], ["TK-vrijladen", 2501], ["TK-heelkweek", 2881], ["TK-lakijzer", 2921], ["TK-lichtcel", 3561], ["TK-spiermolen", 4441], ["TK-kluisherstel", 4521]], "uit_nood": 6, "magie_min": 0.343, "magie_eind": 0.344, "golven": 8, "techniek_eind": 0.838, "werkplaatsen_vanaf": 4181, "heersers": 2, "wetten": 17, "rustige_jaren": 2860, "macht_eind": {"staat": 0.313, "huizen": 0.076, "kerk": 0.007, "steden": 0.204, "dragers": 0.143, "buren": 0.226, "orrim": 0.011, "volk": 0.02}, "parameters": {"groei": 0.199, "buren_honger": 0.991, "ev": 0.76, "aelthir": 0.52, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0113, seed 420113)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0114
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420114
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 9, "onopgelost": 10, "uitvindingen": [["TK-lichtnet", 1041], ["TK-steenlens", 1661], ["TK-vrijladen", 1861], ["TK-kweekakker", 2121], ["TK-heelkweek", 2301], ["TK-laadwerkplaats", 2841], ["TK-spiermolen", 4181], ["TK-roestlak", 4681]], "uit_nood": 5, "magie_min": 0.354, "magie_eind": 0.438, "golven": 9, "techniek_eind": 0.58, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 1840, "macht_eind": {"staat": 0.215, "huizen": 0.088, "kerk": 0.05, "steden": 0.107, "dragers": 0.279, "buren": 0.21, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.143, "buren_honger": 1.181, "ev": 0.715, "aelthir": 0.306, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0114, seed 420114)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0115
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420115
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 10, "onopgelost": 7, "uitvindingen": [["TK-roestlak", 1281], ["TK-kweekakker", 2081], ["TK-heelkweek", 2601], ["TK-vrijladen", 3381], ["TK-lakijzer", 3401], ["TK-kluisherstel", 3881], ["TK-lichtnet", 4001]], "uit_nood": 3, "magie_min": 0.336, "magie_eind": 0.336, "golven": 12, "techniek_eind": 0.624, "werkplaatsen_vanaf": 5001, "heersers": 4, "wetten": 18, "rustige_jaren": 2580, "macht_eind": {"staat": 0.289, "huizen": 0.086, "kerk": 0.005, "steden": 0.173, "dragers": 0.227, "buren": 0.197, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.14, "buren_honger": 1.028, "ev": 1.226, "aelthir": 0.611, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0115, seed 420115)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0116
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420116
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 13, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 921], ["TK-laadwerkplaats", 961], ["TK-roestlak", 1101], ["TK-sporennet", 1461], ["TK-sporendruk", 1501], ["TK-kweekakker", 3121], ["TK-lichtnet", 3541], ["TK-steenlens", 3601], ["TK-heelkweek", 3641], ["TK-kluisherstel", 4181], ["TK-lichtcel", 4581]], "uit_nood": 7, "magie_min": 0.258, "magie_eind": 0.275, "golven": 12, "techniek_eind": 1, "werkplaatsen_vanaf": 3601, "heersers": 3, "wetten": 18, "rustige_jaren": 2380, "macht_eind": {"staat": 0.194, "huizen": 0.054, "kerk": 0.005, "steden": 0.269, "dragers": 0.223, "buren": 0.211, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.158, "buren_honger": 1.139, "ev": 0.848, "aelthir": 0.227, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0116, seed 420116)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0117
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420117
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 9, "onopgelost": 3, "uitvindingen": [["TK-lichtnet", 901], ["TK-roestlak", 1261], ["TK-vrijladen", 1341], ["TK-kweekakker", 1881], ["TK-steenlens", 1981], ["TK-lakijzer", 2161], ["TK-spiermolen", 2181], ["TK-heelkweek", 2981], ["TK-lichtcel", 3341], ["TK-kluisherstel", 3681], ["TK-vleesmetaal", 3821]], "uit_nood": 3, "magie_min": 0.271, "magie_eind": 0.344, "golven": 8, "techniek_eind": 1, "werkplaatsen_vanaf": 3341, "heersers": 2, "wetten": 16, "rustige_jaren": 3160, "macht_eind": {"staat": 0.242, "huizen": 0.065, "kerk": 0.006, "steden": 0.28, "dragers": 0.159, "buren": 0.221, "orrim": 0.009, "volk": 0.02}, "parameters": {"groei": 0.151, "buren_honger": 1.058, "ev": 0.793, "aelthir": 0.59, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0117, seed 420117)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0118
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420118
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 15, "onopgelost": 10, "uitvindingen": [["TK-roestlak", 2321], ["TK-kweekakker", 2601], ["TK-lakijzer", 2641], ["TK-vrijladen", 2761], ["TK-heelkweek", 2821], ["TK-spiermolen", 3101], ["TK-lichtnet", 3921], ["TK-echonet", 3941], ["TK-steenlens", 4181], ["TK-kluisherstel", 4201], ["TK-vleesmetaal", 4681]], "uit_nood": 4, "magie_min": 0.276, "magie_eind": 0.276, "golven": 11, "techniek_eind": 0.988, "werkplaatsen_vanaf": 3721, "heersers": 5, "wetten": 18, "rustige_jaren": 2240, "macht_eind": {"staat": 0.245, "huizen": 0.112, "kerk": 0.005, "steden": 0.277, "dragers": 0.226, "buren": 0.108, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.126, "buren_honger": 0.816, "ev": 1.058, "aelthir": 0.427, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0118, seed 420118)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0119
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420119
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 14, "onopgelost": 6, "uitvindingen": [["TK-roestlak", 1261], ["TK-vrijladen", 1461], ["TK-laadwerkplaats", 1501], ["TK-lakijzer", 2561], ["TK-kweekakker", 3101], ["TK-heelkweek", 3181], ["TK-kluisherstel", 3281], ["TK-lichtnet", 3401], ["TK-vleesmetaal", 3421], ["TK-steenlens", 3441], ["TK-sporennet", 3481], ["TK-spiermolen", 3681], ["TK-sporendruk", 3821], ["TK-lichtcel", 3841], ["TK-sporenkern", 4401]], "uit_nood": 6, "magie_min": 0.174, "magie_eind": 0.174, "golven": 9, "techniek_eind": 1, "werkplaatsen_vanaf": 3501, "heersers": 5, "wetten": 18, "rustige_jaren": 2600, "macht_eind": {"staat": 0.226, "huizen": 0.057, "kerk": 0.005, "steden": 0.319, "dragers": 0.181, "buren": 0.164, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.129, "buren_honger": 1.127, "ev": 0.914, "aelthir": 0.315, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0119, seed 420119)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0120
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420120
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 30
+- **scores:** {"fasen": 17, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1201], ["TK-echonet", 1341], ["TK-roestlak", 1801], ["TK-lakijzer", 2341], ["TK-kweekakker", 2841], ["TK-heelkweek", 2921], ["TK-kluisherstel", 3841], ["TK-lichtnet", 4041], ["TK-steenlens", 4221], ["TK-sporennet", 4301], ["TK-sporendruk", 4321], ["TK-vleesmetaal", 4681], ["TK-lichtcel", 4801]], "uit_nood": 7, "magie_min": 0.238, "magie_eind": 0.238, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 3921, "heersers": 5, "wetten": 18, "rustige_jaren": 1820, "macht_eind": {"staat": 0.196, "huizen": 0.056, "kerk": 0.005, "steden": 0.233, "dragers": 0.277, "buren": 0.21, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.154, "buren_honger": 1.388, "ev": 1.014, "aelthir": 0.663, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0120, seed 420120)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0121
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420121
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 9, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1261], ["TK-echonet", 3341], ["TK-lichtnet", 4101], ["TK-steenlens", 4301], ["TK-lichtcel", 4361], ["TK-kluisherstel", 4661], ["TK-vleesmetaal", 4681]], "uit_nood": 0, "magie_min": 0.347, "magie_eind": 0.347, "golven": 13, "techniek_eind": 0.554, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 13, "rustige_jaren": 2920, "macht_eind": {"staat": 0.192, "huizen": 0.079, "kerk": 0.065, "steden": 0.075, "dragers": 0.404, "buren": 0.119, "orrim": 0.045, "volk": 0.02}, "parameters": {"groei": 0.215, "buren_honger": 0.847, "ev": 1.07, "aelthir": 0.223, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0121, seed 420121)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0122
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420122
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 14, "onopgelost": 4, "uitvindingen": [["TK-roestlak", 1021], ["TK-kweekakker", 1661], ["TK-spiermolen", 1701], ["TK-heelkweek", 1721], ["TK-lakijzer", 1841], ["TK-sporennet", 2361], ["TK-sporendruk", 2981], ["TK-lichtnet", 4361]], "uit_nood": 7, "magie_min": 0.181, "magie_eind": 0.216, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 3221, "heersers": 3, "wetten": 16, "rustige_jaren": 2780, "macht_eind": {"staat": 0.107, "huizen": 0.064, "kerk": 0.006, "steden": 0.409, "dragers": 0.176, "buren": 0.213, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.174, "buren_honger": 1.069, "ev": 1.015, "aelthir": 0.362, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0122, seed 420122)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0123
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420123
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 12, "onopgelost": 3, "uitvindingen": [["TK-roestlak", 1221], ["TK-vrijladen", 1501], ["TK-kweekakker", 1621], ["TK-spiermolen", 1701], ["TK-echonet", 1721], ["TK-heelkweek", 2241], ["TK-kluisherstel", 2861], ["TK-lakijzer", 3061], ["TK-vleesmetaal", 3081], ["TK-lichtnet", 3181], ["TK-steenlens", 3421], ["TK-sporenkern", 3521], ["TK-sporennet", 3721], ["TK-sporendruk", 3801], ["TK-lichtcel", 4741]], "uit_nood": 5, "magie_min": 0.15, "magie_eind": 0.15, "golven": 6, "techniek_eind": 1, "werkplaatsen_vanaf": 3421, "heersers": 4, "wetten": 18, "rustige_jaren": 2980, "macht_eind": {"staat": 0.278, "huizen": 0.061, "kerk": 0.005, "steden": 0.363, "dragers": 0.149, "buren": 0.12, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.129, "buren_honger": 0.816, "ev": 0.759, "aelthir": 0.744, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0123, seed 420123)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0124
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420124
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 8, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 901], ["TK-lichtnet", 1041], ["TK-laadwerkplaats", 1441], ["TK-gaveglas", 1461], ["TK-roestlak", 1541], ["TK-steenlens", 1841], ["TK-lakijzer", 1981], ["TK-kweekakker", 2341], ["TK-heelkweek", 2361], ["TK-kluisherstel", 2981], ["TK-vleesmetaal", 3121], ["TK-sporenkern", 4641]], "uit_nood": 2, "magie_min": 0.349, "magie_eind": 0.405, "golven": 8, "techniek_eind": 0.841, "werkplaatsen_vanaf": 4341, "heersers": 1, "wetten": 16, "rustige_jaren": 2900, "macht_eind": {"staat": 0.319, "huizen": 0.085, "kerk": 0.007, "steden": 0.173, "dragers": 0.272, "buren": 0.116, "orrim": 0.011, "volk": 0.018}, "parameters": {"groei": 0.127, "buren_honger": 0.633, "ev": 0.744, "aelthir": 0.749, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0124, seed 420124)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0125
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420125
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 15, "onopgelost": 8, "uitvindingen": [["TK-roestlak", 1061], ["TK-kweekakker", 2221], ["TK-heelkweek", 2861], ["TK-spiermolen", 3121], ["TK-kluisherstel", 3381], ["TK-vleesmetaal", 3661], ["TK-lichtnet", 4421], ["TK-sporenkern", 4441], ["TK-steenlens", 4501], ["TK-sporennet", 4761]], "uit_nood": 6, "magie_min": 0.27, "magie_eind": 0.27, "golven": 9, "techniek_eind": 1, "werkplaatsen_vanaf": 3841, "heersers": 3, "wetten": 18, "rustige_jaren": 2260, "macht_eind": {"staat": 0.223, "huizen": 0.055, "kerk": 0.005, "steden": 0.232, "dragers": 0.21, "buren": 0.231, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.18, "buren_honger": 1.334, "ev": 0.724, "aelthir": 0.576, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0125, seed 420125)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0126
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420126
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 5, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 2661], ["TK-kluisherstel", 3581], ["TK-lichtnet", 4401]], "uit_nood": 0, "magie_min": 0.356, "magie_eind": 0.356, "golven": 10, "techniek_eind": 0.465, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 13, "rustige_jaren": 2820, "macht_eind": {"staat": 0.242, "huizen": 0.06, "kerk": 0.077, "steden": 0.062, "dragers": 0.323, "buren": 0.212, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.141, "buren_honger": 1.201, "ev": 0.778, "aelthir": 0.58, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0126, seed 420126)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0127
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420127
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 14, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1061], ["TK-laadwerkplaats", 1521], ["TK-kweekakker", 1841], ["TK-spiermolen", 1941], ["TK-roestlak", 2161], ["TK-echonet", 2821], ["TK-heelkweek", 2861], ["TK-lakijzer", 3681], ["TK-kluisherstel", 3981], ["TK-lichtnet", 4121], ["TK-sporenkern", 4161], ["TK-steenlens", 4281], ["TK-lichtcel", 4701]], "uit_nood": 6, "magie_min": 0.318, "magie_eind": 0.393, "golven": 12, "techniek_eind": 0.933, "werkplaatsen_vanaf": 4161, "heersers": 4, "wetten": 20, "rustige_jaren": 2040, "macht_eind": {"staat": 0.251, "huizen": 0.054, "kerk": 0.005, "steden": 0.194, "dragers": 0.339, "buren": 0.114, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.202, "buren_honger": 0.867, "ev": 1.273, "aelthir": 0.565, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0127, seed 420127)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0128
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420128
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 13, "onopgelost": 13, "uitvindingen": [["TK-sporennet", 1321], ["TK-vrijladen", 1341], ["TK-kweekakker", 1941], ["TK-spiermolen", 2761], ["TK-laadwerkplaats", 2861], ["TK-roestlak", 2901], ["TK-echonet", 3321], ["TK-lakijzer", 3921], ["TK-heelkweek", 4261], ["TK-lichtnet", 4461], ["TK-kluisherstel", 4921]], "uit_nood": 4, "magie_min": 0.338, "magie_eind": 0.556, "golven": 14, "techniek_eind": 0.626, "werkplaatsen_vanaf": 4921, "heersers": 5, "wetten": 16, "rustige_jaren": 1600, "macht_eind": {"staat": 0.133, "huizen": 0.06, "kerk": 0.029, "steden": 0.127, "dragers": 0.444, "buren": 0.157, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.211, "buren_honger": 1.195, "ev": 1.161, "aelthir": 0.781, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0128, seed 420128)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0129
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420129
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 6, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 2321], ["TK-lichtnet", 3021], ["TK-kluisherstel", 3321], ["TK-vleesmetaal", 3921]], "uit_nood": 0, "magie_min": 0.354, "magie_eind": 0.37, "golven": 10, "techniek_eind": 0.424, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 15, "rustige_jaren": 3320, "macht_eind": {"staat": 0.293, "huizen": 0.1, "kerk": 0.113, "steden": 0.044, "dragers": 0.29, "buren": 0.101, "orrim": 0.04, "volk": 0.018}, "parameters": {"groei": 0.173, "buren_honger": 0.632, "ev": 0.719, "aelthir": 0.454, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0129, seed 420129)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0130
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420130
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 14, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 941], ["TK-steenlens", 1081], ["TK-vrijladen", 1621], ["TK-roestlak", 1781], ["TK-kweekakker", 1861], ["TK-spiermolen", 2861], ["TK-heelkweek", 3361], ["TK-lichtcel", 3501], ["TK-kluisherstel", 3741], ["TK-sporenkern", 3961], ["TK-vleesmetaal", 4341]], "uit_nood": 6, "magie_min": 0.296, "magie_eind": 0.296, "golven": 16, "techniek_eind": 1, "werkplaatsen_vanaf": 3701, "heersers": 4, "wetten": 16, "rustige_jaren": 2560, "macht_eind": {"staat": 0.189, "huizen": 0.052, "kerk": 0.004, "steden": 0.187, "dragers": 0.313, "buren": 0.21, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.217, "buren_honger": 1.305, "ev": 1.165, "aelthir": 0.693, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0130, seed 420130)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0131
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420131
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 15, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 901], ["TK-laadwerkplaats", 1021], ["TK-roestlak", 1261], ["TK-echonet", 1621], ["TK-lakijzer", 2161], ["TK-kweekakker", 2761], ["TK-heelkweek", 3301], ["TK-spiermolen", 3501], ["TK-kluisherstel", 3521], ["TK-vleesmetaal", 3881], ["TK-sporenkern", 4481], ["TK-lichtnet", 4561]], "uit_nood": 4, "magie_min": 0.289, "magie_eind": 0.289, "golven": 10, "techniek_eind": 0.955, "werkplaatsen_vanaf": 3641, "heersers": 4, "wetten": 20, "rustige_jaren": 2420, "macht_eind": {"staat": 0.194, "huizen": 0.05, "kerk": 0.004, "steden": 0.201, "dragers": 0.278, "buren": 0.254, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.186, "buren_honger": 1.491, "ev": 0.906, "aelthir": 0.728, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0131, seed 420131)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0132
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420132
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 8, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1981], ["TK-laadwerkplaats", 2101], ["TK-lichtnet", 3441]], "uit_nood": 1, "magie_min": 0.348, "magie_eind": 0.46, "golven": 13, "techniek_eind": 0.442, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 2920, "macht_eind": {"staat": 0.228, "huizen": 0.106, "kerk": 0.051, "steden": 0.049, "dragers": 0.336, "buren": 0.183, "orrim": 0.033, "volk": 0.014}, "parameters": {"groei": 0.152, "buren_honger": 1.136, "ev": 1.194, "aelthir": 0.754, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0132, seed 420132)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0133
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420133
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 8, "onopgelost": 4, "uitvindingen": [["TK-lichtnet", 841], ["TK-roestlak", 1321], ["TK-vrijladen", 1481], ["TK-laadwerkplaats", 1601], ["TK-kweekakker", 2481], ["TK-heelkweek", 2701], ["TK-spiermolen", 4041], ["TK-lakijzer", 4541]], "uit_nood": 4, "magie_min": 0.368, "magie_eind": 0.368, "golven": 15, "techniek_eind": 0.631, "werkplaatsen_vanaf": 5001, "heersers": 3, "wetten": 15, "rustige_jaren": 3080, "macht_eind": {"staat": 0.275, "huizen": 0.059, "kerk": 0.038, "steden": 0.132, "dragers": 0.195, "buren": 0.278, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.146, "buren_honger": 1.321, "ev": 1.225, "aelthir": 0.627, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0133, seed 420133)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0134
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420134
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 9, "onopgelost": 9, "uitvindingen": [["TK-roestlak", 1941], ["TK-vrijladen", 2001], ["TK-kluisherstel", 3341], ["TK-vleesmetaal", 3641], ["TK-lakijzer", 3701], ["TK-kweekakker", 4901], ["TK-heelkweek", 4961], ["TK-spiermolen", 5001]], "uit_nood": 2, "magie_min": 0.363, "magie_eind": 0.386, "golven": 11, "techniek_eind": 0.683, "werkplaatsen_vanaf": 4961, "heersers": 3, "wetten": 16, "rustige_jaren": 2420, "macht_eind": {"staat": 0.252, "huizen": 0.072, "kerk": 0.056, "steden": 0.127, "dragers": 0.385, "buren": 0.083, "orrim": 0.01, "volk": 0.014}, "parameters": {"groei": 0.206, "buren_honger": 0.577, "ev": 0.91, "aelthir": 0.621, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0134, seed 420134)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0135
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420135
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 16, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 1081], ["TK-sporennet", 1181], ["TK-roestlak", 1481], ["TK-vrijladen", 1721], ["TK-kweekakker", 1981], ["TK-heelkweek", 2061], ["TK-spiermolen", 2141], ["TK-steenlens", 2381], ["TK-sporendruk", 2861], ["TK-kluisherstel", 3321], ["TK-vleesmetaal", 3421], ["TK-sporenkern", 3761], ["TK-lakijzer", 4501]], "uit_nood": 5, "magie_min": 0.141, "magie_eind": 0.326, "golven": 9, "techniek_eind": 1, "werkplaatsen_vanaf": 3141, "heersers": 3, "wetten": 19, "rustige_jaren": 2680, "macht_eind": {"staat": 0.213, "huizen": 0.047, "kerk": 0.004, "steden": 0.317, "dragers": 0.183, "buren": 0.199, "orrim": 0.027, "volk": 0.011}, "parameters": {"groei": 0.124, "buren_honger": 1.313, "ev": 0.867, "aelthir": 0.219, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0135, seed 420135)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0136
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420136
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 13, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1721], ["TK-laadwerkplaats", 2521], ["TK-kweekakker", 2701], ["TK-lichtnet", 3061], ["TK-heelkweek", 3101], ["TK-steenlens", 3121], ["TK-spiermolen", 3481], ["TK-kluisherstel", 4241], ["TK-roestlak", 4321], ["TK-lakijzer", 4561]], "uit_nood": 5, "magie_min": 0.329, "magie_eind": 0.329, "golven": 13, "techniek_eind": 0.819, "werkplaatsen_vanaf": 4241, "heersers": 4, "wetten": 18, "rustige_jaren": 2380, "macht_eind": {"staat": 0.245, "huizen": 0.054, "kerk": 0.005, "steden": 0.166, "dragers": 0.295, "buren": 0.215, "orrim": 0.008, "volk": 0.012}, "parameters": {"groei": 0.131, "buren_honger": 1.303, "ev": 1.183, "aelthir": 0.536, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0136, seed 420136)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0137
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420137
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 10, "onopgelost": 12, "uitvindingen": [["TK-roestlak", 1641], ["TK-kweekakker", 1701], ["TK-vrijladen", 2261], ["TK-heelkweek", 2341], ["TK-kluisherstel", 3701], ["TK-lakijzer", 3861], ["TK-laadwerkplaats", 4281], ["TK-sporenkern", 4481]], "uit_nood": 3, "magie_min": 0.369, "magie_eind": 0.439, "golven": 13, "techniek_eind": 0.731, "werkplaatsen_vanaf": 4481, "heersers": 5, "wetten": 15, "rustige_jaren": 2000, "macht_eind": {"staat": 0.228, "huizen": 0.058, "kerk": 0.047, "steden": 0.115, "dragers": 0.359, "buren": 0.173, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.189, "buren_honger": 1.141, "ev": 0.946, "aelthir": 0.674, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0137, seed 420137)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0138
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420138
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 6, "onopgelost": 5, "uitvindingen": [["TK-roestlak", 1081], ["TK-vrijladen", 1681], ["TK-kluisherstel", 3881], ["TK-lichtnet", 4621], ["TK-vleesmetaal", 4781]], "uit_nood": 1, "magie_min": 0.351, "magie_eind": 0.355, "golven": 7, "techniek_eind": 0.456, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 14, "rustige_jaren": 3060, "macht_eind": {"staat": 0.287, "huizen": 0.106, "kerk": 0.063, "steden": 0.061, "dragers": 0.276, "buren": 0.144, "orrim": 0.043, "volk": 0.02}, "parameters": {"groei": 0.128, "buren_honger": 0.8, "ev": 0.767, "aelthir": 0.574, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0138, seed 420138)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0139
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420139
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 13, "onopgelost": 5, "uitvindingen": [["TK-lichtnet", 1041], ["TK-steenlens", 1081], ["TK-roestlak", 1261], ["TK-sporennet", 1461], ["TK-kweekakker", 2201], ["TK-spiermolen", 2241], ["TK-lakijzer", 3081], ["TK-lichtcel", 3281], ["TK-sporendruk", 3661], ["TK-heelkweek", 4661]], "uit_nood": 5, "magie_min": 0.321, "magie_eind": 0.321, "golven": 14, "techniek_eind": 0.807, "werkplaatsen_vanaf": 3781, "heersers": 4, "wetten": 18, "rustige_jaren": 2820, "macht_eind": {"staat": 0.254, "huizen": 0.129, "kerk": 0.006, "steden": 0.274, "dragers": 0.23, "buren": 0.08, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.131, "buren_honger": 0.669, "ev": 0.894, "aelthir": 0.64, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0139, seed 420139)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0140
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420140
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 16, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1021], ["TK-roestlak", 1141], ["TK-lakijzer", 2181], ["TK-kweekakker", 2621], ["TK-spiermolen", 2641], ["TK-heelkweek", 3101], ["TK-lichtnet", 3381], ["TK-sporennet", 4101], ["TK-sporendruk", 4161], ["TK-kluisherstel", 4181], ["TK-steenlens", 4201], ["TK-lichtcel", 4461], ["TK-vleesmetaal", 4881]], "uit_nood": 10, "magie_min": 0.191, "magie_eind": 0.191, "golven": 7, "techniek_eind": 1, "werkplaatsen_vanaf": 3641, "heersers": 4, "wetten": 19, "rustige_jaren": 2420, "macht_eind": {"staat": 0.214, "huizen": 0.055, "kerk": 0.005, "steden": 0.288, "dragers": 0.236, "buren": 0.16, "orrim": 0.031, "volk": 0.012}, "parameters": {"groei": 0.134, "buren_honger": 1.106, "ev": 0.796, "aelthir": 0.791, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0140, seed 420140)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0141
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420141
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 5, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 2081], ["TK-echonet", 2821], ["TK-kluisherstel", 3301], ["TK-vleesmetaal", 3401]], "uit_nood": 0, "magie_min": 0.359, "magie_eind": 0.509, "golven": 15, "techniek_eind": 0.413, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 12, "rustige_jaren": 2840, "macht_eind": {"staat": 0.276, "huizen": 0.074, "kerk": 0.109, "steden": 0.049, "dragers": 0.381, "buren": 0.077, "orrim": 0.011, "volk": 0.025}, "parameters": {"groei": 0.165, "buren_honger": 0.562, "ev": 1.132, "aelthir": 0.52, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0141, seed 420141)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0142
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420142
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 5, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1281], ["TK-laadwerkplaats", 1381], ["TK-echonet", 1541], ["TK-kluisherstel", 3501], ["TK-lichtnet", 3901], ["TK-steenlens", 4701], ["TK-kweekakker", 5001]], "uit_nood": 4, "magie_min": 0.352, "magie_eind": 0.352, "golven": 11, "techniek_eind": 0.522, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 14, "rustige_jaren": 1260, "macht_eind": {"staat": 0.315, "huizen": 0.101, "kerk": 0.071, "steden": 0.072, "dragers": 0.332, "buren": 0.052, "orrim": 0.04, "volk": 0.018}, "parameters": {"groei": 0.199, "buren_honger": 0.6, "ev": 0.875, "aelthir": 0.296, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0142, seed 420142)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0143
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420143
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 14, "onopgelost": 14, "uitvindingen": [["TK-roestlak", 1081], ["TK-kweekakker", 2201], ["TK-spiermolen", 2281], ["TK-lakijzer", 2341], ["TK-sporennet", 3341], ["TK-sporendruk", 3361], ["TK-heelkweek", 3521], ["TK-kluisherstel", 3741], ["TK-lichtnet", 3781], ["TK-steenlens", 3861], ["TK-sporenkern", 4081], ["TK-lichtcel", 4121]], "uit_nood": 9, "magie_min": 0.186, "magie_eind": 0.253, "golven": 12, "techniek_eind": 1, "werkplaatsen_vanaf": 3521, "heersers": 5, "wetten": 17, "rustige_jaren": 1640, "macht_eind": {"staat": 0.177, "huizen": 0.056, "kerk": 0.005, "steden": 0.325, "dragers": 0.2, "buren": 0.211, "orrim": 0.008, "volk": 0.018}, "parameters": {"groei": 0.137, "buren_honger": 1.402, "ev": 1.017, "aelthir": 0.435, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0143, seed 420143)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0144
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420144
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 9, "onopgelost": 4, "uitvindingen": [["TK-roestlak", 1661], ["TK-kweekakker", 2241], ["TK-heelkweek", 2421], ["TK-vrijladen", 2521], ["TK-kluisherstel", 3261], ["TK-lichtnet", 3401], ["TK-spiermolen", 3721], ["TK-laadwerkplaats", 3781], ["TK-lakijzer", 3841], ["TK-steenlens", 3881], ["TK-lichtcel", 3961], ["TK-sporenkern", 4321], ["TK-vleesmetaal", 4801]], "uit_nood": 4, "magie_min": 0.328, "magie_eind": 0.328, "golven": 9, "techniek_eind": 0.957, "werkplaatsen_vanaf": 3961, "heersers": 3, "wetten": 17, "rustige_jaren": 2380, "macht_eind": {"staat": 0.269, "huizen": 0.065, "kerk": 0.007, "steden": 0.179, "dragers": 0.161, "buren": 0.291, "orrim": 0.009, "volk": 0.019}, "parameters": {"groei": 0.136, "buren_honger": 1.351, "ev": 0.726, "aelthir": 0.572, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0144, seed 420144)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0145
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420145
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 10, "onopgelost": 4, "uitvindingen": [["TK-vrijladen", 2001], ["TK-laadwerkplaats", 2601], ["TK-lichtnet", 3841], ["TK-kluisherstel", 4001], ["TK-vleesmetaal", 4701]], "uit_nood": 0, "magie_min": 0.346, "magie_eind": 0.346, "golven": 13, "techniek_eind": 0.477, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 2240, "macht_eind": {"staat": 0.215, "huizen": 0.058, "kerk": 0.067, "steden": 0.053, "dragers": 0.362, "buren": 0.195, "orrim": 0.033, "volk": 0.017}, "parameters": {"groei": 0.213, "buren_honger": 1.05, "ev": 1.298, "aelthir": 0.263, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0145, seed 420145)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0146
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420146
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 15, "onopgelost": 2, "uitvindingen": [["TK-lichtnet", 921], ["TK-sporennet", 941], ["TK-roestlak", 1401], ["TK-kweekakker", 1661], ["TK-heelkweek", 2001], ["TK-lakijzer", 2061], ["TK-spiermolen", 2181], ["TK-kluisherstel", 3061], ["TK-sporenkern", 3281], ["TK-sporendruk", 3321], ["TK-vleesmetaal", 4881]], "uit_nood": 5, "magie_min": 0.163, "magie_eind": 0.163, "golven": 7, "techniek_eind": 1, "werkplaatsen_vanaf": 3161, "heersers": 4, "wetten": 20, "rustige_jaren": 2680, "macht_eind": {"staat": 0.273, "huizen": 0.068, "kerk": 0.103, "steden": 0.464, "dragers": 0.004, "buren": 0.062, "orrim": 0.01, "volk": 0.017}, "parameters": {"groei": 0.164, "buren_honger": 0.625, "ev": 0.78, "aelthir": 0.355, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0146, seed 420146)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0147
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420147
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 11, "onopgelost": 11, "uitvindingen": [["TK-vrijladen", 1161], ["TK-echonet", 1441], ["TK-laadwerkplaats", 1861], ["TK-kluisherstel", 3441], ["TK-vleesmetaal", 3841], ["TK-kweekakker", 4261], ["TK-heelkweek", 4461]], "uit_nood": 2, "magie_min": 0.359, "magie_eind": 0.597, "golven": 8, "techniek_eind": 0.495, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 17, "rustige_jaren": 1640, "macht_eind": {"staat": 0.235, "huizen": 0.085, "kerk": 0.052, "steden": 0.073, "dragers": 0.325, "buren": 0.185, "orrim": 0.034, "volk": 0.011}, "parameters": {"groei": 0.183, "buren_honger": 1.038, "ev": 1.143, "aelthir": 0.328, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0147, seed 420147)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0148
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420148
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 6, "onopgelost": 10, "uitvindingen": [["TK-kweekakker", 2301], ["TK-vrijladen", 3021], ["TK-lichtnet", 3641], ["TK-gaveglas", 4001]], "uit_nood": 1, "magie_min": 0.35, "magie_eind": 0.461, "golven": 13, "techniek_eind": 0.407, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 13, "rustige_jaren": 2440, "macht_eind": {"staat": 0.238, "huizen": 0.07, "kerk": 0.065, "steden": 0.057, "dragers": 0.37, "buren": 0.146, "orrim": 0.037, "volk": 0.017}, "parameters": {"groei": 0.166, "buren_honger": 0.89, "ev": 1.244, "aelthir": 0.653, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0148, seed 420148)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0149
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420149
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 6, "onopgelost": 10, "uitvindingen": [["TK-sporennet", 1381], ["TK-vrijladen", 1481], ["TK-kweekakker", 1741], ["TK-heelkweek", 2281], ["TK-kluisherstel", 3561], ["TK-echonet", 3641], ["TK-laadwerkplaats", 3701], ["TK-vleesmetaal", 4201], ["TK-spiermolen", 4821]], "uit_nood": 2, "magie_min": 0.354, "magie_eind": 0.354, "golven": 14, "techniek_eind": 0.573, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 16, "rustige_jaren": 2480, "macht_eind": {"staat": 0.308, "huizen": 0.097, "kerk": 0.068, "steden": 0.098, "dragers": 0.279, "buren": 0.094, "orrim": 0.039, "volk": 0.017}, "parameters": {"groei": 0.201, "buren_honger": 0.622, "ev": 1.136, "aelthir": 0.238, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0149, seed 420149)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0150
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420150
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 15, "onopgelost": 5, "uitvindingen": [["TK-lichtnet", 1081], ["TK-roestlak", 1121], ["TK-kweekakker", 1601], ["TK-vrijladen", 1761], ["TK-heelkweek", 1781], ["TK-laadwerkplaats", 1981], ["TK-spiermolen", 3461], ["TK-kluisherstel", 3701], ["TK-lakijzer", 4041], ["TK-steenlens", 4161], ["TK-sporenkern", 4301], ["TK-lichtcel", 4821]], "uit_nood": 6, "magie_min": 0.317, "magie_eind": 0.427, "golven": 9, "techniek_eind": 1, "werkplaatsen_vanaf": 4141, "heersers": 4, "wetten": 19, "rustige_jaren": 2180, "macht_eind": {"staat": 0.211, "huizen": 0.074, "kerk": 0.004, "steden": 0.196, "dragers": 0.202, "buren": 0.269, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.179, "buren_honger": 1.393, "ev": 0.808, "aelthir": 0.41, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0150, seed 420150)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0151
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420151
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 13, "onopgelost": 12, "uitvindingen": [["TK-kweekakker", 1481], ["TK-vrijladen", 1841], ["TK-laadwerkplaats", 1961], ["TK-heelkweek", 2441], ["TK-spiermolen", 2461], ["TK-lichtnet", 3461], ["TK-steenlens", 3681], ["TK-lichtcel", 4081], ["TK-kluisherstel", 4161], ["TK-roestlak", 4301], ["TK-vleesmetaal", 4381], ["TK-lakijzer", 4581], ["TK-gaveglas", 4941]], "uit_nood": 5, "magie_min": 0.337, "magie_eind": 0.415, "golven": 13, "techniek_eind": 0.796, "werkplaatsen_vanaf": 4161, "heersers": 3, "wetten": 17, "rustige_jaren": 1040, "macht_eind": {"staat": 0.272, "huizen": 0.116, "kerk": 0.005, "steden": 0.128, "dragers": 0.359, "buren": 0.07, "orrim": 0.034, "volk": 0.016}, "parameters": {"groei": 0.219, "buren_honger": 0.667, "ev": 1.209, "aelthir": 0.666, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0151, seed 420151)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0152
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420152
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 7, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 1121], ["TK-kweekakker", 1901], ["TK-heelkweek", 2001], ["TK-spiermolen", 3521], ["TK-kluisherstel", 3781], ["TK-lichtnet", 3861], ["TK-steenlens", 3961], ["TK-vleesmetaal", 4001], ["TK-lichtcel", 4081], ["TK-roestlak", 4261], ["TK-lakijzer", 4301]], "uit_nood": 4, "magie_min": 0.346, "magie_eind": 0.346, "golven": 9, "techniek_eind": 0.697, "werkplaatsen_vanaf": 4261, "heersers": 3, "wetten": 15, "rustige_jaren": 2420, "macht_eind": {"staat": 0.292, "huizen": 0.069, "kerk": 0.035, "steden": 0.132, "dragers": 0.239, "buren": 0.204, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.198, "buren_honger": 0.975, "ev": 0.762, "aelthir": 0.397, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0152, seed 420152)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0153
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420153
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 9, "onopgelost": 3, "uitvindingen": [["TK-roestlak", 1001], ["TK-vrijladen", 1861], ["TK-kweekakker", 2661], ["TK-heelkweek", 2861], ["TK-lichtnet", 3121], ["TK-spiermolen", 3161], ["TK-kluisherstel", 3341], ["TK-sporenkern", 3521], ["TK-steenlens", 3861], ["TK-lichtcel", 4301], ["TK-lakijzer", 4361], ["TK-vleesmetaal", 4681], ["TK-sporennet", 4761]], "uit_nood": 4, "magie_min": 0.244, "magie_eind": 0.244, "golven": 9, "techniek_eind": 1, "werkplaatsen_vanaf": 3521, "heersers": 3, "wetten": 17, "rustige_jaren": 3340, "macht_eind": {"staat": 0.286, "huizen": 0.071, "kerk": 0.006, "steden": 0.34, "dragers": 0.144, "buren": 0.123, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.182, "buren_honger": 0.676, "ev": 0.921, "aelthir": 0.402, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0153, seed 420153)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0154
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420154
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 6, "onopgelost": 3, "uitvindingen": [["TK-roestlak", 1041], ["TK-vrijladen", 2221], ["TK-echonet", 2441], ["TK-kluisherstel", 2801], ["TK-lakijzer", 2961], ["TK-kweekakker", 3041], ["TK-lichtnet", 3281], ["TK-vleesmetaal", 3301], ["TK-gaveglas", 4141], ["TK-sporenkern", 5001]], "uit_nood": 2, "magie_min": 0.344, "magie_eind": 0.415, "golven": 9, "techniek_eind": 0.646, "werkplaatsen_vanaf": 5001, "heersers": 3, "wetten": 15, "rustige_jaren": 3600, "macht_eind": {"staat": 0.283, "huizen": 0.097, "kerk": 0.005, "steden": 0.137, "dragers": 0.177, "buren": 0.275, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.197, "buren_honger": 1.329, "ev": 0.796, "aelthir": 0.741, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0154, seed 420154)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0155
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420155
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 13, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 921], ["TK-steenlens", 1161], ["TK-roestlak", 1461], ["TK-kweekakker", 1941], ["TK-heelkweek", 2681], ["TK-vrijladen", 3121], ["TK-lichtcel", 3821], ["TK-spiermolen", 4501], ["TK-kluisherstel", 4761]], "uit_nood": 5, "magie_min": 0.331, "magie_eind": 0.331, "golven": 11, "techniek_eind": 0.833, "werkplaatsen_vanaf": 4501, "heersers": 2, "wetten": 17, "rustige_jaren": 2620, "macht_eind": {"staat": 0.233, "huizen": 0.059, "kerk": 0.005, "steden": 0.189, "dragers": 0.276, "buren": 0.215, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.187, "buren_honger": 1.242, "ev": 0.939, "aelthir": 0.744, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0155, seed 420155)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0156
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420156
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 7, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 2461], ["TK-echonet", 3041], ["TK-kluisherstel", 3761]], "uit_nood": 1, "magie_min": 0.364, "magie_eind": 0.437, "golven": 13, "techniek_eind": 0.454, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 2820, "macht_eind": {"staat": 0.223, "huizen": 0.054, "kerk": 0.071, "steden": 0.055, "dragers": 0.333, "buren": 0.242, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.133, "buren_honger": 1.4, "ev": 1.026, "aelthir": 0.61, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0156, seed 420156)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0157
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420157
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 8, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1281], ["TK-laadwerkplaats", 1361], ["TK-kweekakker", 1581], ["TK-heelkweek", 2481], ["TK-spiermolen", 3581], ["TK-lichtnet", 3781], ["TK-steenlens", 3921], ["TK-roestlak", 3981], ["TK-lichtcel", 4141], ["TK-kluisherstel", 4261], ["TK-lakijzer", 4801], ["TK-sporenkern", 4861]], "uit_nood": 5, "magie_min": 0.35, "magie_eind": 0.408, "golven": 8, "techniek_eind": 0.835, "werkplaatsen_vanaf": 4261, "heersers": 1, "wetten": 14, "rustige_jaren": 1740, "macht_eind": {"staat": 0.275, "huizen": 0.077, "kerk": 0.054, "steden": 0.134, "dragers": 0.311, "buren": 0.086, "orrim": 0.044, "volk": 0.019}, "parameters": {"groei": 0.157, "buren_honger": 0.698, "ev": 0.883, "aelthir": 0.401, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0157, seed 420157)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0158
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420158
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 10, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 2981], ["TK-laadwerkplaats", 3441], ["TK-lichtnet", 3961]], "uit_nood": 1, "magie_min": 0.356, "magie_eind": 0.368, "golven": 15, "techniek_eind": 0.446, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 17, "rustige_jaren": 2940, "macht_eind": {"staat": 0.248, "huizen": 0.083, "kerk": 0.064, "steden": 0.05, "dragers": 0.315, "buren": 0.195, "orrim": 0.033, "volk": 0.011}, "parameters": {"groei": 0.17, "buren_honger": 1.072, "ev": 0.986, "aelthir": 0.693, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0158, seed 420158)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0159
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420159
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 6, "onopgelost": 9, "uitvindingen": [["TK-kluisherstel", 3621], ["TK-vleesmetaal", 4361]], "uit_nood": 0, "magie_min": 0.368, "magie_eind": 0.389, "golven": 13, "techniek_eind": 0.456, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 2180, "macht_eind": {"staat": 0.259, "huizen": 0.058, "kerk": 0.088, "steden": 0.061, "dragers": 0.306, "buren": 0.203, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.203, "buren_honger": 1.103, "ev": 1.188, "aelthir": 0.583, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0159, seed 420159)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0160
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420160
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 31
+- **scores:** {"fasen": 15, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 821], ["TK-echonet", 1041], ["TK-lichtnet", 1121], ["TK-roestlak", 1401], ["TK-laadwerkplaats", 1441], ["TK-lakijzer", 2241], ["TK-steenlens", 2481], ["TK-kweekakker", 3401], ["TK-kluisherstel", 3461], ["TK-spiermolen", 3541], ["TK-lichtcel", 3761], ["TK-sporenkern", 4221], ["TK-sporennet", 4421], ["TK-heelkweek", 4681], ["TK-sporendruk", 4881], ["TK-vleesmetaal", 4941]], "uit_nood": 4, "magie_min": 0.207, "magie_eind": 0.207, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 3381, "heersers": 3, "wetten": 18, "rustige_jaren": 2220, "macht_eind": {"staat": 0.216, "huizen": 0.053, "kerk": 0.005, "steden": 0.307, "dragers": 0.177, "buren": 0.22, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.208, "buren_honger": 1.318, "ev": 1.184, "aelthir": 0.681, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0160, seed 420160)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0161
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420161
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 31
+- **scores:** {"fasen": 18, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 881], ["TK-lichtnet", 941], ["TK-laadwerkplaats", 1301], ["TK-steenlens", 2201], ["TK-roestlak", 2561], ["TK-kweekakker", 2901], ["TK-spiermolen", 2981], ["TK-lakijzer", 3141], ["TK-kluisherstel", 3661], ["TK-heelkweek", 3701], ["TK-vleesmetaal", 4001], ["TK-sporennet", 4621], ["TK-sporendruk", 4841]], "uit_nood": 7, "magie_min": 0.249, "magie_eind": 0.249, "golven": 10, "techniek_eind": 1, "werkplaatsen_vanaf": 3041, "heersers": 3, "wetten": 19, "rustige_jaren": 2180, "macht_eind": {"staat": 0.218, "huizen": 0.082, "kerk": 0.005, "steden": 0.303, "dragers": 0.148, "buren": 0.221, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.217, "buren_honger": 1.163, "ev": 1.077, "aelthir": 0.615, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0161, seed 420161)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0162
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420162
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 17, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 1021], ["TK-vrijladen", 1061], ["TK-steenlens", 1181], ["TK-roestlak", 1401], ["TK-kweekakker", 1961], ["TK-heelkweek", 2481], ["TK-lakijzer", 3401], ["TK-lichtcel", 3461], ["TK-echonet", 3781], ["TK-spiermolen", 3881]], "uit_nood": 3, "magie_min": 0.322, "magie_eind": 0.322, "golven": 13, "techniek_eind": 0.797, "werkplaatsen_vanaf": 4421, "heersers": 2, "wetten": 21, "rustige_jaren": 2340, "macht_eind": {"staat": 0.216, "huizen": 0.083, "kerk": 0.005, "steden": 0.192, "dragers": 0.176, "buren": 0.279, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.167, "buren_honger": 1.434, "ev": 1.13, "aelthir": 0.443, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0162, seed 420162)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0163
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420163
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 6, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1941], ["TK-laadwerkplaats", 2001], ["TK-echonet", 2461], ["TK-lichtnet", 3301], ["TK-kluisherstel", 3721], ["TK-steenlens", 4301], ["TK-kweekakker", 4341], ["TK-vleesmetaal", 4961]], "uit_nood": 3, "magie_min": 0.346, "magie_eind": 0.346, "golven": 12, "techniek_eind": 0.537, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 2700, "macht_eind": {"staat": 0.25, "huizen": 0.067, "kerk": 0.058, "steden": 0.081, "dragers": 0.429, "buren": 0.062, "orrim": 0.038, "volk": 0.015}, "parameters": {"groei": 0.125, "buren_honger": 0.513, "ev": 1.073, "aelthir": 0.777, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0163, seed 420163)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0164
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420164
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 6, "onopgelost": 13, "uitvindingen": [["TK-vrijladen", 1261], ["TK-kweekakker", 2781], ["TK-heelkweek", 2821], ["TK-echonet", 2861], ["TK-laadwerkplaats", 3641], ["TK-lichtnet", 4161], ["TK-spiermolen", 4741], ["TK-roestlak", 4861], ["TK-lakijzer", 4881], ["TK-kluisherstel", 4921]], "uit_nood": 1, "magie_min": 0.363, "magie_eind": 0.549, "golven": 13, "techniek_eind": 0.598, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 1460, "macht_eind": {"staat": 0.238, "huizen": 0.065, "kerk": 0.046, "steden": 0.091, "dragers": 0.337, "buren": 0.171, "orrim": 0.037, "volk": 0.016}, "parameters": {"groei": 0.155, "buren_honger": 0.913, "ev": 1.133, "aelthir": 0.663, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0164, seed 420164)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0165
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420165
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 9, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 881], ["TK-echonet", 1081], ["TK-sporennet", 1321], ["TK-roestlak", 1661], ["TK-kweekakker", 2701], ["TK-sporendruk", 2741], ["TK-lichtnet", 3061], ["TK-laadwerkplaats", 3421], ["TK-kluisherstel", 3961], ["TK-lakijzer", 4041], ["TK-vleesmetaal", 4441], ["TK-heelkweek", 4601], ["TK-steenlens", 4961]], "uit_nood": 2, "magie_min": 0.34, "magie_eind": 0.357, "golven": 11, "techniek_eind": 0.695, "werkplaatsen_vanaf": 4841, "heersers": 4, "wetten": 16, "rustige_jaren": 2820, "macht_eind": {"staat": 0.261, "huizen": 0.061, "kerk": 0.005, "steden": 0.153, "dragers": 0.254, "buren": 0.242, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.195, "buren_honger": 1.3, "ev": 0.785, "aelthir": 0.64, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0165, seed 420165)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0166
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420166
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 5, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1941], ["TK-roestlak", 1961], ["TK-kluisherstel", 3161], ["TK-vleesmetaal", 3241], ["TK-lichtnet", 3741], ["TK-kweekakker", 4801], ["TK-spiermolen", 4841]], "uit_nood": 4, "magie_min": 0.347, "magie_eind": 0.347, "golven": 11, "techniek_eind": 0.57, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 3160, "macht_eind": {"staat": 0.345, "huizen": 0.087, "kerk": 0.046, "steden": 0.147, "dragers": 0.27, "buren": 0.072, "orrim": 0.012, "volk": 0.021}, "parameters": {"groei": 0.144, "buren_honger": 0.525, "ev": 1.104, "aelthir": 0.745, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0166, seed 420166)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0167
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420167
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 14, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 921], ["TK-vrijladen", 961], ["TK-echonet", 1081], ["TK-laadwerkplaats", 1101], ["TK-roestlak", 1461], ["TK-steenlens", 1821], ["TK-kweekakker", 2301], ["TK-heelkweek", 2341], ["TK-spiermolen", 2901], ["TK-lichtcel", 3141], ["TK-kluisherstel", 3161], ["TK-sporennet", 3241], ["TK-sporendruk", 3281], ["TK-vleesmetaal", 3841]], "uit_nood": 8, "magie_min": 0.141, "magie_eind": 0.141, "golven": 15, "techniek_eind": 1, "werkplaatsen_vanaf": 3021, "heersers": 3, "wetten": 19, "rustige_jaren": 2360, "macht_eind": {"staat": 0.2, "huizen": 0.048, "kerk": 0.004, "steden": 0.329, "dragers": 0.21, "buren": 0.19, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.161, "buren_honger": 1.289, "ev": 0.816, "aelthir": 0.597, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0167, seed 420167)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0168
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420168
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 9, "onopgelost": 7, "uitvindingen": [["TK-lichtnet", 1041], ["TK-vrijladen", 1581], ["TK-echonet", 1641], ["TK-kweekakker", 2681], ["TK-spiermolen", 2701], ["TK-steenlens", 2721], ["TK-heelkweek", 3141], ["TK-roestlak", 4841]], "uit_nood": 5, "magie_min": 0.351, "magie_eind": 0.351, "golven": 12, "techniek_eind": 0.539, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 3040, "macht_eind": {"staat": 0.202, "huizen": 0.084, "kerk": 0.034, "steden": 0.097, "dragers": 0.25, "buren": 0.283, "orrim": 0.034, "volk": 0.016}, "parameters": {"groei": 0.216, "buren_honger": 1.471, "ev": 0.964, "aelthir": 0.476, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0168, seed 420168)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0169
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420169
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 11, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1401], ["TK-roestlak", 2141], ["TK-kweekakker", 2521], ["TK-heelkweek", 2781], ["TK-spiermolen", 3001], ["TK-lakijzer", 3941]], "uit_nood": 2, "magie_min": 0.369, "magie_eind": 0.404, "golven": 12, "techniek_eind": 0.498, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 16, "rustige_jaren": 2960, "macht_eind": {"staat": 0.249, "huizen": 0.099, "kerk": 0.058, "steden": 0.132, "dragers": 0.318, "buren": 0.117, "orrim": 0.01, "volk": 0.017}, "parameters": {"groei": 0.187, "buren_honger": 0.796, "ev": 1.191, "aelthir": 0.629, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0169, seed 420169)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0170
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420170
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 6, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1621], ["TK-laadwerkplaats", 1641], ["TK-kweekakker", 1661], ["TK-roestlak", 1821], ["TK-heelkweek", 1901], ["TK-lakijzer", 2141], ["TK-kluisherstel", 4721]], "uit_nood": 3, "magie_min": 0.354, "magie_eind": 0.354, "golven": 10, "techniek_eind": 0.557, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 14, "rustige_jaren": 3100, "macht_eind": {"staat": 0.316, "huizen": 0.081, "kerk": 0.049, "steden": 0.142, "dragers": 0.316, "buren": 0.062, "orrim": 0.012, "volk": 0.022}, "parameters": {"groei": 0.218, "buren_honger": 0.607, "ev": 0.887, "aelthir": 0.685, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0170, seed 420170)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0171
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420171
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 6, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 841], ["TK-laadwerkplaats", 1601], ["TK-kweekakker", 3261], ["TK-kluisherstel", 3641], ["TK-vleesmetaal", 3841], ["TK-heelkweek", 3921], ["TK-roestlak", 4781], ["TK-sporenkern", 4981]], "uit_nood": 2, "magie_min": 0.358, "magie_eind": 0.538, "golven": 9, "techniek_eind": 0.643, "werkplaatsen_vanaf": 4981, "heersers": 3, "wetten": 13, "rustige_jaren": 2940, "macht_eind": {"staat": 0.263, "huizen": 0.069, "kerk": 0.055, "steden": 0.094, "dragers": 0.307, "buren": 0.184, "orrim": 0.01, "volk": 0.017}, "parameters": {"groei": 0.211, "buren_honger": 1.048, "ev": 0.799, "aelthir": 0.762, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0171, seed 420171)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0172
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420172
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 5, "onopgelost": 8, "uitvindingen": [["TK-kweekakker", 2001], ["TK-spiermolen", 2061], ["TK-roestlak", 2521], ["TK-heelkweek", 2841], ["TK-lichtnet", 3741], ["TK-lakijzer", 4341], ["TK-steenlens", 4721]], "uit_nood": 2, "magie_min": 0.352, "magie_eind": 0.538, "golven": 12, "techniek_eind": 0.561, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 12, "rustige_jaren": 2880, "macht_eind": {"staat": 0.281, "huizen": 0.075, "kerk": 0.055, "steden": 0.162, "dragers": 0.27, "buren": 0.128, "orrim": 0.011, "volk": 0.018}, "parameters": {"groei": 0.161, "buren_honger": 0.758, "ev": 0.907, "aelthir": 0.571, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0172, seed 420172)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0173
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420173
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 6, "onopgelost": 6, "uitvindingen": [["TK-roestlak", 1781], ["TK-vrijladen", 2701], ["TK-kweekakker", 2861], ["TK-heelkweek", 3761], ["TK-lakijzer", 3961], ["TK-lichtnet", 4501], ["TK-steenlens", 4981]], "uit_nood": 3, "magie_min": 0.351, "magie_eind": 0.407, "golven": 11, "techniek_eind": 0.491, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 2320, "macht_eind": {"staat": 0.257, "huizen": 0.096, "kerk": 0.052, "steden": 0.078, "dragers": 0.197, "buren": 0.295, "orrim": 0.01, "volk": 0.016}, "parameters": {"groei": 0.147, "buren_honger": 1.39, "ev": 0.986, "aelthir": 0.425, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0173, seed 420173)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0174
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420174
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 4, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1881], ["TK-kluisherstel", 2901], ["TK-lichtnet", 3401], ["TK-vleesmetaal", 3861]], "uit_nood": 0, "magie_min": 0.354, "magie_eind": 0.354, "golven": 16, "techniek_eind": 0.422, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 3480, "macht_eind": {"staat": 0.333, "huizen": 0.075, "kerk": 0.084, "steden": 0.055, "dragers": 0.342, "buren": 0.081, "orrim": 0.011, "volk": 0.02}, "parameters": {"groei": 0.17, "buren_honger": 0.569, "ev": 0.957, "aelthir": 0.248, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0174, seed 420174)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0175
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420175
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 11, "onopgelost": 11, "uitvindingen": [["TK-vrijladen", 1701], ["TK-kweekakker", 2461], ["TK-heelkweek", 2501], ["TK-laadwerkplaats", 2581], ["TK-spiermolen", 2781], ["TK-echonet", 2801], ["TK-kluisherstel", 3321], ["TK-roestlak", 3381], ["TK-sporenkern", 4141], ["TK-lakijzer", 4361], ["TK-lichtnet", 4641], ["TK-steenlens", 4701]], "uit_nood": 4, "magie_min": 0.349, "magie_eind": 0.37, "golven": 14, "techniek_eind": 0.82, "werkplaatsen_vanaf": 4141, "heersers": 2, "wetten": 16, "rustige_jaren": 1300, "macht_eind": {"staat": 0.229, "huizen": 0.079, "kerk": 0.005, "steden": 0.126, "dragers": 0.343, "buren": 0.172, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.165, "buren_honger": 1.16, "ev": 1.241, "aelthir": 0.486, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0175, seed 420175)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0176
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420176
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 9, "onopgelost": 10, "uitvindingen": [["TK-vrijladen", 1181], ["TK-echonet", 1681], ["TK-laadwerkplaats", 1801], ["TK-lichtnet", 3521], ["TK-gaveglas", 3781], ["TK-kluisherstel", 4141]], "uit_nood": 1, "magie_min": 0.349, "magie_eind": 0.349, "golven": 13, "techniek_eind": 0.452, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 15, "rustige_jaren": 2540, "macht_eind": {"staat": 0.242, "huizen": 0.119, "kerk": 0.072, "steden": 0.048, "dragers": 0.41, "buren": 0.061, "orrim": 0.035, "volk": 0.014}, "parameters": {"groei": 0.15, "buren_honger": 0.552, "ev": 1.19, "aelthir": 0.487, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0176, seed 420176)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0177
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420177
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 7, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 1761], ["TK-echonet", 2401], ["TK-kluisherstel", 3221], ["TK-vleesmetaal", 3361], ["TK-lichtnet", 4121]], "uit_nood": 0, "magie_min": 0.351, "magie_eind": 0.351, "golven": 15, "techniek_eind": 0.421, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 14, "rustige_jaren": 2480, "macht_eind": {"staat": 0.284, "huizen": 0.129, "kerk": 0.077, "steden": 0.047, "dragers": 0.297, "buren": 0.108, "orrim": 0.04, "volk": 0.018}, "parameters": {"groei": 0.137, "buren_honger": 0.645, "ev": 1.199, "aelthir": 0.505, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0177, seed 420177)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0178
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420178
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 13, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 841], ["TK-laadwerkplaats", 861], ["TK-roestlak", 881], ["TK-echonet", 901], ["TK-lichtnet", 981], ["TK-sporennet", 1501], ["TK-sporendruk", 2061], ["TK-steenlens", 2181], ["TK-lakijzer", 2321]], "uit_nood": 4, "magie_min": 0.127, "magie_eind": 0.127, "golven": 7, "techniek_eind": 1, "werkplaatsen_vanaf": 2901, "heersers": 5, "wetten": 17, "rustige_jaren": 2880, "macht_eind": {"staat": 0.091, "huizen": 0.082, "kerk": 0.005, "steden": 0.446, "dragers": 0.135, "buren": 0.217, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.131, "buren_honger": 1.307, "ev": 0.81, "aelthir": 0.653, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0178, seed 420178)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0179
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420179
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 12, "onopgelost": 10, "uitvindingen": [["TK-lichtnet", 961], ["TK-steenlens", 1441], ["TK-roestlak", 1721], ["TK-kweekakker", 2141], ["TK-heelkweek", 2161], ["TK-spiermolen", 2441], ["TK-lakijzer", 2501], ["TK-kluisherstel", 2921], ["TK-vleesmetaal", 2961], ["TK-lichtcel", 4221]], "uit_nood": 4, "magie_min": 0.273, "magie_eind": 0.273, "golven": 8, "techniek_eind": 0.944, "werkplaatsen_vanaf": 3561, "heersers": 3, "wetten": 18, "rustige_jaren": 2620, "macht_eind": {"staat": 0.301, "huizen": 0.068, "kerk": 0.006, "steden": 0.292, "dragers": 0.216, "buren": 0.091, "orrim": 0.01, "volk": 0.017}, "parameters": {"groei": 0.185, "buren_honger": 0.735, "ev": 0.817, "aelthir": 0.796, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0179, seed 420179)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0180
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420180
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 11, "onopgelost": 7, "uitvindingen": [["TK-roestlak", 1241], ["TK-vrijladen", 2061], ["TK-lakijzer", 2741], ["TK-kweekakker", 2881], ["TK-heelkweek", 3381], ["TK-spiermolen", 3501], ["TK-kluisherstel", 3621], ["TK-lichtnet", 3741], ["TK-vleesmetaal", 3781], ["TK-steenlens", 3841], ["TK-sporennet", 4141], ["TK-sporenkern", 4181], ["TK-sporendruk", 4201]], "uit_nood": 6, "magie_min": 0.245, "magie_eind": 0.26, "golven": 12, "techniek_eind": 1, "werkplaatsen_vanaf": 3621, "heersers": 4, "wetten": 17, "rustige_jaren": 2800, "macht_eind": {"staat": 0.248, "huizen": 0.058, "kerk": 0.005, "steden": 0.287, "dragers": 0.192, "buren": 0.187, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.196, "buren_honger": 1.136, "ev": 1.13, "aelthir": 0.383, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0180, seed 420180)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0181
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420181
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 11, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 981], ["TK-vrijladen", 1041], ["TK-echonet", 1061], ["TK-sporennet", 1441], ["TK-steenlens", 1761], ["TK-kweekakker", 1821], ["TK-spiermolen", 1861], ["TK-heelkweek", 2401], ["TK-sporendruk", 2921], ["TK-roestlak", 2961], ["TK-lakijzer", 3321], ["TK-kluisherstel", 3501], ["TK-sporenkern", 3561], ["TK-vleesmetaal", 4901], ["TK-lichtcel", 4981]], "uit_nood": 4, "magie_min": 0.332, "magie_eind": 0.332, "golven": 9, "techniek_eind": 0.936, "werkplaatsen_vanaf": 3561, "heersers": 4, "wetten": 18, "rustige_jaren": 2980, "macht_eind": {"staat": 0.221, "huizen": 0.069, "kerk": 0.004, "steden": 0.181, "dragers": 0.279, "buren": 0.226, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.213, "buren_honger": 1.442, "ev": 0.969, "aelthir": 0.225, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0181, seed 420181)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0182
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420182
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 8, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1141], ["TK-echonet", 1221], ["TK-sporennet", 1241], ["TK-kweekakker", 3221], ["TK-kluisherstel", 3701], ["TK-heelkweek", 4181], ["TK-spiermolen", 4661], ["TK-roestlak", 4961]], "uit_nood": 3, "magie_min": 0.355, "magie_eind": 0.401, "golven": 12, "techniek_eind": 0.575, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 2580, "macht_eind": {"staat": 0.244, "huizen": 0.072, "kerk": 0.072, "steden": 0.117, "dragers": 0.318, "buren": 0.118, "orrim": 0.041, "volk": 0.017}, "parameters": {"groei": 0.158, "buren_honger": 0.753, "ev": 0.897, "aelthir": 0.43, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0182, seed 420182)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0183
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420183
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 10, "onopgelost": 10, "uitvindingen": [["TK-lichtnet", 961], ["TK-steenlens", 1201], ["TK-vrijladen", 2581], ["TK-kweekakker", 2921], ["TK-heelkweek", 2981], ["TK-kluisherstel", 4261], ["TK-gaveglas", 4361], ["TK-lichtcel", 4601]], "uit_nood": 4, "magie_min": 0.356, "magie_eind": 0.519, "golven": 18, "techniek_eind": 0.568, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 1040, "macht_eind": {"staat": 0.168, "huizen": 0.057, "kerk": 0.025, "steden": 0.083, "dragers": 0.409, "buren": 0.218, "orrim": 0.03, "volk": 0.009}, "parameters": {"groei": 0.212, "buren_honger": 1.324, "ev": 1.126, "aelthir": 0.57, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0183, seed 420183)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0184
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420184
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 14, "onopgelost": 3, "uitvindingen": [["TK-lichtnet", 901], ["TK-steenlens", 1021], ["TK-roestlak", 1321], ["TK-lakijzer", 1801], ["TK-vrijladen", 1961], ["TK-sporennet", 2421], ["TK-sporendruk", 2481], ["TK-kweekakker", 2581], ["TK-heelkweek", 2981], ["TK-kluisherstel", 3381], ["TK-sporenkern", 3841], ["TK-vleesmetaal", 3961], ["TK-lichtcel", 4881]], "uit_nood": 5, "magie_min": 0.135, "magie_eind": 0.135, "golven": 8, "techniek_eind": 1, "werkplaatsen_vanaf": 3061, "heersers": 3, "wetten": 18, "rustige_jaren": 2700, "macht_eind": {"staat": 0.219, "huizen": 0.055, "kerk": 0.005, "steden": 0.382, "dragers": 0.199, "buren": 0.117, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.168, "buren_honger": 0.693, "ev": 1.114, "aelthir": 0.562, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0184, seed 420184)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0185
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420185
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 14, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 981], ["TK-lichtnet", 1021], ["TK-laadwerkplaats", 1701], ["TK-gaveglas", 1721], ["TK-roestlak", 1801], ["TK-kweekakker", 2381], ["TK-spiermolen", 2401], ["TK-lakijzer", 3421], ["TK-heelkweek", 3501], ["TK-kluisherstel", 3661], ["TK-steenlens", 4341], ["TK-lichtcel", 4421], ["TK-sporenkern", 4821]], "uit_nood": 6, "magie_min": 0.332, "magie_eind": 0.389, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 3821, "heersers": 4, "wetten": 18, "rustige_jaren": 2060, "macht_eind": {"staat": 0.196, "huizen": 0.077, "kerk": 0.004, "steden": 0.195, "dragers": 0.306, "buren": 0.201, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.133, "buren_honger": 1.423, "ev": 1.032, "aelthir": 0.686, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0185, seed 420185)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0186
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420186
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 7, "onopgelost": 12, "uitvindingen": [["TK-vrijladen", 1621], ["TK-laadwerkplaats", 1641], ["TK-echonet", 2881], ["TK-kluisherstel", 3521], ["TK-vleesmetaal", 3701], ["TK-lichtnet", 4421]], "uit_nood": 2, "magie_min": 0.358, "magie_eind": 0.359, "golven": 17, "techniek_eind": 0.49, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 1520, "macht_eind": {"staat": 0.207, "huizen": 0.076, "kerk": 0.06, "steden": 0.061, "dragers": 0.371, "buren": 0.202, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.127, "buren_honger": 1.247, "ev": 1.009, "aelthir": 0.501, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0186, seed 420186)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0187
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420187
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 7, "onopgelost": 10, "uitvindingen": [["TK-vrijladen", 2361], ["TK-laadwerkplaats", 3021], ["TK-lichtnet", 3361], ["TK-kluisherstel", 4381], ["TK-vleesmetaal", 4941]], "uit_nood": 1, "magie_min": 0.347, "magie_eind": 0.347, "golven": 10, "techniek_eind": 0.447, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 12, "rustige_jaren": 2500, "macht_eind": {"staat": 0.244, "huizen": 0.066, "kerk": 0.082, "steden": 0.045, "dragers": 0.408, "buren": 0.128, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.184, "buren_honger": 0.923, "ev": 0.929, "aelthir": 0.474, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0187, seed 420187)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0188
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420188
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 33
+- **scores:** {"fasen": 19, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1221], ["TK-laadwerkplaats", 1281], ["TK-kweekakker", 1481], ["TK-sporennet", 1761], ["TK-echonet", 1841], ["TK-roestlak", 1901], ["TK-heelkweek", 1961], ["TK-spiermolen", 2001], ["TK-sporendruk", 2381], ["TK-lakijzer", 2901], ["TK-kluisherstel", 3481], ["TK-vleesmetaal", 3741], ["TK-lichtnet", 3761], ["TK-sporenkern", 4601]], "uit_nood": 7, "magie_min": 0.125, "magie_eind": 0.127, "golven": 7, "techniek_eind": 1, "werkplaatsen_vanaf": 2601, "heersers": 5, "wetten": 19, "rustige_jaren": 1780, "macht_eind": {"staat": 0.177, "huizen": 0.057, "kerk": 0.005, "steden": 0.508, "dragers": 0.141, "buren": 0.087, "orrim": 0.008, "volk": 0.017}, "parameters": {"groei": 0.205, "buren_honger": 0.769, "ev": 1.131, "aelthir": 0.496, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0188, seed 420188)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0189
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420189
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 15, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 981], ["TK-roestlak", 1061], ["TK-echonet", 1101], ["TK-laadwerkplaats", 1241], ["TK-lakijzer", 1761], ["TK-sporennet", 2281], ["TK-sporendruk", 2821], ["TK-lichtnet", 3201], ["TK-steenlens", 3281], ["TK-lichtcel", 3641], ["TK-kweekakker", 4661], ["TK-kluisherstel", 4681], ["TK-vleesmetaal", 4861]], "uit_nood": 6, "magie_min": 0.124, "magie_eind": 0.134, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 2801, "heersers": 5, "wetten": 19, "rustige_jaren": 2700, "macht_eind": {"staat": 0.185, "huizen": 0.048, "kerk": 0.004, "steden": 0.391, "dragers": 0.112, "buren": 0.24, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.135, "buren_honger": 1.403, "ev": 1.076, "aelthir": 0.584, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0189, seed 420189)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0190
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420190
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 11, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 1041], ["TK-echonet", 1081], ["TK-kluisherstel", 4921]], "uit_nood": 2, "magie_min": 0.365, "magie_eind": 0.728, "golven": 10, "techniek_eind": 0.441, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 16, "rustige_jaren": 2720, "macht_eind": {"staat": 0.206, "huizen": 0.103, "kerk": 0.064, "steden": 0.037, "dragers": 0.341, "buren": 0.226, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.139, "buren_honger": 1.315, "ev": 0.75, "aelthir": 0.299, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0190, seed 420190)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0191
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420191
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 30
+- **scores:** {"fasen": 16, "onopgelost": 10, "uitvindingen": [["TK-roestlak", 1041], ["TK-vrijladen", 1161], ["TK-lakijzer", 1881], ["TK-sporennet", 2281], ["TK-kweekakker", 2301], ["TK-heelkweek", 2361], ["TK-sporendruk", 2881], ["TK-lichtnet", 2921], ["TK-spiermolen", 2961], ["TK-steenlens", 3081], ["TK-kluisherstel", 3261], ["TK-vleesmetaal", 3301], ["TK-lichtcel", 3901], ["TK-sporenkern", 4461]], "uit_nood": 4, "magie_min": 0.126, "magie_eind": 0.126, "golven": 7, "techniek_eind": 1, "werkplaatsen_vanaf": 2961, "heersers": 4, "wetten": 18, "rustige_jaren": 2060, "macht_eind": {"staat": 0.217, "huizen": 0.052, "kerk": 0.004, "steden": 0.381, "dragers": 0.142, "buren": 0.183, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.132, "buren_honger": 1.111, "ev": 0.995, "aelthir": 0.621, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0191, seed 420191)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0192
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420192
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 12, "onopgelost": 7, "uitvindingen": [["TK-lichtnet", 1041], ["TK-kweekakker", 1721], ["TK-roestlak", 1741], ["TK-sporennet", 2061], ["TK-lakijzer", 2181], ["TK-sporendruk", 2701], ["TK-heelkweek", 2801], ["TK-vrijladen", 3221], ["TK-echonet", 3381], ["TK-spiermolen", 3401], ["TK-kluisherstel", 3581], ["TK-sporenkern", 3821], ["TK-steenlens", 3981]], "uit_nood": 6, "magie_min": 0.243, "magie_eind": 0.38, "golven": 16, "techniek_eind": 1, "werkplaatsen_vanaf": 3601, "heersers": 4, "wetten": 17, "rustige_jaren": 2660, "macht_eind": {"staat": 0.216, "huizen": 0.05, "kerk": 0.004, "steden": 0.226, "dragers": 0.347, "buren": 0.136, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.152, "buren_honger": 0.942, "ev": 1.191, "aelthir": 0.291, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0192, seed 420192)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0193
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420193
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 31
+- **scores:** {"fasen": 18, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 961], ["TK-roestlak", 1241], ["TK-steenlens", 1521], ["TK-lakijzer", 1781], ["TK-sporennet", 2281], ["TK-sporendruk", 2381], ["TK-kweekakker", 2521], ["TK-heelkweek", 2741], ["TK-spiermolen", 3001], ["TK-kluisherstel", 3141], ["TK-vleesmetaal", 3541], ["TK-lichtcel", 3561], ["TK-sporenkern", 4061]], "uit_nood": 3, "magie_min": 0.131, "magie_eind": 0.209, "golven": 8, "techniek_eind": 1, "werkplaatsen_vanaf": 3001, "heersers": 4, "wetten": 19, "rustige_jaren": 2000, "macht_eind": {"staat": 0.208, "huizen": 0.051, "kerk": 0.004, "steden": 0.376, "dragers": 0.132, "buren": 0.209, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.192, "buren_honger": 1.343, "ev": 1.118, "aelthir": 0.709, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0193, seed 420193)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0194
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420194
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 10, "onopgelost": 8, "uitvindingen": [["TK-kweekakker", 1461], ["TK-roestlak", 1761], ["TK-heelkweek", 1941], ["TK-kluisherstel", 2841], ["TK-vleesmetaal", 3041], ["TK-lakijzer", 3481], ["TK-spiermolen", 3521], ["TK-vrijladen", 3881], ["TK-sporenkern", 4721], ["TK-laadwerkplaats", 4861]], "uit_nood": 4, "magie_min": 0.352, "magie_eind": 0.378, "golven": 11, "techniek_eind": 0.763, "werkplaatsen_vanaf": 4721, "heersers": 5, "wetten": 15, "rustige_jaren": 1660, "macht_eind": {"staat": 0.242, "huizen": 0.076, "kerk": 0.04, "steden": 0.105, "dragers": 0.284, "buren": 0.233, "orrim": 0.008, "volk": 0.012}, "parameters": {"groei": 0.131, "buren_honger": 1.337, "ev": 1.258, "aelthir": 0.359, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0194, seed 420194)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0195
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420195
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 16, "onopgelost": 6, "uitvindingen": [["TK-roestlak", 1021], ["TK-sporennet", 1221], ["TK-sporendruk", 3321], ["TK-kweekakker", 3481], ["TK-lichtnet", 3521], ["TK-spiermolen", 3541], ["TK-steenlens", 3681], ["TK-heelkweek", 3741], ["TK-kluisherstel", 3801], ["TK-lichtcel", 4241], ["TK-lakijzer", 4441], ["TK-sporenkern", 4601]], "uit_nood": 8, "magie_min": 0.129, "magie_eind": 0.129, "golven": 12, "techniek_eind": 1, "werkplaatsen_vanaf": 3501, "heersers": 6, "wetten": 18, "rustige_jaren": 2400, "macht_eind": {"staat": 0.186, "huizen": 0.05, "kerk": 0.004, "steden": 0.368, "dragers": 0.164, "buren": 0.208, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.137, "buren_honger": 1.325, "ev": 0.752, "aelthir": 0.691, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0195, seed 420195)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0196
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420196
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 14, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1781], ["TK-kweekakker", 2001], ["TK-spiermolen", 2061], ["TK-roestlak", 2081], ["TK-heelkweek", 2281], ["TK-lakijzer", 2401], ["TK-lichtnet", 3101], ["TK-kluisherstel", 3181], ["TK-vleesmetaal", 3521], ["TK-sporenkern", 3961], ["TK-gaveglas", 4181], ["TK-steenlens", 4481]], "uit_nood": 3, "magie_min": 0.331, "magie_eind": 0.331, "golven": 9, "techniek_eind": 0.869, "werkplaatsen_vanaf": 3961, "heersers": 5, "wetten": 18, "rustige_jaren": 2240, "macht_eind": {"staat": 0.26, "huizen": 0.071, "kerk": 0.006, "steden": 0.183, "dragers": 0.33, "buren": 0.097, "orrim": 0.037, "volk": 0.017}, "parameters": {"groei": 0.135, "buren_honger": 0.716, "ev": 0.96, "aelthir": 0.248, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0196, seed 420196)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0197
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420197
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 5
+- **scores:** {"fasen": 3, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1381], ["TK-kluisherstel", 4841]], "uit_nood": 0, "magie_min": 0.347, "magie_eind": 0.347, "golven": 13, "techniek_eind": 0.428, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 12, "rustige_jaren": 3100, "macht_eind": {"staat": 0.334, "huizen": 0.086, "kerk": 0.096, "steden": 0.048, "dragers": 0.309, "buren": 0.093, "orrim": 0.012, "volk": 0.022}, "parameters": {"groei": 0.124, "buren_honger": 0.567, "ev": 1.125, "aelthir": 0.607, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0197, seed 420197)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0198
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420198
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 10, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 941], ["TK-laadwerkplaats", 1001], ["TK-echonet", 1081], ["TK-kluisherstel", 1101], ["TK-vleesmetaal", 1121], ["TK-lichtnet", 1141], ["TK-kweekakker", 1521], ["TK-roestlak", 1581], ["TK-heelkweek", 2081], ["TK-lakijzer", 2121], ["TK-steenlens", 2601], ["TK-lichtcel", 3621], ["TK-sporenkern", 3881]], "uit_nood": 8, "magie_min": 0.345, "magie_eind": 0.353, "golven": 10, "techniek_eind": 0.872, "werkplaatsen_vanaf": 3881, "heersers": 4, "wetten": 16, "rustige_jaren": 1980, "macht_eind": {"staat": 0.201, "huizen": 0.084, "kerk": 0.005, "steden": 0.175, "dragers": 0.206, "buren": 0.279, "orrim": 0.034, "volk": 0.016}, "parameters": {"groei": 0.193, "buren_honger": 1.403, "ev": 0.741, "aelthir": 0.6, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0198, seed 420198)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0199
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420199
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 7, "onopgelost": 10, "uitvindingen": [["TK-vrijladen", 1921], ["TK-kluisherstel", 4001], ["TK-echonet", 4341], ["TK-lichtnet", 4581]], "uit_nood": 0, "magie_min": 0.347, "magie_eind": 0.347, "golven": 7, "techniek_eind": 0.416, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 2500, "macht_eind": {"staat": 0.257, "huizen": 0.126, "kerk": 0.105, "steden": 0.049, "dragers": 0.315, "buren": 0.113, "orrim": 0.013, "volk": 0.023}, "parameters": {"groei": 0.149, "buren_honger": 0.601, "ev": 0.709, "aelthir": 0.609, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0199, seed 420199)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0200
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420200
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 21
+- **scores:** {"fasen": 13, "onopgelost": 11, "uitvindingen": [["TK-roestlak", 2081], ["TK-lakijzer", 2341], ["TK-kweekakker", 2741], ["TK-spiermolen", 2801], ["TK-heelkweek", 3081], ["TK-kluisherstel", 3341], ["TK-vleesmetaal", 3561], ["TK-sporenkern", 3961]], "uit_nood": 4, "magie_min": 0.334, "magie_eind": 0.334, "golven": 12, "techniek_eind": 0.849, "werkplaatsen_vanaf": 3961, "heersers": 4, "wetten": 17, "rustige_jaren": 2000, "macht_eind": {"staat": 0.235, "huizen": 0.06, "kerk": 0.005, "steden": 0.185, "dragers": 0.252, "buren": 0.238, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.209, "buren_honger": 1.349, "ev": 1.125, "aelthir": 0.38, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0200, seed 420200)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0201
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420201
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 7, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1521], ["TK-kluisherstel", 4001], ["TK-lichtnet", 4381], ["TK-steenlens", 4861]], "uit_nood": 0, "magie_min": 0.355, "magie_eind": 0.492, "golven": 13, "techniek_eind": 0.51, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 3120, "macht_eind": {"staat": 0.218, "huizen": 0.088, "kerk": 0.048, "steden": 0.065, "dragers": 0.377, "buren": 0.154, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.146, "buren_honger": 0.896, "ev": 0.759, "aelthir": 0.66, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0201, seed 420201)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0202
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420202
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 11, "onopgelost": 9, "uitvindingen": [["TK-lichtnet", 981], ["TK-vrijladen", 1261], ["TK-laadwerkplaats", 1521], ["TK-steenlens", 2301], ["TK-kweekakker", 2321], ["TK-heelkweek", 2381], ["TK-roestlak", 2661], ["TK-kluisherstel", 3061], ["TK-vleesmetaal", 3221], ["TK-lichtcel", 3281], ["TK-lakijzer", 3761], ["TK-sporenkern", 3881], ["TK-gaveglas", 3981]], "uit_nood": 5, "magie_min": 0.339, "magie_eind": 0.481, "golven": 14, "techniek_eind": 0.918, "werkplaatsen_vanaf": 3881, "heersers": 3, "wetten": 18, "rustige_jaren": 1960, "macht_eind": {"staat": 0.237, "huizen": 0.057, "kerk": 0.005, "steden": 0.162, "dragers": 0.312, "buren": 0.181, "orrim": 0.03, "volk": 0.015}, "parameters": {"groei": 0.178, "buren_honger": 1.083, "ev": 1.157, "aelthir": 0.222, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0202, seed 420202)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0203
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420203
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 13, "onopgelost": 3, "uitvindingen": [["TK-roestlak", 1001], ["TK-kweekakker", 1501], ["TK-spiermolen", 1561], ["TK-heelkweek", 1701], ["TK-vrijladen", 2061], ["TK-echonet", 3001], ["TK-kluisherstel", 3041], ["TK-lichtnet", 3201], ["TK-vleesmetaal", 3301], ["TK-sporenkern", 3341], ["TK-steenlens", 3401], ["TK-lakijzer", 3801], ["TK-laadwerkplaats", 4121], ["TK-sporennet", 4921]], "uit_nood": 7, "magie_min": 0.274, "magie_eind": 0.274, "golven": 12, "techniek_eind": 1, "werkplaatsen_vanaf": 3341, "heersers": 4, "wetten": 19, "rustige_jaren": 2840, "macht_eind": {"staat": 0.266, "huizen": 0.082, "kerk": 0.005, "steden": 0.291, "dragers": 0.257, "buren": 0.05, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.189, "buren_honger": 0.53, "ev": 1.051, "aelthir": 0.326, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0203, seed 420203)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0204
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420204
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 13, "onopgelost": 10, "uitvindingen": [["TK-lichtnet", 1001], ["TK-steenlens", 1061], ["TK-vrijladen", 1281], ["TK-gaveglas", 1341], ["TK-laadwerkplaats", 1461], ["TK-kweekakker", 3041], ["TK-spiermolen", 3061], ["TK-roestlak", 3581], ["TK-kluisherstel", 3661], ["TK-heelkweek", 4201], ["TK-sporenkern", 4221], ["TK-lakijzer", 4581]], "uit_nood": 6, "magie_min": 0.338, "magie_eind": 0.338, "golven": 13, "techniek_eind": 0.774, "werkplaatsen_vanaf": 4221, "heersers": 3, "wetten": 18, "rustige_jaren": 2400, "macht_eind": {"staat": 0.229, "huizen": 0.097, "kerk": 0.005, "steden": 0.153, "dragers": 0.404, "buren": 0.085, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.192, "buren_honger": 0.732, "ev": 1.182, "aelthir": 0.675, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0204, seed 420204)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0205
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420205
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 12, "onopgelost": 12, "uitvindingen": [["TK-vrijladen", 921], ["TK-laadwerkplaats", 1021], ["TK-echonet", 1661], ["TK-kweekakker", 1981], ["TK-spiermolen", 2061], ["TK-heelkweek", 3001], ["TK-roestlak", 3861], ["TK-lakijzer", 4061]], "uit_nood": 5, "magie_min": 0.369, "magie_eind": 0.369, "golven": 17, "techniek_eind": 0.583, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 16, "rustige_jaren": 2360, "macht_eind": {"staat": 0.187, "huizen": 0.084, "kerk": 0.005, "steden": 0.12, "dragers": 0.337, "buren": 0.247, "orrim": 0.008, "volk": 0.012}, "parameters": {"groei": 0.195, "buren_honger": 1.469, "ev": 1.221, "aelthir": 0.405, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0205, seed 420205)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0206
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420206
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 5, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 2401], ["TK-lichtnet", 2941], ["TK-kluisherstel", 3161], ["TK-kweekakker", 4301], ["TK-spiermolen", 4321], ["TK-roestlak", 4641], ["TK-heelkweek", 4861], ["TK-lakijzer", 4901]], "uit_nood": 3, "magie_min": 0.348, "magie_eind": 0.348, "golven": 12, "techniek_eind": 0.562, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 3300, "macht_eind": {"staat": 0.272, "huizen": 0.085, "kerk": 0.045, "steden": 0.091, "dragers": 0.283, "buren": 0.199, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.2, "buren_honger": 1.045, "ev": 1.114, "aelthir": 0.587, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0206, seed 420206)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0207
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420207
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 6
+- **scores:** {"fasen": 4, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 3461], ["TK-lichtnet", 4481]], "uit_nood": 1, "magie_min": 0.348, "magie_eind": 0.426, "golven": 9, "techniek_eind": 0.39, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 1780, "macht_eind": {"staat": 0.292, "huizen": 0.118, "kerk": 0.108, "steden": 0.049, "dragers": 0.33, "buren": 0.071, "orrim": 0.012, "volk": 0.021}, "parameters": {"groei": 0.168, "buren_honger": 0.5, "ev": 0.775, "aelthir": 0.338, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0207, seed 420207)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0208
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420208
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 16, "onopgelost": 7, "uitvindingen": [["TK-roestlak", 1421], ["TK-vrijladen", 1681], ["TK-laadwerkplaats", 1781], ["TK-echonet", 1821], ["TK-kweekakker", 2661], ["TK-spiermolen", 2701], ["TK-sporennet", 3161], ["TK-heelkweek", 3201], ["TK-sporendruk", 3261], ["TK-kluisherstel", 3461], ["TK-lakijzer", 4421], ["TK-sporenkern", 4481]], "uit_nood": 9, "magie_min": 0.164, "magie_eind": 0.164, "golven": 9, "techniek_eind": 1, "werkplaatsen_vanaf": 3261, "heersers": 4, "wetten": 18, "rustige_jaren": 2540, "macht_eind": {"staat": 0.231, "huizen": 0.06, "kerk": 0.005, "steden": 0.395, "dragers": 0.172, "buren": 0.112, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.207, "buren_honger": 0.799, "ev": 0.913, "aelthir": 0.497, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0208, seed 420208)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0209
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420209
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 14, "onopgelost": 13, "uitvindingen": [["TK-roestlak", 1221], ["TK-vrijladen", 1981], ["TK-laadwerkplaats", 2001], ["TK-kweekakker", 2041], ["TK-spiermolen", 2061], ["TK-heelkweek", 2141], ["TK-echonet", 2481], ["TK-lakijzer", 2941], ["TK-kluisherstel", 4341], ["TK-vleesmetaal", 4781]], "uit_nood": 5, "magie_min": 0.358, "magie_eind": 0.504, "golven": 18, "techniek_eind": 0.634, "werkplaatsen_vanaf": 4921, "heersers": 3, "wetten": 18, "rustige_jaren": 1360, "macht_eind": {"staat": 0.236, "huizen": 0.1, "kerk": 0.027, "steden": 0.107, "dragers": 0.38, "buren": 0.106, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.2, "buren_honger": 0.796, "ev": 1.248, "aelthir": 0.454, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0209, seed 420209)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0210
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420210
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 15, "onopgelost": 4, "uitvindingen": [["TK-roestlak", 941], ["TK-vrijladen", 981], ["TK-echonet", 1081], ["TK-sporennet", 1261], ["TK-kweekakker", 2001], ["TK-laadwerkplaats", 2041], ["TK-sporendruk", 2141], ["TK-heelkweek", 2381], ["TK-spiermolen", 2581], ["TK-lakijzer", 2701], ["TK-kluisherstel", 4001], ["TK-vleesmetaal", 4021], ["TK-sporenkern", 4041]], "uit_nood": 5, "magie_min": 0.153, "magie_eind": 0.153, "golven": 9, "techniek_eind": 1, "werkplaatsen_vanaf": 3321, "heersers": 3, "wetten": 19, "rustige_jaren": 2860, "macht_eind": {"staat": 0.188, "huizen": 0.047, "kerk": 0.004, "steden": 0.3, "dragers": 0.183, "buren": 0.261, "orrim": 0.007, "volk": 0.011}, "parameters": {"groei": 0.161, "buren_honger": 1.437, "ev": 0.82, "aelthir": 0.632, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0210, seed 420210)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0211
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420211
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 3, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1181], ["TK-kweekakker", 1801], ["TK-echonet", 2301], ["TK-lichtnet", 3041], ["TK-kluisherstel", 3121], ["TK-vleesmetaal", 3801], ["TK-heelkweek", 4021]], "uit_nood": 1, "magie_min": 0.347, "magie_eind": 0.347, "golven": 6, "techniek_eind": 0.443, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 3580, "macht_eind": {"staat": 0.407, "huizen": 0.095, "kerk": 0.087, "steden": 0.08, "dragers": 0.204, "buren": 0.091, "orrim": 0.014, "volk": 0.023}, "parameters": {"groei": 0.142, "buren_honger": 0.516, "ev": 0.759, "aelthir": 0.526, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0211, seed 420211)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0212
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420212
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 7, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1441], ["TK-echonet", 2041], ["TK-roestlak", 4241], ["TK-kluisherstel", 4741], ["TK-lakijzer", 4781]], "uit_nood": 1, "magie_min": 0.353, "magie_eind": 0.353, "golven": 12, "techniek_eind": 0.545, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 13, "rustige_jaren": 2580, "macht_eind": {"staat": 0.229, "huizen": 0.062, "kerk": 0.051, "steden": 0.105, "dragers": 0.243, "buren": 0.285, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.186, "buren_honger": 1.412, "ev": 0.971, "aelthir": 0.562, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0212, seed 420212)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0213
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420213
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 11, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1241], ["TK-laadwerkplaats", 1501], ["TK-echonet", 1601], ["TK-sporennet", 1621], ["TK-roestlak", 1661], ["TK-sporendruk", 2381], ["TK-lakijzer", 2441], ["TK-kluisherstel", 2661], ["TK-kweekakker", 3041], ["TK-heelkweek", 3121], ["TK-lichtnet", 3141], ["TK-sporenkern", 3541], ["TK-vleesmetaal", 3781], ["TK-spiermolen", 3921], ["TK-steenlens", 4021], ["TK-lichtcel", 4721]], "uit_nood": 6, "magie_min": 0.32, "magie_eind": 0.358, "golven": 13, "techniek_eind": 1, "werkplaatsen_vanaf": 3541, "heersers": 2, "wetten": 16, "rustige_jaren": 2460, "macht_eind": {"staat": 0.253, "huizen": 0.076, "kerk": 0.005, "steden": 0.203, "dragers": 0.214, "buren": 0.228, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.166, "buren_honger": 1.323, "ev": 0.709, "aelthir": 0.635, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0213, seed 420213)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0214
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420214
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 21
+- **scores:** {"fasen": 9, "onopgelost": 11, "uitvindingen": [["TK-vrijladen", 1041], ["TK-echonet", 1061], ["TK-lichtnet", 1081], ["TK-steenlens", 1161], ["TK-lichtcel", 1181], ["TK-roestlak", 1621], ["TK-gaveglas", 1901], ["TK-kweekakker", 2001], ["TK-spiermolen", 2061], ["TK-lakijzer", 3281], ["TK-heelkweek", 3701], ["TK-kluisherstel", 4681]], "uit_nood": 6, "magie_min": 0.321, "magie_eind": 0.321, "golven": 8, "techniek_eind": 0.817, "werkplaatsen_vanaf": 4161, "heersers": 3, "wetten": 16, "rustige_jaren": 1000, "macht_eind": {"staat": 0.272, "huizen": 0.077, "kerk": 0.006, "steden": 0.259, "dragers": 0.236, "buren": 0.121, "orrim": 0.01, "volk": 0.019}, "parameters": {"groei": 0.189, "buren_honger": 0.673, "ev": 0.702, "aelthir": 0.342, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0214, seed 420214)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0215
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420215
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 6, "onopgelost": 4, "uitvindingen": [["TK-vrijladen", 1881], ["TK-lichtnet", 2801], ["TK-steenlens", 2881], ["TK-echonet", 2981], ["TK-lichtcel", 3021], ["TK-kweekakker", 3041], ["TK-heelkweek", 3061], ["TK-spiermolen", 3081], ["TK-roestlak", 3921], ["TK-lakijzer", 4641]], "uit_nood": 4, "magie_min": 0.352, "magie_eind": 0.354, "golven": 11, "techniek_eind": 0.632, "werkplaatsen_vanaf": 4661, "heersers": 3, "wetten": 14, "rustige_jaren": 3400, "macht_eind": {"staat": 0.279, "huizen": 0.062, "kerk": 0.041, "steden": 0.125, "dragers": 0.233, "buren": 0.234, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.19, "buren_honger": 1.118, "ev": 0.766, "aelthir": 0.676, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0215, seed 420215)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0216
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420216
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 32
+- **scores:** {"fasen": 21, "onopgelost": 15, "uitvindingen": [["TK-vrijladen", 1021], ["TK-echonet", 1121], ["TK-laadwerkplaats", 1241], ["TK-sporennet", 1561], ["TK-roestlak", 1861], ["TK-sporendruk", 1961], ["TK-kweekakker", 2561], ["TK-heelkweek", 2601], ["TK-spiermolen", 2621], ["TK-lakijzer", 3221], ["TK-lichtnet", 4921]], "uit_nood": 6, "magie_min": 0.147, "magie_eind": 0.285, "golven": 16, "techniek_eind": 1, "werkplaatsen_vanaf": 3221, "heersers": 4, "wetten": 19, "rustige_jaren": 340, "macht_eind": {"staat": 0.062, "huizen": 0.048, "kerk": 0.004, "steden": 0.312, "dragers": 0.374, "buren": 0.161, "orrim": 0.028, "volk": 0.011}, "parameters": {"groei": 0.156, "buren_honger": 1.38, "ev": 1.299, "aelthir": 0.602, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0216, seed 420216)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0217
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420217
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 18, "onopgelost": 10, "uitvindingen": [["TK-sporennet", 921], ["TK-vrijladen", 1141], ["TK-laadwerkplaats", 1201], ["TK-roestlak", 1221], ["TK-sporendruk", 2361], ["TK-kweekakker", 2961], ["TK-heelkweek", 3381], ["TK-lakijzer", 3541], ["TK-lichtnet", 4001], ["TK-kluisherstel", 4901]], "uit_nood": 6, "magie_min": 0.125, "magie_eind": 0.125, "golven": 13, "techniek_eind": 1, "werkplaatsen_vanaf": 3021, "heersers": 4, "wetten": 18, "rustige_jaren": 2020, "macht_eind": {"staat": 0.165, "huizen": 0.065, "kerk": 0.006, "steden": 0.537, "dragers": 0.135, "buren": 0.067, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.151, "buren_honger": 0.557, "ev": 1.2, "aelthir": 0.693, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0217, seed 420217)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0218
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420218
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 19
+- **scores:** {"fasen": 8, "onopgelost": 11, "uitvindingen": [["TK-sporennet", 1101], ["TK-vrijladen", 1581], ["TK-laadwerkplaats", 1621], ["TK-roestlak", 1841], ["TK-kweekakker", 2281], ["TK-heelkweek", 3301], ["TK-lakijzer", 3581], ["TK-kluisherstel", 4101], ["TK-sporendruk", 4181], ["TK-lichtnet", 4541], ["TK-steenlens", 4761]], "uit_nood": 3, "magie_min": 0.352, "magie_eind": 0.352, "golven": 13, "techniek_eind": 0.65, "werkplaatsen_vanaf": 5001, "heersers": 3, "wetten": 16, "rustige_jaren": 2520, "macht_eind": {"staat": 0.231, "huizen": 0.073, "kerk": 0.024, "steden": 0.135, "dragers": 0.348, "buren": 0.169, "orrim": 0.01, "volk": 0.01}, "parameters": {"groei": 0.198, "buren_honger": 0.877, "ev": 1.226, "aelthir": 0.706, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0218, seed 420218)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0219
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420219
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 13, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1021], ["TK-roestlak", 1761], ["TK-kweekakker", 2701], ["TK-lichtnet", 3241], ["TK-sporennet", 3261], ["TK-sporendruk", 3321], ["TK-steenlens", 3561], ["TK-lakijzer", 3841], ["TK-heelkweek", 3921], ["TK-kluisherstel", 4001], ["TK-sporenkern", 4321], ["TK-lichtcel", 4581], ["TK-vleesmetaal", 4741]], "uit_nood": 6, "magie_min": 0.16, "magie_eind": 0.16, "golven": 7, "techniek_eind": 1, "werkplaatsen_vanaf": 3601, "heersers": 3, "wetten": 17, "rustige_jaren": 2740, "macht_eind": {"staat": 0.259, "huizen": 0.06, "kerk": 0.005, "steden": 0.362, "dragers": 0.141, "buren": 0.148, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.146, "buren_honger": 0.889, "ev": 0.737, "aelthir": 0.472, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0219, seed 420219)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0220
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420220
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 30
+- **scores:** {"fasen": 18, "onopgelost": 17, "uitvindingen": [["TK-vrijladen", 1421], ["TK-echonet", 1481], ["TK-laadwerkplaats", 1821], ["TK-roestlak", 2481], ["TK-lakijzer", 2521], ["TK-kweekakker", 2981], ["TK-heelkweek", 3221], ["TK-spiermolen", 3781], ["TK-kluisherstel", 3881], ["TK-sporenkern", 4081], ["TK-lichtnet", 4761], ["TK-sporennet", 4821]], "uit_nood": 8, "magie_min": 0.277, "magie_eind": 0.277, "golven": 13, "techniek_eind": 1, "werkplaatsen_vanaf": 3881, "heersers": 5, "wetten": 19, "rustige_jaren": 1300, "macht_eind": {"staat": 0.173, "huizen": 0.056, "kerk": 0.005, "steden": 0.209, "dragers": 0.392, "buren": 0.122, "orrim": 0.032, "volk": 0.011}, "parameters": {"groei": 0.175, "buren_honger": 0.969, "ev": 1.169, "aelthir": 0.724, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0220, seed 420220)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0221
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420221
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 13, "onopgelost": 9, "uitvindingen": [["TK-sporennet", 1341], ["TK-vrijladen", 1541], ["TK-kweekakker", 1561], ["TK-roestlak", 1581], ["TK-spiermolen", 1621], ["TK-heelkweek", 1781], ["TK-lakijzer", 2341], ["TK-sporendruk", 3241], ["TK-lichtnet", 3541], ["TK-gaveglas", 3561], ["TK-steenlens", 3621], ["TK-lichtcel", 3661], ["TK-kluisherstel", 3961], ["TK-vleesmetaal", 4361], ["TK-sporenkern", 4481]], "uit_nood": 6, "magie_min": 0.311, "magie_eind": 0.41, "golven": 9, "techniek_eind": 0.976, "werkplaatsen_vanaf": 3661, "heersers": 4, "wetten": 19, "rustige_jaren": 2160, "macht_eind": {"staat": 0.25, "huizen": 0.119, "kerk": 0.007, "steden": 0.314, "dragers": 0.182, "buren": 0.097, "orrim": 0.011, "volk": 0.02}, "parameters": {"groei": 0.173, "buren_honger": 0.595, "ev": 0.741, "aelthir": 0.217, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0221, seed 420221)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0222
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420222
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 30
+- **scores:** {"fasen": 16, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 961], ["TK-lichtnet", 1041], ["TK-roestlak", 1201], ["TK-kweekakker", 1721], ["TK-steenlens", 1761], ["TK-lakijzer", 1781], ["TK-spiermolen", 1981], ["TK-heelkweek", 2381], ["TK-sporennet", 2461], ["TK-sporendruk", 3061], ["TK-lichtcel", 3461], ["TK-gaveglas", 3521], ["TK-kluisherstel", 3681], ["TK-sporenkern", 3961]], "uit_nood": 10, "magie_min": 0.133, "magie_eind": 0.249, "golven": 9, "techniek_eind": 1, "werkplaatsen_vanaf": 3121, "heersers": 3, "wetten": 17, "rustige_jaren": 2420, "macht_eind": {"staat": 0.229, "huizen": 0.057, "kerk": 0.005, "steden": 0.376, "dragers": 0.099, "buren": 0.213, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.186, "buren_honger": 1.328, "ev": 1.037, "aelthir": 0.486, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0222, seed 420222)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0223
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420223
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 19
+- **scores:** {"fasen": 9, "onopgelost": 7, "uitvindingen": [["TK-lichtnet", 1061], ["TK-vrijladen", 1381], ["TK-laadwerkplaats", 1741], ["TK-gaveglas", 1781], ["TK-steenlens", 2601], ["TK-kweekakker", 2901], ["TK-heelkweek", 3241], ["TK-kluisherstel", 3521], ["TK-vleesmetaal", 3701], ["TK-roestlak", 4821]], "uit_nood": 4, "magie_min": 0.348, "magie_eind": 0.348, "golven": 12, "techniek_eind": 0.585, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 16, "rustige_jaren": 2800, "macht_eind": {"staat": 0.206, "huizen": 0.083, "kerk": 0.032, "steden": 0.094, "dragers": 0.297, "buren": 0.243, "orrim": 0.031, "volk": 0.015}, "parameters": {"groei": 0.142, "buren_honger": 1.39, "ev": 1.045, "aelthir": 0.607, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0223, seed 420223)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0224
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420224
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 15, "onopgelost": 10, "uitvindingen": [["TK-lichtnet", 1061], ["TK-roestlak", 1101], ["TK-steenlens", 1201], ["TK-lakijzer", 1841], ["TK-sporennet", 2661], ["TK-sporendruk", 2941], ["TK-lichtcel", 3081], ["TK-kluisherstel", 3141], ["TK-kweekakker", 3521], ["TK-heelkweek", 3681], ["TK-spiermolen", 3801], ["TK-vleesmetaal", 3961]], "uit_nood": 8, "magie_min": 0.125, "magie_eind": 0.274, "golven": 5, "techniek_eind": 1, "werkplaatsen_vanaf": 2861, "heersers": 4, "wetten": 16, "rustige_jaren": 1940, "macht_eind": {"staat": 0.21, "huizen": 0.056, "kerk": 0.005, "steden": 0.49, "dragers": 0.033, "buren": 0.184, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.187, "buren_honger": 1.063, "ev": 0.723, "aelthir": 0.675, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0224, seed 420224)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0225
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420225
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 7, "onopgelost": 6, "uitvindingen": [["TK-kweekakker", 1961], ["TK-spiermolen", 1981], ["TK-vrijladen", 2701], ["TK-lichtnet", 3021], ["TK-echonet", 3081], ["TK-heelkweek", 3161], ["TK-steenlens", 3721], ["TK-lichtcel", 3741]], "uit_nood": 2, "magie_min": 0.352, "magie_eind": 0.584, "golven": 10, "techniek_eind": 0.594, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 3320, "macht_eind": {"staat": 0.228, "huizen": 0.055, "kerk": 0.037, "steden": 0.099, "dragers": 0.299, "buren": 0.259, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.178, "buren_honger": 1.393, "ev": 0.989, "aelthir": 0.298, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0225, seed 420225)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0226
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420226
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 9, "onopgelost": 4, "uitvindingen": [["TK-vrijladen", 1501], ["TK-lichtnet", 2961], ["TK-kluisherstel", 4121], ["TK-vleesmetaal", 4701]], "uit_nood": 0, "magie_min": 0.368, "magie_eind": 0.611, "golven": 13, "techniek_eind": 0.448, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 3220, "macht_eind": {"staat": 0.238, "huizen": 0.103, "kerk": 0.067, "steden": 0.039, "dragers": 0.325, "buren": 0.183, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.138, "buren_honger": 1.035, "ev": 1.153, "aelthir": 0.336, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0226, seed 420226)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0227
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420227
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 8, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 1401], ["TK-kweekakker", 1661], ["TK-heelkweek", 2441], ["TK-lichtnet", 3081], ["TK-kluisherstel", 3301], ["TK-steenlens", 4101]], "uit_nood": 3, "magie_min": 0.353, "magie_eind": 0.397, "golven": 15, "techniek_eind": 0.517, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 15, "rustige_jaren": 2440, "macht_eind": {"staat": 0.268, "huizen": 0.084, "kerk": 0.051, "steden": 0.071, "dragers": 0.312, "buren": 0.189, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.19, "buren_honger": 1.031, "ev": 0.861, "aelthir": 0.272, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0227, seed 420227)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0228
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420228
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 32
+- **scores:** {"fasen": 19, "onopgelost": 5, "uitvindingen": [["TK-lichtnet", 881], ["TK-kluisherstel", 1221], ["TK-vleesmetaal", 1281], ["TK-steenlens", 1361], ["TK-roestlak", 1481], ["TK-kweekakker", 1641], ["TK-sporennet", 2021], ["TK-sporendruk", 2141], ["TK-sporenkern", 2201], ["TK-lakijzer", 2221], ["TK-heelkweek", 2361], ["TK-lichtcel", 3641], ["TK-spiermolen", 3861]], "uit_nood": 7, "magie_min": 0.124, "magie_eind": 0.203, "golven": 10, "techniek_eind": 1, "werkplaatsen_vanaf": 2201, "heersers": 4, "wetten": 19, "rustige_jaren": 2260, "macht_eind": {"staat": 0.191, "huizen": 0.048, "kerk": 0.004, "steden": 0.444, "dragers": 0.084, "buren": 0.208, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.194, "buren_honger": 1.364, "ev": 1.237, "aelthir": 0.625, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0228, seed 420228)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0229
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420229
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 13, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 1061], ["TK-kweekakker", 1321], ["TK-spiermolen", 1441], ["TK-echonet", 1741], ["TK-heelkweek", 1901], ["TK-roestlak", 2861], ["TK-lakijzer", 2981], ["TK-lichtnet", 3081], ["TK-steenlens", 4161], ["TK-lichtcel", 4681], ["TK-kluisherstel", 4741], ["TK-sporenkern", 4801], ["TK-vleesmetaal", 4881]], "uit_nood": 6, "magie_min": 0.341, "magie_eind": 0.341, "golven": 11, "techniek_eind": 0.993, "werkplaatsen_vanaf": 4161, "heersers": 3, "wetten": 18, "rustige_jaren": 1840, "macht_eind": {"staat": 0.295, "huizen": 0.069, "kerk": 0.006, "steden": 0.209, "dragers": 0.298, "buren": 0.066, "orrim": 0.039, "volk": 0.017}, "parameters": {"groei": 0.199, "buren_honger": 0.638, "ev": 0.702, "aelthir": 0.263, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0229, seed 420229)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0230
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420230
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 6, "onopgelost": 11, "uitvindingen": [["TK-vrijladen", 1061], ["TK-roestlak", 1221], ["TK-echonet", 2881], ["TK-kweekakker", 2921], ["TK-spiermolen", 3001], ["TK-lakijzer", 3121], ["TK-kluisherstel", 3761], ["TK-heelkweek", 3941], ["TK-vleesmetaal", 4661]], "uit_nood": 2, "magie_min": 0.356, "magie_eind": 0.356, "golven": 7, "techniek_eind": 0.566, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 2580, "macht_eind": {"staat": 0.248, "huizen": 0.071, "kerk": 0.037, "steden": 0.138, "dragers": 0.244, "buren": 0.232, "orrim": 0.01, "volk": 0.02}, "parameters": {"groei": 0.156, "buren_honger": 1.063, "ev": 0.777, "aelthir": 0.398, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0230, seed 420230)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0231
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420231
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 5, "onopgelost": 4, "uitvindingen": [["TK-vrijladen", 4101], ["TK-kluisherstel", 4341], ["TK-vleesmetaal", 4861]], "uit_nood": 0, "magie_min": 0.367, "magie_eind": 0.37, "golven": 17, "techniek_eind": 0.43, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 14, "rustige_jaren": 2300, "macht_eind": {"staat": 0.287, "huizen": 0.067, "kerk": 0.133, "steden": 0.042, "dragers": 0.371, "buren": 0.078, "orrim": 0.01, "volk": 0.013}, "parameters": {"groei": 0.147, "buren_honger": 0.584, "ev": 1.131, "aelthir": 0.408, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0231, seed 420231)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0232
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420232
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 9, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 2141], ["TK-laadwerkplaats", 2961], ["TK-echonet", 3001], ["TK-lichtnet", 3561], ["TK-kluisherstel", 3721], ["TK-gaveglas", 4861]], "uit_nood": 1, "magie_min": 0.355, "magie_eind": 0.371, "golven": 15, "techniek_eind": 0.476, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 17, "rustige_jaren": 1860, "macht_eind": {"staat": 0.264, "huizen": 0.079, "kerk": 0.068, "steden": 0.052, "dragers": 0.292, "buren": 0.204, "orrim": 0.03, "volk": 0.012}, "parameters": {"groei": 0.137, "buren_honger": 1.133, "ev": 1.182, "aelthir": 0.624, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0232, seed 420232)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0233
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420233
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 6, "onopgelost": 4, "uitvindingen": [["TK-vrijladen", 1281], ["TK-laadwerkplaats", 1421], ["TK-kweekakker", 1541], ["TK-spiermolen", 1661], ["TK-heelkweek", 2461], ["TK-kluisherstel", 3301], ["TK-vleesmetaal", 3401], ["TK-lichtnet", 3501], ["TK-roestlak", 3781]], "uit_nood": 2, "magie_min": 0.339, "magie_eind": 0.385, "golven": 8, "techniek_eind": 0.665, "werkplaatsen_vanaf": 4661, "heersers": 1, "wetten": 15, "rustige_jaren": 3400, "macht_eind": {"staat": 0.301, "huizen": 0.091, "kerk": 0.005, "steden": 0.124, "dragers": 0.198, "buren": 0.255, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.215, "buren_honger": 1.152, "ev": 0.787, "aelthir": 0.658, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0233, seed 420233)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0234
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420234
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 12, "onopgelost": 8, "uitvindingen": [["TK-kluisherstel", 1041], ["TK-roestlak", 1581], ["TK-vrijladen", 1641], ["TK-lakijzer", 2181], ["TK-kweekakker", 2221], ["TK-spiermolen", 2261], ["TK-laadwerkplaats", 2281], ["TK-sporenkern", 3001], ["TK-lichtnet", 3241], ["TK-steenlens", 3321], ["TK-heelkweek", 3401], ["TK-sporennet", 4301]], "uit_nood": 8, "magie_min": 0.248, "magie_eind": 0.248, "golven": 16, "techniek_eind": 1, "werkplaatsen_vanaf": 3001, "heersers": 3, "wetten": 17, "rustige_jaren": 2560, "macht_eind": {"staat": 0.211, "huizen": 0.056, "kerk": 0.005, "steden": 0.266, "dragers": 0.314, "buren": 0.101, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.151, "buren_honger": 0.813, "ev": 1.287, "aelthir": 0.728, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0234, seed 420234)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0235
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420235
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 12, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 1061], ["TK-roestlak", 1101], ["TK-vrijladen", 2101], ["TK-echonet", 2301], ["TK-lakijzer", 2481], ["TK-laadwerkplaats", 2621], ["TK-kweekakker", 2641], ["TK-spiermolen", 3481], ["TK-steenlens", 3761], ["TK-lichtcel", 3901], ["TK-kluisherstel", 4321], ["TK-heelkweek", 4621]], "uit_nood": 6, "magie_min": 0.339, "magie_eind": 0.396, "golven": 14, "techniek_eind": 0.899, "werkplaatsen_vanaf": 3901, "heersers": 3, "wetten": 17, "rustige_jaren": 2560, "macht_eind": {"staat": 0.248, "huizen": 0.082, "kerk": 0.005, "steden": 0.204, "dragers": 0.32, "buren": 0.119, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.193, "buren_honger": 0.824, "ev": 0.86, "aelthir": 0.678, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0235, seed 420235)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0236
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420236
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 11, "onopgelost": 5, "uitvindingen": [["TK-roestlak", 1021], ["TK-lakijzer", 1901], ["TK-kweekakker", 2101], ["TK-sporennet", 2161], ["TK-heelkweek", 2821], ["TK-sporendruk", 3221], ["TK-lichtnet", 3321], ["TK-spiermolen", 3381], ["TK-kluisherstel", 3441], ["TK-steenlens", 3461], ["TK-lichtcel", 3601], ["TK-sporenkern", 3701], ["TK-vleesmetaal", 3961]], "uit_nood": 5, "magie_min": 0.137, "magie_eind": 0.276, "golven": 13, "techniek_eind": 1, "werkplaatsen_vanaf": 3441, "heersers": 3, "wetten": 17, "rustige_jaren": 2620, "macht_eind": {"staat": 0.226, "huizen": 0.053, "kerk": 0.005, "steden": 0.386, "dragers": 0.108, "buren": 0.201, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.147, "buren_honger": 1.135, "ev": 1.064, "aelthir": 0.554, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0236, seed 420236)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0237
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420237
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 35
+- **scores:** {"fasen": 19, "onopgelost": 7, "uitvindingen": [["TK-lichtnet", 881], ["TK-vrijladen", 1141], ["TK-echonet", 1181], ["TK-kluisherstel", 1241], ["TK-roestlak", 1441], ["TK-laadwerkplaats", 1461], ["TK-kweekakker", 1561], ["TK-spiermolen", 1581], ["TK-steenlens", 2201], ["TK-heelkweek", 2221], ["TK-sporennet", 2281], ["TK-lakijzer", 2381], ["TK-sporendruk", 2981], ["TK-sporenkern", 3001], ["TK-vleesmetaal", 3121], ["TK-lichtcel", 3281]], "uit_nood": 11, "magie_min": 0.125, "magie_eind": 0.129, "golven": 12, "techniek_eind": 1, "werkplaatsen_vanaf": 2361, "heersers": 3, "wetten": 20, "rustige_jaren": 2200, "macht_eind": {"staat": 0.211, "huizen": 0.08, "kerk": 0.005, "steden": 0.497, "dragers": 0.113, "buren": 0.072, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.157, "buren_honger": 0.73, "ev": 1.275, "aelthir": 0.559, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0237, seed 420237)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0238
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420238
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 12, "onopgelost": 6, "uitvindingen": [["TK-sporennet", 1041], ["TK-roestlak", 1201], ["TK-kweekakker", 1761], ["TK-sporendruk", 2081], ["TK-spiermolen", 2121], ["TK-lakijzer", 2221], ["TK-heelkweek", 2261], ["TK-kluisherstel", 2881], ["TK-lichtnet", 3081], ["TK-sporenkern", 3201], ["TK-steenlens", 3381], ["TK-lichtcel", 3701], ["TK-vleesmetaal", 4621]], "uit_nood": 4, "magie_min": 0.173, "magie_eind": 0.309, "golven": 7, "techniek_eind": 1, "werkplaatsen_vanaf": 3201, "heersers": 2, "wetten": 16, "rustige_jaren": 2760, "macht_eind": {"staat": 0.238, "huizen": 0.057, "kerk": 0.005, "steden": 0.351, "dragers": 0.198, "buren": 0.128, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.188, "buren_honger": 0.844, "ev": 1.095, "aelthir": 0.707, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0238, seed 420238)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0239
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420239
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 19
+- **scores:** {"fasen": 11, "onopgelost": 10, "uitvindingen": [["TK-roestlak", 1701], ["TK-kweekakker", 2181], ["TK-heelkweek", 2921], ["TK-lakijzer", 3221], ["TK-lichtnet", 3481], ["TK-steenlens", 3681], ["TK-kluisherstel", 3701], ["TK-sporenkern", 4141]], "uit_nood": 2, "magie_min": 0.341, "magie_eind": 0.341, "golven": 18, "techniek_eind": 0.842, "werkplaatsen_vanaf": 4141, "heersers": 4, "wetten": 17, "rustige_jaren": 2480, "macht_eind": {"staat": 0.207, "huizen": 0.059, "kerk": 0.005, "steden": 0.156, "dragers": 0.321, "buren": 0.203, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.132, "buren_honger": 1.257, "ev": 1.201, "aelthir": 0.264, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0239, seed 420239)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0240
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420240
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 13, "onopgelost": 6, "uitvindingen": [["TK-sporennet", 1261], ["TK-roestlak", 1601], ["TK-kweekakker", 1921], ["TK-heelkweek", 2741], ["TK-vrijladen", 4241], ["TK-spiermolen", 4281], ["TK-kluisherstel", 4721], ["TK-sporendruk", 4741], ["TK-vleesmetaal", 4981]], "uit_nood": 5, "magie_min": 0.291, "magie_eind": 0.291, "golven": 11, "techniek_eind": 0.811, "werkplaatsen_vanaf": 4401, "heersers": 3, "wetten": 18, "rustige_jaren": 2780, "macht_eind": {"staat": 0.247, "huizen": 0.056, "kerk": 0.005, "steden": 0.193, "dragers": 0.295, "buren": 0.181, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.123, "buren_honger": 1.176, "ev": 0.938, "aelthir": 0.4, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0240, seed 420240)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0241
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420241
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 6, "onopgelost": 6, "uitvindingen": [["TK-kweekakker", 2621], ["TK-vrijladen", 2721], ["TK-lichtnet", 2781], ["TK-spiermolen", 2901], ["TK-heelkweek", 3301], ["TK-kluisherstel", 3781], ["TK-vleesmetaal", 4021], ["TK-roestlak", 4321], ["TK-sporenkern", 4481]], "uit_nood": 1, "magie_min": 0.363, "magie_eind": 0.444, "golven": 14, "techniek_eind": 0.678, "werkplaatsen_vanaf": 4481, "heersers": 4, "wetten": 15, "rustige_jaren": 3340, "macht_eind": {"staat": 0.3, "huizen": 0.063, "kerk": 0.07, "steden": 0.131, "dragers": 0.356, "buren": 0.057, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.128, "buren_honger": 0.538, "ev": 0.984, "aelthir": 0.346, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0241, seed 420241)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0242
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420242
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 15, "onopgelost": 13, "uitvindingen": [["TK-lichtnet", 961], ["TK-steenlens", 1041], ["TK-roestlak", 1521], ["TK-vrijladen", 2441], ["TK-lakijzer", 2761], ["TK-kweekakker", 3061], ["TK-kluisherstel", 3721], ["TK-vleesmetaal", 3881], ["TK-heelkweek", 4201], ["TK-sporenkern", 4281]], "uit_nood": 4, "magie_min": 0.293, "magie_eind": 0.321, "golven": 14, "techniek_eind": 0.927, "werkplaatsen_vanaf": 4141, "heersers": 4, "wetten": 18, "rustige_jaren": 2000, "macht_eind": {"staat": 0.18, "huizen": 0.062, "kerk": 0.005, "steden": 0.217, "dragers": 0.347, "buren": 0.145, "orrim": 0.035, "volk": 0.009}, "parameters": {"groei": 0.215, "buren_honger": 1.152, "ev": 1.247, "aelthir": 0.555, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0242, seed 420242)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0243
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420243
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 14, "onopgelost": 5, "uitvindingen": [["TK-roestlak", 1161], ["TK-vrijladen", 1301], ["TK-kweekakker", 1761], ["TK-spiermolen", 1781], ["TK-heelkweek", 1981], ["TK-lakijzer", 2961], ["TK-lichtnet", 3581], ["TK-kluisherstel", 4021], ["TK-steenlens", 4221], ["TK-lichtcel", 4401], ["TK-gaveglas", 4421], ["TK-vleesmetaal", 4701]], "uit_nood": 8, "magie_min": 0.312, "magie_eind": 0.312, "golven": 14, "techniek_eind": 0.939, "werkplaatsen_vanaf": 4201, "heersers": 3, "wetten": 18, "rustige_jaren": 2880, "macht_eind": {"staat": 0.214, "huizen": 0.083, "kerk": 0.005, "steden": 0.194, "dragers": 0.244, "buren": 0.216, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.158, "buren_honger": 0.997, "ev": 1.225, "aelthir": 0.794, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0243, seed 420243)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0244
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420244
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 31
+- **scores:** {"fasen": 17, "onopgelost": 5, "uitvindingen": [["TK-kweekakker", 1541], ["TK-heelkweek", 1961], ["TK-vrijladen", 2021], ["TK-spiermolen", 2061], ["TK-roestlak", 2681], ["TK-lakijzer", 2821], ["TK-sporennet", 2881], ["TK-sporendruk", 2941], ["TK-lichtnet", 3201], ["TK-steenlens", 3341], ["TK-kluisherstel", 3981], ["TK-vleesmetaal", 4441], ["TK-lichtcel", 4501], ["TK-sporenkern", 4641]], "uit_nood": 5, "magie_min": 0.126, "magie_eind": 0.126, "golven": 12, "techniek_eind": 1, "werkplaatsen_vanaf": 3201, "heersers": 3, "wetten": 18, "rustige_jaren": 2420, "macht_eind": {"staat": 0.213, "huizen": 0.055, "kerk": 0.005, "steden": 0.431, "dragers": 0.168, "buren": 0.106, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.135, "buren_honger": 0.793, "ev": 1.106, "aelthir": 0.585, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0244, seed 420244)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0245
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420245
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 7, "onopgelost": 5, "uitvindingen": [["TK-kweekakker", 1181], ["TK-lichtnet", 3281], ["TK-kluisherstel", 3901], ["TK-vleesmetaal", 4081], ["TK-vrijladen", 4781]], "uit_nood": 2, "magie_min": 0.351, "magie_eind": 0.392, "golven": 12, "techniek_eind": 0.43, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 2140, "macht_eind": {"staat": 0.258, "huizen": 0.095, "kerk": 0.085, "steden": 0.044, "dragers": 0.41, "buren": 0.054, "orrim": 0.038, "volk": 0.016}, "parameters": {"groei": 0.21, "buren_honger": 0.523, "ev": 0.763, "aelthir": 0.772, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0245, seed 420245)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0246
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420246
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 10, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 961], ["TK-lichtnet", 1061], ["TK-echonet", 2121], ["TK-kluisherstel", 3841], ["TK-steenlens", 4821]], "uit_nood": 3, "magie_min": 0.349, "magie_eind": 0.461, "golven": 7, "techniek_eind": 0.502, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 15, "rustige_jaren": 820, "macht_eind": {"staat": 0.184, "huizen": 0.098, "kerk": 0.078, "steden": 0.061, "dragers": 0.344, "buren": 0.178, "orrim": 0.039, "volk": 0.018}, "parameters": {"groei": 0.137, "buren_honger": 1.06, "ev": 1.081, "aelthir": 0.693, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0246, seed 420246)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0247
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420247
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 17, "onopgelost": 11, "uitvindingen": [["TK-lichtnet", 961], ["TK-roestlak", 1261], ["TK-lakijzer", 1461], ["TK-kweekakker", 1901], ["TK-spiermolen", 2341], ["TK-sporennet", 2681], ["TK-sporendruk", 2721], ["TK-heelkweek", 2841], ["TK-kluisherstel", 4541], ["TK-vleesmetaal", 4601], ["TK-steenlens", 5001]], "uit_nood": 6, "magie_min": 0.131, "magie_eind": 0.131, "golven": 9, "techniek_eind": 1, "werkplaatsen_vanaf": 2741, "heersers": 6, "wetten": 18, "rustige_jaren": 1680, "macht_eind": {"staat": 0.108, "huizen": 0.064, "kerk": 0.005, "steden": 0.574, "dragers": 0.058, "buren": 0.164, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.193, "buren_honger": 1.058, "ev": 0.992, "aelthir": 0.419, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0247, seed 420247)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0248
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420248
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 13, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1101], ["TK-echonet", 1201], ["TK-roestlak", 1821], ["TK-laadwerkplaats", 1921], ["TK-lakijzer", 2061], ["TK-kweekakker", 2161], ["TK-spiermolen", 3161], ["TK-heelkweek", 3181], ["TK-lichtnet", 4081], ["TK-steenlens", 4761], ["TK-kluisherstel", 4981]], "uit_nood": 7, "magie_min": 0.335, "magie_eind": 0.344, "golven": 11, "techniek_eind": 0.758, "werkplaatsen_vanaf": 4741, "heersers": 5, "wetten": 17, "rustige_jaren": 2440, "macht_eind": {"staat": 0.174, "huizen": 0.059, "kerk": 0.005, "steden": 0.162, "dragers": 0.34, "buren": 0.235, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.203, "buren_honger": 1.312, "ev": 0.905, "aelthir": 0.282, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0248, seed 420248)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0249
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420249
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 9, "onopgelost": 5, "uitvindingen": [["TK-roestlak", 1081], ["TK-kweekakker", 2061], ["TK-spiermolen", 2361], ["TK-vrijladen", 2521], ["TK-heelkweek", 3021], ["TK-lakijzer", 3161], ["TK-lichtnet", 3681], ["TK-kluisherstel", 4141], ["TK-steenlens", 4821]], "uit_nood": 2, "magie_min": 0.337, "magie_eind": 0.337, "golven": 13, "techniek_eind": 0.736, "werkplaatsen_vanaf": 4401, "heersers": 4, "wetten": 16, "rustige_jaren": 2120, "macht_eind": {"staat": 0.261, "huizen": 0.087, "kerk": 0.005, "steden": 0.192, "dragers": 0.245, "buren": 0.186, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.177, "buren_honger": 1.118, "ev": 0.947, "aelthir": 0.745, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0249, seed 420249)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0250
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420250
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 12, "onopgelost": 7, "uitvindingen": [["TK-sporennet", 901], ["TK-kweekakker", 1641], ["TK-spiermolen", 1741], ["TK-roestlak", 1881], ["TK-vrijladen", 2341], ["TK-heelkweek", 3601], ["TK-kluisherstel", 3781], ["TK-lichtnet", 4001], ["TK-lakijzer", 4221], ["TK-vleesmetaal", 4381]], "uit_nood": 5, "magie_min": 0.348, "magie_eind": 0.38, "golven": 10, "techniek_eind": 0.544, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 17, "rustige_jaren": 1740, "macht_eind": {"staat": 0.213, "huizen": 0.078, "kerk": 0.038, "steden": 0.108, "dragers": 0.267, "buren": 0.25, "orrim": 0.031, "volk": 0.016}, "parameters": {"groei": 0.21, "buren_honger": 1.415, "ev": 0.941, "aelthir": 0.544, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0250, seed 420250)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0251
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420251
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 7, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1341], ["TK-laadwerkplaats", 1401], ["TK-echonet", 2741], ["TK-kluisherstel", 3201], ["TK-vleesmetaal", 3921]], "uit_nood": 2, "magie_min": 0.365, "magie_eind": 0.55, "golven": 13, "techniek_eind": 0.458, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 15, "rustige_jaren": 3060, "macht_eind": {"staat": 0.269, "huizen": 0.12, "kerk": 0.067, "steden": 0.061, "dragers": 0.296, "buren": 0.133, "orrim": 0.037, "volk": 0.016}, "parameters": {"groei": 0.14, "buren_honger": 0.82, "ev": 0.849, "aelthir": 0.554, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0251, seed 420251)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0252
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420252
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 12, "onopgelost": 6, "uitvindingen": [["TK-roestlak", 1261], ["TK-kweekakker", 1401], ["TK-vrijladen", 1501], ["TK-echonet", 1601], ["TK-laadwerkplaats", 1841], ["TK-lakijzer", 2281], ["TK-heelkweek", 2841], ["TK-spiermolen", 3341], ["TK-kluisherstel", 3861], ["TK-sporenkern", 4781]], "uit_nood": 4, "magie_min": 0.35, "magie_eind": 0.35, "golven": 11, "techniek_eind": 0.729, "werkplaatsen_vanaf": 4781, "heersers": 3, "wetten": 19, "rustige_jaren": 2820, "macht_eind": {"staat": 0.258, "huizen": 0.092, "kerk": 0.006, "steden": 0.145, "dragers": 0.204, "buren": 0.243, "orrim": 0.037, "volk": 0.016}, "parameters": {"groei": 0.219, "buren_honger": 1.242, "ev": 0.979, "aelthir": 0.318, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0252, seed 420252)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0253
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420253
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 9, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1221], ["TK-laadwerkplaats", 1241], ["TK-roestlak", 2601], ["TK-lakijzer", 2981], ["TK-kweekakker", 3001], ["TK-kluisherstel", 3441], ["TK-vleesmetaal", 3941], ["TK-heelkweek", 4201], ["TK-spiermolen", 4721]], "uit_nood": 3, "magie_min": 0.346, "magie_eind": 0.458, "golven": 6, "techniek_eind": 0.659, "werkplaatsen_vanaf": 4721, "heersers": 4, "wetten": 16, "rustige_jaren": 3160, "macht_eind": {"staat": 0.323, "huizen": 0.078, "kerk": 0.007, "steden": 0.178, "dragers": 0.27, "buren": 0.12, "orrim": 0.011, "volk": 0.013}, "parameters": {"groei": 0.219, "buren_honger": 0.643, "ev": 0.864, "aelthir": 0.234, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0253, seed 420253)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0254
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420254
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 9, "onopgelost": 3, "uitvindingen": [["TK-roestlak", 1521], ["TK-kweekakker", 2261], ["TK-vrijladen", 2981], ["TK-kluisherstel", 3381], ["TK-vleesmetaal", 3741], ["TK-lakijzer", 3821], ["TK-spiermolen", 3941], ["TK-heelkweek", 4161], ["TK-laadwerkplaats", 4201], ["TK-echonet", 4361], ["TK-lichtnet", 4501], ["TK-steenlens", 4521], ["TK-sporenkern", 4661], ["TK-gaveglas", 4981]], "uit_nood": 4, "magie_min": 0.344, "magie_eind": 0.484, "golven": 10, "techniek_eind": 0.861, "werkplaatsen_vanaf": 4521, "heersers": 4, "wetten": 16, "rustige_jaren": 2960, "macht_eind": {"staat": 0.33, "huizen": 0.106, "kerk": 0.006, "steden": 0.175, "dragers": 0.302, "buren": 0.053, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.183, "buren_honger": 0.604, "ev": 0.712, "aelthir": 0.616, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0254, seed 420254)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0255
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420255
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 12, "onopgelost": 4, "uitvindingen": [["TK-lichtnet", 881], ["TK-steenlens", 1201], ["TK-vrijladen", 2541], ["TK-kluisherstel", 3581], ["TK-kweekakker", 4481], ["TK-heelkweek", 4521], ["TK-roestlak", 4541], ["TK-lakijzer", 4821]], "uit_nood": 2, "magie_min": 0.317, "magie_eind": 0.317, "golven": 11, "techniek_eind": 0.85, "werkplaatsen_vanaf": 3821, "heersers": 2, "wetten": 19, "rustige_jaren": 3040, "macht_eind": {"staat": 0.268, "huizen": 0.067, "kerk": 0.006, "steden": 0.226, "dragers": 0.234, "buren": 0.171, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.125, "buren_honger": 0.92, "ev": 0.845, "aelthir": 0.631, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0255, seed 420255)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0256
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420256
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 11, "onopgelost": 10, "uitvindingen": [["TK-vrijladen", 941], ["TK-echonet", 1021], ["TK-roestlak", 1721], ["TK-kweekakker", 2041], ["TK-heelkweek", 2241], ["TK-kluisherstel", 3001], ["TK-spiermolen", 3161], ["TK-lichtnet", 3181], ["TK-vleesmetaal", 3241], ["TK-lakijzer", 4481], ["TK-sporenkern", 4841], ["TK-steenlens", 5001]], "uit_nood": 7, "magie_min": 0.341, "magie_eind": 0.347, "golven": 8, "techniek_eind": 0.756, "werkplaatsen_vanaf": 4841, "heersers": 3, "wetten": 17, "rustige_jaren": 1620, "macht_eind": {"staat": 0.227, "huizen": 0.052, "kerk": 0.004, "steden": 0.116, "dragers": 0.292, "buren": 0.266, "orrim": 0.03, "volk": 0.012}, "parameters": {"groei": 0.127, "buren_honger": 1.495, "ev": 1.203, "aelthir": 0.524, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0256, seed 420256)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0257
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420257
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 21
+- **scores:** {"fasen": 12, "onopgelost": 14, "uitvindingen": [["TK-kweekakker", 3361], ["TK-kluisherstel", 3621], ["TK-vrijladen", 3761], ["TK-spiermolen", 3901], ["TK-vleesmetaal", 4041], ["TK-heelkweek", 4301], ["TK-roestlak", 4481], ["TK-sporenkern", 4761], ["TK-echonet", 4801]], "uit_nood": 1, "magie_min": 0.35, "magie_eind": 0.408, "golven": 11, "techniek_eind": 0.683, "werkplaatsen_vanaf": 4761, "heersers": 6, "wetten": 15, "rustige_jaren": 1580, "macht_eind": {"staat": 0.179, "huizen": 0.057, "kerk": 0.037, "steden": 0.107, "dragers": 0.346, "buren": 0.228, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.193, "buren_honger": 1.434, "ev": 1.029, "aelthir": 0.628, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0257, seed 420257)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0258
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420258
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 13, "onopgelost": 2, "uitvindingen": [["TK-roestlak", 1221], ["TK-vrijladen", 1701], ["TK-lakijzer", 2401], ["TK-kweekakker", 2641], ["TK-heelkweek", 2961], ["TK-lichtnet", 3241], ["TK-spiermolen", 3381], ["TK-steenlens", 3461], ["TK-kluisherstel", 3701], ["TK-sporenkern", 3861], ["TK-vleesmetaal", 4001], ["TK-lichtcel", 4321], ["TK-sporennet", 4461]], "uit_nood": 5, "magie_min": 0.165, "magie_eind": 0.165, "golven": 5, "techniek_eind": 1, "werkplaatsen_vanaf": 3601, "heersers": 3, "wetten": 18, "rustige_jaren": 3200, "macht_eind": {"staat": 0.219, "huizen": 0.056, "kerk": 0.005, "steden": 0.314, "dragers": 0.081, "buren": 0.304, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.127, "buren_honger": 1.405, "ev": 0.871, "aelthir": 0.596, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0258, seed 420258)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0259
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420259
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 7, "onopgelost": 11, "uitvindingen": [["TK-vrijladen", 1861], ["TK-laadwerkplaats", 2241], ["TK-echonet", 3021], ["TK-kweekakker", 3121], ["TK-heelkweek", 3281], ["TK-spiermolen", 3341], ["TK-lichtnet", 4241], ["TK-steenlens", 4281], ["TK-roestlak", 4301], ["TK-lakijzer", 4601], ["TK-kluisherstel", 4741]], "uit_nood": 1, "magie_min": 0.35, "magie_eind": 0.523, "golven": 16, "techniek_eind": 0.655, "werkplaatsen_vanaf": 4741, "heersers": 3, "wetten": 14, "rustige_jaren": 2100, "macht_eind": {"staat": 0.241, "huizen": 0.055, "kerk": 0.035, "steden": 0.106, "dragers": 0.36, "buren": 0.159, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.125, "buren_honger": 0.999, "ev": 1.175, "aelthir": 0.65, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0259, seed 420259)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0260
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420260
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 10, "onopgelost": 7, "uitvindingen": [["TK-roestlak", 1161], ["TK-sporennet", 1341], ["TK-vrijladen", 1621], ["TK-kweekakker", 1861], ["TK-spiermolen", 2061], ["TK-lakijzer", 2201], ["TK-heelkweek", 2241], ["TK-sporendruk", 2321], ["TK-lichtnet", 3101], ["TK-steenlens", 3161], ["TK-kluisherstel", 3241], ["TK-sporenkern", 3641], ["TK-vleesmetaal", 3701], ["TK-lichtcel", 3821]], "uit_nood": 7, "magie_min": 0.177, "magie_eind": 0.177, "golven": 7, "techniek_eind": 1, "werkplaatsen_vanaf": 3161, "heersers": 3, "wetten": 17, "rustige_jaren": 2780, "macht_eind": {"staat": 0.249, "huizen": 0.055, "kerk": 0.005, "steden": 0.327, "dragers": 0.152, "buren": 0.19, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.164, "buren_honger": 1.063, "ev": 1.225, "aelthir": 0.412, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0260, seed 420260)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0261
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420261
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 9, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 2561], ["TK-kluisherstel", 4121], ["TK-vleesmetaal", 4581]], "uit_nood": 0, "magie_min": 0.361, "magie_eind": 0.466, "golven": 13, "techniek_eind": 0.423, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 17, "rustige_jaren": 2620, "macht_eind": {"staat": 0.27, "huizen": 0.058, "kerk": 0.203, "steden": 0.035, "dragers": 0.323, "buren": 0.088, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.156, "buren_honger": 0.73, "ev": 0.892, "aelthir": 0.797, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0261, seed 420261)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0262
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420262
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 11, "onopgelost": 13, "uitvindingen": [["TK-vrijladen", 1301], ["TK-echonet", 1881]], "uit_nood": 1, "magie_min": 0.366, "magie_eind": 0.472, "golven": 15, "techniek_eind": 0.379, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 16, "rustige_jaren": 1820, "macht_eind": {"staat": 0.148, "huizen": 0.067, "kerk": 0.088, "steden": 0.048, "dragers": 0.496, "buren": 0.127, "orrim": 0.01, "volk": 0.017}, "parameters": {"groei": 0.218, "buren_honger": 0.803, "ev": 0.724, "aelthir": 0.343, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0262, seed 420262)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0263
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420263
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 19
+- **scores:** {"fasen": 8, "onopgelost": 10, "uitvindingen": [["TK-lichtnet", 1021], ["TK-steenlens", 1181], ["TK-vrijladen", 1321], ["TK-kweekakker", 1901], ["TK-laadwerkplaats", 1941], ["TK-heelkweek", 2341], ["TK-kluisherstel", 3241], ["TK-roestlak", 3501], ["TK-lakijzer", 4641], ["TK-vleesmetaal", 4801], ["TK-echonet", 4881]], "uit_nood": 4, "magie_min": 0.345, "magie_eind": 0.56, "golven": 10, "techniek_eind": 0.616, "werkplaatsen_vanaf": 4841, "heersers": 3, "wetten": 16, "rustige_jaren": 2680, "macht_eind": {"staat": 0.283, "huizen": 0.088, "kerk": 0.005, "steden": 0.12, "dragers": 0.302, "buren": 0.176, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.146, "buren_honger": 0.956, "ev": 1.226, "aelthir": 0.524, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0263, seed 420263)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0264
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420264
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 19
+- **scores:** {"fasen": 10, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1041], ["TK-roestlak", 1441], ["TK-laadwerkplaats", 1781], ["TK-kweekakker", 2421], ["TK-spiermolen", 2441], ["TK-lichtnet", 3021], ["TK-heelkweek", 3181], ["TK-lakijzer", 3581], ["TK-steenlens", 4161]], "uit_nood": 3, "magie_min": 0.285, "magie_eind": 0.285, "golven": 9, "techniek_eind": 0.863, "werkplaatsen_vanaf": 4121, "heersers": 3, "wetten": 16, "rustige_jaren": 2460, "macht_eind": {"staat": 0.278, "huizen": 0.064, "kerk": 0.005, "steden": 0.277, "dragers": 0.166, "buren": 0.184, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.162, "buren_honger": 0.963, "ev": 0.721, "aelthir": 0.558, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0264, seed 420264)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0265
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420265
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 32
+- **scores:** {"fasen": 19, "onopgelost": 7, "uitvindingen": [["TK-roestlak", 1021], ["TK-lichtnet", 1081], ["TK-vrijladen", 1121], ["TK-sporennet", 1241], ["TK-sporendruk", 1941], ["TK-echonet", 2161], ["TK-steenlens", 2381], ["TK-kweekakker", 3581], ["TK-heelkweek", 3601], ["TK-spiermolen", 3641], ["TK-kluisherstel", 3741], ["TK-lakijzer", 3941], ["TK-vleesmetaal", 4161]], "uit_nood": 7, "magie_min": 0.203, "magie_eind": 0.215, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 3601, "heersers": 5, "wetten": 20, "rustige_jaren": 2020, "macht_eind": {"staat": 0.203, "huizen": 0.05, "kerk": 0.004, "steden": 0.294, "dragers": 0.186, "buren": 0.221, "orrim": 0.028, "volk": 0.014}, "parameters": {"groei": 0.167, "buren_honger": 1.353, "ev": 0.975, "aelthir": 0.747, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0265, seed 420265)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0266
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420266
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 32
+- **scores:** {"fasen": 19, "onopgelost": 6, "uitvindingen": [["TK-kluisherstel", 1041], ["TK-lichtnet", 1061], ["TK-vleesmetaal", 1081], ["TK-roestlak", 1261], ["TK-vrijladen", 1441], ["TK-steenlens", 1821], ["TK-lakijzer", 1941], ["TK-sporennet", 2381], ["TK-sporendruk", 2421], ["TK-kweekakker", 3021], ["TK-sporenkern", 3761], ["TK-heelkweek", 3861], ["TK-lichtcel", 4461]], "uit_nood": 10, "magie_min": 0.124, "magie_eind": 0.124, "golven": 8, "techniek_eind": 1, "werkplaatsen_vanaf": 2621, "heersers": 5, "wetten": 17, "rustige_jaren": 2000, "macht_eind": {"staat": 0.161, "huizen": 0.057, "kerk": 0.005, "steden": 0.494, "dragers": 0.101, "buren": 0.159, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.219, "buren_honger": 1.068, "ev": 1.096, "aelthir": 0.71, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0266, seed 420266)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0267
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420267
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 7, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 881], ["TK-kweekakker", 1761], ["TK-echonet", 1821], ["TK-spiermolen", 2541], ["TK-heelkweek", 2821], ["TK-kluisherstel", 4101], ["TK-lichtnet", 4161], ["TK-vleesmetaal", 4281]], "uit_nood": 2, "magie_min": 0.35, "magie_eind": 0.351, "golven": 11, "techniek_eind": 0.516, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 12, "rustige_jaren": 1740, "macht_eind": {"staat": 0.211, "huizen": 0.095, "kerk": 0.039, "steden": 0.096, "dragers": 0.292, "buren": 0.241, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.206, "buren_honger": 1.212, "ev": 0.786, "aelthir": 0.535, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0267, seed 420267)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0268
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420268
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 30
+- **scores:** {"fasen": 15, "onopgelost": 9, "uitvindingen": [["TK-kweekakker", 1161], ["TK-spiermolen", 1181], ["TK-roestlak", 1501], ["TK-vrijladen", 1741], ["TK-lakijzer", 1761], ["TK-echonet", 1801], ["TK-sporennet", 2221], ["TK-heelkweek", 2361], ["TK-sporendruk", 2541], ["TK-lichtnet", 3241], ["TK-steenlens", 3361], ["TK-lichtcel", 3421], ["TK-kluisherstel", 4081], ["TK-sporenkern", 4841], ["TK-vleesmetaal", 4961]], "uit_nood": 7, "magie_min": 0.142, "magie_eind": 0.152, "golven": 16, "techniek_eind": 1, "werkplaatsen_vanaf": 3161, "heersers": 4, "wetten": 17, "rustige_jaren": 1980, "macht_eind": {"staat": 0.247, "huizen": 0.061, "kerk": 0.005, "steden": 0.441, "dragers": 0.166, "buren": 0.055, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.189, "buren_honger": 0.541, "ev": 1.01, "aelthir": 0.232, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0268, seed 420268)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0269
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420269
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 16, "onopgelost": 3, "uitvindingen": [["TK-vrijladen", 941], ["TK-roestlak", 1041], ["TK-kweekakker", 1781], ["TK-echonet", 1801], ["TK-spiermolen", 1901], ["TK-heelkweek", 3201], ["TK-lakijzer", 3301], ["TK-sporennet", 3381], ["TK-sporendruk", 3401], ["TK-lichtnet", 3461], ["TK-steenlens", 3581], ["TK-kluisherstel", 3781], ["TK-sporenkern", 4301]], "uit_nood": 9, "magie_min": 0.157, "magie_eind": 0.229, "golven": 12, "techniek_eind": 1, "werkplaatsen_vanaf": 3381, "heersers": 5, "wetten": 20, "rustige_jaren": 2600, "macht_eind": {"staat": 0.24, "huizen": 0.046, "kerk": 0.004, "steden": 0.299, "dragers": 0.271, "buren": 0.101, "orrim": 0.026, "volk": 0.012}, "parameters": {"groei": 0.195, "buren_honger": 0.844, "ev": 1.17, "aelthir": 0.692, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0269, seed 420269)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0270
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420270
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 8, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 2241], ["TK-echonet", 2421], ["TK-kluisherstel", 3341], ["TK-vleesmetaal", 3841], ["TK-laadwerkplaats", 4621]], "uit_nood": 0, "magie_min": 0.358, "magie_eind": 0.462, "golven": 13, "techniek_eind": 0.468, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 17, "rustige_jaren": 2160, "macht_eind": {"staat": 0.345, "huizen": 0.098, "kerk": 0.144, "steden": 0.048, "dragers": 0.275, "buren": 0.064, "orrim": 0.01, "volk": 0.016}, "parameters": {"groei": 0.136, "buren_honger": 0.543, "ev": 1.094, "aelthir": 0.367, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0270, seed 420270)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0271
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420271
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 5, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 2621], ["TK-lichtnet", 3601], ["TK-gaveglas", 4261], ["TK-kluisherstel", 4641]], "uit_nood": 0, "magie_min": 0.35, "magie_eind": 0.57, "golven": 11, "techniek_eind": 0.435, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 3320, "macht_eind": {"staat": 0.31, "huizen": 0.077, "kerk": 0.093, "steden": 0.047, "dragers": 0.344, "buren": 0.071, "orrim": 0.04, "volk": 0.018}, "parameters": {"groei": 0.132, "buren_honger": 0.555, "ev": 0.832, "aelthir": 0.509, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0271, seed 420271)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0272
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420272
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 10, "onopgelost": 5, "uitvindingen": [["TK-roestlak", 1541], ["TK-lakijzer", 2141], ["TK-kweekakker", 3001], ["TK-lichtnet", 3261], ["TK-kluisherstel", 3761], ["TK-spiermolen", 4121], ["TK-heelkweek", 4341], ["TK-vrijladen", 4641]], "uit_nood": 3, "magie_min": 0.341, "magie_eind": 0.383, "golven": 8, "techniek_eind": 0.729, "werkplaatsen_vanaf": 4481, "heersers": 5, "wetten": 15, "rustige_jaren": 3220, "macht_eind": {"staat": 0.258, "huizen": 0.066, "kerk": 0.006, "steden": 0.196, "dragers": 0.275, "buren": 0.175, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.152, "buren_honger": 1.073, "ev": 0.725, "aelthir": 0.701, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0272, seed 420272)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0273
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420273
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 7, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 2381], ["TK-kluisherstel", 3281], ["TK-vleesmetaal", 3501], ["TK-lichtnet", 4221], ["TK-gaveglas", 4261], ["TK-kweekakker", 4501]], "uit_nood": 0, "magie_min": 0.348, "magie_eind": 0.426, "golven": 14, "techniek_eind": 0.473, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 2540, "macht_eind": {"staat": 0.272, "huizen": 0.063, "kerk": 0.045, "steden": 0.073, "dragers": 0.299, "buren": 0.202, "orrim": 0.033, "volk": 0.013}, "parameters": {"groei": 0.147, "buren_honger": 1.064, "ev": 1.057, "aelthir": 0.47, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0273, seed 420273)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0274
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420274
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 6, "onopgelost": 11, "uitvindingen": [["TK-vrijladen", 2621], ["TK-laadwerkplaats", 3021], ["TK-lichtnet", 3361], ["TK-kluisherstel", 4541], ["TK-vleesmetaal", 4961]], "uit_nood": 0, "magie_min": 0.346, "magie_eind": 0.346, "golven": 12, "techniek_eind": 0.456, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 13, "rustige_jaren": 1400, "macht_eind": {"staat": 0.232, "huizen": 0.057, "kerk": 0.09, "steden": 0.039, "dragers": 0.383, "buren": 0.176, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.151, "buren_honger": 1.121, "ev": 0.881, "aelthir": 0.549, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0274, seed 420274)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0275
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420275
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 14, "onopgelost": 4, "uitvindingen": [["TK-roestlak", 1041], ["TK-sporennet", 1581], ["TK-vrijladen", 1821], ["TK-echonet", 1921], ["TK-sporendruk", 1961], ["TK-kweekakker", 2361], ["TK-spiermolen", 2721], ["TK-kluisherstel", 2941], ["TK-lichtnet", 3141], ["TK-steenlens", 3581], ["TK-lichtcel", 3601], ["TK-heelkweek", 3641], ["TK-sporenkern", 3741], ["TK-lakijzer", 4721], ["TK-vleesmetaal", 4801]], "uit_nood": 3, "magie_min": 0.174, "magie_eind": 0.174, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 3581, "heersers": 3, "wetten": 18, "rustige_jaren": 2820, "macht_eind": {"staat": 0.224, "huizen": 0.066, "kerk": 0.004, "steden": 0.287, "dragers": 0.206, "buren": 0.174, "orrim": 0.026, "volk": 0.012}, "parameters": {"groei": 0.13, "buren_honger": 1.13, "ev": 0.891, "aelthir": 0.691, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0275, seed 420275)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0276
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420276
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 7, "onopgelost": 6, "uitvindingen": [["TK-roestlak", 1661], ["TK-vrijladen", 1981], ["TK-kweekakker", 2941], ["TK-heelkweek", 3501], ["TK-kluisherstel", 4341], ["TK-lakijzer", 4761], ["TK-vleesmetaal", 4921]], "uit_nood": 2, "magie_min": 0.349, "magie_eind": 0.473, "golven": 12, "techniek_eind": 0.499, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 3260, "macht_eind": {"staat": 0.258, "huizen": 0.129, "kerk": 0.039, "steden": 0.087, "dragers": 0.32, "buren": 0.109, "orrim": 0.04, "volk": 0.018}, "parameters": {"groei": 0.158, "buren_honger": 0.775, "ev": 0.955, "aelthir": 0.738, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0276, seed 420276)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0277
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420277
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 5, "onopgelost": 6, "uitvindingen": [["TK-kluisherstel", 1001], ["TK-vrijladen", 1341], ["TK-vleesmetaal", 3721]], "uit_nood": 1, "magie_min": 0.359, "magie_eind": 0.359, "golven": 12, "techniek_eind": 0.41, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 15, "rustige_jaren": 2960, "macht_eind": {"staat": 0.319, "huizen": 0.104, "kerk": 0.091, "steden": 0.05, "dragers": 0.312, "buren": 0.095, "orrim": 0.01, "volk": 0.019}, "parameters": {"groei": 0.154, "buren_honger": 0.604, "ev": 1.038, "aelthir": 0.741, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0277, seed 420277)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0278
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420278
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 5, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 2321], ["TK-laadwerkplaats", 3441], ["TK-lichtnet", 3621], ["TK-kluisherstel", 4261], ["TK-vleesmetaal", 4581]], "uit_nood": 1, "magie_min": 0.352, "magie_eind": 0.523, "golven": 14, "techniek_eind": 0.472, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 13, "rustige_jaren": 3460, "macht_eind": {"staat": 0.263, "huizen": 0.066, "kerk": 0.087, "steden": 0.055, "dragers": 0.369, "buren": 0.133, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.142, "buren_honger": 0.725, "ev": 1.292, "aelthir": 0.588, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0278, seed 420278)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0279
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420279
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 19
+- **scores:** {"fasen": 12, "onopgelost": 13, "uitvindingen": [["TK-vrijladen", 3721], ["TK-laadwerkplaats", 3861], ["TK-kluisherstel", 4161], ["TK-lichtnet", 4201], ["TK-kweekakker", 4661], ["TK-spiermolen", 4681], ["TK-roestlak", 4781]], "uit_nood": 4, "magie_min": 0.348, "magie_eind": 0.348, "golven": 8, "techniek_eind": 0.606, "werkplaatsen_vanaf": 4941, "heersers": 6, "wetten": 14, "rustige_jaren": 2260, "macht_eind": {"staat": 0.18, "huizen": 0.061, "kerk": 0.062, "steden": 0.09, "dragers": 0.383, "buren": 0.174, "orrim": 0.035, "volk": 0.015}, "parameters": {"groei": 0.155, "buren_honger": 1.209, "ev": 0.857, "aelthir": 0.53, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0279, seed 420279)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0280
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420280
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 6, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1501], ["TK-kluisherstel", 3521], ["TK-lichtnet", 3881], ["TK-vleesmetaal", 4721]], "uit_nood": 1, "magie_min": 0.352, "magie_eind": 0.52, "golven": 9, "techniek_eind": 0.415, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 15, "rustige_jaren": 3000, "macht_eind": {"staat": 0.281, "huizen": 0.105, "kerk": 0.113, "steden": 0.042, "dragers": 0.399, "buren": 0.035, "orrim": 0.01, "volk": 0.016}, "parameters": {"groei": 0.137, "buren_honger": 0.557, "ev": 0.723, "aelthir": 0.7, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0280, seed 420280)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0281
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420281
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 7, "onopgelost": 10, "uitvindingen": [["TK-vrijladen", 2441], ["TK-lichtnet", 4221], ["TK-echonet", 4761], ["TK-kluisherstel", 4801]], "uit_nood": 1, "magie_min": 0.353, "magie_eind": 0.368, "golven": 16, "techniek_eind": 0.386, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 2840, "macht_eind": {"staat": 0.305, "huizen": 0.135, "kerk": 0.111, "steden": 0.024, "dragers": 0.322, "buren": 0.071, "orrim": 0.01, "volk": 0.02}, "parameters": {"groei": 0.211, "buren_honger": 0.641, "ev": 1.073, "aelthir": 0.347, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0281, seed 420281)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0282
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420282
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 15, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 941], ["TK-laadwerkplaats", 1001], ["TK-echonet", 1201], ["TK-roestlak", 1261], ["TK-kweekakker", 2201], ["TK-heelkweek", 2561], ["TK-lakijzer", 2941], ["TK-kluisherstel", 3281], ["TK-lichtnet", 3481], ["TK-sporenkern", 4141], ["TK-spiermolen", 4321], ["TK-vleesmetaal", 4421], ["TK-sporennet", 4541], ["TK-sporendruk", 4601]], "uit_nood": 5, "magie_min": 0.246, "magie_eind": 0.296, "golven": 14, "techniek_eind": 1, "werkplaatsen_vanaf": 3861, "heersers": 4, "wetten": 19, "rustige_jaren": 1240, "macht_eind": {"staat": 0.21, "huizen": 0.048, "kerk": 0.004, "steden": 0.228, "dragers": 0.235, "buren": 0.233, "orrim": 0.027, "volk": 0.014}, "parameters": {"groei": 0.192, "buren_honger": 1.45, "ev": 0.882, "aelthir": 0.76, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0282, seed 420282)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0283
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420283
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 6, "onopgelost": 11, "uitvindingen": [["TK-vrijladen", 1921], ["TK-kluisherstel", 3701], ["TK-vleesmetaal", 4241], ["TK-kweekakker", 4381], ["TK-heelkweek", 4841], ["TK-lichtnet", 4901]], "uit_nood": 2, "magie_min": 0.346, "magie_eind": 0.346, "golven": 11, "techniek_eind": 0.453, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 2720, "macht_eind": {"staat": 0.267, "huizen": 0.077, "kerk": 0.068, "steden": 0.076, "dragers": 0.32, "buren": 0.127, "orrim": 0.044, "volk": 0.021}, "parameters": {"groei": 0.175, "buren_honger": 0.743, "ev": 1.279, "aelthir": 0.476, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0283, seed 420283)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0284
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420284
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 5, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1561], ["TK-echonet", 1801], ["TK-laadwerkplaats", 2601], ["TK-kluisherstel", 3641], ["TK-vleesmetaal", 3881]], "uit_nood": 1, "magie_min": 0.356, "magie_eind": 0.358, "golven": 12, "techniek_eind": 0.472, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 12, "rustige_jaren": 3040, "macht_eind": {"staat": 0.236, "huizen": 0.068, "kerk": 0.064, "steden": 0.066, "dragers": 0.338, "buren": 0.169, "orrim": 0.039, "volk": 0.02}, "parameters": {"groei": 0.184, "buren_honger": 1.019, "ev": 0.847, "aelthir": 0.749, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0284, seed 420284)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0285
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420285
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 8, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1781], ["TK-kluisherstel", 3221], ["TK-vleesmetaal", 3281], ["TK-echonet", 3481], ["TK-lichtnet", 3581], ["TK-steenlens", 4721], ["TK-lichtcel", 4821]], "uit_nood": 2, "magie_min": 0.359, "magie_eind": 0.385, "golven": 13, "techniek_eind": 0.567, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 2120, "macht_eind": {"staat": 0.261, "huizen": 0.09, "kerk": 0.062, "steden": 0.063, "dragers": 0.343, "buren": 0.131, "orrim": 0.036, "volk": 0.014}, "parameters": {"groei": 0.159, "buren_honger": 0.86, "ev": 1.203, "aelthir": 0.342, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0285, seed 420285)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0286
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420286
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 11, "onopgelost": 3, "uitvindingen": [["TK-roestlak", 1041], ["TK-vrijladen", 1301], ["TK-laadwerkplaats", 1441], ["TK-lakijzer", 1821], ["TK-sporennet", 2321], ["TK-kweekakker", 2381], ["TK-sporendruk", 2401], ["TK-heelkweek", 2581], ["TK-kluisherstel", 2821], ["TK-sporenkern", 2901], ["TK-lichtnet", 3001], ["TK-vleesmetaal", 3021]], "uit_nood": 6, "magie_min": 0.135, "magie_eind": 0.135, "golven": 6, "techniek_eind": 1, "werkplaatsen_vanaf": 2901, "heersers": 5, "wetten": 17, "rustige_jaren": 3040, "macht_eind": {"staat": 0.232, "huizen": 0.074, "kerk": 0.004, "steden": 0.389, "dragers": 0.092, "buren": 0.188, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.216, "buren_honger": 1.124, "ev": 0.808, "aelthir": 0.459, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0286, seed 420286)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0287
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420287
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 14, "onopgelost": 5, "uitvindingen": [["TK-roestlak", 921], ["TK-lichtnet", 941], ["TK-steenlens", 1081], ["TK-kweekakker", 1501], ["TK-spiermolen", 1541], ["TK-heelkweek", 1841], ["TK-lakijzer", 2061], ["TK-vrijladen", 2121], ["TK-sporennet", 2321], ["TK-sporendruk", 2401], ["TK-kluisherstel", 3141], ["TK-vleesmetaal", 3561], ["TK-lichtcel", 4401]], "uit_nood": 8, "magie_min": 0.174, "magie_eind": 0.272, "golven": 14, "techniek_eind": 1, "werkplaatsen_vanaf": 2861, "heersers": 3, "wetten": 18, "rustige_jaren": 2820, "macht_eind": {"staat": 0.211, "huizen": 0.072, "kerk": 0.004, "steden": 0.344, "dragers": 0.202, "buren": 0.146, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.202, "buren_honger": 0.993, "ev": 1.236, "aelthir": 0.206, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0287, seed 420287)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0288
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420288
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 8, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 2201], ["TK-laadwerkplaats", 3241], ["TK-kluisherstel", 3661], ["TK-echonet", 4261], ["TK-vleesmetaal", 4281], ["TK-lichtnet", 4381]], "uit_nood": 1, "magie_min": 0.345, "magie_eind": 0.345, "golven": 14, "techniek_eind": 0.456, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 2760, "macht_eind": {"staat": 0.228, "huizen": 0.091, "kerk": 0.097, "steden": 0.051, "dragers": 0.429, "buren": 0.079, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.206, "buren_honger": 0.593, "ev": 0.948, "aelthir": 0.301, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0288, seed 420288)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0289
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420289
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 14, "onopgelost": 4, "uitvindingen": [["TK-vrijladen", 1401], ["TK-roestlak", 1861], ["TK-sporennet", 2441], ["TK-lakijzer", 2841], ["TK-lichtnet", 3121], ["TK-kweekakker", 3321], ["TK-heelkweek", 3381], ["TK-steenlens", 3501], ["TK-sporendruk", 3761], ["TK-spiermolen", 3841], ["TK-kluisherstel", 3921], ["TK-sporenkern", 4041], ["TK-lichtcel", 4901]], "uit_nood": 4, "magie_min": 0.182, "magie_eind": 0.182, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 3761, "heersers": 4, "wetten": 18, "rustige_jaren": 2760, "macht_eind": {"staat": 0.226, "huizen": 0.05, "kerk": 0.004, "steden": 0.295, "dragers": 0.181, "buren": 0.223, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.14, "buren_honger": 1.224, "ev": 0.972, "aelthir": 0.201, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0289, seed 420289)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0290
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420290
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 11, "onopgelost": 12, "uitvindingen": [["TK-vrijladen", 921], ["TK-roestlak", 1521], ["TK-lakijzer", 2861], ["TK-kweekakker", 3781], ["TK-lichtnet", 4321], ["TK-steenlens", 4601], ["TK-spiermolen", 4681]], "uit_nood": 2, "magie_min": 0.349, "magie_eind": 0.349, "golven": 12, "techniek_eind": 0.599, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 2420, "macht_eind": {"staat": 0.169, "huizen": 0.108, "kerk": 0.031, "steden": 0.109, "dragers": 0.424, "buren": 0.104, "orrim": 0.043, "volk": 0.011}, "parameters": {"groei": 0.128, "buren_honger": 0.836, "ev": 1.158, "aelthir": 0.745, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0290, seed 420290)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0291
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420291
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 7, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 2681], ["TK-echonet", 3061], ["TK-kluisherstel", 3961]], "uit_nood": 0, "magie_min": 0.364, "magie_eind": 0.364, "golven": 12, "techniek_eind": 0.441, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 15, "rustige_jaren": 2560, "macht_eind": {"staat": 0.256, "huizen": 0.083, "kerk": 0.083, "steden": 0.041, "dragers": 0.259, "buren": 0.254, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.183, "buren_honger": 1.252, "ev": 1.079, "aelthir": 0.613, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0291, seed 420291)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0292
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420292
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 9, "onopgelost": 14, "uitvindingen": [["TK-vrijladen", 2021], ["TK-kluisherstel", 4421], ["TK-lichtnet", 4521]], "uit_nood": 1, "magie_min": 0.347, "magie_eind": 0.535, "golven": 9, "techniek_eind": 0.403, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 1860, "macht_eind": {"staat": 0.224, "huizen": 0.104, "kerk": 0.092, "steden": 0.031, "dragers": 0.426, "buren": 0.062, "orrim": 0.042, "volk": 0.02}, "parameters": {"groei": 0.148, "buren_honger": 0.652, "ev": 1.064, "aelthir": 0.264, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0292, seed 420292)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0293
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420293
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 6, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 941], ["TK-steenlens", 1101], ["TK-roestlak", 2061], ["TK-kweekakker", 2921], ["TK-lakijzer", 2941], ["TK-spiermolen", 3401], ["TK-vrijladen", 4401]], "uit_nood": 3, "magie_min": 0.361, "magie_eind": 0.595, "golven": 12, "techniek_eind": 0.57, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 3120, "macht_eind": {"staat": 0.274, "huizen": 0.065, "kerk": 0.054, "steden": 0.147, "dragers": 0.273, "buren": 0.16, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.169, "buren_honger": 0.92, "ev": 1.216, "aelthir": 0.482, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0293, seed 420293)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0294
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420294
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 13, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1061], ["TK-sporennet", 1181], ["TK-roestlak", 1881], ["TK-echonet", 1941], ["TK-kweekakker", 2081], ["TK-spiermolen", 2301], ["TK-heelkweek", 2321], ["TK-laadwerkplaats", 3341], ["TK-sporendruk", 3421], ["TK-lichtnet", 3761], ["TK-steenlens", 3781], ["TK-lichtcel", 3801], ["TK-kluisherstel", 3821], ["TK-vleesmetaal", 4101], ["TK-sporenkern", 4141]], "uit_nood": 7, "magie_min": 0.219, "magie_eind": 0.219, "golven": 10, "techniek_eind": 1, "werkplaatsen_vanaf": 3661, "heersers": 6, "wetten": 18, "rustige_jaren": 2920, "macht_eind": {"staat": 0.172, "huizen": 0.05, "kerk": 0.004, "steden": 0.27, "dragers": 0.292, "buren": 0.171, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.215, "buren_honger": 1.207, "ev": 1.146, "aelthir": 0.524, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0294, seed 420294)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0295
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420295
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 11, "onopgelost": 12, "uitvindingen": [["TK-kluisherstel", 3741], ["TK-vleesmetaal", 4161], ["TK-kweekakker", 4581], ["TK-spiermolen", 4701], ["TK-vrijladen", 4901]], "uit_nood": 1, "magie_min": 0.348, "magie_eind": 0.382, "golven": 10, "techniek_eind": 0.526, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 14, "rustige_jaren": 1260, "macht_eind": {"staat": 0.17, "huizen": 0.054, "kerk": 0.072, "steden": 0.078, "dragers": 0.361, "buren": 0.22, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.2, "buren_honger": 1.461, "ev": 1.289, "aelthir": 0.312, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0295, seed 420295)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0296
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420296
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 35
+- **scores:** {"fasen": 19, "onopgelost": 10, "uitvindingen": [["TK-lichtnet", 941], ["TK-vrijladen", 961], ["TK-kweekakker", 1201], ["TK-spiermolen", 1301], ["TK-echonet", 1381], ["TK-laadwerkplaats", 1461], ["TK-steenlens", 1521], ["TK-roestlak", 1681], ["TK-heelkweek", 1741], ["TK-gaveglas", 2301], ["TK-sporennet", 2501], ["TK-sporendruk", 2561], ["TK-kluisherstel", 2921], ["TK-lichtcel", 3241], ["TK-vleesmetaal", 3381], ["TK-lakijzer", 3701]], "uit_nood": 10, "magie_min": 0.125, "magie_eind": 0.14, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 2181, "heersers": 4, "wetten": 18, "rustige_jaren": 1920, "macht_eind": {"staat": 0.225, "huizen": 0.061, "kerk": 0.005, "steden": 0.563, "dragers": 0.058, "buren": 0.066, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.214, "buren_honger": 0.677, "ev": 1.006, "aelthir": 0.692, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0296, seed 420296)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0297
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420297
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 14, "onopgelost": 11, "uitvindingen": [["TK-vrijladen", 1441], ["TK-laadwerkplaats", 1461], ["TK-roestlak", 1861], ["TK-echonet", 2021], ["TK-lakijzer", 2161], ["TK-kweekakker", 3781], ["TK-lichtnet", 4041], ["TK-spiermolen", 4161], ["TK-heelkweek", 4201], ["TK-steenlens", 4281], ["TK-kluisherstel", 4321]], "uit_nood": 4, "magie_min": 0.337, "magie_eind": 0.337, "golven": 14, "techniek_eind": 0.796, "werkplaatsen_vanaf": 4401, "heersers": 5, "wetten": 17, "rustige_jaren": 2340, "macht_eind": {"staat": 0.178, "huizen": 0.059, "kerk": 0.005, "steden": 0.133, "dragers": 0.44, "buren": 0.162, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.177, "buren_honger": 1.077, "ev": 1.233, "aelthir": 0.595, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0297, seed 420297)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0298
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420298
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 7, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1281], ["TK-laadwerkplaats", 1441], ["TK-echonet", 1861], ["TK-kluisherstel", 3561], ["TK-vleesmetaal", 4161], ["TK-lichtnet", 4221], ["TK-steenlens", 4541], ["TK-kweekakker", 4941]], "uit_nood": 2, "magie_min": 0.352, "magie_eind": 0.352, "golven": 12, "techniek_eind": 0.546, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 1580, "macht_eind": {"staat": 0.221, "huizen": 0.088, "kerk": 0.053, "steden": 0.077, "dragers": 0.273, "buren": 0.239, "orrim": 0.035, "volk": 0.015}, "parameters": {"groei": 0.16, "buren_honger": 1.378, "ev": 0.901, "aelthir": 0.664, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0298, seed 420298)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0299
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420299
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 11, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1141], ["TK-laadwerkplaats", 1221], ["TK-kweekakker", 1561], ["TK-heelkweek", 1641], ["TK-spiermolen", 1681], ["TK-roestlak", 1901], ["TK-lichtnet", 2741], ["TK-steenlens", 2861], ["TK-lichtcel", 3041], ["TK-echonet", 3201], ["TK-kluisherstel", 3941], ["TK-vleesmetaal", 4121], ["TK-lakijzer", 4361], ["TK-sporenkern", 4621]], "uit_nood": 7, "magie_min": 0.318, "magie_eind": 0.483, "golven": 9, "techniek_eind": 1.0, "werkplaatsen_vanaf": 3801, "heersers": 2, "wetten": 17, "rustige_jaren": 2440, "macht_eind": {"staat": 0.314, "huizen": 0.095, "kerk": 0.006, "steden": 0.246, "dragers": 0.248, "buren": 0.065, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.146, "buren_honger": 0.553, "ev": 1.002, "aelthir": 0.233, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0299, seed 420299)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0300
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420300
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 12, "onopgelost": 14, "uitvindingen": [["TK-vrijladen", 1541], ["TK-laadwerkplaats", 1841], ["TK-kweekakker", 2501], ["TK-spiermolen", 2521], ["TK-roestlak", 2541], ["TK-echonet", 2741], ["TK-heelkweek", 2841], ["TK-lakijzer", 3061], ["TK-lichtnet", 3321], ["TK-kluisherstel", 3481], ["TK-sporenkern", 4101], ["TK-gaveglas", 4301], ["TK-steenlens", 4401], ["TK-vleesmetaal", 4821]], "uit_nood": 4, "magie_min": 0.357, "magie_eind": 0.42, "golven": 17, "techniek_eind": 0.83, "werkplaatsen_vanaf": 4101, "heersers": 3, "wetten": 17, "rustige_jaren": 1740, "macht_eind": {"staat": 0.244, "huizen": 0.057, "kerk": 0.005, "steden": 0.132, "dragers": 0.458, "buren": 0.085, "orrim": 0.007, "volk": 0.011}, "parameters": {"groei": 0.146, "buren_honger": 0.743, "ev": 1.234, "aelthir": 0.717, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0300, seed 420300)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0301
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420301
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 30
+- **scores:** {"fasen": 15, "onopgelost": 10, "uitvindingen": [["TK-vrijladen", 1261], ["TK-laadwerkplaats", 1321], ["TK-roestlak", 1441], ["TK-lakijzer", 1561], ["TK-kweekakker", 1661], ["TK-spiermolen", 1701], ["TK-heelkweek", 1821], ["TK-sporennet", 1881], ["TK-sporendruk", 2581], ["TK-lichtnet", 3181], ["TK-steenlens", 3261], ["TK-kluisherstel", 3361], ["TK-sporenkern", 3781], ["TK-vleesmetaal", 4241], ["TK-lichtcel", 4661]], "uit_nood": 7, "magie_min": 0.125, "magie_eind": 0.125, "golven": 9, "techniek_eind": 1, "werkplaatsen_vanaf": 2941, "heersers": 5, "wetten": 17, "rustige_jaren": 2000, "macht_eind": {"staat": 0.244, "huizen": 0.058, "kerk": 0.005, "steden": 0.472, "dragers": 0.109, "buren": 0.088, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.165, "buren_honger": 0.762, "ev": 1.073, "aelthir": 0.392, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0301, seed 420301)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0302
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420302
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 7, "onopgelost": 13, "uitvindingen": [["TK-roestlak", 1381], ["TK-vrijladen", 2181], ["TK-kweekakker", 2781], ["TK-spiermolen", 2801], ["TK-lakijzer", 3181], ["TK-lichtnet", 3221], ["TK-steenlens", 3321], ["TK-heelkweek", 3341], ["TK-lichtcel", 3501], ["TK-kluisherstel", 4061]], "uit_nood": 5, "magie_min": 0.342, "magie_eind": 0.411, "golven": 17, "techniek_eind": 0.758, "werkplaatsen_vanaf": 4121, "heersers": 2, "wetten": 14, "rustige_jaren": 2080, "macht_eind": {"staat": 0.288, "huizen": 0.071, "kerk": 0.006, "steden": 0.161, "dragers": 0.296, "buren": 0.119, "orrim": 0.041, "volk": 0.018}, "parameters": {"groei": 0.212, "buren_honger": 0.673, "ev": 0.979, "aelthir": 0.415, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0302, seed 420302)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0303
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420303
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 13, "onopgelost": 6, "uitvindingen": [["TK-roestlak", 1481], ["TK-kweekakker", 2741], ["TK-spiermolen", 2761], ["TK-lichtnet", 2941], ["TK-heelkweek", 3321], ["TK-steenlens", 3421], ["TK-vrijladen", 3461], ["TK-kluisherstel", 3481], ["TK-lakijzer", 3681], ["TK-vleesmetaal", 4161], ["TK-lichtcel", 4321], ["TK-sporenkern", 4401], ["TK-sporennet", 4441]], "uit_nood": 5, "magie_min": 0.234, "magie_eind": 0.234, "golven": 10, "techniek_eind": 1, "werkplaatsen_vanaf": 3681, "heersers": 4, "wetten": 17, "rustige_jaren": 2500, "macht_eind": {"staat": 0.262, "huizen": 0.056, "kerk": 0.005, "steden": 0.267, "dragers": 0.169, "buren": 0.217, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.196, "buren_honger": 1.284, "ev": 0.915, "aelthir": 0.204, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0303, seed 420303)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0304
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420304
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 11, "onopgelost": 10, "uitvindingen": [["TK-lichtnet", 1021], ["TK-vrijladen", 1221], ["TK-laadwerkplaats", 1601], ["TK-echonet", 2741], ["TK-gaveglas", 2801], ["TK-kluisherstel", 4141], ["TK-vleesmetaal", 4961]], "uit_nood": 3, "magie_min": 0.353, "magie_eind": 0.353, "golven": 15, "techniek_eind": 0.453, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 18, "rustige_jaren": 1820, "macht_eind": {"staat": 0.258, "huizen": 0.092, "kerk": 0.076, "steden": 0.048, "dragers": 0.391, "buren": 0.083, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.156, "buren_honger": 0.616, "ev": 1.214, "aelthir": 0.705, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0304, seed 420304)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0305
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420305
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 9, "onopgelost": 5, "uitvindingen": [["TK-roestlak", 1081], ["TK-kweekakker", 1581], ["TK-spiermolen", 1641], ["TK-sporennet", 2301], ["TK-lichtnet", 2601], ["TK-kluisherstel", 2641], ["TK-steenlens", 2801], ["TK-heelkweek", 2941], ["TK-lichtcel", 2981], ["TK-sporenkern", 3081], ["TK-sporendruk", 3201], ["TK-vrijladen", 3241], ["TK-vleesmetaal", 3341], ["TK-lakijzer", 3421]], "uit_nood": 5, "magie_min": 0.143, "magie_eind": 0.181, "golven": 13, "techniek_eind": 1, "werkplaatsen_vanaf": 2981, "heersers": 3, "wetten": 17, "rustige_jaren": 3000, "macht_eind": {"staat": 0.267, "huizen": 0.055, "kerk": 0.005, "steden": 0.37, "dragers": 0.173, "buren": 0.11, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.138, "buren_honger": 0.725, "ev": 1.211, "aelthir": 0.623, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0305, seed 420305)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0306
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420306
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 10, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1941], ["TK-laadwerkplaats", 2921], ["TK-kluisherstel", 3441], ["TK-vleesmetaal", 3501], ["TK-echonet", 3841]], "uit_nood": 0, "magie_min": 0.348, "magie_eind": 0.348, "golven": 14, "techniek_eind": 0.476, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 13, "rustige_jaren": 2720, "macht_eind": {"staat": 0.194, "huizen": 0.106, "kerk": 0.047, "steden": 0.065, "dragers": 0.39, "buren": 0.151, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.211, "buren_honger": 1.053, "ev": 1.076, "aelthir": 0.701, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0306, seed 420306)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0307
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420307
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 34
+- **scores:** {"fasen": 21, "onopgelost": 3, "uitvindingen": [["TK-roestlak", 1481], ["TK-vrijladen", 1781], ["TK-lakijzer", 2181], ["TK-kweekakker", 3121], ["TK-heelkweek", 3201], ["TK-spiermolen", 3341], ["TK-kluisherstel", 3581], ["TK-lichtnet", 3681], ["TK-sporennet", 3741], ["TK-steenlens", 3761], ["TK-sporendruk", 3781], ["TK-sporenkern", 4261], ["TK-lichtcel", 4661]], "uit_nood": 8, "magie_min": 0.159, "magie_eind": 0.159, "golven": 13, "techniek_eind": 1, "werkplaatsen_vanaf": 3581, "heersers": 5, "wetten": 22, "rustige_jaren": 2400, "macht_eind": {"staat": 0.208, "huizen": 0.066, "kerk": 0.004, "steden": 0.296, "dragers": 0.219, "buren": 0.169, "orrim": 0.026, "volk": 0.012}, "parameters": {"groei": 0.126, "buren_honger": 1.107, "ev": 1.244, "aelthir": 0.26, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0307, seed 420307)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0308
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420308
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 13, "onopgelost": 2, "uitvindingen": [["TK-lichtnet", 921], ["TK-kluisherstel", 941], ["TK-vleesmetaal", 1361], ["TK-roestlak", 1661], ["TK-vrijladen", 2361], ["TK-sporennet", 2661], ["TK-sporendruk", 2701], ["TK-steenlens", 2801], ["TK-sporenkern", 2881], ["TK-lakijzer", 3041], ["TK-lichtcel", 3881], ["TK-kweekakker", 4061], ["TK-heelkweek", 4441]], "uit_nood": 7, "magie_min": 0.151, "magie_eind": 0.151, "golven": 12, "techniek_eind": 1, "werkplaatsen_vanaf": 2881, "heersers": 4, "wetten": 18, "rustige_jaren": 3000, "macht_eind": {"staat": 0.225, "huizen": 0.057, "kerk": 0.005, "steden": 0.388, "dragers": 0.174, "buren": 0.128, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.212, "buren_honger": 0.885, "ev": 0.895, "aelthir": 0.737, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0308, seed 420308)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0309
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420309
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 11, "onopgelost": 11, "uitvindingen": [["TK-kluisherstel", 1001], ["TK-vrijladen", 1741], ["TK-roestlak", 1781], ["TK-laadwerkplaats", 1861], ["TK-kweekakker", 2101], ["TK-lakijzer", 2441], ["TK-heelkweek", 2801], ["TK-lichtnet", 3421], ["TK-gaveglas", 3961], ["TK-sporenkern", 4581], ["TK-steenlens", 4841]], "uit_nood": 6, "magie_min": 0.341, "magie_eind": 0.369, "golven": 14, "techniek_eind": 0.877, "werkplaatsen_vanaf": 4581, "heersers": 3, "wetten": 17, "rustige_jaren": 1420, "macht_eind": {"staat": 0.223, "huizen": 0.071, "kerk": 0.006, "steden": 0.158, "dragers": 0.339, "buren": 0.151, "orrim": 0.037, "volk": 0.016}, "parameters": {"groei": 0.152, "buren_honger": 0.859, "ev": 0.874, "aelthir": 0.644, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0309, seed 420309)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0310
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420310
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 7, "onopgelost": 8, "uitvindingen": [["TK-kweekakker", 1461], ["TK-vrijladen", 2241], ["TK-kluisherstel", 3361], ["TK-vleesmetaal", 3581], ["TK-echonet", 3781], ["TK-lichtnet", 3801], ["TK-laadwerkplaats", 3941]], "uit_nood": 2, "magie_min": 0.352, "magie_eind": 0.411, "golven": 9, "techniek_eind": 0.451, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 12, "rustige_jaren": 2960, "macht_eind": {"staat": 0.26, "huizen": 0.122, "kerk": 0.078, "steden": 0.05, "dragers": 0.282, "buren": 0.183, "orrim": 0.009, "volk": 0.018}, "parameters": {"groei": 0.184, "buren_honger": 1.067, "ev": 0.803, "aelthir": 0.564, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0310, seed 420310)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0311
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420311
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 6, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 1021], ["TK-steenlens", 1621], ["TK-roestlak", 1701], ["TK-vrijladen", 1961], ["TK-kweekakker", 2841], ["TK-lakijzer", 2921], ["TK-heelkweek", 3661], ["TK-kluisherstel", 4081], ["TK-vleesmetaal", 4981]], "uit_nood": 3, "magie_min": 0.358, "magie_eind": 0.358, "golven": 13, "techniek_eind": 0.55, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 3040, "macht_eind": {"staat": 0.265, "huizen": 0.061, "kerk": 0.046, "steden": 0.107, "dragers": 0.284, "buren": 0.212, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.171, "buren_honger": 1.189, "ev": 0.724, "aelthir": 0.628, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0311, seed 420311)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0312
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420312
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 6, "onopgelost": 12, "uitvindingen": [["TK-vrijladen", 1941], ["TK-kweekakker", 2641], ["TK-spiermolen", 2801], ["TK-heelkweek", 3161], ["TK-roestlak", 3221], ["TK-lakijzer", 3661], ["TK-kluisherstel", 3721], ["TK-laadwerkplaats", 4981]], "uit_nood": 2, "magie_min": 0.361, "magie_eind": 0.692, "golven": 17, "techniek_eind": 0.642, "werkplaatsen_vanaf": 4981, "heersers": 4, "wetten": 14, "rustige_jaren": 2380, "macht_eind": {"staat": 0.273, "huizen": 0.066, "kerk": 0.034, "steden": 0.135, "dragers": 0.368, "buren": 0.069, "orrim": 0.038, "volk": 0.018}, "parameters": {"groei": 0.197, "buren_honger": 0.648, "ev": 1.272, "aelthir": 0.58, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0312, seed 420312)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0313
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420313
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 4, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 3061], ["TK-kluisherstel", 3121], ["TK-lichtnet", 3401], ["TK-vleesmetaal", 4401]], "uit_nood": 0, "magie_min": 0.356, "magie_eind": 0.36, "golven": 14, "techniek_eind": 0.423, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 13, "rustige_jaren": 2900, "macht_eind": {"staat": 0.326, "huizen": 0.083, "kerk": 0.107, "steden": 0.058, "dragers": 0.319, "buren": 0.073, "orrim": 0.012, "volk": 0.022}, "parameters": {"groei": 0.187, "buren_honger": 0.535, "ev": 0.95, "aelthir": 0.393, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0313, seed 420313)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0314
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420314
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 21
+- **scores:** {"fasen": 11, "onopgelost": 12, "uitvindingen": [["TK-kluisherstel", 1021], ["TK-roestlak", 1801], ["TK-kweekakker", 1881], ["TK-vrijladen", 2241], ["TK-spiermolen", 2261], ["TK-vleesmetaal", 3261], ["TK-lichtnet", 3461], ["TK-steenlens", 4361], ["TK-lichtcel", 4781], ["TK-lakijzer", 4881]], "uit_nood": 4, "magie_min": 0.337, "magie_eind": 0.524, "golven": 12, "techniek_eind": 0.796, "werkplaatsen_vanaf": 4521, "heersers": 3, "wetten": 16, "rustige_jaren": 1480, "macht_eind": {"staat": 0.211, "huizen": 0.056, "kerk": 0.005, "steden": 0.135, "dragers": 0.288, "buren": 0.259, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.162, "buren_honger": 1.382, "ev": 1.025, "aelthir": 0.716, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0314, seed 420314)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0315
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420315
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 5, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 1061], ["TK-kweekakker", 1861], ["TK-spiermolen", 1881], ["TK-vrijladen", 2781], ["TK-gaveglas", 2921], ["TK-steenlens", 3241], ["TK-heelkweek", 3321], ["TK-roestlak", 3501], ["TK-lakijzer", 4021], ["TK-lichtcel", 4041], ["TK-kluisherstel", 4301], ["TK-sporenkern", 4461]], "uit_nood": 3, "magie_min": 0.347, "magie_eind": 0.347, "golven": 12, "techniek_eind": 0.793, "werkplaatsen_vanaf": 4461, "heersers": 2, "wetten": 13, "rustige_jaren": 1700, "macht_eind": {"staat": 0.309, "huizen": 0.076, "kerk": 0.059, "steden": 0.132, "dragers": 0.33, "buren": 0.066, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.154, "buren_honger": 0.635, "ev": 0.729, "aelthir": 0.774, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0315, seed 420315)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0316
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420316
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 9, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 881], ["TK-laadwerkplaats", 1021], ["TK-roestlak", 1301], ["TK-kweekakker", 2301], ["TK-heelkweek", 2741], ["TK-kluisherstel", 3321], ["TK-vleesmetaal", 3421], ["TK-lakijzer", 3621], ["TK-lichtnet", 4261], ["TK-spiermolen", 4481], ["TK-steenlens", 4681], ["TK-echonet", 4781], ["TK-gaveglas", 4901]], "uit_nood": 5, "magie_min": 0.352, "magie_eind": 0.372, "golven": 18, "techniek_eind": 0.641, "werkplaatsen_vanaf": 4861, "heersers": 2, "wetten": 18, "rustige_jaren": 2920, "macht_eind": {"staat": 0.284, "huizen": 0.103, "kerk": 0.006, "steden": 0.125, "dragers": 0.362, "buren": 0.067, "orrim": 0.039, "volk": 0.014}, "parameters": {"groei": 0.182, "buren_honger": 0.55, "ev": 1.297, "aelthir": 0.595, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0316, seed 420316)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0317
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420317
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 14, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1021], ["TK-laadwerkplaats", 1041], ["TK-echonet", 1101], ["TK-roestlak", 1181], ["TK-lakijzer", 1801], ["TK-kweekakker", 2701], ["TK-spiermolen", 2721], ["TK-sporennet", 2801], ["TK-sporendruk", 2821], ["TK-lichtnet", 3041], ["TK-heelkweek", 3081], ["TK-steenlens", 3141], ["TK-kluisherstel", 3381], ["TK-sporenkern", 4361], ["TK-lichtcel", 4381]], "uit_nood": 10, "magie_min": 0.136, "magie_eind": 0.239, "golven": 8, "techniek_eind": 1, "werkplaatsen_vanaf": 3121, "heersers": 4, "wetten": 18, "rustige_jaren": 2560, "macht_eind": {"staat": 0.22, "huizen": 0.05, "kerk": 0.004, "steden": 0.353, "dragers": 0.117, "buren": 0.212, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.193, "buren_honger": 1.341, "ev": 0.782, "aelthir": 0.689, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0317, seed 420317)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0318
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420318
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 9, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 2441]], "uit_nood": 0, "magie_min": 0.351, "magie_eind": 0.351, "golven": 12, "techniek_eind": 0.363, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 17, "rustige_jaren": 2980, "macht_eind": {"staat": 0.279, "huizen": 0.107, "kerk": 0.152, "steden": 0.03, "dragers": 0.3, "buren": 0.07, "orrim": 0.043, "volk": 0.019}, "parameters": {"groei": 0.146, "buren_honger": 0.545, "ev": 0.825, "aelthir": 0.741, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0318, seed 420318)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0319
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420319
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 8, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 2201], ["TK-kluisherstel", 3081], ["TK-vleesmetaal", 3401]], "uit_nood": 0, "magie_min": 0.356, "magie_eind": 0.356, "golven": 11, "techniek_eind": 0.467, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 2220, "macht_eind": {"staat": 0.244, "huizen": 0.064, "kerk": 0.081, "steden": 0.073, "dragers": 0.283, "buren": 0.196, "orrim": 0.037, "volk": 0.021}, "parameters": {"groei": 0.131, "buren_honger": 1.008, "ev": 0.712, "aelthir": 0.362, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0319, seed 420319)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0320
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420320
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 8, "onopgelost": 9, "uitvindingen": [["TK-kweekakker", 2441], ["TK-spiermolen", 2481], ["TK-roestlak", 2681], ["TK-vrijladen", 2961], ["TK-heelkweek", 3881]], "uit_nood": 3, "magie_min": 0.357, "magie_eind": 0.506, "golven": 13, "techniek_eind": 0.502, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 2860, "macht_eind": {"staat": 0.269, "huizen": 0.109, "kerk": 0.076, "steden": 0.116, "dragers": 0.313, "buren": 0.086, "orrim": 0.011, "volk": 0.02}, "parameters": {"groei": 0.164, "buren_honger": 0.656, "ev": 0.873, "aelthir": 0.633, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0320, seed 420320)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0321
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420321
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 5, "onopgelost": 6, "uitvindingen": [["TK-kweekakker", 2521], ["TK-vrijladen", 2561], ["TK-heelkweek", 2821], ["TK-kluisherstel", 3581], ["TK-lichtnet", 3681], ["TK-vleesmetaal", 3721], ["TK-spiermolen", 4501], ["TK-roestlak", 4581], ["TK-lakijzer", 4601]], "uit_nood": 1, "magie_min": 0.352, "magie_eind": 0.455, "golven": 8, "techniek_eind": 0.554, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 12, "rustige_jaren": 3340, "macht_eind": {"staat": 0.292, "huizen": 0.073, "kerk": 0.064, "steden": 0.1, "dragers": 0.242, "buren": 0.196, "orrim": 0.01, "volk": 0.022}, "parameters": {"groei": 0.147, "buren_honger": 1.063, "ev": 0.714, "aelthir": 0.446, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0321, seed 420321)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0322
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420322
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 17, "onopgelost": 10, "uitvindingen": [["TK-lichtnet", 821], ["TK-roestlak", 1621], ["TK-steenlens", 1761], ["TK-lakijzer", 1821], ["TK-sporennet", 2421], ["TK-vrijladen", 2681], ["TK-sporendruk", 2941], ["TK-kweekakker", 3021], ["TK-spiermolen", 3041], ["TK-heelkweek", 3741], ["TK-lichtcel", 3961], ["TK-kluisherstel", 4961]], "uit_nood": 7, "magie_min": 0.127, "magie_eind": 0.127, "golven": 4, "techniek_eind": 1, "werkplaatsen_vanaf": 3061, "heersers": 5, "wetten": 18, "rustige_jaren": 1780, "macht_eind": {"staat": 0.15, "huizen": 0.054, "kerk": 0.005, "steden": 0.412, "dragers": 0.125, "buren": 0.232, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.145, "buren_honger": 1.338, "ev": 0.775, "aelthir": 0.256, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0322, seed 420322)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0323
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420323
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 13, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 881], ["TK-lichtnet", 961], ["TK-laadwerkplaats", 1061], ["TK-steenlens", 1261], ["TK-roestlak", 1781], ["TK-kweekakker", 2061], ["TK-heelkweek", 2981], ["TK-lichtcel", 3161], ["TK-spiermolen", 3721], ["TK-kluisherstel", 3841], ["TK-sporenkern", 4201]], "uit_nood": 6, "magie_min": 0.242, "magie_eind": 0.242, "golven": 10, "techniek_eind": 1, "werkplaatsen_vanaf": 3701, "heersers": 4, "wetten": 18, "rustige_jaren": 2680, "macht_eind": {"staat": 0.237, "huizen": 0.056, "kerk": 0.005, "steden": 0.291, "dragers": 0.286, "buren": 0.102, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.195, "buren_honger": 0.817, "ev": 0.889, "aelthir": 0.23, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0323, seed 420323)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0324
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420324
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 15, "onopgelost": 11, "uitvindingen": [["TK-roestlak", 1761], ["TK-vrijladen", 2101], ["TK-echonet", 2221], ["TK-kweekakker", 2821], ["TK-lakijzer", 3261], ["TK-lichtnet", 3321], ["TK-kluisherstel", 3541], ["TK-vleesmetaal", 3781], ["TK-heelkweek", 4421], ["TK-sporenkern", 4441], ["TK-steenlens", 4521], ["TK-spiermolen", 4601], ["TK-lichtcel", 4841]], "uit_nood": 4, "magie_min": 0.325, "magie_eind": 0.358, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 4441, "heersers": 6, "wetten": 18, "rustige_jaren": 1500, "macht_eind": {"staat": 0.2, "huizen": 0.052, "kerk": 0.004, "steden": 0.165, "dragers": 0.298, "buren": 0.244, "orrim": 0.03, "volk": 0.007}, "parameters": {"groei": 0.127, "buren_honger": 1.41, "ev": 1.149, "aelthir": 0.554, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0324, seed 420324)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0325
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420325
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 10, "onopgelost": 13, "uitvindingen": [["TK-vrijladen", 1181], ["TK-echonet", 3341], ["TK-lichtnet", 4001], ["TK-kluisherstel", 4061], ["TK-vleesmetaal", 4421], ["TK-steenlens", 4861]], "uit_nood": 0, "magie_min": 0.351, "magie_eind": 0.42, "golven": 15, "techniek_eind": 0.491, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 15, "rustige_jaren": 2240, "macht_eind": {"staat": 0.215, "huizen": 0.057, "kerk": 0.064, "steden": 0.055, "dragers": 0.394, "buren": 0.168, "orrim": 0.033, "volk": 0.014}, "parameters": {"groei": 0.149, "buren_honger": 1.1, "ev": 1.286, "aelthir": 0.682, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0325, seed 420325)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0326
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420326
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 9, "onopgelost": 9, "uitvindingen": [["TK-lichtnet", 901], ["TK-sporennet", 1001], ["TK-steenlens", 1841], ["TK-vrijladen", 2101], ["TK-kweekakker", 3041], ["TK-lichtcel", 3261], ["TK-echonet", 3321], ["TK-spiermolen", 3461], ["TK-roestlak", 3741], ["TK-heelkweek", 3981], ["TK-lakijzer", 4461]], "uit_nood": 4, "magie_min": 0.348, "magie_eind": 0.603, "golven": 13, "techniek_eind": 0.634, "werkplaatsen_vanaf": 4641, "heersers": 4, "wetten": 16, "rustige_jaren": 2580, "macht_eind": {"staat": 0.245, "huizen": 0.063, "kerk": 0.063, "steden": 0.142, "dragers": 0.382, "buren": 0.079, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.206, "buren_honger": 0.716, "ev": 1.194, "aelthir": 0.59, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0326, seed 420326)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0327
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420327
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 7, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1601], ["TK-echonet", 1861], ["TK-lichtnet", 3441], ["TK-kluisherstel", 4821], ["TK-vleesmetaal", 4881]], "uit_nood": 0, "magie_min": 0.346, "magie_eind": 0.346, "golven": 12, "techniek_eind": 0.4, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 3140, "macht_eind": {"staat": 0.24, "huizen": 0.056, "kerk": 0.09, "steden": 0.021, "dragers": 0.319, "buren": 0.248, "orrim": 0.008, "volk": 0.017}, "parameters": {"groei": 0.218, "buren_honger": 1.366, "ev": 1.055, "aelthir": 0.73, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0327, seed 420327)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0328
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420328
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 15, "onopgelost": 10, "uitvindingen": [["TK-vrijladen", 821], ["TK-lichtnet", 1001], ["TK-laadwerkplaats", 1241], ["TK-steenlens", 1521], ["TK-roestlak", 1701], ["TK-lakijzer", 1761], ["TK-kweekakker", 3541], ["TK-sporennet", 3621], ["TK-sporendruk", 3681], ["TK-spiermolen", 3741], ["TK-heelkweek", 3761], ["TK-kluisherstel", 3881]], "uit_nood": 7, "magie_min": 0.168, "magie_eind": 0.168, "golven": 13, "techniek_eind": 1, "werkplaatsen_vanaf": 3321, "heersers": 3, "wetten": 19, "rustige_jaren": 2060, "macht_eind": {"staat": 0.171, "huizen": 0.046, "kerk": 0.004, "steden": 0.277, "dragers": 0.24, "buren": 0.223, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.133, "buren_honger": 1.437, "ev": 0.794, "aelthir": 0.759, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0328, seed 420328)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0329
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420329
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 6, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 2901], ["TK-kluisherstel", 3121], ["TK-vleesmetaal", 3281], ["TK-echonet", 4221]], "uit_nood": 0, "magie_min": 0.366, "magie_eind": 0.474, "golven": 15, "techniek_eind": 0.422, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 2380, "macht_eind": {"staat": 0.294, "huizen": 0.068, "kerk": 0.081, "steden": 0.051, "dragers": 0.43, "buren": 0.049, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.16, "buren_honger": 0.506, "ev": 1.08, "aelthir": 0.707, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0329, seed 420329)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0330
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420330
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 21
+- **scores:** {"fasen": 10, "onopgelost": 4, "uitvindingen": [["TK-lichtnet", 1021], ["TK-kluisherstel", 1081], ["TK-roestlak", 1161], ["TK-sporennet", 1221], ["TK-steenlens", 2061], ["TK-vrijladen", 2281], ["TK-lakijzer", 2301], ["TK-sporendruk", 2761], ["TK-sporenkern", 2821], ["TK-lichtcel", 3181], ["TK-vleesmetaal", 3521]], "uit_nood": 6, "magie_min": 0.179, "magie_eind": 0.531, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 2821, "heersers": 2, "wetten": 17, "rustige_jaren": 3160, "macht_eind": {"staat": 0.241, "huizen": 0.081, "kerk": 0.005, "steden": 0.373, "dragers": 0.141, "buren": 0.135, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.172, "buren_honger": 0.788, "ev": 1.105, "aelthir": 0.211, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0330, seed 420330)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0331
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420331
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 9, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 2261], ["TK-laadwerkplaats", 2361], ["TK-kweekakker", 2981], ["TK-heelkweek", 3761], ["TK-kluisherstel", 3781], ["TK-lichtnet", 4681], ["TK-vleesmetaal", 4841], ["TK-steenlens", 4961], ["TK-roestlak", 5001]], "uit_nood": 3, "magie_min": 0.343, "magie_eind": 0.343, "golven": 7, "techniek_eind": 0.622, "werkplaatsen_vanaf": 5001, "heersers": 5, "wetten": 13, "rustige_jaren": 2860, "macht_eind": {"staat": 0.234, "huizen": 0.072, "kerk": 0.044, "steden": 0.118, "dragers": 0.331, "buren": 0.14, "orrim": 0.041, "volk": 0.019}, "parameters": {"groei": 0.216, "buren_honger": 0.956, "ev": 1.012, "aelthir": 0.477, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0331, seed 420331)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0332
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420332
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 9, "onopgelost": 8, "uitvindingen": [["TK-roestlak", 1201], ["TK-vrijladen", 1401], ["TK-echonet", 1581], ["TK-laadwerkplaats", 1701], ["TK-kweekakker", 2081], ["TK-heelkweek", 2181], ["TK-lakijzer", 2561], ["TK-spiermolen", 2841], ["TK-kluisherstel", 3681], ["TK-sporenkern", 3701], ["TK-lichtnet", 3941], ["TK-steenlens", 4101], ["TK-vleesmetaal", 4161], ["TK-lichtcel", 4761], ["TK-gaveglas", 4901], ["TK-sporennet", 4981]], "uit_nood": 6, "magie_min": 0.328, "magie_eind": 0.343, "golven": 14, "techniek_eind": 0.989, "werkplaatsen_vanaf": 3701, "heersers": 2, "wetten": 14, "rustige_jaren": 2660, "macht_eind": {"staat": 0.211, "huizen": 0.057, "kerk": 0.004, "steden": 0.189, "dragers": 0.286, "buren": 0.231, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.121, "buren_honger": 1.49, "ev": 0.735, "aelthir": 0.571, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0332, seed 420332)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0333
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420333
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 10, "onopgelost": 9, "uitvindingen": [["TK-kweekakker", 1901], ["TK-vrijladen", 2201], ["TK-kluisherstel", 2941], ["TK-lichtnet", 3581], ["TK-vleesmetaal", 4561], ["TK-spiermolen", 4821]], "uit_nood": 2, "magie_min": 0.351, "magie_eind": 0.351, "golven": 15, "techniek_eind": 0.52, "werkplaatsen_vanaf": null, "heersers": 5, "wetten": 14, "rustige_jaren": 2180, "macht_eind": {"staat": 0.211, "huizen": 0.048, "kerk": 0.054, "steden": 0.067, "dragers": 0.353, "buren": 0.248, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.217, "buren_honger": 1.483, "ev": 1.287, "aelthir": 0.704, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0333, seed 420333)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0334
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420334
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 14, "onopgelost": 4, "uitvindingen": [["TK-roestlak", 2181], ["TK-sporennet", 2641], ["TK-vrijladen", 2721], ["TK-sporendruk", 2861], ["TK-lakijzer", 2961], ["TK-lichtnet", 3201], ["TK-kluisherstel", 3281], ["TK-steenlens", 3381], ["TK-sporenkern", 3501], ["TK-lichtcel", 3721], ["TK-kweekakker", 4061], ["TK-vleesmetaal", 4601]], "uit_nood": 4, "magie_min": 0.127, "magie_eind": 0.15, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 3041, "heersers": 4, "wetten": 18, "rustige_jaren": 2620, "macht_eind": {"staat": 0.217, "huizen": 0.058, "kerk": 0.005, "steden": 0.451, "dragers": 0.07, "buren": 0.175, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.121, "buren_honger": 0.98, "ev": 1.07, "aelthir": 0.46, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0334, seed 420334)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0335
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420335
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 16, "onopgelost": 8, "uitvindingen": [["TK-roestlak", 1141], ["TK-vrijladen", 1481], ["TK-laadwerkplaats", 1981], ["TK-kweekakker", 2001], ["TK-spiermolen", 2101], ["TK-heelkweek", 2841], ["TK-lichtnet", 3181], ["TK-steenlens", 3341], ["TK-kluisherstel", 3781], ["TK-lichtcel", 3941], ["TK-lakijzer", 4301], ["TK-sporenkern", 4761], ["TK-vleesmetaal", 4781]], "uit_nood": 6, "magie_min": 0.251, "magie_eind": 0.251, "golven": 12, "techniek_eind": 1, "werkplaatsen_vanaf": 3681, "heersers": 4, "wetten": 19, "rustige_jaren": 2280, "macht_eind": {"staat": 0.198, "huizen": 0.05, "kerk": 0.004, "steden": 0.228, "dragers": 0.223, "buren": 0.255, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.157, "buren_honger": 1.493, "ev": 0.914, "aelthir": 0.397, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0335, seed 420335)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0336
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420336
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 3, "onopgelost": 2, "uitvindingen": [["TK-kweekakker", 1541], ["TK-spiermolen", 1921], ["TK-vrijladen", 2821], ["TK-lichtnet", 3561], ["TK-steenlens", 3621], ["TK-heelkweek", 3661], ["TK-lichtcel", 3921]], "uit_nood": 2, "magie_min": 0.354, "magie_eind": 0.354, "golven": 8, "techniek_eind": 0.563, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 12, "rustige_jaren": 3740, "macht_eind": {"staat": 0.315, "huizen": 0.077, "kerk": 0.065, "steden": 0.11, "dragers": 0.208, "buren": 0.194, "orrim": 0.011, "volk": 0.019}, "parameters": {"groei": 0.218, "buren_honger": 0.897, "ev": 0.857, "aelthir": 0.685, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0336, seed 420336)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0337
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420337
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 9, "onopgelost": 4, "uitvindingen": [["TK-vrijladen", 961], ["TK-echonet", 1541], ["TK-roestlak", 2621], ["TK-lichtnet", 2821], ["TK-kluisherstel", 3241], ["TK-steenlens", 3901], ["TK-lichtcel", 4181], ["TK-kweekakker", 4201], ["TK-heelkweek", 4321], ["TK-lakijzer", 4441], ["TK-spiermolen", 4901]], "uit_nood": 4, "magie_min": 0.345, "magie_eind": 0.345, "golven": 14, "techniek_eind": 0.78, "werkplaatsen_vanaf": 4561, "heersers": 4, "wetten": 16, "rustige_jaren": 1720, "macht_eind": {"staat": 0.324, "huizen": 0.072, "kerk": 0.006, "steden": 0.143, "dragers": 0.278, "buren": 0.119, "orrim": 0.041, "volk": 0.017}, "parameters": {"groei": 0.131, "buren_honger": 0.785, "ev": 0.943, "aelthir": 0.385, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0337, seed 420337)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0338
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420338
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 13, "onopgelost": 5, "uitvindingen": [["TK-lichtnet", 901], ["TK-vrijladen", 1201], ["TK-roestlak", 1521], ["TK-steenlens", 1781], ["TK-kweekakker", 2121], ["TK-sporennet", 2161], ["TK-sporendruk", 2941], ["TK-lakijzer", 3021], ["TK-spiermolen", 3041], ["TK-heelkweek", 3081], ["TK-kluisherstel", 3261], ["TK-vleesmetaal", 3301], ["TK-lichtcel", 3641], ["TK-sporenkern", 3701]], "uit_nood": 7, "magie_min": 0.151, "magie_eind": 0.334, "golven": 8, "techniek_eind": 1, "werkplaatsen_vanaf": 3081, "heersers": 5, "wetten": 18, "rustige_jaren": 2680, "macht_eind": {"staat": 0.236, "huizen": 0.058, "kerk": 0.005, "steden": 0.394, "dragers": 0.142, "buren": 0.142, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.199, "buren_honger": 0.927, "ev": 0.73, "aelthir": 0.498, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0338, seed 420338)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0339
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420339
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 8, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1041], ["TK-roestlak", 1261], ["TK-echonet", 1701], ["TK-kweekakker", 2701], ["TK-kluisherstel", 2981], ["TK-spiermolen", 3241], ["TK-heelkweek", 3301], ["TK-vleesmetaal", 4221], ["TK-lakijzer", 4961]], "uit_nood": 4, "magie_min": 0.356, "magie_eind": 0.36, "golven": 13, "techniek_eind": 0.558, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 2480, "macht_eind": {"staat": 0.25, "huizen": 0.059, "kerk": 0.041, "steden": 0.114, "dragers": 0.253, "buren": 0.259, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.186, "buren_honger": 1.377, "ev": 1.276, "aelthir": 0.639, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0339, seed 420339)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0340
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420340
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 13, "onopgelost": 5, "uitvindingen": [["TK-roestlak", 1261], ["TK-vrijladen", 1441], ["TK-kweekakker", 1721], ["TK-heelkweek", 2061], ["TK-spiermolen", 2581], ["TK-lakijzer", 3221], ["TK-kluisherstel", 3681], ["TK-lichtnet", 3861], ["TK-vleesmetaal", 3981], ["TK-steenlens", 4261]], "uit_nood": 5, "magie_min": 0.327, "magie_eind": 0.327, "golven": 9, "techniek_eind": 0.859, "werkplaatsen_vanaf": 4261, "heersers": 3, "wetten": 17, "rustige_jaren": 2780, "macht_eind": {"staat": 0.261, "huizen": 0.081, "kerk": 0.005, "steden": 0.151, "dragers": 0.219, "buren": 0.264, "orrim": 0.008, "volk": 0.012}, "parameters": {"groei": 0.127, "buren_honger": 1.27, "ev": 0.955, "aelthir": 0.658, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0340, seed 420340)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0341
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420341
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 15, "onopgelost": 4, "uitvindingen": [["TK-roestlak", 1221], ["TK-sporennet", 1801], ["TK-sporendruk", 2161], ["TK-vrijladen", 2661], ["TK-kweekakker", 2701], ["TK-heelkweek", 2881], ["TK-spiermolen", 3021], ["TK-lichtnet", 3261], ["TK-kluisherstel", 3381], ["TK-steenlens", 3421], ["TK-sporenkern", 3661], ["TK-lichtcel", 3881], ["TK-lakijzer", 4261]], "uit_nood": 6, "magie_min": 0.135, "magie_eind": 0.135, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 3241, "heersers": 4, "wetten": 17, "rustige_jaren": 2820, "macht_eind": {"staat": 0.202, "huizen": 0.073, "kerk": 0.004, "steden": 0.376, "dragers": 0.156, "buren": 0.17, "orrim": 0.007, "volk": 0.011}, "parameters": {"groei": 0.125, "buren_honger": 1.049, "ev": 1.099, "aelthir": 0.559, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0341, seed 420341)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0342
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420342
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 4, "onopgelost": 7, "uitvindingen": [["TK-roestlak", 2601], ["TK-kweekakker", 2821], ["TK-lakijzer", 3521], ["TK-spiermolen", 4201]], "uit_nood": 2, "magie_min": 0.354, "magie_eind": 0.494, "golven": 15, "techniek_eind": 0.516, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 2920, "macht_eind": {"staat": 0.33, "huizen": 0.085, "kerk": 0.083, "steden": 0.123, "dragers": 0.244, "buren": 0.101, "orrim": 0.012, "volk": 0.022}, "parameters": {"groei": 0.186, "buren_honger": 0.588, "ev": 1.161, "aelthir": 0.623, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0342, seed 420342)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0343
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420343
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 16, "onopgelost": 7, "uitvindingen": [["TK-sporennet", 1061], ["TK-roestlak", 1201], ["TK-vrijladen", 1361], ["TK-kweekakker", 2121], ["TK-laadwerkplaats", 2441], ["TK-heelkweek", 2481], ["TK-lakijzer", 2661], ["TK-kluisherstel", 3061], ["TK-spiermolen", 3361], ["TK-vleesmetaal", 3461], ["TK-sporendruk", 3481], ["TK-lichtnet", 3981], ["TK-steenlens", 4061]], "uit_nood": 6, "magie_min": 0.3, "magie_eind": 0.622, "golven": 13, "techniek_eind": 0.955, "werkplaatsen_vanaf": 3641, "heersers": 4, "wetten": 20, "rustige_jaren": 2460, "macht_eind": {"staat": 0.24, "huizen": 0.08, "kerk": 0.005, "steden": 0.244, "dragers": 0.283, "buren": 0.102, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.187, "buren_honger": 0.813, "ev": 1.027, "aelthir": 0.214, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0343, seed 420343)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0344
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420344
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 14, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1261], ["TK-roestlak", 1801], ["TK-lakijzer", 3041], ["TK-laadwerkplaats", 3141], ["TK-kweekakker", 3221], ["TK-lichtnet", 3641], ["TK-kluisherstel", 3821], ["TK-spiermolen", 4061], ["TK-steenlens", 4161], ["TK-lichtcel", 4561], ["TK-heelkweek", 4601], ["TK-vleesmetaal", 4841]], "uit_nood": 6, "magie_min": 0.341, "magie_eind": 0.384, "golven": 9, "techniek_eind": 0.86, "werkplaatsen_vanaf": 4161, "heersers": 5, "wetten": 19, "rustige_jaren": 2340, "macht_eind": {"staat": 0.208, "huizen": 0.097, "kerk": 0.004, "steden": 0.17, "dragers": 0.255, "buren": 0.243, "orrim": 0.007, "volk": 0.015}, "parameters": {"groei": 0.138, "buren_honger": 1.419, "ev": 0.862, "aelthir": 0.486, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0344, seed 420344)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0345
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420345
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 5, "onopgelost": 5, "uitvindingen": [["TK-kweekakker", 1301], ["TK-spiermolen", 1481], ["TK-roestlak", 1501], ["TK-lakijzer", 2861], ["TK-heelkweek", 3121], ["TK-lichtnet", 3161], ["TK-kluisherstel", 4121], ["TK-steenlens", 4961]], "uit_nood": 2, "magie_min": 0.349, "magie_eind": 0.381, "golven": 11, "techniek_eind": 0.571, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 13, "rustige_jaren": 3420, "macht_eind": {"staat": 0.322, "huizen": 0.075, "kerk": 0.063, "steden": 0.11, "dragers": 0.269, "buren": 0.099, "orrim": 0.043, "volk": 0.02}, "parameters": {"groei": 0.205, "buren_honger": 0.703, "ev": 0.968, "aelthir": 0.754, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0345, seed 420345)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0346
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420346
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 16, "onopgelost": 10, "uitvindingen": [["TK-lichtnet", 941], ["TK-steenlens", 1441], ["TK-roestlak", 2321], ["TK-kweekakker", 2581], ["TK-heelkweek", 2621], ["TK-sporennet", 3881], ["TK-sporendruk", 3901], ["TK-kluisherstel", 3941], ["TK-lakijzer", 3961], ["TK-spiermolen", 4721]], "uit_nood": 4, "magie_min": 0.234, "magie_eind": 0.251, "golven": 12, "techniek_eind": 1, "werkplaatsen_vanaf": 3461, "heersers": 4, "wetten": 18, "rustige_jaren": 1860, "macht_eind": {"staat": 0.2, "huizen": 0.052, "kerk": 0.004, "steden": 0.291, "dragers": 0.186, "buren": 0.248, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.188, "buren_honger": 1.449, "ev": 1.056, "aelthir": 0.768, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0346, seed 420346)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0347
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420347
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 9, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 2701], ["TK-echonet", 3001], ["TK-lichtnet", 4101], ["TK-kluisherstel", 4221], ["TK-vleesmetaal", 4401]], "uit_nood": 0, "magie_min": 0.349, "magie_eind": 0.349, "golven": 13, "techniek_eind": 0.452, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 1260, "macht_eind": {"staat": 0.209, "huizen": 0.05, "kerk": 0.065, "steden": 0.046, "dragers": 0.373, "buren": 0.214, "orrim": 0.029, "volk": 0.014}, "parameters": {"groei": 0.194, "buren_honger": 1.348, "ev": 1.101, "aelthir": 0.532, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0347, seed 420347)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0348
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420348
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 8, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1921]], "uit_nood": 0, "magie_min": 0.362, "magie_eind": 0.366, "golven": 10, "techniek_eind": 0.396, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 14, "rustige_jaren": 3220, "macht_eind": {"staat": 0.219, "huizen": 0.083, "kerk": 0.08, "steden": 0.032, "dragers": 0.298, "buren": 0.264, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.134, "buren_honger": 1.381, "ev": 0.883, "aelthir": 0.732, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0348, seed 420348)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0349
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420349
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 21
+- **scores:** {"fasen": 13, "onopgelost": 12, "uitvindingen": [["TK-roestlak", 1641], ["TK-lakijzer", 2661], ["TK-kweekakker", 3001], ["TK-vrijladen", 3601], ["TK-echonet", 3821], ["TK-spiermolen", 3841], ["TK-heelkweek", 3941], ["TK-lichtnet", 4881]], "uit_nood": 3, "magie_min": 0.345, "magie_eind": 0.345, "golven": 11, "techniek_eind": 0.592, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 15, "rustige_jaren": 2360, "macht_eind": {"staat": 0.169, "huizen": 0.056, "kerk": 0.033, "steden": 0.119, "dragers": 0.336, "buren": 0.243, "orrim": 0.032, "volk": 0.013}, "parameters": {"groei": 0.135, "buren_honger": 1.486, "ev": 0.843, "aelthir": 0.707, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0349, seed 420349)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0350
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420350
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 8, "onopgelost": 10, "uitvindingen": [["TK-vrijladen", 1741], ["TK-laadwerkplaats", 2421], ["TK-kweekakker", 3181], ["TK-kluisherstel", 3621], ["TK-vleesmetaal", 3821], ["TK-lichtnet", 4541], ["TK-spiermolen", 4841]], "uit_nood": 2, "magie_min": 0.347, "magie_eind": 0.347, "golven": 13, "techniek_eind": 0.571, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 2160, "macht_eind": {"staat": 0.226, "huizen": 0.061, "kerk": 0.039, "steden": 0.099, "dragers": 0.365, "buren": 0.16, "orrim": 0.035, "volk": 0.015}, "parameters": {"groei": 0.145, "buren_honger": 1.076, "ev": 0.903, "aelthir": 0.597, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0350, seed 420350)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0351
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420351
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 11, "onopgelost": 4, "uitvindingen": [["TK-roestlak", 1101], ["TK-sporennet", 1121], ["TK-sporendruk", 1461], ["TK-vrijladen", 2381], ["TK-kweekakker", 2641], ["TK-lakijzer", 2721], ["TK-lichtnet", 2821], ["TK-heelkweek", 2901], ["TK-kluisherstel", 2961], ["TK-steenlens", 3361], ["TK-lichtcel", 3501], ["TK-sporenkern", 3541], ["TK-vleesmetaal", 4401]], "uit_nood": 5, "magie_min": 0.137, "magie_eind": 0.137, "golven": 10, "techniek_eind": 1, "werkplaatsen_vanaf": 3341, "heersers": 4, "wetten": 18, "rustige_jaren": 3040, "macht_eind": {"staat": 0.24, "huizen": 0.052, "kerk": 0.004, "steden": 0.341, "dragers": 0.175, "buren": 0.166, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.121, "buren_honger": 0.866, "ev": 0.769, "aelthir": 0.219, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0351, seed 420351)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0352
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420352
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 13, "onopgelost": 6, "uitvindingen": [["TK-sporennet", 981], ["TK-vrijladen", 1061], ["TK-roestlak", 1161], ["TK-sporendruk", 1481], ["TK-kweekakker", 2321], ["TK-spiermolen", 2401], ["TK-echonet", 2921], ["TK-lakijzer", 3081], ["TK-kluisherstel", 3341], ["TK-heelkweek", 3381], ["TK-lichtnet", 3421], ["TK-vleesmetaal", 3621], ["TK-steenlens", 3641], ["TK-sporenkern", 4461]], "uit_nood": 5, "magie_min": 0.15, "magie_eind": 0.15, "golven": 10, "techniek_eind": 1, "werkplaatsen_vanaf": 3381, "heersers": 4, "wetten": 19, "rustige_jaren": 3060, "macht_eind": {"staat": 0.241, "huizen": 0.061, "kerk": 0.005, "steden": 0.375, "dragers": 0.244, "buren": 0.05, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.162, "buren_honger": 0.523, "ev": 1.237, "aelthir": 0.645, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0352, seed 420352)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0353
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420353
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 19
+- **scores:** {"fasen": 10, "onopgelost": 11, "uitvindingen": [["TK-vrijladen", 1961], ["TK-laadwerkplaats", 2021], ["TK-kweekakker", 2661], ["TK-heelkweek", 3061], ["TK-kluisherstel", 4041], ["TK-spiermolen", 4101], ["TK-lichtnet", 4361], ["TK-steenlens", 4721], ["TK-vleesmetaal", 4801]], "uit_nood": 5, "magie_min": 0.343, "magie_eind": 0.343, "golven": 13, "techniek_eind": 0.606, "werkplaatsen_vanaf": 4961, "heersers": 5, "wetten": 14, "rustige_jaren": 1780, "macht_eind": {"staat": 0.222, "huizen": 0.059, "kerk": 0.038, "steden": 0.095, "dragers": 0.35, "buren": 0.188, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.205, "buren_honger": 1.055, "ev": 1.111, "aelthir": 0.221, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0353, seed 420353)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0354
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420354
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 6, "onopgelost": 9, "uitvindingen": [["TK-kweekakker", 1721], ["TK-heelkweek", 2141], ["TK-vrijladen", 3101], ["TK-kluisherstel", 3281], ["TK-spiermolen", 3761], ["TK-lichtnet", 3801], ["TK-steenlens", 4521], ["TK-lichtcel", 4701]], "uit_nood": 2, "magie_min": 0.351, "magie_eind": 0.405, "golven": 11, "techniek_eind": 0.644, "werkplaatsen_vanaf": 4701, "heersers": 3, "wetten": 14, "rustige_jaren": 2040, "macht_eind": {"staat": 0.245, "huizen": 0.061, "kerk": 0.051, "steden": 0.095, "dragers": 0.319, "buren": 0.179, "orrim": 0.035, "volk": 0.015}, "parameters": {"groei": 0.183, "buren_honger": 0.971, "ev": 1.033, "aelthir": 0.232, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0354, seed 420354)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0355
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420355
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 6, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 941], ["TK-echonet", 1021], ["TK-kluisherstel", 1061], ["TK-kweekakker", 1941], ["TK-heelkweek", 2021], ["TK-lichtnet", 3381], ["TK-roestlak", 3501], ["TK-steenlens", 4141], ["TK-gaveglas", 4481], ["TK-lakijzer", 4501]], "uit_nood": 5, "magie_min": 0.338, "magie_eind": 0.338, "golven": 12, "techniek_eind": 0.593, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 1220, "macht_eind": {"staat": 0.249, "huizen": 0.068, "kerk": 0.005, "steden": 0.116, "dragers": 0.387, "buren": 0.149, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.204, "buren_honger": 0.878, "ev": 1.261, "aelthir": 0.677, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0355, seed 420355)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0356
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420356
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 9, "onopgelost": 10, "uitvindingen": [["TK-vrijladen", 2521], ["TK-lichtnet", 4061], ["TK-kluisherstel", 4941]], "uit_nood": 0, "magie_min": 0.352, "magie_eind": 0.504, "golven": 13, "techniek_eind": 0.442, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 2180, "macht_eind": {"staat": 0.19, "huizen": 0.083, "kerk": 0.057, "steden": 0.046, "dragers": 0.439, "buren": 0.135, "orrim": 0.033, "volk": 0.016}, "parameters": {"groei": 0.127, "buren_honger": 0.995, "ev": 1.293, "aelthir": 0.728, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0356, seed 420356)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0357
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420357
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 9, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1121], ["TK-laadwerkplaats", 1181], ["TK-echonet", 1221], ["TK-lichtnet", 3241], ["TK-kluisherstel", 3361], ["TK-vleesmetaal", 3421], ["TK-kweekakker", 4481], ["TK-steenlens", 4641]], "uit_nood": 2, "magie_min": 0.353, "magie_eind": 0.353, "golven": 8, "techniek_eind": 0.537, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 3020, "macht_eind": {"staat": 0.262, "huizen": 0.12, "kerk": 0.045, "steden": 0.082, "dragers": 0.277, "buren": 0.16, "orrim": 0.037, "volk": 0.016}, "parameters": {"groei": 0.202, "buren_honger": 0.931, "ev": 0.931, "aelthir": 0.317, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0357, seed 420357)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0358
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420358
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 8, "onopgelost": 7, "uitvindingen": [["TK-roestlak", 1201], ["TK-vrijladen", 2041], ["TK-kweekakker", 3001], ["TK-kluisherstel", 3101], ["TK-lichtnet", 3341], ["TK-heelkweek", 4241]], "uit_nood": 1, "magie_min": 0.337, "magie_eind": 0.337, "golven": 8, "techniek_eind": 0.6, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 2100, "macht_eind": {"staat": 0.274, "huizen": 0.061, "kerk": 0.005, "steden": 0.16, "dragers": 0.219, "buren": 0.254, "orrim": 0.009, "volk": 0.018}, "parameters": {"groei": 0.216, "buren_honger": 1.325, "ev": 0.743, "aelthir": 0.721, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0358, seed 420358)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0359
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420359
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 11, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 1041], ["TK-kluisherstel", 1061], ["TK-vrijladen", 1121], ["TK-laadwerkplaats", 1201], ["TK-steenlens", 1661], ["TK-roestlak", 1781], ["TK-kweekakker", 1841], ["TK-spiermolen", 1861], ["TK-lakijzer", 2761], ["TK-heelkweek", 2801], ["TK-vleesmetaal", 2841], ["TK-lichtcel", 3101], ["TK-sporenkern", 3321], ["TK-gaveglas", 3421]], "uit_nood": 7, "magie_min": 0.312, "magie_eind": 0.447, "golven": 11, "techniek_eind": 0.946, "werkplaatsen_vanaf": 3321, "heersers": 2, "wetten": 18, "rustige_jaren": 2800, "macht_eind": {"staat": 0.247, "huizen": 0.082, "kerk": 0.005, "steden": 0.246, "dragers": 0.219, "buren": 0.156, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.158, "buren_honger": 0.958, "ev": 1.158, "aelthir": 0.637, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0359, seed 420359)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0360
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420360
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 7, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 881], ["TK-echonet", 1141], ["TK-laadwerkplaats", 1241], ["TK-roestlak", 1421], ["TK-kweekakker", 2181], ["TK-heelkweek", 2781], ["TK-lakijzer", 3181], ["TK-kluisherstel", 4021], ["TK-vleesmetaal", 4781], ["TK-spiermolen", 4961]], "uit_nood": 4, "magie_min": 0.355, "magie_eind": 0.413, "golven": 12, "techniek_eind": 0.579, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 3160, "macht_eind": {"staat": 0.334, "huizen": 0.073, "kerk": 0.044, "steden": 0.121, "dragers": 0.285, "buren": 0.114, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.191, "buren_honger": 0.737, "ev": 0.729, "aelthir": 0.748, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0360, seed 420360)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0361
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420361
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 30
+- **scores:** {"fasen": 17, "onopgelost": 4, "uitvindingen": [["TK-lichtnet", 901], ["TK-roestlak", 1181], ["TK-vrijladen", 1221], ["TK-kweekakker", 1301], ["TK-gaveglas", 1381], ["TK-spiermolen", 1441], ["TK-lakijzer", 1641], ["TK-echonet", 1701], ["TK-heelkweek", 1761], ["TK-kluisherstel", 3981], ["TK-sporennet", 4281], ["TK-sporendruk", 4321], ["TK-vleesmetaal", 4681]], "uit_nood": 6, "magie_min": 0.24, "magie_eind": 0.281, "golven": 10, "techniek_eind": 0.96, "werkplaatsen_vanaf": 3681, "heersers": 4, "wetten": 22, "rustige_jaren": 2480, "macht_eind": {"staat": 0.186, "huizen": 0.076, "kerk": 0.004, "steden": 0.251, "dragers": 0.229, "buren": 0.233, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.121, "buren_honger": 1.429, "ev": 1.014, "aelthir": 0.75, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0361, seed 420361)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0362
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420362
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 30
+- **scores:** {"fasen": 17, "onopgelost": 6, "uitvindingen": [["TK-roestlak", 1021], ["TK-kweekakker", 1661], ["TK-spiermolen", 1701], ["TK-lakijzer", 1841], ["TK-heelkweek", 1901], ["TK-vrijladen", 2381], ["TK-sporennet", 2761], ["TK-sporendruk", 2901], ["TK-lichtnet", 3201], ["TK-kluisherstel", 3421], ["TK-steenlens", 3581], ["TK-lichtcel", 4581], ["TK-sporenkern", 4761]], "uit_nood": 9, "magie_min": 0.144, "magie_eind": 0.18, "golven": 9, "techniek_eind": 1, "werkplaatsen_vanaf": 3141, "heersers": 3, "wetten": 17, "rustige_jaren": 2260, "macht_eind": {"staat": 0.217, "huizen": 0.053, "kerk": 0.005, "steden": 0.378, "dragers": 0.176, "buren": 0.152, "orrim": 0.008, "volk": 0.012}, "parameters": {"groei": 0.166, "buren_honger": 0.98, "ev": 1.021, "aelthir": 0.754, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0362, seed 420362)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0363
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420363
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 7, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 2181], ["TK-laadwerkplaats", 3661], ["TK-lichtnet", 4061], ["TK-steenlens", 4801], ["TK-kluisherstel", 4901]], "uit_nood": 0, "magie_min": 0.359, "magie_eind": 0.362, "golven": 14, "techniek_eind": 0.551, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 1840, "macht_eind": {"staat": 0.209, "huizen": 0.057, "kerk": 0.072, "steden": 0.064, "dragers": 0.324, "buren": 0.253, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.146, "buren_honger": 1.38, "ev": 0.763, "aelthir": 0.708, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0363, seed 420363)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0364
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420364
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 12, "onopgelost": 4, "uitvindingen": [["TK-roestlak", 1221], ["TK-vrijladen", 2021], ["TK-kweekakker", 2121], ["TK-heelkweek", 2141], ["TK-kluisherstel", 2781], ["TK-lichtnet", 3001], ["TK-vleesmetaal", 3161], ["TK-lakijzer", 3461], ["TK-steenlens", 3481], ["TK-lichtcel", 3981], ["TK-sporenkern", 4801]], "uit_nood": 2, "magie_min": 0.343, "magie_eind": 0.343, "golven": 11, "techniek_eind": 0.828, "werkplaatsen_vanaf": 4481, "heersers": 4, "wetten": 18, "rustige_jaren": 3000, "macht_eind": {"staat": 0.297, "huizen": 0.066, "kerk": 0.006, "steden": 0.195, "dragers": 0.25, "buren": 0.159, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.214, "buren_honger": 0.908, "ev": 0.949, "aelthir": 0.24, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0364, seed 420364)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0365
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420365
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 9, "onopgelost": 10, "uitvindingen": [["TK-vrijladen", 961], ["TK-echonet", 1281], ["TK-roestlak", 2061], ["TK-kweekakker", 3381], ["TK-heelkweek", 3761], ["TK-lakijzer", 4081], ["TK-kluisherstel", 4421], ["TK-lichtnet", 4841]], "uit_nood": 2, "magie_min": 0.347, "magie_eind": 0.431, "golven": 4, "techniek_eind": 0.489, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 14, "rustige_jaren": 2560, "macht_eind": {"staat": 0.257, "huizen": 0.116, "kerk": 0.043, "steden": 0.105, "dragers": 0.307, "buren": 0.1, "orrim": 0.047, "volk": 0.026}, "parameters": {"groei": 0.22, "buren_honger": 0.673, "ev": 1.049, "aelthir": 0.641, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0365, seed 420365)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0366
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420366
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 32
+- **scores:** {"fasen": 18, "onopgelost": 9, "uitvindingen": [["TK-lichtnet", 961], ["TK-roestlak", 1001], ["TK-kweekakker", 1821], ["TK-spiermolen", 1881], ["TK-vrijladen", 2521], ["TK-echonet", 2541], ["TK-steenlens", 2781], ["TK-sporennet", 3001], ["TK-heelkweek", 3081], ["TK-sporendruk", 3201], ["TK-kluisherstel", 3941], ["TK-sporenkern", 3981], ["TK-lakijzer", 4601], ["TK-lichtcel", 4701]], "uit_nood": 7, "magie_min": 0.146, "magie_eind": 0.146, "golven": 10, "techniek_eind": 1, "werkplaatsen_vanaf": 3161, "heersers": 4, "wetten": 19, "rustige_jaren": 1860, "macht_eind": {"staat": 0.158, "huizen": 0.097, "kerk": 0.006, "steden": 0.501, "dragers": 0.099, "buren": 0.112, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.207, "buren_honger": 0.757, "ev": 1.107, "aelthir": 0.306, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0366, seed 420366)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0367
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420367
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 6, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1361], ["TK-echonet", 1441], ["TK-laadwerkplaats", 3261], ["TK-lichtnet", 3961]], "uit_nood": 1, "magie_min": 0.347, "magie_eind": 0.347, "golven": 9, "techniek_eind": 0.417, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 3300, "macht_eind": {"staat": 0.335, "huizen": 0.133, "kerk": 0.099, "steden": 0.061, "dragers": 0.28, "buren": 0.053, "orrim": 0.013, "volk": 0.025}, "parameters": {"groei": 0.201, "buren_honger": 0.572, "ev": 0.779, "aelthir": 0.676, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0367, seed 420367)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0368
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420368
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 17, "onopgelost": 18, "uitvindingen": [["TK-vrijladen", 1461], ["TK-laadwerkplaats", 2101], ["TK-echonet", 2681], ["TK-kweekakker", 3521], ["TK-spiermolen", 3581], ["TK-roestlak", 4421], ["TK-heelkweek", 4461], ["TK-kluisherstel", 4681], ["TK-sporenkern", 4781], ["TK-lakijzer", 4801]], "uit_nood": 4, "magie_min": 0.356, "magie_eind": 0.467, "golven": 14, "techniek_eind": 0.678, "werkplaatsen_vanaf": 4781, "heersers": 6, "wetten": 17, "rustige_jaren": 900, "macht_eind": {"staat": 0.097, "huizen": 0.108, "kerk": 0.027, "steden": 0.103, "dragers": 0.51, "buren": 0.107, "orrim": 0.033, "volk": 0.013}, "parameters": {"groei": 0.131, "buren_honger": 1.184, "ev": 1.291, "aelthir": 0.775, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0368, seed 420368)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0369
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420369
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 15, "onopgelost": 4, "uitvindingen": [["TK-roestlak", 1101], ["TK-sporennet", 1361], ["TK-kweekakker", 1661], ["TK-sporendruk", 1981], ["TK-spiermolen", 2161], ["TK-heelkweek", 2381], ["TK-vrijladen", 2701], ["TK-lakijzer", 2821], ["TK-kluisherstel", 3681], ["TK-lichtnet", 3841], ["TK-steenlens", 4581]], "uit_nood": 5, "magie_min": 0.285, "magie_eind": 0.285, "golven": 9, "techniek_eind": 0.933, "werkplaatsen_vanaf": 3681, "heersers": 5, "wetten": 17, "rustige_jaren": 2500, "macht_eind": {"staat": 0.187, "huizen": 0.106, "kerk": 0.005, "steden": 0.277, "dragers": 0.198, "buren": 0.179, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.154, "buren_honger": 1.132, "ev": 1.04, "aelthir": 0.749, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0369, seed 420369)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0370
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420370
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 8, "onopgelost": 11, "uitvindingen": [["TK-vrijladen", 2521], ["TK-lichtnet", 3221]], "uit_nood": 1, "magie_min": 0.354, "magie_eind": 0.354, "golven": 12, "techniek_eind": 0.34, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 15, "rustige_jaren": 2720, "macht_eind": {"staat": 0.277, "huizen": 0.102, "kerk": 0.121, "steden": 0.023, "dragers": 0.347, "buren": 0.07, "orrim": 0.041, "volk": 0.019}, "parameters": {"groei": 0.168, "buren_honger": 0.55, "ev": 1.078, "aelthir": 0.284, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0370, seed 420370)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0371
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420371
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 8, "onopgelost": 5, "uitvindingen": [["TK-kweekakker", 1361], ["TK-spiermolen", 1481], ["TK-roestlak", 1741], ["TK-heelkweek", 1961], ["TK-vrijladen", 2301], ["TK-lakijzer", 2661], ["TK-kluisherstel", 2861], ["TK-laadwerkplaats", 3361], ["TK-vleesmetaal", 3441], ["TK-lichtnet", 3721], ["TK-sporenkern", 4341], ["TK-echonet", 4881]], "uit_nood": 4, "magie_min": 0.361, "magie_eind": 0.375, "golven": 16, "techniek_eind": 0.669, "werkplaatsen_vanaf": 4341, "heersers": 4, "wetten": 14, "rustige_jaren": 3240, "macht_eind": {"staat": 0.261, "huizen": 0.058, "kerk": 0.039, "steden": 0.116, "dragers": 0.434, "buren": 0.069, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.2, "buren_honger": 0.587, "ev": 1.055, "aelthir": 0.506, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0371, seed 420371)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0372
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420372
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 4, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1581], ["TK-kluisherstel", 3001], ["TK-vleesmetaal", 3861], ["TK-echonet", 4861]], "uit_nood": 0, "magie_min": 0.351, "magie_eind": 0.647, "golven": 11, "techniek_eind": 0.422, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 2260, "macht_eind": {"staat": 0.27, "huizen": 0.085, "kerk": 0.063, "steden": 0.04, "dragers": 0.255, "buren": 0.263, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.18, "buren_honger": 1.223, "ev": 1.09, "aelthir": 0.292, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0372, seed 420372)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0373
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420373
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 6, "onopgelost": 3, "uitvindingen": [["TK-vrijladen", 1881], ["TK-kluisherstel", 3741]], "uit_nood": 0, "magie_min": 0.357, "magie_eind": 0.357, "golven": 10, "techniek_eind": 0.43, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 14, "rustige_jaren": 3440, "macht_eind": {"staat": 0.34, "huizen": 0.109, "kerk": 0.111, "steden": 0.05, "dragers": 0.304, "buren": 0.055, "orrim": 0.011, "volk": 0.02}, "parameters": {"groei": 0.167, "buren_honger": 0.505, "ev": 0.814, "aelthir": 0.228, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0373, seed 420373)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0374
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420374
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 12, "onopgelost": 6, "uitvindingen": [["TK-kluisherstel", 941], ["TK-vrijladen", 1361], ["TK-roestlak", 2121], ["TK-lakijzer", 2261], ["TK-kweekakker", 2921], ["TK-laadwerkplaats", 2981], ["TK-heelkweek", 3581], ["TK-spiermolen", 4101], ["TK-vleesmetaal", 4541], ["TK-sporenkern", 4761], ["TK-echonet", 4781]], "uit_nood": 4, "magie_min": 0.349, "magie_eind": 0.483, "golven": 9, "techniek_eind": 0.855, "werkplaatsen_vanaf": 4221, "heersers": 4, "wetten": 17, "rustige_jaren": 2660, "macht_eind": {"staat": 0.256, "huizen": 0.088, "kerk": 0.005, "steden": 0.156, "dragers": 0.24, "buren": 0.229, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.206, "buren_honger": 1.23, "ev": 0.814, "aelthir": 0.573, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0374, seed 420374)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0375
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420375
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 11, "onopgelost": 13, "uitvindingen": [["TK-vrijladen", 1261], ["TK-laadwerkplaats", 1301], ["TK-echonet", 1341], ["TK-kluisherstel", 3001], ["TK-lichtnet", 3141], ["TK-gaveglas", 3821], ["TK-vleesmetaal", 4141], ["TK-steenlens", 4841], ["TK-lichtcel", 4861]], "uit_nood": 3, "magie_min": 0.356, "magie_eind": 0.384, "golven": 19, "techniek_eind": 0.578, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 18, "rustige_jaren": 2000, "macht_eind": {"staat": 0.25, "huizen": 0.111, "kerk": 0.064, "steden": 0.06, "dragers": 0.409, "buren": 0.059, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.146, "buren_honger": 0.65, "ev": 1.27, "aelthir": 0.475, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0375, seed 420375)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0376
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420376
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 30
+- **scores:** {"fasen": 15, "onopgelost": 10, "uitvindingen": [["TK-kluisherstel", 921], ["TK-lichtnet", 961], ["TK-vrijladen", 981], ["TK-steenlens", 1001], ["TK-echonet", 1221], ["TK-gaveglas", 1261], ["TK-roestlak", 1461], ["TK-sporennet", 1721], ["TK-lakijzer", 1821], ["TK-sporendruk", 2321], ["TK-kweekakker", 2461], ["TK-heelkweek", 2501], ["TK-spiermolen", 2561], ["TK-vleesmetaal", 4261], ["TK-sporenkern", 4321]], "uit_nood": 7, "magie_min": 0.145, "magie_eind": 0.145, "golven": 10, "techniek_eind": 1, "werkplaatsen_vanaf": 2961, "heersers": 4, "wetten": 19, "rustige_jaren": 2160, "macht_eind": {"staat": 0.181, "huizen": 0.058, "kerk": 0.005, "steden": 0.391, "dragers": 0.147, "buren": 0.174, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.173, "buren_honger": 1.073, "ev": 0.959, "aelthir": 0.376, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0376, seed 420376)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0377
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420377
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 8, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 901], ["TK-echonet", 1341], ["TK-kluisherstel", 2721], ["TK-vleesmetaal", 3401], ["TK-lichtnet", 3461]], "uit_nood": 2, "magie_min": 0.348, "magie_eind": 0.432, "golven": 13, "techniek_eind": 0.415, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 15, "rustige_jaren": 2520, "macht_eind": {"staat": 0.305, "huizen": 0.095, "kerk": 0.071, "steden": 0.043, "dragers": 0.372, "buren": 0.059, "orrim": 0.038, "volk": 0.017}, "parameters": {"groei": 0.162, "buren_honger": 0.534, "ev": 1.242, "aelthir": 0.604, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0377, seed 420377)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0378
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420378
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 5, "onopgelost": 7, "uitvindingen": [["TK-kweekakker", 2941], ["TK-heelkweek", 2981], ["TK-vrijladen", 3581], ["TK-kluisherstel", 3961], ["TK-vleesmetaal", 3981]], "uit_nood": 2, "magie_min": 0.351, "magie_eind": 0.387, "golven": 12, "techniek_eind": 0.464, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 2420, "macht_eind": {"staat": 0.269, "huizen": 0.105, "kerk": 0.072, "steden": 0.077, "dragers": 0.274, "buren": 0.173, "orrim": 0.011, "volk": 0.02}, "parameters": {"groei": 0.154, "buren_honger": 0.872, "ev": 1.104, "aelthir": 0.409, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0378, seed 420378)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0379
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420379
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 10, "onopgelost": 7, "uitvindingen": [["TK-lichtnet", 2941], ["TK-kluisherstel", 3001], ["TK-vrijladen", 3221], ["TK-vleesmetaal", 3421], ["TK-steenlens", 4441]], "uit_nood": 1, "magie_min": 0.352, "magie_eind": 0.394, "golven": 10, "techniek_eind": 0.511, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 15, "rustige_jaren": 2320, "macht_eind": {"staat": 0.236, "huizen": 0.052, "kerk": 0.066, "steden": 0.062, "dragers": 0.329, "buren": 0.236, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.147, "buren_honger": 1.367, "ev": 0.852, "aelthir": 0.726, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0379, seed 420379)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0380
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420380
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 8, "onopgelost": 7, "uitvindingen": [["TK-lichtnet", 1061], ["TK-steenlens", 1481], ["TK-vrijladen", 1581], ["TK-echonet", 1801], ["TK-laadwerkplaats", 2561], ["TK-lichtcel", 3761], ["TK-kweekakker", 4101], ["TK-roestlak", 4141], ["TK-heelkweek", 4361], ["TK-lakijzer", 4421], ["TK-kluisherstel", 4481], ["TK-spiermolen", 4561], ["TK-vleesmetaal", 4761], ["TK-sporenkern", 4901]], "uit_nood": 5, "magie_min": 0.346, "magie_eind": 0.367, "golven": 10, "techniek_eind": 0.836, "werkplaatsen_vanaf": 4561, "heersers": 1, "wetten": 14, "rustige_jaren": 2300, "macht_eind": {"staat": 0.244, "huizen": 0.094, "kerk": 0.036, "steden": 0.133, "dragers": 0.264, "buren": 0.21, "orrim": 0.009, "volk": 0.009}, "parameters": {"groei": 0.147, "buren_honger": 1.139, "ev": 1.174, "aelthir": 0.537, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0380, seed 420380)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0381
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420381
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 10, "onopgelost": 3, "uitvindingen": [["TK-lichtnet", 921], ["TK-vrijladen", 1161], ["TK-kweekakker", 1981], ["TK-spiermolen", 2181], ["TK-gaveglas", 2581], ["TK-laadwerkplaats", 2681], ["TK-roestlak", 2981], ["TK-steenlens", 3041], ["TK-kluisherstel", 3181], ["TK-heelkweek", 3201], ["TK-vleesmetaal", 3521], ["TK-sporenkern", 3761], ["TK-echonet", 3781]], "uit_nood": 3, "magie_min": 0.338, "magie_eind": 0.338, "golven": 12, "techniek_eind": 0.849, "werkplaatsen_vanaf": 3761, "heersers": 2, "wetten": 16, "rustige_jaren": 3360, "macht_eind": {"staat": 0.296, "huizen": 0.13, "kerk": 0.006, "steden": 0.19, "dragers": 0.276, "buren": 0.047, "orrim": 0.038, "volk": 0.018}, "parameters": {"groei": 0.145, "buren_honger": 0.503, "ev": 1.084, "aelthir": 0.456, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0381, seed 420381)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0382
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420382
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 9, "onopgelost": 12, "uitvindingen": [["TK-vrijladen", 1321], ["TK-echonet", 1601], ["TK-roestlak", 2961], ["TK-lakijzer", 3341], ["TK-kweekakker", 3601], ["TK-kluisherstel", 4001], ["TK-vleesmetaal", 4381]], "uit_nood": 1, "magie_min": 0.35, "magie_eind": 0.35, "golven": 12, "techniek_eind": 0.508, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 15, "rustige_jaren": 2280, "macht_eind": {"staat": 0.193, "huizen": 0.094, "kerk": 0.032, "steden": 0.11, "dragers": 0.212, "buren": 0.303, "orrim": 0.038, "volk": 0.018}, "parameters": {"groei": 0.208, "buren_honger": 1.429, "ev": 0.984, "aelthir": 0.639, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0382, seed 420382)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0383
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420383
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 14, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1001], ["TK-echonet", 1081], ["TK-roestlak", 2181], ["TK-lakijzer", 2241], ["TK-kweekakker", 2961], ["TK-heelkweek", 3721], ["TK-lichtnet", 4641], ["TK-kluisherstel", 4661]], "uit_nood": 6, "magie_min": 0.348, "magie_eind": 0.348, "golven": 15, "techniek_eind": 0.664, "werkplaatsen_vanaf": 4981, "heersers": 5, "wetten": 16, "rustige_jaren": 2460, "macht_eind": {"staat": 0.199, "huizen": 0.054, "kerk": 0.028, "steden": 0.114, "dragers": 0.332, "buren": 0.232, "orrim": 0.031, "volk": 0.011}, "parameters": {"groei": 0.191, "buren_honger": 1.497, "ev": 1.182, "aelthir": 0.777, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0383, seed 420383)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0384
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420384
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 11, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 1021], ["TK-sporennet", 1261], ["TK-roestlak", 1741], ["TK-kweekakker", 1981], ["TK-spiermolen", 2241], ["TK-lakijzer", 2381], ["TK-steenlens", 2601], ["TK-sporendruk", 3141], ["TK-kluisherstel", 3161], ["TK-heelkweek", 3181], ["TK-sporenkern", 3761], ["TK-vleesmetaal", 3901]], "uit_nood": 4, "magie_min": 0.134, "magie_eind": 0.321, "golven": 7, "techniek_eind": 1, "werkplaatsen_vanaf": 3121, "heersers": 4, "wetten": 16, "rustige_jaren": 2600, "macht_eind": {"staat": 0.209, "huizen": 0.05, "kerk": 0.004, "steden": 0.343, "dragers": 0.122, "buren": 0.251, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.146, "buren_honger": 1.483, "ev": 0.978, "aelthir": 0.55, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0384, seed 420384)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0385
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420385
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 33
+- **scores:** {"fasen": 19, "onopgelost": 10, "uitvindingen": [["TK-lichtnet", 961], ["TK-steenlens", 1081], ["TK-roestlak", 1201], ["TK-sporennet", 1281], ["TK-sporendruk", 1541], ["TK-kweekakker", 1761], ["TK-lakijzer", 1961], ["TK-vrijladen", 2341], ["TK-heelkweek", 3061], ["TK-kluisherstel", 3661], ["TK-gaveglas", 3781], ["TK-sporenkern", 4341], ["TK-vleesmetaal", 4441], ["TK-spiermolen", 4861]], "uit_nood": 6, "magie_min": 0.24, "magie_eind": 0.296, "golven": 8, "techniek_eind": 1, "werkplaatsen_vanaf": 3661, "heersers": 4, "wetten": 19, "rustige_jaren": 2180, "macht_eind": {"staat": 0.18, "huizen": 0.078, "kerk": 0.004, "steden": 0.296, "dragers": 0.199, "buren": 0.223, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.18, "buren_honger": 1.382, "ev": 0.812, "aelthir": 0.489, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0385, seed 420385)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0386
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420386
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 8, "onopgelost": 6, "uitvindingen": [["TK-roestlak", 1081], ["TK-sporennet", 1281], ["TK-vrijladen", 2001], ["TK-kweekakker", 2161], ["TK-spiermolen", 2501], ["TK-laadwerkplaats", 2561], ["TK-echonet", 2801], ["TK-sporendruk", 3621], ["TK-lakijzer", 3941], ["TK-heelkweek", 4701]], "uit_nood": 3, "magie_min": 0.358, "magie_eind": 0.358, "golven": 11, "techniek_eind": 0.586, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 14, "rustige_jaren": 2840, "macht_eind": {"staat": 0.259, "huizen": 0.118, "kerk": 0.005, "steden": 0.126, "dragers": 0.282, "buren": 0.186, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.171, "buren_honger": 1.094, "ev": 0.902, "aelthir": 0.605, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0386, seed 420386)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0387
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420387
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 12, "onopgelost": 4, "uitvindingen": [["TK-roestlak", 2221], ["TK-kweekakker", 2861], ["TK-lichtnet", 3061], ["TK-spiermolen", 3081], ["TK-heelkweek", 3221], ["TK-steenlens", 3581], ["TK-lichtcel", 4221], ["TK-kluisherstel", 4321], ["TK-lakijzer", 4441], ["TK-vleesmetaal", 4881]], "uit_nood": 3, "magie_min": 0.32, "magie_eind": 0.32, "golven": 6, "techniek_eind": 0.897, "werkplaatsen_vanaf": 4041, "heersers": 5, "wetten": 17, "rustige_jaren": 3120, "macht_eind": {"staat": 0.311, "huizen": 0.077, "kerk": 0.007, "steden": 0.247, "dragers": 0.188, "buren": 0.142, "orrim": 0.011, "volk": 0.019}, "parameters": {"groei": 0.182, "buren_honger": 0.902, "ev": 1.065, "aelthir": 0.464, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0387, seed 420387)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0388
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420388
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 11, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1141], ["TK-laadwerkplaats", 1241], ["TK-kweekakker", 1561], ["TK-heelkweek", 2601], ["TK-kluisherstel", 3281], ["TK-vleesmetaal", 3581], ["TK-spiermolen", 3701], ["TK-lichtnet", 3821], ["TK-steenlens", 4141], ["TK-lichtcel", 4421], ["TK-roestlak", 4741]], "uit_nood": 4, "magie_min": 0.338, "magie_eind": 0.487, "golven": 8, "techniek_eind": 0.801, "werkplaatsen_vanaf": 4421, "heersers": 3, "wetten": 17, "rustige_jaren": 1640, "macht_eind": {"staat": 0.255, "huizen": 0.09, "kerk": 0.005, "steden": 0.123, "dragers": 0.231, "buren": 0.245, "orrim": 0.036, "volk": 0.015}, "parameters": {"groei": 0.156, "buren_honger": 1.161, "ev": 0.797, "aelthir": 0.333, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0388, seed 420388)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0389
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420389
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 4, "onopgelost": 6, "uitvindingen": [["TK-roestlak", 1281], ["TK-vrijladen", 2681], ["TK-kweekakker", 2761], ["TK-kluisherstel", 3081], ["TK-vleesmetaal", 3121], ["TK-lakijzer", 3941], ["TK-lichtnet", 4341]], "uit_nood": 1, "magie_min": 0.362, "magie_eind": 0.567, "golven": 15, "techniek_eind": 0.495, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 12, "rustige_jaren": 3500, "macht_eind": {"staat": 0.287, "huizen": 0.089, "kerk": 0.032, "steden": 0.092, "dragers": 0.209, "buren": 0.261, "orrim": 0.009, "volk": 0.02}, "parameters": {"groei": 0.142, "buren_honger": 1.216, "ev": 1.158, "aelthir": 0.56, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0389, seed 420389)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0390
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420390
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 31
+- **scores:** {"fasen": 18, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 961], ["TK-laadwerkplaats", 1021], ["TK-roestlak", 1261], ["TK-echonet", 1601], ["TK-lakijzer", 1981], ["TK-sporennet", 2381], ["TK-kweekakker", 3041], ["TK-sporendruk", 3481], ["TK-heelkweek", 3921], ["TK-lichtnet", 4021], ["TK-kluisherstel", 4041], ["TK-steenlens", 4081], ["TK-vleesmetaal", 4261]], "uit_nood": 8, "magie_min": 0.164, "magie_eind": 0.263, "golven": 15, "techniek_eind": 1, "werkplaatsen_vanaf": 3581, "heersers": 5, "wetten": 19, "rustige_jaren": 2180, "macht_eind": {"staat": 0.156, "huizen": 0.051, "kerk": 0.004, "steden": 0.297, "dragers": 0.313, "buren": 0.137, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.173, "buren_honger": 1.063, "ev": 1.221, "aelthir": 0.508, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0390, seed 420390)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0391
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420391
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 21
+- **scores:** {"fasen": 11, "onopgelost": 7, "uitvindingen": [["TK-kweekakker", 1801], ["TK-spiermolen", 1821], ["TK-roestlak", 1881], ["TK-heelkweek", 2081], ["TK-lakijzer", 2421], ["TK-kluisherstel", 2981], ["TK-vleesmetaal", 3201], ["TK-sporenkern", 3641], ["TK-lichtnet", 3661], ["TK-steenlens", 3801]], "uit_nood": 4, "magie_min": 0.326, "magie_eind": 0.326, "golven": 11, "techniek_eind": 0.865, "werkplaatsen_vanaf": 3641, "heersers": 3, "wetten": 17, "rustige_jaren": 2740, "macht_eind": {"staat": 0.34, "huizen": 0.099, "kerk": 0.006, "steden": 0.235, "dragers": 0.21, "buren": 0.081, "orrim": 0.01, "volk": 0.02}, "parameters": {"groei": 0.196, "buren_honger": 0.663, "ev": 1.281, "aelthir": 0.505, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0391, seed 420391)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0392
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420392
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 11, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 1021], ["TK-vrijladen", 1421], ["TK-kweekakker", 1521], ["TK-spiermolen", 1541], ["TK-roestlak", 1621], ["TK-steenlens", 2181], ["TK-heelkweek", 2261], ["TK-lakijzer", 2681], ["TK-gaveglas", 3281], ["TK-laadwerkplaats", 3341], ["TK-lichtcel", 3721], ["TK-kluisherstel", 3961]], "uit_nood": 7, "magie_min": 0.29, "magie_eind": 0.603, "golven": 12, "techniek_eind": 0.97, "werkplaatsen_vanaf": 3721, "heersers": 4, "wetten": 17, "rustige_jaren": 2580, "macht_eind": {"staat": 0.201, "huizen": 0.053, "kerk": 0.004, "steden": 0.233, "dragers": 0.248, "buren": 0.24, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.217, "buren_honger": 1.299, "ev": 0.916, "aelthir": 0.439, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0392, seed 420392)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0393
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420393
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 12, "onopgelost": 12, "uitvindingen": [["TK-roestlak", 1721], ["TK-kweekakker", 2441], ["TK-spiermolen", 2461], ["TK-heelkweek", 2501], ["TK-lichtnet", 3401], ["TK-steenlens", 3581], ["TK-kluisherstel", 3621], ["TK-sporenkern", 3841], ["TK-lichtcel", 4001], ["TK-lakijzer", 4961]], "uit_nood": 2, "magie_min": 0.222, "magie_eind": 0.222, "golven": 14, "techniek_eind": 1, "werkplaatsen_vanaf": 3621, "heersers": 6, "wetten": 17, "rustige_jaren": 2340, "macht_eind": {"staat": 0.238, "huizen": 0.064, "kerk": 0.005, "steden": 0.33, "dragers": 0.229, "buren": 0.107, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.171, "buren_honger": 0.762, "ev": 1.086, "aelthir": 0.339, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0393, seed 420393)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0394
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420394
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 19
+- **scores:** {"fasen": 11, "onopgelost": 3, "uitvindingen": [["TK-roestlak", 1201], ["TK-kweekakker", 1461], ["TK-heelkweek", 1961], ["TK-kluisherstel", 3281], ["TK-vleesmetaal", 3401], ["TK-spiermolen", 3501], ["TK-lichtnet", 3841], ["TK-steenlens", 4361]], "uit_nood": 5, "magie_min": 0.295, "magie_eind": 0.295, "golven": 5, "techniek_eind": 0.881, "werkplaatsen_vanaf": 3781, "heersers": 3, "wetten": 17, "rustige_jaren": 3220, "macht_eind": {"staat": 0.268, "huizen": 0.078, "kerk": 0.007, "steden": 0.3, "dragers": 0.143, "buren": 0.174, "orrim": 0.011, "volk": 0.02}, "parameters": {"groei": 0.21, "buren_honger": 0.764, "ev": 0.808, "aelthir": 0.377, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0394, seed 420394)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0395
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420395
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 4, "onopgelost": 8, "uitvindingen": [["TK-kweekakker", 1361], ["TK-heelkweek", 1821], ["TK-vrijladen", 2041], ["TK-laadwerkplaats", 2061], ["TK-kluisherstel", 2941], ["TK-vleesmetaal", 3341], ["TK-spiermolen", 3481], ["TK-lichtnet", 3821], ["TK-roestlak", 4421]], "uit_nood": 5, "magie_min": 0.353, "magie_eind": 0.359, "golven": 14, "techniek_eind": 0.561, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 12, "rustige_jaren": 3060, "macht_eind": {"staat": 0.311, "huizen": 0.074, "kerk": 0.06, "steden": 0.11, "dragers": 0.349, "buren": 0.065, "orrim": 0.011, "volk": 0.02}, "parameters": {"groei": 0.218, "buren_honger": 0.625, "ev": 1.124, "aelthir": 0.729, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0395, seed 420395)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0396
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420396
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 14, "onopgelost": 12, "uitvindingen": [["TK-lichtnet", 1021], ["TK-vrijladen", 1161], ["TK-echonet", 1401], ["TK-roestlak", 2021], ["TK-kweekakker", 2321], ["TK-steenlens", 2341], ["TK-lakijzer", 3141], ["TK-heelkweek", 3161], ["TK-laadwerkplaats", 3361], ["TK-spiermolen", 3681], ["TK-kluisherstel", 4201], ["TK-sporenkern", 4461], ["TK-sporennet", 4641]], "uit_nood": 5, "magie_min": 0.289, "magie_eind": 0.289, "golven": 14, "techniek_eind": 1, "werkplaatsen_vanaf": 3881, "heersers": 5, "wetten": 17, "rustige_jaren": 1920, "macht_eind": {"staat": 0.179, "huizen": 0.053, "kerk": 0.005, "steden": 0.217, "dragers": 0.328, "buren": 0.198, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.129, "buren_honger": 1.253, "ev": 0.879, "aelthir": 0.733, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0396, seed 420396)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0397
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420397
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 31
+- **scores:** {"fasen": 18, "onopgelost": 12, "uitvindingen": [["TK-vrijladen", 861], ["TK-laadwerkplaats", 1041], ["TK-kweekakker", 1561], ["TK-spiermolen", 1601], ["TK-echonet", 1701], ["TK-roestlak", 1781], ["TK-lakijzer", 2301], ["TK-heelkweek", 3001], ["TK-kluisherstel", 3641], ["TK-lichtnet", 3761], ["TK-steenlens", 4241], ["TK-sporennet", 4301], ["TK-sporendruk", 4321]], "uit_nood": 10, "magie_min": 0.261, "magie_eind": 0.261, "golven": 16, "techniek_eind": 1, "werkplaatsen_vanaf": 3761, "heersers": 4, "wetten": 19, "rustige_jaren": 1860, "macht_eind": {"staat": 0.17, "huizen": 0.053, "kerk": 0.005, "steden": 0.25, "dragers": 0.339, "buren": 0.14, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.199, "buren_honger": 1.075, "ev": 1.213, "aelthir": 0.323, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0397, seed 420397)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0398
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420398
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 19
+- **scores:** {"fasen": 8, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1441], ["TK-laadwerkplaats", 1781], ["TK-kluisherstel", 2881], ["TK-lichtnet", 3041], ["TK-kweekakker", 3901], ["TK-vleesmetaal", 4061], ["TK-spiermolen", 4281], ["TK-echonet", 4521], ["TK-roestlak", 4661], ["TK-heelkweek", 4701], ["TK-lakijzer", 4961]], "uit_nood": 2, "magie_min": 0.356, "magie_eind": 0.356, "golven": 8, "techniek_eind": 0.596, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 16, "rustige_jaren": 2460, "macht_eind": {"staat": 0.29, "huizen": 0.091, "kerk": 0.044, "steden": 0.106, "dragers": 0.265, "buren": 0.153, "orrim": 0.036, "volk": 0.017}, "parameters": {"groei": 0.196, "buren_honger": 0.875, "ev": 0.915, "aelthir": 0.716, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0398, seed 420398)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0399
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420399
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 13, "onopgelost": 7, "uitvindingen": [["TK-sporennet", 1321], ["TK-vrijladen", 1341], ["TK-echonet", 1401], ["TK-roestlak", 1861], ["TK-kluisherstel", 3341], ["TK-vleesmetaal", 3501], ["TK-kweekakker", 3561], ["TK-sporendruk", 3581], ["TK-heelkweek", 4581]], "uit_nood": 3, "magie_min": 0.153, "magie_eind": 0.153, "golven": 10, "techniek_eind": 1, "werkplaatsen_vanaf": 3541, "heersers": 5, "wetten": 19, "rustige_jaren": 2380, "macht_eind": {"staat": 0.178, "huizen": 0.052, "kerk": 0.004, "steden": 0.301, "dragers": 0.229, "buren": 0.217, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.123, "buren_honger": 1.354, "ev": 0.738, "aelthir": 0.481, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0399, seed 420399)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0400
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420400
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 13, "onopgelost": 8, "uitvindingen": [["TK-sporennet", 1261], ["TK-roestlak", 1581], ["TK-kweekakker", 3041], ["TK-vrijladen", 3161], ["TK-laadwerkplaats", 3301], ["TK-kluisherstel", 3581], ["TK-lichtnet", 3661], ["TK-sporendruk", 3721], ["TK-sporenkern", 3741], ["TK-steenlens", 3841], ["TK-lichtcel", 3901], ["TK-lakijzer", 4761], ["TK-vleesmetaal", 4941]], "uit_nood": 5, "magie_min": 0.256, "magie_eind": 0.288, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 3581, "heersers": 4, "wetten": 18, "rustige_jaren": 2080, "macht_eind": {"staat": 0.265, "huizen": 0.063, "kerk": 0.005, "steden": 0.312, "dragers": 0.192, "buren": 0.137, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.182, "buren_honger": 0.84, "ev": 1.121, "aelthir": 0.476, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0400, seed 420400)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0401
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420401
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 10, "onopgelost": 12, "uitvindingen": [["TK-vrijladen", 1741], ["TK-laadwerkplaats", 1941], ["TK-kluisherstel", 5001]], "uit_nood": 2, "magie_min": 0.348, "magie_eind": 0.497, "golven": 8, "techniek_eind": 0.458, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 16, "rustige_jaren": 1900, "macht_eind": {"staat": 0.199, "huizen": 0.102, "kerk": 0.07, "steden": 0.042, "dragers": 0.33, "buren": 0.21, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.127, "buren_honger": 1.256, "ev": 0.834, "aelthir": 0.57, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0401, seed 420401)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0402
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420402
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 12, "onopgelost": 8, "uitvindingen": [["TK-sporennet", 1261], ["TK-vrijladen", 1281], ["TK-roestlak", 1581], ["TK-echonet", 1641], ["TK-kweekakker", 2701], ["TK-spiermolen", 2781], ["TK-heelkweek", 2821], ["TK-lakijzer", 3581], ["TK-lichtnet", 4241], ["TK-kluisherstel", 4321], ["TK-sporendruk", 4661], ["TK-steenlens", 4781]], "uit_nood": 5, "magie_min": 0.349, "magie_eind": 0.349, "golven": 9, "techniek_eind": 0.616, "werkplaatsen_vanaf": 4861, "heersers": 4, "wetten": 18, "rustige_jaren": 2820, "macht_eind": {"staat": 0.212, "huizen": 0.056, "kerk": 0.027, "steden": 0.122, "dragers": 0.295, "buren": 0.244, "orrim": 0.032, "volk": 0.013}, "parameters": {"groei": 0.131, "buren_honger": 1.366, "ev": 0.884, "aelthir": 0.381, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0402, seed 420402)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0403
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420403
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 8, "onopgelost": 7, "uitvindingen": [["TK-lichtnet", 1041], ["TK-vrijladen", 1581], ["TK-kluisherstel", 3761], ["TK-steenlens", 4581], ["TK-lichtcel", 4641], ["TK-kweekakker", 4981]], "uit_nood": 3, "magie_min": 0.351, "magie_eind": 0.523, "golven": 11, "techniek_eind": 0.585, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 2020, "macht_eind": {"staat": 0.218, "huizen": 0.055, "kerk": 0.063, "steden": 0.064, "dragers": 0.315, "buren": 0.241, "orrim": 0.032, "volk": 0.011}, "parameters": {"groei": 0.19, "buren_honger": 1.376, "ev": 0.701, "aelthir": 0.227, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0403, seed 420403)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0404
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420404
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 10, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 1001], ["TK-kluisherstel", 1061], ["TK-steenlens", 1341], ["TK-kweekakker", 1921], ["TK-heelkweek", 2261], ["TK-roestlak", 3261], ["TK-vleesmetaal", 3721], ["TK-lichtcel", 3981], ["TK-spiermolen", 4841], ["TK-sporenkern", 4921]], "uit_nood": 2, "magie_min": 0.33, "magie_eind": 0.377, "golven": 8, "techniek_eind": 0.992, "werkplaatsen_vanaf": 3981, "heersers": 2, "wetten": 15, "rustige_jaren": 3160, "macht_eind": {"staat": 0.229, "huizen": 0.078, "kerk": 0.007, "steden": 0.257, "dragers": 0.243, "buren": 0.153, "orrim": 0.011, "volk": 0.023}, "parameters": {"groei": 0.182, "buren_honger": 0.798, "ev": 1.025, "aelthir": 0.753, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0404, seed 420404)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0405
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420405
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 14, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 921], ["TK-vrijladen", 1061], ["TK-steenlens", 1401], ["TK-laadwerkplaats", 1481], ["TK-roestlak", 1501], ["TK-kweekakker", 1641], ["TK-spiermolen", 1701], ["TK-lakijzer", 1721], ["TK-heelkweek", 2121], ["TK-kluisherstel", 2581], ["TK-lichtcel", 2621], ["TK-sporenkern", 3501], ["TK-vleesmetaal", 3581]], "uit_nood": 8, "magie_min": 0.231, "magie_eind": 0.251, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 2721, "heersers": 4, "wetten": 20, "rustige_jaren": 2700, "macht_eind": {"staat": 0.259, "huizen": 0.08, "kerk": 0.005, "steden": 0.34, "dragers": 0.186, "buren": 0.107, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.192, "buren_honger": 0.804, "ev": 1.267, "aelthir": 0.735, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0405, seed 420405)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0406
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420406
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 15, "onopgelost": 3, "uitvindingen": [["TK-roestlak", 1021], ["TK-sporennet", 1181], ["TK-vrijladen", 1521], ["TK-kweekakker", 2761], ["TK-lakijzer", 2841], ["TK-sporendruk", 2941], ["TK-spiermolen", 3001], ["TK-lichtnet", 3061], ["TK-steenlens", 3481], ["TK-kluisherstel", 3501], ["TK-heelkweek", 3661], ["TK-lichtcel", 3881], ["TK-vleesmetaal", 3921], ["TK-sporenkern", 4001]], "uit_nood": 4, "magie_min": 0.134, "magie_eind": 0.211, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 3181, "heersers": 4, "wetten": 20, "rustige_jaren": 2680, "macht_eind": {"staat": 0.218, "huizen": 0.049, "kerk": 0.004, "steden": 0.333, "dragers": 0.141, "buren": 0.215, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.138, "buren_honger": 1.25, "ev": 0.903, "aelthir": 0.49, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0406, seed 420406)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0407
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420407
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 19
+- **scores:** {"fasen": 8, "onopgelost": 6, "uitvindingen": [["TK-roestlak", 1241], ["TK-vrijladen", 1421], ["TK-sporennet", 1901], ["TK-sporendruk", 2001], ["TK-kweekakker", 2381], ["TK-kluisherstel", 3321], ["TK-vleesmetaal", 3341], ["TK-sporenkern", 3601], ["TK-lichtnet", 3721], ["TK-heelkweek", 3781], ["TK-steenlens", 4001]], "uit_nood": 4, "magie_min": 0.256, "magie_eind": 0.405, "golven": 9, "techniek_eind": 0.999, "werkplaatsen_vanaf": 3601, "heersers": 3, "wetten": 16, "rustige_jaren": 2880, "macht_eind": {"staat": 0.282, "huizen": 0.056, "kerk": 0.005, "steden": 0.238, "dragers": 0.088, "buren": 0.309, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.129, "buren_honger": 1.262, "ev": 0.748, "aelthir": 0.591, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0407, seed 420407)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0408
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420408
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 8, "onopgelost": 13, "uitvindingen": [["TK-vrijladen", 901], ["TK-laadwerkplaats", 961], ["TK-roestlak", 1441], ["TK-echonet", 1921], ["TK-lakijzer", 2941], ["TK-lichtnet", 3461], ["TK-kluisherstel", 3661], ["TK-vleesmetaal", 3881], ["TK-kweekakker", 4101], ["TK-sporenkern", 4581], ["TK-gaveglas", 4601], ["TK-steenlens", 4621]], "uit_nood": 5, "magie_min": 0.338, "magie_eind": 0.338, "golven": 11, "techniek_eind": 0.718, "werkplaatsen_vanaf": 4601, "heersers": 2, "wetten": 15, "rustige_jaren": 0, "macht_eind": {"staat": 0.202, "huizen": 0.088, "kerk": 0.005, "steden": 0.113, "dragers": 0.327, "buren": 0.216, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.156, "buren_honger": 1.25, "ev": 1.185, "aelthir": 0.272, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0408, seed 420408)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0409
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420409
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 15, "onopgelost": 4, "uitvindingen": [["TK-roestlak", 1241], ["TK-kweekakker", 1941], ["TK-spiermolen", 1961], ["TK-heelkweek", 2641], ["TK-lichtnet", 2781], ["TK-steenlens", 2881], ["TK-lichtcel", 3361], ["TK-kluisherstel", 3761], ["TK-sporennet", 4181], ["TK-sporendruk", 4201]], "uit_nood": 5, "magie_min": 0.251, "magie_eind": 0.258, "golven": 15, "techniek_eind": 1, "werkplaatsen_vanaf": 3361, "heersers": 4, "wetten": 19, "rustige_jaren": 2540, "macht_eind": {"staat": 0.21, "huizen": 0.041, "kerk": 0.004, "steden": 0.225, "dragers": 0.27, "buren": 0.217, "orrim": 0.024, "volk": 0.01}, "parameters": {"groei": 0.176, "buren_honger": 1.342, "ev": 1.229, "aelthir": 0.365, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0409, seed 420409)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0410
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420410
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 4, "onopgelost": 7, "uitvindingen": [["TK-roestlak", 1261], ["TK-vrijladen", 1401], ["TK-kweekakker", 1821], ["TK-lakijzer", 3801], ["TK-lichtnet", 3921], ["TK-kluisherstel", 3941]], "uit_nood": 1, "magie_min": 0.357, "magie_eind": 0.542, "golven": 9, "techniek_eind": 0.499, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 12, "rustige_jaren": 2620, "macht_eind": {"staat": 0.287, "huizen": 0.1, "kerk": 0.029, "steden": 0.095, "dragers": 0.224, "buren": 0.236, "orrim": 0.01, "volk": 0.02}, "parameters": {"groei": 0.16, "buren_honger": 1.08, "ev": 0.76, "aelthir": 0.712, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0410, seed 420410)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0411
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420411
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 7, "onopgelost": 12, "uitvindingen": [["TK-lichtnet", 1041], ["TK-vrijladen", 2361], ["TK-kluisherstel", 4181]], "uit_nood": 1, "magie_min": 0.36, "magie_eind": 0.36, "golven": 12, "techniek_eind": 0.393, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 1820, "macht_eind": {"staat": 0.231, "huizen": 0.065, "kerk": 0.133, "steden": 0.031, "dragers": 0.316, "buren": 0.206, "orrim": 0.009, "volk": 0.009}, "parameters": {"groei": 0.168, "buren_honger": 1.139, "ev": 1.061, "aelthir": 0.4, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0411, seed 420411)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0412
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420412
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 6
+- **scores:** {"fasen": 2, "onopgelost": 3, "uitvindingen": [["TK-vrijladen", 1341], ["TK-echonet", 1601], ["TK-kluisherstel", 3901], ["TK-vleesmetaal", 4421]], "uit_nood": 1, "magie_min": 0.349, "magie_eind": 0.349, "golven": 7, "techniek_eind": 0.435, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 12, "rustige_jaren": 1380, "macht_eind": {"staat": 0.343, "huizen": 0.13, "kerk": 0.095, "steden": 0.055, "dragers": 0.247, "buren": 0.095, "orrim": 0.013, "volk": 0.023}, "parameters": {"groei": 0.149, "buren_honger": 0.531, "ev": 0.889, "aelthir": 0.441, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0412, seed 420412)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0413
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420413
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 11, "onopgelost": 8, "uitvindingen": [["TK-kluisherstel", 3221], ["TK-vleesmetaal", 3461]], "uit_nood": 0, "magie_min": 0.353, "magie_eind": 0.361, "golven": 12, "techniek_eind": 0.45, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 17, "rustige_jaren": 1180, "macht_eind": {"staat": 0.218, "huizen": 0.08, "kerk": 0.067, "steden": 0.054, "dragers": 0.289, "buren": 0.246, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.199, "buren_honger": 1.475, "ev": 0.781, "aelthir": 0.368, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0413, seed 420413)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0414
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420414
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 13, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 841], ["TK-laadwerkplaats", 981], ["TK-kweekakker", 1601], ["TK-spiermolen", 1661], ["TK-roestlak", 1681], ["TK-echonet", 2361], ["TK-heelkweek", 2981], ["TK-kluisherstel", 4041], ["TK-sporenkern", 4341], ["TK-vleesmetaal", 4681], ["TK-lakijzer", 4821]], "uit_nood": 5, "magie_min": 0.337, "magie_eind": 0.337, "golven": 12, "techniek_eind": 0.866, "werkplaatsen_vanaf": 4161, "heersers": 3, "wetten": 18, "rustige_jaren": 2540, "macht_eind": {"staat": 0.223, "huizen": 0.056, "kerk": 0.005, "steden": 0.182, "dragers": 0.275, "buren": 0.211, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.164, "buren_honger": 1.234, "ev": 0.707, "aelthir": 0.707, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0414, seed 420414)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0415
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420415
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 14, "onopgelost": 7, "uitvindingen": [["TK-lichtnet", 1041], ["TK-roestlak", 1321], ["TK-sporennet", 1501], ["TK-kweekakker", 1781], ["TK-spiermolen", 1801], ["TK-steenlens", 2041], ["TK-heelkweek", 2061], ["TK-vrijladen", 2241], ["TK-sporendruk", 2381], ["TK-lakijzer", 2561], ["TK-kluisherstel", 2961], ["TK-lichtcel", 3001], ["TK-sporenkern", 3041], ["TK-vleesmetaal", 3421]], "uit_nood": 8, "magie_min": 0.145, "magie_eind": 0.145, "golven": 5, "techniek_eind": 1, "werkplaatsen_vanaf": 3001, "heersers": 4, "wetten": 17, "rustige_jaren": 2340, "macht_eind": {"staat": 0.228, "huizen": 0.054, "kerk": 0.005, "steden": 0.369, "dragers": 0.171, "buren": 0.149, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.213, "buren_honger": 0.94, "ev": 0.781, "aelthir": 0.293, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0415, seed 420415)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0416
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420416
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 11, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1201], ["TK-echonet", 3101], ["TK-kluisherstel", 3721], ["TK-vleesmetaal", 3921], ["TK-lichtnet", 4561]], "uit_nood": 1, "magie_min": 0.35, "magie_eind": 0.598, "golven": 11, "techniek_eind": 0.456, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 16, "rustige_jaren": 2660, "macht_eind": {"staat": 0.209, "huizen": 0.076, "kerk": 0.06, "steden": 0.055, "dragers": 0.396, "buren": 0.16, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.157, "buren_honger": 1.121, "ev": 1.096, "aelthir": 0.283, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0416, seed 420416)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0417
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420417
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 13, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 881], ["TK-kweekakker", 1181], ["TK-echonet", 1341], ["TK-roestlak", 1741], ["TK-heelkweek", 1841], ["TK-laadwerkplaats", 1921], ["TK-lakijzer", 2181], ["TK-spiermolen", 2581], ["TK-kluisherstel", 3701], ["TK-lichtnet", 3761], ["TK-steenlens", 4061], ["TK-sporenkern", 4181], ["TK-vleesmetaal", 4641]], "uit_nood": 5, "magie_min": 0.335, "magie_eind": 0.344, "golven": 14, "techniek_eind": 0.902, "werkplaatsen_vanaf": 4061, "heersers": 4, "wetten": 17, "rustige_jaren": 2160, "macht_eind": {"staat": 0.265, "huizen": 0.066, "kerk": 0.006, "steden": 0.201, "dragers": 0.361, "buren": 0.046, "orrim": 0.038, "volk": 0.018}, "parameters": {"groei": 0.175, "buren_honger": 0.594, "ev": 0.96, "aelthir": 0.672, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0417, seed 420417)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0418
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420418
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 6, "onopgelost": 4, "uitvindingen": [["TK-vrijladen", 1161], ["TK-echonet", 2061], ["TK-kweekakker", 2121], ["TK-heelkweek", 2581], ["TK-spiermolen", 3101], ["TK-kluisherstel", 3941], ["TK-lichtnet", 4261], ["TK-roestlak", 4701], ["TK-sporenkern", 4801], ["TK-vleesmetaal", 4821], ["TK-lakijzer", 4881]], "uit_nood": 2, "magie_min": 0.351, "magie_eind": 0.533, "golven": 10, "techniek_eind": 0.779, "werkplaatsen_vanaf": 4801, "heersers": 3, "wetten": 14, "rustige_jaren": 2520, "macht_eind": {"staat": 0.384, "huizen": 0.09, "kerk": 0.008, "steden": 0.17, "dragers": 0.209, "buren": 0.104, "orrim": 0.013, "volk": 0.022}, "parameters": {"groei": 0.125, "buren_honger": 0.583, "ev": 0.895, "aelthir": 0.496, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0418, seed 420418)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0419
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420419
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 9, "onopgelost": 12, "uitvindingen": [["TK-vrijladen", 1741], ["TK-laadwerkplaats", 2081], ["TK-kweekakker", 2561], ["TK-kluisherstel", 3361], ["TK-vleesmetaal", 3541], ["TK-heelkweek", 4241], ["TK-lichtnet", 4901]], "uit_nood": 2, "magie_min": 0.36, "magie_eind": 0.439, "golven": 17, "techniek_eind": 0.545, "werkplaatsen_vanaf": null, "heersers": 6, "wetten": 14, "rustige_jaren": 2560, "macht_eind": {"staat": 0.195, "huizen": 0.05, "kerk": 0.039, "steden": 0.091, "dragers": 0.414, "buren": 0.192, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.13, "buren_honger": 1.301, "ev": 1.127, "aelthir": 0.28, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0419, seed 420419)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0420
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420420
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 11, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1321], ["TK-echonet", 1381], ["TK-laadwerkplaats", 1601], ["TK-roestlak", 1761], ["TK-kweekakker", 2661], ["TK-heelkweek", 2801], ["TK-spiermolen", 3241], ["TK-lichtnet", 3361], ["TK-lakijzer", 3721], ["TK-sporennet", 3741], ["TK-steenlens", 3801], ["TK-kluisherstel", 3821], ["TK-sporendruk", 3841], ["TK-sporenkern", 3981], ["TK-vleesmetaal", 4901]], "uit_nood": 9, "magie_min": 0.179, "magie_eind": 0.274, "golven": 13, "techniek_eind": 1, "werkplaatsen_vanaf": 3401, "heersers": 3, "wetten": 17, "rustige_jaren": 2480, "macht_eind": {"staat": 0.252, "huizen": 0.066, "kerk": 0.006, "steden": 0.373, "dragers": 0.209, "buren": 0.069, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.12, "buren_honger": 0.655, "ev": 1.196, "aelthir": 0.361, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0420, seed 420420)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0421
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420421
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 8, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 1041], ["TK-vrijladen", 1481], ["TK-echonet", 1681], ["TK-laadwerkplaats", 2481]], "uit_nood": 3, "magie_min": 0.351, "magie_eind": 0.486, "golven": 9, "techniek_eind": 0.415, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 13, "rustige_jaren": 2680, "macht_eind": {"staat": 0.192, "huizen": 0.063, "kerk": 0.062, "steden": 0.054, "dragers": 0.342, "buren": 0.235, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.164, "buren_honger": 1.389, "ev": 0.798, "aelthir": 0.594, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0421, seed 420421)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0422
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420422
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 7, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 2341], ["TK-echonet", 4201]], "uit_nood": 0, "magie_min": 0.36, "magie_eind": 0.36, "golven": 15, "techniek_eind": 0.395, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 15, "rustige_jaren": 1900, "macht_eind": {"staat": 0.281, "huizen": 0.089, "kerk": 0.092, "steden": 0.039, "dragers": 0.295, "buren": 0.153, "orrim": 0.036, "volk": 0.015}, "parameters": {"groei": 0.206, "buren_honger": 0.885, "ev": 1.282, "aelthir": 0.239, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0422, seed 420422)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0423
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420423
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 10, "onopgelost": 12, "uitvindingen": [["TK-vrijladen", 2861], ["TK-lichtnet", 3921], ["TK-kluisherstel", 4161], ["TK-kweekakker", 4421], ["TK-echonet", 4481], ["TK-steenlens", 4921], ["TK-heelkweek", 4941], ["TK-lichtcel", 5001]], "uit_nood": 3, "magie_min": 0.357, "magie_eind": 0.361, "golven": 14, "techniek_eind": 0.634, "werkplaatsen_vanaf": 5001, "heersers": 4, "wetten": 16, "rustige_jaren": 840, "macht_eind": {"staat": 0.214, "huizen": 0.047, "kerk": 0.051, "steden": 0.077, "dragers": 0.357, "buren": 0.219, "orrim": 0.027, "volk": 0.008}, "parameters": {"groei": 0.123, "buren_honger": 1.429, "ev": 1.175, "aelthir": 0.216, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0423, seed 420423)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0424
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420424
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 16, "onopgelost": 15, "uitvindingen": [["TK-vrijladen", 1021], ["TK-laadwerkplaats", 1361], ["TK-kweekakker", 2021], ["TK-spiermolen", 2041], ["TK-roestlak", 2321], ["TK-echonet", 2541], ["TK-heelkweek", 2761], ["TK-lichtnet", 3881], ["TK-steenlens", 4661], ["TK-gaveglas", 4781], ["TK-kluisherstel", 4821]], "uit_nood": 9, "magie_min": 0.314, "magie_eind": 0.32, "golven": 14, "techniek_eind": 0.948, "werkplaatsen_vanaf": 4141, "heersers": 6, "wetten": 18, "rustige_jaren": 1580, "macht_eind": {"staat": 0.217, "huizen": 0.054, "kerk": 0.004, "steden": 0.185, "dragers": 0.415, "buren": 0.105, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.162, "buren_honger": 0.958, "ev": 1.253, "aelthir": 0.327, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0424, seed 420424)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0425
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420425
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 9, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 2341], ["TK-echonet", 2481], ["TK-kluisherstel", 3641], ["TK-vleesmetaal", 4141], ["TK-lichtnet", 4381], ["TK-kweekakker", 4741], ["TK-steenlens", 4781]], "uit_nood": 1, "magie_min": 0.349, "magie_eind": 0.349, "golven": 11, "techniek_eind": 0.517, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 3200, "macht_eind": {"staat": 0.222, "huizen": 0.054, "kerk": 0.06, "steden": 0.066, "dragers": 0.292, "buren": 0.263, "orrim": 0.031, "volk": 0.012}, "parameters": {"groei": 0.137, "buren_honger": 1.451, "ev": 1.127, "aelthir": 0.491, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0425, seed 420425)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0426
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420426
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 6, "onopgelost": 12, "uitvindingen": [["TK-vrijladen", 2281], ["TK-echonet", 2301], ["TK-lichtnet", 3961], ["TK-kluisherstel", 4981]], "uit_nood": 2, "magie_min": 0.349, "magie_eind": 0.395, "golven": 10, "techniek_eind": 0.434, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 13, "rustige_jaren": 2440, "macht_eind": {"staat": 0.22, "huizen": 0.066, "kerk": 0.071, "steden": 0.045, "dragers": 0.348, "buren": 0.224, "orrim": 0.009, "volk": 0.018}, "parameters": {"groei": 0.206, "buren_honger": 1.304, "ev": 0.953, "aelthir": 0.602, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0426, seed 420426)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0427
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420427
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 11, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1001], ["TK-echonet", 1021], ["TK-lichtnet", 4741]], "uit_nood": 2, "magie_min": 0.349, "magie_eind": 0.349, "golven": 13, "techniek_eind": 0.366, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 18, "rustige_jaren": 2020, "macht_eind": {"staat": 0.26, "huizen": 0.093, "kerk": 0.094, "steden": 0.034, "dragers": 0.401, "buren": 0.062, "orrim": 0.037, "volk": 0.017}, "parameters": {"groei": 0.199, "buren_honger": 0.545, "ev": 1.107, "aelthir": 0.479, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0427, seed 420427)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0428
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420428
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 17, "onopgelost": 6, "uitvindingen": [["TK-kweekakker", 1341], ["TK-spiermolen", 1441], ["TK-roestlak", 1561], ["TK-heelkweek", 2461], ["TK-vrijladen", 2661], ["TK-lakijzer", 3421], ["TK-lichtnet", 3641], ["TK-steenlens", 3761], ["TK-sporennet", 3801], ["TK-sporendruk", 3841], ["TK-kluisherstel", 3861], ["TK-sporenkern", 4741]], "uit_nood": 8, "magie_min": 0.176, "magie_eind": 0.176, "golven": 13, "techniek_eind": 1, "werkplaatsen_vanaf": 3521, "heersers": 5, "wetten": 17, "rustige_jaren": 2600, "macht_eind": {"staat": 0.251, "huizen": 0.06, "kerk": 0.005, "steden": 0.357, "dragers": 0.259, "buren": 0.044, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.157, "buren_honger": 0.6, "ev": 1.169, "aelthir": 0.264, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0428, seed 420428)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0429
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420429
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 12, "onopgelost": 7, "uitvindingen": [["TK-roestlak", 1221], ["TK-sporennet", 1321], ["TK-kweekakker", 1921], ["TK-vrijladen", 1941], ["TK-lakijzer", 2321], ["TK-heelkweek", 2481], ["TK-kluisherstel", 2621], ["TK-lichtnet", 2721], ["TK-sporendruk", 2781], ["TK-steenlens", 2841], ["TK-lichtcel", 3761], ["TK-spiermolen", 3781], ["TK-gaveglas", 3941], ["TK-vleesmetaal", 3961], ["TK-sporenkern", 4461]], "uit_nood": 6, "magie_min": 0.304, "magie_eind": 0.304, "golven": 10, "techniek_eind": 1, "werkplaatsen_vanaf": 3761, "heersers": 4, "wetten": 18, "rustige_jaren": 2640, "macht_eind": {"staat": 0.283, "huizen": 0.09, "kerk": 0.005, "steden": 0.248, "dragers": 0.147, "buren": 0.205, "orrim": 0.009, "volk": 0.014}, "parameters": {"groei": 0.177, "buren_honger": 1.182, "ev": 0.813, "aelthir": 0.486, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0429, seed 420429)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0430
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420430
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 13, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 921], ["TK-steenlens", 1141], ["TK-roestlak", 1221], ["TK-vrijladen", 1401], ["TK-laadwerkplaats", 2121], ["TK-lakijzer", 3001], ["TK-lichtcel", 3301], ["TK-kweekakker", 3821], ["TK-kluisherstel", 3841], ["TK-spiermolen", 4561], ["TK-gaveglas", 4781]], "uit_nood": 6, "magie_min": 0.344, "magie_eind": 0.344, "golven": 12, "techniek_eind": 0.871, "werkplaatsen_vanaf": 3841, "heersers": 2, "wetten": 17, "rustige_jaren": 2300, "macht_eind": {"staat": 0.226, "huizen": 0.126, "kerk": 0.006, "steden": 0.186, "dragers": 0.178, "buren": 0.224, "orrim": 0.037, "volk": 0.016}, "parameters": {"groei": 0.176, "buren_honger": 1.088, "ev": 0.747, "aelthir": 0.222, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0430, seed 420430)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0431
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420431
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 6, "onopgelost": 11, "uitvindingen": [["TK-sporennet", 1441], ["TK-kweekakker", 2001], ["TK-heelkweek", 2061], ["TK-roestlak", 3061], ["TK-lakijzer", 3101], ["TK-kluisherstel", 3821], ["TK-vrijladen", 4341], ["TK-vleesmetaal", 4641], ["TK-sporenkern", 5001]], "uit_nood": 3, "magie_min": 0.348, "magie_eind": 0.348, "golven": 16, "techniek_eind": 0.618, "werkplaatsen_vanaf": 5001, "heersers": 3, "wetten": 14, "rustige_jaren": 500, "macht_eind": {"staat": 0.223, "huizen": 0.064, "kerk": 0.048, "steden": 0.098, "dragers": 0.43, "buren": 0.088, "orrim": 0.036, "volk": 0.013}, "parameters": {"groei": 0.125, "buren_honger": 0.744, "ev": 0.911, "aelthir": 0.644, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0431, seed 420431)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0432
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420432
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 12, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 961], ["TK-laadwerkplaats", 981], ["TK-echonet", 1021], ["TK-roestlak", 1961], ["TK-lakijzer", 2581], ["TK-kweekakker", 3141], ["TK-kluisherstel", 3341], ["TK-heelkweek", 3601], ["TK-spiermolen", 4081], ["TK-vleesmetaal", 4201], ["TK-sporenkern", 4881], ["TK-lichtnet", 4961]], "uit_nood": 6, "magie_min": 0.356, "magie_eind": 0.366, "golven": 14, "techniek_eind": 0.817, "werkplaatsen_vanaf": 4341, "heersers": 3, "wetten": 18, "rustige_jaren": 2520, "macht_eind": {"staat": 0.259, "huizen": 0.057, "kerk": 0.005, "steden": 0.153, "dragers": 0.33, "buren": 0.173, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.17, "buren_honger": 0.999, "ev": 1.031, "aelthir": 0.363, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0432, seed 420432)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0433
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420433
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 12, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 1061], ["TK-kweekakker", 1881], ["TK-spiermolen", 1921], ["TK-heelkweek", 1961], ["TK-roestlak", 2121], ["TK-echonet", 2441], ["TK-kluisherstel", 4461], ["TK-lakijzer", 4721]], "uit_nood": 4, "magie_min": 0.308, "magie_eind": 0.308, "golven": 7, "techniek_eind": 0.833, "werkplaatsen_vanaf": 4181, "heersers": 4, "wetten": 18, "rustige_jaren": 2760, "macht_eind": {"staat": 0.323, "huizen": 0.074, "kerk": 0.006, "steden": 0.273, "dragers": 0.223, "buren": 0.071, "orrim": 0.011, "volk": 0.019}, "parameters": {"groei": 0.194, "buren_honger": 0.547, "ev": 0.726, "aelthir": 0.271, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0433, seed 420433)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0434
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420434
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 5, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 2261], ["TK-kluisherstel", 4981]], "uit_nood": 0, "magie_min": 0.359, "magie_eind": 0.359, "golven": 13, "techniek_eind": 0.457, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 13, "rustige_jaren": 1520, "macht_eind": {"staat": 0.247, "huizen": 0.062, "kerk": 0.082, "steden": 0.051, "dragers": 0.3, "buren": 0.233, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.159, "buren_honger": 1.241, "ev": 0.878, "aelthir": 0.399, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0434, seed 420434)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0435
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420435
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 16, "onopgelost": 10, "uitvindingen": [["TK-kluisherstel", 921], ["TK-roestlak", 1001], ["TK-sporennet", 1381], ["TK-lakijzer", 1661], ["TK-kweekakker", 2401], ["TK-sporendruk", 2441], ["TK-spiermolen", 2461], ["TK-heelkweek", 2581], ["TK-sporenkern", 2641]], "uit_nood": 6, "magie_min": 0.123, "magie_eind": 0.123, "golven": 7, "techniek_eind": 1, "werkplaatsen_vanaf": 2641, "heersers": 5, "wetten": 18, "rustige_jaren": 2220, "macht_eind": {"staat": 0.058, "huizen": 0.057, "kerk": 0.005, "steden": 0.516, "dragers": 0.124, "buren": 0.219, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.144, "buren_honger": 1.45, "ev": 0.762, "aelthir": 0.581, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0435, seed 420435)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0436
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420436
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 8, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1021], ["TK-laadwerkplaats", 2021], ["TK-echonet", 2101], ["TK-kluisherstel", 3281], ["TK-vleesmetaal", 3441], ["TK-kweekakker", 4221], ["TK-heelkweek", 4961]], "uit_nood": 4, "magie_min": 0.361, "magie_eind": 0.361, "golven": 8, "techniek_eind": 0.487, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 1680, "macht_eind": {"staat": 0.264, "huizen": 0.109, "kerk": 0.079, "steden": 0.08, "dragers": 0.251, "buren": 0.187, "orrim": 0.011, "volk": 0.02}, "parameters": {"groei": 0.144, "buren_honger": 0.897, "ev": 0.786, "aelthir": 0.543, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0436, seed 420436)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0437
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420437
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 13, "onopgelost": 4, "uitvindingen": [["TK-lichtnet", 1061], ["TK-steenlens", 1821], ["TK-roestlak", 2361], ["TK-kweekakker", 2901], ["TK-spiermolen", 2941], ["TK-lichtcel", 2981], ["TK-heelkweek", 3141], ["TK-kluisherstel", 3421], ["TK-lakijzer", 3641], ["TK-sporennet", 5001]], "uit_nood": 8, "magie_min": 0.277, "magie_eind": 0.387, "golven": 11, "techniek_eind": 1, "werkplaatsen_vanaf": 3121, "heersers": 3, "wetten": 18, "rustige_jaren": 2780, "macht_eind": {"staat": 0.223, "huizen": 0.054, "kerk": 0.005, "steden": 0.265, "dragers": 0.217, "buren": 0.216, "orrim": 0.008, "volk": 0.012}, "parameters": {"groei": 0.213, "buren_honger": 1.279, "ev": 1.037, "aelthir": 0.407, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0437, seed 420437)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0438
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420438
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 11, "onopgelost": 7, "uitvindingen": [["TK-roestlak", 1441], ["TK-vrijladen", 2121], ["TK-laadwerkplaats", 2161], ["TK-kweekakker", 2361], ["TK-spiermolen", 2421], ["TK-heelkweek", 2761], ["TK-echonet", 3141], ["TK-lichtnet", 3601], ["TK-steenlens", 3641], ["TK-kluisherstel", 4581], ["TK-vleesmetaal", 4661], ["TK-gaveglas", 4821]], "uit_nood": 4, "magie_min": 0.348, "magie_eind": 0.388, "golven": 17, "techniek_eind": 0.834, "werkplaatsen_vanaf": 3861, "heersers": 2, "wetten": 17, "rustige_jaren": 2780, "macht_eind": {"staat": 0.264, "huizen": 0.103, "kerk": 0.006, "steden": 0.195, "dragers": 0.347, "buren": 0.061, "orrim": 0.01, "volk": 0.016}, "parameters": {"groei": 0.154, "buren_honger": 0.615, "ev": 1.108, "aelthir": 0.205, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0438, seed 420438)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0439
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420439
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 9, "onopgelost": 4, "uitvindingen": [["TK-roestlak", 1141], ["TK-sporennet", 1201], ["TK-kweekakker", 2341], ["TK-heelkweek", 2901], ["TK-lakijzer", 3121], ["TK-sporendruk", 3501], ["TK-lichtnet", 3901], ["TK-kluisherstel", 3941], ["TK-vrijladen", 4541], ["TK-steenlens", 4661], ["TK-lichtcel", 4881]], "uit_nood": 3, "magie_min": 0.333, "magie_eind": 0.564, "golven": 10, "techniek_eind": 0.7, "werkplaatsen_vanaf": 4781, "heersers": 4, "wetten": 15, "rustige_jaren": 3000, "macht_eind": {"staat": 0.191, "huizen": 0.051, "kerk": 0.004, "steden": 0.134, "dragers": 0.36, "buren": 0.239, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.139, "buren_honger": 1.419, "ev": 0.754, "aelthir": 0.568, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0439, seed 420439)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0440
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420440
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 9, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 1081], ["TK-laadwerkplaats", 1621], ["TK-kweekakker", 2681], ["TK-lichtnet", 3301], ["TK-kluisherstel", 3341], ["TK-vleesmetaal", 3621], ["TK-roestlak", 4241], ["TK-steenlens", 4341], ["TK-spiermolen", 4361], ["TK-lakijzer", 4761], ["TK-sporenkern", 4801]], "uit_nood": 3, "magie_min": 0.355, "magie_eind": 0.555, "golven": 9, "techniek_eind": 0.83, "werkplaatsen_vanaf": 4441, "heersers": 2, "wetten": 14, "rustige_jaren": 880, "macht_eind": {"staat": 0.252, "huizen": 0.069, "kerk": 0.006, "steden": 0.13, "dragers": 0.248, "buren": 0.268, "orrim": 0.01, "volk": 0.017}, "parameters": {"groei": 0.206, "buren_honger": 1.382, "ev": 0.895, "aelthir": 0.465, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0440, seed 420440)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0441
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420441
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 7, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1281], ["TK-echonet", 1581], ["TK-lichtnet", 2941], ["TK-kluisherstel", 3981], ["TK-vleesmetaal", 4121]], "uit_nood": 1, "magie_min": 0.352, "magie_eind": 0.352, "golven": 14, "techniek_eind": 0.435, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 14, "rustige_jaren": 2680, "macht_eind": {"staat": 0.301, "huizen": 0.122, "kerk": 0.066, "steden": 0.048, "dragers": 0.347, "buren": 0.06, "orrim": 0.038, "volk": 0.018}, "parameters": {"groei": 0.182, "buren_honger": 0.511, "ev": 1.3, "aelthir": 0.481, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0441, seed 420441)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0442
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420442
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 9, "onopgelost": 12, "uitvindingen": [["TK-vrijladen", 2621], ["TK-kluisherstel", 3461], ["TK-vleesmetaal", 4501]], "uit_nood": 0, "magie_min": 0.361, "magie_eind": 0.404, "golven": 9, "techniek_eind": 0.43, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 15, "rustige_jaren": 1860, "macht_eind": {"staat": 0.278, "huizen": 0.091, "kerk": 0.091, "steden": 0.042, "dragers": 0.228, "buren": 0.241, "orrim": 0.009, "volk": 0.02}, "parameters": {"groei": 0.144, "buren_honger": 1.241, "ev": 0.928, "aelthir": 0.378, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0442, seed 420442)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0443
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420443
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 7, "onopgelost": 7, "uitvindingen": [["TK-lichtnet", 1021], ["TK-vrijladen", 1541], ["TK-kweekakker", 2161], ["TK-roestlak", 2401], ["TK-lakijzer", 2801], ["TK-steenlens", 3081], ["TK-lichtcel", 3141], ["TK-kluisherstel", 3161], ["TK-heelkweek", 3401], ["TK-sporenkern", 3481], ["TK-laadwerkplaats", 3561], ["TK-spiermolen", 3721], ["TK-echonet", 4961]], "uit_nood": 2, "magie_min": 0.349, "magie_eind": 0.432, "golven": 11, "techniek_eind": 0.939, "werkplaatsen_vanaf": 3481, "heersers": 2, "wetten": 14, "rustige_jaren": 2140, "macht_eind": {"staat": 0.275, "huizen": 0.06, "kerk": 0.005, "steden": 0.193, "dragers": 0.199, "buren": 0.244, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.145, "buren_honger": 1.168, "ev": 0.867, "aelthir": 0.769, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0443, seed 420443)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0444
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420444
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 19
+- **scores:** {"fasen": 10, "onopgelost": 9, "uitvindingen": [["TK-kweekakker", 1841], ["TK-spiermolen", 1921], ["TK-roestlak", 1941], ["TK-heelkweek", 2421], ["TK-lakijzer", 3101], ["TK-kluisherstel", 3601], ["TK-lichtnet", 3621], ["TK-vrijladen", 4421], ["TK-steenlens", 4681]], "uit_nood": 3, "magie_min": 0.355, "magie_eind": 0.478, "golven": 15, "techniek_eind": 0.624, "werkplaatsen_vanaf": 4741, "heersers": 5, "wetten": 16, "rustige_jaren": 1780, "macht_eind": {"staat": 0.252, "huizen": 0.061, "kerk": 0.017, "steden": 0.153, "dragers": 0.418, "buren": 0.075, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.189, "buren_honger": 0.685, "ev": 1.269, "aelthir": 0.677, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0444, seed 420444)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0445
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420445
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 11, "onopgelost": 11, "uitvindingen": [["TK-vrijladen", 1041], ["TK-sporennet", 1361], ["TK-laadwerkplaats", 1801], ["TK-kweekakker", 2141], ["TK-roestlak", 2261], ["TK-lakijzer", 2621], ["TK-heelkweek", 3161], ["TK-kluisherstel", 4021], ["TK-sporendruk", 4141], ["TK-sporenkern", 4201], ["TK-vleesmetaal", 4461]], "uit_nood": 3, "magie_min": 0.328, "magie_eind": 0.328, "golven": 12, "techniek_eind": 0.804, "werkplaatsen_vanaf": 4201, "heersers": 2, "wetten": 17, "rustige_jaren": 2180, "macht_eind": {"staat": 0.223, "huizen": 0.061, "kerk": 0.005, "steden": 0.152, "dragers": 0.292, "buren": 0.242, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.126, "buren_honger": 1.276, "ev": 1.269, "aelthir": 0.393, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0445, seed 420445)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0446
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420446
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 7, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 3401], ["TK-kluisherstel", 3901]], "uit_nood": 0, "magie_min": 0.365, "magie_eind": 0.365, "golven": 11, "techniek_eind": 0.417, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 16, "rustige_jaren": 3500, "macht_eind": {"staat": 0.278, "huizen": 0.099, "kerk": 0.145, "steden": 0.037, "dragers": 0.337, "buren": 0.046, "orrim": 0.04, "volk": 0.018}, "parameters": {"groei": 0.163, "buren_honger": 0.589, "ev": 0.724, "aelthir": 0.502, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0446, seed 420446)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0447
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420447
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 19
+- **scores:** {"fasen": 9, "onopgelost": 7, "uitvindingen": [["TK-sporennet", 1281], ["TK-roestlak", 1941], ["TK-kweekakker", 2181], ["TK-spiermolen", 2241], ["TK-sporendruk", 2701], ["TK-heelkweek", 2841], ["TK-vrijladen", 2901], ["TK-lakijzer", 3881], ["TK-kluisherstel", 4441], ["TK-sporenkern", 4601]], "uit_nood": 3, "magie_min": 0.361, "magie_eind": 0.464, "golven": 14, "techniek_eind": 0.783, "werkplaatsen_vanaf": 4601, "heersers": 4, "wetten": 16, "rustige_jaren": 2440, "macht_eind": {"staat": 0.262, "huizen": 0.071, "kerk": 0.006, "steden": 0.18, "dragers": 0.376, "buren": 0.077, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.144, "buren_honger": 0.568, "ev": 0.978, "aelthir": 0.2, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0447, seed 420447)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0448
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420448
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 7, "onopgelost": 10, "uitvindingen": [["TK-kweekakker", 1941], ["TK-spiermolen", 2221], ["TK-roestlak", 2581], ["TK-vrijladen", 2741], ["TK-heelkweek", 3281], ["TK-lakijzer", 3361], ["TK-kluisherstel", 4181], ["TK-sporenkern", 4941]], "uit_nood": 4, "magie_min": 0.362, "magie_eind": 0.402, "golven": 9, "techniek_eind": 0.644, "werkplaatsen_vanaf": 4941, "heersers": 3, "wetten": 13, "rustige_jaren": 2440, "macht_eind": {"staat": 0.23, "huizen": 0.059, "kerk": 0.038, "steden": 0.096, "dragers": 0.295, "buren": 0.258, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.193, "buren_honger": 1.471, "ev": 0.928, "aelthir": 0.257, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0448, seed 420448)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0449
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420449
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 21
+- **scores:** {"fasen": 12, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 981], ["TK-roestlak", 1041], ["TK-sporennet", 1161], ["TK-kweekakker", 2981], ["TK-heelkweek", 3081], ["TK-spiermolen", 3221], ["TK-kluisherstel", 3661], ["TK-sporendruk", 3941], ["TK-sporenkern", 4461]], "uit_nood": 2, "magie_min": 0.312, "magie_eind": 0.312, "golven": 9, "techniek_eind": 0.958, "werkplaatsen_vanaf": 3661, "heersers": 3, "wetten": 20, "rustige_jaren": 2960, "macht_eind": {"staat": 0.252, "huizen": 0.076, "kerk": 0.005, "steden": 0.223, "dragers": 0.157, "buren": 0.267, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.137, "buren_honger": 1.182, "ev": 0.96, "aelthir": 0.251, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0449, seed 420449)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0450
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420450
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 13, "onopgelost": 5, "uitvindingen": [["TK-lichtnet", 941], ["TK-sporennet", 1041], ["TK-roestlak", 1121], ["TK-kluisherstel", 1241], ["TK-steenlens", 1281], ["TK-kweekakker", 1881], ["TK-sporendruk", 1921], ["TK-spiermolen", 2141], ["TK-lakijzer", 2381], ["TK-heelkweek", 3401], ["TK-sporenkern", 3701]], "uit_nood": 3, "magie_min": 0.128, "magie_eind": 0.153, "golven": 15, "techniek_eind": 1, "werkplaatsen_vanaf": 2161, "heersers": 3, "wetten": 19, "rustige_jaren": 2720, "macht_eind": {"staat": 0.032, "huizen": 0.078, "kerk": 0.007, "steden": 0.745, "dragers": 0.004, "buren": 0.103, "orrim": 0.011, "volk": 0.02}, "parameters": {"groei": 0.147, "buren_honger": 0.608, "ev": 1.022, "aelthir": 0.535, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0450, seed 420450)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0451
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420451
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 15, "onopgelost": 9, "uitvindingen": [["TK-lichtnet", 941], ["TK-steenlens", 1261], ["TK-roestlak", 1421], ["TK-kweekakker", 1481], ["TK-spiermolen", 1641], ["TK-lakijzer", 1701], ["TK-heelkweek", 2341], ["TK-vrijladen", 2461], ["TK-laadwerkplaats", 2901], ["TK-gaveglas", 3041], ["TK-kluisherstel", 4001], ["TK-lichtcel", 4361], ["TK-vleesmetaal", 4481]], "uit_nood": 6, "magie_min": 0.315, "magie_eind": 0.315, "golven": 11, "techniek_eind": 0.913, "werkplaatsen_vanaf": 3921, "heersers": 3, "wetten": 20, "rustige_jaren": 1780, "macht_eind": {"staat": 0.231, "huizen": 0.087, "kerk": 0.005, "steden": 0.22, "dragers": 0.117, "buren": 0.316, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.183, "buren_honger": 1.391, "ev": 0.758, "aelthir": 0.76, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0451, seed 420451)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0452
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420452
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 11, "onopgelost": 6, "uitvindingen": [["TK-vrijladen", 1001], ["TK-laadwerkplaats", 1561], ["TK-kluisherstel", 2961], ["TK-echonet", 3101], ["TK-lichtnet", 3181], ["TK-steenlens", 3641], ["TK-kweekakker", 3681], ["TK-lichtcel", 3701], ["TK-spiermolen", 3721], ["TK-heelkweek", 3961], ["TK-vleesmetaal", 4101]], "uit_nood": 7, "magie_min": 0.348, "magie_eind": 0.369, "golven": 10, "techniek_eind": 0.801, "werkplaatsen_vanaf": 4341, "heersers": 3, "wetten": 18, "rustige_jaren": 2100, "macht_eind": {"staat": 0.343, "huizen": 0.083, "kerk": 0.007, "steden": 0.159, "dragers": 0.294, "buren": 0.082, "orrim": 0.012, "volk": 0.021}, "parameters": {"groei": 0.216, "buren_honger": 0.554, "ev": 1.025, "aelthir": 0.271, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0452, seed 420452)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0453
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420453
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 10, "onopgelost": 12, "uitvindingen": [["TK-vrijladen", 1521], ["TK-laadwerkplaats", 1641], ["TK-echonet", 1701]], "uit_nood": 2, "magie_min": 0.347, "magie_eind": 0.347, "golven": 10, "techniek_eind": 0.431, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 1000, "macht_eind": {"staat": 0.181, "huizen": 0.081, "kerk": 0.055, "steden": 0.054, "dragers": 0.339, "buren": 0.267, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.177, "buren_honger": 1.466, "ev": 1.048, "aelthir": 0.229, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0453, seed 420453)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0454
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420454
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 5, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1341], ["TK-laadwerkplaats", 1441], ["TK-kweekakker", 3181], ["TK-heelkweek", 3321], ["TK-lichtnet", 4081], ["TK-gaveglas", 4101], ["TK-steenlens", 4361], ["TK-kluisherstel", 4921]], "uit_nood": 3, "magie_min": 0.35, "magie_eind": 0.461, "golven": 9, "techniek_eind": 0.561, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 960, "macht_eind": {"staat": 0.279, "huizen": 0.104, "kerk": 0.031, "steden": 0.087, "dragers": 0.226, "buren": 0.215, "orrim": 0.039, "volk": 0.017}, "parameters": {"groei": 0.121, "buren_honger": 1.005, "ev": 0.893, "aelthir": 0.412, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0454, seed 420454)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0455
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420455
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 6, "onopgelost": 7, "uitvindingen": [["TK-roestlak", 1601], ["TK-kweekakker", 1801], ["TK-heelkweek", 2121], ["TK-lichtnet", 3281], ["TK-lakijzer", 3361], ["TK-spiermolen", 3521], ["TK-vrijladen", 3901]], "uit_nood": 3, "magie_min": 0.351, "magie_eind": 0.433, "golven": 11, "techniek_eind": 0.525, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 2920, "macht_eind": {"staat": 0.285, "huizen": 0.076, "kerk": 0.053, "steden": 0.143, "dragers": 0.318, "buren": 0.091, "orrim": 0.011, "volk": 0.022}, "parameters": {"groei": 0.152, "buren_honger": 0.588, "ev": 0.981, "aelthir": 0.437, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0455, seed 420455)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0456
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420456
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 10, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 4241], ["TK-kluisherstel", 4401]], "uit_nood": 0, "magie_min": 0.347, "magie_eind": 0.347, "golven": 12, "techniek_eind": 0.455, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 15, "rustige_jaren": 2900, "macht_eind": {"staat": 0.205, "huizen": 0.076, "kerk": 0.079, "steden": 0.052, "dragers": 0.349, "buren": 0.195, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.149, "buren_honger": 1.262, "ev": 1.025, "aelthir": 0.719, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0456, seed 420456)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0457
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420457
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 9, "onopgelost": 12, "uitvindingen": [["TK-vrijladen", 1161], ["TK-echonet", 1341], ["TK-laadwerkplaats", 1941], ["TK-lichtnet", 3621]], "uit_nood": 3, "magie_min": 0.349, "magie_eind": 0.536, "golven": 13, "techniek_eind": 0.407, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 15, "rustige_jaren": 1500, "macht_eind": {"staat": 0.21, "huizen": 0.1, "kerk": 0.056, "steden": 0.045, "dragers": 0.315, "buren": 0.252, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.206, "buren_honger": 1.431, "ev": 1.186, "aelthir": 0.754, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0457, seed 420457)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0458
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420458
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 12, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1401], ["TK-laadwerkplaats", 1501], ["TK-kweekakker", 2061], ["TK-roestlak", 2241], ["TK-heelkweek", 2281], ["TK-lakijzer", 2781], ["TK-spiermolen", 3061], ["TK-lichtnet", 3101], ["TK-kluisherstel", 4081], ["TK-steenlens", 4381], ["TK-lichtcel", 4661], ["TK-sporenkern", 4761]], "uit_nood": 6, "magie_min": 0.355, "magie_eind": 0.361, "golven": 14, "techniek_eind": 0.913, "werkplaatsen_vanaf": 4381, "heersers": 3, "wetten": 18, "rustige_jaren": 2040, "macht_eind": {"staat": 0.241, "huizen": 0.074, "kerk": 0.004, "steden": 0.126, "dragers": 0.334, "buren": 0.2, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.196, "buren_honger": 1.16, "ev": 1.16, "aelthir": 0.667, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0458, seed 420458)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0459
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420459
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 14, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 941], ["TK-laadwerkplaats", 1001], ["TK-roestlak", 1481], ["TK-kweekakker", 1781], ["TK-heelkweek", 2661], ["TK-kluisherstel", 2861], ["TK-echonet", 2961], ["TK-sporenkern", 3481], ["TK-lichtnet", 3641], ["TK-steenlens", 4201], ["TK-gaveglas", 4361], ["TK-lichtcel", 4461], ["TK-lakijzer", 4521], ["TK-vleesmetaal", 4861]], "uit_nood": 6, "magie_min": 0.335, "magie_eind": 0.335, "golven": 13, "techniek_eind": 0.951, "werkplaatsen_vanaf": 3481, "heersers": 3, "wetten": 18, "rustige_jaren": 2240, "macht_eind": {"staat": 0.284, "huizen": 0.114, "kerk": 0.005, "steden": 0.217, "dragers": 0.246, "buren": 0.11, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.19, "buren_honger": 0.82, "ev": 0.786, "aelthir": 0.567, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0459, seed 420459)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0460
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420460
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 21
+- **scores:** {"fasen": 10, "onopgelost": 5, "uitvindingen": [["TK-vrijladen", 1141], ["TK-roestlak", 1561], ["TK-laadwerkplaats", 1621], ["TK-lakijzer", 2381], ["TK-lichtnet", 2901], ["TK-steenlens", 3521], ["TK-lichtcel", 3781], ["TK-gaveglas", 3821], ["TK-kweekakker", 3881], ["TK-heelkweek", 4461], ["TK-kluisherstel", 4521]], "uit_nood": 4, "magie_min": 0.341, "magie_eind": 0.39, "golven": 12, "techniek_eind": 0.864, "werkplaatsen_vanaf": 3821, "heersers": 3, "wetten": 16, "rustige_jaren": 2920, "macht_eind": {"staat": 0.326, "huizen": 0.083, "kerk": 0.007, "steden": 0.19, "dragers": 0.309, "buren": 0.054, "orrim": 0.011, "volk": 0.022}, "parameters": {"groei": 0.182, "buren_honger": 0.597, "ev": 0.969, "aelthir": 0.668, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0460, seed 420460)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0461
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420461
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 8, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1481], ["TK-lichtnet", 4541]], "uit_nood": 1, "magie_min": 0.347, "magie_eind": 0.347, "golven": 11, "techniek_eind": 0.42, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 16, "rustige_jaren": 2920, "macht_eind": {"staat": 0.223, "huizen": 0.057, "kerk": 0.063, "steden": 0.061, "dragers": 0.344, "buren": 0.204, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.123, "buren_honger": 1.113, "ev": 1.102, "aelthir": 0.52, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0461, seed 420461)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0462
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420462
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 5, "onopgelost": 11, "uitvindingen": [["TK-roestlak", 1201], ["TK-vrijladen", 2181], ["TK-lichtnet", 3161], ["TK-echonet", 3481], ["TK-kluisherstel", 4321]], "uit_nood": 2, "magie_min": 0.351, "magie_eind": 0.354, "golven": 6, "techniek_eind": 0.431, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 13, "rustige_jaren": 2120, "macht_eind": {"staat": 0.343, "huizen": 0.081, "kerk": 0.098, "steden": 0.054, "dragers": 0.266, "buren": 0.128, "orrim": 0.012, "volk": 0.019}, "parameters": {"groei": 0.208, "buren_honger": 0.741, "ev": 0.734, "aelthir": 0.37, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0462, seed 420462)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0463
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420463
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 27
+- **scores:** {"fasen": 13, "onopgelost": 5, "uitvindingen": [["TK-sporennet", 1121], ["TK-roestlak", 1561], ["TK-kweekakker", 1921], ["TK-lakijzer", 2101], ["TK-vrijladen", 2241], ["TK-spiermolen", 2661], ["TK-heelkweek", 2761], ["TK-echonet", 2921], ["TK-sporendruk", 3641], ["TK-lichtnet", 3701], ["TK-steenlens", 3821], ["TK-lichtcel", 4361], ["TK-kluisherstel", 4481], ["TK-vleesmetaal", 4881]], "uit_nood": 6, "magie_min": 0.291, "magie_eind": 0.341, "golven": 12, "techniek_eind": 0.961, "werkplaatsen_vanaf": 3821, "heersers": 4, "wetten": 19, "rustige_jaren": 1980, "macht_eind": {"staat": 0.264, "huizen": 0.078, "kerk": 0.005, "steden": 0.223, "dragers": 0.258, "buren": 0.127, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.127, "buren_honger": 0.873, "ev": 0.766, "aelthir": 0.484, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0463, seed 420463)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0464
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420464
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 8, "onopgelost": 7, "uitvindingen": [["TK-roestlak", 1061], ["TK-vrijladen", 1961], ["TK-lakijzer", 3181], ["TK-kweekakker", 3341], ["TK-kluisherstel", 3421], ["TK-heelkweek", 3701], ["TK-vleesmetaal", 3841], ["TK-echonet", 4441], ["TK-lichtnet", 5001]], "uit_nood": 1, "magie_min": 0.35, "magie_eind": 0.35, "golven": 14, "techniek_eind": 0.497, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 15, "rustige_jaren": 3000, "macht_eind": {"staat": 0.268, "huizen": 0.078, "kerk": 0.041, "steden": 0.08, "dragers": 0.344, "buren": 0.168, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.199, "buren_honger": 0.998, "ev": 0.998, "aelthir": 0.46, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0464, seed 420464)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0465
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420465
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 20
+- **scores:** {"fasen": 10, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 981], ["TK-steenlens", 1341], ["TK-vrijladen", 1641], ["TK-kweekakker", 2001], ["TK-spiermolen", 2061], ["TK-roestlak", 2281], ["TK-heelkweek", 2401], ["TK-gaveglas", 3181], ["TK-kluisherstel", 3761], ["TK-sporenkern", 3861]], "uit_nood": 4, "magie_min": 0.316, "magie_eind": 0.316, "golven": 13, "techniek_eind": 0.866, "werkplaatsen_vanaf": 3861, "heersers": 2, "wetten": 17, "rustige_jaren": 2660, "macht_eind": {"staat": 0.232, "huizen": 0.08, "kerk": 0.006, "steden": 0.252, "dragers": 0.326, "buren": 0.066, "orrim": 0.011, "volk": 0.026}, "parameters": {"groei": 0.144, "buren_honger": 0.538, "ev": 0.955, "aelthir": 0.431, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0465, seed 420465)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0466
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420466
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 7, "onopgelost": 9, "uitvindingen": [["TK-kweekakker", 2021], ["TK-heelkweek", 2121], ["TK-vrijladen", 2661], ["TK-spiermolen", 3421], ["TK-lichtnet", 3841]], "uit_nood": 2, "magie_min": 0.349, "magie_eind": 0.349, "golven": 11, "techniek_eind": 0.469, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 13, "rustige_jaren": 2420, "macht_eind": {"staat": 0.204, "huizen": 0.088, "kerk": 0.048, "steden": 0.082, "dragers": 0.244, "buren": 0.282, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.191, "buren_honger": 1.378, "ev": 0.95, "aelthir": 0.517, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0466, seed 420466)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0467
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420467
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 22
+- **scores:** {"fasen": 11, "onopgelost": 9, "uitvindingen": [["TK-lichtnet", 1061], ["TK-steenlens", 1201], ["TK-vrijladen", 1541], ["TK-roestlak", 1601], ["TK-gaveglas", 2041], ["TK-kweekakker", 2281], ["TK-spiermolen", 3281], ["TK-lichtcel", 3361], ["TK-heelkweek", 3801], ["TK-lakijzer", 4661], ["TK-kluisherstel", 4741]], "uit_nood": 5, "magie_min": 0.332, "magie_eind": 0.35, "golven": 10, "techniek_eind": 0.838, "werkplaatsen_vanaf": 4001, "heersers": 3, "wetten": 17, "rustige_jaren": 2660, "macht_eind": {"staat": 0.274, "huizen": 0.069, "kerk": 0.005, "steden": 0.217, "dragers": 0.221, "buren": 0.187, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.169, "buren_honger": 0.982, "ev": 0.773, "aelthir": 0.344, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0467, seed 420467)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0468
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420468
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 15, "onopgelost": 8, "uitvindingen": [["TK-roestlak", 1061], ["TK-sporennet", 1241], ["TK-kweekakker", 1561], ["TK-spiermolen", 1641], ["TK-sporendruk", 2201], ["TK-lakijzer", 2281], ["TK-heelkweek", 2401], ["TK-vrijladen", 2881], ["TK-lichtnet", 3261], ["TK-kluisherstel", 3321], ["TK-steenlens", 3341], ["TK-vleesmetaal", 3501], ["TK-sporenkern", 3721], ["TK-lichtcel", 4081]], "uit_nood": 6, "magie_min": 0.152, "magie_eind": 0.152, "golven": 6, "techniek_eind": 1, "werkplaatsen_vanaf": 3321, "heersers": 4, "wetten": 18, "rustige_jaren": 2440, "macht_eind": {"staat": 0.226, "huizen": 0.076, "kerk": 0.005, "steden": 0.35, "dragers": 0.198, "buren": 0.125, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.139, "buren_honger": 0.871, "ev": 1.122, "aelthir": 0.281, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0468, seed 420468)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0469
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420469
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 10, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1481], ["TK-laadwerkplaats", 2761], ["TK-lichtnet", 3241], ["TK-kluisherstel", 4241], ["TK-steenlens", 4641]], "uit_nood": 0, "magie_min": 0.349, "magie_eind": 0.349, "golven": 9, "techniek_eind": 0.53, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 2840, "macht_eind": {"staat": 0.251, "huizen": 0.108, "kerk": 0.062, "steden": 0.062, "dragers": 0.257, "buren": 0.211, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.204, "buren_honger": 1.223, "ev": 0.84, "aelthir": 0.454, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0469, seed 420469)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0470
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420470
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 26
+- **scores:** {"fasen": 14, "onopgelost": 6, "uitvindingen": [["TK-lichtnet", 1021], ["TK-roestlak", 1301], ["TK-vrijladen", 1521], ["TK-steenlens", 1601], ["TK-kweekakker", 2361], ["TK-heelkweek", 2541], ["TK-lakijzer", 2741], ["TK-lichtcel", 3521], ["TK-spiermolen", 4281], ["TK-kluisherstel", 4361], ["TK-sporenkern", 4381], ["TK-vleesmetaal", 4821]], "uit_nood": 7, "magie_min": 0.331, "magie_eind": 0.332, "golven": 6, "techniek_eind": 0.988, "werkplaatsen_vanaf": 4041, "heersers": 3, "wetten": 19, "rustige_jaren": 2680, "macht_eind": {"staat": 0.223, "huizen": 0.079, "kerk": 0.005, "steden": 0.211, "dragers": 0.176, "buren": 0.257, "orrim": 0.032, "volk": 0.018}, "parameters": {"groei": 0.194, "buren_honger": 1.415, "ev": 0.82, "aelthir": 0.237, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0470, seed 420470)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0471
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420471
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 19
+- **scores:** {"fasen": 10, "onopgelost": 3, "uitvindingen": [["TK-kluisherstel", 821], ["TK-vleesmetaal", 921], ["TK-roestlak", 1301], ["TK-kweekakker", 1341], ["TK-spiermolen", 1741], ["TK-heelkweek", 2161], ["TK-vrijladen", 3061], ["TK-lakijzer", 3681], ["TK-sporenkern", 4321]], "uit_nood": 4, "magie_min": 0.348, "magie_eind": 0.348, "golven": 14, "techniek_eind": 0.805, "werkplaatsen_vanaf": 4321, "heersers": 3, "wetten": 18, "rustige_jaren": 3300, "macht_eind": {"staat": 0.293, "huizen": 0.067, "kerk": 0.006, "steden": 0.227, "dragers": 0.231, "buren": 0.15, "orrim": 0.01, "volk": 0.017}, "parameters": {"groei": 0.203, "buren_honger": 0.774, "ev": 0.756, "aelthir": 0.778, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0471, seed 420471)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0472
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420472
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 17, "onopgelost": 10, "uitvindingen": [["TK-vrijladen", 901], ["TK-kluisherstel", 921], ["TK-roestlak", 1301], ["TK-echonet", 1521], ["TK-kweekakker", 2041], ["TK-sporennet", 2501], ["TK-heelkweek", 2621], ["TK-spiermolen", 2721], ["TK-lakijzer", 2761], ["TK-sporendruk", 2901], ["TK-sporenkern", 3581]], "uit_nood": 6, "magie_min": 0.136, "magie_eind": 0.323, "golven": 8, "techniek_eind": 1, "werkplaatsen_vanaf": 2881, "heersers": 3, "wetten": 20, "rustige_jaren": 1760, "macht_eind": {"staat": 0.23, "huizen": 0.059, "kerk": 0.005, "steden": 0.437, "dragers": 0.153, "buren": 0.092, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.133, "buren_honger": 0.597, "ev": 1.105, "aelthir": 0.793, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0472, seed 420472)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0473
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420473
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 5, "onopgelost": 10, "uitvindingen": [["TK-vrijladen", 921], ["TK-echonet", 1061], ["TK-kweekakker", 2001], ["TK-heelkweek", 3321], ["TK-kluisherstel", 5001]], "uit_nood": 1, "magie_min": 0.359, "magie_eind": 0.369, "golven": 10, "techniek_eind": 0.465, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 2540, "macht_eind": {"staat": 0.248, "huizen": 0.067, "kerk": 0.07, "steden": 0.065, "dragers": 0.231, "buren": 0.294, "orrim": 0.01, "volk": 0.016}, "parameters": {"groei": 0.165, "buren_honger": 1.34, "ev": 0.701, "aelthir": 0.663, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0473, seed 420473)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0474
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420474
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 15, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 941], ["TK-roestlak", 1021], ["TK-echonet", 1261], ["TK-kweekakker", 1521], ["TK-heelkweek", 1941], ["TK-lakijzer", 2421], ["TK-spiermolen", 2621], ["TK-lichtnet", 3441], ["TK-steenlens", 4161], ["TK-kluisherstel", 4281]], "uit_nood": 4, "magie_min": 0.285, "magie_eind": 0.285, "golven": 9, "techniek_eind": 0.886, "werkplaatsen_vanaf": 4081, "heersers": 4, "wetten": 19, "rustige_jaren": 2480, "macht_eind": {"staat": 0.251, "huizen": 0.061, "kerk": 0.005, "steden": 0.225, "dragers": 0.271, "buren": 0.136, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.213, "buren_honger": 0.852, "ev": 0.813, "aelthir": 0.616, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0474, seed 420474)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0475
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420475
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 14, "onopgelost": 9, "uitvindingen": [["TK-roestlak", 1261], ["TK-kweekakker", 1941], ["TK-spiermolen", 2001], ["TK-heelkweek", 2421], ["TK-vrijladen", 2701], ["TK-kluisherstel", 4601], ["TK-sporennet", 4641], ["TK-sporenkern", 4661], ["TK-sporendruk", 4681], ["TK-vleesmetaal", 4801]], "uit_nood": 5, "magie_min": 0.263, "magie_eind": 0.316, "golven": 7, "techniek_eind": 0.974, "werkplaatsen_vanaf": 4141, "heersers": 4, "wetten": 19, "rustige_jaren": 2080, "macht_eind": {"staat": 0.241, "huizen": 0.057, "kerk": 0.005, "steden": 0.255, "dragers": 0.243, "buren": 0.152, "orrim": 0.033, "volk": 0.014}, "parameters": {"groei": 0.154, "buren_honger": 0.939, "ev": 0.947, "aelthir": 0.335, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0475, seed 420475)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0476
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420476
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 5, "onopgelost": 4, "uitvindingen": [["TK-kweekakker", 1761], ["TK-spiermolen", 1801], ["TK-heelkweek", 2561], ["TK-roestlak", 2601], ["TK-vrijladen", 2941], ["TK-lakijzer", 3221], ["TK-kluisherstel", 3281], ["TK-echonet", 4221], ["TK-lichtnet", 4661], ["TK-steenlens", 4701], ["TK-vleesmetaal", 4721]], "uit_nood": 1, "magie_min": 0.348, "magie_eind": 0.496, "golven": 9, "techniek_eind": 0.57, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 13, "rustige_jaren": 3240, "macht_eind": {"staat": 0.331, "huizen": 0.117, "kerk": 0.064, "steden": 0.121, "dragers": 0.236, "buren": 0.097, "orrim": 0.012, "volk": 0.023}, "parameters": {"groei": 0.176, "buren_honger": 0.584, "ev": 0.722, "aelthir": 0.387, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0476, seed 420476)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0477
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420477
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 28
+- **scores:** {"fasen": 16, "onopgelost": 11, "uitvindingen": [["TK-lichtnet", 1061], ["TK-roestlak", 1221], ["TK-kweekakker", 1981], ["TK-spiermolen", 2001], ["TK-steenlens", 2041], ["TK-vrijladen", 2561], ["TK-heelkweek", 3021], ["TK-lichtcel", 3281], ["TK-lakijzer", 3621], ["TK-kluisherstel", 4081], ["TK-vleesmetaal", 4321], ["TK-gaveglas", 4341]], "uit_nood": 8, "magie_min": 0.259, "magie_eind": 0.512, "golven": 14, "techniek_eind": 0.975, "werkplaatsen_vanaf": 3841, "heersers": 4, "wetten": 19, "rustige_jaren": 2100, "macht_eind": {"staat": 0.196, "huizen": 0.055, "kerk": 0.004, "steden": 0.249, "dragers": 0.322, "buren": 0.153, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.169, "buren_honger": 0.991, "ev": 1.164, "aelthir": 0.431, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0477, seed 420477)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0478
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420478
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 23
+- **scores:** {"fasen": 10, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 1061], ["TK-steenlens", 1841], ["TK-vrijladen", 1961], ["TK-laadwerkplaats", 2001], ["TK-gaveglas", 2021], ["TK-lichtcel", 3301], ["TK-kweekakker", 3321], ["TK-heelkweek", 3521], ["TK-kluisherstel", 3781], ["TK-spiermolen", 4001], ["TK-vleesmetaal", 4101], ["TK-roestlak", 4961], ["TK-sporenkern", 5001]], "uit_nood": 7, "magie_min": 0.346, "magie_eind": 0.43, "golven": 8, "techniek_eind": 0.795, "werkplaatsen_vanaf": 4301, "heersers": 4, "wetten": 15, "rustige_jaren": 2260, "macht_eind": {"staat": 0.199, "huizen": 0.059, "kerk": 0.032, "steden": 0.11, "dragers": 0.366, "buren": 0.189, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.147, "buren_honger": 1.058, "ev": 0.827, "aelthir": 0.524, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0478, seed 420478)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0479
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420479
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 24
+- **scores:** {"fasen": 13, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 901], ["TK-laadwerkplaats", 1041], ["TK-echonet", 1181], ["TK-kweekakker", 1941], ["TK-roestlak", 2001], ["TK-lakijzer", 2921], ["TK-heelkweek", 3061], ["TK-kluisherstel", 3101], ["TK-spiermolen", 3141], ["TK-sporenkern", 3921], ["TK-vleesmetaal", 4481]], "uit_nood": 6, "magie_min": 0.322, "magie_eind": 0.322, "golven": 19, "techniek_eind": 0.953, "werkplaatsen_vanaf": 3861, "heersers": 3, "wetten": 19, "rustige_jaren": 2340, "macht_eind": {"staat": 0.234, "huizen": 0.059, "kerk": 0.005, "steden": 0.21, "dragers": 0.306, "buren": 0.136, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.22, "buren_honger": 0.865, "ev": 1.126, "aelthir": 0.752, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0479, seed 420479)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0480
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420480
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 7, "onopgelost": 10, "uitvindingen": [["TK-roestlak", 1781], ["TK-vrijladen", 2181], ["TK-lakijzer", 3101], ["TK-lichtnet", 3501], ["TK-kweekakker", 3961], ["TK-spiermolen", 4261]], "uit_nood": 3, "magie_min": 0.351, "magie_eind": 0.464, "golven": 9, "techniek_eind": 0.501, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 2700, "macht_eind": {"staat": 0.231, "huizen": 0.06, "kerk": 0.062, "steden": 0.091, "dragers": 0.242, "buren": 0.291, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.12, "buren_honger": 1.449, "ev": 1.105, "aelthir": 0.563, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0480, seed 420480)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0481
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420481
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 8, "onopgelost": 9, "uitvindingen": [["TK-vrijladen", 941], ["TK-laadwerkplaats", 1041], ["TK-echonet", 1141], ["TK-roestlak", 1321], ["TK-lakijzer", 2261], ["TK-kweekakker", 3301], ["TK-heelkweek", 3421], ["TK-kluisherstel", 4021], ["TK-lichtnet", 4561]], "uit_nood": 5, "magie_min": 0.355, "magie_eind": 0.502, "golven": 10, "techniek_eind": 0.545, "werkplaatsen_vanaf": null, "heersers": 2, "wetten": 16, "rustige_jaren": 1060, "macht_eind": {"staat": 0.238, "huizen": 0.085, "kerk": 0.025, "steden": 0.104, "dragers": 0.301, "buren": 0.197, "orrim": 0.034, "volk": 0.016}, "parameters": {"groei": 0.191, "buren_honger": 1.035, "ev": 0.847, "aelthir": 0.629, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0481, seed 420481)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0482
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420482
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 25
+- **scores:** {"fasen": 14, "onopgelost": 8, "uitvindingen": [["TK-lichtnet", 1041], ["TK-vrijladen", 1161], ["TK-roestlak", 1461], ["TK-laadwerkplaats", 1841], ["TK-kweekakker", 2121], ["TK-steenlens", 2701], ["TK-lichtcel", 3941], ["TK-kluisherstel", 4001], ["TK-spiermolen", 4121], ["TK-gaveglas", 4141], ["TK-lakijzer", 4481]], "uit_nood": 5, "magie_min": 0.334, "magie_eind": 0.411, "golven": 11, "techniek_eind": 0.883, "werkplaatsen_vanaf": 4001, "heersers": 5, "wetten": 18, "rustige_jaren": 2420, "macht_eind": {"staat": 0.211, "huizen": 0.083, "kerk": 0.005, "steden": 0.19, "dragers": 0.291, "buren": 0.176, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.199, "buren_honger": 1.145, "ev": 0.759, "aelthir": 0.215, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0482, seed 420482)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0483
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420483
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 9, "onopgelost": 7, "uitvindingen": [["TK-vrijladen", 1041], ["TK-echonet", 2041], ["TK-laadwerkplaats", 2121], ["TK-lichtnet", 2921], ["TK-kluisherstel", 4041]], "uit_nood": 2, "magie_min": 0.354, "magie_eind": 0.396, "golven": 13, "techniek_eind": 0.49, "werkplaatsen_vanaf": null, "heersers": 3, "wetten": 14, "rustige_jaren": 3000, "macht_eind": {"staat": 0.227, "huizen": 0.094, "kerk": 0.053, "steden": 0.051, "dragers": 0.353, "buren": 0.202, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.198, "buren_honger": 1.185, "ev": 1.26, "aelthir": 0.735, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0483, seed 420483)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0484
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420484
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 8, "onopgelost": 8, "uitvindingen": [["TK-vrijladen", 1541], ["TK-echonet", 1701], ["TK-laadwerkplaats", 2241], ["TK-lichtnet", 3261], ["TK-kluisherstel", 3401], ["TK-vleesmetaal", 3721], ["TK-kweekakker", 4661]], "uit_nood": 2, "magie_min": 0.354, "magie_eind": 0.354, "golven": 15, "techniek_eind": 0.483, "werkplaatsen_vanaf": null, "heersers": 1, "wetten": 15, "rustige_jaren": 1460, "macht_eind": {"staat": 0.275, "huizen": 0.1, "kerk": 0.08, "steden": 0.08, "dragers": 0.35, "buren": 0.091, "orrim": 0.01, "volk": 0.014}, "parameters": {"groei": 0.131, "buren_honger": 0.608, "ev": 1.02, "aelthir": 0.652, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0484, seed 420484)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0485
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420485
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 7, "onopgelost": 10, "uitvindingen": [["TK-vrijladen", 1741], ["TK-laadwerkplaats", 2141], ["TK-kweekakker", 2201], ["TK-kluisherstel", 2901], ["TK-spiermolen", 3481], ["TK-heelkweek", 3521], ["TK-roestlak", 4221], ["TK-lichtnet", 4841]], "uit_nood": 4, "magie_min": 0.336, "magie_eind": 0.336, "golven": 12, "techniek_eind": 0.647, "werkplaatsen_vanaf": 4841, "heersers": 4, "wetten": 15, "rustige_jaren": 1800, "macht_eind": {"staat": 0.24, "huizen": 0.052, "kerk": 0.004, "steden": 0.109, "dragers": 0.264, "buren": 0.287, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.214, "buren_honger": 1.272, "ev": 0.883, "aelthir": 0.611, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0485, seed 420485)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0486
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420486
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 21
+- **scores:** {"fasen": 11, "onopgelost": 10, "uitvindingen": [["TK-sporennet", 1281], ["TK-kweekakker", 2121], ["TK-vrijladen", 3021], ["TK-heelkweek", 3281], ["TK-spiermolen", 3381], ["TK-kluisherstel", 3781], ["TK-roestlak", 3861], ["TK-lakijzer", 4081], ["TK-sporendruk", 4461], ["TK-sporenkern", 4901]], "uit_nood": 3, "magie_min": 0.35, "magie_eind": 0.371, "golven": 8, "techniek_eind": 0.706, "werkplaatsen_vanaf": 4901, "heersers": 4, "wetten": 16, "rustige_jaren": 2620, "macht_eind": {"staat": 0.242, "huizen": 0.083, "kerk": 0.014, "steden": 0.132, "dragers": 0.332, "buren": 0.134, "orrim": 0.047, "volk": 0.016}, "parameters": {"groei": 0.201, "buren_honger": 0.741, "ev": 1.087, "aelthir": 0.641, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0486, seed 420486)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0487
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420487
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 29
+- **scores:** {"fasen": 16, "onopgelost": 7, "uitvindingen": [["TK-lichtnet", 821], ["TK-steenlens", 881], ["TK-roestlak", 981], ["TK-kluisherstel", 1081], ["TK-vleesmetaal", 1101], ["TK-lichtcel", 1321], ["TK-kweekakker", 1381], ["TK-sporennet", 1401], ["TK-lakijzer", 1521], ["TK-heelkweek", 1701], ["TK-sporenkern", 1961], ["TK-sporendruk", 2201], ["TK-spiermolen", 2321]], "uit_nood": 10, "magie_min": 0.126, "magie_eind": 0.133, "golven": 10, "techniek_eind": 1, "werkplaatsen_vanaf": 1961, "heersers": 5, "wetten": 19, "rustige_jaren": 2600, "macht_eind": {"staat": 0.008, "huizen": 0.068, "kerk": 0.006, "steden": 0.713, "dragers": 0.004, "buren": 0.173, "orrim": 0.01, "volk": 0.019}, "parameters": {"groei": 0.148, "buren_honger": 0.961, "ev": 0.825, "aelthir": 0.668, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0487, seed 420487)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z44-GESCH-0488
+- **module:** geschiedenis_z44
+- **fase_nr:** 9
+- **seed:** 420488
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 10, "onopgelost": 2, "uitvindingen": [["TK-roestlak", 1081], ["TK-vrijladen", 1501], ["TK-lakijzer", 2861], ["TK-lichtnet", 3601], ["TK-kluisherstel", 4421], ["TK-vleesmetaal", 4501], ["TK-kweekakker", 4941]], "uit_nood": 1, "magie_min": 0.341, "magie_eind": 0.341, "golven": 9, "techniek_eind": 0.55, "werkplaatsen_vanaf": null, "heersers": 4, "wetten": 17, "rustige_jaren": 3300, "macht_eind": {"staat": 0.293, "huizen": 0.122, "kerk": 0.006, "steden": 0.134, "dragers": 0.191, "buren": 0.229, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.183, "buren_honger": 0.918, "ev": 0.845, "aelthir": 0.462, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z44.py
+- **epistemiek:** simulatie (Z44-GESCH-0488, seed 420488)
+<!-- /REC -->
+<!-- REC sim_run -->

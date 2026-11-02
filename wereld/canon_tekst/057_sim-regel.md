@@ -811,5 +811,75 @@
 - **status:** voorlopig
 - **epistemiek:** aanname (motorontwerp Z43, bron REGEL-regeringsvorm-Z12)
 <!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH3-boom · Een uitvinding ontstaat alleen uit de boom: al haar vereisten bestaan al, haar materiaalvoorwaarde klopt, en haar uitvinder heeft minstens 5 procent van de macht.
+- **code:** GESCH3-boom
+- **module:** geschiedenis_z44
+- **omschrijving:** Een uitvinding ontstaat alleen uit de boom: al haar vereisten bestaan al, haar materiaalvoorwaarde klopt, en haar uitvinder heeft minstens 5 procent van de macht.
+- **parameter:** boom
+- **waarde:** 17 knopen
+- **bron_code:** TECHNO-REGEL-V4;TECHNO-MIX-V4
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z44, bron TECHNO-REGEL-V4;TECHNO-MIX-V4)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH3-nood · Nood maakt vindingrijk: een uitvinding waar een crisis van de laatste 100 jaar om vroeg, is per 20 jaar ruim tien keer zo waarschijnlijk als een die alleen aantrekkelijk is.
+- **code:** GESCH3-nood
+- **module:** geschiedenis_z44
+- **omschrijving:** Nood maakt vindingrijk: een uitvinding waar een crisis van de laatste 100 jaar om vroeg, is per 20 jaar ruim tien keer zo waarschijnlijk als een die alleen aantrekkelijk is.
+- **parameter:** kans
+- **waarde:** 0,06 maal (0,2 of 2,7) maal (0,5 + beschaving)
+- **bron_code:** TECHNO-REGEL-V4
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z44, bron TECHNO-REGEL-V4)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH3-gevolg · Een uitvinding verandert toestand en macht meteen (gevolg in tech_knoop); latere crises kunnen van haar erven.
+- **code:** GESCH3-gevolg
+- **module:** geschiedenis_z44
+- **omschrijving:** Een uitvinding verandert toestand en macht meteen (gevolg in tech_knoop); latere crises kunnen van haar erven.
+- **parameter:** gevolg
+- **waarde:** per knoop
+- **bron_code:** TECHNO-REGEL-V4
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z44, bron TECHNO-REGEL-V4)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH3-staat · Edelen kosten de staat geld: de kas daalt met 0,045 maal het aantal edelen per 20 jaar (Turchin); te veel edelen en een lege kas geven strijd.
+- **code:** GESCH3-staat
+- **module:** geschiedenis_z44
+- **omschrijving:** Edelen kosten de staat geld: de kas daalt met 0,045 maal het aantal edelen per 20 jaar (Turchin); te veel edelen en een lege kas geven strijd.
+- **parameter:** kosten
+- **waarde:** 0,045
+- **bron_code:** FASE-markt;FASE-barsten
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z44, bron FASE-markt;FASE-barsten)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH3-techniek · Techniek groeit zelf nog maar half zo snel als in Z43; de rest komt uit uitvindingen.
+- **code:** GESCH3-techniek
+- **module:** geschiedenis_z44
+- **omschrijving:** Techniek groeit zelf nog maar half zo snel als in Z43; de rest komt uit uitvindingen.
+- **parameter:** groei
+- **waarde:** 0,003
+- **bron_code:** TECHNO-REGEL-V4
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z44, bron TECHNO-REGEL-V4)
+<!-- /REC -->
 
 <!-- SECTIE: GEBEURTENIS_TYPE -->
