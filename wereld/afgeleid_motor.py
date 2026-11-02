@@ -297,8 +297,50 @@ def tijdas(c):
   c.execute("""create view v_tijdlijn as select k.code,k.categorie,k.onderwerp,k.tijdperk,t.fase,t.naam fase_naam,t.van,t.tot,t.van_bp,t.tot_bp,coalesce(k.ideeenbank,0) ideeenbank
     from canon k join tijdperk_label l on l.label=k.tijdperk left join tijdas t on t.fase=l.fase where k.status in ('vastgesteld','voorlopig')""")
 
+def fantasie_tijd(c):
+  """Z47: per erotische fantasie (VOOR-, KINK-, RIT-) het verleden, de afhankelijkheden en de status per tijdperk na 801. Afgeleid uit de canon zelf:
+  - afhankelijkheid = een link in verwijst_naar naar een LOT-Z44-rij (hoe iets verdwijnt) of naar GEB-Z45-losbandige-jaren (einde van het stalsysteem);
+    LOT-Z44-ishvar betekent: alleen gewone mensen nodig.
+  - verlies_fase = de fase van het tijdperk van die rij (tijdperk_label); verleden = de vroegste FASE-rij waarnaar de fantasie verwijst.
+  - status per fase: echt (voor het verlies), zeldzaam (in het tijdperk van het verlies), daarna 'spel' (macht of instituut weg; rollenspel
+    tussen volwassenen) of 'onmogelijk' (een lichaam of volk dat er niet meer is). Rijen met 'niet-seksueel' tellen niet mee."""
+  import re as _re
+  for t in ('fantasie_kern','fantasie_status'): c.execute(f'drop table if exists {t}')
+  c.execute('create table fantasie_kern(code text primary key, naam text, afh text, soort text, verleden_fase integer, verlies_fase integer)')
+  c.execute('create table fantasie_status(code text, fase integer, status text, primary key(code,fase))')
+  LICHAAM={'skerra','ves-lethi','kluwers','aelthir','dhurn','tharn','orrim','sael-mor','oevrin','myrrhen','vathren','grauwen','reuzenstieren','leegtewormen'}
+  BLIJFT={'ishvar','oevrin','myrrhen'}
+  lab=dict(c.execute('select label,fase from tijdperk_label').fetchall()); fase_code=dict(c.execute('select code,fase from tijdas').fetchall())
+  tp=dict(c.execute("select code,tijdperk from canon where status in ('vastgesteld','voorlopig')").fetchall())
+  ORDE=['echt','zeldzaam','spel','onmogelijk']
+  for code,ond,feit,verw in c.execute("""select code,onderwerp,feit,coalesce(verwijst_naar,'') from canon where status in ('vastgesteld','voorlopig')
+      and (code like 'VOOR-%' or code like 'KINK-%' or code like 'RIT-%') and categorie in ('Voorkeuren','Kinks en situaties','Extreme rituelen','Rituelen')""").fetchall():
+    if 'niet-seksueel' in (feit or ''): continue
+    refs=[x.strip() for x in verw.split(';') if x.strip()]
+    anker=[x for x in refs if x.startswith('LOT-Z44-') or x=='GEB-Z45-losbandige-jaren']
+    vf=[fase_code[x] for x in refs if x.startswith('FASE-') and x in fase_code]
+    m=_re.search(r'Oorsprong: ([A-Z][\w-]+)',feit or '')
+    if not vf and m and lab.get(tp.get(m.group(1))) is not None: vf=[lab[tp[m.group(1)]]]
+    if not anker:
+      c.execute('insert into fantasie_kern values(?,?,?,?,?,?)',(code,ond,None,None,min(vf) if vf else None,None)); continue
+    st={f:'echt' for f in range(9,17)}; soorten=set(); verlies=[]
+    for a in anker:
+      n='stalsysteem' if a.startswith('GEB-Z45') else a[8:]
+      if n in BLIJFT and n!='oevrin': soorten.add('mens'); continue
+      fv=lab.get(tp.get(a)); fv=14 if n=='oevrin' else (9 if n=='stalsysteem' else fv)
+      if fv is None: continue
+      verlies.append(fv); s='lichaam' if n in LICHAAM else 'macht'; soorten.add(s)
+      for f in range(9,17):
+        k='echt' if f<fv else ('zeldzaam' if f==fv else ('onmogelijk' if s=='lichaam' else 'spel'))
+        if ORDE.index(k)>ORDE.index(st[f]): st[f]=k
+    c.execute('insert into fantasie_kern values(?,?,?,?,?,?)',(code,ond,';'.join(anker),','.join(sorted(soorten)),min(vf) if vf else None,min(verlies) if verlies else None))
+    for f,k in st.items(): c.execute('insert into fantasie_status values(?,?,?)',(code,f,k))
+  c.execute('drop view if exists v_fantasie_matrix')
+  c.execute("""create view v_fantasie_matrix as select s.fase,t.naam,sum(s.status='echt') echt,sum(s.status='zeldzaam') zeldzaam,sum(s.status='spel') spel,
+    sum(s.status='onmogelijk') onmogelijk from fantasie_status s left join tijdas t on t.fase=s.fase group by s.fase""")
+
 def bouw(c):
-  schema(c);herkomst(c);personage_profiel(c);relaties(c);per_relaties(c);anker_kopie(c);persoon_identiteit(c);tijdas(c)
+  schema(c);herkomst(c);personage_profiel(c);relaties(c);per_relaties(c);anker_kopie(c);persoon_identiteit(c);tijdas(c);fantasie_tijd(c)
   import os,sys,importlib.util as iu  # Z37: rijkdom_lid (afgeleid) als de tabel domein bestaat
   pad=os.path.join(os.path.dirname(os.path.abspath(__file__)),'z37','rijkdom.py')
   if os.path.exists(pad):
