@@ -69,7 +69,7 @@
 - **waarom:** Continuïteit en een klok: de zegel verzwakt nu. [Z13 datering: jaar 235 (fasenaam "ontvangst" in de tekst)] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Geheim; Queeste; Huizen
+- **hangt_samen_met:** Geheim;Queeste;Huizen
 - **verwijst_naar:** BESLUIT-Z30-2;HUI-varenne;MACHT-gaven-mannen;ORDE-orde;ORDE-rol-orde;HAAK-V5-zegel-4
 - **jaar:** 235
 - **tijdperk:** 5 Ontvangst
@@ -1570,7 +1570,7 @@
 - **status:** voorlopig
 - **ronde:** 9
 - **hangt_samen_met:** GES-tijdlijn;GEH-zegel
-- **verwijst_naar:** GES-tijdlijn;BESLUIT-Z30-2;VOOR-dominante-man;GEB-orric-vonk;GEB-zaadkracht-ontdekt;HAAK-B1-2-3
+- **verwijst_naar:** GES-tijdlijn;BESLUIT-Z30-2;VOOR-dominante-man-Z50;GEB-orric-vonk;GEB-zaadkracht-ontdekt;HAAK-B1-2-3
 - **jaar:** -150
 - **tijdperk:** De Vonk
 - **intensiteit:** 
@@ -1600,7 +1600,7 @@
 - **status:** voorlopig
 - **ronde:** 9
 - **hangt_samen_met:** FASE-vonk;MAGIE-wat-gaven-man;GES-herkomst-gave
-- **verwijst_naar:** FASE-vonk;MAGIE-wat-gaven-man;GES-herkomst-gave-Z38;VOOR-geest;GEB-r10-mijnzonen;HAAK-B1-1-3
+- **verwijst_naar:** FASE-vonk;MAGIE-wat-gaven-man;GES-herkomst-gave-Z38;VOOR-geest-Z50;GEB-r10-mijnzonen;HAAK-B1-1-3
 - **jaar:** -150
 - **tijdperk:** De Vonk
 - **intensiteit:** 
@@ -1869,8 +1869,8 @@
 - **waarom:** Sleutelgebeurtenis in De Noodtoestand. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar REGEL-seksuele-normen), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 9
-- **hangt_samen_met:** FASE-noodtoestand;REGEL-seksuele-normen;RIT-oogstbed;RIT-melkrite
-- **verwijst_naar:** FASE-noodtoestand-Z38;REGEL-seksuele-normen;RIT-oogstbed;RIT-melkrite;VOOR-dominante-vrouw;VOOR-groep;HAAK-techno-zegelsteen-2
+- **hangt_samen_met:** FASE-noodtoestand;REGEL-seksuele-normen;RIT-oogstbed-Z50;RIT-melkrite-Z50
+- **verwijst_naar:** FASE-noodtoestand-Z38;REGEL-seksuele-normen;RIT-oogstbed-Z50;RIT-melkrite-Z50;VOOR-dominante-vrouw-Z50;VOOR-groep-Z50;HAAK-techno-zegelsteen-2
 - **jaar:** 40
 - **tijdperk:** De Noodtoestand
 - **intensiteit:** 
@@ -1959,8 +1959,8 @@
 - **waarom:** Sleutelgebeurtenis in De Heilige Ontvangst. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 9
-- **hangt_samen_met:** FASE-ontvangst;RIT-ontvangst;SFEER-zegellicht;RIT-zegelvoeding
-- **verwijst_naar:** FASE-ontvangst;RIT-ontvangst;SFEER-zegellicht;RIT-zegelvoeding;VOOR-exhibitionisme;VOOR-voyeurisme;HAAK-B1-2-2
+- **hangt_samen_met:** FASE-ontvangst;RIT-ontvangst-Z50;SFEER-zegellicht;RIT-zegelvoeding-Z50
+- **verwijst_naar:** FASE-ontvangst;RIT-ontvangst-Z50;SFEER-zegellicht;RIT-zegelvoeding-Z50;VOOR-exhibitionisme-Z50;VOOR-voyeurisme-Z50;HAAK-B1-2-2
 - **jaar:** 130
 - **tijdperk:** De Heilige Ontvangst
 - **intensiteit:** 
@@ -2020,7 +2020,7 @@
 - **status:** voorlopig
 - **ronde:** 9
 - **hangt_samen_met:** FASE-ontvangst;REG-stille
-- **verwijst_naar:** FASE-ontvangst;REG-stille;VOOR-anoniem;GEB-r10-mael-schisma;HAAK-techno-bio-2
+- **verwijst_naar:** FASE-ontvangst;REG-stille;VOOR-anoniem-Z50;GEB-r10-mael-schisma;HAAK-techno-bio-2
 - **jaar:** 290
 - **tijdperk:** De Heilige Ontvangst
 - **intensiteit:** 
@@ -2050,7 +2050,7 @@
 - **status:** voorlopig
 - **ronde:** 9
 - **hangt_samen_met:** GES-tijdlijn;GEH-zegel
-- **verwijst_naar:** GES-tijdlijn;BESLUIT-Z30-2;VOOR-competitie;VOOR-reiziger;VOOR-verboden;HAAK-techno-gave-2
+- **verwijst_naar:** GES-tijdlijn;BESLUIT-Z30-2;VOOR-competitie-Z50;VOOR-reiziger-Z50;VOOR-verboden-Z50;HAAK-techno-gave-2
 - **jaar:** 340
 - **tijdperk:** De Markt van het Lichaam
 - **intensiteit:** 
@@ -2080,7 +2080,7 @@
 - **status:** vastgesteld
 - **ronde:** 9
 - **hangt_samen_met:** FASE-markt;LICH-pest;MACHT-gewone-mannen
-- **verwijst_naar:** FASE-markt;LICH-pest-B1;MACHT-gewone-mannen;VOOR-melken;VOOR-ontzegging;HAAK-PER-romance
+- **verwijst_naar:** FASE-markt;LICH-pest-B1;MACHT-gewone-mannen;VOOR-melken-Z50;VOOR-ontzegging-Z50;HAAK-PER-romance
 - **jaar:** 340
 - **tijdperk:** De Markt van het Lichaam
 - **intensiteit:** 
@@ -2109,8 +2109,8 @@
 - **waarom:** Sleutelgebeurtenis in De Markt van het Lichaam. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 9
-- **hangt_samen_met:** FASE-markt;HUI-varenne;RIT-veiling
-- **verwijst_naar:** FASE-markt;HUI-varenne;RIT-veiling;VOOR-veiling;VOOR-handel;GEB-r10-varenne-krediet;HAAK-techno-bio-3
+- **hangt_samen_met:** FASE-markt;HUI-varenne;RIT-veiling-Z50
+- **verwijst_naar:** FASE-markt;HUI-varenne;RIT-veiling-Z50;VOOR-veiling-Z50;VOOR-handel-Z50;GEB-r10-varenne-krediet;HAAK-techno-bio-3
 - **jaar:** 455
 - **tijdperk:** De Markt van het Lichaam
 - **intensiteit:** 
@@ -2139,8 +2139,8 @@
 - **waarom:** Sleutelgebeurtenis in De Markt van het Lichaam.
 - **status:** voorlopig
 - **ronde:** 9
-- **hangt_samen_met:** FASE-markt;HUI-qesh;PER-khaled;RIT-vuurgloed
-- **verwijst_naar:** FASE-markt;HUI-qesh-Z6;PER-khaled;RIT-vuurgloed;STAD-qesh
+- **hangt_samen_met:** FASE-markt;HUI-qesh;PER-khaled;RIT-vuurgloed-Z50
+- **verwijst_naar:** FASE-markt;HUI-qesh-Z6;PER-khaled;RIT-vuurgloed-Z50;STAD-qesh
 - **jaar:** 512
 - **tijdperk:** De Markt van het Lichaam
 - **intensiteit:** 
@@ -2230,7 +2230,7 @@
 - **status:** vastgesteld
 - **ronde:** 9
 - **hangt_samen_met:** FASE-barsten;REG-kharvos;RIT-kharvosrite
-- **verwijst_naar:** FASE-barsten;REG-kharvos-B1;RIT-kharvosrite;VOOR-gevangenschap;GEB-r10-kharvos-ziet;HAAK-V5-zegel-3
+- **verwijst_naar:** FASE-barsten;REG-kharvos-B1;RIT-kharvosrite;VOOR-gevangenschap-Z50;GEB-r10-kharvos-ziet;HAAK-V5-zegel-3
 - **jaar:** 720
 - **tijdperk:** De Barsten
 - **intensiteit:** 
@@ -2259,8 +2259,8 @@
 - **waarom:** Sleutelgebeurtenis in De Barsten. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 9
-- **hangt_samen_met:** FASE-barsten;PER-morvane;RIT-bloedverbinding
-- **verwijst_naar:** FASE-barsten;PER-morvane;RIT-bloedverbinding;VOOR-bloed;GEB-r10-bloednacht-gevolg;HAAK-techno-zegelsteen-3
+- **hangt_samen_met:** FASE-barsten;PER-morvane;RIT-bloedverbinding-Z50
+- **verwijst_naar:** FASE-barsten;PER-morvane;RIT-bloedverbinding-Z50;VOOR-bloed-Z50;GEB-r10-bloednacht-gevolg;HAAK-techno-zegelsteen-3
 - **jaar:** 788
 - **tijdperk:** De Barsten
 - **intensiteit:** 
@@ -2469,8 +2469,8 @@
 - **waarom:** Ronde 10: actie-reactieketen
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-eerste-kroon;RIT-oogstbed;VOOR-groep
-- **verwijst_naar:** GEB-r10-eerste-kroon;RIT-oogstbed;VOOR-groep;FASE-overvloed
+- **hangt_samen_met:** GEB-r10-eerste-kroon;RIT-oogstbed-Z50;VOOR-groep-Z50
+- **verwijst_naar:** GEB-r10-eerste-kroon;RIT-oogstbed-Z50;VOOR-groep-Z50;FASE-overvloed
 - **jaar:** -410
 - **tijdperk:** De Overvloed en de Kroon
 - **intensiteit:** 
@@ -2679,8 +2679,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-orric-vonk;VOOR-gevangenschap;VOOR-bondage
-- **verwijst_naar:** GEB-orric-vonk;VOOR-gevangenschap;VOOR-bondage;STAD-saelith;FASE-vonk;GEB-r10-eerste-vervorming;HAAK-PER-erotiek
+- **hangt_samen_met:** GEB-orric-vonk;VOOR-gevangenschap-Z50;VOOR-bondage-Z50
+- **verwijst_naar:** GEB-orric-vonk;VOOR-gevangenschap-Z50;VOOR-bondage-Z50;STAD-saelith;FASE-vonk;GEB-r10-eerste-vervorming;HAAK-PER-erotiek
 - **jaar:** -132
 - **tijdperk:** De Vonk
 - **intensiteit:** 
@@ -2709,8 +2709,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 10
-- **hangt_samen_met:** GEB-zaadkracht-ontdekt;MAGIE-kracht-duur;VOOR-melken;KINK-melkrite
-- **verwijst_naar:** GEB-zaadkracht-ontdekt;MAGIE-kracht-duur;VOOR-melken;KINK-melkrite;STAD-saelith;FASE-vonk;HAAK-REG-stille
+- **hangt_samen_met:** GEB-zaadkracht-ontdekt;MAGIE-kracht-duur;VOOR-melken-Z50;KINK-melkrite
+- **verwijst_naar:** GEB-zaadkracht-ontdekt;MAGIE-kracht-duur;VOOR-melken-Z50;KINK-melkrite;STAD-saelith;FASE-vonk;HAAK-REG-stille
 - **jaar:** -118
 - **tijdperk:** De Vonk
 - **intensiteit:** 
@@ -2739,8 +2739,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-zaadkruiken;RIT-strijdontvangst;KINK-strijdontvangst;LICH-krijgsvrouw;LICH-leegteziekte
-- **verwijst_naar:** GEB-r10-zaadkruiken;RIT-strijdontvangst;KINK-strijdontvangst;LICH-krijgsvrouw;LICH-leegteziekte;FASE-vonk;HAAK-genre-balans
+- **hangt_samen_met:** GEB-r10-zaadkruiken;RIT-strijdontvangst-Z50;KINK-strijdontvangst;LICH-krijgsvrouw;LICH-leegteziekte
+- **verwijst_naar:** GEB-r10-zaadkruiken;RIT-strijdontvangst-Z50;KINK-strijdontvangst;LICH-krijgsvrouw;LICH-leegteziekte;FASE-vonk;HAAK-genre-balans
 - **jaar:** -105
 - **tijdperk:** De Vonk
 - **intensiteit:** 
@@ -2769,8 +2769,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-eerste-strijdnacht;MAGIE-verslaving;LICH-gebonden-lichaam;VOOR-binding
-- **verwijst_naar:** GEB-r10-eerste-strijdnacht;MAGIE-verslaving;LICH-gebonden-lichaam;VOOR-binding;FASE-vonk;GEB-r10-grijswortel;HAAK-Z1-derdeweg-3
+- **hangt_samen_met:** GEB-r10-eerste-strijdnacht;MAGIE-verslaving;LICH-gebonden-lichaam;VOOR-binding-Z50
+- **verwijst_naar:** GEB-r10-eerste-strijdnacht;MAGIE-verslaving;LICH-gebonden-lichaam;VOOR-binding-Z50;FASE-vonk;GEB-r10-grijswortel;HAAK-Z1-derdeweg-3
 - **jaar:** -98
 - **tijdperk:** De Vonk
 - **intensiteit:** 
@@ -2829,8 +2829,8 @@
 - **waarom:** Ronde 10: actie-reactieketen
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-zaadkruiken;HUI-varenne;RIT-veiling;VOOR-veiling;VOOR-handel
-- **verwijst_naar:** GEB-r10-zaadkruiken;HUI-varenne;RIT-veiling;VOOR-veiling;VOOR-handel;STAD-saelith;FASE-vonk
+- **hangt_samen_met:** GEB-r10-zaadkruiken;HUI-varenne;RIT-veiling-Z50;VOOR-veiling-Z50;VOOR-handel-Z50
+- **verwijst_naar:** GEB-r10-zaadkruiken;HUI-varenne;RIT-veiling-Z50;VOOR-veiling-Z50;VOOR-handel-Z50;STAD-saelith;FASE-vonk
 - **jaar:** -85
 - **tijdperk:** De Vonk
 - **intensiteit:** 
@@ -2889,8 +2889,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-vonkmarkt;GEB-vonkkoorts;PER-morvane;VOOR-harem;KINK-harem-gunst
-- **verwijst_naar:** GEB-r10-vonkmarkt;GEB-vonkkoorts;PER-morvane;VOOR-harem;KINK-harem-gunst;STAD-saelith;HAAK-V5-zegel-5
+- **hangt_samen_met:** GEB-r10-vonkmarkt;GEB-vonkkoorts;PER-morvane;VOOR-harem-Z50;KINK-harem-gunst
+- **verwijst_naar:** GEB-r10-vonkmarkt;GEB-vonkkoorts;PER-morvane;VOOR-harem-Z50;KINK-harem-gunst;STAD-saelith;HAAK-V5-zegel-5
 - **jaar:** -70
 - **tijdperk:** De Vonk
 - **intensiteit:** 
@@ -2919,8 +2919,8 @@
 - **waarom:** Ronde 10: actie-reactieketen
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-vonkkoorts;KINK-ontlading-na-magie;VOOR-ontlading
-- **verwijst_naar:** GEB-vonkkoorts;KINK-ontlading-na-magie;VOOR-ontlading;STAD-saelith;FASE-vonk
+- **hangt_samen_met:** GEB-vonkkoorts;KINK-ontlading-na-magie;VOOR-ontlading-Z50
+- **verwijst_naar:** GEB-vonkkoorts;KINK-ontlading-na-magie;VOOR-ontlading-Z50;STAD-saelith;FASE-vonk
 - **jaar:** -65
 - **tijdperk:** De Vonk
 - **intensiteit:** 
@@ -3249,8 +3249,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEB-r10-varnath-opkomst), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-varnath-opkomst;GEB-r10-grijswortel;KINK-binding-losmaken;VOOR-dominante-vrouw
-- **verwijst_naar:** GEB-r10-varnath-opkomst;GEB-r10-grijswortel;KINK-binding-losmaken;VOOR-dominante-vrouw;STAD-saelith;FASE-brand-Z38;HAAK-B1-2-4
+- **hangt_samen_met:** GEB-r10-varnath-opkomst;GEB-r10-grijswortel;KINK-binding-losmaken;VOOR-dominante-vrouw-Z50
+- **verwijst_naar:** GEB-r10-varnath-opkomst;GEB-r10-grijswortel;KINK-binding-losmaken;VOOR-dominante-vrouw-Z50;STAD-saelith;FASE-brand-Z38;HAAK-B1-2-4
 - **jaar:** -6
 - **tijdperk:** De Grote Brand
 - **intensiteit:** 
@@ -3339,8 +3339,8 @@
 - **waarom:** Ronde 10: actie-reactieketen
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-stille-jaren;GEB-r10-kruisverbond;VOOR-onderdanige-man;VOOR-gevangenschap
-- **verwijst_naar:** GEB-r10-stille-jaren;GEB-r10-kruisverbond;VOOR-onderdanige-man;VOOR-gevangenschap;STAD-saelith;FASE-noodtoestand-Z38
+- **hangt_samen_met:** GEB-r10-stille-jaren;GEB-r10-kruisverbond;VOOR-onderdanige-man;VOOR-gevangenschap-Z50
+- **verwijst_naar:** GEB-r10-stille-jaren;GEB-r10-kruisverbond;VOOR-onderdanige-man;VOOR-gevangenschap-Z50;STAD-saelith;FASE-noodtoestand-Z38
 - **jaar:** 14
 - **tijdperk:** De Noodtoestand
 - **intensiteit:** 
@@ -3369,8 +3369,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-stille-jaren;VOOR-gevangenschap;KINK-verboden-toegang
-- **verwijst_naar:** GEB-r10-stille-jaren;VOOR-gevangenschap;KINK-verboden-toegang;FASE-noodtoestand-Z38;GEB-r10-eerste-register;GEB-r10-neven-ramp;HAAK-REG-saelith
+- **hangt_samen_met:** GEB-r10-stille-jaren;VOOR-gevangenschap-Z50;KINK-verboden-toegang
+- **verwijst_naar:** GEB-r10-stille-jaren;VOOR-gevangenschap-Z50;KINK-verboden-toegang;FASE-noodtoestand-Z38;GEB-r10-eerste-register;GEB-r10-neven-ramp;HAAK-REG-saelith
 - **jaar:** 18
 - **tijdperk:** De Noodtoestand
 - **intensiteit:** 
@@ -3549,8 +3549,8 @@
 - **waarom:** Ronde 10: actie-reactieketen
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-deelwet-40;LICH-zaadslijtage;RIT-leegtewake
-- **verwijst_naar:** GEB-deelwet-40;LICH-zaadslijtage;RIT-leegtewake;FASE-noodtoestand-Z38
+- **hangt_samen_met:** GEB-deelwet-40;LICH-zaadslijtage;RIT-leegtewake-Z50
+- **verwijst_naar:** GEB-deelwet-40;LICH-zaadslijtage;RIT-leegtewake-Z50;FASE-noodtoestand-Z38
 - **jaar:** 60
 - **tijdperk:** De Noodtoestand
 - **intensiteit:** 
@@ -3579,8 +3579,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-uitputting;RIT-reizigersgroet;VOOR-reiziger
-- **verwijst_naar:** GEB-r10-uitputting;RIT-reizigersgroet;VOOR-reiziger;FASE-noodtoestand-Z38;GEB-r10-orde-naam;GEB-r10-eilanden-weigering;HAAK-genre-balans-V1-Z32
+- **hangt_samen_met:** GEB-r10-uitputting;RIT-reizigersgroet-Z50;VOOR-reiziger-Z50
+- **verwijst_naar:** GEB-r10-uitputting;RIT-reizigersgroet-Z50;VOOR-reiziger-Z50;FASE-noodtoestand-Z38;GEB-r10-orde-naam;GEB-r10-eilanden-weigering;HAAK-genre-balans-V1-Z32
 - **jaar:** 78
 - **tijdperk:** De Noodtoestand
 - **intensiteit:** 
@@ -3669,8 +3669,8 @@
 - **waarom:** Ronde 10: actie-reactieketen
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-rotatie;GEB-r10-nevel-moederrecht;HUI-mirre;VOOR-verboden
-- **verwijst_naar:** GEB-r10-rotatie;GEB-r10-nevel-moederrecht;HUI-mirre;VOOR-verboden;FASE-noodtoestand-Z38
+- **hangt_samen_met:** GEB-r10-rotatie;GEB-r10-nevel-moederrecht;HUI-mirre;VOOR-verboden-Z50
+- **verwijst_naar:** GEB-r10-rotatie;GEB-r10-nevel-moederrecht;HUI-mirre;VOOR-verboden-Z50;FASE-noodtoestand-Z38
 - **jaar:** 100
 - **tijdperk:** De Noodtoestand
 - **intensiteit:** 
@@ -3699,8 +3699,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar ORDE-doel-geloof), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-orde-naam;ORDE-doel-geloof;VOOR-ritueel
-- **verwijst_naar:** GEB-r10-orde-naam;ORDE-doel-geloof;VOOR-ritueel;STAD-saelith;FASE-ontvangst
+- **hangt_samen_met:** GEB-r10-orde-naam;ORDE-doel-geloof;VOOR-ritueel-Z50
+- **verwijst_naar:** GEB-r10-orde-naam;ORDE-doel-geloof;VOOR-ritueel-Z50;STAD-saelith;FASE-ontvangst
 - **jaar:** 128
 - **tijdperk:** De Heilige Ontvangst
 - **intensiteit:** 
@@ -3729,8 +3729,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 10
-- **hangt_samen_met:** GEB-eerste-zegellicht;RIT-zegelvoeding;RIT-ontvangst
-- **verwijst_naar:** GEB-eerste-zegellicht;RIT-zegelvoeding;RIT-ontvangst;STAD-saelith;FASE-ontvangst;GEB-r10-gunstbrief;HAAK-PER-erotiek
+- **hangt_samen_met:** GEB-eerste-zegellicht;RIT-zegelvoeding-Z50;RIT-ontvangst-Z50
+- **verwijst_naar:** GEB-eerste-zegellicht;RIT-zegelvoeding-Z50;RIT-ontvangst-Z50;STAD-saelith;FASE-ontvangst;GEB-r10-gunstbrief;HAAK-PER-erotiek
 - **jaar:** 140
 - **tijdperk:** De Heilige Ontvangst
 - **intensiteit:** 
@@ -3759,8 +3759,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-tempelbouw;RIT-gunstnacht;VOOR-handel
-- **verwijst_naar:** GEB-r10-tempelbouw;RIT-gunstnacht;VOOR-handel;STAD-saelith;FASE-ontvangst;GEB-r10-eerste-veiling-heilig;HAAK-techno-metaal-3
+- **hangt_samen_met:** GEB-r10-tempelbouw;RIT-gunstnacht-Z50;VOOR-handel-Z50
+- **verwijst_naar:** GEB-r10-tempelbouw;RIT-gunstnacht-Z50;VOOR-handel-Z50;STAD-saelith;FASE-ontvangst;GEB-r10-eerste-veiling-heilig;HAAK-techno-metaal-3
 - **jaar:** 160
 - **tijdperk:** De Heilige Ontvangst
 - **intensiteit:** 
@@ -3789,8 +3789,8 @@
 - **waarom:** Ronde 10: actie-reactieketen
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-orde-naam;GEB-r10-dankpreek;VOOR-verboden;VOOR-vernedering;RIT-schandpodium
-- **verwijst_naar:** GEB-r10-orde-naam;GEB-r10-dankpreek;VOOR-verboden;VOOR-vernedering;RIT-schandpodium;FASE-ontvangst
+- **hangt_samen_met:** GEB-r10-orde-naam;GEB-r10-dankpreek;VOOR-verboden-Z50;VOOR-vernedering-Z50;RIT-schandpodium-Z50
+- **verwijst_naar:** GEB-r10-orde-naam;GEB-r10-dankpreek;VOOR-verboden-Z50;VOOR-vernedering-Z50;RIT-schandpodium-Z50;FASE-ontvangst
 - **jaar:** 175
 - **tijdperk:** De Heilige Ontvangst
 - **intensiteit:** 
@@ -3819,8 +3819,8 @@
 - **waarom:** Ronde 10: actie-reactieketen
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-vonkmarkt;GEB-r10-gunstbrief;RIT-veiling;HUI-varenne;KINK-veiling-zaadbeurs
-- **verwijst_naar:** GEB-r10-vonkmarkt;GEB-r10-gunstbrief;RIT-veiling;HUI-varenne;KINK-veiling-zaadbeurs;STAD-saelith;FASE-ontvangst
+- **hangt_samen_met:** GEB-r10-vonkmarkt;GEB-r10-gunstbrief;RIT-veiling-Z50;HUI-varenne;KINK-veiling-zaadbeurs
+- **verwijst_naar:** GEB-r10-vonkmarkt;GEB-r10-gunstbrief;RIT-veiling-Z50;HUI-varenne;KINK-veiling-zaadbeurs;STAD-saelith;FASE-ontvangst
 - **jaar:** 195
 - **tijdperk:** De Heilige Ontvangst
 - **intensiteit:** 
@@ -3969,8 +3969,8 @@
 - **waarom:** Ronde 10: actie-reactieketen
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-eerste-strijdnacht;HUI-kaldra;RIT-strijdontvangst;LICH-krijgsvrouw
-- **verwijst_naar:** GEB-r10-eerste-strijdnacht;HUI-kaldra-Z6;RIT-strijdontvangst;LICH-krijgsvrouw;FASE-ontvangst
+- **hangt_samen_met:** GEB-r10-eerste-strijdnacht;HUI-kaldra;RIT-strijdontvangst-Z50;LICH-krijgsvrouw
+- **verwijst_naar:** GEB-r10-eerste-strijdnacht;HUI-kaldra-Z6;RIT-strijdontvangst-Z50;LICH-krijgsvrouw;FASE-ontvangst
 - **jaar:** 265
 - **tijdperk:** De Heilige Ontvangst
 - **intensiteit:** 
@@ -3999,8 +3999,8 @@
 - **waarom:** Ronde 10: actie-reactieketen
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-neven-ramp;RIT-nacht-duizend-lampen;VOOR-anoniem;KINK-nacht-duizend-lampen
-- **verwijst_naar:** GEB-r10-neven-ramp;RIT-nacht-duizend-lampen;VOOR-anoniem;KINK-nacht-duizend-lampen;FASE-ontvangst
+- **hangt_samen_met:** GEB-r10-neven-ramp;RIT-nacht-duizend-lampen-Z50;VOOR-anoniem-Z50;KINK-nacht-duizend-lampen
+- **verwijst_naar:** GEB-r10-neven-ramp;RIT-nacht-duizend-lampen-Z50;VOOR-anoniem-Z50;KINK-nacht-duizend-lampen;FASE-ontvangst
 - **jaar:** 280
 - **tijdperk:** De Heilige Ontvangst
 - **intensiteit:** 
@@ -4119,8 +4119,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-pest-340;RIT-melkrite;LICH-melkman;VOOR-melken;KINK-melkrite
-- **verwijst_naar:** GEB-pest-340;RIT-melkrite;LICH-melkman;VOOR-melken;KINK-melkrite;FASE-markt;HAAK-B1-6-1
+- **hangt_samen_met:** GEB-pest-340;RIT-melkrite-Z50;LICH-melkman;VOOR-melken-Z50;KINK-melkrite
+- **verwijst_naar:** GEB-pest-340;RIT-melkrite-Z50;LICH-melkman;VOOR-melken-Z50;KINK-melkrite;FASE-markt;HAAK-B1-6-1
 - **jaar:** 350
 - **tijdperk:** De Markt van het Lichaam
 - **intensiteit:** 
@@ -4149,8 +4149,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-melkstallen;RIT-oogstbed;KINK-oogstbed-loting
-- **verwijst_naar:** GEB-r10-melkstallen;RIT-oogstbed;KINK-oogstbed-loting;STAD-saelith;FASE-markt;KOE-opstand;HAAK-PER-erotiek
+- **hangt_samen_met:** GEB-r10-melkstallen;RIT-oogstbed-Z50;KINK-oogstbed-loting
+- **verwijst_naar:** GEB-r10-melkstallen;RIT-oogstbed-Z50;KINK-oogstbed-loting;STAD-saelith;FASE-markt;KOE-opstand;HAAK-PER-erotiek
 - **jaar:** 362
 - **tijdperk:** De Markt van het Lichaam
 - **intensiteit:** 
@@ -4209,8 +4209,8 @@
 - **waarom:** Ronde 10: actie-reactieketen
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-schaamte-hervorming;RIT-ketenwake;VOOR-vernedering;VOOR-exhibitionisme
-- **verwijst_naar:** GEB-r10-schaamte-hervorming;RIT-ketenwake;VOOR-vernedering;VOOR-exhibitionisme;FASE-markt
+- **hangt_samen_met:** GEB-r10-schaamte-hervorming;RIT-ketenwake-Z50;VOOR-vernedering-Z50;VOOR-exhibitionisme-Z50
+- **verwijst_naar:** GEB-r10-schaamte-hervorming;RIT-ketenwake-Z50;VOOR-vernedering-Z50;VOOR-exhibitionisme-Z50;FASE-markt
 - **jaar:** 420
 - **tijdperk:** De Markt van het Lichaam
 - **intensiteit:** 
@@ -4269,8 +4269,8 @@
 - **waarom:** Ronde 10: actie-reactieketen
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-qesh-512;GEB-r10-pest-qesh;PER-khaled;HUI-qesh;RIT-vuurgloed
-- **verwijst_naar:** GEB-qesh-512;GEB-r10-pest-qesh;PER-khaled;HUI-qesh-Z6;RIT-vuurgloed;STAD-qesh;FASE-markt
+- **hangt_samen_met:** GEB-qesh-512;GEB-r10-pest-qesh;PER-khaled;HUI-qesh;RIT-vuurgloed-Z50
+- **verwijst_naar:** GEB-qesh-512;GEB-r10-pest-qesh;PER-khaled;HUI-qesh-Z6;RIT-vuurgloed-Z50;STAD-qesh;FASE-markt
 - **jaar:** 512
 - **tijdperk:** De Markt van het Lichaam
 - **intensiteit:** 
@@ -4359,8 +4359,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEB-r10-tweede-pest), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-tweede-pest;RIT-tribunaal-drie;HUI-kaldra;HUI-varenne
-- **verwijst_naar:** GEB-r10-tweede-pest;RIT-tribunaal-drie;HUI-kaldra-Z6;HUI-varenne;STAD-saelith;HAAK-Z1-derdeweg-1
+- **hangt_samen_met:** GEB-r10-tweede-pest;RIT-tribunaal-drie-Z50;HUI-kaldra;HUI-varenne
+- **verwijst_naar:** GEB-r10-tweede-pest;RIT-tribunaal-drie-Z50;HUI-kaldra-Z6;HUI-varenne;STAD-saelith;HAAK-Z1-derdeweg-1
 - **jaar:** 640
 - **tijdperk:** De Markt van het Lichaam
 - **intensiteit:** 
@@ -4389,8 +4389,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-bloedmerk;GEB-r10-tribunaal;PER-liora;VOOR-verboden
-- **verwijst_naar:** GEB-r10-bloedmerk;GEB-r10-tribunaal;PER-liora-Z6-Z32;VOOR-verboden;STAD-saelith;HAAK-B1-5-3
+- **hangt_samen_met:** GEB-r10-bloedmerk;GEB-r10-tribunaal;PER-liora;VOOR-verboden-Z50
+- **verwijst_naar:** GEB-r10-bloedmerk;GEB-r10-tribunaal;PER-liora-Z6-Z32;VOOR-verboden-Z50;STAD-saelith;HAAK-B1-5-3
 - **jaar:** 680
 - **tijdperk:** De Markt van het Lichaam
 - **intensiteit:** 
@@ -4539,8 +4539,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)]
 - **status:** vastgesteld
 - **ronde:** 10
-- **hangt_samen_met:** GEB-r10-eerste-lek;GEB-r10-varnath-opkomst;PER-morvane;LICH-gebonden-lichaam;VOOR-dominante-man
-- **verwijst_naar:** GEB-r10-eerste-lek;GEB-r10-varnath-opkomst;PER-morvane;LICH-gebonden-lichaam;VOOR-dominante-man;FASE-barsten
+- **hangt_samen_met:** GEB-r10-eerste-lek;GEB-r10-varnath-opkomst;PER-morvane;LICH-gebonden-lichaam;VOOR-dominante-man-Z50
+- **verwijst_naar:** GEB-r10-eerste-lek;GEB-r10-varnath-opkomst;PER-morvane;LICH-gebonden-lichaam;VOOR-dominante-man-Z50;FASE-barsten
 - **jaar:** 735
 - **tijdperk:** De Barsten
 - **intensiteit:** 
@@ -4779,8 +4779,8 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)]
 - **status:** vastgesteld
 - **ronde:** 10
-- **hangt_samen_met:** GEB-bloednacht-788;RIT-zegelvoeding;GEB-deelwet-40;PER-morvane
-- **verwijst_naar:** GEB-bloednacht-788;RIT-zegelvoeding;GEB-deelwet-40;PER-morvane;STAD-saelith;FASE-barsten
+- **hangt_samen_met:** GEB-bloednacht-788;RIT-zegelvoeding-Z50;GEB-deelwet-40;PER-morvane
+- **verwijst_naar:** GEB-bloednacht-788;RIT-zegelvoeding-Z50;GEB-deelwet-40;PER-morvane;STAD-saelith;FASE-barsten
 - **jaar:** 789
 - **tijdperk:** De Barsten
 - **intensiteit:** 
@@ -4809,7 +4809,7 @@
 - **waarom:** Ronde 10: actie-reactieketen [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 10
-- **hangt_samen_met:** GEB-teo-801;GEB-r10-liora-geboorte;PER-liora;GEB-teo-801;RIT-wijding
+- **hangt_samen_met:** GEB-teo-801;GEB-r10-liora-geboorte;PER-liora;RIT-wijding
 - **verwijst_naar:** GEB-teo-801;GEB-r10-liora-geboorte;PER-liora-Z6-Z32;RIT-wijding;STAD-saelith;HAAK-techno-gave-3
 - **jaar:** 801
 - **tijdperk:** De Barsten
@@ -9549,7 +9549,7 @@
 - **waarom:** Ronde V4: mini-saga van de Makers
 - **status:** voorlopig
 - **ronde:** 26
-- **hangt_samen_met:** ORIGIN-4;ORIGIN-4;PER-v4-hesta-kael
+- **hangt_samen_met:** ORIGIN-4;PER-v4-hesta-kael
 - **verwijst_naar:** ORIGIN-4;PER-v4-hesta-kael
 - **jaar:** -1238
 - **tijdperk:** 0 Voortijd
@@ -12759,8 +12759,8 @@
 - **waarom:** Ronde Z6: bijgesteld na BESLUIT-Z6-WRIJ-051 [Z13 datering: jaar 130 (mediaan van 1 verwezen rijen)] [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 35
-- **hangt_samen_met:** FASE-ontvangst;MACHT-gaven-mannen;RIT-gunstnacht;BESLUIT-Z6-WRIJ-051
-- **verwijst_naar:** FASE-ontvangst;MACHT-gaven-mannen;RIT-gunstnacht;BESLUIT-Z6-WRIJ-051;VOOR-overgave;VOOR-binding;HAAK-B1-6-3
+- **hangt_samen_met:** FASE-ontvangst;MACHT-gaven-mannen;RIT-gunstnacht-Z50;BESLUIT-Z6-WRIJ-051
+- **verwijst_naar:** FASE-ontvangst;MACHT-gaven-mannen;RIT-gunstnacht-Z50;BESLUIT-Z6-WRIJ-051;VOOR-overgave;VOOR-binding-Z50;HAAK-B1-6-3
 - **jaar:** 130
 - **tijdperk:** 5 Ontvangst
 - **intensiteit:** 
@@ -13929,8 +13929,8 @@
 - **waarom:** Ronde Z41: verhalengraaf laten kloppen (architect, op verzoek van Rogier, 2026-11-01)
 - **status:** voorlopig
 - **ronde:** 70
-- **hangt_samen_met:** FASE-ontvangst;HUI-mirre;BEST-huis-mirre;OORLOG-Z9-16;RIT-gemaskerde-veiling
-- **verwijst_naar:** FASE-ontvangst;HUI-mirre;BEST-huis-mirre;OORLOG-Z9-16;RIT-gemaskerde-veiling
+- **hangt_samen_met:** FASE-ontvangst;HUI-mirre;BEST-huis-mirre;OORLOG-Z9-16;RIT-gemaskerde-veiling-Z50
+- **verwijst_naar:** FASE-ontvangst;HUI-mirre;BEST-huis-mirre;OORLOG-Z9-16;RIT-gemaskerde-veiling-Z50
 - **jaar:** 
 - **tijdperk:** 5 Ontvangst
 - **intensiteit:** 

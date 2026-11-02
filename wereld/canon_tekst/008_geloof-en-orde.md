@@ -69,7 +69,7 @@
 - **waarom:** De elite wil het zaad van gaven-mannen. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 1
-- **hangt_samen_met:** Macht; Orde
+- **hangt_samen_met:** Macht;Orde
 - **verwijst_naar:** MACHT-gaven-mannen;ORDE-orde;ORDE-rol-orde;REGEL-seksuele-normen;MACHT-twee-soorten-mannen;HAAK-techno-bio-2
 - **jaar:** 
 - **tijdperk:** 
@@ -99,7 +99,7 @@
 - **waarom:** Toegang is hun macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 1
-- **hangt_samen_met:** Inteelt; Afstamming
+- **hangt_samen_met:** Inteelt;Afstamming
 - **verwijst_naar:** MACHT-gaven-mannen;REGEL-registers-merken;MACHT-gewone-mannen;ORDE-doel-geloof;HAAK-Z1-harrow-2
 - **jaar:** 
 - **tijdperk:** 
@@ -129,7 +129,7 @@
 - **waarom:** Voorkomt inteelt bij honderden halfbroers en halfzussen. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 1
-- **hangt_samen_met:** Orde; Inteelt
+- **hangt_samen_met:** Orde;Inteelt
 - **verwijst_naar:** ORDE-orde;REGEL-nageslacht-per-man;ORDE-rol-orde;REGEL-verwantschapstaboe;HAAK-REG-zoutkust
 - **jaar:** 
 - **tijdperk:** 
@@ -339,8 +339,8 @@
 - **waarom:** Ronde G1: goden en machten [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 19
-- **hangt_samen_met:** GEB-ysa-oogstcultus;FASE-ontvangst;GEH-zegel;RIT-ontvangst
-- **verwijst_naar:** GEB-ysa-oogstcultus;FASE-ontvangst;BESLUIT-Z30-2;RIT-ontvangst;GELOOF-fase-1;HAAK-PER-erotiek
+- **hangt_samen_met:** GEB-ysa-oogstcultus;FASE-ontvangst;GEH-zegel;RIT-ontvangst-Z50
+- **verwijst_naar:** GEB-ysa-oogstcultus;FASE-ontvangst;BESLUIT-Z30-2;RIT-ontvangst-Z50;GELOOF-fase-1;HAAK-PER-erotiek
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -519,8 +519,8 @@
 - **waarom:** Ronde G1: leer: functie eerst [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;REGEL-seksuele-normen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 19
-- **hangt_samen_met:** REGEL-seksuele-normen;RIT-ontvangst;GEH-zegel
-- **verwijst_naar:** REGEL-seksuele-normen;RIT-ontvangst;BESLUIT-Z30-2
+- **hangt_samen_met:** REGEL-seksuele-normen;RIT-ontvangst-Z50;GEH-zegel
+- **verwijst_naar:** REGEL-seksuele-normen;RIT-ontvangst-Z50;BESLUIT-Z30-2
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -699,8 +699,8 @@
 - **waarom:** Ronde G1: leer: functie eerst
 - **status:** voorlopig
 - **ronde:** 19
-- **hangt_samen_met:** RIT-boeterite;RIT-schandpodium;WET-wetten-straffen
-- **verwijst_naar:** RIT-boeterite;RIT-schandpodium;WET-wetten-straffen
+- **hangt_samen_met:** RIT-boeterite-Z50;RIT-schandpodium-Z50;WET-wetten-straffen
+- **verwijst_naar:** RIT-boeterite-Z50;RIT-schandpodium-Z50;WET-wetten-straffen
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -969,8 +969,8 @@
 - **waarom:** Ronde G1: Orde-structuur
 - **status:** voorlopig
 - **ronde:** 19
-- **hangt_samen_met:** ORDE-orde;LIJN-drukmiddelen;RIT-tribunaal-drie
-- **verwijst_naar:** ORDE-orde;LIJN-drukmiddelen;RIT-tribunaal-drie
+- **hangt_samen_met:** ORDE-orde;LIJN-drukmiddelen;RIT-tribunaal-drie-Z50
+- **verwijst_naar:** ORDE-orde;LIJN-drukmiddelen;RIT-tribunaal-drie-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -999,8 +999,8 @@
 - **waarom:** Ronde G1: Orde-structuur
 - **status:** voorlopig
 - **ronde:** 19
-- **hangt_samen_met:** ORDE-orde;RIT-ontvangst
-- **verwijst_naar:** ORDE-orde;RIT-ontvangst
+- **hangt_samen_met:** ORDE-orde;RIT-ontvangst-Z50
+- **verwijst_naar:** ORDE-orde;RIT-ontvangst-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1119,8 +1119,8 @@
 - **waarom:** Ronde G1: Orde-structuur
 - **status:** voorlopig
 - **ronde:** 19
-- **hangt_samen_met:** HUI-kaldra;MACHT-leger;RIT-strijdontvangst
-- **verwijst_naar:** HUI-kaldra-Z6;MACHT-leger;RIT-strijdontvangst
+- **hangt_samen_met:** HUI-kaldra;MACHT-leger;RIT-strijdontvangst-Z50
+- **verwijst_naar:** HUI-kaldra-Z6;MACHT-leger;RIT-strijdontvangst-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1269,8 +1269,8 @@
 - **waarom:** Ronde G1: sekten en ketters
 - **status:** voorlopig
 - **ronde:** 19
-- **hangt_samen_met:** PER-morvane;RIT-bloedverbinding;GEB-bloednacht-788
-- **verwijst_naar:** PER-morvane;RIT-bloedverbinding;GEB-bloednacht-788
+- **hangt_samen_met:** PER-morvane;RIT-bloedverbinding-Z50;GEB-bloednacht-788
+- **verwijst_naar:** PER-morvane;RIT-bloedverbinding-Z50;GEB-bloednacht-788
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1359,8 +1359,8 @@
 - **waarom:** Ronde G1: sekten en ketters
 - **status:** voorlopig
 - **ronde:** 19
-- **hangt_samen_met:** FASE-barsten;GEB-zegel-verzwakt;RIT-nacht-duizend-lampen
-- **verwijst_naar:** FASE-barsten;GEB-Z41-zegel-flakkert;RIT-nacht-duizend-lampen
+- **hangt_samen_met:** FASE-barsten;GEB-zegel-verzwakt;RIT-nacht-duizend-lampen-Z50
+- **verwijst_naar:** FASE-barsten;GEB-Z41-zegel-flakkert;RIT-nacht-duizend-lampen-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1419,8 +1419,8 @@
 - **waarom:** Ronde G1: kalender [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 19
-- **hangt_samen_met:** GEB-zegel;RIT-ontvangst
-- **verwijst_naar:** GEB-zegel-gelegd;RIT-ontvangst;FEEST-lege-dag;FEEST-dochterdag;FEEST-lampenfeest;BESLUIT-Z30-2
+- **hangt_samen_met:** GEB-zegel;RIT-ontvangst-Z50
+- **verwijst_naar:** GEB-zegel-gelegd;RIT-ontvangst-Z50;FEEST-lege-dag;FEEST-dochterdag;FEEST-lampenfeest;BESLUIT-Z30-2
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1479,8 +1479,8 @@
 - **waarom:** Ronde G1: feestdagen
 - **status:** voorlopig
 - **ronde:** 19
-- **hangt_samen_met:** GOD-dochters-heiligen;RIT-ontvangst;KAL-kalender
-- **verwijst_naar:** GOD-dochters-heiligen;RIT-ontvangst;KAL-kalender
+- **hangt_samen_met:** GOD-dochters-heiligen;RIT-ontvangst-Z50;KAL-kalender
+- **verwijst_naar:** GOD-dochters-heiligen;RIT-ontvangst-Z50;KAL-kalender
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1509,8 +1509,8 @@
 - **waarom:** Ronde G1: feestdagen
 - **status:** voorlopig
 - **ronde:** 19
-- **hangt_samen_met:** RIT-nacht-duizend-lampen;PLEK-LICH-lampenfeest;KAL-kalender
-- **verwijst_naar:** RIT-nacht-duizend-lampen;PLEK-LICH-lampenfeest;KAL-kalender
+- **hangt_samen_met:** RIT-nacht-duizend-lampen-Z50;PLEK-LICH-lampenfeest;KAL-kalender
+- **verwijst_naar:** RIT-nacht-duizend-lampen-Z50;PLEK-LICH-lampenfeest;KAL-kalender
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1569,8 +1569,8 @@
 - **waarom:** Ronde G1: feestdagen
 - **status:** voorlopig
 - **ronde:** 19
-- **hangt_samen_met:** RIT-oogstbed;REG-ambergaard;KAL-kalender
-- **verwijst_naar:** RIT-oogstbed;REG-ambergaard;KAL-kalender
+- **hangt_samen_met:** RIT-oogstbed-Z50;REG-ambergaard;KAL-kalender
+- **verwijst_naar:** RIT-oogstbed-Z50;REG-ambergaard;KAL-kalender
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1629,8 +1629,8 @@
 - **waarom:** Ronde G1: feestdagen [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar KOE-melkos), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 19
-- **hangt_samen_met:** RIT-melkzegen;RIT-melkrite;KOE-melkos;KAL-kalender
-- **verwijst_naar:** RIT-melkzegen;RIT-melkrite;KOE-melkos;KAL-kalender
+- **hangt_samen_met:** RIT-melkzegen-Z50;RIT-melkrite-Z50;KOE-melkos;KAL-kalender
+- **verwijst_naar:** RIT-melkzegen-Z50;RIT-melkrite-Z50;KOE-melkos;KAL-kalender
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1659,8 +1659,8 @@
 - **waarom:** Ronde G1: feestdagen
 - **status:** voorlopig
 - **ronde:** 19
-- **hangt_samen_met:** PER-khaled;RIT-tweegelofte;KAL-kalender
-- **verwijst_naar:** PER-khaled;RIT-tweegelofte;KAL-kalender
+- **hangt_samen_met:** PER-khaled;RIT-tweegelofte-Z50;KAL-kalender
+- **verwijst_naar:** PER-khaled;RIT-tweegelofte-Z50;KAL-kalender
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1929,8 +1929,8 @@
 - **waarom:** Ronde G1: heilige voorwerpen
 - **status:** voorlopig
 - **ronde:** 19
-- **hangt_samen_met:** CUL-kleding;RIT-halsbandwissel
-- **verwijst_naar:** CUL-kleding;RIT-halsbandwissel
+- **hangt_samen_met:** CUL-kleding;RIT-halsbandwissel-Z50
+- **verwijst_naar:** CUL-kleding;RIT-halsbandwissel-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2709,8 +2709,8 @@
 - **waarom:** Ronde G1: functie economie
 - **status:** voorlopig
 - **ronde:** 19
-- **hangt_samen_met:** ECO-geld;RIT-ontvangst;RIT-melkrite;RIT-veiling;RIT-zaadcontract
-- **verwijst_naar:** ECO-geld;RIT-ontvangst;RIT-melkrite;RIT-veiling;RIT-zaadcontract
+- **hangt_samen_met:** ECO-geld;RIT-ontvangst-Z50;RIT-melkrite-Z50;RIT-veiling-Z50;RIT-zaadcontract-Z50
+- **verwijst_naar:** ECO-geld;RIT-ontvangst-Z50;RIT-melkrite-Z50;RIT-veiling-Z50;RIT-zaadcontract-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2739,8 +2739,8 @@
 - **waarom:** Ronde G1: functie lichaam [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar LIJN-overzicht), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 19
-- **hangt_samen_met:** LEER-drie-ringen;RIT-wijding;RIT-zegelvoeding;LIJN-overzicht
-- **verwijst_naar:** LEER-drie-ringen;RIT-wijding;RIT-zegelvoeding;LIJN-overzicht
+- **hangt_samen_met:** LEER-drie-ringen;RIT-wijding;RIT-zegelvoeding-Z50;LIJN-overzicht
+- **verwijst_naar:** LEER-drie-ringen;RIT-wijding;RIT-zegelvoeding-Z50;LIJN-overzicht
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2769,8 +2769,8 @@
 - **waarom:** Ronde G1: functie Zegel [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 19
-- **hangt_samen_met:** GEH-zegel;RIT-zegelvoeding;RIT-zegelbinding;RIT-zevenvoudige-ontvangst
-- **verwijst_naar:** BESLUIT-Z30-2;RIT-zegelvoeding;RIT-zegelbinding;RIT-zevenvoudige-ontvangst
+- **hangt_samen_met:** GEH-zegel;RIT-zegelvoeding-Z50;RIT-zegelbinding;RIT-zevenvoudige-ontvangst
+- **verwijst_naar:** BESLUIT-Z30-2;RIT-zegelvoeding-Z50;RIT-zegelbinding;RIT-zevenvoudige-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 

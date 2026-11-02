@@ -40,7 +40,7 @@
 - **status:** vastgesteld
 - **ronde:** 3
 - **hangt_samen_met:** Gaven-mannen
-- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-verslaving;PER-liora-Z6-Z32;REG-saelith;RIT-bloedverbinding;HAAK-G3-overzicht
+- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-verslaving;PER-liora-Z6-Z32;REG-saelith;RIT-bloedverbinding-Z50;HAAK-G3-overzicht
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -69,7 +69,7 @@
 - **waarom:** Duistere pool; verleiding met gevaar. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Gaven-mannen; Kharvos
+- **hangt_samen_met:** Gaven-mannen;Kharvos
 - **verwijst_naar:** BESLUIT-Z30-2;MACHT-gaven-mannen;MAGIE-verslaving;REG-kharvos-B1;REG-saelith;HAAK-REG-zoutkust
 - **jaar:** 
 - **tijdperk:** 
@@ -100,7 +100,7 @@
 - **status:** voorlopig
 - **ronde:** 3
 - **hangt_samen_met:** Qesh
-- **verwijst_naar:** KINK-harem-gunst;PER-liora-Z6-Z32;REG-rosse;VOOR-harem;VOOR-pijn-genot;HAAK-B1-3-3
+- **verwijst_naar:** KINK-harem-gunst;PER-liora-Z6-Z32;REG-rosse;VOOR-harem-Z50;VOOR-pijn-genot-Z50;HAAK-B1-3-3
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -129,7 +129,7 @@
 - **waarom:** Steun met eigen motief. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Huis Mirre; Orde
+- **hangt_samen_met:** Huis Mirre;Orde
 - **verwijst_naar:** BESLUIT-Z30-2;HUI-mirre;ORDE-orde;PER-liora-Z6-Z32;REG-zoutkust;STAD-brakhaven
 - **jaar:** 
 - **tijdperk:** 
@@ -159,7 +159,7 @@
 - **waarom:** Meerdere bedreigingen met verschillende motieven. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;REG-kharvos-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Orde; Huizen
+- **hangt_samen_met:** Orde;Huizen
 - **verwijst_naar:** BESLUIT-Z30-2;HUI-varenne;ORDE-orde;PER-gewone-mannen;PER-morvane;REG-kharvos-B1
 - **jaar:** 
 - **tijdperk:** 
@@ -189,7 +189,7 @@
 - **waarom:** Toont de ‘melkkoe’-kant en een man die zijn lot wil veranderen. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Gewone mannen; Verwantschap
+- **hangt_samen_met:** Gewone mannen;Verwantschap
 - **verwijst_naar:** BESLUIT-Z30-2;MACHT-gewone-mannen;ORDE-orde;ORDE-rol-orde;PER-liora-Z6-Z32;HAAK-Z1-derdeweg-3
 - **jaar:** 
 - **tijdperk:** 
@@ -9339,7 +9339,7 @@
 - **waarom:** Ronde Z4: belangrijk persoon per volk en fase
 - **status:** voorlopig
 - **ronde:** 33
-- **hangt_samen_met:** VOLK-karrûk;FASE-overvloed;VOLK-karrûk
+- **hangt_samen_met:** VOLK-karrûk;FASE-overvloed
 - **verwijst_naar:** VOLK-karrûk-Z6-Z38;FASE-overvloed
 - **jaar:** 
 - **tijdperk:** 
@@ -9579,8 +9579,8 @@
 - **waarom:** Ronde Z4: belangrijk persoon per volk en fase
 - **status:** voorlopig
 - **ronde:** 33
-- **hangt_samen_met:** RIT-strijdontvangst;VERHAAL-fase5;VOLK-karrûk
-- **verwijst_naar:** RIT-strijdontvangst;VERHAAL-fase5-Z36;VOLK-karrûk-Z6-Z38
+- **hangt_samen_met:** RIT-strijdontvangst-Z50;VERHAAL-fase5;VOLK-karrûk
+- **verwijst_naar:** RIT-strijdontvangst-Z50;VERHAAL-fase5-Z36;VOLK-karrûk-Z6-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10269,7 +10269,7 @@
 - **waarom:** Ronde Z4: belangrijk persoon per volk en fase [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar ORIGIN-3;VOLK-sael-mor), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 33
-- **hangt_samen_met:** ORIGIN-3;VOLK-sael-mor;VOLK-sael-mor
+- **hangt_samen_met:** ORIGIN-3;VOLK-sael-mor
 - **verwijst_naar:** ORIGIN-3;VOLK-sael-mor
 - **jaar:** 
 - **tijdperk:** 
@@ -10419,7 +10419,7 @@
 - **waarom:** Ronde Z4: belangrijk persoon per volk en fase [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-sael-mor), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 33
-- **hangt_samen_met:** VOLK-sael-mor;WRIJ-007;VOLK-sael-mor
+- **hangt_samen_met:** VOLK-sael-mor;WRIJ-007
 - **verwijst_naar:** VOLK-sael-mor;WRIJ-007
 - **jaar:** 
 - **tijdperk:** 
@@ -10839,7 +10839,7 @@
 - **waarom:** Ronde Z4: belangrijk persoon per volk en fase [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-grauwen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 33
-- **hangt_samen_met:** WRIJ-007;VOLK-grauwen;VOLK-grauwen
+- **hangt_samen_met:** WRIJ-007;VOLK-grauwen
 - **verwijst_naar:** WRIJ-007;VOLK-grauwen
 - **jaar:** 
 - **tijdperk:** 
@@ -11289,7 +11289,7 @@
 - **waarom:** Ronde Z4: belangrijk persoon per volk en fase [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-ishvar), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 33
-- **hangt_samen_met:** ORIGIN-5;VOLK-ishvar;VOLK-ishvar
+- **hangt_samen_met:** ORIGIN-5;VOLK-ishvar
 - **verwijst_naar:** ORIGIN-5;VOLK-ishvar
 - **jaar:** 
 - **tijdperk:** 
@@ -12069,7 +12069,7 @@
 - **waarom:** Ronde Z4: belangrijk persoon per volk en fase
 - **status:** voorlopig
 - **ronde:** 33
-- **hangt_samen_met:** GEB-zegel-gelegd;VOLK-vathren;VOLK-vathren
+- **hangt_samen_met:** GEB-zegel-gelegd;VOLK-vathren
 - **verwijst_naar:** GEB-zegel-gelegd;VOLK-vathren-Z6
 - **jaar:** 
 - **tijdperk:** 
@@ -12309,7 +12309,7 @@
 - **waarom:** Ronde Z4: belangrijk persoon per volk en fase
 - **status:** voorlopig
 - **ronde:** 33
-- **hangt_samen_met:** ORIGIN-4;VOLK-kluwer;VOLK-kluwer
+- **hangt_samen_met:** ORIGIN-4;VOLK-kluwer
 - **verwijst_naar:** ORIGIN-4;VOLK-kluwer
 - **jaar:** 
 - **tijdperk:** 
@@ -13329,7 +13329,7 @@
 - **waarom:** Ronde Z4: belangrijk persoon per volk en fase
 - **status:** voorlopig
 - **ronde:** 33
-- **hangt_samen_met:** ORIGIN-4;VOLK-oevrin;VOLK-oevrin
+- **hangt_samen_met:** ORIGIN-4;VOLK-oevrin
 - **verwijst_naar:** ORIGIN-4;VOLK-oevrin
 - **jaar:** 
 - **tijdperk:** 
@@ -15369,7 +15369,7 @@
 - **waarom:** Ronde Z4: belangrijk persoon per volk en fase
 - **status:** voorlopig
 - **ronde:** 33
-- **hangt_samen_met:** ORIGIN-WAAROM-8;VOLK-ves-lethi;VOLK-ves-lethi
+- **hangt_samen_met:** ORIGIN-WAAROM-8;VOLK-ves-lethi
 - **verwijst_naar:** ORIGIN-WAAROM-8;VOLK-ves-lethi-Z6
 - **jaar:** 
 - **tijdperk:** 
@@ -18909,8 +18909,8 @@
 - **waarom:** Ronde Z10: nerd/underdog die vereerd wordt (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-12;RECHT-tribunaal;VOLK-kluwer
-- **verwijst_naar:** KINK-Z8-12;RECHT-tribunaal;VOLK-kluwer
+- **hangt_samen_met:** KINK-Z8-12-Z50;RECHT-tribunaal;VOLK-kluwer
+- **verwijst_naar:** KINK-Z8-12-Z50;RECHT-tribunaal;VOLK-kluwer
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -19119,8 +19119,8 @@
 - **waarom:** Ronde Z10: nerd/underdog die vereerd wordt (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** ECO-prijzen-mannen-zaad;KINK-Z8-47;ECO-geld
-- **verwijst_naar:** ECO-prijzen-mannen-zaad;KINK-Z8-47;ECO-geld
+- **hangt_samen_met:** ECO-prijzen-mannen-zaad;KINK-Z8-47-Z50;ECO-geld
+- **verwijst_naar:** ECO-prijzen-mannen-zaad;KINK-Z8-47-Z50;ECO-geld
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -19419,8 +19419,8 @@
 - **waarom:** Ronde Z10: nerd/underdog die vereerd wordt (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-huis-mirre), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** BEST-huis-mirre;STAD-isla-mirre;KINK-Z8-38
-- **verwijst_naar:** BEST-huis-mirre;STAD-isla-mirre;KINK-Z8-38
+- **hangt_samen_met:** BEST-huis-mirre;STAD-isla-mirre;KINK-Z8-38-Z50
+- **verwijst_naar:** BEST-huis-mirre;STAD-isla-mirre;KINK-Z8-38-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -19629,8 +19629,8 @@
 - **waarom:** Ronde Z10: nerd/underdog die vereerd wordt (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-skerra;HORROR-Z9-3;KINK-Z8-54
-- **verwijst_naar:** VOLK-skerra;HORROR-Z9-3;KINK-Z8-54
+- **hangt_samen_met:** VOLK-skerra;HORROR-Z9-3;KINK-Z8-54-Z50
+- **verwijst_naar:** VOLK-skerra;HORROR-Z9-3;KINK-Z8-54-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -19749,8 +19749,8 @@
 - **waarom:** Ronde Z10: morele degeneratie (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-huis-varenne), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** BEST-huis-varenne;GELD-gunstbrief-crash;KINK-Z8-48
-- **verwijst_naar:** BEST-huis-varenne;GELD-gunstbrief-crash;KINK-Z8-48
+- **hangt_samen_met:** BEST-huis-varenne;GELD-gunstbrief-crash;KINK-Z8-48-Z50
+- **verwijst_naar:** BEST-huis-varenne;GELD-gunstbrief-crash;KINK-Z8-48-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -19899,8 +19899,8 @@
 - **waarom:** Ronde Z10: morele degeneratie (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-20;WET-wie-gewone-man;OORLOG-Z9-36
-- **verwijst_naar:** KINK-Z8-20;WET-wie-gewone-man;OORLOG-Z9-36
+- **hangt_samen_met:** KINK-Z8-20-Z50;WET-wie-gewone-man;OORLOG-Z9-36
+- **verwijst_naar:** KINK-Z8-20-Z50;WET-wie-gewone-man;OORLOG-Z9-36
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -20079,8 +20079,8 @@
 - **waarom:** Ronde Z10: morele degeneratie (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-karrûk;KINK-Z8-18;OORLOG-Z9-22
-- **verwijst_naar:** VOLK-karrûk-Z6-Z38;KINK-Z8-18;OORLOG-Z9-22
+- **hangt_samen_met:** VOLK-karrûk;KINK-Z8-18-Z50;OORLOG-Z9-22
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;KINK-Z8-18-Z50;OORLOG-Z9-22
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -20109,8 +20109,8 @@
 - **waarom:** Ronde Z10: morele degeneratie (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-myrrhen;KINK-Z8-55;SEKTE-vleesgemeente
-- **verwijst_naar:** VOLK-myrrhen-Z6;KINK-Z8-55;SEKTE-vleesgemeente
+- **hangt_samen_met:** VOLK-myrrhen;KINK-Z8-55-Z50;SEKTE-vleesgemeente
+- **verwijst_naar:** VOLK-myrrhen-Z6;KINK-Z8-55-Z50;SEKTE-vleesgemeente
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -20199,8 +20199,8 @@
 - **waarom:** Ronde Z10: morele degeneratie (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-geheim-varennekring), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-58;BEST-geheim-varennekring;ORDE-stille-hand
-- **verwijst_naar:** KINK-Z8-58;BEST-geheim-varennekring;ORDE-stille-hand
+- **hangt_samen_met:** KINK-Z8-58-Z50;BEST-geheim-varennekring;ORDE-stille-hand
+- **verwijst_naar:** KINK-Z8-58-Z50;BEST-geheim-varennekring;ORDE-stille-hand
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -20619,8 +20619,8 @@
 - **waarom:** Ronde Z10: morele degeneratie (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-dhurn), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-dhurn;KINK-Z8-15;HELD-Z10-10
-- **verwijst_naar:** VOLK-dhurn;KINK-Z8-15;HELD-Z10-10
+- **hangt_samen_met:** VOLK-dhurn;KINK-Z8-15-Z50;HELD-Z10-10
+- **verwijst_naar:** VOLK-dhurn;KINK-Z8-15-Z50;HELD-Z10-10
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 

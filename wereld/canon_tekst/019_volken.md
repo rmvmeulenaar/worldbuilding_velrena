@@ -69,7 +69,7 @@
 - **waarom:** Ronde 13: volken, functie eerst [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)] [Z13 datering: jaar 801 (volksbeschrijving: stand in 801)] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 13
-- **hangt_samen_met:** REG-hoogvrouwe;GEB-orric-vonk;GEB-r10-eerste-vervorming;LICH-bloedspiegel;LICH-merkweefsel;LICH-orric-steen;LICH-vreemdbloed;VOOR-uithouding;VOOR-verboden;VOOR-binding;PLEK-LICH-ves-anath;PLEK-LICH-pelgrimsweg;FUNC-ECO;FUNC-INFO
+- **hangt_samen_met:** REG-hoogvrouwe;GEB-orric-vonk;GEB-r10-eerste-vervorming;LICH-bloedspiegel;LICH-merkweefsel;LICH-orric-steen;LICH-vreemdbloed;VOOR-uithouding-Z50;VOOR-verboden-Z50;VOOR-binding-Z50;PLEK-LICH-ves-anath;PLEK-LICH-pelgrimsweg;FUNC-ECO;FUNC-INFO
 - **verwijst_naar:** REG-hoogvrouwe;GEB-orric-vonk;GEB-r10-eerste-vervorming;LICH-bloedspiegel;LICH-merkweefsel;LICH-orric-steen;HAAK-Z17-zegel-6
 - **jaar:** 801
 - **tijdperk:** 801 (nu); beschrijving geldt in 801
@@ -99,8 +99,8 @@
 - **waarom:** Ronde 13: volken, functie eerst [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)] [Z13 datering: jaar 801 (volksbeschrijving: stand in 801)] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 13
-- **hangt_samen_met:** HUI-mirre;HUI-varenne;REG-zoutkust;LICH-vreemdbloed;LICH-gijzelaarsband;VOOR-reiziger;VOOR-anoniem;VOOR-groep;VOOR-handel;PLEK-LICH-mirre-havens;PLEK-LICH-nevel;FUNC-DIPLO;FUNC-ECO
-- **verwijst_naar:** HUI-mirre;HUI-varenne;REG-zoutkust;LICH-vreemdbloed;LICH-gijzelaarsband;VOOR-reiziger;HAAK-B1-3-4
+- **hangt_samen_met:** HUI-mirre;HUI-varenne;REG-zoutkust;LICH-vreemdbloed;LICH-gijzelaarsband;VOOR-reiziger-Z50;VOOR-anoniem-Z50;VOOR-groep-Z50;VOOR-handel-Z50;PLEK-LICH-mirre-havens;PLEK-LICH-nevel;FUNC-DIPLO;FUNC-ECO
+- **verwijst_naar:** HUI-mirre;HUI-varenne;REG-zoutkust;LICH-vreemdbloed;LICH-gijzelaarsband;VOOR-reiziger-Z50;HAAK-B1-3-4
 - **jaar:** 801
 - **tijdperk:** 801 (nu); beschrijving geldt in 801
 - **intensiteit:** 
@@ -129,7 +129,7 @@
 - **waarom:** Ronde 13: volken, functie eerst [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)] [Z13 datering: jaar 801 (volksbeschrijving: stand in 801)] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 13
-- **hangt_samen_met:** REG-groenmuil;GEB-r10-neven-ramp;LICH-lampenkinderen;LICH-bloedspiegel;LICH-vergane-zonen;VOOR-teder;VOOR-verboden;PLEK-LICH-lampenfeest;PLEK-LICH-stille-klooster;FUNC-AFSCHR;FUNC-SELECT
+- **hangt_samen_met:** REG-groenmuil;GEB-r10-neven-ramp;LICH-lampenkinderen;LICH-bloedspiegel;LICH-vergane-zonen;VOOR-teder;VOOR-verboden-Z50;PLEK-LICH-lampenfeest;PLEK-LICH-stille-klooster;FUNC-AFSCHR;FUNC-SELECT
 - **verwijst_naar:** REG-groenmuil;GEB-r10-neven-ramp;LICH-lampenkinderen;LICH-bloedspiegel;LICH-vergane-zonen;VOOR-teder;HAAK-REG-hoogvrouwe
 - **jaar:** 801
 - **tijdperk:** 801 (nu); beschrijving geldt in 801
@@ -159,7 +159,7 @@
 - **waarom:** Ronde 13: volken, functie eerst [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)] [Z13 datering: jaar 801 (volksbeschrijving: stand in 801)] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 13
-- **hangt_samen_met:** REG-rosse;HUI-qesh;PER-khaled;GEB-r10-qesh-afwijking;GEB-r10-khaled-pact;RIT-tweegelofte;VOOR-teder;PLEK-LICH-qesh;FUNC-INFO;FUNC-POL
+- **hangt_samen_met:** REG-rosse;HUI-qesh;PER-khaled;GEB-r10-qesh-afwijking;GEB-r10-khaled-pact;RIT-tweegelofte-Z50;VOOR-teder;PLEK-LICH-qesh;FUNC-INFO;FUNC-POL
 - **verwijst_naar:** REG-rosse;HUI-qesh-Z6;PER-khaled;GEB-r10-qesh-afwijking;GEB-r10-khaled-pact;HAAK-B1-5-2
 - **jaar:** 801
 - **tijdperk:** 801 (nu); beschrijving geldt in 801
@@ -429,7 +429,7 @@
 - **waarom:** Ronde V5: vervangt VOLK-aelthir [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)] [Z13 datering: jaar 801 (volksbeschrijving: stand in 801)] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 27
-- **hangt_samen_met:** VOLK-aelthir;HUI-mirre;REG-stille;GEB-sterrensteen-inslag;LICH-leegteziekte;VOOR-teder;VOOR-ritueel;VOOR-oudere-vrouw;PLEK-LICH-nevel;PLEK-LICH-stille-klooster;FUNC-INFO;FUNC-DIPLO;REG-hoogvrouwe
+- **hangt_samen_met:** VOLK-aelthir;HUI-mirre;REG-stille;GEB-sterrensteen-inslag;LICH-leegteziekte;VOOR-teder;VOOR-ritueel-Z50;VOOR-oudere-vrouw-Z50;PLEK-LICH-nevel;PLEK-LICH-stille-klooster;FUNC-INFO;FUNC-DIPLO;REG-hoogvrouwe
 - **verwijst_naar:** VOLK-aelthir-V5;HUI-mirre;REG-stille;GEB-Z17-sterrensteen-inslag;LICH-leegteziekte;VOOR-teder;HAAK-V5-zegel-4
 - **jaar:** 801
 - **tijdperk:** 801 (nu); beschrijving geldt in 801, oorsprong ca. -1230
@@ -459,7 +459,7 @@
 - **waarom:** Ronde Z6: bijgesteld na BESLUIT-Z6-WRIJ-064 [Z13 datering: jaar 801 (volksbeschrijving: stand in 801)] [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEB-r10-lekgeboorten), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 35
-- **hangt_samen_met:** REG-hoogvrouwe;LICH-zegelgeboorte;GEB-r10-lekgeboorten;PER-morvane;PER-liora;VOOR-geest;VOOR-pijn-genot;PLEK-LICH-jongenshof;PLEK-LICH-ves-anath;FUNC-INFO;FUNC-REL;BESLUIT-Z6-WRIJ-064
+- **hangt_samen_met:** REG-hoogvrouwe;LICH-zegelgeboorte;GEB-r10-lekgeboorten;PER-morvane;PER-liora;VOOR-geest-Z50;VOOR-pijn-genot-Z50;PLEK-LICH-jongenshof;PLEK-LICH-ves-anath;FUNC-INFO;FUNC-REL;BESLUIT-Z6-WRIJ-064
 - **verwijst_naar:** REG-hoogvrouwe;LICH-zegelgeboorte-Z6;GEB-r10-lekgeboorten;PER-morvane;PER-liora-Z6-Z32;HAAK-techno-metaal-2
 - **jaar:** 801
 - **tijdperk:** 801 (nu); beschrijving geldt in 801

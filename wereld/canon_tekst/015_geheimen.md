@@ -39,7 +39,7 @@
 - **waarom:** Laag met dubbele bodem: een zegel breken kost de gaven-mannen hun macht.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Geheim; Magie
+- **hangt_samen_met:** Geheim;Magie
 - **verwijst_naar:** BESLUIT-Z30-2;GES-officiele-versie;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde
 - **jaar:** 
 - **tijdperk:** 

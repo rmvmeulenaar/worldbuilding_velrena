@@ -10,7 +10,7 @@
 - **status:** voorlopig
 - **ronde:** 3
 - **hangt_samen_met:** Demografie
-- **verwijst_naar:** REGEL-overwegend-vrouwelijke-wereld;RIT-maanzalving;RIT-tweegelofte
+- **verwijst_naar:** REGEL-overwegend-vrouwelijke-wereld;RIT-maanzalving-Z50;RIT-tweegelofte-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -39,7 +39,7 @@
 - **waarom:** Verklaart hoe gaven-mannen en gewone mannen hun pad krijgen; houdt de grens van 18+ hard.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Gaven-mannen; Gewone mannen
+- **hangt_samen_met:** Gaven-mannen;Gewone mannen
 - **verwijst_naar:** MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;ORDE-rol-orde;RIT-wijding
 - **jaar:** 
 - **tijdperk:** 
@@ -159,7 +159,7 @@
 - **waarom:** Scheidt lust en kracht van voortplanting, wat meer situaties oplevert.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Magie; Demografie
+- **hangt_samen_met:** Magie;Demografie
 - **verwijst_naar:** MAGIE-kracht-duur;ORDE-orde
 - **jaar:** 
 - **tijdperk:** 
@@ -189,7 +189,7 @@
 - **waarom:** Mode toont verlangen en macht in één oogopslag; volgt uit: Sjerp-signalen; overwegend vrouwelijke wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Sjerp-signalen; overwegend vrouwelijke wereld
+- **hangt_samen_met:** Sjerp-signalen;overwegend vrouwelijke wereld
 - **verwijst_naar:** KINK-sjerp-signalen;MAGIE-kracht-duur;REGEL-overwegend-vrouwelijke-wereld
 - **jaar:** 
 - **tijdperk:** 
@@ -220,7 +220,7 @@
 - **status:** vastgesteld
 - **ronde:** 3
 - **hangt_samen_met:** Gewone mannen als bezit
-- **verwijst_naar:** MACHT-gewone-mannen;ORDE-orde;ORDE-rol-orde;PER-gewone-mannen;PER-liora-Z6-Z32;RIT-rolwisseling;RIT-wijding
+- **verwijst_naar:** MACHT-gewone-mannen;ORDE-orde;ORDE-rol-orde;PER-gewone-mannen;PER-liora-Z6-Z32;RIT-rolwisseling-Z50;RIT-wijding
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -279,7 +279,7 @@
 - **waarom:** Mode toont verlangen en macht in één oogopslag; volgt uit: Registers en merken; Liora. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Registers en merken; Liora
+- **hangt_samen_met:** Registers en merken;Liora
 - **verwijst_naar:** MACHT-gaven-mannen;PER-liora-Z6-Z32;REGEL-registers-merken;RITE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
@@ -309,7 +309,7 @@
 - **waarom:** Mode toont verlangen en macht in één oogopslag; volgt uit: Inwijding; Ontvangst.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Inwijding; Ontvangst
+- **hangt_samen_met:** Inwijding;Ontvangst
 - **verwijst_naar:** ORDE-orde;RITE-inwijding;RITE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
@@ -339,7 +339,7 @@
 - **waarom:** Mode toont verlangen en macht in één oogopslag; volgt uit: Wachtrij-verleiding; Harem-gunst.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Wachtrij-verleiding; Harem-gunst
+- **hangt_samen_met:** Wachtrij-verleiding;Harem-gunst
 - **verwijst_naar:** KINK-harem-gunst;KINK-wachtrij-verleiding
 - **jaar:** 
 - **tijdperk:** 
@@ -369,7 +369,7 @@
 - **waarom:** Mode toont verlangen en macht in één oogopslag; volgt uit: Regio’s; Huizen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Regio’s; Huizen
+- **hangt_samen_met:** Regio’s;Huizen
 - **verwijst_naar:** HUI-kaldra-Z6;HUI-mirre;HUI-varenne;REG-ambergaard;REG-groenmuil;REG-hoogvrouwe;REG-rosse;REG-saelith;REG-zoutkust;STAD-saelith;STAD-qesh
 - **jaar:** 
 - **tijdperk:** 
@@ -399,7 +399,7 @@
 - **waarom:** Mode toont verlangen en macht in één oogopslag; volgt uit: Macht; Religie. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar ORDE-doel-geloof), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Macht; Religie
+- **hangt_samen_met:** Macht;Religie
 - **verwijst_naar:** CUL-kleding;ORDE-doel-geloof
 - **jaar:** 
 - **tijdperk:** 
@@ -699,8 +699,8 @@
 - **waarom:** Ronde G3: dagelijks leven
 - **status:** voorlopig
 - **ronde:** 21
-- **hangt_samen_met:** RIT-veiling
-- **verwijst_naar:** RIT-veiling
+- **hangt_samen_met:** RIT-veiling-Z50
+- **verwijst_naar:** RIT-veiling-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1329,8 +1329,8 @@
 - **waarom:** Ronde G3: dagelijks leven
 - **status:** voorlopig
 - **ronde:** 21
-- **hangt_samen_met:** DAG-vervoer;RIT-reizigersgroet
-- **verwijst_naar:** DAG-vervoer;RIT-reizigersgroet
+- **hangt_samen_met:** DAG-vervoer;RIT-reizigersgroet-Z50
+- **verwijst_naar:** DAG-vervoer;RIT-reizigersgroet-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 

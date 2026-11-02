@@ -39,7 +39,7 @@
 - **waarom:** Geeft de reis een klok, een vijand en een morele keuze. [Z13 datering: jaar 801 (heden (801) genoemd of Liora-lijn)]
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Geheim; Personages
+- **hangt_samen_met:** Geheim;Personages
 - **verwijst_naar:** BESLUIT-Z30-2;ORDE-orde;ORDE-rol-orde;PER-gewone-mannen;PER-liora-Z6-Z32;PER-morvane;REG-kharvos-B1
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
@@ -69,8 +69,8 @@
 - **waarom:** Elke etappe heeft een eigen geladen scène en een eigen regio. [Z13 datering: jaar 530 (fasenaam "markt" in de tekst)]
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Regio’s; Riten
-- **verwijst_naar:** BESLUIT-Z30-2;HUI-mirre;KINK-nacht-duizend-lampen;KINK-strijdontvangst;KINK-zwijgende-rit;MACHT-gaven-mannen;MAGIE-verslaving;ORDE-orde;PER-aeron;PER-gewone-mannen;PER-khaled;PER-liora-Z6-Z32;PER-morvane;REG-ambergaard;REG-groenmuil;REG-hoogvrouwe;REG-kharvos-B1;REG-rosse;REG-saelith;REG-zoutkust;RIT-nacht-duizend-lampen;RIT-oogstbed;RIT-zwijgende-rit;STAD-saelith;STAD-hallowyn;STAD-kaldrun;STAD-brakhaven;STAD-qesh
+- **hangt_samen_met:** Regio’s;Riten
+- **verwijst_naar:** BESLUIT-Z30-2;HUI-mirre;KINK-nacht-duizend-lampen;KINK-strijdontvangst;KINK-zwijgende-rit;MACHT-gaven-mannen;MAGIE-verslaving;ORDE-orde;PER-aeron;PER-gewone-mannen;PER-khaled;PER-liora-Z6-Z32;PER-morvane;REG-ambergaard;REG-groenmuil;REG-hoogvrouwe;REG-kharvos-B1;REG-rosse;REG-saelith;REG-zoutkust;RIT-nacht-duizend-lampen-Z50;RIT-oogstbed-Z50;RIT-zwijgende-rit-Z50;STAD-saelith;STAD-hallowyn;STAD-kaldrun;STAD-brakhaven;STAD-qesh
 - **jaar:** 530
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -8170,7 +8170,7 @@
 - **status:** voorlopig
 - **ronde:** 29
 - **hangt_samen_met:** BESLUIT-2
-- **verwijst_naar:** BESLUIT-2;ORIGIN-10-Z36;RIT-ontvangst
+- **verwijst_naar:** BESLUIT-2;ORIGIN-10-Z36;RIT-ontvangst-Z50
 - **jaar:** 801
 - **tijdperk:** na 801 (skelet)
 - **intensiteit:** 
@@ -8380,7 +8380,7 @@
 - **status:** voorlopig
 - **ronde:** 29
 - **hangt_samen_met:** BESLUIT-5
-- **verwijst_naar:** BESLUIT-5;ORDE-orde;RIT-ontvangst;REG-ambergaard
+- **verwijst_naar:** BESLUIT-5;ORDE-orde;RIT-ontvangst-Z50;REG-ambergaard
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -8770,7 +8770,7 @@
 - **status:** voorlopig
 - **ronde:** 30
 - **hangt_samen_met:** BESLUIT-Z1-derdeweg
-- **verwijst_naar:** BESLUIT-Z32-11;ORIGIN-10-Z36;RIT-ontvangst
+- **verwijst_naar:** BESLUIT-Z32-11;ORIGIN-10-Z36;RIT-ontvangst-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -11229,8 +11229,8 @@
 - **waarom:** Ronde Z10: comedyskelet [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** ORDE-stille-hand;KINK-Z8-32;STAD-saelith
-- **verwijst_naar:** ORDE-stille-hand;KINK-Z8-32;STAD-saelith
+- **hangt_samen_met:** ORDE-stille-hand;KINK-Z8-32-Z50;STAD-saelith
+- **verwijst_naar:** ORDE-stille-hand;KINK-Z8-32-Z50;STAD-saelith
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -11259,8 +11259,8 @@
 - **waarom:** Ronde Z10: comedyskelet [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** WET-deelwet-recht;KINK-Z8-5;ACTIE-Z9-1
-- **verwijst_naar:** WET-deelwet-recht;KINK-Z8-5;ACTIE-Z9-1
+- **hangt_samen_met:** WET-deelwet-recht;KINK-Z8-5-Z50;ACTIE-Z9-1
+- **verwijst_naar:** WET-deelwet-recht;KINK-Z8-5-Z50;ACTIE-Z9-1
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -11319,8 +11319,8 @@
 - **waarom:** Ronde Z10: comedyskelet [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** BEST-huis-mirre;STAD-isla-mirre;KINK-Z8-58
-- **verwijst_naar:** BEST-huis-mirre;STAD-isla-mirre;KINK-Z8-58
+- **hangt_samen_met:** BEST-huis-mirre;STAD-isla-mirre;KINK-Z8-58-Z50
+- **verwijst_naar:** BEST-huis-mirre;STAD-isla-mirre;KINK-Z8-58-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -11379,8 +11379,8 @@
 - **waarom:** Ronde Z10: comedyskelet [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** BEST-gavenmannen;KINK-Z8-10;VOLK-aelthir
-- **verwijst_naar:** BEST-gavenmannen;KINK-Z8-10;VOLK-aelthir-V5
+- **hangt_samen_met:** BEST-gavenmannen;KINK-Z8-10-Z50;VOLK-aelthir
+- **verwijst_naar:** BEST-gavenmannen;KINK-Z8-10-Z50;VOLK-aelthir-V5
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -11559,8 +11559,8 @@
 - **waarom:** Ronde Z10: romantiekskelet [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)] [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-aelthir-V5;VOLK-ishvar), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-aelthir;VOLK-ishvar;KINK-Z8-10
-- **verwijst_naar:** VOLK-aelthir-V5;VOLK-ishvar;KINK-Z8-10
+- **hangt_samen_met:** VOLK-aelthir;VOLK-ishvar;KINK-Z8-10-Z50
+- **verwijst_naar:** VOLK-aelthir-V5;VOLK-ishvar;KINK-Z8-10-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -11859,8 +11859,8 @@
 - **waarom:** Ronde Z10: heldenskelet [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)] [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-leger;VOLK-dhurn), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-dhurn;KINK-Z8-15;BEST-leger
-- **verwijst_naar:** VOLK-dhurn;KINK-Z8-15;BEST-leger
+- **hangt_samen_met:** VOLK-dhurn;KINK-Z8-15-Z50;BEST-leger
+- **verwijst_naar:** VOLK-dhurn;KINK-Z8-15-Z50;BEST-leger
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -12579,8 +12579,8 @@
 - **waarom:** Ronde Z10: ontwakingsskelet [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** BEST-register;STAD-saelith;KINK-Z8-56
-- **verwijst_naar:** BEST-register;STAD-saelith;KINK-Z8-56
+- **hangt_samen_met:** BEST-register;STAD-saelith;KINK-Z8-56-Z50
+- **verwijst_naar:** BEST-register;STAD-saelith;KINK-Z8-56-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -12669,8 +12669,8 @@
 - **waarom:** Ronde Z10: ontwakingsskelet [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** STAD-brakhaven;KINK-Z8-40;DAG-werk
-- **verwijst_naar:** STAD-brakhaven;KINK-Z8-40;DAG-werk
+- **hangt_samen_met:** STAD-brakhaven;KINK-Z8-40-Z50;DAG-werk
+- **verwijst_naar:** STAD-brakhaven;KINK-Z8-40-Z50;DAG-werk
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -12729,8 +12729,8 @@
 - **waarom:** Ronde Z10: ontwakingsskelet [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** ORDE-rangen;KINK-Z8-19;HELD-Z10-9
-- **verwijst_naar:** ORDE-rangen;KINK-Z8-19;HELD-Z10-9
+- **hangt_samen_met:** ORDE-rangen;KINK-Z8-19-Z50;HELD-Z10-9
+- **verwijst_naar:** ORDE-rangen;KINK-Z8-19-Z50;HELD-Z10-9
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -12759,8 +12759,8 @@
 - **waarom:** Ronde Z10: ontwakingsskelet [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** BEST-raad-moeders;EROS-RAUW-Z7-16;KINK-Z8-49
-- **verwijst_naar:** BEST-raad-moeders;EROS-RAUW-Z7-16;KINK-Z8-49
+- **hangt_samen_met:** BEST-raad-moeders;EROS-RAUW-Z7-16;KINK-Z8-49-Z50
+- **verwijst_naar:** BEST-raad-moeders;EROS-RAUW-Z7-16;KINK-Z8-49-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -26139,8 +26139,8 @@
 - **waarom:** Ronde Z36, stap 0: besluit van Rogier (bij overhandiging van OPDRACHT_architect_Z36.md, 2026-11-01: "Je moet dit doen.. en dan wordt het getest") (VOORSTEL-Z35-verhaal-5)
 - **status:** vastgesteld
 - **ronde:** 65
-- **hangt_samen_met:** GEB-stille-schisma;GEB-r10-zegellicht-eet;VALS-ontvangst-Z36;PER-f5-liane;RIT-ontvangst
-- **verwijst_naar:** GEB-stille-schisma;GEB-r10-zegellicht-eet;VALS-ontvangst-Z36;PER-f5-liane;RIT-ontvangst
+- **hangt_samen_met:** GEB-stille-schisma;GEB-r10-zegellicht-eet;VALS-ontvangst-Z36;PER-f5-liane;RIT-ontvangst-Z50
+- **verwijst_naar:** GEB-stille-schisma;GEB-r10-zegellicht-eet;VALS-ontvangst-Z36;PER-f5-liane;RIT-ontvangst-Z50
 - **jaar:** 
 - **tijdperk:** 5 Ontvangst
 - **intensiteit:** 

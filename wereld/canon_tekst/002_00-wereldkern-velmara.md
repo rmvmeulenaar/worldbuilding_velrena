@@ -21,7 +21,7 @@ Erotische dark fantasy voor volwassenen (alle seksuele deelnemers 18+; dwang all
 17. Geschiedenis: -600 tot 801, jaar 0 = de Zegel; 7 fasen als systeem (FASE-...; oude TIJD-rijen zijn vervallen), gebeurtenissen GEB-...; voorkeuren VOOR-... met intensiteit 1-5; body horror LICH-...: het lichaam betaalt voor macht.
 18. Queeste: Liora brengt Teo naar Ves-Anath (QST-doel-reden-gevaar).
 
-**Status:** 2025 rijen vastgesteld (volgen uit Rogiers keuzes), 5459 voorlopig (moeten nog worden goedgekeurd).
+**Status:** 2025 rijen vastgesteld (volgen uit Rogiers keuzes), 5690 voorlopig (moeten nog worden goedgekeurd).
 **Verder lezen:** INDEX → DOMEINEN → WRIJVINGEN. Voor één scène: een uittreksel van de gevraagde codes plus hun verwijzingen.
 
 <!-- SECTIE: INDEX -->

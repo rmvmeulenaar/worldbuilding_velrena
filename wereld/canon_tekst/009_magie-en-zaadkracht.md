@@ -99,7 +99,7 @@
 - **waarom:** Afhankelijkheid geeft donkere inzet en macht. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Gaven-mannen; Verhaal
+- **hangt_samen_met:** Gaven-mannen;Verhaal
 - **verwijst_naar:** MACHT-gaven-mannen;REG-saelith;PER-aeron;PER-morvane;HAAK-Z1-harrow-2
 - **jaar:** 
 - **tijdperk:** 
@@ -639,8 +639,8 @@
 - **waarom:** Ronde Z2: zintuiglijke verdieping Magie
 - **status:** voorlopig
 - **ronde:** 31
-- **hangt_samen_met:** MAGIE-verslaving;VOOR-binding
-- **verwijst_naar:** MAGIE-verslaving;VOOR-binding
+- **hangt_samen_met:** MAGIE-verslaving;VOOR-binding-Z50
+- **verwijst_naar:** MAGIE-verslaving;VOOR-binding-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -999,8 +999,8 @@
 - **waarom:** Ronde Z37: besluit van Rogier (bij overhandiging van OPDRACHT_architect_Z37.md, 2026-11-01) (D3, gaven-stelsel; voorstel)
 - **status:** voorlopig
 - **ronde:** 66
-- **hangt_samen_met:** ROMAN-Z16-roman-Z32;RIT-stormontlading;MAGIE-wat-gaven-man;BESLUIT-Z37-1
-- **verwijst_naar:** ROMAN-Z16-roman-Z32;RIT-stormontlading;MAGIE-wat-gaven-man;BESLUIT-Z37-1
+- **hangt_samen_met:** ROMAN-Z16-roman-Z32;RIT-stormontlading-Z50;MAGIE-wat-gaven-man;BESLUIT-Z37-1
+- **verwijst_naar:** ROMAN-Z16-roman-Z32;RIT-stormontlading-Z50;MAGIE-wat-gaven-man;BESLUIT-Z37-1
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1029,8 +1029,8 @@
 - **waarom:** Ronde Z37: besluit van Rogier (bij overhandiging van OPDRACHT_architect_Z37.md, 2026-11-01) (D3, gaven-stelsel; voorstel)
 - **status:** voorlopig
 - **ronde:** 66
-- **hangt_samen_met:** MAGIE-wat-gaven-man;RIT-stormontlading;PER-aeron;GAVE-Z37-ja
-- **verwijst_naar:** MAGIE-wat-gaven-man;RIT-stormontlading;PER-aeron;GAVE-Z37-ja
+- **hangt_samen_met:** MAGIE-wat-gaven-man;RIT-stormontlading-Z50;PER-aeron;GAVE-Z37-ja
+- **verwijst_naar:** MAGIE-wat-gaven-man;RIT-stormontlading-Z50;PER-aeron;GAVE-Z37-ja
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 

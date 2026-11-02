@@ -15,6 +15,7 @@ T = {9: '9 Tijd van de Ja (na 801)', 10: '10 Tijd der Volken (na 801)', 11: '11 
 def wijz(code, soort, veld, oud, nieuw):
     S['wijziging'] += c.execute('insert or ignore into wijziging(ronde,code,soort,veld,oud,nieuw,datum,bron) values(?,?,?,?,?,?,?,?)',
                                 (RD, code, soort, veld or '', None if oud is None else str(oud), str(nieuw), DT, 'r_Z50.py')).rowcount
+def fnr(x): return int(str(x).strip().split(' ')[0])
 def bestaat(x): return c.execute('select 1 from canon where code=?', (x,)).fetchone() is not None
 def lev(x):
     seen = set()
@@ -39,8 +40,12 @@ def toets(stap):
 def stap_catalogus():
     if not os.path.exists('z50/catalogus.yaml'): print('geen z50/catalogus.yaml'); return
     nieuw_van = {}
+    # rijen waar een Kern-rij op leunt, blijven staan (Kern wijzigen kan alleen met een besluit van Rogier): zie keuzelijst_Z50.md
+    kern_ref = {n for (n,) in c.execute("select distinct r.naar_code from relatie r join canon a on a.code=r.van_code where coalesce(a.draagkracht,'')='Kern' or coalesce(a.draagkracht_handmatig,'')='Kern'")}
     for x in yaml.safe_load(open('z50/catalogus.yaml')):
-        oud = x['code']; nc = oud + '-Z50'; nieuw_van[oud] = nc
+        oud = x['code']; nc = oud + '-Z50'
+        if oud in kern_ref: S['catalogus_overgeslagen_kern'] += 1; print('blijft (Kern leunt erop):', oud); continue
+        nieuw_van[oud] = nc
         r = c.execute("select categorie,onderwerp,status,tijdperk,verwijst_naar,hangt_samen_met,draagkracht_handmatig,ideeenbank,epistemiek from canon where code=? and status in ('vastgesteld','voorlopig')", (oud,)).fetchone()
         if not r or bestaat(nc): continue
         tekst = ' '.join(x['nieuw'].split())
@@ -88,7 +93,7 @@ def bestaande_paden(fase):
     return [dict(zip(cols, r)) for r in c.execute("select * from verhaal_profiel where fase=? and coalesce(vervangen_door,'')=''", (fase,))]
 G = ['g_romance', 'g_erotiek', 'g_horror', 'g_suspense', 'g_actie', 'g_intrige', 'g_komedie', 'g_tragiek']
 def voeg_pad(p, bron):
-    f = int(p['fase']); fase = T[f]
+    f = fnr(p['fase']); fase = T[f]
     hp = f"{p['hp']['band']}|{p['hp']['geslacht']}"
     r = dict(positie=p['positie'], genre=p['genre'], schaal=p['schaal'], volk=p['volk'], vorm=p['vorm'], afloop=p['afloop'], hoofdpersoon=hp)
     for b in bestaande_paden(fase):
@@ -114,10 +119,10 @@ def stap_paden():
         if not os.path.exists(pad): print('ontbreekt', pad); continue
         d = yaml.safe_load(open(pad))
         tf = {}
-        for x in d['paden']: tf.setdefault(x['persoon'], int(x['fase']))
+        for x in d['paden']: tf.setdefault(x['persoon'], fnr(x['fase']))
         for p in d['personen']:
             p = dict(p); p.setdefault('geslacht', next((x['hp']['geslacht'] for x in d['paden'] if x['persoon'] == p['code']), 'v'))
-            voeg_persoon(p, int(p.get('tijdperk') or tf.get(p['code'], 9)))
+            voeg_persoon(p, fnr(p.get('tijdperk') or tf.get(p['code'], 9)))
         alle.append((k, d))
     for k, d in alle:  # tweede ronde: links tussen personen, nu ze allemaal bestaan
         for p in d['personen']:

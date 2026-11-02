@@ -1269,7 +1269,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-selenne-oogst
 - **premisse:** Selenne de Oogstmoeder houdt het oude oogstfeest in leven, met gemaskerde dansen waar niemand een naam noemt. Zo'n feest is ook de beste vluchtweg voor koningsvrouwen, en een priesteres over wie later alleen gebeden overblijven, kan zich niet verweren als iemand onder een masker kijkt.
-- **premisse_codes:** PER-selenne-oogst;ERF-voortijd;RIT-zwijgende-rit
+- **premisse_codes:** PER-selenne-oogst;ERF-voortijd;RIT-zwijgende-rit-Z50
 - **seriewaarde_reden:** via relatie: ERF-voortijd - ORIGIN-WAAROM-8 (Stille Modus)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -1465,7 +1465,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-f1-oda
 - **premisse:** Hoofdzuster Oda wil een kroon die zonder de Zusters niet kan, en de geboorteregisters zijn haar gereedschap: een zoon die er niet in staat, erft niets. Elke naam die ze schrapt, brengt haar dichter bij de ene die ze zelf ooit wegaf.
-- **premisse_codes:** PER-f1-oda;ERF-overvloed;RIT-zwijgende-rit
+- **premisse_codes:** PER-f1-oda;ERF-overvloed;RIT-zwijgende-rit-Z50
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -1710,7 +1710,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-orric
 - **premisse:** Orric wil macht na een leven als knecht, en die komt nu zijn zaad een prijs heeft en elke vrouw die het proeft eraan vastzit. Wie te diep graaft, vindt de Sterrensteenput waar zijn vonk vandaan kwam; dan is hij geen wonder meer maar een mijnwerkerszoon uit Nerys' register.
-- **premisse_codes:** PER-orric;ERF-vonk;RIT-gunstnacht;ZAAD-VERHAAL-fase1-Z35-1
+- **premisse_codes:** PER-orric;ERF-vonk;RIT-gunstnacht-Z50;ZAAD-VERHAAL-fase1-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -1857,7 +1857,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-cael-vonk
 - **premisse:** Caelvonk wil een eeuwig rijk en beveelt met zijn stem wat mensen voelen, ook vlak voor de slag, als de krijgsvrouwen in rij staan. Een land dat verlangen tot wet maakt, kan zo'n stem niet missen, maar wie onder die wet gaat graven, vindt de zuster die hij als eerste bond.
-- **premisse_codes:** PER-cael-vonk;ERF-vonk;RIT-strijdontvangst;ZAAD-VERHAAL-fase1-Z35-2
+- **premisse_codes:** PER-cael-vonk;ERF-vonk;RIT-strijdontvangst-Z50;ZAAD-VERHAAL-fase1-Z35-2
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -2200,7 +2200,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-gerran
 - **premisse:** Gerran de smid verstopt zich voor ronselaars en smeedt intussen wapens voor de Zusters, want hij wil zijn drie dochters redden. Die Zusters zijn onderling verdeeld, en als een van de vijf tegenstemmers zijn smidse vindt, komen zijn dochters op de verkeerde lijst.
-- **premisse_codes:** PER-gerran;ERF-brand;RIT-maanzalving;ZAAD-VERHAAL-fase2-Z35-1
+- **premisse_codes:** PER-gerran;ERF-brand;RIT-maanzalving-Z50;ZAAD-VERHAAL-fase2-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -2249,7 +2249,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-f3-dochter-elin
 - **premisse:** Elin, de negenenveertigste Dochter, wil haar zus redden en biedt zich in haar plaats aan voor een Zegel waar ze zelf niet in gelooft. Het Offer kwam er met zeven tegen vijf; de vijf zoeken een reden, en een Dochter die niet gelooft is die reden.
-- **premisse_codes:** PER-f3-dochter-elin;ERF-brand;RIT-maanzalving;ZAAD-VERHAAL-fase2-Z35-1
+- **premisse_codes:** PER-f3-dochter-elin;ERF-brand;RIT-maanzalving-Z50;ZAAD-VERHAAL-fase2-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -2445,7 +2445,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-halvar
 - **premisse:** Halvar wil één vrouw liefhebben, maar onder een Zegel waarvan zelfs de Zusters niet weten hoe hij werkt, telt alleen zijn zaad. Elke keer dat hij weigert te dekken, komt de vraag naar zijn kind dichterbij.
-- **premisse_codes:** PER-halvar;ERF-brand;RIT-maanzalving;ZAAD-VERHAAL-fase3-Z35-1
+- **premisse_codes:** PER-halvar;ERF-brand;RIT-maanzalving-Z50;ZAAD-VERHAAL-fase3-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -2935,7 +2935,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-brunna
 - **premisse:** Brunna de Melkster wil een welvarend stalhuis en verhuurt haar mannen aan wie betaalt. Volgens het register zijn die mannen van iedereen, ook de stalman van wie ze houdt; wil ze hem houden, dan moet ze haar beste man nooit verhuren en dat aan de buren uitleggen.
-- **premisse_codes:** PER-brunna;ERF-noodtoestand;RIT-ontvangst;ZAAD-VERHAAL-fase4-Z35-1
+- **premisse_codes:** PER-brunna;ERF-noodtoestand;RIT-ontvangst-Z50;ZAAD-VERHAAL-fase4-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -3033,7 +3033,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-thessaly
 - **premisse:** Hoge Moeder Thessaly wil van plicht verlangen maken en verzint er een hele leer bij. Hoe beter het werkt, hoe meer de tempels de Zegel voeden, en hoe groter de kans dat iemand ziet dat het zegellicht geen teken is maar de Zegel zelf.
-- **premisse_codes:** PER-thessaly;ERF-ontvangst;RIT-ontvangst;ZAAD-VERHAAL-fase4-Z35-1
+- **premisse_codes:** PER-thessaly;ERF-ontvangst;RIT-ontvangst-Z50;ZAAD-VERHAAL-fase4-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -3327,7 +3327,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-selvara
 - **premisse:** Selvara Varenne wil zaad als munt en koopt daarvoor de Orde om. Gunstbrieven zijn al geld, dus een beurs ernaast is snel gebouwd; maar sinds Iresse de echte annalen liet uitlekken, kijkt iedereen naar oorsprongen, en de hare is roof.
-- **premisse_codes:** PER-selvara;ERF-ontvangst;RIT-veiling;ZAAD-VERHAAL-fase5-Z35-1
+- **premisse_codes:** PER-selvara;ERF-ontvangst;RIT-veiling-Z50;ZAAD-VERHAAL-fase5-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -3523,7 +3523,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-brannoch-oud
 - **premisse:** Veldvrouwe Hedra Kaldra wil de oorlog winnen en dwingt daarvoor Strijdontvangsten af. Een tempel die een gestolen gaven-man laat voeden, moet er een gunstbrief voor uitschrijven, en elke brief laat een spoor na naar het huis dat hem stal.
-- **premisse_codes:** PER-brannoch-oud;ERF-ontvangst;RIT-veiling;ZAAD-VERHAAL-fase5-Z35-2
+- **premisse_codes:** PER-brannoch-oud;ERF-ontvangst;RIT-veiling-Z50;ZAAD-VERHAAL-fase5-Z35-2
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -3621,7 +3621,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-grom-reus
 - **premisse:** Grom de Reuzenstier wil leren lezen en oefent stiekem tussen twee keuringen in de stallen van Varenne. Een stier die kan lezen, kan zijn eigen schuldbrief lezen; ontdekt iemand het, dan gaat hij op de volgende veiling als iets wat je beter niet kunt houden.
-- **premisse_codes:** PER-grom-reus;ERF-markt;RIT-veiling;ZAAD-VERHAAL-fase5-Z35-1
+- **premisse_codes:** PER-grom-reus;ERF-markt;RIT-veiling-Z50;ZAAD-VERHAAL-fase5-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -3768,7 +3768,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-lisk-bloednacht
 - **premisse:** Hoedster Caela wil de Bloednacht overleven en tegen Morvane-ir getuigen. Het Tribunaal luistert alleen naar getuigen zonder vlek, en de hare is dat ze zijn gebonden minnares was; vertelt ze de hele waarheid, dan verliest ze de zaak.
-- **premisse_codes:** PER-lisk-bloednacht;ERF-markt;RIT-rolwisseling;ZAAD-VERHAAL-fase6-Z35-1
+- **premisse_codes:** PER-lisk-bloednacht;ERF-markt;RIT-rolwisseling-Z50;ZAAD-VERHAAL-fase6-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -3817,7 +3817,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-f7-hadewych
 - **premisse:** Zuster Hadewych wil één kind verbergen en huurt een vervalser uit het gilde dat in 680 begon. Het Tribunaal bevriest alle papieren, ook de valse; wordt de vervalsing ontdekt, dan moet ze op de tempeltrappen biechten en zeggen wie Liora's moeder is.
-- **premisse_codes:** PER-f7-hadewych;ERF-markt;RIT-boeterite;ZAAD-VERHAAL-fase6-Z35-1
+- **premisse_codes:** PER-f7-hadewych;ERF-markt;RIT-boeterite-Z50;ZAAD-VERHAAL-fase6-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -4013,7 +4013,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-lekmoeder
 - **premisse:** Ruya wil haar zoon houden, die met het lekken van de Zegel een zegelvoeler blijkt te zijn. Het Hof zoekt juist zulke jongens, en verbergen lukt alleen op de Nacht der Omkering, als niemand gestraft wordt; daarna moet ze kiezen tussen vluchten en het register.
-- **premisse_codes:** PER-lekmoeder;ERF-barsten;RIT-rolwisseling;ZAAD-VERHAAL-fase6-Z35-1
+- **premisse_codes:** PER-lekmoeder;ERF-barsten;RIT-rolwisseling-Z50;ZAAD-VERHAAL-fase6-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -4111,7 +4111,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-stille-terug
 - **premisse:** Zuster Ennia keert terug naar Saelith om de Orde van binnenuit te breken, juist nu de Zegel lekt en de Moeders naar oude noodwetten grijpen. Wie in zulke jaren als bekeerlinge binnenkomt, wordt het eerst verdacht; één fout en ze staat in het grijs op de tempeltrappen.
-- **premisse_codes:** PER-stille-terug;ERF-barsten;RIT-boeterite;ZAAD-VERHAAL-fase6-Z35-1
+- **premisse_codes:** PER-stille-terug;ERF-barsten;RIT-boeterite-Z50;ZAAD-VERHAAL-fase6-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -4552,7 +4552,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-gew-gudrun
 - **premisse:** Gudrun wil uit de mijn en steelt Sterrensteen om haar weg naar de krijgsvrouwen te betalen. In een Wortel hoort ze een vrouwenstem 'onthoud' zeggen, net nu de Zegel begint te lekken; meldt ze het, dan wil men weten wat ze daar te zoeken had.
-- **premisse_codes:** PER-gew-gudrun;ERF-barsten;RIT-rolwisseling;ZAAD-VERHAAL-fase3-Z35-2
+- **premisse_codes:** PER-gew-gudrun;ERF-barsten;RIT-rolwisseling-Z50;ZAAD-VERHAAL-fase3-Z35-2
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -5581,7 +5581,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-ithra-oud
 - **premisse:** Ithra de Hofmoeder neemt jongens bij hun moeders weg om ze te beschermen, en het Jongenshof dat ze sticht wordt de plek waar de Orde ze telt. Wie haar boeken leest, ziet ook welke jongens ze apart zet voor de fokkerij.
-- **premisse_codes:** PER-ithra-oud;ERF-noodtoestand;RIT-zwijgende-rit;ZAAD-VERHAAL-fase3-Z35-1
+- **premisse_codes:** PER-ithra-oud;ERF-noodtoestand;RIT-zwijgende-rit-Z50;ZAAD-VERHAAL-fase3-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -5630,7 +5630,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-halvar
 - **premisse:** Halvar de Gedeelde is volgens het register van iedereen, en hij wil maar van één vrouw zijn. Om dat vol te houden moet hij het kind uit hun liefde buiten de boeken houden die precies bijhouden wie van wie is.
-- **premisse_codes:** PER-halvar;ERF-noodtoestand;RIT-maanzalving;ZAAD-VERHAAL-fase3-Z35-1
+- **premisse_codes:** PER-halvar;ERF-noodtoestand;RIT-maanzalving-Z50;ZAAD-VERHAAL-fase3-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -5777,7 +5777,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-f4-orde-moeder-iris
 - **premisse:** Moeder Iris wil van de Zusters een kerk maken en geeft ze daarvoor een nieuwe naam. Een kerk heeft heilige boeken nodig, en de hare zijn de registers die mannen verdelen; wie ver genoeg terugbladert, ziet dat de Orde begon als kantoor van Saske.
-- **premisse_codes:** PER-f4-orde-moeder-iris;ERF-noodtoestand;RIT-maanzalving;ZAAD-VERHAAL-fase3-Z35-1
+- **premisse_codes:** PER-f4-orde-moeder-iris;ERF-noodtoestand;RIT-maanzalving-Z50;ZAAD-VERHAAL-fase3-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -5826,7 +5826,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-vehlin
 - **premisse:** Vehlin de Stille heeft de Zegel gezien en bewaart Mira's afschrift van Anaths notities op de Stille eilanden. Ze wil de waarheid veilig houden, maar de Orde begrijpt zelf niet wat ze heeft gelegd en zoekt elke getuige; blijven betekent dat ze nooit meer kan weglopen.
-- **premisse_codes:** PER-vehlin;ERF-brand;RIT-maanzalving;ZAAD-VERHAAL-fase3-Z35-1
+- **premisse_codes:** PER-vehlin;ERF-brand;RIT-maanzalving-Z50;ZAAD-VERHAAL-fase3-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -6414,7 +6414,7 @@
 - **ideeenbank:** 1
 - **drager:** PER-f6-stalmeester-kobus-Z32
 - **premisse:** Kobus Stalmeester wil zijn baan in de fokstallen van Hal-Neth houden en legt daarvoor een heelster het zwijgen op. Het Tribunaal verandert niets zonder een schuldige; zwijgen houdt hem binnen, praten maakt hem die schuldige.
-- **premisse_codes:** PER-f6-stalmeester-kobus-Z32;ERF-markt;RIT-veiling;ZAAD-VERHAAL-fase5-Z35-2
+- **premisse_codes:** PER-f6-stalmeester-kobus-Z32;ERF-markt;RIT-veiling-Z50;ZAAD-VERHAAL-fase5-Z35-2
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -6463,7 +6463,7 @@
 - **ideeenbank:** 1
 - **drager:** PERS-Z4-veslethi-3-1
 - **premisse:** Ithrel de Ontruimster wil begraven wat ze in Ves-Anath zag, en een Tribunaal dat alles bevriest helpt haar daarbij. Alleen ligt de Zegel er nu onbewaakt bij, en wie gaat kijken, vindt het geheim dat zij eronder schoof.
-- **premisse_codes:** PERS-Z4-veslethi-3-1;ERF-markt;RIT-veiling;ZAAD-VERHAAL-fase5-Z35-1
+- **premisse_codes:** PERS-Z4-veslethi-3-1;ERF-markt;RIT-veiling-Z50;ZAAD-VERHAAL-fase5-Z35-1
 - **seriewaarde_reden:** raakt geen hoofdlijnrij (ook niet via een relatie)
 - **vervangen_door:** 
 <!-- /REC -->
@@ -6495,7 +6495,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-gave-9;VOOR-Z46-laatste-vonk;KINK-Z8-29;LOT-Z44-gaven-mannen;VERHAAL-Z44-tijdperk-9
+- **kern_codes:** DRAGER-Z48-gave-9;VOOR-Z46-laatste-vonk;KINK-Z8-29-Z50;LOT-Z44-gaven-mannen;VERHAAL-Z44-tijdperk-9;PER-Z50-merel-glas
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -6510,9 +6510,9 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-gave-9 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-gave-9
+- **drager:** PER-Z50-merel-glas
 - **premisse:** Merel erft van haar moeder een kettinkje gaveglas dat nog warm is. In brieven aan haar zus beschrijft ze hoe zij en haar man het om beurten dragen en hoe het elke maand kouder wordt. Dan ontdekt ze dat de warmte niet van een dode komt maar van een man die nog in Saelith leeft, en dat hij het glas elke nieuwe maan bijvult; ze moet kiezen tussen het glas en hem.
-- **premisse_codes:** VOOR-Z46-laatste-vonk;KINK-Z8-29;LOT-Z44-gaven-mannen;VERHAAL-Z44-tijdperk-9
+- **premisse_codes:** VOOR-Z46-laatste-vonk;KINK-Z8-29-Z50;LOT-Z44-gaven-mannen;VERHAAL-Z44-tijdperk-9
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
@@ -6544,7 +6544,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-ontvangst-9;RIT-nacht-duizend-lampen;VOOR-groep;LOT-Z44-zegellicht;VOLK-ishvar
+- **kern_codes:** DRAGER-Z48-ontvangst-9;RIT-nacht-duizend-lampen-Z50;VOOR-groep-Z50;LOT-Z44-zegellicht;VOLK-ishvar;PER-Z50-khaled-hoedster
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -6559,9 +6559,9 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-ontvangst-9 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-ontvangst-9
+- **drager:** PER-Z50-khaled-hoedster
 - **premisse:** Een Ishvar-man die de Orde altijd waardeloos noemde, omdat zijn zaad geen kracht heeft, wordt bij de eerste Vrije Ontvangst van Saelith tot hoedster gekozen: hij is de enige die niet met vonk kan pronken. In één zaal en één nacht moet hij een feest leiden waarvan niemand de regels nog weet, en hij merkt dat juist zijn gewoonheid begeerd wordt.
-- **premisse_codes:** RIT-nacht-duizend-lampen;VOOR-groep;LOT-Z44-zegellicht;VOLK-ishvar
+- **premisse_codes:** RIT-nacht-duizend-lampen-Z50;VOOR-groep-Z50;LOT-Z44-zegellicht;VOLK-ishvar
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
@@ -6593,7 +6593,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-stal-9;RIT-gemaskerde-veiling;VOOR-veiling;VOOR-Z46-stalspel;GEB-Z45-losbandige-jaren
+- **kern_codes:** DRAGER-Z48-stal-9;RIT-gemaskerde-veiling-Z50;VOOR-veiling-Z50;VOOR-Z46-stalspel;GEB-Z45-losbandige-jaren;PER-Z50-tobin-spel
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -6608,9 +6608,9 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-stal-9 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-stal-9
+- **drager:** PER-Z50-tobin-spel
 - **premisse:** In een Huis van Spel in Ambergaard speelt Tobin, twaalf jaar stalman, elke week vrijwillig de veiling na die hij vroeger echt onderging. Een getuige vertelt hoe een klant op een avond het afgesproken woord niet hoort, hoe het huis de zaak stilhoudt om zijn naam te beschermen, en hoe Tobin zelf bepaalt wat er met de klant gebeurt. Het incident is een gelabeld donker thema; al het andere spel is gekozen.
-- **premisse_codes:** RIT-gemaskerde-veiling;VOOR-veiling;VOOR-Z46-stalspel;GEB-Z45-losbandige-jaren
+- **premisse_codes:** RIT-gemaskerde-veiling-Z50;VOOR-veiling-Z50;VOOR-Z46-stalspel;GEB-Z45-losbandige-jaren
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
@@ -6642,7 +6642,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-vleugel-10;VOOR-valparing;RIT-volk-skerra;LOT-Z44-skerra;VERHAAL-Z44-tijdperk-10
+- **kern_codes:** DRAGER-Z48-vleugel-10;VOOR-valparing;RIT-volk-skerra-Z50;LOT-Z44-skerra;VERHAAL-Z44-tijdperk-10;PER-Z50-ilse-klif
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -6657,9 +6657,9 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-vleugel-10 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-vleugel-10
+- **drager:** PER-Z50-ilse-klif
 - **premisse:** Ilse en Ravn hebben één zweefhuid voor twee, de vleugelhuid van Ilses grootmoeder. Op het zomerfeest springen ze samen van de klifwand, zoals hun voorouders deden, om elkaar in de val te vangen. Het verhaal telt de seconden van die sprong af, en in die seconden ontdekken ze dat de huid hen maar half houdt en dat er maar één veilig kan landen.
-- **premisse_codes:** VOOR-valparing;RIT-volk-skerra;LOT-Z44-skerra;VERHAAL-Z44-tijdperk-10
+- **premisse_codes:** VOOR-valparing;RIT-volk-skerra-Z50;LOT-Z44-skerra;VERHAAL-Z44-tijdperk-10
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
@@ -6691,7 +6691,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-vorm-10;VOOR-vormwissel;RIT-volk-ves-lethi;LOT-Z44-ves-lethi;MYTHE-Z43-gedaantewisselaar
+- **kern_codes:** DRAGER-Z48-vorm-10;VOOR-vormwissel;RIT-volk-ves-lethi-Z50;LOT-Z44-ves-lethi;MYTHE-Z43-gedaantewisselaar;PER-Z50-wisselbloed
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -6706,9 +6706,9 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-vorm-10 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-vorm-10
+- **drager:** PER-Z50-wisselbloed
 - **premisse:** Jij hebt wisselbloed: bij volle maan ben je twee nachten een man, en daarna weer jezelf. Je geliefde weet het en wacht op die nachten; het dorp hoort een gehuil en zoekt een wolf. Als de jagers bij jullie deur staan, besluit je je niet te verstoppen, en dat verandert wat het dorp denkt dat een wolf is.
-- **premisse_codes:** VOOR-vormwissel;RIT-volk-ves-lethi;LOT-Z44-ves-lethi;MYTHE-Z43-gedaantewisselaar
+- **premisse_codes:** VOOR-vormwissel;RIT-volk-ves-lethi-Z50;LOT-Z44-ves-lethi;MYTHE-Z43-gedaantewisselaar
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
@@ -6740,7 +6740,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-korf-10;VOOR-korf;RIT-volk-kluwer;LOT-Z44-kluwers;INTR-Z46-10-intrige
+- **kern_codes:** DRAGER-Z48-korf-10;VOOR-korf;RIT-volk-kluwer-Z50;LOT-Z44-kluwers;INTR-Z46-10-intrige;PER-Z50-kluwer-was
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -6755,9 +6755,9 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-korf-10 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-korf-10
+- **drager:** PER-Z50-kluwer-was
 - **premisse:** Een Kluwer-werkster zonder korf verkoopt in Brakhaven wasnachten aan wie de korfgeur eens wil voelen, en haar kasboek wordt rijker dan dat van een huis. Uit de cijfers blijkt wat ze niemand vertelt: de was raakt op, en de families die de rechten op de laatste korf claimen, kopen haar klanten één voor één weg.
-- **premisse_codes:** VOOR-korf;RIT-volk-kluwer;LOT-Z44-kluwers;INTR-Z46-10-intrige
+- **premisse_codes:** VOOR-korf;RIT-volk-kluwer-Z50;LOT-Z44-kluwers;INTR-Z46-10-intrige
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
@@ -6789,7 +6789,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-geheugen-10;RIT-volk-aelthir;KINK-Z8-10;LOT-Z44-aelthir;FEE-Z37-myrrhen-ringen
+- **kern_codes:** DRAGER-Z48-geheugen-10;RIT-volk-aelthir-Z50;KINK-Z8-10-Z50;LOT-Z44-aelthir;FEE-Z37-myrrhen-ringen;PER-Z50-houtsnijder
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -6804,9 +6804,9 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-geheugen-10 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-geheugen-10
+- **drager:** PER-Z50-houtsnijder
 - **premisse:** Een Aelthir en een sterfelijke houtsnijder gaan samen in een feeënring liggen en laten het net hun herinneringen ruilen. Ze vertellen het in twee stemmen. Tussen zijn herinneringen vindt zij iets wat hij niet weet dat hij heeft gezien, en tussen de hare vindt hij wat Ileth ooit verkocht. Ze moeten kiezen wat ze aan de ander teruggeven.
-- **premisse_codes:** RIT-volk-aelthir;KINK-Z8-10;LOT-Z44-aelthir;FEE-Z37-myrrhen-ringen
+- **premisse_codes:** RIT-volk-aelthir-Z50;KINK-Z8-10-Z50;LOT-Z44-aelthir;FEE-Z37-myrrhen-ringen
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
@@ -6838,7 +6838,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-zoem-10;KINK-Z8-45;KINK-Z8-15;LOT-Z44-dhurn;GEB-Z42-eerste-ijzer
+- **kern_codes:** DRAGER-Z48-zoem-10;KINK-Z8-45-Z50;KINK-Z8-15-Z50;LOT-Z44-dhurn;GEB-Z42-eerste-ijzer;PER-Z50-grom-smid
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -6853,9 +6853,9 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-zoem-10 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-zoem-10
+- **drager:** PER-Z50-grom-smid
 - **premisse:** Grom, smid met een kwart Dhurn-bloed, verkoopt zingend ijzer op de jaarmarkt, ook al weet hij de toon niet. Hij slaat maar wat. In één middag, verteld zoals het gebeurt, komen drie klanten terug om te klagen en een vierde om te bedanken, want zijn verkeerde toon blijkt beter te werken dan de echte.
-- **premisse_codes:** KINK-Z8-45;KINK-Z8-15;LOT-Z44-dhurn;GEB-Z42-eerste-ijzer
+- **premisse_codes:** KINK-Z8-45-Z50;KINK-Z8-15-Z50;LOT-Z44-dhurn;GEB-Z42-eerste-ijzer
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
@@ -6887,7 +6887,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-maat-10;VOOR-maatverschil;RIT-volk-tharn;LOT-Z44-tharn;UIT-VOLK-tharn
+- **kern_codes:** DRAGER-Z48-maat-10;VOOR-maatverschil;RIT-volk-tharn-Z50;LOT-Z44-tharn;UIT-VOLK-tharn;PER-Z50-hal-reus
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -6902,9 +6902,9 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-maat-10 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-maat-10
+- **drager:** PER-Z50-hal-reus
 - **premisse:** Hal is drie meter lang en heeft reuzenbloed, en aan het hof van een rijke huisvrouw staat hij op een lijst van gasten die hem willen. Hij stemt toe, eerst uit nieuwsgierigheid. De lijst wordt korter naarmate zijn botten blijven groeien, en hij ziet hoe begeerte omslaat in angst. Aan het einde staat er niemand meer op, behalve de arts die zijn geraamte wil.
-- **premisse_codes:** VOOR-maatverschil;RIT-volk-tharn;LOT-Z44-tharn;UIT-VOLK-tharn
+- **premisse_codes:** VOOR-maatverschil;RIT-volk-tharn-Z50;LOT-Z44-tharn;UIT-VOLK-tharn
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
@@ -6936,7 +6936,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-steen-10;VOOR-versteening;RIT-volk-orrim;LOT-Z44-orrim;OORLOG-Z46-10-oorlog
+- **kern_codes:** DRAGER-Z48-steen-10;VOOR-versteening;RIT-volk-orrim-Z50;LOT-Z44-orrim;OORLOG-Z46-10-oorlog;PER-Z50-ennika
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -6951,9 +6951,9 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-steen-10 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-steen-10
+- **drager:** PER-Z50-ennika
 - **premisse:** Uit vrachtbrieven, een gestolen kaart en een getuigenis: hoe hoedster Ennika de laatste voorraad Orrim-stof uit een belegerde groeve smokkelt naar haar badhuis, waar de beeldnachten worden gehouden. De Orrim van wie de stof is, staan stil in de groeve en kunnen niet zeggen of ze het willen; Ennika vraagt het hun toch, en wacht.
-- **premisse_codes:** VOOR-versteening;RIT-volk-orrim;LOT-Z44-orrim;OORLOG-Z46-10-oorlog
+- **premisse_codes:** VOOR-versteening;RIT-volk-orrim-Z50;LOT-Z44-orrim;OORLOG-Z46-10-oorlog
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
@@ -6985,7 +6985,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-storm-10;RIT-volk-karruk;KINK-Z8-18;LOT-Z44-karruk-storm;VOLK-karrûk-Z6-Z38
+- **kern_codes:** DRAGER-Z48-storm-10;RIT-volk-karruk-Z50;KINK-Z8-18-Z50;LOT-Z44-karruk-storm;VOLK-karrûk-Z6-Z38;PER-Z50-karruk-vechtster
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -7000,9 +7000,9 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-storm-10 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-storm-10
+- **drager:** PER-Z50-karruk-vechtster
 - **premisse:** In een ballade van de Amberpas: een Karrûk-vechtster wint het jaarlijkse gevecht, en in de tent erna ontdekt ze dat haar kampioen geen vonk meer heeft om te ontladen. Ze blijven toch tot de ochtend, en het lied vertelt hoe de clans na die nacht het gevecht en de tent houden, zonder de Storm die het ooit nodig maakte.
-- **premisse_codes:** RIT-volk-karruk;KINK-Z8-18;LOT-Z44-karruk-storm;VOLK-karrûk-Z6-Z38
+- **premisse_codes:** RIT-volk-karruk-Z50;KINK-Z8-18-Z50;LOT-Z44-karruk-storm;VOLK-karrûk-Z6-Z38
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
@@ -7034,7 +7034,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-gave-11;VOOR-sporenroes;KINK-Z8-55;LOT-Z44-gaven-mannen;VERHAAL-Z44-tijdperk-11
+- **kern_codes:** DRAGER-Z48-gave-11;VOOR-sporenroes;KINK-Z8-55-Z50;LOT-Z44-gaven-mannen;VERHAAL-Z44-tijdperk-11;PER-Z50-heelster-nevel
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -7049,9 +7049,9 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-gave-11 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-gave-11
+- **drager:** PER-Z50-heelster-nevel
 - **premisse:** Een heelster op de Nevel-eilanden houdt een dagboek bij van de sporennachten die ze met haar geliefde deelt, omdat de sporen geven wat de vonk vroeger gaf. Elke week staan er minder dingen in die ze zich herinnert, en op een dag leest ze haar eigen beschrijving van een vrouw die ze niet meer kent: zichzelf.
-- **premisse_codes:** VOOR-sporenroes;KINK-Z8-55;LOT-Z44-gaven-mannen;VERHAAL-Z44-tijdperk-11
+- **premisse_codes:** VOOR-sporenroes;KINK-Z8-55-Z50;LOT-Z44-gaven-mannen;VERHAAL-Z44-tijdperk-11
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
@@ -7083,7 +7083,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-zee-11;RIT-volk-saelmor;LOT-Z44-sael-mor;VOLK-sael-mor;VERHAAL-Z44-tijdperk-11
+- **kern_codes:** DRAGER-Z48-zee-11;RIT-volk-saelmor-Z50;LOT-Z44-sael-mor;VOLK-sael-mor;VERHAAL-Z44-tijdperk-11;PER-Z50-kapitein-havenbloed
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -7098,9 +7098,9 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-zee-11 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-zee-11
+- **drager:** PER-Z50-kapitein-havenbloed
 - **premisse:** Wij, de bemanning van een kustschip, nemen een man van het land mee naar de springtijnacht ver uit de kust, omdat onze kapiteinsvrouw met havenbloed dat wil. Hij kan niet zwemmen zoals wij, en de nacht in het water wordt een strijd om hem levend door het tij te krijgen. Hij komt boven, en hij blijft.
-- **premisse_codes:** RIT-volk-saelmor;LOT-Z44-sael-mor;VOLK-sael-mor;VERHAAL-Z44-tijdperk-11
+- **premisse_codes:** RIT-volk-saelmor-Z50;LOT-Z44-sael-mor;VOLK-sael-mor;VERHAAL-Z44-tijdperk-11
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
@@ -7132,7 +7132,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-ontvangst-13;VOOR-Z46-vuurnacht;EROS-Z45-haak-8;LOT-Z44-zegellicht;VERHAAL-Z44-tijdperk-13
+- **kern_codes:** DRAGER-Z48-ontvangst-13;VOOR-Z46-vuurnacht;EROS-Z45-haak-8;LOT-Z44-zegellicht;VERHAAL-Z44-tijdperk-13;PER-Z50-aru-vuur
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -7147,7 +7147,7 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-ontvangst-13 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-ontvangst-13
+- **drager:** PER-Z50-aru-vuur
 - **premisse:** Een lied van het plat: Aru is twintig en staat voor het eerst bij het vuur van de kortste nacht, waar wie wil een of meer gezellen kiest. Ze kijkt alleen, de hele nacht, en wordt drie keer gevraagd. Pas tegen de ochtend vraagt ze zelf, en het lied eindigt bij het antwoord.
 - **premisse_codes:** VOOR-Z46-vuurnacht;EROS-Z45-haak-8;LOT-Z44-zegellicht;VERHAAL-Z44-tijdperk-13
 - **seriewaarde_reden:** 
@@ -7181,7 +7181,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-stal-13;RIT-gemaskerde-veiling;VOOR-handel;GEB-Z45-losbandige-jaren;VERHAAL-Z44-tijdperk-13
+- **kern_codes:** DRAGER-Z48-stal-13;RIT-gemaskerde-veiling-Z50;VOOR-handel-Z50;GEB-Z45-losbandige-jaren;VERHAAL-Z44-tijdperk-13;PER-Z50-zuinige-boer
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -7196,9 +7196,9 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-stal-13 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-stal-13
+- **drager:** PER-Z50-zuinige-boer
 - **premisse:** Bij het oogstspel biedt de zuinigste boer van het dorp zichzelf gemaskerd aan, omdat hij denkt dat niemand zal bieden en hij dan het feest gratis krijgt. Ronde na ronde gaat het bod omhoog. Aan het eind heeft het dorp een nieuw dak, en hij een nacht die hij niet had durven vragen.
-- **premisse_codes:** RIT-gemaskerde-veiling;VOOR-handel;GEB-Z45-losbandige-jaren;VERHAAL-Z44-tijdperk-13
+- **premisse_codes:** RIT-gemaskerde-veiling-Z50;VOOR-handel-Z50;GEB-Z45-losbandige-jaren;VERHAAL-Z44-tijdperk-13
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
@@ -7230,7 +7230,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-vleugel-13;RIT-volk-skerra;VOOR-valparing;LOT-Z44-skerra;FASE-z44-mensen
+- **kern_codes:** DRAGER-Z48-vleugel-13;RIT-volk-skerra-Z50;VOOR-valparing;LOT-Z44-skerra;FASE-z44-mensen;PER-Z50-springster
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -7245,9 +7245,9 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-vleugel-13 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-vleugel-13
+- **drager:** PER-Z50-springster
 - **premisse:** Bij het klifspringfeest komt een van twee geliefden niet boven. De vrouw die wel bovenkwam, staat terecht voor de dorpsraad, want er zijn getuigen die zeggen dat ze losliet. Het proces brengt aan het licht dat het loslaten bij het oude spel hoort, en dat iemand anders het water op die plek ondieper had gemaakt.
-- **premisse_codes:** RIT-volk-skerra;VOOR-valparing;LOT-Z44-skerra;FASE-z44-mensen
+- **premisse_codes:** RIT-volk-skerra-Z50;VOOR-valparing;LOT-Z44-skerra;FASE-z44-mensen
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
@@ -7279,7 +7279,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-vorm-13;RIT-spiegelnacht;VOOR-sporenroes;LOT-Z44-ves-lethi;DRAGER-Z48-gave-11
+- **kern_codes:** DRAGER-Z48-vorm-13;RIT-spiegelnacht-Z50;VOOR-sporenroes;LOT-Z44-ves-lethi;DRAGER-Z48-gave-11;PER-Z50-weduwe-portret
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -7294,9 +7294,9 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-vorm-13 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-vorm-13
+- **drager:** PER-Z50-weduwe-portret
 - **premisse:** Een weduwe schildert zichzelf elke keer na een sporenspiegel, de nacht waarin ze met een lage dosis sporen in haar nieuwe geliefde haar oude man ziet. De portretten tonen een vrouw die steeds minder weet welk gezicht ze kust. Ze moet beslissen of ze de laatste schildert of verbrandt.
-- **premisse_codes:** RIT-spiegelnacht;VOOR-sporenroes;LOT-Z44-ves-lethi;DRAGER-Z48-gave-11
+- **premisse_codes:** RIT-spiegelnacht-Z50;VOOR-sporenroes;LOT-Z44-ves-lethi;DRAGER-Z48-gave-11
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
@@ -7328,7 +7328,7 @@
 - **erf_code:** 
 - **zaadje_code:** 
 - **wereldregel_code:** BESLUIT-Z12-2
-- **kern_codes:** DRAGER-Z48-zang-14;VOOR-Z46-zang-zonder-aanraking;RIT-volk-oevrin;LOT-Z44-oevrin;VERHAAL-Z44-tijdperk-14
+- **kern_codes:** DRAGER-Z48-zang-14;VOOR-Z46-zang-zonder-aanraking;RIT-volk-oevrin-Z50;LOT-Z44-oevrin;VERHAAL-Z44-tijdperk-14;PER-Z50-zangpoel
 - **herkomst:** drager (Z49): maakt fantasieën na 801 mogelijk
 - **doelprofiel:** 
 - **nieuwheid:** 
@@ -7343,9 +7343,4468 @@
 - **reden:** Ronde Z49: verhaalpad bij DRAGER-Z48-zang-14 (architectuur/DRAGERS.md)
 - **status:** voorlopig
 - **ideeenbank:** 1
-- **drager:** DRAGER-Z48-zang-14
+- **drager:** PER-Z50-zangpoel
 - **premisse:** Verteld door het lichaam van een vrouw die bij laag tij in de zangpoel staat met een Oevrin-man die ze nooit zal aanraken: hoe de zang door haar huid gaat, hoe het water elke maand hoger staat. Op de laatste avond dat de poel nog bestaat, zingen ze tot het tij hem neemt, en haar lichaam weet daarna wat geen woord kan zeggen.
-- **premisse_codes:** VOOR-Z46-zang-zonder-aanraking;RIT-volk-oevrin;LOT-Z44-oevrin;VERHAAL-Z44-tijdperk-14
+- **premisse_codes:** VOOR-Z46-zang-zonder-aanraking;RIT-volk-oevrin-Z50;LOT-Z44-oevrin;VERHAAL-Z44-tijdperk-14
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-0a05e0bd · 36-50|m
+- **code:** VP-9-0a05e0bd
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** ontdekker
+- **genre:** mysterie
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** dagboek
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 36-50|m
+- **leeftijd:** 44
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-14;VOOR-bondage-Z50;LOT-Z44-sterrensteen;LOT-Z44-gaven-mannen;HUI-varenne;VERHAAL-Z44-tijdperk-9;PER-Z50-corvin-aldeweer
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-corvin-aldeweer
+- **premisse:** Corvin Aldeweer komt uit de fokstal van Varenne en is een van de laatste mannen met vonk, maar die vonk wordt elke maand dunner. Hij laat zich door zijn vrouw in boeien van zegelsteen sluiten, de sleutel bij de buurvrouw, omdat de vonk even terugslaat als de boeien afgaan. In zijn dagboek houdt hij bij hoe lang dat duurt: een uur, een kwartier, een ademhaling. Op een ochtend komt er niets terug, en hij weet niet of de steen het nam of de tijd.
+- **premisse_codes:** KINK-Z8-14;VOOR-bondage-Z50;LOT-Z44-sterrensteen;LOT-Z44-gaven-mannen;HUI-varenne;VERHAAL-Z44-tijdperk-9
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-42c0cbad · 36-50|v
+- **code:** VP-9-42c0cbad
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** liefde tussen posities
+- **genre:** romance
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** kamerspel
+- **afloop:** keert om
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 47
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 1
+- **g_romance:** 4
+- **g_erotiek:** 4
+- **g_horror:** 2
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-46-Z50;VOOR-onderdanige-man;DRAGER-Z48-stal-9;BESLUIT-Z7-BINDING;LOT-Z44-sterrensteen;GEB-Z45-losbandige-jaren;EROS-Z45-haak-1;PER-Z50-ingrith-marrow
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-ingrith-marrow
+- **premisse:** Twintig jaar bond Ingrith Marrow voor de Orde mannen met de splinter tot gehoorzaamheid; dat verleden is een gelabeld donker thema en wordt alleen verteld, nooit gespeeld. In 809 staat Joren voor haar deur, een van die mannen, nu vrij. Hij wil weten wat er toen met hem gebeurde en vraagt haar het opnieuw te doen, met zijn eigen ja. Ze sluiten de kamer af. De splinter bindt hem alleen zolang hij dat wil, en tegen de ochtend is zij degene die gehoorzaamt.
+- **premisse_codes:** KINK-Z8-46-Z50;VOOR-onderdanige-man;DRAGER-Z48-stal-9;BESLUIT-Z7-BINDING;LOT-Z44-sterrensteen;GEB-Z45-losbandige-jaren;EROS-Z45-haak-1
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-de8740db · 51+|v
+- **code:** VP-9-de8740db
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** beslisser
+- **genre:** intrige
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** toespraak
+- **afloop:** komt uit
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 71
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-zegelvoeding-Z50;RIT-zegelnacht-volk-Z50;VOOR-ritueel-Z50;LOT-Z44-zegellicht;STAD-saelith;ORDE-orde;FASE-z44-ja;PER-Z50-moeder-aurelie
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-moeder-aurelie
+- **premisse:** Moeder Aurelie is de laatste in Saelith die weet waarvoor de Zegelnacht dient. Het volk zingt elk jaar bij de stenen en denkt dat het dank brengt, maar wat het geeft, gaat naar de steen, net als bij de geheime voeding in de diepste zaal. Nu elk lichaam eerst ja moet zeggen, voelt ze dat als diefstal. We horen de toespraak die ze op de tempeltrap houdt voor de zang begint; hoeveel mensen daarna blijven, ziet ze pas als ze zwijgt.
+- **premisse_codes:** RIT-zegelvoeding-Z50;RIT-zegelnacht-volk-Z50;VOOR-ritueel-Z50;LOT-Z44-zegellicht;STAD-saelith;ORDE-orde;FASE-z44-ja
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-458079fa · 26-35|v
+- **code:** VP-9-458079fa
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** betaler
+- **genre:** romance
+- **schaal:** dorp
+- **volk:** grauwen
+- **vorm:** lichaam als verteller
+- **afloop:** werkt
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 27
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-melkzegen-Z50;LOT-Z44-grauwen;KINK-sjerp-signalen;VOLK-grauwen;FASE-z44-ja;PER-Z50-tjitske-grauwdal
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-tjitske-grauwdal
+- **premisse:** Veertig dagen na de geboorte van haar dochter loopt Tjitske, als eerste Grauwen-vrouw van het dal, het badhuis van het mensendorp binnen voor de melkzegen. Haar lichaam vertelt het: het warme water, de olie op haar buik, de gouden sjerp die afgaat en de rode die ervoor in de plaats komt. Haar grootmoeder wacht buiten op de stoep, want bij de Grauwen bestaat dit niet. Die avond nodigt Tjitske haar man weer uit, en haar huid weet wat ze heeft achtergelaten.
+- **premisse_codes:** RIT-melkzegen-Z50;LOT-Z44-grauwen;KINK-sjerp-signalen;VOLK-grauwen;FASE-z44-ja
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-5cd07985 · 26-35|v
+- **code:** VP-9-5cd07985
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** betaler
+- **genre:** survival
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** aftellen
+- **afloop:** werkt
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 28
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 3
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 2
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-gletsjerproef-Z50;VOOR-uithouding-Z50;HUI-kaldra-Z6;STAD-ijsgraf;LOT-Z44-gaven-mannen;KINK-duel-man;PER-Z50-brenna-kaldrun
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-brenna-kaldrun
+- **premisse:** In het IJsgraf staan Brenna en haar nicht naakt op het ijs terwijl een Moeder van Huis Kaldra de minuten aftelt; wie het langst blijft, krijgt de nacht met Tarvel, de laatste gaven-man van het huis. Brenna weet wat haar nicht niet weet: Tarvels vonk is op, er valt geen kracht meer te winnen. Ze blijft staan, om hem, tot haar tenen zwart kleuren. De nicht geeft op en kijkt toe. Brenna verliest twee tenen en wint een man zonder gave.
+- **premisse_codes:** RIT-gletsjerproef-Z50;VOOR-uithouding-Z50;HUI-kaldra-Z6;STAD-ijsgraf;LOT-Z44-gaven-mannen;KINK-duel-man
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-c68f53b9 · 26-35|v
+- **code:** VP-9-c68f53b9
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** beslisser
+- **genre:** actie
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** ballade
+- **afloop:** werkt
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 29
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 5
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-stormontlading-Z50;OORLOG-Z46-9-oorlog;LOT-Z44-gaven-mannen;KINK-ontlading-na-magie;GEB-Z45-losbandige-jaren;PER-Z50-mareike-orlen
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-mareike-orlen
+- **premisse:** Een lied uit de vrije stad Orlenhal: als de Bloedkerk de muren bestormt, houdt de stormman Haskel de poort met de laatste bliksem uit de Barsten. Daarna moet hij ontladen, anders verbrandt hij van binnen. Mareike, heelster van de stad, kiest te blijven en krijgt van hem het woord stil. De storm trekt door haar heen tot de dageraad. Hij geneest, maar een vleug van de bliksem blijft in haar handen achter, en vanaf die ochtend is hij een gewone man.
+- **premisse_codes:** RIT-stormontlading-Z50;OORLOG-Z46-9-oorlog;LOT-Z44-gaven-mannen;KINK-ontlading-na-magie;GEB-Z45-losbandige-jaren
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-1d462872 · 26-35|v
+- **code:** VP-9-1d462872
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** vervalser
+- **genre:** thriller
+- **schaal:** stad
+- **volk:** ishvar
+- **vorm:** realtime
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 28
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-44-Z50;KINK-Z8-60-Z50;DRAGER-Z48-gave-9;THRILL-Z46-9-thriller;STAD-brakhaven;EROS-STOP-Z7-mensen-zoutkust;LOT-Z44-gaven-mannen;PER-Z50-sahra-ventel
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-sahra-ventel
+- **premisse:** Sahra verkoopt in Brakhaven vonkcellen, prikkeldraadjes die tintelen op de huid, met een dimmer voor wie ze draagt. De lading komt van Corvin Aldeweer, die steeds minder te geven heeft, dus mengt ze er gemalen glas door en liegt over de rest. Eén nacht, uur na uur verteld: een klant probeert haar waar in bed en roept bij de eerste schok het stopwoord van de Kharvos-grens. Hij is een spion, en de schokken die hij terugstuurt, zijn een bericht voor haar.
+- **premisse_codes:** KINK-Z8-44-Z50;KINK-Z8-60-Z50;DRAGER-Z48-gave-9;THRILL-Z46-9-thriller;STAD-brakhaven;EROS-STOP-Z7-mensen-zoutkust;LOT-Z44-gaven-mannen
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-b33ae572 · 18-25|v
+- **code:** VP-9-b33ae572
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** liefde tussen posities
+- **genre:** horror
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** twee stemmen
+- **afloop:** faalt
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 23
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 4
+- **g_horror:** 4
+- **g_suspense:** 3
+- **g_actie:** 1
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-vuurgloed-Z50;HUI-qesh-Z6;STAD-qesh;PER-khaled;LOT-Z44-gaven-mannen;PER-Z50-naima-qesh
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-naima-qesh
+- **premisse:** In het Zonnepaleis van Qesh is Naïma de enige haremvrouw die nog om de vuurgloed vraagt, ook nu niemand haar een seizoen dienst meer kan opleggen. Sahir, een kleinzoon van Khaled-Ir, heeft nog vuur in zijn handen, maar het gehoorzaamt hem slecht: soms koel, dan ineens heet tot aan de grens van pijn. Ze vertellen het om beurten. Op een nacht zegt ze het woord zon, en hij stopt meteen, maar het vuur stopt niet met hem.
+- **premisse_codes:** RIT-vuurgloed-Z50;HUI-qesh-Z6;STAD-qesh;PER-khaled;LOT-Z44-gaven-mannen
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-05430398 · 26-35|v
+- **code:** VP-9-05430398
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** profiteur
+- **genre:** komedie
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** rondes
+- **afloop:** keert om
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 29
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 5
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 2
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-30-Z50;KINK-ontvangst-via-mond;EROS-Z45-haak-2;REG-zoutkust;LOT-Z44-gaven-mannen;GEB-Z45-losbandige-jaren;PER-Z50-lijsbet-zoutkust
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-lijsbet-zoutkust
+- **premisse:** Op het oogstfeest aan de Zoutkust trekken Lijsbet en haar vriendin Wobbe lootjes om Jasper, die nog een vonk heeft die een kaars aansteekt. Ze delen hem met mond en tong, ronde na ronde, en het lot zegt wie begint. Lijsbet zorgt stiekem dat zij steeds het laatste krijgt, want dat geeft de meeste kracht. Wobbe ziet het pas bij de derde ronde, laat het gaan en neemt geen Maankruid. In het voorjaar heeft Lijsbet de kracht en Wobbe de man.
+- **premisse_codes:** KINK-Z8-30-Z50;KINK-ontvangst-via-mond;EROS-Z45-haak-2;REG-zoutkust;LOT-Z44-gaven-mannen;GEB-Z45-losbandige-jaren
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-23f43f60 · 36-50|v
+- **code:** VP-9-23f43f60
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** ontdekker
+- **genre:** mysterie
+- **schaal:** stad
+- **volk:** sael-mor
+- **vorm:** rechtszaak
+- **afloop:** komt uit
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 40
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 2
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 3
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-57-Z50;DRAGER-Z48-ontvangst-9;GOD-ysa;STAD-saelith;VOLK-sael-mor;GEB-Z45-losbandige-jaren;PER-Z50-oriane-zoutvel
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-oriane-zoutvel
+- **premisse:** Oriane, een Sael-mor-vrouw met een spleet in haar hals, deelt op Ysa-dag in Saelith de armbanden uit: wie er een draagt, is volwassen en doet mee. Bij zonsopgang ligt er een man dood tussen de kussens, met twee armbanden om zijn pols. De stadsrechtbank wil dat Oriane zweert dat ze hem er maar één gaf. Voor de rechters, met Moeder Aurelie als getuige, legt ze uit hoe de armbanden geteld worden, en zo komt uit wie zich de nacht van een ander had geleend.
+- **premisse_codes:** KINK-Z8-57-Z50;DRAGER-Z48-ontvangst-9;GOD-ysa;STAD-saelith;VOLK-sael-mor;GEB-Z45-losbandige-jaren
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-73c8a6b7 · 26-35|m
+- **code:** VP-9-73c8a6b7
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** profiteur
+- **genre:** komedie
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** getuigenverslag
+- **afloop:** werkt
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 32
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 1
+- **g_intrige:** 3
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-kettingstoet-Z50;DRAGER-Z48-stal-9;REG-ambergaard;PER-gewone-mannen;VERHAAL-Z44-tijdperk-9;COMEDY-Z46-9-comedy;PER-Z50-joren-pekel
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-joren-pekel
+- **premisse:** Een marktvrouw uit Ambergaard vertelt hoe Joren, die zelf ooit in halsband door de straten liep, in 807 de eerste kettingstoet organiseert waarvoor de mannen betaald worden. Wie wil lopen, schrijft zich in; vrouwen betalen per aanraking langs de rij en een dubbel tarief om te kiezen. Dorran loopt vooraan en wordt zes keer gekozen. Tot verbazing van de stad werkt het: de oude bezitsters betalen braaf, en Joren koopt van de opbrengst de stal waarin hij sliep.
+- **premisse_codes:** RIT-kettingstoet-Z50;DRAGER-Z48-stal-9;REG-ambergaard;PER-gewone-mannen;VERHAAL-Z44-tijdperk-9;COMEDY-Z46-9-comedy
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-25bf2833 · 18-25|m
+- **code:** VP-9-25bf2833
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** ontdekker
+- **genre:** romance
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** jij-vorm
+- **afloop:** keert om
+- **hoofdpersoon:** 18-25|m
+- **leeftijd:** 21
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 5
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-melkrite;VOOR-dominante-vrouw-Z50;HUI-varenne;MACHT-gewone-mannen;VERHAAL-Z44-tijdperk-9;REG-ambergaard;PER-Z50-dorran-stalhof
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-dorran-stalhof
+- **premisse:** Jij bent Dorran, eenentwintig, melkman in de stallen van Varenne, en elke ochtend melkt meesteres Ilona je met dezelfde zorgvuldige hand. Je hebt nooit iets gewild, omdat niemand het vroeg. Op een ochtend kijk je haar aan en zeg je dat ze langzamer moet. Ze doet het. De volgende dag zeg je wanneer ze moet stoppen, en de dag erna wanneer niet. Een week later staat zij met haar rug tegen de stalmuur en vraagt ze jou of het mag.
+- **premisse_codes:** KINK-melkrite;VOOR-dominante-vrouw-Z50;HUI-varenne;MACHT-gewone-mannen;VERHAAL-Z44-tijdperk-9;REG-ambergaard
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-b0775c41 · 51+|m
+- **code:** VP-9-b0775c41
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** vervalser
+- **genre:** intrige
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** documenten
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 51+|m
+- **leeftijd:** 66
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 2
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-20-Z50;REG-ambergaard;GEB-Z45-losbandige-jaren;MACHT-gewone-mannen;FASE-z44-ja;PER-Z50-gerolt-veerman
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-gerolt-veerman
+- **premisse:** Gerolt schrijft pamfletten voor de Mannenraad van Ambergaard, en zijn sterkste beeld is de nacht waarin de man beveelt. Hij betaalt een paar dat de machtsruil op het plein speelt, als bewijs dat mannen kunnen leiden. Uit zijn brieven, de pamfletten en het verslag van de schout blijkt wat de Raad nooit hoort: de vrouw kiest elke nacht zelf, de man vraagt bij elk bevel of het goed is, en Gerolt schrijft alles om. Alleen de schout weet het, en die zwijgt.
+- **premisse_codes:** KINK-Z8-20-Z50;REG-ambergaard;GEB-Z45-losbandige-jaren;MACHT-gewone-mannen;FASE-z44-ja
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-aabc3d7c · 36-50|v
+- **code:** VP-9-aabc3d7c
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** betaler
+- **genre:** horror
+- **schaal:** huis
+- **volk:** vathren
+- **vorm:** zelfportret
+- **afloop:** faalt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 45
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-4-Z50;LOT-Z44-vathren;LOT-Z44-leegtewormen;VOLK-vathren-Z6;STAD-saelith;PER-Z50-embla-vathre
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-embla-vathre
+- **premisse:** Embla, een Vathren-ziener die het Zegel steeds zachter hoort, laat zich in een vormhuis in Saelith elke dag een duim verder oprekken met ademend kweekvlees, onder het oog van heelster Mareike. Ze tekent zichzelf na elke maat. Op de veertigste dag fluistert het vlees een naam, Merwin, en Mareike kent die: een man die vorig jaar in hetzelfde huis stierf. De tekeningen worden donkerder. Als het vlees zich vasthecht, krijgt Mareike het niet meer los zonder Embla open te snijden.
+- **premisse_codes:** KINK-Z8-4-Z50;LOT-Z44-vathren;LOT-Z44-leegtewormen;VOLK-vathren-Z6;STAD-saelith
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-31b42fe0 · 51+|v
+- **code:** VP-9-31b42fe0
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** profiteur
+- **genre:** intrige
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** register als verteller
+- **afloop:** faalt
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 58
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 3
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-NETWERK-Z10;DRAGER-Z48-stal-9;ORDE-orde;COMEDY-Z46-9-comedy;GEB-Z45-losbandige-jaren;LOT-Z44-zegellicht;PER-Z50-lotje-inkt
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-lotje-inkt
+- **premisse:** Ik ben het kinkregister van de Orde, tweehonderd soorten genot op tien domeinen, van oorlog tot spionage, en Lotje Inkt kocht mij voor een prik toen de Orde vertrok. Ze verkoopt mijn bladen los aan de Huizen van Spel, en aan iedereen die wil weten wat zijn buurvrouw in 790 deed. Gerolt van de Mannenraad koopt het blad over de machtsruil. Elk verkocht blad is een draad minder in mij. Ze wordt er niet rijk van, en aan het eind ziet niemand meer hoe het ene genot het andere vasthield.
+- **premisse_codes:** KINK-NETWERK-Z10;DRAGER-Z48-stal-9;ORDE-orde;COMEDY-Z46-9-comedy;GEB-Z45-losbandige-jaren;LOT-Z44-zegellicht
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-e914fd27 · 26-35|m
+- **code:** VP-9-e914fd27
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** liefde tussen posities
+- **genre:** komedie
+- **schaal:** dorp
+- **volk:** vathren
+- **vorm:** wij-vorm
+- **afloop:** werkt
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 30
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-verboden-toegang;VOOR-Z46-de-vraag;DRAGER-Z48-ontvangst-9;LOT-Z44-zegellicht;LOT-Z44-vathren;GEB-Z45-losbandige-jaren;EROS-Z45-haak-1;PER-Z50-bastiaan-velde
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-bastiaan-velde
+- **premisse:** Wij, Bastiaan en Rinske, hebben elkaar tien jaar alleen in schuren gehad, in hooi en tussen netten, juist omdat het niet mocht. Nu mag alles, de tempel vraagt niets meer, en in ons eigen bed gebeurt er niets. We proberen de hooizolder van de schout, de boot van de veerman, een tent op de markt. Niemand jaagt ons weg. Pas als Rinske hardop vraagt of hij wil, en hij lang genoeg wacht met zijn antwoord, voelt het weer als stelen.
+- **premisse_codes:** KINK-verboden-toegang;VOOR-Z46-de-vraag;DRAGER-Z48-ontvangst-9;LOT-Z44-zegellicht;LOT-Z44-vathren;GEB-Z45-losbandige-jaren;EROS-Z45-haak-1
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-efd90410 · 26-35|v
+- **code:** VP-9-efd90410
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** beslisser
+- **genre:** thriller
+- **schaal:** huis
+- **volk:** ishvar
+- **vorm:** getuigenverslag
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 30
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 1
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-doorgang-duizend-handen-Z50;VOOR-anoniem-Z50;RIT-verzoening-Z50;HUI-Z11-kusthuizen;PER-ishvar-schurk-ammar;STAD-saelith;INTR-Z46-9-intrige;PER-Z50-ismay-ammar
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-ismay-ammar
+- **premisse:** Na jaren van vete stelt een Moeder voor dat Huis Ammar en Huis Tolve zich verzoenen in het badhuis van Saelith: elkaar wassen, samen eten, zout op de tong. Ismay Ammar eist eerst de Doorgang der Duizend Handen, geblinddoekt, met de bel in haar eigen hand. Een badmeid getuigt later dat een van de handen een mes droeg en dat Ismay niet belde. De verzoening gaat door. Wie de hand was en waarom Ismay zweeg, staat in geen verslag; alleen Sahra, die het huis bevoorraadt, weet het.
+- **premisse_codes:** RIT-doorgang-duizend-handen-Z50;VOOR-anoniem-Z50;RIT-verzoening-Z50;HUI-Z11-kusthuizen;PER-ishvar-schurk-ammar;STAD-saelith;INTR-Z46-9-intrige
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-187d7dc1 · 18-25|m
+- **code:** VP-9-187d7dc1
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** ontdekker
+- **genre:** komedie
+- **schaal:** dorp
+- **volk:** oevrin
+- **vorm:** realtime
+- **afloop:** werkt
+- **hoofdpersoon:** 18-25|m
+- **leeftijd:** 20
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 2
+- **g_actie:** 1
+- **g_intrige:** 0
+- **g_komedie:** 5
+- **g_tragiek:** 0
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-paaipoel;VOLK-oevrin;LOT-Z44-oevrin;REG-zoutkust;FASE-z44-ja;PER-Z50-sjoerd-zoutzieder
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-sjoerd-zoutzieder
+- **premisse:** Sjoerd is twintig, zoon van een zoutzieder, en hij heeft gewed dat hij een hele nacht in de paaipoel van de Oevrin durft te blijven. We volgen die nacht minuut voor minuut: het lauwe slik, de zang die door zijn ribben trilt, de afscheiding die zich mengt tot niemand weet wat van wie is. Hij raakt zijn schoenen kwijt, zijn weddenschap en zijn verlegenheid. Bij laag tij kruipt hij eruit, en de Oevrin vragen hem met de volgende springvloed terug.
+- **premisse_codes:** VOOR-paaipoel;VOLK-oevrin;LOT-Z44-oevrin;REG-zoutkust;FASE-z44-ja
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-f571fb89 · 51+|m
+- **code:** VP-9-f571fb89
+- **run:** Z50
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** vervalser
+- **genre:** romance
+- **schaal:** huis
+- **volk:** aelthir
+- **vorm:** brieven
+- **afloop:** faalt
+- **hoofdpersoon:** 51+|m
+- **leeftijd:** 70
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-geest-Z50;DRAGER-Z48-gave-9;SEKS-VOLK-aelthir-koelen;LOT-Z44-gaven-mannen;VOLK-aelthir-V5;LOT-Z44-aelthir;PER-Z50-aldric-mistveld
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-aldric-mistveld
+- **premisse:** Aldric is zeventig en zijn geestgave is al jaren weg, maar Ilvaren, de Aelthir met wie hij elke winter deelt, weet dat niet. In brieven aan zijn broer beschrijft hij hoe hij haar genot naspeelt uit herinnering: hij kent haar adem, haar stiltes, het moment dat ze koel wordt. Zij denkt dat hij haar voelt, en ze vertrouwt hem dingen toe die ze alleen aan iemand in haar hoofd zou zeggen. De laatste brief schrijft hij op de avond dat ze vraagt wat zij nu denkt.
+- **premisse_codes:** VOOR-geest-Z50;DRAGER-Z48-gave-9;SEKS-VOLK-aelthir-koelen;LOT-Z44-gaven-mannen;VOLK-aelthir-V5;LOT-Z44-aelthir
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-10-29c378e3 · 51+|m
+- **code:** VP-10-29c378e3
+- **run:** Z50
+- **fase:** 10 Tijd der Volken (na 801)
+- **positie:** vervalser
+- **genre:** komedie
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** kasboek
+- **afloop:** keert om
+- **hoofdpersoon:** 51+|m
+- **leeftijd:** 60
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 3
+- **g_komedie:** 5
+- **g_tragiek:** 0
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-9-Z50;STAD-saelith;LOT-Z44-zegellicht;FASE-z44-volken;ORDE-orde;PER-Z50-bertram-lak
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-bertram-lak
+- **premisse:** Bertram Lak maakt al veertig jaar lakken laarzen tot de dij voor de rijke vrouwen van Saelith. Als de laarzen van een oude Moeder van de Orde gestolen worden, bestellen twaalf vrouwen een kopie, elk met de belofte dat zij de enige is. Zijn kasboek groeit, regel na regel, tot de twaalf op het groetfeest naast elkaar staan en de mannen niet weten wiens laarzen ze moeten kussen. De echte duiken op aan de benen van Bertrams eigen vrouw.
+- **premisse_codes:** KINK-Z8-9-Z50;STAD-saelith;LOT-Z44-zegellicht;FASE-z44-volken;ORDE-orde
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-10-5f72315a · 26-35|v
+- **code:** VP-10-5f72315a
+- **run:** Z50
+- **fase:** 10 Tijd der Volken (na 801)
+- **positie:** betaler
+- **genre:** horror
+- **schaal:** huis
+- **volk:** myrrhen
+- **vorm:** dagboek
+- **afloop:** faalt
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 30
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-27-Z50;VOLK-myrrhen-Z6;LOT-Z44-myrrhen;DRAGER-Z48-geheugen-10;FASE-z44-volken;PER-Z50-veenke-wortel
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-veenke-wortel
+- **premisse:** Veenke vlecht kooien van levende wortel in de veenhallen, en in haar dagboek schrijft ze over de nachten met haar geliefde Jelle erin: het hout dat ademt, de aarde, de warme lucht tussen de spijlen. De sleutel is een gezongen woord. Elke keer groeit de kooi een vinger dichter, en het net onthoudt wat erin gefluisterd wordt. Op een avond zingt ze het woord en de wortel blijft dicht. Ze zingt tot haar stem breekt, en Jelle zit binnen.
+- **premisse_codes:** KINK-Z8-27-Z50;VOLK-myrrhen-Z6;LOT-Z44-myrrhen;DRAGER-Z48-geheugen-10;FASE-z44-volken
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-10-96c5b259 · 51+|v
+- **code:** VP-10-96c5b259
+- **run:** Z50
+- **fase:** 10 Tijd der Volken (na 801)
+- **positie:** beslisser
+- **genre:** thriller
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** kamerspel
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 65
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 3
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-36-Z50;VOOR-metamorfose;LOT-Z44-leegtewormen;LIJN-overzicht;ACTIE-Z46-10-actie;FASE-z44-volken;PER-Z50-ottilie-vormhuis
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-ottilie-vormhuis
+- **premisse:** Ottilie is vormmeesteres en scheidsrechter bij het vormspel: zij zegt hoe ver een lichaam tijdens de liefde mag zwellen of krimpen. Haar trouwste klant, Cas, wil elke maand verder, en sinds kort een heel andere gestalte, die van de worm uit de oude verhalen. In één kamer, met Veenkes wortelkooi tegen de deur, weegt ze haar regels tegen zijn wens. Ze geeft hem een vorm die op de worm lijkt en het niet is, en vertelt hem nooit het verschil.
+- **premisse_codes:** KINK-Z8-36-Z50;VOOR-metamorfose;LOT-Z44-leegtewormen;LIJN-overzicht;ACTIE-Z46-10-actie;FASE-z44-volken
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-10-c530606d · 26-35|v
+- **code:** VP-10-c530606d
+- **run:** Z50
+- **fase:** 10 Tijd der Volken (na 801)
+- **positie:** betaler
+- **genre:** thriller
+- **schaal:** stad
+- **volk:** sael-mor
+- **vorm:** brieven
+- **afloop:** keert om
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 28
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 1
+- **g_romance:** 1
+- **g_erotiek:** 2
+- **g_horror:** 2
+- **g_suspense:** 5
+- **g_actie:** 1
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-48-Z50;STAD-brakhaven;THRILL-Z46-10-thriller;VOLK-sael-mor;HUI-mirre;PER-Z50-annelot-zoutvel
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-annelot-zoutvel
+- **premisse:** Annelot Zoutvel heeft schulden bij de havenbazen van Brakhaven en wordt op de vlootmarkt geveild voor drie jaar dienst; dat is hier een gelabeld donker thema, met ketting, zon en een menigte die biedt. In brieven aan haar zus Kessa smeekt ze om geld dat niet komt. De gemaskerde koper laat haar de eerste nacht alleen. Pas maanden later herkent Annelot het handschrift op haar dienstbrief: Kessa heeft haar gekocht, en wil dat Annelot haar daarom haat.
+- **premisse_codes:** KINK-Z8-48-Z50;STAD-brakhaven;THRILL-Z46-10-thriller;VOLK-sael-mor;HUI-mirre
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-10-4fbf6c00 · 18-25|m
+- **code:** VP-10-4fbf6c00
+- **run:** Z50
+- **fase:** 10 Tijd der Volken (na 801)
+- **positie:** liefde tussen posities
+- **genre:** romance
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** getuigenverslag
+- **afloop:** werkt
+- **hoofdpersoon:** 18-25|m
+- **leeftijd:** 22
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 2
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-publieke-ontvangst;VOOR-vernedering-Z50;DRAGER-Z48-ontvangst-9;STAD-saelith;LOT-Z44-zegellicht;RIT-ontvangst-Z50;FASE-z44-volken;PER-Z50-tomas-trapper
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-tomas-trapper
+- **premisse:** Tomas is tweeëntwintig en wil op de tempeltrappen van Saelith de publieke Ontvangst doen met tempelhoedster Odalie, zoals op elk lentefeest sinds het zegellicht uit is. Halverwege, voor honderd getuigen, laat zijn lichaam hem in de steek, en de menigte lacht. Ardis, een vrouw uit het Hoogvrouwe-gebergte, vertelt wat er daarna gebeurt: Odalie, op de laarzen van Bertram Lak, laat hem knielen en weer opstaan, en de trappen worden stil tot het lachen een lied is.
+- **premisse_codes:** KINK-publieke-ontvangst;VOOR-vernedering-Z50;DRAGER-Z48-ontvangst-9;STAD-saelith;LOT-Z44-zegellicht;RIT-ontvangst-Z50;FASE-z44-volken
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-10-47c3b969 · 36-50|v
+- **code:** VP-10-47c3b969
+- **run:** Z50
+- **fase:** 10 Tijd der Volken (na 801)
+- **positie:** toeschouwer
+- **genre:** actie
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** lichaam als verteller
+- **afloop:** keert om
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 41
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 4
+- **g_intrige:** 0
+- **g_komedie:** 2
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-duel-man;VOOR-voyeurisme-Z50;REG-hoogvrouwe;RIT-duel-man-Z50;LOT-Z44-ishvar;FASE-z44-volken;PER-Z50-ardis-hoogveld
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-ardis-hoogveld
+- **premisse:** In een dorp van het Hoogvrouwe-gebergte vechten Ardis en de jonge Sanne met stokken op het dorsveld om wie de nacht krijgt met smid Haldor. Ardis verliest, zoals haar lichaam al wist: haar knie, haar adem, de jaren in haar schouders. Ze kijkt toe, zoals de regel vraagt, en haar lichaam vertelt wat het kijken met haar doet. Tegen de ochtend gaat Haldor niet naar de winnares maar naar de toeschouwster, en Sanne lacht, want ze vocht nooit om hem.
+- **premisse_codes:** KINK-duel-man;VOOR-voyeurisme-Z50;REG-hoogvrouwe;RIT-duel-man-Z50;LOT-Z44-ishvar;FASE-z44-volken
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-10-1befe506 · 26-35|v
+- **code:** VP-10-1befe506
+- **run:** Z50
+- **fase:** 10 Tijd der Volken (na 801)
+- **positie:** toeschouwer
+- **genre:** romance
+- **schaal:** huis
+- **volk:** kluwer
+- **vorm:** wij-vorm
+- **afloop:** werkt
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 35
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 5
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-laatste-bed-Z50;DRAGER-Z48-korf-10;LOT-Z44-kluwers;INTR-Z46-10-intrige;VOLK-kluwer;FASE-z44-volken;PER-Z50-zirrah-was
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-zirrah-was
+- **premisse:** Wij zijn de werksters van wat ooit een korf was, en Zirrah is de jongste van ons. Onze dar Zummel is de eerste die oud werd in plaats van te sterven na de paartijd, en nu is hij toch dood. Niemand weet hoe je een dar betreurt. Zirrah wil het Laatste Bed: we zalven hem, liggen een nacht om hem heen en troosten elkaar met onze lichamen. Bij de brandstapel ruikt de was naar hem, en we weten ineens wat een familie is.
+- **premisse_codes:** RIT-laatste-bed-Z50;DRAGER-Z48-korf-10;LOT-Z44-kluwers;INTR-Z46-10-intrige;VOLK-kluwer;FASE-z44-volken
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-10-bb990e21 · 51+|v
+- **code:** VP-10-bb990e21
+- **run:** Z50
+- **fase:** 10 Tijd der Volken (na 801)
+- **positie:** beslisser
+- **genre:** survival
+- **schaal:** huis
+- **volk:** dhurn
+- **vorm:** rondes
+- **afloop:** komt uit
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 60
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 4
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-reizigersgroet-Z50;VOOR-oudere-vrouw-Z50;VOLK-dhurn;LOT-Z44-dhurn;VERHAAL-Z44-tijdperk-10;FASE-z44-volken;PER-Z50-hendrika-steenhut
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-hendrika-steenhut
+- **premisse:** Hendrika Steenhut is zestig, half Dhurn, en houdt de berghut onder de Amberpas. In een sneeuwstorm kloppen vier reizigers aan, en elk biedt volgens de groet een gift of een nacht; weigeren mag. Per ronde kiest Hendrika wat ze aanneemt: brood, een mes, een nacht met de stille marskramer. De vierde biedt niets en vraagt alleen een plaats bij het vuur. Bij de dooi blijkt dat hij uit Hoornburg komt en weet welke weg nog open is, en omdat zij niets van hem vroeg, vertelt hij het haar.
+- **premisse_codes:** RIT-reizigersgroet-Z50;VOOR-oudere-vrouw-Z50;VOLK-dhurn;LOT-Z44-dhurn;VERHAAL-Z44-tijdperk-10;FASE-z44-volken
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-10-25031c03 · 26-35|m
+- **code:** VP-10-25031c03
+- **run:** Z50
+- **fase:** 10 Tijd der Volken (na 801)
+- **positie:** vervalser
+- **genre:** intrige
+- **schaal:** rijk
+- **volk:** ishvar
+- **vorm:** toespraak
+- **afloop:** faalt
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 28
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-volk-ishvar-Z50;SEKS-VOLK-ishvar-kern;VOLK-ishvar;LOT-Z44-ishvar;STAD-qesh;PER-Z50-faren-zandloper
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-faren-zandloper
+- **premisse:** Faren wil trouwen met Zehra van de Putten, en haar familie eist de Geloftebrand, de vuurrite die alleen Ishvar mogen ondergaan, met een hoedster die stopt als het te veel wordt. Hij verzint een Ishvar-grootmoeder en leert de eden bij de zon uit zijn hoofd. Wat we lezen, is zijn toespraak voor de rite, in hun taal, foutloos. De hoedster stopt hem niet bij het vuur maar bij één woord: hij zweert zoals alleen iemand van buiten zweert.
+- **premisse_codes:** RIT-volk-ishvar-Z50;SEKS-VOLK-ishvar-kern;VOLK-ishvar;LOT-Z44-ishvar;STAD-qesh
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-10-4bfa3275 · 36-50|v
+- **code:** VP-10-4bfa3275
+- **run:** Z50
+- **fase:** 10 Tijd der Volken (na 801)
+- **positie:** profiteur
+- **genre:** actie
+- **schaal:** rijk
+- **volk:** dhurn
+- **vorm:** aftellen
+- **afloop:** komt uit
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 42
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 2
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-inplanting;DRAGER-Z48-steen-10;OORLOG-Z46-10-oorlog;VOLK-orrim;LOT-Z44-orrim;LOT-Z44-sterrensteen;PER-Z50-grenna-hamer
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-grenna-hamer
+- **premisse:** Grenna smokkelt in de groevenoorlog Orrim-kristalzaad door de linies, en de veiligste bergplaats is haar eigen lichaam: ze laat het zaad inbrengen, voelt het groeien en weet dat het binnen negen dagen te groot wordt. Haar minnaar, die het erin legde, telt mee. Dag na dag gaat het langs posten en ingestorte gangen, met een nacht bij Hendrika Steenhut onder de Amberpas. Op de achtste dag bereikt ze de koper, en het zaad komt eruit als een steen met haar warmte erin.
+- **premisse_codes:** VOOR-inplanting;DRAGER-Z48-steen-10;OORLOG-Z46-10-oorlog;VOLK-orrim;LOT-Z44-orrim;LOT-Z44-sterrensteen
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-10-ee9fd6f3 · 18-25|v
+- **code:** VP-10-ee9fd6f3
+- **run:** Z50
+- **fase:** 10 Tijd der Volken (na 801)
+- **positie:** ontdekker
+- **genre:** mysterie
+- **schaal:** stad
+- **volk:** oevrin
+- **vorm:** jij-vorm
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 20
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 5
+- **g_horror:** 2
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-slijm;VOLK-oevrin;LOT-Z44-oevrin;STAD-brakhaven;LOT-Z44-registerkraaien-stem;PER-Z50-liesje-badhuis
+- **herkomst:** schrijver A (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-liesje-badhuis
+- **premisse:** Je heet Liesje, je bent twintig en je werkt in een badhuis in Brakhaven waar ze Oevrin-slijm verkopen, het glijmiddel dat ook een roes geeft. Je baadt erin met wie je kiest, en daarna weet je dingen die je nooit leerde: een lied, een getijde, de naam van een verdronken vrouw. Annelot Zoutvel, die er werkt sinds haar dienstjaren, zegt dat je moet ophouden met vragen. Je vraagt toch, en vindt van wie het slijm komt, maar je vertelt het niemand.
+- **premisse_codes:** VOOR-slijm;VOLK-oevrin;LOT-Z44-oevrin;STAD-brakhaven;LOT-Z44-registerkraaien-stem
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-4485995d · 36-50|v
+- **code:** VP-11-4485995d
+- **run:** Z50
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** betaler
+- **genre:** thriller
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** getuigenverslag
+- **afloop:** keert om
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 44
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 1
+- **g_romance:** 1
+- **g_erotiek:** 1
+- **g_horror:** 3
+- **g_suspense:** 5
+- **g_actie:** 3
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-kharvosrite;VOOR-gevangenschap-Z50;REG-kharvos-B1;OORLOG-Z46-11-oorlog;HUI-kaldra-Z6;FASE-z44-helden;PER-Z50-b-brenna-ostkaar
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-brenna-ostkaar
+- **premisse:** Brenna Ostkaar, veldvrouwe uit een zijtak van Kaldra, rijdt met een kist zilver het kamp in van een Kharvos-heer die grensvrouwen gevangen houdt. De tolk vertelt later hoe de heer het zilver weigert en haarzelf als gijzelaar eist, en hoe Brenna toestemt om de anderen vrij te krijgen. De verdeling van gevangenen blijft dreiging aan de rand van het verhaal: gelabeld donker thema, nooit verheerlijkt. Dan draait het om, want de heer blijkt zelf gevangene van zijn eigen leger.
+- **premisse_codes:** RIT-kharvosrite;VOOR-gevangenschap-Z50;REG-kharvos-B1;OORLOG-Z46-11-oorlog;HUI-kaldra-Z6;FASE-z44-helden
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-f40f034c · 36-50|v
+- **code:** VP-11-f40f034c
+- **run:** Z50
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** liefde tussen posities
+- **genre:** romance
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** brieven
+- **afloop:** werkt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 37
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 2
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-rolwissel-in-kharvos;RIT-duel-man-Z50;REG-kharvos-B1;KINK-duel-man;STAD-kaldrun;OORLOG-Z46-11-oorlog;PER-Z50-b-brenna-ostkaar
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-brenna-ostkaar
+- **premisse:** In brieven aan haar zuster in Kaldrun beschrijft gezante Brenna de puinstad onder het gevallen Hoornburg, waar mannen nog heersen uit gewoonte en waar zij opeens bezit heet. Ze wordt verliefd op Edrik, een schrijver van de vorst die om haar sjerp lacht. Wanneer een hofdame hem opeist, daagt Brenna haar uit tot een duel naar Kaldra-gebruik, tot opgave. Edrik mag weigeren. Hij zegt ja, en het hof weet niet meer wie van wie is.
+- **premisse_codes:** KINK-rolwissel-in-kharvos;RIT-duel-man-Z50;REG-kharvos-B1;KINK-duel-man;STAD-kaldrun;OORLOG-Z46-11-oorlog
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-e36d02b6 · 51+|m
+- **code:** VP-11-e36d02b6
+- **run:** Z50
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** toeschouwer
+- **genre:** romance
+- **schaal:** huis
+- **volk:** aelthir
+- **vorm:** lijst die krimpt
+- **afloop:** faalt
+- **hoofdpersoon:** 51+|m
+- **leeftijd:** 54
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 5
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-Z46-vervagen;KINK-Z8-41-Z50;DRAGER-Z48-geheugen-10;LOT-Z44-aelthir;D1-aelthir-ziekte;EROS-Z45-haak-5;VOLK-aelthir-V5;PER-Z50-b-wessel-oom
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-wessel-oom
+- **premisse:** Wessel giet al dertig jaar kaarsen in een dorp aan de mistrand. Neveth, een Aelthir, vraagt hem heet vet op haar huid te druppelen, omdat alleen hitte haar nog bereikt. Elke keer neemt de was een afdruk van haar rug, en hij zet die op een plank. Daarnaast houdt hij bij wat ze nog voelt: wol, adem, zijn duim. Dat lijstje wordt korter. Op een ochtend kijkt ze naar de afdrukken en vraagt ze hem wie hij is.
+- **premisse_codes:** VOOR-Z46-vervagen;KINK-Z8-41-Z50;DRAGER-Z48-geheugen-10;LOT-Z44-aelthir;D1-aelthir-ziekte;EROS-Z45-haak-5;VOLK-aelthir-V5
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-b1343bfc · 26-35|m
+- **code:** VP-11-b1343bfc
+- **run:** Z50
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** ontdekker
+- **genre:** komedie
+- **schaal:** dorp
+- **volk:** tharn
+- **vorm:** kamerspel
+- **afloop:** werkt
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 33
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 5
+- **g_tragiek:** 0
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-verplettering;VOOR-lichaam-Z50;DRAGER-Z48-maat-10;LOT-Z44-tharn;COMEDY-Z46-11-comedy;VOLK-tharn;UIT-VOLK-tharn;PER-Z50-b-brokke-hamerling
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-brokke-hamerling
+- **premisse:** Brokke, smid met een Dhurn-grootvader, woont bij de poort waar een oude Tharn en een oude Dhurn al jaren kibbelen over wie de laatste is. Hij houdt van Gudrun, twee meter zeventig, met een Tharn-overgrootmoeder, die bang is hem te breken als ze op hem ligt. In één kamer, met de twee ruziemakers onder het raam, leren ze tellen: zijn adem, haar gewicht, drie klopjes op de vloer bij genoeg. Het lukt, en buiten horen de oude mannen alles.
+- **premisse_codes:** VOOR-verplettering;VOOR-lichaam-Z50;DRAGER-Z48-maat-10;LOT-Z44-tharn;COMEDY-Z46-11-comedy;VOLK-tharn;UIT-VOLK-tharn
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-b41a1799 · 26-35|m
+- **code:** VP-11-b41a1799
+- **run:** Z50
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** beslisser
+- **genre:** actie
+- **schaal:** huis
+- **volk:** dhurn
+- **vorm:** aftellen
+- **afloop:** keert om
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 35
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-volk-dhurn-Z50;DRAGER-Z48-zoem-10;SEKS-VOLK-dhurn-kern;ACTIE-Z46-11-actie;LOT-Z44-dhurn;LOT-Z44-sterrensteen;PER-Z50-b-brokke-hamerling
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-brokke-hamerling
+- **premisse:** Gudrun en Brokke laten zich verzegelen zoals de Dhurn het deden: het gilde sluit het paar op in een schacht, een hoedster waakt bij het luik. Midden in de rite verliest de steen in de hal zijn laatste gloed en kraken de stutten. De hoedster telt hardop hoeveel tijd er rest. Gudrun zet haar rug onder de zoldering, Brokke slaat zoemend ijzer in de spleet, en de schacht waarin ze zich wilden binden, wordt de uitweg voor het hele gilde.
+- **premisse_codes:** RIT-volk-dhurn-Z50;DRAGER-Z48-zoem-10;SEKS-VOLK-dhurn-kern;ACTIE-Z46-11-actie;LOT-Z44-dhurn;LOT-Z44-sterrensteen
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-8bfa1105 · 26-35|m
+- **code:** VP-11-8bfa1105
+- **run:** Z50
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** ontdekker
+- **genre:** mysterie
+- **schaal:** dorp
+- **volk:** orrim
+- **vorm:** lichaam als verteller
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 29
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 2
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-slijpen;VOOR-pijn-genot-Z50;DRAGER-Z48-steen-10;LOT-Z44-orrim;VOLK-orrim;PER-orrim-held-sliep;PER-Z50-b-tamas-rijsel
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-tamas-rijsel
+- **premisse:** Verteld door de huid van Tamas, steenslijper aan de rand van de woestijn: hoe hij met zijn geliefde Ilke het stof opveegt dat de Orrim nog van elkaar slijpen, hoe ze het door olie roeren en elkaar ermee schuren tot het schrijnt, en hoe koel het stilliggen daarna is. Ze doen het naast een beeld dat 's nachts warm wordt. Tamas begint te vermoeden dat het kijkt en dat het stof van dat beeld komt. Ilke wil het niet weten, dus vraagt hij het niemand.
+- **premisse_codes:** VOOR-slijpen;VOOR-pijn-genot-Z50;DRAGER-Z48-steen-10;LOT-Z44-orrim;VOLK-orrim;PER-orrim-held-sliep
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-e85b1498 · 26-35|v
+- **code:** VP-11-e85b1498
+- **run:** Z50
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** betaler
+- **genre:** intrige
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** jij-vorm
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 31
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-ontzegging-leegte;RIT-leegtewake-Z50;DRAGER-Z48-gave-11;VOOR-sporenroes;RIT-ontzegging-binding;HORROR-Z46-11-horror;LOT-Z44-gaven-mannen;PER-Z50-b-mareth-vlaskamp
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-mareth-vlaskamp
+- **premisse:** Jij ademt al drie jaar elke volle maan de sporen van Hesse in, en daarna hunker je twee dagen, zoals vrouwen vroeger naar een gaven-man. Hesse weet dat. Wie hem gehoorzaamt, krijgt sporen; wie vragen stelt, wacht. Zo regeert hij het eiland vanuit zijn keuken. Op jouw verzoek binden je vriendinnen je met zachte linten in de binnenhof en houden ze je vast tot de tweede zonsopgang. In die nacht proef je eindelijk wat hij door de sporen mengt.
+- **premisse_codes:** KINK-ontzegging-leegte;RIT-leegtewake-Z50;DRAGER-Z48-gave-11;VOOR-sporenroes;RIT-ontzegging-binding;HORROR-Z46-11-horror;LOT-Z44-gaven-mannen
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-6aaedb8b · 26-35|v
+- **code:** VP-11-6aaedb8b
+- **run:** Z50
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** liefde tussen posities
+- **genre:** romance
+- **schaal:** dorp
+- **volk:** myrrhen
+- **vorm:** twee stemmen
+- **afloop:** keert om
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 34
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 4
+- **g_horror:** 2
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-binding-Z50;VOOR-ontlading-Z50;DRAGER-Z48-gave-11;VOOR-sporenroes;SEKS-VOLK-myrrhen-kern;MAGIE-verslaving;VOLK-myrrhen-Z6;PER-Z50-b-mareth-vlaskamp
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-mareth-vlaskamp
+- **premisse:** Joran heeft Myrrhen-bloed en in zijn longen groeien meer sporen dan een lichaam aankan; ademt niemand ze van hem in, dan krijgt hij koorts. Mareth, net los van een man die sporen als leiband gebruikte, belooft het één keer te doen. Om beurten vertellen ze de maanden erna: zijn opluchting, haar trillende handen als hij een dag weg is. Dan keert het. Zij leert hem zijn adem in te houden, en hij moet ontdekken dat hij zonder haar ook leeft.
+- **premisse_codes:** VOOR-binding-Z50;VOOR-ontlading-Z50;DRAGER-Z48-gave-11;VOOR-sporenroes;SEKS-VOLK-myrrhen-kern;MAGIE-verslaving;VOLK-myrrhen-Z6
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-f7ffc9e0 · 51+|m
+- **code:** VP-11-f7ffc9e0
+- **run:** Z50
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** profiteur
+- **genre:** mysterie
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** documenten
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 51+|m
+- **leeftijd:** 58
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 5
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-overdracht-Z50;VOOR-overgave;KINK-Z8-50-Z50;DRAGER-Z48-gave-11;DRAGER-Z48-stal-9;STAD-brakhaven;VOOR-sporenroes;GEB-Z45-losbandige-jaren;PER-Z50-b-corvin-achterdijk
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-corvin-achterdijk
+- **premisse:** Een contract voor zeven dagen, een bladzijde uit het register van een speelhuis in Brakhaven, een brief die nooit vertrok. Corvin speelt al twintig jaar de gaven-man in de Overdracht, met sporen waar vroeger vonk was. Saskia, dertig, geeft hem haar sjerp en haar naam en draagt zijn gegraveerde halsband; het woord Ysa-rust geldt elk uur. Op de vijfde dag betrapt hij haar in het archief, zoekend naar een moeder die daar ooit verdween. Hij laat haar zoeken en noteert niets.
+- **premisse_codes:** RIT-overdracht-Z50;VOOR-overgave;KINK-Z8-50-Z50;DRAGER-Z48-gave-11;DRAGER-Z48-stal-9;STAD-brakhaven;VOOR-sporenroes;GEB-Z45-losbandige-jaren
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-43bd73de · 36-50|v
+- **code:** VP-11-43bd73de
+- **run:** Z50
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** beslisser
+- **genre:** komedie
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** rondes
+- **afloop:** werkt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 46
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-zevenvoudige-ontvangst;DRAGER-Z48-gave-11;OORLOG-Z46-11-oorlog;VOOR-groep-Z50;ZEDEN-Z45-fase-11;VOOR-sporenroes;PER-Z50-b-aaltje-brons
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-aaltje-brons
+- **premisse:** Als de dorpsmannen na negen jaar uit het koningsleger thuiskomen, kondigt herbergierster Aaltje Brons, weduwe, een Zevenvoudige Ontvangst aan zoals de liederen die beschrijven. Zeven veteranen schrijven zich in. Ronde na ronde, met water en olie ertussen en een snuif sporen omdat zaad niets meer doet, blijkt elke man iets anders te willen dan hij zei: praten, slapen, huilen, of de kok. Bij de zevende lacht het hele dorp mee, en Aaltje krijgt precies wat ze zocht.
+- **premisse_codes:** RIT-zevenvoudige-ontvangst;DRAGER-Z48-gave-11;OORLOG-Z46-11-oorlog;VOOR-groep-Z50;ZEDEN-Z45-fase-11;VOOR-sporenroes
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-873f951f · 26-35|v
+- **code:** VP-11-873f951f
+- **run:** Z50
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** vervalser
+- **genre:** actie
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** realtime
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 27
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-7-Z50;KINK-Z8-22-Z50;THRILL-Z46-11-thriller;HELD-Z46-11-held;VERHAAL-Z44-tijdperk-11;PER-Z50-b-ylva-teerling
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-ylva-teerling
+- **premisse:** Ylva trekt het rode lakpak van een gesneuvelde kapitein van de Wacht aan, gespt zijn leren tuig over haar borst en loopt de laatste kluis in, want die deur leest het pak en niet het gezicht. Haar geliefde, de weduwe van de kapitein, sluit de gespen in de volgorde die bij zijn rang hoorde. Binnen één uur, minuut na minuut, gaat elke poort open, tot een wachter van vlees vraagt waarom ze niet naar hars ruikt. Dan komt uit wie de kapitein doodde.
+- **premisse_codes:** KINK-Z8-7-Z50;KINK-Z8-22-Z50;THRILL-Z46-11-thriller;HELD-Z46-11-held;VERHAAL-Z44-tijdperk-11
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-e9bfc953 · 36-50|v
+- **code:** VP-11-e9bfc953
+- **run:** Z50
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** profiteur
+- **genre:** intrige
+- **schaal:** stad
+- **volk:** sael-mor
+- **vorm:** kasboek
+- **afloop:** faalt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 39
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 1
+- **g_intrige:** 4
+- **g_komedie:** 1
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-betalen-met-lichaam;DRAGER-Z48-zee-11;LOT-Z44-sael-mor;STAD-brakhaven;VOLK-sael-mor;OORLOG-Z46-11-oorlog;PER-Z50-b-ressa-zoutvel
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-ressa-zoutvel
+- **premisse:** Het kasboek van Ressa Zoutvel, kapiteinsvrouw op een van de laatste schepen met Sael-mor-bemanning. Wie zonder munt weg wil van de terugkerende legers, mag kiezen: werken op het dek, of de overtocht betalen met een nacht. Elke nacht staat erin met naam en haven, en Ressa en haar matrozen worden er rijk van. Maar in elke haven blijven er matrozen achter, getrouwd aan land. Op de laatste bladzijde staan meer passagiers dan bemanning, en het schip hoort niet meer bij haar volk.
+- **premisse_codes:** KINK-betalen-met-lichaam;DRAGER-Z48-zee-11;LOT-Z44-sael-mor;STAD-brakhaven;VOLK-sael-mor;OORLOG-Z46-11-oorlog
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-a12f8ff5 · 18-25|v
+- **code:** VP-11-a12f8ff5
+- **run:** Z50
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** toeschouwer
+- **genre:** intrige
+- **schaal:** rijk
+- **volk:** ishvar
+- **vorm:** register als verteller
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 24
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-harem-gunst;INTR-Z46-11-intrige;HUI-qesh-Z6;STAD-qesh;VOLK-ishvar;PER-Z50-b-neshra
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-neshra
+- **premisse:** De hofrol van een oase bij Qesh spreekt zelf. De laatste Zonvorst daar trouwt vrouwen met Dhurn-bloed, omdat hun handen nog een kluis openen, en zij dingen naar zijn gunst met verleiding, roddel en soms gif. Neshra, Ishvar en zonder bijzonder bloed, schrijft de rol bij en weet wie wanneer bij hem slaapt. Gaandeweg ziet ze dat hij geen kluis zoekt maar een erfgenaam, en dat hij er nooit een zal verwekken. Dat schrijft ze niet op.
+- **premisse_codes:** KINK-harem-gunst;INTR-Z46-11-intrige;HUI-qesh-Z6;STAD-qesh;VOLK-ishvar
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-12-4c748745 · 26-35|v
+- **code:** VP-12-4c748745
+- **run:** Z50
+- **fase:** 12 Het Vertrek (na 801)
+- **positie:** profiteur
+- **genre:** intrige
+- **schaal:** wereld
+- **volk:** mens
+- **vorm:** lijst die krimpt
+- **afloop:** faalt
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 31
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 1
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-wachtrij-verleiding;INTR-Z46-12-intrige;OORLOG-Z46-12-oorlog;LOT-Z44-kluisschip;VERHAAL-Z44-tijdperk-12;PER-Z50-b-lisanne-vorst
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-lisanne-vorst
+- **premisse:** Op de lijst van wie met de lander mee mag, staan eerst tweehonderd namen, dan honderd, dan veertig. Lisanne Vorst staat er niet op en wil erop. Buiten de rij om probeert ze de lijsthouder te verleiden, een Aelthir die nog net aanraking voelt, en ze is niet de enige: elke vrouw in de rij heeft dat plan, en ze haten elkaar erom. Met elke naam die afvalt, weet Lisanne meer van hem. Haar eigen naam komt er nooit bij.
+- **premisse_codes:** KINK-wachtrij-verleiding;INTR-Z46-12-intrige;OORLOG-Z46-12-oorlog;LOT-Z44-kluisschip;VERHAAL-Z44-tijdperk-12
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-12-c70af14a · 26-35|v
+- **code:** VP-12-c70af14a
+- **run:** Z50
+- **fase:** 12 Het Vertrek (na 801)
+- **positie:** ontdekker
+- **genre:** thriller
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** aftellen
+- **afloop:** keert om
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 31
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-59-Z50;VOOR-verboden-Z50;DRAGER-Z48-ontvangst-9;THRILL-Z46-12-thriller;HELD-Z46-12-held;GOD-ysa;LOT-Z44-kluisschip;PER-Z50-b-lisanne-vorst
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-lisanne-vorst
+- **premisse:** De nacht voor de start sluipt Lisanne, die geen plaats kreeg, met haar minnaar Daan de lander in. In een kast hangen uniformen van de Makers, en ze spelen na wat de oude reliefs tonen, zij kapitein, hij bemanning, op een plek waar niemand mag komen. Eén knoop aan haar jas blijkt echt, en het schip begint te tellen. Vierhonderd tellen later vinden ze de knop die het stopt. De navigator heeft het gezien en biedt Lisanne een plaats. Ze weigert.
+- **premisse_codes:** KINK-Z8-59-Z50;VOOR-verboden-Z50;DRAGER-Z48-ontvangst-9;THRILL-Z46-12-thriller;HELD-Z46-12-held;GOD-ysa;LOT-Z44-kluisschip
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-12-44c54a39 · 36-50|v
+- **code:** VP-12-44c54a39
+- **run:** Z50
+- **fase:** 12 Het Vertrek (na 801)
+- **positie:** liefde tussen posities
+- **genre:** mysterie
+- **schaal:** dorp
+- **volk:** myrrhen
+- **vorm:** lichaam als verteller
+- **afloop:** werkt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 47
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 5
+- **g_horror:** 2
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-volk-myrrhen-Z50;SEKS-VOLK-myrrhen-kern;LOT-Z44-wortelstem;INTR-Z46-12-intrige;VOLK-myrrhen-Z6;PER-Z50-b-hedde-moerkens
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-hedde-moerkens
+- **premisse:** Hedde, heelster aan de veenrand, gaat met Orl, een Myrrhen die weigert met de lander mee te gaan, in het rotbed liggen: een week lang groeit schimmeldraad tussen hun lijven, en een hoedster mag hem elk moment doorknippen. Haar lichaam vertelt het, de warmte, de jeuk, het genot in elke vezel. Op de vijfde dag zwijgt de stem in de Wortel en rilt het hele net. Het geeft haar iets door, en Hedde besluit het in haar huid te bewaren.
+- **premisse_codes:** RIT-volk-myrrhen-Z50;SEKS-VOLK-myrrhen-kern;LOT-Z44-wortelstem;INTR-Z46-12-intrige;VOLK-myrrhen-Z6
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-12-46230b3d · 36-50|v
+- **code:** VP-12-46230b3d
+- **run:** Z50
+- **fase:** 12 Het Vertrek (na 801)
+- **positie:** betaler
+- **genre:** survival
+- **schaal:** dorp
+- **volk:** oevrin
+- **vorm:** dagboek
+- **afloop:** komt uit
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 49
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 3
+- **g_horror:** 2
+- **g_suspense:** 4
+- **g_actie:** 2
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-ei-dragen;LOT-Z44-leegtewormen;LOT-Z44-oevrin;VOLK-oevrin;VOLK-kluwer;PER-Z50-b-hedde-moerkens
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-hedde-moerkens
+- **premisse:** Een dode Leegteworm spoelt aan bij de slikpoelen, en zijn rottende ruim vergiftigt het water van de Oevrin. Hedde biedt aan hun kuit te dragen naar een schone poel, drie dagen landinwaarts, in haar eigen lichaam; is ze er niet voor de derde avond, dan lossen de eieren in haar op. Haar dagboek houdt bij hoe zwaar het weegt, hoe de Oevrin-zanger naast haar loopt en de kuit stilzingt, en hoe de lust haar overvalt. Bij de poel blijkt dat de worm niet vanzelf aanspoelde.
+- **premisse_codes:** VOOR-ei-dragen;LOT-Z44-leegtewormen;LOT-Z44-oevrin;VOLK-oevrin;VOLK-kluwer
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-12-18eb31e9 · 51+|v
+- **code:** VP-12-18eb31e9
+- **run:** Z50
+- **fase:** 12 Het Vertrek (na 801)
+- **positie:** beslisser
+- **genre:** mysterie
+- **schaal:** huis
+- **volk:** ves-lethi
+- **vorm:** kamerspel
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 52
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 4
+- **g_horror:** 2
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-nabootsing;DRAGER-Z48-vorm-10;THRILL-Z46-12-thriller;LOT-Z44-ves-lethi;VOLK-ves-lethi-Z6;EROS-Z45-haak-3;PER-Z50-b-imke-deral
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-imke-deral
+- **premisse:** Imke Deral ontdekt de verstekeling eerder dan wie ook: een Ves-Lethi met nog één wisseling in zich, die zich als Aelthir aan boord wil smokkelen. Ze verraadt hem niet. Pas daarna vraagt ze, wetend dat hij nee mag zeggen, om één nacht met het gezicht van haar man, die twintig jaar geleden verdronk. Hij stemt toe en weet wat het kost. Tot de ochtend, in één kamer, zegt zij wat ze haar man nooit zei. Wie er daarna aan boord gaat, vertelt ze aan niemand.
+- **premisse_codes:** VOOR-nabootsing;DRAGER-Z48-vorm-10;THRILL-Z46-12-thriller;LOT-Z44-ves-lethi;VOLK-ves-lethi-Z6;EROS-Z45-haak-3
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-12-d2579bc9 · 36-50|v
+- **code:** VP-12-d2579bc9
+- **run:** Z50
+- **fase:** 12 Het Vertrek (na 801)
+- **positie:** toeschouwer
+- **genre:** thriller
+- **schaal:** stad
+- **volk:** sael-mor
+- **vorm:** brieven
+- **afloop:** komt uit
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 48
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 5
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-28-Z50;DRAGER-Z48-zee-11;INTR-Z46-12-intrige;HUI-Z11-kusthuizen;LOT-Z44-sael-mor;STAD-brakhaven;PER-Z50-b-imke-deral
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-imke-deral
+- **premisse:** In het havenhuis van Imke Deral hangt een vergulde kooi, en daarin woont al twee jaar Joep, die de sleutel om zijn hals draagt en elke avond kiest om binnen te blijven. Voor de gasten is hij haar trots, op fluweel. Uit zijn brieven, die een dienstmeid onderschept, blijkt dat hij de Raad van de Laatsten vertelt welke van haar schepen de Aelthir naar de kust zullen varen. Imke leest ze allemaal, zegt niets, en zet de kooi open.
+- **premisse_codes:** KINK-Z8-28-Z50;DRAGER-Z48-zee-11;INTR-Z46-12-intrige;HUI-Z11-kusthuizen;LOT-Z44-sael-mor;STAD-brakhaven
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-12-bfbef664 · 51+|m
+- **code:** VP-12-bfbef664
+- **run:** Z50
+- **fase:** 12 Het Vertrek (na 801)
+- **positie:** betaler
+- **genre:** romance
+- **schaal:** huis
+- **volk:** aelthir
+- **vorm:** toespraak
+- **afloop:** keert om
+- **hoofdpersoon:** 51+|m
+- **leeftijd:** 54
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-halsbandoverdracht-Z50;KINK-Z8-38-Z50;DRAGER-Z48-stal-9;EROS-Z45-haak-7;VERHAAL-Z44-tijdperk-12;PER-gewone-mannen;VOLK-aelthir-V5;PER-Z50-b-okke-lindewei
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-okke-lindewei
+- **premisse:** Dertig seizoenen diende Okke bij Sylwen, een Aelthir, onder een contract dat hem alles toestond behalve beslissen. Morgen vertrekt ze met de lander, en naar oud gebruik wordt zijn halsband doorgeknipt en omgedaan door een nieuwe eigenares, de mensenvrouw Femke, na een laatste nacht met wie hij wil. De toespraak bij het knippen schreef hij voor Sylwen. Halverwege praat hij tegen Femke, en vraagt hij of hij deze keer zelf mag kiezen wie de band sluit.
+- **premisse_codes:** RIT-halsbandoverdracht-Z50;KINK-Z8-38-Z50;DRAGER-Z48-stal-9;EROS-Z45-haak-7;VERHAAL-Z44-tijdperk-12;PER-gewone-mannen;VOLK-aelthir-V5
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-12-a819b96a · 26-35|v
+- **code:** VP-12-a819b96a
+- **run:** Z50
+- **fase:** 12 Het Vertrek (na 801)
+- **positie:** ontdekker
+- **genre:** horror
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** getuigenverslag
+- **afloop:** faalt
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 28
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-31-Z50;HORROR-Z46-12-horror;BODY-Z8-46-L10;REG-groenmuil;PER-Z50-b-wijnanda-groen
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-wijnanda-groen
+- **premisse:** Een buurvrouw vertelt wat ze zag. Wijnanda, die aan de rand van de Groenmuil woont, schept water uit een verlaten kweekpoel, omdat datzelfde water in de oude vormhuizen vrouwen melk gaf zonder kind. Haar man en zij willen het spel uit de liederen. Het werkt: ze geeft melk die zoet is en tintelt, en ze zijn er allebei verrukt van. Dan houdt het niet op, het wordt elke week meer, en wat ze afkolft, groeit in de emmer verder.
+- **premisse_codes:** KINK-Z8-31-Z50;HORROR-Z46-12-horror;BODY-Z8-46-L10;REG-groenmuil
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-12-8da65397 · 36-50|v
+- **code:** VP-12-8da65397
+- **run:** Z50
+- **fase:** 12 Het Vertrek (na 801)
+- **positie:** liefde tussen posities
+- **genre:** komedie
+- **schaal:** huis
+- **volk:** aelthir
+- **vorm:** twee stemmen
+- **afloop:** werkt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 41
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 2
+- **g_komedie:** 5
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-omgepraat-worden;VOOR-vrouwenliefde;REG-stille;COMEDY-Z46-12-comedy;D1-aelthir-ziekte;VOLK-aelthir-V5;PER-Z50-b-aldra
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-aldra
+- **premisse:** Zuster Aldra woont in het laatste huis van de Stille Zusters, dat de mannen afzwoer toen er nog een Orde was. Teyra, een Aelthir-priesteres, komt haar overhalen mee te gaan met de lander; Aldra wil haar juist overhalen te blijven. Ze vertellen het om beurten: elk argument wordt een kus, elke kus een ketterij voor de ander. Na drie nachten wedt het hele zusterhuis mee. Teyra blijft, en Aldra leert haar voortaan elke ochtend opnieuw haar naam.
+- **premisse_codes:** KINK-omgepraat-worden;VOOR-vrouwenliefde;REG-stille;COMEDY-Z46-12-comedy;D1-aelthir-ziekte;VOLK-aelthir-V5
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-13-4d1f0fc6 · 26-35|m
+- **code:** VP-13-4d1f0fc6
+- **run:** Z50
+- **fase:** 13 Tijd der Mensen (na 801)
+- **positie:** betaler
+- **genre:** intrige
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** kasboek
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 27
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-zaadcontract-Z50;DRAGER-Z48-stal-13;VERHAAL-Z44-tijdperk-13;GEB-Z45-losbandige-jaren;HUI-varenne;FASE-z44-mensen;PER-Z50-b-ebbe-rendal
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-ebbe-rendal
+- **premisse:** Voor twee families bij de landbrug uiteengaan, sluiten ze een zaadcontract op een gelooide huid: Ebbe van de Rendals verwekt een kind bij de familie van de oostweg, en de zijne krijgt daarvoor twee sleden en een tent. Hij bezegelt het met zijn zaad op de huid, zoals het altijd ging. De huid wordt hun kasboek, elke ruil erin gekerfd. Als het kind geboren is, blijkt dat de oostweg met nog een man een huid tekende, en wie de vader is, staat nergens.
+- **premisse_codes:** RIT-zaadcontract-Z50;DRAGER-Z48-stal-13;VERHAAL-Z44-tijdperk-13;GEB-Z45-losbandige-jaren;HUI-varenne;FASE-z44-mensen
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-13-99512f8a · 26-35|m
+- **code:** VP-13-99512f8a
+- **run:** Z50
+- **fase:** 13 Tijd der Mensen (na 801)
+- **positie:** beslisser
+- **genre:** actie
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** realtime
+- **afloop:** keert om
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 29
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 5
+- **g_intrige:** 0
+- **g_komedie:** 2
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-competitie-Z50;DRAGER-Z48-ontvangst-13;VOOR-Z46-vuurnacht;KINK-duel-man;EROS-Z45-haak-8;ZEDEN-Z45-fase-13;PER-Z50-b-ebbe-rendal
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-ebbe-rendal
+- **premisse:** Bij het vuur van de kortste nacht dagen twee vrouwen elkaar uit om Ebbe, met een sjerp over de schouder, tot een van beiden opgeeft. Hij mag weigeren, en het kamp kijkt hoe hij nadenkt. Hij zegt nee. Ze vechten toch, nu om de eer, in modder en roet, en het gevecht duurt zo lang dat het vuur zakt. Aan het eind liggen de twee hijgend naast elkaar in het gras en kiezen ze elkaar, en Ebbe houdt de wacht bij het vuur.
+- **premisse_codes:** VOOR-competitie-Z50;DRAGER-Z48-ontvangst-13;VOOR-Z46-vuurnacht;KINK-duel-man;EROS-Z45-haak-8;ZEDEN-Z45-fase-13
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-13-9e0b9342 · 51+|v
+- **code:** VP-13-9e0b9342
+- **run:** Z50
+- **fase:** 13 Tijd der Mensen (na 801)
+- **positie:** ontdekker
+- **genre:** romance
+- **schaal:** huis
+- **volk:** myrrhen
+- **vorm:** brieven
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 52
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 5
+- **g_horror:** 1
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-1-Z50;VOOR-vrouwenliefde;LOT-Z44-myrrhen;VOLK-myrrhen-Z6;FASE-z44-mensen;PER-Z50-b-ilsabet
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-ilsabet
+- **premisse:** Ilsabet schrijft haar geliefde Wenke over wat ze samen deden in de kring paddenstoelen: schimmelolie, langzaam tellen, haar hele hand in Wenke, tot ze elkaars adem meetelden. Ze schrijft ook wat ze diep in Wenke voelde: iets hards en kleins, als een zaadje van metaal, dat warm werd onder haar vingers. Wenke schrijft terug dat haar grootmoeder er ook zo een had. Geen van beiden wil weten wat het is, en het blijft tussen hun brieven.
+- **premisse_codes:** KINK-Z8-1-Z50;VOOR-vrouwenliefde;LOT-Z44-myrrhen;VOLK-myrrhen-Z6;FASE-z44-mensen
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-13-46081174 · 36-50|v
+- **code:** VP-13-46081174
+- **run:** Z50
+- **fase:** 13 Tijd der Mensen (na 801)
+- **positie:** toeschouwer
+- **genre:** survival
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** wij-vorm
+- **afloop:** keert om
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 38
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 3
+- **g_horror:** 2
+- **g_suspense:** 3
+- **g_actie:** 2
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-ritueel-geweld;KINK-Z8-16-Z50;VOOR-Z46-vuurnacht;VOLK-karrûk-Z6-Z38;DRAGER-Z48-storm-10;ZEDEN-Z45-fase-13;PER-Z50-b-kerra-asvaart
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-kerra-asvaart
+- **premisse:** Wij trekken langs het riet van de drooggevallen zee, en Kerra is onze hoedster. Wie wil, laat zich in de vuurnacht door een gekozen geliefde met de rietzweep slaan of een lijn in de schouder snijden, terwijl Kerra hardop telt en stopt bij genoeg. Dit jaar komt er een stormwinter zonder wild, en de rite wordt het enige dat ons warm houdt. Als een man van twintig om meer vraagt dan hij kan dragen, stopt Kerra het, en een deel van ons trekt verder zonder haar.
+- **premisse_codes:** VOOR-ritueel-geweld;KINK-Z8-16-Z50;VOOR-Z46-vuurnacht;VOLK-karrûk-Z6-Z38;DRAGER-Z48-storm-10;ZEDEN-Z45-fase-13
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-13-c408cb2c · 36-50|v
+- **code:** VP-13-c408cb2c
+- **run:** Z50
+- **fase:** 13 Tijd der Mensen (na 801)
+- **positie:** betaler
+- **genre:** intrige
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** toespraak
+- **afloop:** komt uit
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 40
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-schandpodium-Z50;RIT-tribunaal-drie-Z50;RIT-boeterite-Z50;VOOR-vernedering-Z50;VOOR-exhibitionisme-Z50;VERHAAL-Z44-tijdperk-13;PER-Z50-b-kerra-asvaart
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-kerra-asvaart
+- **premisse:** Drie grootmoeders, naar een gebruik dat niemand meer kan uitleggen, oordelen over Kerra nadat een man bij haar snijrite te veel bloed verloor. Ze mag kiezen tussen verbanning en een dag op het schandpodium: in grijs, met een halsband, terwijl de kampen kijken en spreken, en bij zonsondergang een zalving. Ze kiest het podium. In haar toespraak bij het vallen van de avond zegt ze wat ze die dag hoorde, en wie de man het mes gaf dat te scherp was.
+- **premisse_codes:** RIT-schandpodium-Z50;RIT-tribunaal-drie-Z50;RIT-boeterite-Z50;VOOR-vernedering-Z50;VOOR-exhibitionisme-Z50;VERHAAL-Z44-tijdperk-13
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-13-5918baab · 18-25|v
+- **code:** VP-13-5918baab
+- **run:** Z50
+- **fase:** 13 Tijd der Mensen (na 801)
+- **positie:** ontdekker
+- **genre:** horror
+- **schaal:** dorp
+- **volk:** myrrhen
+- **vorm:** jij-vorm
+- **afloop:** faalt
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 23
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-verboden-Z50;RIT-volk-myrrhen-Z50;DRAGER-Z48-ontvangst-13;VERHAAL-Z44-tijdperk-13;LOT-Z44-myrrhen;SEKS-VOLK-myrrhen-kern;VOOR-Z46-vuurnacht;PER-Z50-b-noor-halsema
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-noor-halsema
+- **premisse:** Je loopt in de vuurnacht weg van het vuur, met Siem, die het even graag wil, naar de kring paddenstoelen waar volgens je grootmoeder de doden dansen en waar niemand mag liggen. Je gaat er toch liggen. Het net groeit om jullie heen, een draad van jouw pols naar de zijne, en het genot is zo groot dat je niet ziet dat er anderen in de kring liggen die niet ademen. 's Ochtends krijg je de draad niet los, en Siem spreekt met de stem van een vreemde.
+- **premisse_codes:** VOOR-verboden-Z50;RIT-volk-myrrhen-Z50;DRAGER-Z48-ontvangst-13;VERHAAL-Z44-tijdperk-13;LOT-Z44-myrrhen;SEKS-VOLK-myrrhen-kern;VOOR-Z46-vuurnacht
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-13-6ecb921c · 18-25|v
+- **code:** VP-13-6ecb921c
+- **run:** Z50
+- **fase:** 13 Tijd der Mensen (na 801)
+- **positie:** beslisser
+- **genre:** komedie
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** rondes
+- **afloop:** komt uit
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 25
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-zevenvoudige-ontvangst;DRAGER-Z48-ontvangst-13;VOOR-Z46-vuurnacht;VOOR-groep-Z50;EROS-Z45-haak-8;DRAGER-Z48-gave-11;PER-Z50-b-noor-halsema
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-noor-halsema
+- **premisse:** Twee zomers na de kring kiest Noor bij het vuur zeven gezellen, een voor een, met water en vet tussen elke keuze, zoals een half vergeten lied het voorschrijft. De kampen raden waarom. De een zegt dat ze een vader zoekt, de ander dat ze een weddenschap won, een derde dat de doden haar sturen. Per ronde slaat het gerucht een andere kant op. Bij de zevende blijkt het eenvoudig: ze wilde weten of ze zonder draad nog iets voelde, en ze voelt alles.
+- **premisse_codes:** RIT-zevenvoudige-ontvangst;DRAGER-Z48-ontvangst-13;VOOR-Z46-vuurnacht;VOOR-groep-Z50;EROS-Z45-haak-8;DRAGER-Z48-gave-11
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-13-d4bb30a3 · 36-50|m
+- **code:** VP-13-d4bb30a3
+- **run:** Z50
+- **fase:** 13 Tijd der Mensen (na 801)
+- **positie:** vervalser
+- **genre:** survival
+- **schaal:** wereld
+- **volk:** mens
+- **vorm:** lichaam als verteller
+- **afloop:** werkt
+- **hoofdpersoon:** 36-50|m
+- **leeftijd:** 44
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 3
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 2
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-22-Z50;VERHAAL-Z44-tijdperk-13;FASE-z44-mensen;LOT-Z44-dhurn;PER-Z50-b-joost-lemmerik
+- **herkomst:** schrijver B (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-joost-lemmerik
+- **premisse:** Joost draagt over de landbrug het tuig van de trekleider die in de eerste sneeuw stierf: leer en hars, met gespen waarvan elke stand iets betekende. Niemand weet dat hij die standen niet kent; hij doet alsof, en het kamp volgt hem. 's Nachts gespt Rinske, zijn vrouw, hem erin vast en leert ze hem op zijn huid wat elke gesp kan. Zijn lichaam vertelt het: schaafplekken, zweet, de stilte van een kamp dat op hem rekent. Hij brengt ze over.
+- **premisse_codes:** KINK-Z8-22-Z50;VERHAAL-Z44-tijdperk-13;FASE-z44-mensen;LOT-Z44-dhurn
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-14-9806c302 · 36-50|v
+- **code:** VP-14-9806c302
+- **run:** Z50
+- **fase:** 14 De Grote Smelt (na 801)
+- **positie:** ontdekker
+- **genre:** survival
+- **schaal:** dorp
+- **volk:** oevrin
+- **vorm:** realtime
+- **afloop:** werkt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 42
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 4
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-omhulling;DRAGER-Z48-zang-14;SEKS-VOLK-oevrin-kern;LOT-Z44-oevrin;VERHAAL-Z44-tijdperk-14;FASE-z44-smelt;PER-Z50-c-oelwyn
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-oelwyn
+- **premisse:** Oelwyn heeft een keelzak die rekt als een net, en haar minnaar Wessel, dijkwerker op de laatste wierde, laat zich er graag half in opnemen terwijl zij zijn adem telt. Het was spel tussen hen, altijd met zijn hand op haar kieuw als teken. In de stormnacht dat de dijk breekt, moet ze hem onder water meenemen en uren voor hem ademen, minuut na minuut verteld. Hij leeft; haar zak scheurt, en in de zangpoel blijft ze voortaan stom.
+- **premisse_codes:** VOOR-omhulling;DRAGER-Z48-zang-14;SEKS-VOLK-oevrin-kern;LOT-Z44-oevrin;VERHAAL-Z44-tijdperk-14;FASE-z44-smelt
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-14-2d96e1f4 · 51+|m
+- **code:** VP-14-2d96e1f4
+- **run:** Z50
+- **fase:** 14 De Grote Smelt (na 801)
+- **positie:** profiteur
+- **genre:** komedie
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** kamerspel
+- **afloop:** komt uit
+- **hoofdpersoon:** 51+|m
+- **leeftijd:** 57
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 2
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 2
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-walglust;REGEL-walgingsschaal-Z6;FASE-z44-smelt;REG-zoutkust;LOT-Z44-ishvar;PER-Z50-c-brom
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-brom
+- **premisse:** Brom verhuurt de achterkamer van zijn badhuis aan stelletjes uit het binnenland die komen voor de stank van verdronken slik: rottend wier, zwart slijm, een geur waar ze kokhalzend opgewonden van raken. Het loopt goed, tot een echtpaar van kenners ruikt dat hij het slik aanlengt met vers zand, omdat hij er zelf misselijk van wordt. Om zijn naam te redden moet hij één avond zelf in de kuip, tussen hen in. En het blijkt hem te bevallen.
+- **premisse_codes:** VOOR-walglust;REGEL-walgingsschaal-Z6;FASE-z44-smelt;REG-zoutkust;LOT-Z44-ishvar
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-14-7d5b591c · 51+|v
+- **code:** VP-14-7d5b591c
+- **run:** Z50
+- **fase:** 14 De Grote Smelt (na 801)
+- **positie:** betaler
+- **genre:** romance
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** toespraak
+- **afloop:** keert om
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 61
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 5
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-afscheid-Z50;RIT-afscheid-uitverkorene-Z50;RIT-laatste-bed-Z50;LOT-Z44-gaven-mannen;MYTHE-Z43-verzonken-stad;MYTHE-Z43-stervende-god;PER-Z50-c-aaltje
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-aaltje
+- **premisse:** Toen Teun stierf, de laatste van een lijn van wie men zei dat zijn handen vrouwen sterker maakten, brachten de vrouwen die hem hadden liefgehad hun gouden oorringen naar Aaltje om te smelten tot een beeld voor de tempel die de zee binnenkort neemt. Ze slaapt de laatste nacht met Rinske, zijn andere weduwe, in zijn lege bed. In haar rede bij de stoet weigert ze te smelten: ze geeft elke vrouw haar ring terug, en de tempel verdrinkt leeg.
+- **premisse_codes:** VOOR-afscheid-Z50;RIT-afscheid-uitverkorene-Z50;RIT-laatste-bed-Z50;LOT-Z44-gaven-mannen;MYTHE-Z43-verzonken-stad;MYTHE-Z43-stervende-god
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-14-34f111ff · 26-35|v
+- **code:** VP-14-34f111ff
+- **run:** Z50
+- **fase:** 14 De Grote Smelt (na 801)
+- **positie:** vervalser
+- **genre:** thriller
+- **schaal:** huis
+- **volk:** sael-mor
+- **vorm:** jij-vorm
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 30
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 1
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-25-Z50;KINK-Z8-47-Z50;EROS-RAUW-Z7-3;LOT-Z44-sael-mor;VOLK-sael-mor;REG-zoutkust;PER-Z50-c-tamsin
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-tamsin
+- **premisse:** Jij laat je ontvoeren door je eigen minnaar, Kelm, een man met spleten in zijn hals, om je rijke echtgenoot losgeld af te troggelen voordat de haven verdrinkt. In het ruim knevelt Kelm je met de laatste rol zoutzijde; drie keer knipperen is stop, en dat spel is van jullie samen. Dan verkoopt de bemanning de afspraak door, en vanaf dat moment is het een gelabeld donker thema: echte gijzeling tussen volwassenen. Je komt vrij met het geld. Niemand hoort ooit wie de knevel vastbond.
+- **premisse_codes:** KINK-Z8-25-Z50;KINK-Z8-47-Z50;EROS-RAUW-Z7-3;LOT-Z44-sael-mor;VOLK-sael-mor;REG-zoutkust
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-14-9e55fc16 · 36-50|v
+- **code:** VP-14-9e55fc16
+- **run:** Z50
+- **fase:** 14 De Grote Smelt (na 801)
+- **positie:** beslisser
+- **genre:** horror
+- **schaal:** dorp
+- **volk:** myrrhen
+- **vorm:** rondes
+- **afloop:** faalt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 45
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 5
+- **g_horror:** 5
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-3-Z50;VOOR-overvloed-Z50;DRAGER-Z48-gave-11;VOOR-sporenroes;KINK-Z8-55-Z50;VOLK-myrrhen-Z6;LOT-Z44-myrrhen;MYTHE-Z43-heilig-huwelijk;PER-Z50-c-imme
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-imme
+- **premisse:** Gesche wil gevuld worden zoals in de oude liederen, tot ze overloopt van kracht, en heelster Imme van de veenhallen kent de rite nog. Zeven mannen die ja zeggen, zeven rondes, en tussen elke ronde brengt Imme met haar hand het zaad diep, terwijl de sporen in de lucht het laten voelen als vonk. Een nuchtere zuster waakt. Na de vijfde ronde lacht Gesche om niets; na de zevende weet ze haar eigen naam niet meer, en Imme kan het niet terugdraaien.
+- **premisse_codes:** KINK-Z8-3-Z50;VOOR-overvloed-Z50;DRAGER-Z48-gave-11;VOOR-sporenroes;KINK-Z8-55-Z50;VOLK-myrrhen-Z6;LOT-Z44-myrrhen;MYTHE-Z43-heilig-huwelijk
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-14-69585088 · 18-25|m
+- **code:** VP-14-69585088
+- **run:** Z50
+- **fase:** 14 De Grote Smelt (na 801)
+- **positie:** liefde tussen posities
+- **genre:** actie
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** aftellen
+- **afloop:** komt uit
+- **hoofdpersoon:** 18-25|m
+- **leeftijd:** 23
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 0
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-vleugelbinding;DRAGER-Z48-vleugel-13;LOT-Z44-skerra;MYTHE-Z43-vleugelvolk;FASE-z44-smelt;PER-Z50-c-joris
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-joris
+- **premisse:** Op het krijtklif dat de zee elk jaar verder uitholt, springen Joris en Brecht op de oude harde manier: zijn armen langs zijn lijf gebonden als gevouwen vleugels, haar vuist om de knoop. Zo kan hij niet zwemmen en moet hij haar alles toevertrouwen. Het verhaal telt tien tellen af, en bij zeven brokkelt de rand onder hun voeten. In de val voelt hij dat de knoop nooit vast heeft gezeten. Brecht liet hem al drie zomers geloven dat hij weerloos was.
+- **premisse_codes:** VOOR-vleugelbinding;DRAGER-Z48-vleugel-13;LOT-Z44-skerra;MYTHE-Z43-vleugelvolk;FASE-z44-smelt
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-14-aec99257 · 51+|v
+- **code:** VP-14-aec99257
+- **run:** Z50
+- **fase:** 14 De Grote Smelt (na 801)
+- **positie:** profiteur
+- **genre:** intrige
+- **schaal:** stad
+- **volk:** ishvar
+- **vorm:** wij-vorm
+- **afloop:** komt uit
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 54
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 2
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-veiling-zaadbeurs;DRAGER-Z48-stal-13;RIT-gemaskerde-veiling-Z50;GEB-Z45-losbandige-jaren;VOLK-ishvar;LOT-Z44-ishvar;PER-Z50-c-saphra
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-saphra
+- **premisse:** Wij van de zonne-eed nemen de mensen uit de verdronken delta op in ons droge dal, en om hun land te betalen houden we het oogstspel: mannen die willen, bieden zich gemaskerd aan voor één nacht, en de opbrengst is voor de vluchtelingen. Saphra roept de biedingen af, scherp en vrolijk. Pas na drie oogsten zien wij dat de beste nachten steeds naar dezelfde gemaskerde koopster gaan, en dat zij met onze schaal betaalt.
+- **premisse_codes:** KINK-veiling-zaadbeurs;DRAGER-Z48-stal-13;RIT-gemaskerde-veiling-Z50;GEB-Z45-losbandige-jaren;VOLK-ishvar;LOT-Z44-ishvar
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-14-239403c0 · 36-50|v
+- **code:** VP-14-239403c0
+- **run:** Z50
+- **fase:** 14 De Grote Smelt (na 801)
+- **positie:** beslisser
+- **genre:** romance
+- **schaal:** huis
+- **volk:** oevrin
+- **vorm:** twee stemmen
+- **afloop:** werkt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 44
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 1
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-tweegelofte-Z50;VOOR-teder;DRAGER-Z48-zang-14;LOT-Z44-oevrin;ZEDEN-Z45-fase-14;MYTHE-Z43-zeemeermin;EROS-Z45-haak-9;PER-Z50-c-oelwyn
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-oelwyn
+- **premisse:** Oelwyn kan niet meer zingen sinds de stormnacht, en haar volk trekt de diepte in nu de poelen verzilten. Wessel kan niet mee. In twee stemmen vertellen ze de tweegelofte die ze sluiten op het laatste droge stuk slik: een lok van zijn haar tegen een schub van haar kieuw, samen baden, één nacht langzaam en alleen, en dan de belofte dat ze terugkeert. Ze gaat. Elk voorjaar bij het laagste tij staat ze weer in de branding, ouder en zwijgend.
+- **premisse_codes:** RIT-tweegelofte-Z50;VOOR-teder;DRAGER-Z48-zang-14;LOT-Z44-oevrin;ZEDEN-Z45-fase-14;MYTHE-Z43-zeemeermin;EROS-Z45-haak-9
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-14-fb5797b8 · 51+|m
+- **code:** VP-14-fb5797b8
+- **run:** Z50
+- **fase:** 14 De Grote Smelt (na 801)
+- **positie:** toeschouwer
+- **genre:** komedie
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** ballade
+- **afloop:** werkt
+- **hoofdpersoon:** 51+|m
+- **leeftijd:** 59
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 1
+- **g_intrige:** 0
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-39-Z50;KINK-Z8-34-Z50;DRAGER-Z48-ontvangst-13;VOOR-Z46-vuurnacht;LOT-Z44-zegellicht;EROS-Z45-haak-8;ZEDEN-Z45-fase-14;PER-Z50-c-brom
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-brom
+- **premisse:** Een lied uit het binnenland bezingt de laatste vuurnacht op het plein van een stad die al half onder water stond. Het vuur brandde op een vlot, het tij liep tot de knieën, en badmeester Brom eiste dat iedereen eerst gewassen werd, zoals zijn grootmoeder het deed: zout water, stilte, zeep. Voor de ogen van het hele plein koos wie wilde een gezel. Brom keek, telde, waste, en het lied vergeet niet dat de zee wachtte tot hij klaar was.
+- **premisse_codes:** KINK-Z8-39-Z50;KINK-Z8-34-Z50;DRAGER-Z48-ontvangst-13;VOOR-Z46-vuurnacht;LOT-Z44-zegellicht;EROS-Z45-haak-8;ZEDEN-Z45-fase-14
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-14-ac606e04 · 26-35|m
+- **code:** VP-14-ac606e04
+- **run:** Z50
+- **fase:** 14 De Grote Smelt (na 801)
+- **positie:** ontdekker
+- **genre:** mysterie
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** getuigenverslag
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 29
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 1
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 4
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-11-Z50;KINK-Z8-43-Z50;KINK-Z8-5-Z50;MYTHE-Z43-versteende;FASE-z44-smelt;LOT-Z44-ishvar;PER-Z50-c-joris
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-joris
+- **premisse:** Bij de teerbranders in het berkenwoud laten geliefden zich insmeren met warme pek die uithardt tot een glanzend omhulsel, met een snede bij de mond om te ademen. Joris, gevlucht van de kust, vertelt de oudste wat hij zag op de ochtend dat Wobke dood in haar pekhuid lag: de snede dichtgeknepen, de tweede persoon weg. Het ademspel is een gelabeld donker thema. Hij zegt niet dat die tweede persoon zijn nieuwe minnares was, en de oudste vraagt het niet.
+- **premisse_codes:** KINK-Z8-11-Z50;KINK-Z8-43-Z50;KINK-Z8-5-Z50;MYTHE-Z43-versteende;FASE-z44-smelt;LOT-Z44-ishvar
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-15-a622a438 · 36-50|v
+- **code:** VP-15-a622a438
+- **run:** Z50
+- **fase:** 15 Het Zwevende Gat (na 801)
+- **positie:** beslisser
+- **genre:** mysterie
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** ballade
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 50
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 2
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-zilverwake;RIT-geboortelied-Z50;VERHAAL-Z44-tijdperk-15;TAAL-dode-taal;MYTHE-Z43-godin-van-geboorte;ZEDEN-Z45-fase-15;PER-Z50-c-ama
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-ama
+- **premisse:** Ama zingt bij elke geboorte drie woorden van haar vader, en zij maakte van die woorden de godin van de wieg. Op haar vijftigste maken de jonge vrouwen haar grijze sjerp zilver en zalven haar, en een man van dertig vraagt haar drie keer of hij die nacht mag blijven. Bij de derde keer zegt ze ja. In het donker spreekt hij de woorden uit zoals ze nooit klonken: hij leerde ze aan een andere kust. Ze zingt ze daarna toch zoals altijd.
+- **premisse_codes:** RIT-zilverwake;RIT-geboortelied-Z50;VERHAAL-Z44-tijdperk-15;TAAL-dode-taal;MYTHE-Z43-godin-van-geboorte;ZEDEN-Z45-fase-15
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-15-6784f44c · 26-35|m
+- **code:** VP-15-6784f44c
+- **run:** Z50
+- **fase:** 15 Het Zwevende Gat (na 801)
+- **positie:** toeschouwer
+- **genre:** komedie
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** wij-vorm
+- **afloop:** werkt
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 31
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 5
+- **g_tragiek:** 0
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-oogstbed-loting;DRAGER-Z48-stal-13;EROS-Z45-haak-10;RIT-oogstbed-Z50;ZEDEN-Z45-fase-15;FASE-z44-gat;PER-Z50-c-hellik
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-hellik
+- **premisse:** Wij hebben de eerste gerst binnen op de nieuwe kust, en dus gaat de graanschuur een week open voor wie wil. Elke avond trekken we kiezels uit een pot om te bepalen wie naar binnen mag, en wie gaat, moet het de ander drie keer vragen. Hellik, die nog nooit iemand iets durfde te vragen, trekt zes avonden achter elkaar de witte kiezel. Wij lachen, hij stamelt, en op de zevende avond vraagt de molenaarster hem.
+- **premisse_codes:** KINK-oogstbed-loting;DRAGER-Z48-stal-13;EROS-Z45-haak-10;RIT-oogstbed-Z50;ZEDEN-Z45-fase-15;FASE-z44-gat
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-15-db75da16 · 51+|v
+- **code:** VP-15-db75da16
+- **run:** Z50
+- **fase:** 15 Het Zwevende Gat (na 801)
+- **positie:** profiteur
+- **genre:** intrige
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** rechtszaak
+- **afloop:** keert om
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 53
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 2
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-melkrite-Z50;VOOR-melken-Z50;DRAGER-Z48-stal-13;MYTHE-Z43-stal-van-de-goden;GEB-Z45-losbandige-jaren;FASE-z44-gat;MYTHE-Z43-godin-van-geboorte;PER-Z50-c-ama
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-ama
+- **premisse:** Twee clans aan de nieuwe rivier staan voor Ama, de zilveren vrouw, om een twist over kalebassen. Op het vruchtbaarheidsfeest laten mannen die willen zich melken door de boerinnen, en hun zaad gaat in kalebassen naar de akkers van de godin. De ene clan zegt dat de andere de kalebassen stal. Ama moet oordelen, maar zij strooit al jaren de helft over haar eigen veld. Haar uitspraak keert alles om: voortaan melken de vrouwen van beide clans samen.
+- **premisse_codes:** RIT-melkrite-Z50;VOOR-melken-Z50;DRAGER-Z48-stal-13;MYTHE-Z43-stal-van-de-goden;GEB-Z45-losbandige-jaren;FASE-z44-gat;MYTHE-Z43-godin-van-geboorte
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-15-939405ff · 18-25|v
+- **code:** VP-15-939405ff
+- **run:** Z50
+- **fase:** 15 Het Zwevende Gat (na 801)
+- **positie:** betaler
+- **genre:** romance
+- **schaal:** dorp
+- **volk:** sael-mor
+- **vorm:** lichaam als verteller
+- **afloop:** faalt
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 24
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 5
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-ketenwake-Z50;VOOR-ontzegging-Z50;DRAGER-Z48-ontvangst-13;EROS-Z45-haak-10;ZEDEN-Z45-fase-15;LOT-Z44-sael-mor;VOOR-Z46-vuurnacht;PER-Z50-c-siwa
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-siwa
+- **premisse:** Haar lichaam vertelt de nacht aan de grijze steen bij de branding, waar Siwa zich met zeegrastouw laat vastbinden omdat ze Rafe wil, buiten de beurt van het vuur. Tot de ochtend raken de vrouwen van het dorp haar aan en zalven haar, en niemand laat het af komen. Haar huid onthoudt elke hand. Bij dageraad mag Rafe kiezen. Hij laat haar gaan, omdat ze hem maar twee keer vroeg; de derde keer bleef in haar keel steken.
+- **premisse_codes:** RIT-ketenwake-Z50;VOOR-ontzegging-Z50;DRAGER-Z48-ontvangst-13;EROS-Z45-haak-10;ZEDEN-Z45-fase-15;LOT-Z44-sael-mor;VOOR-Z46-vuurnacht
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-15-31c3e94d · 36-50|m
+- **code:** VP-15-31c3e94d
+- **run:** Z50
+- **fase:** 15 Het Zwevende Gat (na 801)
+- **positie:** ontdekker
+- **genre:** mysterie
+- **schaal:** wereld
+- **volk:** mens
+- **vorm:** jij-vorm
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 36-50|m
+- **leeftijd:** 44
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 3
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 1
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-reiziger-Z50;RIT-pelgrimszalving-Z50;RIT-reizigersgroet-Z50;TAAL-dode-taal;VERHAAL-Z44-tijdperk-15;FASE-z44-gat;PER-Z50-c-tor
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-tor
+- **premisse:** Je komt in een huidboot aan van een kust waar je dacht dat alleen jouw volk woonde. Bij de grenssteen zalft een vrouw iedere reiziger en vraagt waar hij heen gaat, en jij weet geen antwoord. Ze zalft je toch en geeft je één nacht. In het donker telt ze op haar vingers met drie woorden die jouw moeder gebruikte om te tellen. Je vertrekt voor het licht zonder iets te zeggen, en niemand leert dat de wereld groter is.
+- **premisse_codes:** VOOR-reiziger-Z50;RIT-pelgrimszalving-Z50;RIT-reizigersgroet-Z50;TAAL-dode-taal;VERHAAL-Z44-tijdperk-15;FASE-z44-gat
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-15-312a22f5 · 51+|m
+- **code:** VP-15-312a22f5
+- **run:** Z50
+- **fase:** 15 Het Zwevende Gat (na 801)
+- **positie:** vervalser
+- **genre:** thriller
+- **schaal:** rijk
+- **volk:** ishvar
+- **vorm:** toespraak
+- **afloop:** komt uit
+- **hoofdpersoon:** 51+|m
+- **leeftijd:** 58
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 1
+- **g_intrige:** 4
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-rolwissel-Z50;VOOR-exhibitionisme-Z50;DRAGER-Z48-stal-13;RIT-rolwisseling-Z50;RIT-halsbandwissel-Z50;VOLK-ishvar;LOT-Z44-ishvar;PER-Z50-c-oroth
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-oroth
+- **premisse:** Op de dag van de omkering draagt Oroth, hoofdman bij de zonne-eed, het koord van zijn minnaar Djeda, en Djeda beveelt hem voor de ogen van alle dorpen langs de rivier. Oroth heeft die dag altijd gebruikt om zijn rivalen zwak te lijken en ze dan in de oogst te verrassen. In zijn rede bij het vallen van de avond wil hij het koord teruggeven. Djeda weigert het aan te nemen, en iedereen hoort hoe vaak ze het hadden ingestudeerd.
+- **premisse_codes:** VOOR-rolwissel-Z50;VOOR-exhibitionisme-Z50;DRAGER-Z48-stal-13;RIT-rolwisseling-Z50;RIT-halsbandwissel-Z50;VOLK-ishvar;LOT-Z44-ishvar
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-15-53adb3b6 · 26-35|m
+- **code:** VP-15-53adb3b6
+- **run:** Z50
+- **fase:** 15 Het Zwevende Gat (na 801)
+- **positie:** liefde tussen posities
+- **genre:** horror
+- **schaal:** huis
+- **volk:** myrrhen
+- **vorm:** kamerspel
+- **afloop:** faalt
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 34
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-vergroeiing;LOT-Z44-myrrhen;FEE-Z37-myrrhen-ringen;MYTHE-Z45-boomvolk;MYTHE-Z43-feeen;PER-Z50-c-hellik
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-hellik
+- **premisse:** Hellik en Mos, wiens moeders nog in het veen woonden, gaan in een kring van paddenstoelen liggen en laten de zwamdraad tussen hun buiken en handen groeien. Vijf dagen zijn ze aan elkaar vast in één hut, voeden elkaar, voelen elkaars hartslag in hun eigen vel. Het is het dichtste wat ze kennen. Op de zesde dag snijdt Hellik de draad door, en Mos weet niet meer wie Hellik is. Wat Hellik van hem kwijt is, ligt nu in de grond.
+- **premisse_codes:** VOOR-vergroeiing;LOT-Z44-myrrhen;FEE-Z37-myrrhen-ringen;MYTHE-Z45-boomvolk;MYTHE-Z43-feeen
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-15-9647b8d0 · 26-35|v
+- **code:** VP-15-9647b8d0
+- **run:** Z50
+- **fase:** 15 Het Zwevende Gat (na 801)
+- **positie:** beslisser
+- **genre:** actie
+- **schaal:** rijk
+- **volk:** myrrhen
+- **vorm:** twee stemmen
+- **afloop:** keert om
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 29
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 5
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-kracht-delen;VOOR-dominante-man-Z50;DRAGER-Z48-gave-11;VOOR-sporenroes;KINK-Z8-55-Z50;MYTHE-Z43-dondergod;FASE-z44-gat;PER-Z50-c-siwa
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-siwa
+- **premisse:** Garron noemt zich zoon van de donderaar en heerst over drie baaien met sporennachten: in zijn hal ademen vrouwen de zwam in en gehoorzamen hem tot de ochtend. Siwa, nu negenentwintig, ademt dezelfde sporen in en voelt acht uur lang een kracht die haar grootmoeder alleen uit liederen kende. Hun twee stemmen vertellen hoe ze hem in zijn eigen hal vastzet, met zijn instemming en tot zijn schrik, en hoe hij merkt wie het bevel altijd had.
+- **premisse_codes:** KINK-kracht-delen;VOOR-dominante-man-Z50;DRAGER-Z48-gave-11;VOOR-sporenroes;KINK-Z8-55-Z50;MYTHE-Z43-dondergod;FASE-z44-gat
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-15-29c422d4 · 36-50|v
+- **code:** VP-15-29c422d4
+- **run:** Z50
+- **fase:** 15 Het Zwevende Gat (na 801)
+- **positie:** ontdekker
+- **genre:** mysterie
+- **schaal:** huis
+- **volk:** sael-mor
+- **vorm:** getuigenverslag
+- **afloop:** keert om
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 39
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 3
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-17-Z50;VOOR-teder;LOT-Z44-sael-mor;MYTHE-Z43-zwanenmaagd;ZEDEN-Z45-fase-15;FASE-z44-gat;PER-Z50-c-neske
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-neske
+- **premisse:** Neskes zus vertelt de dorpsraad wat er gebeurde toen Neskes man na zeven jaar van zee terugkwam. In hun oude spel slaat hij haar met de vlakke hand tot de huid rood is, en de afdruk staat verkeerd: deze man is linkshandig. Neske stopt, steekt de lamp aan en hoort de waarheid; het is zijn broer, die hem zag verdrinken. Pas weken later, met open ogen, neemt ze hem in haar bed, en de raad weet niet of dat mag.
+- **premisse_codes:** KINK-Z8-17-Z50;VOOR-teder;LOT-Z44-sael-mor;MYTHE-Z43-zwanenmaagd;ZEDEN-Z45-fase-15;FASE-z44-gat
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-16-4bad2e57 · 36-50|m
+- **code:** VP-16-4bad2e57
+- **run:** Z50
+- **fase:** 16 Tijd van het Schrift (na 801)
+- **positie:** vervalser
+- **genre:** komedie
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** kasboek
+- **afloop:** werkt
+- **hoofdpersoon:** 36-50|m
+- **leeftijd:** 41
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 3
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-6-Z50;VOLK-dhurn;LOT-Z44-dhurn;MYTHE-Z43-dwergen;FASE-z44-schrift;PER-Z50-c-kiddu
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-kiddu
+- **premisse:** Kiddu, klein en taai en goed met een hamer, verkoopt in een tempelstad aan de twee rivieren zwarte godenlak aan stellen. Ingesmeerd wordt de huid hard en spiegelend, en wie de lak breekt, wil stoppen. Zijn kleitabletten tonen hoe hij het bitumen aanlengt met rivierslib en de prijs elk jaar verdubbelt. Klanten komen terug omdat ze in elkaars zwarte glans gezichten zien van lang geleden. Kiddu gelooft er niets van en bestelt meer slib.
+- **premisse_codes:** KINK-Z8-6-Z50;VOLK-dhurn;LOT-Z44-dhurn;MYTHE-Z43-dwergen;FASE-z44-schrift
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-16-30fead41 · 36-50|m
+- **code:** VP-16-30fead41
+- **run:** Z50
+- **fase:** 16 Tijd van het Schrift (na 801)
+- **positie:** betaler
+- **genre:** thriller
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** ballade
+- **afloop:** faalt
+- **hoofdpersoon:** 36-50|m
+- **leeftijd:** 46
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-34-Z50;KINK-Z8-39-Z50;DRAGER-Z48-ontvangst-13;MYTHE-Z43-heilig-huwelijk;MYTHE-Z43-stervende-god;VOOR-Z46-vuurnacht;LOT-Z44-zegellicht;PER-Z50-c-kiddu
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-kiddu
+- **premisse:** De bruidegom van de stadsgodin wordt bij nieuwjaar door priesteressen gewassen en ligt dan met de hogepriesteres op het plein, voor duizend ogen. Als de man van de koning ziek wordt, kiezen zij Kiddu, omdat zijn gelakte huid glanst in het fakkellicht, en de priesteres vraagt hem eerst, zoals het hoort. Hij zegt ja. Pas op het plein hoort hij dat de koning de bruidegom na de nacht wil laten verdwijnen. De ballade bezingt hoe hij rende en alles achterliet.
+- **premisse_codes:** KINK-Z8-34-Z50;KINK-Z8-39-Z50;DRAGER-Z48-ontvangst-13;MYTHE-Z43-heilig-huwelijk;MYTHE-Z43-stervende-god;VOOR-Z46-vuurnacht;LOT-Z44-zegellicht
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-16-a397ac0d · 51+|v
+- **code:** VP-16-a397ac0d
+- **run:** Z50
+- **fase:** 16 Tijd van het Schrift (na 801)
+- **positie:** toeschouwer
+- **genre:** intrige
+- **schaal:** stad
+- **volk:** ishvar
+- **vorm:** lijst die krimpt
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 58
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-kinkschaal;MYTHE-Z43-verboden-schrift;LOT-Z44-ishvar;VOLK-ishvar;FASE-z44-schrift;PER-Z50-c-bariqa
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-bariqa
+- **premisse:** Bariqa houdt voor het vrouwenhuis een kleitablet bij met de riten in vijf graden, van zalving met olie tot de nachtwake aan de zuil, en ze kent ze allemaal ook van binnen. Elke keer dat er een nieuwe gouverneur komt, moet ze regels wegwrijven: eerst de vijfde graad, dan de vierde, dan de derde. Het verhaal volgt de lijst tot er alleen het wassen over is. Wat niemand weet: ze bakt elke gewiste regel opnieuw en metselt hem in de muur.
+- **premisse_codes:** RIT-kinkschaal;MYTHE-Z43-verboden-schrift;LOT-Z44-ishvar;VOLK-ishvar;FASE-z44-schrift
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-16-37b99258 · 18-25|m
+- **code:** VP-16-37b99258
+- **run:** Z50
+- **fase:** 16 Tijd van het Schrift (na 801)
+- **positie:** betaler
+- **genre:** survival
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** aftellen
+- **afloop:** faalt
+- **hoofdpersoon:** 18-25|m
+- **leeftijd:** 22
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 3
+- **g_intrige:** 0
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-51-Z50;VOLK-karrûk-Z6-Z38;MYTHE-Z45-centaur;LOT-Z44-karruk-storm;FASE-z44-schrift;PER-Z50-c-tarkhan
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-tarkhan
+- **premisse:** Een seizoen lang draagt Tarkhan vrijwillig de oude ketting van zijn clan, in dienst van Altai, die hem in de voorjaarsrace won; de oudste van de tenten houdt de sleutel. Het verhaal telt de dagen tot de eerste sneeuw. Dan sterft de oudste in een sneeuwstorm op de steppe, en de sleutel ligt met hem onder het ijs. De clan verbiedt het ijzer te breken. Tarkhan en Altai halen een smid uit het dal, en met die zaag eindigt het gebruik.
+- **premisse_codes:** KINK-Z8-51-Z50;VOLK-karrûk-Z6-Z38;MYTHE-Z45-centaur;LOT-Z44-karruk-storm;FASE-z44-schrift
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-16-d5b4bd43 · 26-35|v
+- **code:** VP-16-d5b4bd43
+- **run:** Z50
+- **fase:** 16 Tijd van het Schrift (na 801)
+- **positie:** ontdekker
+- **genre:** thriller
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** realtime
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 33
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 2
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-8-Z50;MYTHE-Z43-feeen;LOT-Z44-myrrhen;VERHAAL-Z44-tijdperk-16;ZEDEN-Z45-fase-16;PER-Z50-c-fenna
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-fenna
+- **premisse:** Fenna koopt tweedehands een latex kap en draagt hem op een zaterdag in een club in Rotterdam. Binnen ruikt ze iemand: aarde, paddenstoel, een parfum dat ze kent zonder te weten waarvan. Die nacht, uur na uur, zoekt ze de vorige drager, langs de verkoper, een barman en een vriendin die haar vreemd aankijkt. Tegen vieren staat ze in een park bij een kring paddenstoelen en begrijpt ze het: de kap was van haarzelf, van het jaar dat ze kwijt is.
+- **premisse_codes:** KINK-Z8-8-Z50;MYTHE-Z43-feeen;LOT-Z44-myrrhen;VERHAAL-Z44-tijdperk-16;ZEDEN-Z45-fase-16
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-16-c7eb57b3 · 36-50|v
+- **code:** VP-16-c7eb57b3
+- **run:** Z50
+- **fase:** 16 Tijd van het Schrift (na 801)
+- **positie:** betaler
+- **genre:** horror
+- **schaal:** huis
+- **volk:** myrrhen
+- **vorm:** dagboek
+- **afloop:** keert om
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 36
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 1
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 4
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-binding-losmaken;VOOR-dominante-man-Z50;DRAGER-Z48-gave-11;VOOR-sporenroes;MYTHE-Z45-bindende-ring;FEE-Z37-myrrhen-ringen;LOT-Z44-gaven-mannen;PER-Z50-c-fenna
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-fenna
+- **premisse:** Fenna schrijft negen dagen een dagboek terwijl ze bittere grijswortel drinkt, want ze is gebonden aan Joachim. Hij plukt sporen uit een feeënring in het park en beveelt haar in de nachten die volgen, en zonder hem voelt alles grijs. De binding is een gelabeld donker thema tussen volwassenen. Op dag vijf leest ze terug wat ze op dag twee schreef en herkent ze haar eigen bevelen in zijn mond. Op dag negen brengt zij hem de kuur.
+- **premisse_codes:** KINK-binding-losmaken;VOOR-dominante-man-Z50;DRAGER-Z48-gave-11;VOOR-sporenroes;MYTHE-Z45-bindende-ring;FEE-Z37-myrrhen-ringen;LOT-Z44-gaven-mannen
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-16-c0822c98 · 26-35|m
+- **code:** VP-16-c0822c98
+- **run:** Z50
+- **fase:** 16 Tijd van het Schrift (na 801)
+- **positie:** liefde tussen posities
+- **genre:** romance
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** twee stemmen
+- **afloop:** werkt
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 29
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 1
+- **g_intrige:** 0
+- **g_komedie:** 2
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-ontlading-na-magie;KINK-kracht-delen;EROS-Z45-haak-11;LOT-Z44-gaven-mannen;MYTHE-Z43-feeen;ZEDEN-Z45-fase-16;PER-Z50-c-daan
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-daan
+- **premisse:** Daan, verpleger in Deventer, heeft vingers die een kaars kunnen aansteken, en elke keer dat hij het doet, krijgt hij koorts die er binnen een dag uit moet. Noor kent dat uit de verhalen van haar grootmoeder, en ze ontmoette hem bij de feeënring in het stadspark. In twee stemmen vertellen ze hoe de macht omdraait: hij heeft haar nodig, niet andersom. En als zij zijn warmte opneemt, is zij een paar uur sterker dan hij.
+- **premisse_codes:** KINK-ontlading-na-magie;KINK-kracht-delen;EROS-Z45-haak-11;LOT-Z44-gaven-mannen;MYTHE-Z43-feeen;ZEDEN-Z45-fase-16
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-16-3858cd29 · 26-35|v
+- **code:** VP-16-3858cd29
+- **run:** Z50
+- **fase:** 16 Tijd van het Schrift (na 801)
+- **positie:** beslisser
+- **genre:** mysterie
+- **schaal:** dorp
+- **volk:** sael-mor
+- **vorm:** brieven
+- **afloop:** keert om
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 30
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 3
+- **g_horror:** 2
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 5
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-bloed-Z50;RIT-stille-kind-Z50;MYTHE-Z43-verzonken-stad;LOT-Z44-sael-mor;ZEDEN-Z45-fase-16;FASE-z44-schrift;PER-Z50-c-lijsbet
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-lijsbet
+- **premisse:** In brieven aan haar zus in Hulst schrijft Lijsbet uit Saeftinghe over de veertig gesloten dagen na de dood van haar zoontje: grijze doek om de schouders, zijn naam onder de perenboom, geen man in haar bed, zoals de oude vrouwen van het verdronken land eisen. Ze zoekt waar die wet vandaan komt. Op de eenenveertigste dag snijden zij en Pieter in elkaars handpalm en mengen bloed. Hij wil weg voor de dijken worden doorgestoken; door die eed blijven ze.
+- **premisse_codes:** VOOR-bloed-Z50;RIT-stille-kind-Z50;MYTHE-Z43-verzonken-stad;LOT-Z44-sael-mor;ZEDEN-Z45-fase-16;FASE-z44-schrift
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-16-33f97367 · 51+|v
+- **code:** VP-16-33f97367
+- **run:** Z50
+- **fase:** 16 Tijd van het Schrift (na 801)
+- **positie:** toeschouwer
+- **genre:** romance
+- **schaal:** huis
+- **volk:** sael-mor
+- **vorm:** toespraak
+- **afloop:** werkt
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 58
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 2
+- **g_horror:** 0
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 2
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-tweegelofte-Z50;VOOR-teder;MYTHE-Z45-bindende-ring;MYTHE-Z43-verzonken-stad;ZEDEN-Z45-fase-16;LOT-Z44-sael-mor;PER-Z50-c-lijsbet
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-lijsbet
+- **premisse:** Lijsbet is achtenvijftig en woont in Hulst, ver van het land dat de zee nam, en in haar huis sluiten twee vrouwen de tweegelofte: Grietje, weduwe, en Marij, die de bakkerij runt. Een lok haar, een ring, samen in het bad, één nacht alleen in de opkamer. Lijsbet houdt de rede, en daarin vertelt ze wat ze zelf nooit hardop zei: hoe langzaam liefde kan zijn. Op stille avonden, zegt ze, hoor je de klokken van Saeftinghe.
+- **premisse_codes:** RIT-tweegelofte-Z50;VOOR-teder;MYTHE-Z45-bindende-ring;MYTHE-Z43-verzonken-stad;ZEDEN-Z45-fase-16;LOT-Z44-sael-mor
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-16-bf3dbe38 · 18-25|v
+- **code:** VP-16-bf3dbe38
+- **run:** Z50
+- **fase:** 16 Tijd van het Schrift (na 801)
+- **positie:** profiteur
+- **genre:** intrige
+- **schaal:** rijk
+- **volk:** ishvar
+- **vorm:** rondes
+- **afloop:** komt uit
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 22
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 1
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-harem-Z50;VOOR-exhibitionisme-Z50;KINK-harem-gunst;MYTHE-Z43-amazones;VOLK-ishvar;LOT-Z44-ishvar;PER-Z50-c-iltani
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-iltani
+- **premisse:** In het paleis van een koning aan de Eufraat dingen de vrouwen naar zijn gunst in feestnachten op de binnenplaats, waar elke vrouw zich laat zien zoals zij wil, voor de hele hof. Ronde na ronde klimt Iltani, tweeëntwintig en scherp, van de onderste kamer naar die bij zijn deur. In de laatste ronde ontdekt ze dat de koning de nachten al jaren niet meer bijwoont en dat de rangorde door de eerste vrouw wordt bedacht. Ze schrijft voortaan mee.
+- **premisse_codes:** VOOR-harem-Z50;VOOR-exhibitionisme-Z50;KINK-harem-gunst;MYTHE-Z43-amazones;VOLK-ishvar;LOT-Z44-ishvar
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-16-961b3d8e · 51+|m
+- **code:** VP-16-961b3d8e
+- **run:** Z50
+- **fase:** 16 Tijd van het Schrift (na 801)
+- **positie:** ontdekker
+- **genre:** komedie
+- **schaal:** huis
+- **volk:** myrrhen
+- **vorm:** zelfportret
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 51+|m
+- **leeftijd:** 57
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 3
+- **g_horror:** 3
+- **g_suspense:** 1
+- **g_actie:** 0
+- **g_intrige:** 0
+- **g_komedie:** 4
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-vergroeiing;FEE-Z37-myrrhen-ringen;MYTHE-Z43-feeen;LOT-Z44-myrrhen;VERHAAL-Z44-tijdperk-16;PER-Z50-c-gerrit
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-gerrit
+- **premisse:** Gerrit, gepensioneerd schimmelkundige, en zijn vrouw Trees laten in de schuur achter hun huis myceliumdraad tussen hun onderarmen groeien, drie dagen, omdat ze willen weten hoe het voelt om echt aan elkaar vast te zitten. Hij maakt elke ochtend een foto van zichzelf met de draad, en de buurvrouw denkt dat ze ziek zijn. Op de laatste foto ziet hij in zijn eigen ogen iets van Trees dat hij niet hoort te weten. Hij zegt het nooit.
+- **premisse_codes:** VOOR-vergroeiing;FEE-Z37-myrrhen-ringen;MYTHE-Z43-feeen;LOT-Z44-myrrhen;VERHAAL-Z44-tijdperk-16
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-16-058370db · 36-50|m
+- **code:** VP-16-058370db
+- **run:** Z50
+- **fase:** 16 Tijd van het Schrift (na 801)
+- **positie:** betaler
+- **genre:** komedie
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** getuigenverslag
+- **afloop:** faalt
+- **hoofdpersoon:** 36-50|m
+- **leeftijd:** 44
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 4
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-veiling-zaadbeurs;DRAGER-Z48-stal-13;RIT-gemaskerde-veiling-Z50;GEB-Z45-losbandige-jaren;MYTHE-Z43-stal-van-de-goden;FASE-z44-schrift;PER-Z50-c-joos
+- **herkomst:** schrijver C (Z50)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z50: verhaalpad met persoon, maakt fantasieën na 801 mogelijk
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-joos
+- **premisse:** Een kroniekschrijver vertelt over de kermis van 1424, waar het dorp gemaskerde mannen veilde voor één nacht, om de nieuwe klok te betalen. Joos, stroper, met de baljuw op zijn hielen, biedt zich gemaskerd aan, omdat de koopster hem in haar wagen mee de stad uit zal nemen. Het bod gaat hoog. De nacht is goed, en hij geeft alles. Bij het licht doet zij haar masker af: de vrouw van de baljuw, die haar man de volgende ochtend inlicht.
+- **premisse_codes:** KINK-veiling-zaadbeurs;DRAGER-Z48-stal-13;RIT-gemaskerde-veiling-Z50;GEB-Z45-losbandige-jaren;MYTHE-Z43-stal-van-de-goden;FASE-z44-schrift
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->

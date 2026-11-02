@@ -3310,7 +3310,7 @@
 - **status:** voorlopig
 - **ronde:** 25
 - **hangt_samen_met:** TECHNO-REGEL;GENRE-zegelpunk;TECH-GESCH-1
-- **verwijst_naar:** TECHNO-REGEL-V4;GENRE-zegelpunk;TECH-GESCH-1;RIT-melkrite;RIT-melkzegen;HAAK-B1-1-1
+- **verwijst_naar:** TECHNO-REGEL-V4;GENRE-zegelpunk;TECH-GESCH-1;RIT-melkrite-Z50;RIT-melkzegen-Z50;HAAK-B1-1-1
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13539,8 +13539,8 @@
 - **waarom:** Ronde Z1: verdieping dunne regio groenmuil
 - **status:** voorlopig
 - **ronde:** 30
-- **hangt_samen_met:** REG-groenmuil;RIT-zwijgende-rit;KINK-zwijgende-rit;ZINT-MOTIEF-groenmuil
-- **verwijst_naar:** REG-groenmuil;RIT-zwijgende-rit;KINK-zwijgende-rit;ZINT-MOTIEF-groenmuil
+- **hangt_samen_met:** REG-groenmuil;RIT-zwijgende-rit-Z50;KINK-zwijgende-rit;ZINT-MOTIEF-groenmuil
+- **verwijst_naar:** REG-groenmuil;RIT-zwijgende-rit-Z50;KINK-zwijgende-rit;ZINT-MOTIEF-groenmuil
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13659,7 +13659,7 @@
 - **waarom:** Ronde Z1: verdieping dunne regio groenmuil
 - **status:** voorlopig
 - **ronde:** 30
-- **hangt_samen_met:** REG-groenmuil;REG-groenmuil;ZINT-MOTIEF-groenmuil
+- **hangt_samen_met:** REG-groenmuil;ZINT-MOTIEF-groenmuil
 - **verwijst_naar:** REG-groenmuil;ZINT-MOTIEF-groenmuil
 - **jaar:** 
 - **tijdperk:** 
@@ -13839,7 +13839,7 @@
 - **waarom:** Ronde Z1: verdieping dunne regio rosse
 - **status:** voorlopig
 - **ronde:** 30
-- **hangt_samen_met:** REG-rosse;REG-rosse;ZINT-MOTIEF-rosse
+- **hangt_samen_met:** REG-rosse;ZINT-MOTIEF-rosse
 - **verwijst_naar:** REG-rosse;ZINT-MOTIEF-rosse
 - **jaar:** 
 - **tijdperk:** 
@@ -14079,7 +14079,7 @@
 - **waarom:** Ronde Z1: verdieping dunne regio kharvos [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar REG-kharvos-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 30
-- **hangt_samen_met:** REG-kharvos-B1;REG-kharvos-B1;ZINT-MOTIEF-kharvos
+- **hangt_samen_met:** REG-kharvos-B1;ZINT-MOTIEF-kharvos
 - **verwijst_naar:** REG-kharvos-B1;ZINT-MOTIEF-kharvos
 - **jaar:** 
 - **tijdperk:** 
@@ -14229,8 +14229,8 @@
 - **waarom:** Ronde Z1: verdieping dunne regio stille
 - **status:** voorlopig
 - **ronde:** 30
-- **hangt_samen_met:** REG-stille;RIT-stille-kind;SYS-stille-kind;ZINT-MOTIEF-stille
-- **verwijst_naar:** REG-stille;RIT-stille-kind;SYS-stille-kind;ZINT-MOTIEF-stille
+- **hangt_samen_met:** REG-stille;RIT-stille-kind-Z50;SYS-stille-kind;ZINT-MOTIEF-stille
+- **verwijst_naar:** REG-stille;RIT-stille-kind-Z50;SYS-stille-kind;ZINT-MOTIEF-stille
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -15039,8 +15039,8 @@
 - **waarom:** Ronde Z2: verdieping regio saelith
 - **status:** voorlopig
 - **ronde:** 31
-- **hangt_samen_met:** REG-saelith;STAD-saelith-zaadbeurs;KINK-veiling-zaadbeurs;VOOR-anoniem;ZINT-MOTIEF-saelith
-- **verwijst_naar:** REG-saelith;STAD-saelith;KINK-veiling-zaadbeurs;VOOR-anoniem;ZINT-MOTIEF-saelith
+- **hangt_samen_met:** REG-saelith;STAD-saelith-zaadbeurs;KINK-veiling-zaadbeurs;VOOR-anoniem-Z50;ZINT-MOTIEF-saelith
+- **verwijst_naar:** REG-saelith;STAD-saelith;KINK-veiling-zaadbeurs;VOOR-anoniem-Z50;ZINT-MOTIEF-saelith
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -17289,8 +17289,8 @@
 - **waarom:** Ronde Z3: oplossing WRIJ-023; levert verhaalmotor [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 32
-- **hangt_samen_met:** GEH-zegel;MAGIE-kracht-duur;RIT-zegelvoeding;WRIJ-023
-- **verwijst_naar:** BESLUIT-Z30-2;MAGIE-kracht-duur;RIT-zegelvoeding;WRIJ-023;HAAK-B1-6-3
+- **hangt_samen_met:** GEH-zegel;MAGIE-kracht-duur;RIT-zegelvoeding-Z50;WRIJ-023
+- **verwijst_naar:** BESLUIT-Z30-2;MAGIE-kracht-duur;RIT-zegelvoeding-Z50;WRIJ-023;HAAK-B1-6-3
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -17349,8 +17349,8 @@
 - **waarom:** Ronde Z3: oplossing WRIJ-025; levert verhaalmotor [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 32
-- **hangt_samen_met:** MACHT-gewone-mannen;PER-gewone-mannen;RIT-rolwisseling;WRIJ-025
-- **verwijst_naar:** MACHT-gewone-mannen;PER-gewone-mannen;RIT-rolwisseling;WRIJ-025;HAAK-REG-ambergaard
+- **hangt_samen_met:** MACHT-gewone-mannen;PER-gewone-mannen;RIT-rolwisseling-Z50;WRIJ-025
+- **verwijst_naar:** MACHT-gewone-mannen;PER-gewone-mannen;RIT-rolwisseling-Z50;WRIJ-025;HAAK-REG-ambergaard
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -17409,8 +17409,8 @@
 - **waarom:** Ronde Z3: oplossing WRIJ-027; levert verhaalmotor [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 32
-- **hangt_samen_met:** MAGIE-verslaving;RIT-bloedverbinding;WRIJ-027
-- **verwijst_naar:** MAGIE-verslaving;RIT-bloedverbinding;WRIJ-027;GEH-wie-weet-wat
+- **hangt_samen_met:** MAGIE-verslaving;RIT-bloedverbinding-Z50;WRIJ-027
+- **verwijst_naar:** MAGIE-verslaving;RIT-bloedverbinding-Z50;WRIJ-027;GEH-wie-weet-wat
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -17439,7 +17439,7 @@
 - **waarom:** Ronde Z3: oplossing WRIJ-028; levert verhaalmotor [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 32
-- **hangt_samen_met:** ;WRIJ-028
+- **hangt_samen_met:** WRIJ-028
 - **verwijst_naar:** WRIJ-028;HAAK-techno-gave-3
 - **jaar:** 
 - **tijdperk:** 
@@ -17529,8 +17529,8 @@
 - **waarom:** Ronde Z3: oplossing WRIJ-031; levert verhaalmotor [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 32
-- **hangt_samen_met:** KINK-zwijgende-rit;REGEL-registers-merken;REGEL-verwantschapstaboe;RIT-veiling;WRIJ-031
-- **verwijst_naar:** KINK-zwijgende-rit;REGEL-registers-merken;REGEL-verwantschapstaboe;RIT-veiling;WRIJ-031;HAAK-techno-bio-3
+- **hangt_samen_met:** KINK-zwijgende-rit;REGEL-registers-merken;REGEL-verwantschapstaboe;RIT-veiling-Z50;WRIJ-031
+- **verwijst_naar:** KINK-zwijgende-rit;REGEL-registers-merken;REGEL-verwantschapstaboe;RIT-veiling-Z50;WRIJ-031;HAAK-techno-bio-3
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -17559,7 +17559,7 @@
 - **waarom:** Ronde Z3: oplossing WRIJ-032; levert verhaalmotor [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 32
-- **hangt_samen_met:** ;WRIJ-032
+- **hangt_samen_met:** WRIJ-032
 - **verwijst_naar:** WRIJ-032;HAAK-techno-metaal-2
 - **jaar:** 
 - **tijdperk:** 
@@ -17589,7 +17589,7 @@
 - **waarom:** Ronde Z3: oplossing WRIJ-033; levert verhaalmotor [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 32
-- **hangt_samen_met:** ;WRIJ-033
+- **hangt_samen_met:** WRIJ-033
 - **verwijst_naar:** WRIJ-033;HAAK-V5-zegel-1
 - **jaar:** 
 - **tijdperk:** 
@@ -17709,7 +17709,7 @@
 - **waarom:** Ronde Z3: oplossing WRIJ-037; levert verhaalmotor [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 32
-- **hangt_samen_met:** GEH-zegel;PER-liora;QST-doel-reden-gevaar;QST-queeste;RIT-zegelvoeding;WRIJ-037
+- **hangt_samen_met:** GEH-zegel;PER-liora;QST-doel-reden-gevaar;QST-queeste;RIT-zegelvoeding-Z50;WRIJ-037
 - **verwijst_naar:** BESLUIT-Z30-2;PER-liora-Z6-Z32;QST-doel-reden-gevaar;QST-queeste;HAAK-V5-zegel-3
 - **jaar:** 
 - **tijdperk:** 
@@ -17739,8 +17739,8 @@
 - **waarom:** Ronde Z3: oplossing WRIJ-038; levert verhaalmotor [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 32
-- **hangt_samen_met:** KINK-zwijgende-rit;PER-gewone-mannen;RIT-rolwisseling;WRIJ-038
-- **verwijst_naar:** KINK-zwijgende-rit;PER-gewone-mannen;RIT-rolwisseling;WRIJ-038;HAAK-B1-2-1
+- **hangt_samen_met:** KINK-zwijgende-rit;PER-gewone-mannen;RIT-rolwisseling-Z50;WRIJ-038
+- **verwijst_naar:** KINK-zwijgende-rit;PER-gewone-mannen;RIT-rolwisseling-Z50;WRIJ-038;HAAK-B1-2-1
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -23469,8 +23469,8 @@
 - **waarom:** Ronde Z9: actiescènes (wens Rogier) [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 38
-- **hangt_samen_met:** PLEK-LICH-schandpodium;LICH-bloedspiegel;RIT-ontvangst;FUNC-MIL
-- **verwijst_naar:** PLEK-LICH-schandpodium;LICH-bloedspiegel;RIT-ontvangst;FUNC-MIL
+- **hangt_samen_met:** PLEK-LICH-schandpodium;LICH-bloedspiegel;RIT-ontvangst-Z50;FUNC-MIL
+- **verwijst_naar:** PLEK-LICH-schandpodium;LICH-bloedspiegel;RIT-ontvangst-Z50;FUNC-MIL
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -24669,8 +24669,8 @@
 - **waarom:** Ronde Z9: oorlog en agressie als keten door fasen 0-7 (wens Rogier) [Z13 datering: jaar -105 (mediaan van 1 verwezen rijen)] [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-huis-kaldra;GEB-r10-eerste-strijdnacht), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 38
-- **hangt_samen_met:** GEB-r10-eerste-strijdnacht;RIT-strijdontvangst;BEST-huis-kaldra;LIJN-fase-2
-- **verwijst_naar:** GEB-r10-eerste-strijdnacht;RIT-strijdontvangst;BEST-huis-kaldra;LIJN-fase-2;HELD-Z10-32;FASE-OVERZICHT-Z36-3
+- **hangt_samen_met:** GEB-r10-eerste-strijdnacht;RIT-strijdontvangst-Z50;BEST-huis-kaldra;LIJN-fase-2
+- **verwijst_naar:** GEB-r10-eerste-strijdnacht;RIT-strijdontvangst-Z50;BEST-huis-kaldra;LIJN-fase-2;HELD-Z10-32;FASE-OVERZICHT-Z36-3
 - **jaar:** -105
 - **tijdperk:** 2 Vonk
 - **intensiteit:** 
@@ -28929,8 +28929,8 @@
 - **waarom:** Ronde Z10: Saw-achtige horror [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-karrûk;ACTIE-Z9-33;KINK-Z8-18
-- **verwijst_naar:** VOLK-karrûk-Z6-Z38;ACTIE-Z9-33;KINK-Z8-18
+- **hangt_samen_met:** VOLK-karrûk;ACTIE-Z9-33;KINK-Z8-18-Z50
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;ACTIE-Z9-33;KINK-Z8-18-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -29109,8 +29109,8 @@
 - **waarom:** Ronde Z10: comedy (wens Rogier) [Z13 datering: jaar 235 (fasenaam "ontvangst" in de tekst)] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** ORDE-stille-hand;KINK-Z8-32;STAD-saelith
-- **verwijst_naar:** ORDE-stille-hand;KINK-Z8-32;STAD-saelith;NERD-Z10-14;HAAK-techno-gave-3
+- **hangt_samen_met:** ORDE-stille-hand;KINK-Z8-32-Z50;STAD-saelith
+- **verwijst_naar:** ORDE-stille-hand;KINK-Z8-32-Z50;STAD-saelith;NERD-Z10-14;HAAK-techno-gave-3
 - **jaar:** 235
 - **tijdperk:** 5 Ontvangst
 - **intensiteit:** 
@@ -29319,8 +29319,8 @@
 - **waarom:** Ronde Z10: comedy (wens Rogier) [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-tharn;RECHT-tribunaal;KINK-Z8-54
-- **verwijst_naar:** VOLK-tharn;RECHT-tribunaal;KINK-Z8-54
+- **hangt_samen_met:** VOLK-tharn;RECHT-tribunaal;KINK-Z8-54-Z50
+- **verwijst_naar:** VOLK-tharn;RECHT-tribunaal;KINK-Z8-54-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -29349,8 +29349,8 @@
 - **waarom:** Ronde Z10: comedy (wens Rogier) [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-skerra;KINK-Z8-52;D1-skerra-geld
-- **verwijst_naar:** VOLK-skerra;KINK-Z8-52;D1-skerra-geld;VOLK-GENRES-Z10-skerra;HAAK-techno-metaal-1
+- **hangt_samen_met:** VOLK-skerra;KINK-Z8-52-Z50;D1-skerra-geld
+- **verwijst_naar:** VOLK-skerra;KINK-Z8-52-Z50;D1-skerra-geld;VOLK-GENRES-Z10-skerra;HAAK-techno-metaal-1
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -29439,8 +29439,8 @@
 - **waarom:** Ronde Z10: comedy (wens Rogier) [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** BODY-Z8-17;ORDE-stille-hand;KINK-Z8-37
-- **verwijst_naar:** BODY-Z8-17;ORDE-stille-hand;KINK-Z8-37
+- **hangt_samen_met:** BODY-Z8-17;ORDE-stille-hand;KINK-Z8-37-Z50
+- **verwijst_naar:** BODY-Z8-17;ORDE-stille-hand;KINK-Z8-37-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -29529,8 +29529,8 @@
 - **waarom:** Ronde Z10: comedy (wens Rogier) [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-karrûk;VOLK-myrrhen;KINK-Z8-18
-- **verwijst_naar:** VOLK-karrûk-Z6-Z38;VOLK-myrrhen-Z6;KINK-Z8-18
+- **hangt_samen_met:** VOLK-karrûk;VOLK-myrrhen;KINK-Z8-18-Z50
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;VOLK-myrrhen-Z6;KINK-Z8-18-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -29619,8 +29619,8 @@
 - **waarom:** Ronde Z10: comedy (wens Rogier) [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-29;PLEK-LICH-zaadbeurs;GELD-druppel-zaad
-- **verwijst_naar:** KINK-Z8-29;PLEK-LICH-zaadbeurs;GELD-druppel-zaad
+- **hangt_samen_met:** KINK-Z8-29-Z50;PLEK-LICH-zaadbeurs;GELD-druppel-zaad
+- **verwijst_naar:** KINK-Z8-29-Z50;PLEK-LICH-zaadbeurs;GELD-druppel-zaad
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -29679,8 +29679,8 @@
 - **waarom:** Ronde Z10: comedy (wens Rogier) [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-5;BEST-leger;STAD-saelith
-- **verwijst_naar:** KINK-Z8-5;BEST-leger;STAD-saelith
+- **hangt_samen_met:** KINK-Z8-5-Z50;BEST-leger;STAD-saelith
+- **verwijst_naar:** KINK-Z8-5-Z50;BEST-leger;STAD-saelith
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -29739,8 +29739,8 @@
 - **waarom:** Ronde Z10: comedy (wens Rogier) [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** BODY-Z8-38;BEST-belasting;KINK-Z8-35
-- **verwijst_naar:** BODY-Z8-38-L10;BEST-belasting;KINK-Z8-35
+- **hangt_samen_met:** BODY-Z8-38;BEST-belasting;KINK-Z8-35-Z50
+- **verwijst_naar:** BODY-Z8-38-L10;BEST-belasting;KINK-Z8-35-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -29919,8 +29919,8 @@
 - **waarom:** Ronde Z10: comedy (wens Rogier) [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)] [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-ishvar), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-ishvar;REG-rosse;KINK-Z8-2
-- **verwijst_naar:** VOLK-ishvar;REG-rosse;KINK-Z8-2
+- **hangt_samen_met:** VOLK-ishvar;REG-rosse;KINK-Z8-2-Z50
+- **verwijst_naar:** VOLK-ishvar;REG-rosse;KINK-Z8-2-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -30039,8 +30039,8 @@
 - **waarom:** Ronde Z10: comedy (wens Rogier) [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-32;KINK-Z8-33;STAD-brakhaven
-- **verwijst_naar:** KINK-Z8-32;KINK-Z8-33;STAD-brakhaven
+- **hangt_samen_met:** KINK-Z8-32-Z50;KINK-Z8-33-Z50;STAD-brakhaven
+- **verwijst_naar:** KINK-Z8-32-Z50;KINK-Z8-33-Z50;STAD-brakhaven
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -30099,8 +30099,8 @@
 - **waarom:** Ronde Z10: comedy (wens Rogier) [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-vathren;TECHNO-gave-genees;KINK-Z8-53
-- **verwijst_naar:** VOLK-vathren-Z6;TECHNO-gave-genees;KINK-Z8-53
+- **hangt_samen_met:** VOLK-vathren;TECHNO-gave-genees;KINK-Z8-53-Z50
+- **verwijst_naar:** VOLK-vathren-Z6;TECHNO-gave-genees;KINK-Z8-53-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -30159,8 +30159,8 @@
 - **waarom:** Ronde Z10: comedy (wens Rogier) [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)] [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-volk-kluwer), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-kluwer;KINK-Z8-12;BEST-volk-kluwer
-- **verwijst_naar:** VOLK-kluwer;KINK-Z8-12;BEST-volk-kluwer;VOLK-GENRES-Z10-kluwer;HAAK-techno-bio-3
+- **hangt_samen_met:** VOLK-kluwer;KINK-Z8-12-Z50;BEST-volk-kluwer
+- **verwijst_naar:** VOLK-kluwer;KINK-Z8-12-Z50;BEST-volk-kluwer;VOLK-GENRES-Z10-kluwer;HAAK-techno-bio-3
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -30429,8 +30429,8 @@
 - **waarom:** Ronde Z10: comedy (wens Rogier) [Z13 datering: jaar 235 (fasenaam "ontvangst" in de tekst)]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-21;PLEK-LICH-ontvangstzaal;GOD-ysa
-- **verwijst_naar:** KINK-Z8-21;PLEK-LICH-ontvangstzaal;GOD-ysa
+- **hangt_samen_met:** KINK-Z8-21-Z50;PLEK-LICH-ontvangstzaal;GOD-ysa
+- **verwijst_naar:** KINK-Z8-21-Z50;PLEK-LICH-ontvangstzaal;GOD-ysa
 - **jaar:** 235
 - **tijdperk:** 5 Ontvangst
 - **intensiteit:** 
@@ -30519,8 +30519,8 @@
 - **waarom:** Ronde Z10: comedy (wens Rogier) [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** REG-kharvos-B1;BEST-kharvos;KINK-Z8-23
-- **verwijst_naar:** REG-kharvos-B1;BEST-kharvos;KINK-Z8-23
+- **hangt_samen_met:** REG-kharvos-B1;BEST-kharvos;KINK-Z8-23-Z50
+- **verwijst_naar:** REG-kharvos-B1;BEST-kharvos;KINK-Z8-23-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -30579,8 +30579,8 @@
 - **waarom:** Ronde Z10: comedy (wens Rogier) [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** BEST-huis-mirre;STAD-isla-mirre;KINK-Z8-24
-- **verwijst_naar:** BEST-huis-mirre;STAD-isla-mirre;KINK-Z8-24
+- **hangt_samen_met:** BEST-huis-mirre;STAD-isla-mirre;KINK-Z8-24-Z50
+- **verwijst_naar:** BEST-huis-mirre;STAD-isla-mirre;KINK-Z8-24-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -30669,8 +30669,8 @@
 - **waarom:** Ronde Z10: comedy (wens Rogier) [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-myrrhen;KINK-Z8-55;D1-myrrhen-geld
-- **verwijst_naar:** VOLK-myrrhen-Z6;KINK-Z8-55;D1-myrrhen-geld
+- **hangt_samen_met:** VOLK-myrrhen;KINK-Z8-55-Z50;D1-myrrhen-geld
+- **verwijst_naar:** VOLK-myrrhen-Z6;KINK-Z8-55-Z50;D1-myrrhen-geld
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -30819,8 +30819,8 @@
 - **waarom:** Ronde Z10: zoetsappige romantiek (wens Rogier) [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)] [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-aelthir-V5;VOLK-ishvar), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-aelthir;VOLK-ishvar;KINK-Z8-10
-- **verwijst_naar:** VOLK-aelthir-V5;VOLK-ishvar;KINK-Z8-10
+- **hangt_samen_met:** VOLK-aelthir;VOLK-ishvar;KINK-Z8-10-Z50
+- **verwijst_naar:** VOLK-aelthir-V5;VOLK-ishvar;KINK-Z8-10-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -30939,8 +30939,8 @@
 - **waarom:** Ronde Z10: zoetsappige romantiek (wens Rogier) [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-oevrin;EROS-STOP-Z7-oevrin;KINK-Z8-26
-- **verwijst_naar:** VOLK-oevrin;EROS-STOP-Z7-oevrin;KINK-Z8-26
+- **hangt_samen_met:** VOLK-oevrin;EROS-STOP-Z7-oevrin;KINK-Z8-26-Z50
+- **verwijst_naar:** VOLK-oevrin;EROS-STOP-Z7-oevrin;KINK-Z8-26-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -30999,8 +30999,8 @@
 - **waarom:** Ronde Z10: zoetsappige romantiek (wens Rogier) [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)] [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar LICH-geurband), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-tharn;KINK-Z8-54;LICH-geurband
-- **verwijst_naar:** VOLK-tharn;KINK-Z8-54;LICH-geurband
+- **hangt_samen_met:** VOLK-tharn;KINK-Z8-54-Z50;LICH-geurband
+- **verwijst_naar:** VOLK-tharn;KINK-Z8-54-Z50;LICH-geurband
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -31029,8 +31029,8 @@
 - **waarom:** Ronde Z10: zoetsappige romantiek (wens Rogier) [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-karrûk;KINK-Z8-18;LICH-krijgslitteken-kaart
-- **verwijst_naar:** VOLK-karrûk-Z6-Z38;KINK-Z8-18;LICH-krijgslitteken-kaart
+- **hangt_samen_met:** VOLK-karrûk;KINK-Z8-18-Z50;LICH-krijgslitteken-kaart
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;KINK-Z8-18-Z50;LICH-krijgslitteken-kaart
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -31179,8 +31179,8 @@
 - **waarom:** Ronde Z10: zoetsappige romantiek (wens Rogier) [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-vathren;KINK-Z8-53;OORLOG-Z9-27
-- **verwijst_naar:** VOLK-vathren-Z6;KINK-Z8-53;OORLOG-Z9-27
+- **hangt_samen_met:** VOLK-vathren;KINK-Z8-53-Z50;OORLOG-Z9-27
+- **verwijst_naar:** VOLK-vathren-Z6;KINK-Z8-53-Z50;OORLOG-Z9-27
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -31329,8 +31329,8 @@
 - **waarom:** Ronde Z10: zoetsappige romantiek (wens Rogier) [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** BEST-register;EROS-RAUW-Z7-5;KINK-Z8-56
-- **verwijst_naar:** BEST-register;EROS-RAUW-Z7-5;KINK-Z8-56
+- **hangt_samen_met:** BEST-register;EROS-RAUW-Z7-5;KINK-Z8-56-Z50
+- **verwijst_naar:** BEST-register;EROS-RAUW-Z7-5;KINK-Z8-56-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -31419,8 +31419,8 @@
 - **waarom:** Ronde Z10: zoetsappige romantiek (wens Rogier) [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-myrrhen;KINK-Z8-55;PLEK-groen-korf
-- **verwijst_naar:** VOLK-myrrhen-Z6;KINK-Z8-55;PLEK-groen-korf
+- **hangt_samen_met:** VOLK-myrrhen;KINK-Z8-55-Z50;PLEK-groen-korf
+- **verwijst_naar:** VOLK-myrrhen-Z6;KINK-Z8-55-Z50;PLEK-groen-korf
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -31569,8 +31569,8 @@
 - **waarom:** Ronde Z10: zoetsappige romantiek (wens Rogier) [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)] [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-volk-kluwer), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-kluwer;KINK-Z8-12;BEST-volk-kluwer
-- **verwijst_naar:** VOLK-kluwer;KINK-Z8-12;BEST-volk-kluwer
+- **hangt_samen_met:** VOLK-kluwer;KINK-Z8-12-Z50;BEST-volk-kluwer
+- **verwijst_naar:** VOLK-kluwer;KINK-Z8-12-Z50;BEST-volk-kluwer
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -31899,8 +31899,8 @@
 - **waarom:** Ronde Z10: zoetsappige romantiek (wens Rogier) [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** BEST-register;KINK-Z8-56;EROS-RAUW-Z7-20
-- **verwijst_naar:** BEST-register;KINK-Z8-56;EROS-RAUW-Z7-20
+- **hangt_samen_met:** BEST-register;KINK-Z8-56-Z50;EROS-RAUW-Z7-20
+- **verwijst_naar:** BEST-register;KINK-Z8-56-Z50;EROS-RAUW-Z7-20
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -32049,8 +32049,8 @@
 - **waarom:** Ronde Z10: zoetsappige romantiek (wens Rogier) [Z13 datering: jaar 801 (geen aanwijzing: heden 801 aangenomen (verhalen spelen standaard in 801))] [Z14 datering gecontroleerd: tijdloze haak of concept zonder aanwijzing in tekst of canon; speelbaar in 801, aanname blijft]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-13;VOORW-Z7-kraaienbruid;REG-zoutkust
-- **verwijst_naar:** KINK-Z8-13;VOORW-Z7-kraaienbruid;REG-zoutkust
+- **hangt_samen_met:** KINK-Z8-13-Z50;VOORW-Z7-kraaienbruid;REG-zoutkust
+- **verwijst_naar:** KINK-Z8-13-Z50;VOORW-Z7-kraaienbruid;REG-zoutkust
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -32589,8 +32589,8 @@
 - **waarom:** Ronde Z10: heldenverhalen (wens Rogier) [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)] [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-leger;VOLK-dhurn), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-dhurn;KINK-Z8-15;BEST-leger
-- **verwijst_naar:** VOLK-dhurn;KINK-Z8-15;BEST-leger;DEGEN-Z10-32;HAAK-PER-intrige
+- **hangt_samen_met:** VOLK-dhurn;KINK-Z8-15-Z50;BEST-leger
+- **verwijst_naar:** VOLK-dhurn;KINK-Z8-15-Z50;BEST-leger;DEGEN-Z10-32;HAAK-PER-intrige
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -32649,8 +32649,8 @@
 - **waarom:** Ronde Z10: heldenverhalen (wens Rogier) [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-karrûk;KINK-Z8-18;OORLOG-Z9-22
-- **verwijst_naar:** VOLK-karrûk-Z6-Z38;KINK-Z8-18;OORLOG-Z9-22
+- **hangt_samen_met:** VOLK-karrûk;KINK-Z8-18-Z50;OORLOG-Z9-22
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;KINK-Z8-18-Z50;OORLOG-Z9-22
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -32769,8 +32769,8 @@
 - **waarom:** Ronde Z10: heldenverhalen (wens Rogier) [Z13 datering: jaar 801 (mediaan van 2 verwezen rijen)] [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-ishvar), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-ishvar;OORLOG-Z9-26;KINK-Z8-2
-- **verwijst_naar:** VOLK-ishvar;OORLOG-Z9-26;KINK-Z8-2
+- **hangt_samen_met:** VOLK-ishvar;OORLOG-Z9-26;KINK-Z8-2-Z50
+- **verwijst_naar:** VOLK-ishvar;OORLOG-Z9-26;KINK-Z8-2-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -32799,8 +32799,8 @@
 - **waarom:** Ronde Z10: heldenverhalen (wens Rogier) [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-vathren;OORLOG-Z9-27;KINK-Z8-53
-- **verwijst_naar:** VOLK-vathren-Z6;OORLOG-Z9-27;KINK-Z8-53;HAAK-V5-zegel-1
+- **hangt_samen_met:** VOLK-vathren;OORLOG-Z9-27;KINK-Z8-53-Z50
+- **verwijst_naar:** VOLK-vathren-Z6;OORLOG-Z9-27;KINK-Z8-53-Z50;HAAK-V5-zegel-1
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -32859,8 +32859,8 @@
 - **waarom:** Ronde Z10: heldenverhalen (wens Rogier) [Z13 datering: jaar 801 (mediaan van 1 verwezen rijen)]
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-myrrhen;OORLOG-Z9-29;KINK-Z8-55
-- **verwijst_naar:** VOLK-myrrhen-Z6;OORLOG-Z9-29;KINK-Z8-55
+- **hangt_samen_met:** VOLK-myrrhen;OORLOG-Z9-29;KINK-Z8-55-Z50
+- **verwijst_naar:** VOLK-myrrhen-Z6;OORLOG-Z9-29;KINK-Z8-55-Z50
 - **jaar:** 801
 - **tijdperk:** 801 (nu)
 - **intensiteit:** 
@@ -41229,8 +41229,8 @@
 - **waarom:** Ronde Z37: besluit van Rogier (bij overhandiging van OPDRACHT_architect_Z37.md, 2026-11-01) (D3, beroepen-module stap 11c-patroon; wereldregel RIT-veiling)
 - **status:** voorlopig
 - **ronde:** 66
-- **hangt_samen_met:** RIT-veiling;ERF-markt;BESLUIT-Z37-1
-- **verwijst_naar:** RIT-veiling;ERF-markt;BESLUIT-Z37-1
+- **hangt_samen_met:** RIT-veiling-Z50;ERF-markt;BESLUIT-Z37-1
+- **verwijst_naar:** RIT-veiling-Z50;ERF-markt;BESLUIT-Z37-1
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -41349,8 +41349,8 @@
 - **waarom:** Ronde Z37: besluit van Rogier (bij overhandiging van OPDRACHT_architect_Z37.md, 2026-11-01) (D3, voorstel rite)
 - **status:** voorlopig
 - **ronde:** 66
-- **hangt_samen_met:** GAVE-Z37-ja;GAVE-Z37-storm;RIT-stormontlading;ROMAN-Z16-roman-Z32
-- **verwijst_naar:** GAVE-Z37-ja;GAVE-Z37-storm;RIT-stormontlading;ROMAN-Z16-roman-Z32
+- **hangt_samen_met:** GAVE-Z37-ja;GAVE-Z37-storm;RIT-stormontlading-Z50;ROMAN-Z16-roman-Z32
+- **verwijst_naar:** GAVE-Z37-ja;GAVE-Z37-storm;RIT-stormontlading-Z50;ROMAN-Z16-roman-Z32
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -46329,8 +46329,8 @@
 - **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
 - **status:** voorlopig
 - **ronde:** 74
-- **hangt_samen_met:** PER-morvane;RIT-bloedverbinding;SEKTE-bloedkerk;RIT-ontzegging-binding
-- **verwijst_naar:** PER-morvane;RIT-bloedverbinding;SEKTE-bloedkerk;RIT-ontzegging-binding
+- **hangt_samen_met:** PER-morvane;RIT-bloedverbinding-Z50;SEKTE-bloedkerk;RIT-ontzegging-binding
+- **verwijst_naar:** PER-morvane;RIT-bloedverbinding-Z50;SEKTE-bloedkerk;RIT-ontzegging-binding
 - **jaar:** 
 - **tijdperk:** 7 Barsten
 - **intensiteit:** 
@@ -47109,8 +47109,8 @@
 - **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
 - **status:** voorlopig
 - **ronde:** 75
-- **hangt_samen_met:** SEKTE-bloedkerk;RIT-bloedverbinding;BESLUIT-Z6-WRIJ-077
-- **verwijst_naar:** SEKTE-bloedkerk;RIT-bloedverbinding;BESLUIT-Z6-WRIJ-077
+- **hangt_samen_met:** SEKTE-bloedkerk;RIT-bloedverbinding-Z50;BESLUIT-Z6-WRIJ-077
+- **verwijst_naar:** SEKTE-bloedkerk;RIT-bloedverbinding-Z50;BESLUIT-Z6-WRIJ-077
 - **jaar:** 
 - **tijdperk:** 9 Tijd van de Ja (na 801)
 - **intensiteit:** 
@@ -47679,8 +47679,8 @@
 - **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
 - **status:** voorlopig
 - **ronde:** 77
-- **hangt_samen_met:** LOT-Z44-gaven-mannen;VOOR-sporenroes;KINK-Z8-55;VOLK-myrrhen-Z6;FASE-z44-helden
-- **verwijst_naar:** LOT-Z44-gaven-mannen;VOOR-sporenroes;KINK-Z8-55;VOLK-myrrhen-Z6;FASE-z44-helden
+- **hangt_samen_met:** LOT-Z44-gaven-mannen;VOOR-sporenroes;KINK-Z8-55-Z50;VOLK-myrrhen-Z6;FASE-z44-helden
+- **verwijst_naar:** LOT-Z44-gaven-mannen;VOOR-sporenroes;KINK-Z8-55-Z50;VOLK-myrrhen-Z6;FASE-z44-helden
 - **jaar:** 
 - **tijdperk:** 11 Heldentijd (na 801)
 - **intensiteit:** 
@@ -47709,8 +47709,8 @@
 - **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
 - **status:** voorlopig
 - **ronde:** 77
-- **hangt_samen_met:** LOT-Z44-zegellicht;KETEN-kruik-ontvangst;RIT-nacht-duizend-lampen;GEB-Z45-losbandige-jaren;FASE-z44-ja
-- **verwijst_naar:** LOT-Z44-zegellicht;KETEN-kruik-ontvangst;RIT-nacht-duizend-lampen;GEB-Z45-losbandige-jaren;FASE-z44-ja
+- **hangt_samen_met:** LOT-Z44-zegellicht;KETEN-kruik-ontvangst;RIT-nacht-duizend-lampen-Z50;GEB-Z45-losbandige-jaren;FASE-z44-ja
+- **verwijst_naar:** LOT-Z44-zegellicht;KETEN-kruik-ontvangst;RIT-nacht-duizend-lampen-Z50;GEB-Z45-losbandige-jaren;FASE-z44-ja
 - **jaar:** 
 - **tijdperk:** 9 Tijd van de Ja (na 801)
 - **intensiteit:** 
@@ -47769,8 +47769,8 @@
 - **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
 - **status:** voorlopig
 - **ronde:** 77
-- **hangt_samen_met:** GEB-Z45-losbandige-jaren;RIT-gemaskerde-veiling;RIT-halsbandwissel;KINK-sjerp-signalen;FASE-z44-ja
-- **verwijst_naar:** GEB-Z45-losbandige-jaren;RIT-gemaskerde-veiling;RIT-halsbandwissel;KINK-sjerp-signalen;FASE-z44-ja
+- **hangt_samen_met:** GEB-Z45-losbandige-jaren;RIT-gemaskerde-veiling-Z50;RIT-halsbandwissel-Z50;KINK-sjerp-signalen;FASE-z44-ja
+- **verwijst_naar:** GEB-Z45-losbandige-jaren;RIT-gemaskerde-veiling-Z50;RIT-halsbandwissel-Z50;KINK-sjerp-signalen;FASE-z44-ja
 - **jaar:** 
 - **tijdperk:** 9 Tijd van de Ja (na 801)
 - **intensiteit:** 
@@ -47799,8 +47799,8 @@
 - **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
 - **status:** voorlopig
 - **ronde:** 77
-- **hangt_samen_met:** GEB-Z45-losbandige-jaren;RIT-gemaskerde-veiling;FASE-z44-mensen
-- **verwijst_naar:** GEB-Z45-losbandige-jaren;RIT-gemaskerde-veiling;FASE-z44-mensen
+- **hangt_samen_met:** GEB-Z45-losbandige-jaren;RIT-gemaskerde-veiling-Z50;FASE-z44-mensen
+- **verwijst_naar:** GEB-Z45-losbandige-jaren;RIT-gemaskerde-veiling-Z50;FASE-z44-mensen
 - **jaar:** 
 - **tijdperk:** 13 Tijd der Mensen (na 801)
 - **intensiteit:** 
@@ -47919,8 +47919,8 @@
 - **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
 - **status:** voorlopig
 - **ronde:** 77
-- **hangt_samen_met:** LOT-Z44-ves-lethi;VOOR-sporenroes;RIT-spiegelnacht;FASE-z44-mensen
-- **verwijst_naar:** LOT-Z44-ves-lethi;VOOR-sporenroes;RIT-spiegelnacht;FASE-z44-mensen
+- **hangt_samen_met:** LOT-Z44-ves-lethi;VOOR-sporenroes;RIT-spiegelnacht-Z50;FASE-z44-mensen
+- **verwijst_naar:** LOT-Z44-ves-lethi;VOOR-sporenroes;RIT-spiegelnacht-Z50;FASE-z44-mensen
 - **jaar:** 
 - **tijdperk:** 13 Tijd der Mensen (na 801)
 - **intensiteit:** 
@@ -47979,8 +47979,8 @@
 - **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
 - **status:** voorlopig
 - **ronde:** 77
-- **hangt_samen_met:** LOT-Z44-aelthir;FEE-Z37-myrrhen-ringen;RIT-volk-aelthir;FASE-z44-volken
-- **verwijst_naar:** LOT-Z44-aelthir;FEE-Z37-myrrhen-ringen;RIT-volk-aelthir;FASE-z44-volken
+- **hangt_samen_met:** LOT-Z44-aelthir;FEE-Z37-myrrhen-ringen;RIT-volk-aelthir-Z50;FASE-z44-volken
+- **verwijst_naar:** LOT-Z44-aelthir;FEE-Z37-myrrhen-ringen;RIT-volk-aelthir-Z50;FASE-z44-volken
 - **jaar:** 
 - **tijdperk:** 10 Tijd der Volken (na 801)
 - **intensiteit:** 
@@ -48009,8 +48009,8 @@
 - **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
 - **status:** voorlopig
 - **ronde:** 77
-- **hangt_samen_met:** LOT-Z44-dhurn;GEB-Z42-eerste-ijzer;KINK-Z8-15;FASE-z44-volken
-- **verwijst_naar:** LOT-Z44-dhurn;GEB-Z42-eerste-ijzer;KINK-Z8-15;FASE-z44-volken
+- **hangt_samen_met:** LOT-Z44-dhurn;GEB-Z42-eerste-ijzer;KINK-Z8-15-Z50;FASE-z44-volken
+- **verwijst_naar:** LOT-Z44-dhurn;GEB-Z42-eerste-ijzer;KINK-Z8-15-Z50;FASE-z44-volken
 - **jaar:** 
 - **tijdperk:** 10 Tijd der Volken (na 801)
 - **intensiteit:** 
@@ -48069,8 +48069,8 @@
 - **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
 - **status:** voorlopig
 - **ronde:** 77
-- **hangt_samen_met:** LOT-Z44-orrim;VOLK-orrim;RIT-volk-orrim;FASE-z44-volken
-- **verwijst_naar:** LOT-Z44-orrim;VOLK-orrim;RIT-volk-orrim;FASE-z44-volken
+- **hangt_samen_met:** LOT-Z44-orrim;VOLK-orrim;RIT-volk-orrim-Z50;FASE-z44-volken
+- **verwijst_naar:** LOT-Z44-orrim;VOLK-orrim;RIT-volk-orrim-Z50;FASE-z44-volken
 - **jaar:** 
 - **tijdperk:** 10 Tijd der Volken (na 801)
 - **intensiteit:** 
@@ -48099,8 +48099,8 @@
 - **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
 - **status:** voorlopig
 - **ronde:** 77
-- **hangt_samen_met:** LOT-Z44-sael-mor;VOLK-sael-mor;RIT-volk-saelmor;FASE-z44-helden
-- **verwijst_naar:** LOT-Z44-sael-mor;VOLK-sael-mor;RIT-volk-saelmor;FASE-z44-helden
+- **hangt_samen_met:** LOT-Z44-sael-mor;VOLK-sael-mor;RIT-volk-saelmor-Z50;FASE-z44-helden
+- **verwijst_naar:** LOT-Z44-sael-mor;VOLK-sael-mor;RIT-volk-saelmor-Z50;FASE-z44-helden
 - **jaar:** 
 - **tijdperk:** 11 Heldentijd (na 801)
 - **intensiteit:** 
@@ -48159,8 +48159,8 @@
 - **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
 - **status:** voorlopig
 - **ronde:** 77
-- **hangt_samen_met:** LOT-Z44-karruk-storm;RIT-volk-karruk;VOLK-karrûk-Z6-Z38;FASE-z44-volken
-- **verwijst_naar:** LOT-Z44-karruk-storm;RIT-volk-karruk;VOLK-karrûk-Z6-Z38;FASE-z44-volken
+- **hangt_samen_met:** LOT-Z44-karruk-storm;RIT-volk-karruk-Z50;VOLK-karrûk-Z6-Z38;FASE-z44-volken
+- **verwijst_naar:** LOT-Z44-karruk-storm;RIT-volk-karruk-Z50;VOLK-karrûk-Z6-Z38;FASE-z44-volken
 - **jaar:** 
 - **tijdperk:** 10 Tijd der Volken (na 801)
 - **intensiteit:** 

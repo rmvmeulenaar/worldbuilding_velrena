@@ -69,7 +69,7 @@
 - **waarom:** Macht komt uit wat je kunt afdwingen of onmisbaar maakt.
 - **status:** vastgesteld
 - **ronde:** 1
-- **hangt_samen_met:** Religie; Magie
+- **hangt_samen_met:** Religie;Magie
 - **verwijst_naar:** MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-doel-geloof;ORDE-orde
 - **jaar:** 
 - **tijdperk:** 
@@ -99,7 +99,7 @@
 - **waarom:** Hun zaad is erfelijk waardevol (gezondheid, kracht, mogelijk gave). [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 1
-- **hangt_samen_met:** Religie; Orde
+- **hangt_samen_met:** Religie;Orde
 - **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;MACHT-twee-soorten-mannen;ORDE-rol-orde;HAAK-techno-zegelsteen-3
 - **jaar:** 
 - **tijdperk:** 
@@ -189,7 +189,7 @@
 - **waarom:** Toegang en kennis zijn hun dwangmiddelen; religie is hun gereedschap. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Religie; Afstamming; Geheim
+- **hangt_samen_met:** Religie;Afstamming;Geheim
 - **verwijst_naar:** ECO-geld;BESLUIT-Z30-2;ORDE-doel-geloof;REGEL-registers-merken;MACHT-twee-soorten-mannen;HAAK-B1-3-2
 - **jaar:** 
 - **tijdperk:** 
@@ -219,7 +219,7 @@
 - **waarom:** Economische macht tegenover de religieuze. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Economie; Orde
+- **hangt_samen_met:** Economie;Orde
 - **verwijst_naar:** ECO-wat-wordt-verhandeld;MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;ORDE-rol-orde;GES-tijdlijn;HAAK-PER-romance
 - **jaar:** 
 - **tijdperk:** 
@@ -280,7 +280,7 @@
 - **status:** voorlopig
 - **ronde:** 3
 - **hangt_samen_met:** Zwarte markt
-- **verwijst_naar:** ORDE-orde;ORDE-rol-orde;RIT-veiling;REG-zoutkust;MACHT-evenwicht;PER-bondgenoten;HAAK-techno-bio-3
+- **verwijst_naar:** ORDE-orde;ORDE-rol-orde;RIT-veiling-Z50;REG-zoutkust;MACHT-evenwicht;PER-bondgenoten;HAAK-techno-bio-3
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -339,7 +339,7 @@
 - **waarom:** Zorgt voor intriges in plaats van één heerser.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Huizen; Orde
+- **hangt_samen_met:** Huizen;Orde
 - **verwijst_naar:** HUI-kaldra-Z6;HUI-mirre;HUI-varenne;MACHT-gaven-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REG-rosse;REGEL-registers-merken;STAD-qesh
 - **jaar:** 
 - **tijdperk:** 
@@ -369,7 +369,7 @@
 - **waarom:** Lost op dat vrouwen het leger zijn; zaad is de troef tegen Kharvos.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Magie; Kharvos
+- **hangt_samen_met:** Magie;Kharvos
 - **verwijst_naar:** KINK-strijdontvangst;MACHT-gaven-mannen;REG-hoogvrouwe;REG-kharvos-B1;STAD-kaldrun
 - **jaar:** 
 - **tijdperk:** 
@@ -399,7 +399,7 @@
 - **waarom:** Duidelijke grenzen geven verbodenheid en inzet.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Orde; Afstamming
+- **hangt_samen_met:** Orde;Afstamming
 - **verwijst_naar:** MACHT-gaven-mannen;ORDE-orde;REGEL-verwantschapstaboe;WET-wie-weigert
 - **jaar:** 
 - **tijdperk:** 
@@ -429,7 +429,7 @@
 - **waarom:** Toestemming blijft het formele principe, maar met een sociale prijs; dat geeft spanning zonder de wereld onleefbaar te maken. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-doel-geloof), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Religie; Toestemming
+- **hangt_samen_met:** Religie;Toestemming
 - **verwijst_naar:** ECO-geld;MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-doel-geloof;ORDE-orde
 - **jaar:** 
 - **tijdperk:** 
@@ -549,8 +549,8 @@
 - **waarom:** Ronde G3: recht [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 21
-- **hangt_samen_met:** WET-wetten-straffen;RIT-tribunaal-drie
-- **verwijst_naar:** WET-wetten-straffen;RIT-tribunaal-drie;HAAK-G3-overzicht;ZINT-Z2-wetten-1;RECHT-rechtsgang-Z6
+- **hangt_samen_met:** WET-wetten-straffen;RIT-tribunaal-drie-Z50
+- **verwijst_naar:** WET-wetten-straffen;RIT-tribunaal-drie-Z50;HAAK-G3-overzicht;ZINT-Z2-wetten-1;RECHT-rechtsgang-Z6
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -819,8 +819,8 @@
 - **waarom:** Ronde G3: recht
 - **status:** voorlopig
 - **ronde:** 21
-- **hangt_samen_met:** RIT-schandpodium;PLEK-LICH-schandpodium
-- **verwijst_naar:** RIT-schandpodium;PLEK-LICH-schandpodium
+- **hangt_samen_met:** RIT-schandpodium-Z50;PLEK-LICH-schandpodium
+- **verwijst_naar:** RIT-schandpodium-Z50;PLEK-LICH-schandpodium
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
