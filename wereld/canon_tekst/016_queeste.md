@@ -28170,4 +28170,244 @@
 - **bron_handmatig:** 
 - **epistemiek:** voorstel (Z45, verhaal)
 <!-- /REC -->
+<!-- REC canon -->
+### THRILL-Z46-9-thriller · De vonkvervalser
+- **code:** THRILL-Z46-9-thriller
+- **categorie:** Verhaal
+- **onderwerp:** De vonkvervalser
+- **wat:** In de Losbandige Jaren verkoopt iemand vonk aan wie de laatste vonk wil, en de kopers worden ziek. Een voormalige Stille Hand-agente, die zelf niet meer weet wat recht is, volgt het spoor van vervalste ladingen naar een stal waarvan iedereen dacht dat die al open was. Thriller: wie verdient aan het verlangen naar iets wat verdwijnt?
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** OORSPRONG-gave-8;GEB-Z45-losbandige-jaren
+- **verwijst_naar:** OORSPRONG-gave-8;GEB-Z45-losbandige-jaren
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In de Losbandige Jaren verkoopt iemand vonk aan wie de laatste vonk wil, en de kopers worden ziek. Een voormalige Stille Hand-agente, die zelf niet meer weet wat recht is, volgt het spoor van vervalste ladingen naar een stal waarvan iedereen dacht dat die al open was. Thriller: wie verdient aan het verlangen naar iets wat verdwijnt?
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre thriller)
+<!-- /REC -->
+<!-- REC canon -->
+### INTR-Z46-9-intrige · De Zoutloodsen
+- **code:** INTR-Z46-9-intrige
+- **categorie:** Verhaal
+- **onderwerp:** De Zoutloodsen
+- **wat:** Ondessa staat in 802 voor de keus tussen Huis Mirre en Liora. Na de derde weg wordt die keus een strijd om de Zoutloodsen, de pakhuizen waar het zaad van de kust werd bewaard en verhandeld. Wie de loodsen houdt, houdt de havens; wie ze sluit, sluit een hele economie. Intrige over schulden, zeekaarten en een oude liefde die nog niet betaald is.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** TOESTAND-Z11-ondessa-7;REG-zoutkust
+- **verwijst_naar:** TOESTAND-Z11-ondessa-7;REG-zoutkust
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ondessa staat in 802 voor de keus tussen Huis Mirre en Liora. Na de derde weg wordt die keus een strijd om de Zoutloodsen, de pakhuizen waar het zaad van de kust werd bewaard en verhandeld. Wie de loodsen houdt, houdt de havens; wie ze sluit, sluit een hele economie. Intrige over schulden, zeekaarten en een oude liefde die nog niet betaald is.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre intrige)
+<!-- /REC -->
+<!-- REC canon -->
+### THRILL-Z46-10-thriller · Wat de kraai zei
+- **code:** THRILL-Z46-10-thriller
+- **categorie:** Verhaal
+- **onderwerp:** Wat de kraai zei
+- **wat:** Een registerkraai herhaalt op een markt in Brakhaven telkens dezelfde zin, met de stem van een vermoorde vrouw. Iedereen denkt dat het nog Ysa's klik is, tot een oude Registratrix de stem herkent. Thriller: de kraaien vergeten de stem van het schip, maar de stem van de dode van vorige week weten ze nog.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** BESLUIT-Z7-KRAAI;LOT-Z44-registerkraaien-stem
+- **verwijst_naar:** BESLUIT-Z7-KRAAI;LOT-Z44-registerkraaien-stem
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een registerkraai herhaalt op een markt in Brakhaven telkens dezelfde zin, met de stem van een vermoorde vrouw. Iedereen denkt dat het nog Ysa's klik is, tot een oude Registratrix de stem herkent. Thriller: de kraaien vergeten de stem van het schip, maar de stem van de dode van vorige week weten ze nog.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre thriller)
+<!-- /REC -->
+<!-- REC canon -->
+### INTR-Z46-10-intrige · De korf zonder Broedmoeder
+- **code:** INTR-Z46-10-intrige
+- **categorie:** Verhaal
+- **onderwerp:** De korf zonder Broedmoeder
+- **wat:** Als de Broedmoeder van de grootste Kluwer-korf sterft, komt er geen nieuwe: de darren leven nu langer en de korf heeft haar niet meer nodig. De werksters splitsen in families, en elke familie wil de honingwasrechten. Intrige in geur en zang, over wie wat erft van een geheel dat er niet meer is.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VOLK-kluwer;LOT-Z44-kluwers
+- **verwijst_naar:** VOLK-kluwer;LOT-Z44-kluwers
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Als de Broedmoeder van de grootste Kluwer-korf sterft, komt er geen nieuwe: de darren leven nu langer en de korf heeft haar niet meer nodig. De werksters splitsen in families, en elke familie wil de honingwasrechten. Intrige in geur en zang, over wie wat erft van een geheel dat er niet meer is.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre intrige)
+<!-- /REC -->
+<!-- REC canon -->
+### THRILL-Z46-11-thriller · De jacht op het geheugen
+- **code:** THRILL-Z46-11-thriller
+- **categorie:** Verhaal
+- **onderwerp:** De jacht op het geheugen
+- **wat:** Iemand ontvoert Aelthir voordat ze in de mist verdwijnen, omdat hun geheugen het enige is wat nog weet waar de kluizen liggen. Een mensenvrouw die een van hen liefheeft, volgt het spoor. Thriller: wie het verleden bezit, bezit de laatste wonderen.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VOLK-aelthir-V5;D1-aelthir-ziekte
+- **verwijst_naar:** VOLK-aelthir-V5;D1-aelthir-ziekte
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Iemand ontvoert Aelthir voordat ze in de mist verdwijnen, omdat hun geheugen het enige is wat nog weet waar de kluizen liggen. Een mensenvrouw die een van hen liefheeft, volgt het spoor. Thriller: wie het verleden bezit, bezit de laatste wonderen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre thriller)
+<!-- /REC -->
+<!-- REC canon -->
+### INTR-Z46-11-intrige · Bloed met handen
+- **code:** INTR-Z46-11-intrige
+- **categorie:** Verhaal
+- **onderwerp:** Bloed met handen
+- **wat:** Families met Dhurn-bloed hebben handen die nog net een kluis kunnen openen, en ineens wil iedereen met hen trouwen. Een nuchtere smidsdochter met Dhurn-grootmoeder krijgt zeven aanzoeken in een jaar. Intrige over huwelijk en erfenis, en over een hand die zijn waarde verliest zodra de laatste kluis zwijgt.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VOLK-dhurn;LOT-Z44-dhurn;GEB-Z42-eerste-ijzer
+- **verwijst_naar:** VOLK-dhurn;LOT-Z44-dhurn;GEB-Z42-eerste-ijzer
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Families met Dhurn-bloed hebben handen die nog net een kluis kunnen openen, en ineens wil iedereen met hen trouwen. Een nuchtere smidsdochter met Dhurn-grootmoeder krijgt zeven aanzoeken in een jaar. Intrige over huwelijk en erfenis, en over een hand die zijn waarde verliest zodra de laatste kluis zwijgt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre intrige)
+<!-- /REC -->
+<!-- REC canon -->
+### THRILL-Z46-12-thriller · De verstekeling
+- **code:** THRILL-Z46-12-thriller
+- **categorie:** Verhaal
+- **onderwerp:** De verstekeling
+- **wat:** Aan boord van de lander zit iemand die er niet hoort: een Ves-Lethi die nog één keer van gedaante kon wisselen en zich als Aelthir heeft voorgedaan. Thriller in de laatste uren voor de start: wie is het, en wat wil iemand die zijn volk achterlaat?
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VERHAAL-Z44-tijdperk-12;VOLK-ves-lethi-Z6
+- **verwijst_naar:** VERHAAL-Z44-tijdperk-12;VOLK-ves-lethi-Z6
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Aan boord van de lander zit iemand die er niet hoort: een Ves-Lethi die nog één keer van gedaante kon wisselen en zich als Aelthir heeft voorgedaan. Thriller in de laatste uren voor de start: wie is het, en wat wil iemand die zijn volk achterlaat?
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre thriller)
+<!-- /REC -->
+<!-- REC canon -->
+### INTR-Z46-12-intrige · De Raad van de Laatsten
+- **code:** INTR-Z46-12-intrige
+- **categorie:** Verhaal
+- **onderwerp:** De Raad van de Laatsten
+- **wat:** De vertegenwoordigers van de volken die nog bestaan, vergaderen over wie mee mag. De Myrrhen willen niet, de Oevrin kunnen niet, de mensen willen allemaal. Intrige in een raad waar iedere stem iets wil en niemand mag vragen wat een feeënvolk ervoor terug wil.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VERHAAL-Z44-tijdperk-12;BESLUIT-Z38-9
+- **verwijst_naar:** VERHAAL-Z44-tijdperk-12;BESLUIT-Z38-9
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De vertegenwoordigers van de volken die nog bestaan, vergaderen over wie mee mag. De Myrrhen willen niet, de Oevrin kunnen niet, de mensen willen allemaal. Intrige in een raad waar iedere stem iets wil en niemand mag vragen wat een feeënvolk ervoor terug wil.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre intrige)
+<!-- /REC -->
 

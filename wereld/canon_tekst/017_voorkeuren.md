@@ -3420,4 +3420,184 @@
 - **bron_handmatig:** 
 - **epistemiek:** 
 <!-- /REC -->
+<!-- REC canon -->
+### VOOR-Z46-de-vraag · De vraag zelf
+- **code:** VOOR-Z46-de-vraag
+- **categorie:** Voorkeuren
+- **onderwerp:** De vraag zelf
+- **wat:** Opwinding van de vraag: na eeuwen waarin het Zegel ja zei namens ieder lichaam, is vragen en het antwoord afwachten het spannendste wat er is. Oorsprong: GEB-Z45-losbandige-jaren. Tussen volwassenen; het nee is deel van het spel.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** GEB-Z45-losbandige-jaren;HAAK-B1-2-4
+- **verwijst_naar:** GEB-Z45-losbandige-jaren;HAAK-B1-2-4
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Opwinding van de vraag: na eeuwen waarin het Zegel ja zei namens ieder lichaam, is vragen en het antwoord afwachten het spannendste wat er is. Oorsprong: GEB-Z45-losbandige-jaren. Tussen volwassenen; het nee is deel van het spel.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, fantasie na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### VOOR-Z46-laatste-vonk · De laatste vonk
+- **code:** VOOR-Z46-laatste-vonk
+- **categorie:** Voorkeuren
+- **onderwerp:** De laatste vonk
+- **wat:** Verlangen naar een kracht die verdwijnt: een nacht met iemand die nog een restje vonk heeft, wetend dat het de laatste keer is. Oorsprong: GEB-Z45-losbandige-jaren. Alleen volwassenen; de schaarste maakt het zoet en gevaarlijk.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** GEB-Z45-losbandige-jaren;MAGIE-kracht-duur
+- **verwijst_naar:** GEB-Z45-losbandige-jaren;MAGIE-kracht-duur
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Verlangen naar een kracht die verdwijnt: een nacht met iemand die nog een restje vonk heeft, wetend dat het de laatste keer is. Oorsprong: GEB-Z45-losbandige-jaren. Alleen volwassenen; de schaarste maakt het zoet en gevaarlijk.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, fantasie na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### VOOR-Z46-stalspel · Het stalspel
+- **code:** VOOR-Z46-stalspel
+- **categorie:** Voorkeuren
+- **onderwerp:** Het stalspel
+- **wat:** Rollenspel van de oude orde: volwassen geliefden spelen Registratrix en stalman, of Ontvangster en Uitverkorene, juist omdat het niet meer echt is. Oorsprong: FASE-z44-volken. Altijd met een afgesproken woord; een herinnering die een spel werd.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** FASE-z44-volken;VOOR-dominante-vrouw
+- **verwijst_naar:** FASE-z44-volken;VOOR-dominante-vrouw
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Rollenspel van de oude orde: volwassen geliefden spelen Registratrix en stalman, of Ontvangster en Uitverkorene, juist omdat het niet meer echt is. Oorsprong: FASE-z44-volken. Altijd met een afgesproken woord; een herinnering die een spel werd.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, fantasie na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### VOOR-Z46-vervagen · Vervagen
+- **code:** VOOR-Z46-vervagen
+- **categorie:** Voorkeuren
+- **onderwerp:** Vervagen
+- **wat:** Liefde met iemand die verdwijnt: een Aelthir die de aanraking verliest, een Skerra met de laatste vleugels. Het zinnelijke zit in het tellen van wat nog kan. Oorsprong: FASE-z44-helden. Volwassenen, allebei kiezend.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** FASE-z44-helden;D1-aelthir-ziekte
+- **verwijst_naar:** FASE-z44-helden;D1-aelthir-ziekte
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Liefde met iemand die verdwijnt: een Aelthir die de aanraking verliest, een Skerra met de laatste vleugels. Het zinnelijke zit in het tellen van wat nog kan. Oorsprong: FASE-z44-helden. Volwassenen, allebei kiezend.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, fantasie na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### VOOR-Z46-vuurnacht · De vuurnacht
+- **code:** VOOR-Z46-vuurnacht
+- **categorie:** Voorkeuren
+- **onderwerp:** De vuurnacht
+- **wat:** Kiezen bij het vuur van de kortste nacht, een of meer gezellen, een gewoonte waarvan de reden vergeten is. Oorsprong: FASE-z44-mensen. Volwassenen; de vrijheid van een feest dat niemand meer uitlegt.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** FASE-z44-mensen;EROS-Z45-haak-8
+- **verwijst_naar:** FASE-z44-mensen;EROS-Z45-haak-8
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Kiezen bij het vuur van de kortste nacht, een of meer gezellen, een gewoonte waarvan de reden vergeten is. Oorsprong: FASE-z44-mensen. Volwassenen; de vrijheid van een feest dat niemand meer uitlegt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, fantasie na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### VOOR-Z46-zang-zonder-aanraking · Zang zonder aanraking
+- **code:** VOOR-Z46-zang-zonder-aanraking
+- **categorie:** Voorkeuren
+- **onderwerp:** Zang zonder aanraking
+- **wat:** Verlangen dat zingt in plaats van aanraakt, zoals het paaifeest van de Oevrin. Oorsprong: FASE-z44-smelt. Tussen volwassenen van land en zee; spanning in wat niet gebeurt.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** FASE-z44-smelt;D1-oevrin-feest
+- **verwijst_naar:** FASE-z44-smelt;D1-oevrin-feest
+- **jaar:** 
+- **tijdperk:** 14 De Grote Smelt (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Verlangen dat zingt in plaats van aanraakt, zoals het paaifeest van de Oevrin. Oorsprong: FASE-z44-smelt. Tussen volwassenen van land en zee; spanning in wat niet gebeurt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, fantasie na 801)
+<!-- /REC -->
 

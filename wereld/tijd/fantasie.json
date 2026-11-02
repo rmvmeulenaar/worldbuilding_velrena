@@ -1,0 +1,3991 @@
+{
+"fantasieen": [
+{
+"code": "KINK-wachtrij-verleiding",
+"naam": "Wachtrij-verleiding",
+"afh": [
+"gaven-mannen",
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-veiling-zaadbeurs",
+"naam": "Veiling op de Zaadbeurs",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-ontzegging-leegte",
+"naam": "Ontzegging en de Leegte",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-ontlading-na-magie",
+"naam": "Ontlading na magie",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-melkrite",
+"naam": "De melkrite",
+"afh": [
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-rolwissel-in-kharvos",
+"naam": "Rolwissel in Kharvos",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-ontvangst",
+"naam": "De Ontvangst",
+"afh": [
+"gaven-mannen",
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-wijding",
+"naam": "De Wijding (18+)",
+"afh": [
+"gaven-mannen",
+"ontvangst-feest",
+"stalsysteem",
+"sterrensteen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-strijdontvangst",
+"naam": "De Strijdontvangst",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-veiling",
+"naam": "De Veiling",
+"afh": [
+"gaven-mannen",
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-zwijgende-rit",
+"naam": "De Zwijgende Rit",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-ontzegging-binding",
+"naam": "Ontzegging en binding",
+"afh": [
+"bloedbinding",
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-melkrite",
+"naam": "De Melkrite",
+"afh": [
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-gunstnacht",
+"naam": "De Gunstnacht",
+"afh": [
+"gaven-mannen",
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-maanzalving",
+"naam": "De Maanzalving",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-rolwisseling",
+"naam": "Rolwisseling",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-boeterite",
+"naam": "Boeterite",
+"afh": [
+"ontvangst-feest",
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-zaadcontract",
+"naam": "Het Zaadcontract",
+"afh": [
+"ontvangst-feest",
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-zegelvoeding",
+"naam": "De Zegelvoeding",
+"afh": [
+"gaven-mannen",
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-nacht-duizend-lampen",
+"naam": "De Nacht der Duizend Lampen",
+"afh": [
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-ketenwake",
+"naam": "De Ketenwake",
+"afh": [
+"gaven-mannen",
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-overdracht",
+"naam": "De Overdracht",
+"afh": [
+"bloedbinding",
+"gaven-mannen",
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-bloedverbinding",
+"naam": "De Bloedverbinding",
+"afh": [
+"bloedbinding",
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-zevenvoudige-ontvangst",
+"naam": "De Zevenvoudige Ontvangst",
+"afh": [
+"gaven-mannen",
+"ontvangst-feest",
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-leegtewake",
+"naam": "De Leegtewake",
+"afh": [
+"bloedbinding"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-halsbandwissel",
+"naam": "De Halsbandwissel",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-stormontlading",
+"naam": "De Stormontlading",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-zegelbinding",
+"naam": "De Zegelbinding",
+"afh": [
+"gaven-mannen",
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-gletsjerproef",
+"naam": "De Gletsjerproef",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-kettingstoet",
+"naam": "De Kettingstoet",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-kharvosrite",
+"naam": "De Kharvosrite",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-spiegelnacht",
+"naam": "De Spiegelnacht",
+"afh": [
+"bloedbinding",
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-tweegelofte",
+"naam": "De Tweegelofte",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-afscheid-uitverkorene",
+"naam": "Het Afscheid van de Uitverkorene",
+"afh": [
+"gaven-mannen",
+"ontvangst-feest",
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-halsbandoverdracht",
+"naam": "De Halsbandoverdracht",
+"afh": [
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-zegelnacht-volk",
+"naam": "De Zegelnacht van het Volk",
+"afh": [
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-hofproef",
+"naam": "De Hofproef (16, niet-seksueel)",
+"afh": [
+"gaven-mannen",
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-volk-aelthir",
+"naam": "Nacht van de Rekening (verlengd): uren ontzegging, dan geheugenruil",
+"afh": [
+"aelthir"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "RIT-volk-karruk",
+"naam": "Vuurkamp-ontlading na het gevecht",
+"afh": [
+"karruk-storm"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-volk-dhurn",
+"naam": "Gildeverzegeling in de schacht",
+"afh": [
+"dhurn"
+],
+"verleden": null,
+"laatst_echt": 9,
+"status": {
+"9": "echt",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "RIT-volk-saelmor",
+"naam": "Springtij-verdrinkingsnacht",
+"afh": [
+"sael-mor"
+],
+"verleden": null,
+"laatst_echt": 9,
+"status": {
+"9": "echt",
+"10": "zeldzaam",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "RIT-volk-grauwen",
+"naam": "Volle Ontsluiering",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-volk-ishvar",
+"naam": "Geloftebrand",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-B1-afscheid",
+"naam": "Het Afscheid aan de Poort (niet-seksueel)",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-1",
+"naam": "Kink: Fisting: de Volle Hand",
+"afh": [
+"gaven-mannen",
+"myrrhen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-2",
+"naam": "Kink: Fisting met gloeiende hand",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-3",
+"naam": "Kink: Fisting als zaadritueel",
+"afh": [
+"gaven-mannen",
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-4",
+"naam": "Kink: Rekspel met kweekvlees",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-5",
+"naam": "Kink: Zwarte glanshuid (latex)",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-6",
+"naam": "Kink: Lak van de Dhurn",
+"afh": [
+"dhurn"
+],
+"verleden": null,
+"laatst_echt": 9,
+"status": {
+"9": "echt",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "KINK-Z8-7",
+"naam": "Kink: Glanspakken van de Wacht",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-8",
+"naam": "Kink: Latex-kap",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-9",
+"naam": "Kink: Lakken laarzen tot de dij",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-10",
+"naam": "Kink: Glanshandschoenen",
+"afh": [
+"aelthir"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "KINK-Z8-11",
+"naam": "Kink: Zegelhars-vacuüm",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-12",
+"naam": "Kink: Touwen van de Zoutkust",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-13",
+"naam": "Kink: Hangen in het want",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-14",
+"naam": "Kink: Boeien van zegelsteen",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-15",
+"naam": "Kink: IJzeren boeien van de Dhurn",
+"afh": [
+"dhurn"
+],
+"verleden": null,
+"laatst_echt": 9,
+"status": {
+"9": "echt",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "KINK-Z8-16",
+"naam": "Kink: Slagwerk met de rietzweep",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-17",
+"naam": "Kink: Slagwerk met de hand",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-18",
+"naam": "Kink: Karrûk-littekenspel",
+"afh": [
+"karruk-storm"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-19",
+"naam": "Kink: Onderwerping in de rang",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-20",
+"naam": "Kink: Machtsruil man-vrouw",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-21",
+"naam": "Kink: Bondage op de ontvangsttafel",
+"afh": [
+"bloedbinding",
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-22",
+"naam": "Kink: Tuigen van leer en hars",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-23",
+"naam": "Kink: Paardentuig van Kharvos",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-24",
+"naam": "Kink: Maskers van lak",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-25",
+"naam": "Kink: Knevels van zoutzijde",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-26",
+"naam": "Kink: Blinddoek van Oevrin-stof",
+"afh": [
+"oevrin"
+],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-27",
+"naam": "Kink: Kooien van gevlochten wortel",
+"afh": [
+"myrrhen"
+],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-28",
+"naam": "Kink: Kooien als status",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-29",
+"naam": "Kink: Zaadspel",
+"afh": [
+"gaven-mannen",
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-30",
+"naam": "Kink: Zaad delen",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-31",
+"naam": "Kink: Melkspel",
+"afh": [
+"gaven-mannen",
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-32",
+"naam": "Kink: Voyeurisme achter het rooster",
+"afh": [
+"ontvangst-feest",
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-33",
+"naam": "Kink: Kijkgaten in Brakhaven",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-34",
+"naam": "Kink: Publiek: de ontvangst op het plein",
+"afh": [
+"gaven-mannen",
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-35",
+"naam": "Kink: Exhibitionisme in glanshuid",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-36",
+"naam": "Kink: Vormspel als kink",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-37",
+"naam": "Kink: Bimbo-rollenspel",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-38",
+"naam": "Kink: Dienstbaarheid",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-39",
+"naam": "Kink: Wassen als ritueel",
+"afh": [
+"gaven-mannen",
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-40",
+"naam": "Kink: Badhuisspel van Brakhaven",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-41",
+"naam": "Kink: Kaarsvet",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-43",
+"naam": "Kink: Ademspel (gevaarlijk)",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-44",
+"naam": "Kink: Prikkeldraad van vonk",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-45",
+"naam": "Kink: Zegelsteenvibraties",
+"afh": [
+"dhurn"
+],
+"verleden": null,
+"laatst_echt": 9,
+"status": {
+"9": "echt",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "KINK-Z8-46",
+"naam": "Kink: Gehoorzaamheidsspel met de bindsplinter (donker)",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-47",
+"naam": "Kink: Gijzeling en losgeld (donker)",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-48",
+"naam": "Kink: Verkocht op de vlootmarkt (donker)",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-49",
+"naam": "Kink: Vernedering in rang",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-50",
+"naam": "Kink: Bezitteken",
+"afh": [
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-51",
+"naam": "Kink: Ketens van dienst",
+"afh": [
+"karruk-storm"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-52",
+"naam": "Kink: Skerra-worstelspel",
+"afh": [
+"skerra"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "KINK-Z8-53",
+"naam": "Kink: Bijtspel",
+"afh": [
+"skerra",
+"vathren"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "onmogelijk",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "KINK-Z8-54",
+"naam": "Kink: Geurspel",
+"afh": [
+"tharn"
+],
+"verleden": null,
+"laatst_echt": 9,
+"status": {
+"9": "echt",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "KINK-Z8-55",
+"naam": "Kink: Sporenroes",
+"afh": [
+"myrrhen"
+],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-56",
+"naam": "Kink: Groepsontvangst",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-Z8-57",
+"naam": "Kink: Orgie op Ysa-dag",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-58",
+"naam": "Kink: Dubbelspel",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-59",
+"naam": "Kink: Rollenspel als Maker",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-60",
+"naam": "Kink: Gestolen stopwoord",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-Z8-42-L10",
+"naam": "Kink: IJs en koude",
+"afh": [
+"aelthir",
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "RIT-B1-zwangerschap-Z38",
+"naam": "De Telling van de Buik (niet-seksueel)",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-overvloed",
+"naam": "Teveel aan zaad",
+"afh": [
+"gaven-mannen",
+"ontvangst-feest"
+],
+"verleden": 2,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-teder",
+"naam": "Tederheid en trouw",
+"afh": [
+"bloedbinding",
+"gaven-mannen",
+"stalsysteem",
+"ves-lethi"
+],
+"verleden": 1,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "VOOR-ontlading",
+"naam": "De overladen man",
+"afh": [
+"gaven-mannen"
+],
+"verleden": 2,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-gevangenschap",
+"naam": "Gevangenschap (donker)",
+"afh": [],
+"verleden": 7,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-walglust",
+"naam": "Walglust",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-metamorfose",
+"naam": "Metamorfose",
+"afh": [
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-strijdontvangst",
+"naam": "Strijdontvangst",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-binding-losmaken",
+"naam": "Binding en losmaken",
+"afh": [
+"bloedbinding"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-duel-man",
+"naam": "Duel om de man",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-oogstbed-loting",
+"naam": "Oogstbed-loting",
+"afh": [
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-publieke-ontvangst",
+"naam": "Publieke Ontvangst",
+"afh": [
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-zwijgende-rit",
+"naam": "Zwijgende Rit",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-sjerp-signalen",
+"naam": "Sjerp-signalen",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-harem-gunst",
+"naam": "Harem-gunst",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-betalen-met-lichaam",
+"naam": "Betalen met het lichaam",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-omgepraat-worden",
+"naam": "Omgepraat worden",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-verboden-toegang",
+"naam": "Verboden toegang",
+"afh": [
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "KINK-nacht-duizend-lampen",
+"naam": "Nacht der Duizend Lampen",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-kracht-delen",
+"naam": "Kracht delen",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "KINK-ontvangst-via-mond",
+"naam": "Ontvangst via mond of huid",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-duel-man",
+"naam": "Het Duel om een Man",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-geboortelied",
+"naam": "Het Geboortelied",
+"afh": [
+"ontvangst-feest",
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-melkzegen",
+"naam": "De Melkzegen",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-laatste-bed",
+"naam": "Het Laatste Bed",
+"afh": [
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-tribunaal-drie",
+"naam": "Het Tribunaal van Drie",
+"afh": [
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-reizigersgroet",
+"naam": "De Reizigersgroet",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-oogstbed",
+"naam": "Het Oogstbed",
+"afh": [
+"stalsysteem"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-pelgrimszalving",
+"naam": "De Pelgrimszalving",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-doorgang-duizend-handen",
+"naam": "De Doorgang der Duizend Handen",
+"afh": [
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-schandpodium",
+"naam": "Het Schandpodium",
+"afh": [
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-vuurgloed",
+"naam": "De Vuurgloed",
+"afh": [
+"gaven-mannen",
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-gemaskerde-veiling",
+"naam": "De Gemaskerde Veiling",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-kinkschaal",
+"naam": "Kink-schaal",
+"afh": [
+"bloedbinding",
+"gaven-mannen",
+"ontvangst-feest",
+"stalsysteem",
+"ves-lethi"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "RIT-verzoening",
+"naam": "De Verzoening",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-stille-kind",
+"naam": "Het Stille Kind",
+"afh": [
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-zilverwake",
+"naam": "De Zilverwake",
+"afh": [
+"ontvangst-feest"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "RIT-zestienkeuze",
+"naam": "De Zestienkeuze (16, niet-seksueel)",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-volk-vathren",
+"naam": "Koortsontvangst bij lekpiek",
+"afh": [
+"vathren"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "onmogelijk",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "RIT-volk-kluwer",
+"naam": "Korfopname: een mens drie nachten in de korfgeur",
+"afh": [
+"kluwers"
+],
+"verleden": null,
+"laatst_echt": 9,
+"status": {
+"9": "echt",
+"10": "zeldzaam",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "RIT-volk-myrrhen",
+"naam": "Rotbed van de Grote Draad",
+"afh": [
+"myrrhen"
+],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-volk-oevrin",
+"naam": "Paaitij in de grote poel",
+"afh": [
+"oevrin"
+],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "RIT-volk-tharn",
+"naam": "Dijknacht: de Tharn kiest een mens als gunst",
+"afh": [
+"tharn"
+],
+"verleden": null,
+"laatst_echt": 9,
+"status": {
+"9": "echt",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "RIT-volk-orrim",
+"naam": "Slijpvonnis en Beeldnacht",
+"afh": [
+"orrim"
+],
+"verleden": null,
+"laatst_echt": 9,
+"status": {
+"9": "echt",
+"10": "zeldzaam",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "RIT-volk-skerra",
+"naam": "De Eerste Val (paarvlucht na de 18e verjaardag)",
+"afh": [
+"skerra"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "RIT-volk-ves-lethi",
+"naam": "Spiegelnacht",
+"afh": [
+"ves-lethi"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "KINK-NETWERK-Z10",
+"naam": "Kink-netwerk Z10",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-overgave",
+"naam": "Overgave en machtsoverdracht",
+"afh": [
+"bloedbinding",
+"gaven-mannen"
+],
+"verleden": 5,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-dominante-vrouw",
+"naam": "Dominante vrouw",
+"afh": [
+"gaven-mannen",
+"stalsysteem"
+],
+"verleden": 4,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-melken",
+"naam": "Melken en zaadwinning",
+"afh": [
+"stalsysteem"
+],
+"verleden": 6,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-ontzegging",
+"naam": "Ontzegging en uitstel",
+"afh": [
+"bloedbinding",
+"gaven-mannen"
+],
+"verleden": 6,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-bondage",
+"naam": "Bondage en ketenen",
+"afh": [
+"bloedbinding",
+"gaven-mannen"
+],
+"verleden": 6,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-exhibitionisme",
+"naam": "Gezien worden",
+"afh": [
+"ontvangst-feest",
+"stalsysteem"
+],
+"verleden": 5,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-voyeurisme",
+"naam": "Toekijken",
+"afh": [
+"ontvangst-feest"
+],
+"verleden": 5,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-groep",
+"naam": "Groepsseks",
+"afh": [
+"ontvangst-feest",
+"stalsysteem"
+],
+"verleden": 4,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-anoniem",
+"naam": "Anonimiteit en maskers",
+"afh": [
+"stalsysteem"
+],
+"verleden": 5,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-pijn-genot",
+"naam": "Pijn en genot",
+"afh": [
+"bloedbinding",
+"gaven-mannen"
+],
+"verleden": 2,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-bloed",
+"naam": "Bloedspel",
+"afh": [
+"bloedbinding"
+],
+"verleden": 7,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-binding",
+"naam": "Verslaving aan één man",
+"afh": [
+"bloedbinding",
+"gaven-mannen"
+],
+"verleden": 5,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-vrouwenliefde",
+"naam": "Liefde tussen vrouwen",
+"afh": [],
+"verleden": 1,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-rolwissel",
+"naam": "Rolwisseling",
+"afh": [
+"stalsysteem"
+],
+"verleden": 4,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-onderdanige-man",
+"naam": "Onderdanige man",
+"afh": [
+"stalsysteem"
+],
+"verleden": 6,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-dominante-man",
+"naam": "Dominante gaven-man",
+"afh": [
+"bloedbinding",
+"gaven-mannen"
+],
+"verleden": 2,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-competitie",
+"naam": "Strijd en duel",
+"afh": [],
+"verleden": 6,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-veiling",
+"naam": "Gekocht en verkocht worden",
+"afh": [
+"stalsysteem"
+],
+"verleden": 6,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-harem",
+"naam": "Harem en rangorde",
+"afh": [],
+"verleden": 6,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-ritueel",
+"naam": "Heilige seks",
+"afh": [
+"ontvangst-feest"
+],
+"verleden": 4,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-vernedering",
+"naam": "Vernedering en verheffing",
+"afh": [],
+"verleden": 4,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-uithouding",
+"naam": "Uithouding",
+"afh": [
+"bloedbinding",
+"ontvangst-feest"
+],
+"verleden": 6,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-geest",
+"naam": "Gedeelde zinnen",
+"afh": [
+"aelthir",
+"gaven-mannen",
+"ves-lethi"
+],
+"verleden": 2,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "VOOR-reiziger",
+"naam": "De vreemdeling",
+"afh": [],
+"verleden": 6,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-verboden",
+"naam": "Verboden plekken",
+"afh": [
+"ontvangst-feest"
+],
+"verleden": 6,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-oudere-vrouw",
+"naam": "Rijpe vrouw",
+"afh": [],
+"verleden": 4,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-lichaam",
+"naam": "Lichaamsdiversiteit",
+"afh": [
+"stalsysteem"
+],
+"verleden": 4,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-afscheid",
+"naam": "Laatste nacht",
+"afh": [
+"gaven-mannen"
+],
+"verleden": 6,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-handel",
+"naam": "Seks als contract",
+"afh": [
+"stalsysteem"
+],
+"verleden": 6,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-inplanting",
+"naam": "Inplanting",
+"afh": [
+"myrrhen"
+],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-korf",
+"naam": "Korfgenot",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-sporenroes",
+"naam": "Sporenroes",
+"afh": [
+"myrrhen"
+],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-vergroeiing",
+"naam": "Vergroeiing",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-slijm",
+"naam": "Slijmlust",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-paaipoel",
+"naam": "Paaipoel",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-omhulling",
+"naam": "Omhulling",
+"afh": [
+"skerra"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "VOOR-maatverschil",
+"naam": "Maatverschil",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-verplettering",
+"naam": "Verplettering",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-versteening",
+"naam": "Versteening",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-slijpen",
+"naam": "Slijpen",
+"afh": [
+"gaven-mannen"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-valparing",
+"naam": "Valparing",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-vleugelbinding",
+"naam": "Vleugelbinding",
+"afh": [
+"bloedbinding",
+"gaven-mannen",
+"skerra"
+],
+"verleden": null,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "VOOR-vormwissel",
+"naam": "Vormwissel",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-nabootsing",
+"naam": "Nabootsing",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-ritueel-geweld",
+"naam": "Ritueel geweld",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-ei-dragen",
+"naam": "Eidragen",
+"afh": [],
+"verleden": null,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-Z46-de-vraag",
+"naam": "De vraag zelf",
+"afh": [],
+"verleden": 9,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-Z46-laatste-vonk",
+"naam": "De laatste vonk",
+"afh": [
+"gaven-mannen"
+],
+"verleden": 9,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-Z46-stalspel",
+"naam": "Het stalspel",
+"afh": [
+"gaven-mannen",
+"ontvangst-feest",
+"stalsysteem"
+],
+"verleden": 10,
+"laatst_echt": null,
+"status": {
+"9": "spel",
+"10": "spel",
+"11": "spel",
+"12": "spel",
+"13": "spel",
+"14": "spel",
+"15": "spel",
+"16": "spel"
+}
+},
+{
+"code": "VOOR-Z46-vervagen",
+"naam": "Vervagen",
+"afh": [
+"aelthir",
+"skerra"
+],
+"verleden": 11,
+"laatst_echt": null,
+"status": {
+"9": "zeldzaam",
+"10": "onmogelijk",
+"11": "onmogelijk",
+"12": "onmogelijk",
+"13": "onmogelijk",
+"14": "onmogelijk",
+"15": "onmogelijk",
+"16": "onmogelijk"
+}
+},
+{
+"code": "VOOR-Z46-vuurnacht",
+"naam": "De vuurnacht",
+"afh": [],
+"verleden": 13,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+},
+{
+"code": "VOOR-Z46-zang-zonder-aanraking",
+"naam": "Zang zonder aanraking",
+"afh": [
+"oevrin"
+],
+"verleden": 14,
+"laatst_echt": 16,
+"status": {
+"9": "echt",
+"10": "echt",
+"11": "echt",
+"12": "echt",
+"13": "echt",
+"14": "echt",
+"15": "echt",
+"16": "echt"
+}
+}
+],
+"telling": {
+"9": {
+"spel": 84,
+"echt": 97,
+"zeldzaam": 20,
+"onmogelijk": 2
+},
+"10": {
+"spel": 92,
+"echt": 88,
+"onmogelijk": 20,
+"zeldzaam": 3
+},
+"11": {
+"spel": 92,
+"echt": 88,
+"onmogelijk": 23
+},
+"12": {
+"spel": 92,
+"echt": 88,
+"onmogelijk": 23
+},
+"13": {
+"spel": 92,
+"echt": 88,
+"onmogelijk": 23
+},
+"14": {
+"spel": 92,
+"echt": 88,
+"onmogelijk": 23
+},
+"15": {
+"spel": 92,
+"echt": 88,
+"onmogelijk": 23
+},
+"16": {
+"spel": 92,
+"echt": 88,
+"onmogelijk": 23
+}
+},
+"genres": {
+"0": {
+"verhaal": 319,
+"actie": 2,
+"horror": 7,
+"comedy": 1,
+"erotiek": 3,
+"intrige": 1,
+"thriller": 1,
+"oorlog": 1,
+"romantiek": 2,
+"held": 1,
+"mythe": 15
+},
+"1": {
+"verhaal": 47,
+"thriller": 6,
+"intrige": 15,
+"oorlog": 4,
+"horror": 61,
+"romantiek": 5,
+"erotiek": 6,
+"actie": 3,
+"comedy": 3,
+"held": 2,
+"mythe": 3
+},
+"2": {
+"verhaal": 38,
+"intrige": 15,
+"thriller": 7,
+"erotiek": 2,
+"actie": 3,
+"oorlog": 5,
+"horror": 4,
+"held": 3,
+"mythe": 6,
+"comedy": 1,
+"romantiek": 1
+},
+"3": {
+"verhaal": 35,
+"intrige": 13,
+"oorlog": 3,
+"horror": 3,
+"comedy": 3,
+"romantiek": 2,
+"erotiek": 2,
+"thriller": 8,
+"held": 4,
+"mythe": 10,
+"actie": 1
+},
+"4": {
+"verhaal": 53,
+"thriller": 7,
+"intrige": 15,
+"oorlog": 1,
+"horror": 1,
+"comedy": 3,
+"held": 1,
+"mythe": 5,
+"romantiek": 1,
+"erotiek": 1,
+"actie": 1
+},
+"5": {
+"thriller": 8,
+"verhaal": 37,
+"intrige": 14,
+"oorlog": 4,
+"romantiek": 3,
+"erotiek": 3,
+"actie": 1,
+"horror": 2,
+"comedy": 2,
+"held": 2,
+"mythe": 6
+},
+"6": {
+"verhaal": 42,
+"intrige": 15,
+"thriller": 7,
+"erotiek": 4,
+"oorlog": 5,
+"horror": 1,
+"comedy": 1,
+"actie": 4,
+"romantiek": 2,
+"held": 8,
+"mythe": 13
+},
+"7": {
+"verhaal": 41,
+"intrige": 14,
+"thriller": 9,
+"actie": 3,
+"oorlog": 3,
+"romantiek": 1,
+"erotiek": 1,
+"held": 3,
+"horror": 2,
+"comedy": 2,
+"mythe": 5
+},
+"8": {
+"verhaal": 167,
+"actie": 34,
+"oorlog": 24,
+"horror": 19,
+"comedy": 45,
+"romantiek": 35,
+"erotiek": 35,
+"held": 26,
+"thriller": 12,
+"intrige": 1,
+"mythe": 1
+},
+"9": {
+"verhaal": 14,
+"erotiek": 3,
+"romantiek": 2,
+"horror": 1,
+"comedy": 1,
+"oorlog": 1,
+"held": 1,
+"actie": 1,
+"thriller": 1,
+"intrige": 1
+},
+"10": {
+"verhaal": 11,
+"erotiek": 3,
+"romantiek": 2,
+"horror": 1,
+"comedy": 1,
+"oorlog": 1,
+"held": 1,
+"actie": 1,
+"thriller": 1,
+"intrige": 1
+},
+"11": {
+"verhaal": 5,
+"erotiek": 3,
+"romantiek": 2,
+"horror": 1,
+"comedy": 1,
+"oorlog": 1,
+"held": 1,
+"actie": 1,
+"thriller": 1,
+"intrige": 1
+},
+"12": {
+"verhaal": 5,
+"erotiek": 2,
+"romantiek": 1,
+"horror": 1,
+"comedy": 1,
+"oorlog": 1,
+"held": 1,
+"actie": 1,
+"thriller": 1,
+"intrige": 1
+},
+"13": {
+"verhaal": 1,
+"erotiek": 2,
+"romantiek": 1
+},
+"14": {
+"verhaal": 1,
+"erotiek": 2,
+"romantiek": 1
+},
+"15": {
+"verhaal": 1,
+"erotiek": 2,
+"romantiek": 1
+},
+"16": {
+"verhaal": 4,
+"erotiek": 2,
+"romantiek": 1
+}
+}
+}

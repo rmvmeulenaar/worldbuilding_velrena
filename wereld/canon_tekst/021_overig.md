@@ -46890,5 +46890,755 @@
 - **bron_handmatig:** 
 - **epistemiek:** voorstel (Z45, erotische haak)
 <!-- /REC -->
+<!-- REC canon -->
+### COMEDY-Z46-2-comedy · De visser die gloeit
+- **code:** COMEDY-Z46-2-comedy
+- **categorie:** Comedy
+- **onderwerp:** De visser die gloeit
+- **wat:** Roel, de verlegen visser met een vonk van een jaar oud, gloeit als hij bloost, en hij bloost voortdurend. Op de markt van de Zoutkust weet iedereen dus wanneer hij verliefd is, en de krijgsvrouwen wedden erom. Hij probeert het te verbergen onder natte netten, onder een emmer, in een kist. Het hele dorp lacht, tot hij in een storm de boten naar huis brengt omdat hij het enige licht op zee is.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VERHAAL-fase2-a-Z35;GEB-zaadkracht-ontdekt
+- **verwijst_naar:** VERHAAL-fase2-a-Z35;GEB-zaadkracht-ontdekt
+- **jaar:** 
+- **tijdperk:** 2 Vonk
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Roel, de verlegen visser met een vonk van een jaar oud, gloeit als hij bloost, en hij bloost voortdurend. Op de markt van de Zoutkust weet iedereen dus wanneer hij verliefd is, en de krijgsvrouwen wedden erom. Hij probeert het te verbergen onder natte netten, onder een emmer, in een kist. Het hele dorp lacht, tot hij in een storm de boten naar huis brengt omdat hij het enige licht op zee is.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre comedy)
+<!-- /REC -->
+<!-- REC canon -->
+### ROM-Z46-2-romantiek · De warme bron
+- **code:** ROM-Z46-2-romantiek
+- **categorie:** Romantiek
+- **onderwerp:** De warme bron
+- **wat:** Voordat Ysel en Orric drie keer worden uitgehuwelijkt, vinden ze elkaar bij een warme bron in de uitlopers, waar het water naar ijzer ruikt. Hij weet nog niet dat hij straks de storm in zijn handen heeft; zij weet niet dat ze zijn eerste en laatste keus zal zijn. Een liefdesverhaal tussen twee volwassenen, voor de wereld hen verdeelt, dat ze elkaar later op elk feest anders vertellen.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VERHAAL-Z34-fase2;GEB-orric-vonk
+- **verwijst_naar:** VERHAAL-Z34-fase2;GEB-orric-vonk
+- **jaar:** 
+- **tijdperk:** 2 Vonk
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Voordat Ysel en Orric drie keer worden uitgehuwelijkt, vinden ze elkaar bij een warme bron in de uitlopers, waar het water naar ijzer ruikt. Hij weet nog niet dat hij straks de storm in zijn handen heeft; zij weet niet dat ze zijn eerste en laatste keus zal zijn. Een liefdesverhaal tussen twee volwassenen, voor de wereld hen verdeelt, dat ze elkaar later op elk feest anders vertellen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre romantiek)
+<!-- /REC -->
+<!-- REC canon -->
+### ACTIE-Z46-3-actie · De weigering bij de sluis
+- **code:** ACTIE-Z46-3-actie
+- **categorie:** Actie
+- **onderwerp:** De weigering bij de sluis
+- **wat:** In de laatste weken van de Brand krijgt de kampioen van de Karrûk het bevel van Varnath om de sluis open te zetten en het dal te laten verdrinken. Hij weigert, en moet daarna met zijn clans over de brandende pas zien te komen, terwijl Varnaths vuurmannen hen achtervolgen. Een achtervolging van drie dagen door rook en sneeuw, en een man die weet dat hij zijn naam kwijtraakt om levens te redden.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** PERS-Z4-karruk-3-1;FASE-brand-Z38
+- **verwijst_naar:** PERS-Z4-karruk-3-1;FASE-brand-Z38
+- **jaar:** 
+- **tijdperk:** 3 Brand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In de laatste weken van de Brand krijgt de kampioen van de Karrûk het bevel van Varnath om de sluis open te zetten en het dal te laten verdrinken. Hij weigert, en moet daarna met zijn clans over de brandende pas zien te komen, terwijl Varnaths vuurmannen hen achtervolgen. Een achtervolging van drie dagen door rook en sneeuw, en een man die weet dat hij zijn naam kwijtraakt om levens te redden.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre actie)
+<!-- /REC -->
+<!-- REC canon -->
+### ROM-Z46-4-romantiek · De eerste gedeelde man
+- **code:** ROM-Z46-4-romantiek
+- **categorie:** Romantiek
+- **onderwerp:** De eerste gedeelde man
+- **wat:** Edrun, de laatste koning van Saelith, wordt in jaar 14 de eerste gedeelde man van de Zoutkust-clan, en Ylva is een van de twaalf vrouwen die over hem stemt. Wat als straf begint, wordt in een winter iets anders: een man die leert vragen en vrouwen die leren dat ze nee mogen zeggen tegen wat de Deelwet hun toestaat. Erotisch en teder tussen volwassenen, met jaloezie die niemand een naam mag geven.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VERHAAL-fase4-Z36;BESLUIT-Z12-5
+- **verwijst_naar:** VERHAAL-fase4-Z36;BESLUIT-Z12-5
+- **jaar:** 
+- **tijdperk:** 4 Noodtoestand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Edrun, de laatste koning van Saelith, wordt in jaar 14 de eerste gedeelde man van de Zoutkust-clan, en Ylva is een van de twaalf vrouwen die over hem stemt. Wat als straf begint, wordt in een winter iets anders: een man die leert vragen en vrouwen die leren dat ze nee mogen zeggen tegen wat de Deelwet hun toestaat. Erotisch en teder tussen volwassenen, met jaloezie die niemand een naam mag geven.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre romantiek)
+<!-- /REC -->
+<!-- REC canon -->
+### ACTIE-Z46-4-actie · Het blad dat goud waard is
+- **code:** ACTIE-Z46-4-actie
+- **categorie:** Actie
+- **onderwerp:** Het blad dat goud waard is
+- **wat:** Een rijke clan biedt Saske goud voor één blad uit het eerste register, en als ze weigert, laten ze het stelen. Ondrea en een Zoutkust-roofster jagen de dief door de nachtelijke kades van Saelith, over daken en door de sluizen, terwijl het blad in zijn jas nat wordt en de inkt begint te lopen. Wie het blad terugkrijgt, bepaalt wie de vader is van een heel huis.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VERHAAL-fase4-c-Z35;VERHAAL-fase4-d-Z40
+- **verwijst_naar:** VERHAAL-fase4-c-Z35;VERHAAL-fase4-d-Z40
+- **jaar:** 
+- **tijdperk:** 4 Noodtoestand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een rijke clan biedt Saske goud voor één blad uit het eerste register, en als ze weigert, laten ze het stelen. Ondrea en een Zoutkust-roofster jagen de dief door de nachtelijke kades van Saelith, over daken en door de sluizen, terwijl het blad in zijn jas nat wordt en de inkt begint te lopen. Wie het blad terugkrijgt, bepaalt wie de vader is van een heel huis.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre actie)
+<!-- /REC -->
+<!-- REC canon -->
+### HORROR-Z46-9-horror · De Lijngravers die geen antwoord hebben
+- **code:** HORROR-Z46-9-horror
+- **categorie:** Horror
+- **onderwerp:** De Lijngravers die geen antwoord hebben
+- **wat:** Na de derde weg vraagt het Zegel elk lichaam om een ja, ook de Lijngravers diep in de stallen. Hun vermogen om toe te stemmen is per fase verdwenen; ze kunnen niet ja zeggen en niet nee. Een heelster die ze verzorgt, merkt dat het Zegel blijft vragen, elke nacht, en dat de lichamen eronder beginnen te trillen. Donker thema: wat doe je met mensen die geen antwoord meer hebben, in een wereld die alleen nog op antwoorden draait?
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** REGEL-toestemming-navigators;BESLUIT-Z32-11;BESLUIT-Z12-2
+- **verwijst_naar:** REGEL-toestemming-navigators;BESLUIT-Z32-11;BESLUIT-Z12-2
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Na de derde weg vraagt het Zegel elk lichaam om een ja, ook de Lijngravers diep in de stallen. Hun vermogen om toe te stemmen is per fase verdwenen; ze kunnen niet ja zeggen en niet nee. Een heelster die ze verzorgt, merkt dat het Zegel blijft vragen, elke nacht, en dat de lichamen eronder beginnen te trillen. Donker thema: wat doe je met mensen die geen antwoord meer hebben, in een wereld die alleen nog op antwoorden draait?
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre horror)
+<!-- /REC -->
+<!-- REC canon -->
+### COMEDY-Z46-9-comedy · De Registratrix zoekt werk
+- **code:** COMEDY-Z46-9-comedy
+- **categorie:** Comedy
+- **onderwerp:** De Registratrix zoekt werk
+- **wat:** Na het Lichtconvent heeft de Orde geen registers meer nodig, en Registratrix Hedwig, die veertig jaar elke dekking noteerde, weet niet wat ze met haar handen moet. Ze wordt koppelaarster in Ambergaard en houdt alles bij: wie met wie, hoe vaak, en met welk resultaat, tot het hele dorp haar smeekt op te houden. Ze kan het niet laten, en het dorp eigenlijk ook niet.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** BESLUIT-Z12-5;FASE-z44-ja
+- **verwijst_naar:** BESLUIT-Z12-5;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Na het Lichtconvent heeft de Orde geen registers meer nodig, en Registratrix Hedwig, die veertig jaar elke dekking noteerde, weet niet wat ze met haar handen moet. Ze wordt koppelaarster in Ambergaard en houdt alles bij: wie met wie, hoe vaak, en met welk resultaat, tot het hele dorp haar smeekt op te houden. Ze kan het niet laten, en het dorp eigenlijk ook niet.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre comedy)
+<!-- /REC -->
+<!-- REC canon -->
+### OORLOG-Z46-9-oorlog · De Bloedkerk weigert
+- **code:** OORLOG-Z46-9-oorlog
+- **categorie:** Oorlog
+- **onderwerp:** De Bloedkerk weigert
+- **wat:** De kerk van de Bloedvorst van Lisk erkent het Lichtconvent niet: haar priesteressen zijn gebonden, en gebonden blijft gebonden, zegt de kerk. Steden die gebonden vrouwen vrijlaten, worden aangevallen. Het is de eerste oorlog over de ja zelf, en aan beide kanten vechten vrouwen. Dwang en binding zijn hier het gelabelde donkere thema; de vraag is of een vrijlating die je niet wilt ook dwang is.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** SEKTE-bloedkerk;RIT-bloedverbinding;BESLUIT-Z6-WRIJ-077
+- **verwijst_naar:** SEKTE-bloedkerk;RIT-bloedverbinding;BESLUIT-Z6-WRIJ-077
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De kerk van de Bloedvorst van Lisk erkent het Lichtconvent niet: haar priesteressen zijn gebonden, en gebonden blijft gebonden, zegt de kerk. Steden die gebonden vrouwen vrijlaten, worden aangevallen. Het is de eerste oorlog over de ja zelf, en aan beide kanten vechten vrouwen. Dwang en binding zijn hier het gelabelde donkere thema; de vraag is of een vrijlating die je niet wilt ook dwang is.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre oorlog)
+<!-- /REC -->
+<!-- REC canon -->
+### HELD-Z46-9-held · De kampioen van de overlopers
+- **code:** HELD-Z46-9-held
+- **categorie:** Held
+- **onderwerp:** De kampioen van de overlopers
+- **wat:** De Karrûk die in 801 wilden overlopen, staan na de derde weg tussen twee rijken in: Kharvos noemt hen verraders, Velmara vertrouwt hen niet. Hun kampioen houdt een maand lang een smalle pas open zodat de families erdoor kunnen, terwijl zijn vonk elke dag zwakker wordt. Hij wint de pas en verliest zijn kracht, en dat is de enige prijs die hij wilde betalen.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** GESCH-karrûk-6;VOLK-karrûk-Z6-Z38
+- **verwijst_naar:** GESCH-karrûk-6;VOLK-karrûk-Z6-Z38
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De Karrûk die in 801 wilden overlopen, staan na de derde weg tussen twee rijken in: Kharvos noemt hen verraders, Velmara vertrouwt hen niet. Hun kampioen houdt een maand lang een smalle pas open zodat de families erdoor kunnen, terwijl zijn vonk elke dag zwakker wordt. Hij wint de pas en verliest zijn kracht, en dat is de enige prijs die hij wilde betalen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre held)
+<!-- /REC -->
+<!-- REC canon -->
+### ACTIE-Z46-9-actie · De race naar de Wiegkast
+- **code:** ACTIE-Z46-9-actie
+- **categorie:** Actie
+- **onderwerp:** De race naar de Wiegkast
+- **wat:** Een heelster hoort dat Huis Varenne een werkende Wiegkast laat ophalen uit een verlaten kluis in de bergen, om er genezing voor de rijken mee te verkopen. Met een smokkelaarster en een Dhurn-gids gaat ze er eerst heen. Een race door sneeuw en kluisgangen, een tweede ploeg op hun hielen, en aan het eind een machine die maar één keer meer kan genezen.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** TECHNO-metaal-genees;TOESTAND-Z11-varenne-7;GENEES-heelsters
+- **verwijst_naar:** TECHNO-metaal-genees;TOESTAND-Z11-varenne-7;GENEES-heelsters
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een heelster hoort dat Huis Varenne een werkende Wiegkast laat ophalen uit een verlaten kluis in de bergen, om er genezing voor de rijken mee te verkopen. Met een smokkelaarster en een Dhurn-gids gaat ze er eerst heen. Een race door sneeuw en kluisgangen, een tweede ploeg op hun hielen, en aan het eind een machine die maar één keer meer kan genezen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre actie)
+<!-- /REC -->
+<!-- REC canon -->
+### HORROR-Z46-10-horror · De gezichtsrot
+- **code:** HORROR-Z46-10-horror
+- **categorie:** Horror
+- **onderwerp:** De gezichtsrot
+- **wat:** In de Tijd der Volken lopen steeds meer Ves-Lethi vast tussen twee gezichten, omdat hun lichaam de wissel niet meer vasthoudt. Hun huid schilfert af in lagen van gedaanten. In een grensdorp sterft een spiegelzangeres die honderd gezichten heeft gedragen, en onder elke laag ligt iemand die ze ooit was. Horror van verlies: een volk dat zichzelf vergeet terwijl je kijkt.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** LICH-r17-gezichtsrot;VOLK-ves-lethi-Z6;LOT-Z44-ves-lethi
+- **verwijst_naar:** LICH-r17-gezichtsrot;VOLK-ves-lethi-Z6;LOT-Z44-ves-lethi
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In de Tijd der Volken lopen steeds meer Ves-Lethi vast tussen twee gezichten, omdat hun lichaam de wissel niet meer vasthoudt. Hun huid schilfert af in lagen van gedaanten. In een grensdorp sterft een spiegelzangeres die honderd gezichten heeft gedragen, en onder elke laag ligt iemand die ze ooit was. Horror van verlies: een volk dat zichzelf vergeet terwijl je kijkt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre horror)
+<!-- /REC -->
+<!-- REC canon -->
+### COMEDY-Z46-10-comedy · De post te voet
+- **code:** COMEDY-Z46-10-comedy
+- **categorie:** Comedy
+- **onderwerp:** De post te voet
+- **wat:** Een Skerra-familie zonder vleugels weigert haar koeriersrecht op te geven en bezorgt de post voortaan te voet, met ladders, katrollen en een trots die groter is dan de berg. Ze zijn trager dan elke mensenbode en zeggen dat dat de schuld van de wind is. Het hele dal betaalt hen toch, omdat niemand het hart heeft het te zeggen.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VOLK-skerra;D1-skerra-ziekte
+- **verwijst_naar:** VOLK-skerra;D1-skerra-ziekte
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een Skerra-familie zonder vleugels weigert haar koeriersrecht op te geven en bezorgt de post voortaan te voet, met ladders, katrollen en een trots die groter is dan de berg. Ze zijn trager dan elke mensenbode en zeggen dat dat de schuld van de wind is. Het hele dal betaalt hen toch, omdat niemand het hart heeft het te zeggen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre comedy)
+<!-- /REC -->
+<!-- REC canon -->
+### OORLOG-Z46-10-oorlog · De groevenoorlog
+- **code:** OORLOG-Z46-10-oorlog
+- **categorie:** Oorlog
+- **onderwerp:** De groevenoorlog
+- **wat:** Als de Sterrensteen zwakker wordt, wordt elke groeve met nog wat gloed goud waard. De Dhurn hebben hem nodig voor hun vruchtbaarheid, Kharvos voor de kern van de Harrow, en de Orrim zijn zelf de groeve. Een oorlog van tunnels en ingestorte gangen, waarin het niet om land gaat maar om een licht dat toch uitgaat.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VOLK-dhurn;BESLUIT-3;VOLK-orrim
+- **verwijst_naar:** VOLK-dhurn;BESLUIT-3;VOLK-orrim
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Als de Sterrensteen zwakker wordt, wordt elke groeve met nog wat gloed goud waard. De Dhurn hebben hem nodig voor hun vruchtbaarheid, Kharvos voor de kern van de Harrow, en de Orrim zijn zelf de groeve. Een oorlog van tunnels en ingestorte gangen, waarin het niet om land gaat maar om een licht dat toch uitgaat.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre oorlog)
+<!-- /REC -->
+<!-- REC canon -->
+### HELD-Z46-10-held · De laatste vlucht
+- **code:** HELD-Z46-10-held
+- **categorie:** Held
+- **onderwerp:** De laatste vlucht
+- **wat:** De laatste Skerra met vleugels krijgt de opdracht de kust te waarschuwen voor wat er in Hoornburg gaat gebeuren. Haar botten zijn hol en oud, de wind staat verkeerd, en niemand na haar kan nog vliegen. Ze haalt de kust, en de havens lopen op tijd leeg. Daarna vouwt ze haar vleugels voor het laatst.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VOLK-skerra;VERHAAL-Z44-tijdperk-10
+- **verwijst_naar:** VOLK-skerra;VERHAAL-Z44-tijdperk-10
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De laatste Skerra met vleugels krijgt de opdracht de kust te waarschuwen voor wat er in Hoornburg gaat gebeuren. Haar botten zijn hol en oud, de wind staat verkeerd, en niemand na haar kan nog vliegen. Ze haalt de kust, en de havens lopen op tijd leeg. Daarna vouwt ze haar vleugels voor het laatst.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre held)
+<!-- /REC -->
+<!-- REC canon -->
+### ACTIE-Z46-10-actie · Rijden op de waanzinnige worm
+- **code:** ACTIE-Z46-10-actie
+- **categorie:** Actie
+- **onderwerp:** Rijden op de waanzinnige worm
+- **wat:** Een smokkelbende neemt de laatste vleesmetaal-worm, gek van pijn door de kluiskern in zijn maag, mee door een storm naar de vrijhaven. De worm wil naar beneden, de bemanning wil naar huis. Actie op zee met touwen, haken en een navigator die moet kiezen tussen haar lading en het lijden van het dier dat haar draagt.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** TECHNO-MIX-V4;MYTHE-Z45-kraken
+- **verwijst_naar:** TECHNO-MIX-V4;MYTHE-Z45-kraken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een smokkelbende neemt de laatste vleesmetaal-worm, gek van pijn door de kluiskern in zijn maag, mee door een storm naar de vrijhaven. De worm wil naar beneden, de bemanning wil naar huis. Actie op zee met touwen, haken en een navigator die moet kiezen tussen haar lading en het lijden van het dier dat haar draagt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre actie)
+<!-- /REC -->
+<!-- REC canon -->
+### HORROR-Z46-11-horror · De veenlopers
+- **code:** HORROR-Z46-11-horror
+- **categorie:** Horror
+- **onderwerp:** De veenlopers
+- **wat:** Op de Nevel-eilanden lopen in de Heldentijd nog doodgezwamden rond die vergeten zijn dat ze dood zijn. Een groep reizigers zoekt schuil in een veenhal en merkt dat de bewoners niet slapen. Horror met vuur als enige uitweg, en de vraag of de lopers nog iemand zijn.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** MYTHE-Z45-ondoden;GESCH-myrrhen-1
+- **verwijst_naar:** MYTHE-Z45-ondoden;GESCH-myrrhen-1
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Op de Nevel-eilanden lopen in de Heldentijd nog doodgezwamden rond die vergeten zijn dat ze dood zijn. Een groep reizigers zoekt schuil in een veenhal en merkt dat de bewoners niet slapen. Horror met vuur als enige uitweg, en de vraag of de lopers nog iemand zijn.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre horror)
+<!-- /REC -->
+<!-- REC canon -->
+### COMEDY-Z46-11-comedy · De laatste der laatsten
+- **code:** COMEDY-Z46-11-comedy
+- **categorie:** Comedy
+- **onderwerp:** De laatste der laatsten
+- **wat:** Een Tharn en een Dhurn zitten bij dezelfde poort en ruziën al twintig jaar over wie van hen de laatste van zijn volk is. Elke reiziger moet beslissen; elke reiziger kiest verkeerd. Als er een tweede Tharn opduikt, zijn ze allebei gekwetst.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VOLK-tharn;VOLK-dhurn;LOT-Z44-tharn
+- **verwijst_naar:** VOLK-tharn;VOLK-dhurn;LOT-Z44-tharn
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een Tharn en een Dhurn zitten bij dezelfde poort en ruziën al twintig jaar over wie van hen de laatste van zijn volk is. Elke reiziger moet beslissen; elke reiziger kiest verkeerd. Als er een tweede Tharn opduikt, zijn ze allebei gekwetst.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre comedy)
+<!-- /REC -->
+<!-- REC canon -->
+### OORLOG-Z46-11-oorlog · De mannenlegers keren terug
+- **code:** OORLOG-Z46-11-oorlog
+- **categorie:** Oorlog
+- **onderwerp:** De mannenlegers keren terug
+- **wat:** Na eeuwen zijn er weer bijna evenveel mannen als vrouwen, en voor het eerst sinds de Brand vormen koningen weer mannenlegers. Een oude krijgsvrouw die de liederen over de Vonkkoningen kent, ziet het gebeuren. Elke oplossing wordt het probleem van de volgende fase: een oorlog die rijmt met de Brand, zonder vonk maar met ijzer.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** FASE-brand-Z38;FASE-z44-helden;BESLUIT-Z11-tijdlijn
+- **verwijst_naar:** FASE-brand-Z38;FASE-z44-helden;BESLUIT-Z11-tijdlijn
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Na eeuwen zijn er weer bijna evenveel mannen als vrouwen, en voor het eerst sinds de Brand vormen koningen weer mannenlegers. Een oude krijgsvrouw die de liederen over de Vonkkoningen kent, ziet het gebeuren. Elke oplossing wordt het probleem van de volgende fase: een oorlog die rijmt met de Brand, zonder vonk maar met ijzer.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre oorlog)
+<!-- /REC -->
+<!-- REC canon -->
+### HELD-Z46-11-held · De kluiswachter
+- **code:** HELD-Z46-11-held
+- **categorie:** Held
+- **onderwerp:** De kluiswachter
+- **wat:** Een oude vrouw kent als enige nog de drie woorden waarmee de laatste kluis opengaat. Ze loopt met een staf die alleen in haar hand licht geeft door een land in oorlog om de deur te openen voor wie er schuilen moet. Als de deur dicht is, is haar staf een stok. Daarna zien de mensen haar nooit meer.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** MYTHE-Z45-tovenaar;TAAL-dode-taal
+- **verwijst_naar:** MYTHE-Z45-tovenaar;TAAL-dode-taal
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een oude vrouw kent als enige nog de drie woorden waarmee de laatste kluis opengaat. Ze loopt met een staf die alleen in haar hand licht geeft door een land in oorlog om de deur te openen voor wie er schuilen moet. Als de deur dicht is, is haar staf een stok. Daarna zien de mensen haar nooit meer.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre held)
+<!-- /REC -->
+<!-- REC canon -->
+### ACTIE-Z46-11-actie · De instorting van de Dhurn-hal
+- **code:** ACTIE-Z46-11-actie
+- **categorie:** Actie
+- **onderwerp:** De instorting van de Dhurn-hal
+- **wat:** Als de Sterrensteen in de grote hal van de Dhurn zijn laatste gloed verliest, houden de stutten van kristal het niet meer. Een mijnmeesteres en haar bloedgezanten halen het gilde naar buiten terwijl de berg kraakt. Ze redden de mensen en verliezen de steen.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VOLK-dhurn;LOT-Z44-sterrensteen
+- **verwijst_naar:** VOLK-dhurn;LOT-Z44-sterrensteen
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Als de Sterrensteen in de grote hal van de Dhurn zijn laatste gloed verliest, houden de stutten van kristal het niet meer. Een mijnmeesteres en haar bloedgezanten halen het gilde naar buiten terwijl de berg kraakt. Ze redden de mensen en verliezen de steen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre actie)
+<!-- /REC -->
+<!-- REC canon -->
+### HORROR-Z46-12-horror · De verlaten kweekpoel
+- **code:** HORROR-Z46-12-horror
+- **categorie:** Horror
+- **onderwerp:** De verlaten kweekpoel
+- **wat:** Na Het Vertrek verzorgt niemand meer de kweekpoelen in de Groenmuil. Wat erin groeide, groeit door, en wat je eraf snijdt, komt dubbel terug. Een dorp aan de rand van het moeras merkt dat het water elk jaar dichterbij komt, en dat er iets in zit. Horror met fakkels.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** MYTHE-Z45-hydra;OORSPRONG-bio-4
+- **verwijst_naar:** MYTHE-Z45-hydra;OORSPRONG-bio-4
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Na Het Vertrek verzorgt niemand meer de kweekpoelen in de Groenmuil. Wat erin groeide, groeit door, en wat je eraf snijdt, komt dubbel terug. Een dorp aan de rand van het moeras merkt dat het water elk jaar dichterbij komt, en dat er iets in zit. Horror met fakkels.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre horror)
+<!-- /REC -->
+<!-- REC canon -->
+### COMEDY-Z46-12-comedy · Waarom ga je dan?
+- **code:** COMEDY-Z46-12-comedy
+- **categorie:** Comedy
+- **onderwerp:** Waarom ga je dan?
+- **wat:** Een Aelthir probeert een mensendorp uit te leggen waarom ze met de lander vertrekt, en elk antwoord wordt verkeerd begrepen: de dorpelingen denken eerst dat ze ruzie heeft, dan dat ze trouwt, en dan dat ze gek is. Ze vertrekt na een feest waarvan niemand weet wat het viert.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VOLK-aelthir-V5;VERHAAL-Z44-tijdperk-12
+- **verwijst_naar:** VOLK-aelthir-V5;VERHAAL-Z44-tijdperk-12
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een Aelthir probeert een mensendorp uit te leggen waarom ze met de lander vertrekt, en elk antwoord wordt verkeerd begrepen: de dorpelingen denken eerst dat ze ruzie heeft, dan dat ze trouwt, en dan dat ze gek is. Ze vertrekt na een feest waarvan niemand weet wat het viert.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre comedy)
+<!-- /REC -->
+<!-- REC canon -->
+### OORLOG-Z46-12-oorlog · De strijd om de plaatsen
+- **code:** OORLOG-Z46-12-oorlog
+- **categorie:** Oorlog
+- **onderwerp:** De strijd om de plaatsen
+- **wat:** Er is één lander met plaats voor weinigen, en iedereen die weet dat er een schip in de Leegte vliegt, wil mee. Een kortstondige, wrede oorlog aan de kust, waarin de Aelthir de laatste zijn die nog willen vechten, en de eersten die besluiten het niet te doen.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VERHAAL-Z44-tijdperk-12;TECHNO-metaal-schip-Z42
+- **verwijst_naar:** VERHAAL-Z44-tijdperk-12;TECHNO-metaal-schip-Z42
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Er is één lander met plaats voor weinigen, en iedereen die weet dat er een schip in de Leegte vliegt, wil mee. Een kortstondige, wrede oorlog aan de kust, waarin de Aelthir de laatste zijn die nog willen vechten, en de eersten die besluiten het niet te doen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre oorlog)
+<!-- /REC -->
+<!-- REC canon -->
+### HELD-Z46-12-held · De laatste navigator
+- **code:** HELD-Z46-12-held
+- **categorie:** Held
+- **onderwerp:** De laatste navigator
+- **wat:** De laatste wormnavigator weet hoe je een lander bestuurt, omdat haar handen het van haar moeder leerden. Ze brengt het schip omhoog en weet dat ze niet terug kan. Een heldin zonder lied, omdat niemand die het zag het kon navertellen.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** TECHNO-bio-schip;LOT-Z44-leegtewormen
+- **verwijst_naar:** TECHNO-bio-schip;LOT-Z44-leegtewormen
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De laatste wormnavigator weet hoe je een lander bestuurt, omdat haar handen het van haar moeder leerden. Ze brengt het schip omhoog en weet dat ze niet terug kan. Een heldin zonder lied, omdat niemand die het zag het kon navertellen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre held)
+<!-- /REC -->
+<!-- REC canon -->
+### ACTIE-Z46-12-actie · Lancering onder vuur
+- **code:** ACTIE-Z46-12-actie
+- **categorie:** Actie
+- **onderwerp:** Lancering onder vuur
+- **wat:** Op de ochtend van het vertrek komt een verwilderde worm uit zee naar de kust, aangetrokken door het zoemen van de lander. Terwijl de laatste passagiers aan boord gaan, houden mensen met speren en vuur hem op afstand. Actie tot de lander loskomt, en dan stilte.
+- **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
+- **status:** voorlopig
+- **ronde:** 75
+- **hangt_samen_met:** VERHAAL-Z44-tijdperk-12;OORSPRONG-bio-8
+- **verwijst_naar:** VERHAAL-Z44-tijdperk-12;OORSPRONG-bio-8
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Op de ochtend van het vertrek komt een verwilderde worm uit zee naar de kust, aangetrokken door het zoemen van de lander. Terwijl de laatste passagiers aan boord gaan, houden mensen met speren en vuur hem op afstand. Actie tot de lander loskomt, en dan stilte.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z46, verrijking genre actie)
+<!-- /REC -->
 
 <!-- SECTIE: WRIJVINGEN -->
