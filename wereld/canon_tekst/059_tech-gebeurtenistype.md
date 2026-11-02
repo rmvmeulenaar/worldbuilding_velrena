@@ -278,5 +278,14 @@
 - **bron_code:** GESCH3-boom
 - **epistemiek:** aanname (moduleontwerp Z44, bron GESCH3-boom)
 <!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_techniek_verloren · Magische techniek gaat verloren omdat haar bron opdroogt (zie sim_uitvinding.verloren).
+- **code:** gesch_techniek_verloren
+- **module:** geschiedenis_z45
+- **omschrijving:** Magische techniek gaat verloren omdat haar bron opdroogt (zie sim_uitvinding.verloren).
+- **invariant:** alleen gave- en zegelsteentechniek
+- **bron_code:** GESCH4-verval
+- **epistemiek:** aanname (moduleontwerp Z45, bron GESCH4-verval)
+<!-- /REC -->
 
 <!-- SECTIE: SIM_RUN -->

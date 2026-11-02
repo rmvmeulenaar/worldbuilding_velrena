@@ -909,5 +909,495 @@
 - **canon_code:** 
 - **epistemiek:** simulatie (Z44-GESCH-0013, seed 420013)
 <!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **huis:** Varenne
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** bestaand gezag in 801
+- **gezag_van:** 801
+- **gezag_tot:** 941
+- **gevallen:** 941
+- **canon_code:** HUI-varenne
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **huis:** Kaldra
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** geld
+- **gezag_van:** 1301
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** HUI-kaldra-Z6
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **huis:** Mirre
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** 
+- **gezag_van:** 
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** HUI-mirre
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **huis:** Qesh
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** 
+- **gezag_van:** 
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** HUI-qesh-Z6
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **huis:** Kharvos van de Pas
+- **ouder:** Kharvos
+- **ontstaan:** 941
+- **aanspraak:** zwaard
+- **gezag_van:** 941
+- **gezag_tot:** 1301
+- **gevallen:** 1301
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **huis:** Varenne
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** bestaand gezag in 801
+- **gezag_van:** 801
+- **gezag_tot:** 1281
+- **gevallen:** 1281
+- **canon_code:** HUI-varenne
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **huis:** Kaldra
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** 
+- **gezag_van:** 
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** HUI-kaldra-Z6
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **huis:** Mirre
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** geld
+- **gezag_van:** 1341
+- **gezag_tot:** 2861
+- **gevallen:** 
+- **canon_code:** HUI-mirre
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **huis:** Qesh
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** 
+- **gezag_van:** 
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** HUI-qesh-Z6
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **huis:** Kharvos van Saelith
+- **ouder:** Kharvos
+- **ontstaan:** 1281
+- **aanspraak:** zwaard
+- **gezag_van:** 1281
+- **gezag_tot:** 1341
+- **gevallen:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **huis:** Kharvos van Saelith
+- **ouder:** Kharvos
+- **ontstaan:** 1281
+- **aanspraak:** lading
+- **gezag_van:** 2861
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **huis:** Varenne
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** bestaand gezag in 801
+- **gezag_van:** 801
+- **gezag_tot:** 881
+- **gevallen:** 881
+- **canon_code:** HUI-varenne
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **huis:** Kaldra
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** 
+- **gezag_van:** 
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** HUI-kaldra-Z6
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **huis:** Mirre
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** lading
+- **gezag_van:** 2021
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** HUI-mirre
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **huis:** Qesh
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** 
+- **gezag_van:** 
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** HUI-qesh-Z6
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **huis:** Kaldra van de Zoutkust
+- **ouder:** Kaldra
+- **ontstaan:** 881
+- **aanspraak:** lading
+- **gezag_van:** 881
+- **gezag_tot:** 1021
+- **gevallen:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **huis:** Kharvos van Saelith
+- **ouder:** Kharvos
+- **ontstaan:** 1021
+- **aanspraak:** zwaard
+- **gezag_van:** 1021
+- **gezag_tot:** 1841
+- **gevallen:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **huis:** Kharvos van de Zoutkust
+- **ouder:** Kharvos
+- **ontstaan:** 1841
+- **aanspraak:** zwaard
+- **gezag_van:** 1841
+- **gezag_tot:** 2021
+- **gevallen:** 2021
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **huis:** Varenne
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** bestaand gezag in 801
+- **gezag_van:** 801
+- **gezag_tot:** 861
+- **gevallen:** 
+- **canon_code:** HUI-varenne
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **huis:** Kaldra
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** geld
+- **gezag_van:** 1201
+- **gezag_tot:** 1801
+- **gevallen:** 1801
+- **canon_code:** HUI-kaldra-Z6
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **huis:** Mirre
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** 
+- **gezag_van:** 
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** HUI-mirre
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **huis:** Qesh
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** 
+- **gezag_van:** 
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** HUI-qesh-Z6
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **huis:** Kharvos van Groenmuil
+- **ouder:** Kharvos
+- **ontstaan:** 861
+- **aanspraak:** zwaard
+- **gezag_van:** 861
+- **gezag_tot:** 1201
+- **gevallen:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **huis:** Kharvos van Saelith
+- **ouder:** Kharvos
+- **ontstaan:** 1801
+- **aanspraak:** zwaard
+- **gezag_van:** 1801
+- **gezag_tot:** 1861
+- **gevallen:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **huis:** Kharvos van de Stille eilanden
+- **ouder:** Kharvos van Saelith
+- **ontstaan:** 1861
+- **aanspraak:** geld
+- **gezag_van:** 1861
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **huis:** Varenne
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** bestaand gezag in 801
+- **gezag_van:** 801
+- **gezag_tot:** 1001
+- **gevallen:** 1001
+- **canon_code:** HUI-varenne
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **huis:** Kaldra
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** lading
+- **gezag_van:** 1321
+- **gezag_tot:** 2361
+- **gevallen:** 2361
+- **canon_code:** HUI-kaldra-Z6
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **huis:** Mirre
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** 
+- **gezag_van:** 
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** HUI-mirre
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **huis:** Qesh
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** zwaard
+- **gezag_van:** 2361
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** HUI-qesh-Z6
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **huis:** Kharvos van Saelith
+- **ouder:** Kharvos
+- **ontstaan:** 1001
+- **aanspraak:** zwaard
+- **gezag_van:** 1001
+- **gezag_tot:** 1321
+- **gevallen:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **huis:** Varenne
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** bestaand gezag in 801
+- **gezag_van:** 801
+- **gezag_tot:** 1401
+- **gevallen:** 1401
+- **canon_code:** HUI-varenne
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **huis:** Kaldra
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** geld
+- **gezag_van:** 1921
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** HUI-kaldra-Z6
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **huis:** Mirre
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** 
+- **gezag_van:** 
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** HUI-mirre
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **huis:** Qesh
+- **ouder:** 
+- **ontstaan:** 801
+- **aanspraak:** 
+- **gezag_van:** 
+- **gezag_tot:** 
+- **gevallen:** 
+- **canon_code:** HUI-qesh-Z6
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_huis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **huis:** Kharvos van de Stille eilanden
+- **ouder:** Kharvos
+- **ontstaan:** 1401
+- **aanspraak:** zwaard
+- **gezag_van:** 1401
+- **gezag_tot:** 1921
+- **gevallen:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
 
 <!-- SECTIE: TECH_KNOOP -->

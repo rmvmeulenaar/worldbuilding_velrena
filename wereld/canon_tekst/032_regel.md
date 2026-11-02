@@ -477,7 +477,7 @@
 - **code:** R-tech_boom
 - **domein:** simulatie
 - **omschrijving:** Elke mogelijke knoop van de technologieboom heeft materiaal, noodzaak, uitvinder, gevolg, prijs en een bron, en haar vereisten bestaan in de boom; elke onmogelijke of onnodige knoop heeft een reden.
-- **sql_test:** select code,'knoop onvolledig of vereiste bestaat niet' from tech_knoop k where (status='mogelijk' and (materiaal is null or noodzaak is null or uitvinder is null or gevolg is null or prijs is null or bron is null)) or (status in ('onmogelijk','onnodig','onmogelijk en onnodig') and reden is null) union select k.code,'vereiste '||v.value||' bestaat niet' from tech_knoop k, json_each('["'||replace(coalesce(k.vereist,''),';','","')||'"]') v where v.value!='' and v.value not in (select code from tech_knoop)
+- **sql_test:** select code,'knoop onvolledig of vereiste bestaat niet' from tech_knoop k where (status='mogelijk' and (materiaal is null or noodzaak is null or uitvinder is null or gevolg is null or prijs is null or bron is null)) or (status!='mogelijk' and reden is null) union select k.code,'vereiste '||v.value||' bestaat niet' from tech_knoop k, json_each('["'||replace(replace(coalesce(k.vereist,''),'|',';'),';','","')||'"]') v where v.value!='' and v.value not in (select code from tech_knoop)
 - **bron:** r_Z44.py (review 1 van Z42, blok H)
 - **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
 - **status:** actief
@@ -493,6 +493,39 @@
 - **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
 - **status:** actief
 - **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-tech_gebruik · Elke mogelijke knoop zegt waar ze voor gebruikt wordt, door wie, waar ze in onze wereld op lijkt, in welk tijdperk en of ze magisch is.
+- **code:** R-tech_gebruik
+- **domein:** simulatie
+- **omschrijving:** Elke mogelijke knoop zegt waar ze voor gebruikt wordt, door wie, waar ze in onze wereld op lijkt, in welk tijdperk en of ze magisch is.
+- **sql_test:** select code,'knoop zonder gebruik, voor wie, aards equivalent, tijdperk of soort' from tech_knoop where status='mogelijk' and (gebruik is null or voor_wie is null or aards is null or tijdperk is null or soort is null)
+- **bron:** r_Z45.py (Rogier 2026-11-02: meetbaar effect, gebruik, gewone tijd)
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-sim_effect · Elke gesimuleerde uitvinding van Z45 heeft een meetbaar gevolg (toestand of macht) en de druk van haar probleem bij de uitvinding en 100 jaar later.
+- **code:** R-sim_effect
+- **domein:** simulatie
+- **omschrijving:** Elke gesimuleerde uitvinding van Z45 heeft een meetbaar gevolg (toestand of macht) en de druk van haar probleem bij de uitvinding en 100 jaar later.
+- **sql_test:** select run_id||':'||knoop,'uitvinding zonder meetbaar gevolg of meting van haar probleem' from sim_uitvinding where module='geschiedenis_z45' and (druk_voor is null or druk_na is null or (json_extract(gevolg,'$.toestand')='{}' and json_extract(gevolg,'$.macht')='{}'))
+- **bron:** r_Z45.py (Rogier 2026-11-02: meetbaar effect, gebruik, gewone tijd)
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-sim_convergentie · Signaal: minder dan 80 procent van de Z45-geschiedenissen bereikt Het Gewone vóór 5000.
+- **code:** R-sim_convergentie
+- **domein:** simulatie
+- **omschrijving:** Signaal: minder dan 80 procent van de Z45-geschiedenissen bereikt Het Gewone vóór 5000.
+- **sql_test:** select 'geschiedenis_z45','maar '||round(100.0*sum(json_extract(scores,'$.gewoon') is not null)/count(*))||'% bereikt Het Gewone' from sim_run where module='geschiedenis_z45' group by module having 1.0*sum(json_extract(scores,'$.gewoon') is not null)/count(*)<0.8
+- **bron:** r_Z45.py
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** signaal
 <!-- /REC -->
 
 <!-- SECTIE: BOOG -->

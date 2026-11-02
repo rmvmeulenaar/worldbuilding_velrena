@@ -3653,5 +3653,1877 @@
 - **canon_code:** 
 - **epistemiek:** simulatie (Z44-GESCH-0013, seed 420013)
 <!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** WET-deelwet-recht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 1041
+- **vervalt_door:** er zijn weer genoeg mannen (verhouding boven 12%)
+- **canon_code:** WET-deelwet-recht
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** WET-erfrecht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-erfrecht
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-gewone-man
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 1421
+- **vervalt_door:** mannen zijn geen schaars bezit meer (verhouding boven 25%)
+- **canon_code:** WET-wie-gewone-man
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-gaven-man
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-wie-gaven-man
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** RECHT-gavenrecht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 801
+- **vervalt_door:** de Hoge Moeder kan na de val van de Orde niemand meer berechten
+- **canon_code:** RECHT-gavenrecht
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-vreemd-volk
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-wie-vreemd-volk
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** WET-grijswortel
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-grijswortel
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-weigert
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-wie-weigert
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** W-huwelijk
+- **tekst:** Een man en een vrouw mogen weer trouwen
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de moederraden
+- **aanleiding:** verhouding boven 12%
+- **van:** 1041
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** W-schuldrecht
+- **tekst:** Staatsschuld is verhandelbaar
+- **wetgever:** de bankiers
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.196
+- **rechtsgebied:** wereld
+- **handhaver:** de schuldboeken van de steden
+- **aanleiding:** bankroet in 1301
+- **van:** 1301
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** W-nachtwet
+- **tekst:** Niemand slaapt alleen; een open raam na zonsondergang wordt beboet
+- **wetgever:** de dorpsmoeders
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.209
+- **rechtsgebied:** dorp
+- **handhaver:** de dorpsmoeders
+- **aanleiding:** wezens in 1361
+- **van:** 1361
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** W-mannenbezit
+- **tekst:** Een man mag bezit hebben en getuigen
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.206
+- **rechtsgebied:** Velmara
+- **handhaver:** de gerechten
+- **aanleiding:** verhouding boven 25%
+- **van:** 1421
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** W-ringrecht
+- **tekst:** Wie besmet is, woont in de buitenring
+- **wetgever:** de artsenkloosters
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.222
+- **rechtsgebied:** stad
+- **handhaver:** de stadswacht
+- **aanleiding:** epidemie in 1581
+- **van:** 1581
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** W-gelijkerfrecht
+- **tekst:** Zonen en dochters erven gelijk
+- **wetgever:** de steden
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.217
+- **rechtsgebied:** Velmara
+- **handhaver:** de gerechten
+- **aanleiding:** verhouding boven 40%
+- **van:** 2241
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** W-lijnwet
+- **tekst:** Dragers trouwen alleen met dragers
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.198
+- **rechtsgebied:** huis
+- **handhaver:** de registers van de huizen
+- **aanleiding:** opleving in 2261
+- **van:** 2261
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** W-vrijgeloof
+- **tekst:** Geloof is een eigen zaak
+- **wetgever:** de geleerden
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.21
+- **rechtsgebied:** stad
+- **handhaver:** niemand
+- **aanleiding:** geloof in 3121
+- **van:** 3121
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** W-schipwaar
+- **tekst:** Het schip is erkend als geschiedenis
+- **wetgever:** de geleerden
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.219
+- **rechtsgebied:** wereld
+- **handhaver:** de geleerden
+- **aanleiding:** vondst in 3261
+- **van:** 3261
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **wet:** W-artsenrecht
+- **tekst:** Alleen het artsengilde mag lijken openen
+- **wetgever:** de artsen
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.31
+- **rechtsgebied:** stad
+- **handhaver:** de stadsraad die het gilde erkent
+- **aanleiding:** epidemie in 4281
+- **van:** 4281
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **wet:** WET-deelwet-recht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 941
+- **vervalt_door:** er zijn weer genoeg mannen (verhouding boven 12%)
+- **canon_code:** WET-deelwet-recht
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **wet:** WET-erfrecht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-erfrecht
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-gewone-man
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 1141
+- **vervalt_door:** mannen zijn geen schaars bezit meer (verhouding boven 25%)
+- **canon_code:** WET-wie-gewone-man
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-gaven-man
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-wie-gaven-man
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **wet:** RECHT-gavenrecht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 801
+- **vervalt_door:** de Hoge Moeder kan na de val van de Orde niemand meer berechten
+- **canon_code:** RECHT-gavenrecht
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-vreemd-volk
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-wie-vreemd-volk
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **wet:** WET-grijswortel
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-grijswortel
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-weigert
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-wie-weigert
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **wet:** W-huwelijk
+- **tekst:** Een man en een vrouw mogen weer trouwen
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.26
+- **rechtsgebied:** Velmara
+- **handhaver:** de moederraden
+- **aanleiding:** verhouding boven 12%
+- **van:** 941
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **wet:** W-mannenbezit
+- **tekst:** Een man mag bezit hebben en getuigen
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.276
+- **rechtsgebied:** Velmara
+- **handhaver:** de gerechten
+- **aanleiding:** verhouding boven 25%
+- **van:** 1141
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **wet:** W-schuldrecht
+- **tekst:** Staatsschuld is verhandelbaar
+- **wetgever:** de bankiers
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.199
+- **rechtsgebied:** wereld
+- **handhaver:** de schuldboeken van de steden
+- **aanleiding:** bankroet in 1341
+- **van:** 1341
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **wet:** W-lijnwet
+- **tekst:** Dragers trouwen alleen met dragers
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.283
+- **rechtsgebied:** huis
+- **handhaver:** de registers van de huizen
+- **aanleiding:** opleving in 1441
+- **van:** 1441
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **wet:** W-gelijkerfrecht
+- **tekst:** Zonen en dochters erven gelijk
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.281
+- **rechtsgebied:** Velmara
+- **handhaver:** de gerechten
+- **aanleiding:** verhouding boven 40%
+- **van:** 1561
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **wet:** W-ladingkroon
+- **tekst:** De kroon gaat naar de sterkste drager
+- **wetgever:** de dragers
+- **macht_sleutel:** dragers
+- **wetgever_macht:** 0.38
+- **rechtsgebied:** rijk
+- **handhaver:** de dragerswacht
+- **aanleiding:** opleving in 2861
+- **van:** 2861
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **wet:** W-vrijgeloof
+- **tekst:** Geloof is een eigen zaak
+- **wetgever:** de geleerden
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.203
+- **rechtsgebied:** stad
+- **handhaver:** niemand
+- **aanleiding:** geloof in 2961
+- **van:** 2961
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **wet:** W-schipwaar
+- **tekst:** Het schip is erkend als geschiedenis
+- **wetgever:** de geleerden
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.214
+- **rechtsgebied:** wereld
+- **handhaver:** de geleerden
+- **aanleiding:** vondst in 3041
+- **van:** 3041
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** WET-deelwet-recht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 921
+- **vervalt_door:** er zijn weer genoeg mannen (verhouding boven 12%)
+- **canon_code:** WET-deelwet-recht
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** WET-erfrecht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-erfrecht
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-gewone-man
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 1121
+- **vervalt_door:** mannen zijn geen schaars bezit meer (verhouding boven 25%)
+- **canon_code:** WET-wie-gewone-man
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-gaven-man
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-wie-gaven-man
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** RECHT-gavenrecht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 801
+- **vervalt_door:** de Hoge Moeder kan na de val van de Orde niemand meer berechten
+- **canon_code:** RECHT-gavenrecht
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-vreemd-volk
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 1961
+- **vervalt_door:** opgeheven door een raad van vrouwen (De Orrim krijgen het recht op hun doden)
+- **canon_code:** WET-wie-vreemd-volk
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** WET-grijswortel
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-grijswortel
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-weigert
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-wie-weigert
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** W-ladingkroon
+- **tekst:** De kroon gaat naar de sterkste drager
+- **wetgever:** de dragers
+- **macht_sleutel:** dragers
+- **wetgever_macht:** 0.309
+- **rechtsgebied:** rijk
+- **handhaver:** de dragerswacht
+- **aanleiding:** opleving in 881
+- **van:** 881
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** W-huwelijk
+- **tekst:** Een man en een vrouw mogen weer trouwen
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.216
+- **rechtsgebied:** Velmara
+- **handhaver:** de moederraden
+- **aanleiding:** verhouding boven 12%
+- **van:** 921
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** W-mannenbezit
+- **tekst:** Een man mag bezit hebben en getuigen
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.209
+- **rechtsgebied:** Velmara
+- **handhaver:** de gerechten
+- **aanleiding:** verhouding boven 25%
+- **van:** 1121
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** W-gelijkerfrecht
+- **tekst:** Zonen en dochters erven gelijk
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.153
+- **rechtsgebied:** Velmara
+- **handhaver:** de gerechten
+- **aanleiding:** verhouding boven 40%
+- **van:** 1541
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** W-orrimgroeve
+- **tekst:** Orrim mogen hun groeve niet verlaten; hun doden zijn mijnbezit (donker thema: gevangenschap, niet-seksueel)
+- **wetgever:** de mijnhuizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.135
+- **rechtsgebied:** rijk
+- **handhaver:** de mijnwachten
+- **aanleiding:** orrim in 1721
+- **van:** 1721
+- **tot:** 1961
+- **vervalt_door:** opgeheven door een raad van vrouwen (De Orrim krijgen het recht op hun doden)
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** W-orrimdoden
+- **tekst:** De Orrim houden hun doden; mijnen in een groeve is grafroof
+- **wetgever:** een raad van vrouwen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.139
+- **rechtsgebied:** rijk
+- **handhaver:** de moederraden
+- **aanleiding:** orrim in 1961
+- **van:** 1961
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** W-artsenrecht
+- **tekst:** Alleen het artsengilde mag lijken openen
+- **wetgever:** de artsen
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.103
+- **rechtsgebied:** stad
+- **handhaver:** de stadsraad die het gilde erkent
+- **aanleiding:** epidemie in 2121
+- **van:** 2121
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** W-ringrecht
+- **tekst:** Wie besmet is, woont in de buitenring
+- **wetgever:** de artsenkloosters
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.132
+- **rechtsgebied:** stad
+- **handhaver:** de stadswacht
+- **aanleiding:** epidemie in 2461
+- **van:** 2461
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** W-schipwaar
+- **tekst:** Het schip is erkend als geschiedenis
+- **wetgever:** de geleerden
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.178
+- **rechtsgebied:** wereld
+- **handhaver:** de geleerden
+- **aanleiding:** vondst in 2961
+- **van:** 2961
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **wet:** W-vrijgeloof
+- **tekst:** Geloof is een eigen zaak
+- **wetgever:** de geleerden
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.183
+- **rechtsgebied:** stad
+- **handhaver:** niemand
+- **aanleiding:** geloof in 3021
+- **van:** 3021
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** WET-deelwet-recht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 921
+- **vervalt_door:** er zijn weer genoeg mannen (verhouding boven 12%)
+- **canon_code:** WET-deelwet-recht
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** WET-erfrecht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-erfrecht
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-gewone-man
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 1101
+- **vervalt_door:** mannen zijn geen schaars bezit meer (verhouding boven 25%)
+- **canon_code:** WET-wie-gewone-man
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-gaven-man
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-wie-gaven-man
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** RECHT-gavenrecht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 801
+- **vervalt_door:** de Hoge Moeder kan na de val van de Orde niemand meer berechten
+- **canon_code:** RECHT-gavenrecht
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-vreemd-volk
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-wie-vreemd-volk
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** WET-grijswortel
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-grijswortel
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-weigert
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-wie-weigert
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** W-huwelijk
+- **tekst:** Een man en een vrouw mogen weer trouwen
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.271
+- **rechtsgebied:** Velmara
+- **handhaver:** de moederraden
+- **aanleiding:** verhouding boven 12%
+- **van:** 921
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** W-mannenbezit
+- **tekst:** Een man mag bezit hebben en getuigen
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.259
+- **rechtsgebied:** Velmara
+- **handhaver:** de gerechten
+- **aanleiding:** verhouding boven 25%
+- **van:** 1101
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** W-zegelplicht
+- **tekst:** Wie het kleine zegel dient, laat zich in de steen binden, zoals de Dochters in jaar 0 (donker thema; geen seksuele rite)
+- **wetgever:** wie de fragmenten heeft
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.241
+- **rechtsgebied:** rijk
+- **handhaver:** de wachters van de steen
+- **aanleiding:** opleving in 1141
+- **van:** 1141
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** W-schuldrecht
+- **tekst:** Staatsschuld is verhandelbaar
+- **wetgever:** de bankiers
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.186
+- **rechtsgebied:** wereld
+- **handhaver:** de schuldboeken van de steden
+- **aanleiding:** bankroet in 1201
+- **van:** 1201
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** W-ringrecht
+- **tekst:** Wie besmet is, woont in de buitenring
+- **wetgever:** de artsenkloosters
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.215
+- **rechtsgebied:** stad
+- **handhaver:** de stadswacht
+- **aanleiding:** epidemie in 1261
+- **van:** 1261
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** W-nachtwet
+- **tekst:** Niemand slaapt alleen; een open raam na zonsondergang wordt beboet
+- **wetgever:** de dorpsmoeders
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.201
+- **rechtsgebied:** dorp
+- **handhaver:** de dorpsmoeders
+- **aanleiding:** wezens in 1321
+- **van:** 1321
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** W-artsenrecht
+- **tekst:** Alleen het artsengilde mag lijken openen
+- **wetgever:** de artsen
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.206
+- **rechtsgebied:** stad
+- **handhaver:** de stadsraad die het gilde erkent
+- **aanleiding:** epidemie in 1461
+- **van:** 1461
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** W-gelijkerfrecht
+- **tekst:** Zonen en dochters erven gelijk
+- **wetgever:** de steden
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.206
+- **rechtsgebied:** Velmara
+- **handhaver:** de gerechten
+- **aanleiding:** verhouding boven 40%
+- **van:** 1481
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** W-orrimgroeve
+- **tekst:** Orrim mogen hun groeve niet verlaten; hun doden zijn mijnbezit (donker thema: gevangenschap, niet-seksueel)
+- **wetgever:** de mijnhuizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.138
+- **rechtsgebied:** rijk
+- **handhaver:** de mijnwachten
+- **aanleiding:** orrim in 2201
+- **van:** 2201
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** W-vrijgeloof
+- **tekst:** Geloof is een eigen zaak
+- **wetgever:** de geleerden
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.347
+- **rechtsgebied:** stad
+- **handhaver:** niemand
+- **aanleiding:** geloof in 2321
+- **van:** 2321
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **wet:** W-schipwaar
+- **tekst:** Het schip is erkend als geschiedenis
+- **wetgever:** de geleerden
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.35
+- **rechtsgebied:** wereld
+- **handhaver:** de geleerden
+- **aanleiding:** vondst in 2541
+- **van:** 2541
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** WET-deelwet-recht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 1041
+- **vervalt_door:** er zijn weer genoeg mannen (verhouding boven 12%)
+- **canon_code:** WET-deelwet-recht
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** WET-erfrecht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-erfrecht
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-gewone-man
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 1421
+- **vervalt_door:** mannen zijn geen schaars bezit meer (verhouding boven 25%)
+- **canon_code:** WET-wie-gewone-man
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-gaven-man
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-wie-gaven-man
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** RECHT-gavenrecht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 801
+- **vervalt_door:** de Hoge Moeder kan na de val van de Orde niemand meer berechten
+- **canon_code:** RECHT-gavenrecht
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-vreemd-volk
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 2121
+- **vervalt_door:** opgeheven door een raad van vrouwen (De Orrim krijgen het recht op hun doden)
+- **canon_code:** WET-wie-vreemd-volk
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** WET-grijswortel
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-grijswortel
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-weigert
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-wie-weigert
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** W-huwelijk
+- **tekst:** Een man en een vrouw mogen weer trouwen
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.321
+- **rechtsgebied:** Velmara
+- **handhaver:** de moederraden
+- **aanleiding:** verhouding boven 12%
+- **van:** 1041
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** W-ladingkroon
+- **tekst:** De kroon gaat naar de sterkste drager
+- **wetgever:** de dragers
+- **macht_sleutel:** dragers
+- **wetgever_macht:** 0.465
+- **rechtsgebied:** rijk
+- **handhaver:** de dragerswacht
+- **aanleiding:** opleving in 1321
+- **van:** 1321
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** W-mannenbezit
+- **tekst:** Een man mag bezit hebben en getuigen
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.189
+- **rechtsgebied:** Velmara
+- **handhaver:** de gerechten
+- **aanleiding:** verhouding boven 25%
+- **van:** 1421
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** W-lijnwet
+- **tekst:** Dragers trouwen alleen met dragers
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.214
+- **rechtsgebied:** huis
+- **handhaver:** de registers van de huizen
+- **aanleiding:** opleving in 1741
+- **van:** 1741
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** W-orrimgroeve
+- **tekst:** Orrim mogen hun groeve niet verlaten; hun doden zijn mijnbezit (donker thema: gevangenschap, niet-seksueel)
+- **wetgever:** de mijnhuizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.199
+- **rechtsgebied:** rijk
+- **handhaver:** de mijnwachten
+- **aanleiding:** orrim in 1921
+- **van:** 1921
+- **tot:** 2121
+- **vervalt_door:** opgeheven door een raad van vrouwen (De Orrim krijgen het recht op hun doden)
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** W-orrimdoden
+- **tekst:** De Orrim houden hun doden; mijnen in een groeve is grafroof
+- **wetgever:** een raad van vrouwen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.186
+- **rechtsgebied:** rijk
+- **handhaver:** de moederraden
+- **aanleiding:** orrim in 2121
+- **van:** 2121
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** W-gelijkerfrecht
+- **tekst:** Zonen en dochters erven gelijk
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.183
+- **rechtsgebied:** Velmara
+- **handhaver:** de gerechten
+- **aanleiding:** verhouding boven 40%
+- **van:** 2241
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** W-vrijgeloof
+- **tekst:** Geloof is een eigen zaak
+- **wetgever:** de geleerden
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.141
+- **rechtsgebied:** stad
+- **handhaver:** niemand
+- **aanleiding:** geloof in 3741
+- **van:** 3741
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **wet:** W-schipwaar
+- **tekst:** Het schip is erkend als geschiedenis
+- **wetgever:** de geleerden
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.179
+- **rechtsgebied:** wereld
+- **handhaver:** de geleerden
+- **aanleiding:** vondst in 4001
+- **van:** 4001
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **wet:** WET-deelwet-recht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 901
+- **vervalt_door:** er zijn weer genoeg mannen (verhouding boven 12%)
+- **canon_code:** WET-deelwet-recht
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **wet:** WET-erfrecht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-erfrecht
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-gewone-man
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 1061
+- **vervalt_door:** mannen zijn geen schaars bezit meer (verhouding boven 25%)
+- **canon_code:** WET-wie-gewone-man
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-gaven-man
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-wie-gaven-man
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **wet:** RECHT-gavenrecht
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 801
+- **vervalt_door:** de Hoge Moeder kan na de val van de Orde niemand meer berechten
+- **canon_code:** RECHT-gavenrecht
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-vreemd-volk
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-wie-vreemd-volk
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **wet:** WET-grijswortel
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-grijswortel
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **wet:** WET-wie-weigert
+- **tekst:** canonwet bij 801
+- **wetgever:** de Orde en de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.254
+- **rechtsgebied:** Velmara
+- **handhaver:** de Orde en de huisgerechten
+- **aanleiding:** geldend recht in 801
+- **van:** 801
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** WET-wie-weigert
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **wet:** W-huwelijk
+- **tekst:** Een man en een vrouw mogen weer trouwen
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.243
+- **rechtsgebied:** Velmara
+- **handhaver:** de moederraden
+- **aanleiding:** verhouding boven 12%
+- **van:** 901
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **wet:** W-mannenbezit
+- **tekst:** Een man mag bezit hebben en getuigen
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.234
+- **rechtsgebied:** Velmara
+- **handhaver:** de gerechten
+- **aanleiding:** verhouding boven 25%
+- **van:** 1061
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **wet:** W-gelijkerfrecht
+- **tekst:** Zonen en dochters erven gelijk
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.236
+- **rechtsgebied:** Velmara
+- **handhaver:** de gerechten
+- **aanleiding:** verhouding boven 40%
+- **van:** 1421
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **wet:** W-ringrecht
+- **tekst:** Wie besmet is, woont in de buitenring
+- **wetgever:** de artsenkloosters
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.137
+- **rechtsgebied:** stad
+- **handhaver:** de stadswacht
+- **aanleiding:** epidemie in 1861
+- **van:** 1861
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **wet:** W-schuldrecht
+- **tekst:** Staatsschuld is verhandelbaar
+- **wetgever:** de bankiers
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.215
+- **rechtsgebied:** wereld
+- **handhaver:** de schuldboeken van de steden
+- **aanleiding:** bankroet in 1921
+- **van:** 1921
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **wet:** W-lijnwet
+- **tekst:** Dragers trouwen alleen met dragers
+- **wetgever:** de huizen
+- **macht_sleutel:** huizen
+- **wetgever_macht:** 0.22
+- **rechtsgebied:** huis
+- **handhaver:** de registers van de huizen
+- **aanleiding:** opleving in 2221
+- **van:** 2221
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **wet:** W-vrijgeloof
+- **tekst:** Geloof is een eigen zaak
+- **wetgever:** de geleerden
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.252
+- **rechtsgebied:** stad
+- **handhaver:** niemand
+- **aanleiding:** geloof in 3321
+- **van:** 3321
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_wet -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **wet:** W-schipwaar
+- **tekst:** Het schip is erkend als geschiedenis
+- **wetgever:** de geleerden
+- **macht_sleutel:** steden
+- **wetgever_macht:** 0.276
+- **rechtsgebied:** wereld
+- **handhaver:** de geleerden
+- **aanleiding:** vondst in 3381
+- **van:** 3381
+- **tot:** 
+- **vervalt_door:** 
+- **canon_code:** 
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
 
 <!-- SECTIE: SIM_HUIS -->

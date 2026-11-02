@@ -1715,5 +1715,70 @@
 - **bron:** r_Z44.py
 - **citaat:** Gevonden bij het bouwen van Z44: met extra voedsel uit de kweekakkers verdween de strijd van te veel edelen.
 <!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z45-kharvos · Kharvos is de brug naar gewone techniek
+- **code:** KEUZE-Z45-kharvos
+- **soort:** wereld
+- **onderwerp:** Kharvos is de brug naar gewone techniek
+- **aanbeveling:** Bevestig dat smeden, raderwerk en koper via Kharvos binnenkomen (handel, oorlog, spionage), omdat de Harrow voor machines koos.
+- **raakt:** BESLUIT-3;REG-kharvos-B1;ORIGIN-Z1-harrow
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Rogier (2026-11-02): yes, maar het moet passend zijn bij de nieuwe uitvindingen.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z45-gewoon · De wereld groeit naar een gewone tijd
+- **code:** KEUZE-Z45-gewoon
+- **soort:** wereld
+- **onderwerp:** De wereld groeit naar een gewone tijd
+- **aanbeveling:** Bevestig de eis dat minstens 80 procent van de geschiedenissen vóór 5000 Het Gewone bereikt (stoom, drukpers, elektriciteit, vaccin en spoor). Nu: 87 procent, gemiddeld rond 3661.
+- **raakt:** TECH-GESCH-12-V4
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Rogier (2026-11-02): het moet na een tijdje wel grosso modo naar de normale tijd evolueren, en niet te raar zijn.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z45-tempo · Uitvinden gaat traag tot de kennis groeit
+- **code:** KEUZE-Z45-tempo
+- **soort:** wereld
+- **onderwerp:** Uitvinden gaat traag tot de kennis groeit
+- **aanbeveling:** Bevestig het patroon: rond 0,27 grote uitvinding per eeuw in de eerste zeven eeuwen na 801, rond 1 per eeuw vlak voor Het Gewone.
+- **raakt:** TECH-GESCH-11
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Rogier (2026-11-02): in de middeleeuwen ging innovatie heel langzaam; kijk wat de patronen zijn.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z45-effect · Elke uitvinding lost iets op en verschuift macht
+- **code:** KEUZE-Z45-effect
+- **soort:** wereld
+- **onderwerp:** Elke uitvinding lost iets op en verschuift macht
+- **aanbeveling:** Bevestig dat een uitvinding wordt gemeten op het probleem waarvoor ze kwam. Nu: 99 procent heeft een meetbaar gevolg, 84 procent geeft de uitvinder meer macht, en waar het probleem speelde is het 100 jaar later in 63 procent kleiner.
+- **raakt:** TECHNO-REGEL-V4
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Rogier (2026-11-02): de uitvinding moet een meetbaar effect hebben, problemen oplossen en het verhaal voortstuwen of machtsbalansen verbeteren.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z45-kolen · Heeft Velmara steenkool?
+- **code:** KEUZE-Z45-kolen
+- **soort:** wrijving
+- **onderwerp:** Heeft Velmara steenkool?
+- **aanbeveling:** Beslis of er steenkool is. De canon zegt alleen dat er geen brandstof is voor de scheepskernen (ORIGIN-2). Zonder kolen draait stoom op hout, en dat kapt de wouden van de Aelthir.
+- **raakt:** ORIGIN-2;PLEK-Z4-nm-5-Z5b
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Correctie Z45: in Z44 las de architect ORIGIN-2 te ruim.
+<!-- /REC -->
 
 <!-- SECTIE: VERHAAL_AS -->

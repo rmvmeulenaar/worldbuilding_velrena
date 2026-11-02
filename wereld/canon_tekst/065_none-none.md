@@ -27805,5 +27805,17157 @@
 - **epistemiek:** simulatie (Z44-GESCH-0013, seed 420013)
 - **oorzaak:** GESCH-bodem
 <!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1001
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-kharvos
+- **plek_code:** -
+- **detail:** Kharvos-ambacht (gewoon). Noodzaak: invasie. Breekt: het idee dat machines van de vijand zijn. Prijs: wie Kharvos-kennis haalt, heet verrader; overlopers en spionnen betalen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1081
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-roestlak
+- **plek_code:** -
+- **detail:** Roestlak (bio). Noodzaak: bankroet. Breekt: niets direct; het maakt metaal weer bruikbaar. Prijs: lakkers ademen sporen; de lak leeft en moet gevoerd worden.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** dragers
+- **doel:** TK-vrijladen
+- **plek_code:** -
+- **detail:** Vrije laadsters gaat verloren: magie onder 0,32. Opvolger: TN-elektriciteit.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1361
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** dragers
+- **doel:** TK-vrijladen
+- **plek_code:** -
+- **detail:** Vrije laadsters (gave). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het laadmonopolie van de Registerkamer (TECHNO-TIJDLIJN fase 4). Prijs: de gever droogt uit; een geladen voorwerp kost hem dagen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2141
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-lakijzer
+- **plek_code:** -
+- **detail:** Lakijzer (metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de drager als onverslaanbare krijger. Prijs: erts is schaars en mijnwerkers sterven; zonder lak eet de schimmel het zwaard.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2241
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-kweekakker
+- **plek_code:** -
+- **detail:** Kweekakkers (bio). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de dragers als enigen die een mislukte oogst kunnen redden. Prijs: kweekstammen worden ziek door inteelt; een uitbraak kan uit de akker komen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2381
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-molen
+- **plek_code:** -
+- **detail:** Water- en windmolens (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de spiermolen als enige molen: water en wind eten niet. Prijs: molenaars worden machtig; rivieren worden bezit.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2641
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-uurwerk
+- **plek_code:** -
+- **detail:** Uurwerk en kompas (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de tempelklok als enige maat van de dag. Prijs: de kerk verliest de uren; schippers varen verder dan de Aelthir-kaarten reiken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2661
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-spiermolen
+- **plek_code:** -
+- **detail:** Spiermolens (bio). Noodzaak: honger. Breekt: de dragers als enige krachtbron naast mens en dier. Prijs: het vlees lijdt en moet eten; in een hongerjaar eet de molen eerst.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2881
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-lens
+- **plek_code:** -
+- **detail:** Glazen lenzen (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de Sterrensteen als enige lens: gewoon glas vraagt geen Orrim. Prijs: slijpers worden blind van het werk.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2961
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-drukpers
+- **plek_code:** -
+- **detail:** De drukpers (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het laatste woord van de kerk over wat waar is. Prijs: kopiisten en sporendrukkers verliezen hun brood.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** dragers
+- **doel:** TK-laadwerkplaats
+- **plek_code:** -
+- **detail:** Laadwerkplaatsen gaat verloren: magie onder 0,32. Opvolger: TN-stoom.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3081
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** dragers
+- **doel:** TK-laadwerkplaats
+- **plek_code:** -
+- **detail:** Laadwerkplaatsen (gave). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: niets; het maakt de dragers juist onmisbaar. Prijs: uitputting van de gevers; wie te vaak geeft, wordt grijs.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3121
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-lichtnet
+- **plek_code:** -
+- **detail:** Het lichtnet (zegelsteen). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de afstand tussen de kroon en haar provincies. Prijs: Orrim-steen; elk bericht is af te luisteren.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3181
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-kluisherstel
+- **plek_code:** -
+- **detail:** Kluisherstel (metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het geheim van de Orde-kluizen. Prijs: elk onderdeel is voorgoed weg; kernen stralen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3201
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-stoom
+- **plek_code:** -
+- **detail:** De stoommachine (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de spiermolen: een ketel eet hout, geen graan. Prijs: de wouden van de Aelthir worden gekapt; mijnwerkers en stokers sterven jong.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** staat
+- **doel:** TK-vleesmetaal
+- **plek_code:** -
+- **detail:** Vleesmetaal gaat verloren: magie onder 0,32. Opvolger: TN-spoor.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3261
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-vleesmetaal
+- **plek_code:** -
+- **detail:** Vleesmetaal (bio+metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de lengte van een Leegtevaart. Prijs: de worm lijdt pijn en wordt waanzinnig.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3281
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-steenlens
+- **plek_code:** -
+- **detail:** De steenlens (zegelsteen). Noodzaak: vondst. Breekt: de onzichtbaarheid van wat ziek maakt. Prijs: koud licht dat de slijper verstijft; Orrim-steen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3341
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-elektriciteit
+- **plek_code:** -
+- **detail:** Elektriciteit (gewoon). Noodzaak: geloof. Breekt: de lading als enige stroom: wat eerst een drager vroeg, vraagt nu een draad. Prijs: koper uit Kharvos maakt de buren rijk; draden lopen door heilige grond.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3381
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-kruit
+- **plek_code:** -
+- **detail:** Kruit (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de drager en de muur als zekerheid in de oorlog. Prijs: salpeter wordt gekrabd in de oude melkstallen; wie daar werkt, ademt de geschiedenis in.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3401
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-lichtcel
+- **plek_code:** -
+- **detail:** Lichtcellen (zegelsteen). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de dragers als enige krachtbron. Prijs: de vraag naar steen stijgt: meer Orrim in de groeven; de Sterrensteen barst bij overgebruik.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3481
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-spoor
+- **plek_code:** -
+- **detail:** Spoorweg en stoomschip (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de Leegteworm als enige snelle reis. Prijs: grond wordt onteigend; Wormvaarders verliezen hun vak.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** steden
+- **doel:** TK-sporenkern
+- **plek_code:** -
+- **detail:** De sporenkern gaat verloren: magie onder 0,32. Opvolger: geen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3541
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporenkern
+- **plek_code:** -
+- **detail:** De sporenkern (bio+metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de grens tussen levende en dode techniek. Prijs: verboden en onvoorspelbaar; uit de kern kan een uitbraak komen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3561
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporennet
+- **plek_code:** -
+- **detail:** Het sporennet (bio). Noodzaak: geloof. Breekt: de kerk als enige die weet wat er in het land gebeurt. Prijs: leest alleen voor verwanten; sporen in de longen van wie leest.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3601
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporendruk
+- **plek_code:** -
+- **detail:** Sporendruk (bio). Noodzaak: geloof. Breekt: de kerk als enige die schrijft en bewaart. Prijs: kopiisten verliezen hun werk; sporen in elk boek.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3661
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-telegraaf
+- **plek_code:** -
+- **detail:** Telegraaf (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het lichtnet en het echonet: een bericht heeft geen steen en geen gever meer nodig. Prijs: spiegelwachters en ringdragers worden overbodig.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-heelkweek
+- **plek_code:** -
+- **detail:** Heelkweek (bio). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de kloosters als enige plek waar je beter wordt. Prijs: organen komen van iemand; de stam verwildert als je hem niet bewaakt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3841
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-vaccin
+- **plek_code:** -
+- **detail:** Kiemleer en vaccinatie (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de schimmel als straf: onder de lens is het een levend ding. Prijs: de eerste ingeënten zijn proefpersonen; de kerk noemt het heiligschennis.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1001
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** epidemie
+- **plek_code:** -
+- **detail:** Crisis epidemie (druk 0.8, oorzaak {"schim": 0.454, "O": 0.375}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1061
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.72, oorzaak {"S": 0, "E": 1.183}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3321
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** geloof
+- **plek_code:** -
+- **detail:** Crisis geloof (druk 0.51, oorzaak {"L": 0.252, "T": 0.771}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3521
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** geloof
+- **plek_code:** -
+- **detail:** Crisis geloof (druk 0.85, oorzaak {"L": 0.168, "T": 1}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4341
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** geloof
+- **plek_code:** -
+- **detail:** Crisis geloof (druk 1.52, oorzaak {"L": 0, "T": 1.0}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 861
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 941
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** kern_valt
+- **plek_code:** -
+- **detail:** De kern onder Hoornburg valt stil. Kharvos heeft een nieuwe nodig.
+- **canon_code:** ORIGIN-Z1-harrow
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 941
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 961
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 981
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1021
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** kern_in_worm
+- **plek_code:** -
+- **detail:** Wormvaarders vinden het Harrow-teken en de reservekern in een worm.
+- **canon_code:** ORIGIN-Z1-harrow
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1141
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** negen_cellen
+- **plek_code:** -
+- **detail:** De negen cellen van Hesta duiken op uit een kluis.
+- **canon_code:** YSA-Z21-3
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1181
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1201
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1241
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1261
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1321
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** nachtplaag
+- **plek_code:** -
+- **detail:** Een winter van nachtvlerken: in elk dorp sterven slapers.
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1481
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1501
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1581
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1601
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1661
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1661
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1801
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1841
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1881
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2041
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2121
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2141
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2241
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2261
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2521
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2541
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2621
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2741
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2761
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2781
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2781
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3041
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3081
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3341
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3461
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3581
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3681
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4021
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4021
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4081
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4121
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4141
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4221
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4281
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4301
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4381
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4561
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4621
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4821
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4821
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4981
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1381
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 1381 tot 1561. Politiek: geen crisis. Economie: honger 0.913→0.942, kas 0.281→0.303. Samenleving: jongens 0.242→0.289, 1 wetten in, 1 uit, geloof 0.304→0.311. Magie: 0.465→0.408. Verhalen op de schaal van huis en dorp: romance, komedie, dorpsintrige.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1601
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 1601 tot 2241. Politiek: geen crisis. Economie: honger 0.869→0.981, kas 0.305→0.322. Samenleving: jongens 0.298→0.401, 1 wetten in, 0 uit, geloof 0.312→0.313. Magie: 0.402→0.509. Verhalen op de schaal van huis en dorp: romance, komedie, dorpsintrige.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2281
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 2281 tot 2601. Politiek: geen crisis. Economie: honger 0.975→0.958, kas 0.334→0.526. Samenleving: jongens 0.405→0.433, 0 wetten in, 0 uit, geloof 0.312→0.302. Magie: 0.585→0.442. Verhalen op de schaal van huis en dorp: romance, komedie, dorpsintrige.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2641
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 2641 tot 3101. Politiek: geen crisis. Economie: honger 0.857→0.977, kas 0.55→0.923. Samenleving: jongens 0.436→0.462, 0 wetten in, 0 uit, geloof 0.3→0.255. Magie: 0.417→0.558. Verhalen op de schaal van huis en dorp: komedie, mysterie, familiesaga.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3541
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 3541 tot 4101. Politiek: geen crisis. Economie: honger 0.956→0.974, kas 1→1. Samenleving: jongens 0.477→0.487, 0 wetten in, 0 uit, geloof 0.158→0. Magie: 0.333→0.289. Verhalen op de schaal van huis en dorp: mysterie, familiesaga, stille horror.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4361
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 4361 tot 5001. Politiek: geen crisis. Economie: honger 0.881→0.991, kas 1→1. Samenleving: jongens 0.491→0.495, 0 wetten in, 0 uit, geloof 0→0. Magie: 0.221→0.167. Verhalen op de schaal van huis en dorp: mysterie, familiesaga, stille horror.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** deels waar: Ysa en het schip ontbreken
+- **plek_code:** -
+- **detail:** Een boerendochter uit Ambergaard brak het Zegel, en de Orde viel. [waarheid: deels waar: Ysa en het schip ontbreken; trouw 0.574]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** wormvaarders
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** askouden
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** de Aelthir
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.522, "bodem": 0.151, "techniek": 0.056, "jongens": 0.061, "honger": 0.74, "kas": 0.107, "edelen": 1.169, "geloof": 0.264, "openheid": 0.286, "orrim": 0.975, "beschaving": 0.203, "tijd": "Ruwe Jaren", "heerser": "Varenne", "wetten": 7, "macht": {"staat": 0.094, "huizen": 0.258, "kerk": 0.072, "steden": 0.074, "dragers": 0.184, "buren": 0.244, "orrim": 0.037, "volk": 0.037}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 941
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.447]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 941
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** schimmelbezetenen
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 961
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heilige Lior gaf haar licht, opdat elke vrouw zelf zou kiezen. [waarheid: vervalst; trouw 0.428]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 961
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** groep
+- **plek_code:** -
+- **detail:** wormbroeders
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 961
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** groep
+- **plek_code:** -
+- **detail:** koudbloeden
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 981
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** dragerlozen: verbrande ontvangers
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.611, "bodem": 0.149, "techniek": 0.104, "jongens": 0.107, "honger": 0.842, "kas": 0, "edelen": 1.171, "geloof": 0.276, "openheid": 0.375, "orrim": 0.949, "beschaving": 0.157, "tijd": "Ruwe Jaren", "heerser": "Kharvos van de Pas", "wetten": 7, "macht": {"staat": 0.066, "huizen": 0.254, "kerk": 0.07, "steden": 0.077, "dragers": 0.254, "buren": 0.206, "orrim": 0.036, "volk": 0.036}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1081
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** groep
+- **plek_code:** -
+- **detail:** de dwalers
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.621, "bodem": 0.148, "techniek": 0.121, "jongens": 0.149, "honger": 0.887, "kas": 0, "edelen": 1.194, "geloof": 0.286, "openheid": 0.364, "orrim": 0.921, "beschaving": 0.152, "tijd": "Ruwe Jaren", "heerser": "Kharvos van de Pas", "wetten": 7, "macht": {"staat": 0.036, "huizen": 0.252, "kerk": 0.069, "steden": 0.087, "dragers": 0.252, "buren": 0.223, "orrim": 0.036, "volk": 0.044}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** groep
+- **plek_code:** -
+- **detail:** nachtvlerken in de ruïnes
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** volk
+- **plek_code:** -
+- **detail:** de wyrmen
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het nachtadel
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** groep
+- **plek_code:** -
+- **detail:** de Langlevenden
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1141
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster uitblies. [waarheid: mythe; trouw 0.289]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1181
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.265]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.919, "bodem": 0.147, "techniek": 0.157, "jongens": 0.186, "honger": 0.913, "kas": 0, "edelen": 1.225, "geloof": 0.294, "openheid": 0.352, "orrim": 0.891, "beschaving": 0.209, "tijd": "Ruwe Jaren", "heerser": "Kharvos van de Pas", "wetten": 7, "macht": {"staat": 0.013, "huizen": 0.232, "kerk": 0.063, "steden": 0.098, "dragers": 0.298, "buren": 0.217, "orrim": 0.033, "volk": 0.046}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1241
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** volk
+- **plek_code:** -
+- **detail:** de stille stoeten
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1281
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het vlerkvolk
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1281
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** monster
+- **plek_code:** -
+- **detail:** draken op de kern
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1281
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** monster
+- **plek_code:** -
+- **detail:** bloeddrinkers
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.554, "bodem": 0.147, "techniek": 0.189, "jongens": 0.219, "honger": 0.849, "kas": 0, "edelen": 1.232, "geloof": 0.301, "openheid": 0.341, "orrim": 0.857, "beschaving": 0.168, "tijd": "Ruwe Jaren", "heerser": "Kharvos van de Pas", "wetten": 7, "macht": {"staat": 0.014, "huizen": 0.236, "kerk": 0.064, "steden": 0.114, "dragers": 0.439, "buren": 0.065, "orrim": 0.034, "volk": 0.034}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.453, "bodem": 0.146, "techniek": 0.203, "jongens": 0.248, "honger": 0.924, "kas": 0.279, "edelen": 1.256, "geloof": 0.305, "openheid": 0.385, "orrim": 0.817, "beschaving": 0.178, "tijd": "Ruwe Jaren", "heerser": "Kaldra", "wetten": 9, "macht": {"staat": 0.012, "huizen": 0.206, "kerk": 0.054, "steden": 0.197, "dragers": 0.385, "buren": 0.075, "orrim": 0.029, "volk": 0.043}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1401
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** monster
+- **plek_code:** -
+- **detail:** de ondoden
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1441
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** monster
+- **plek_code:** -
+- **detail:** de merries
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1441
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het heuvelvolk
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1461
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.147]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.419, "bodem": 0.145, "techniek": 0.211, "jongens": 0.275, "honger": 0.905, "kas": 0.285, "edelen": 1.288, "geloof": 0.309, "openheid": 0.378, "orrim": 0.771, "beschaving": 0.238, "tijd": "Ruwe Jaren", "heerser": "Kaldra", "wetten": 9, "macht": {"staat": 0.011, "huizen": 0.2, "kerk": 0.047, "steden": 0.2, "dragers": 0.384, "buren": 0.091, "orrim": 0.029, "volk": 0.038}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.402, "bodem": 0.144, "techniek": 0.219, "jongens": 0.298, "honger": 0.869, "kas": 0.305, "edelen": 1.312, "geloof": 0.312, "openheid": 0.369, "orrim": 0.721, "beschaving": 0.299, "tijd": "Ruwe Jaren", "heerser": "Kaldra", "wetten": 10, "macht": {"staat": 0.011, "huizen": 0.19, "kerk": 0.038, "steden": 0.225, "dragers": 0.376, "buren": 0.103, "orrim": 0.027, "volk": 0.03}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.496, "bodem": 0.143, "techniek": 0.228, "jongens": 0.319, "honger": 0.99, "kas": 0.289, "edelen": 1.343, "geloof": 0.313, "openheid": 0.361, "orrim": 0.668, "beschaving": 0.36, "tijd": "Ruwe Jaren", "heerser": "Kaldra", "wetten": 10, "macht": {"staat": 0.01, "huizen": 0.181, "kerk": 0.034, "steden": 0.223, "dragers": 0.362, "buren": 0.115, "orrim": 0.026, "volk": 0.048}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1761
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** monster
+- **plek_code:** -
+- **detail:** het verborgen volk
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.557, "bodem": 0.141, "techniek": 0.236, "jongens": 0.338, "honger": 0.981, "kas": 0.277, "edelen": 1.378, "geloof": 0.315, "openheid": 0.351, "orrim": 0.615, "beschaving": 0.422, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 10, "macht": {"staat": 0.01, "huizen": 0.169, "kerk": 0.032, "steden": 0.215, "dragers": 0.386, "buren": 0.122, "orrim": 0.024, "volk": 0.043}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.416, "bodem": 0.14, "techniek": 0.245, "jongens": 0.355, "honger": 0.977, "kas": 0.273, "edelen": 1.407, "geloof": 0.315, "openheid": 0.34, "orrim": 0.561, "beschaving": 0.484, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 10, "macht": {"staat": 0.009, "huizen": 0.165, "kerk": 0.032, "steden": 0.218, "dragers": 0.377, "buren": 0.134, "orrim": 0.024, "volk": 0.042}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 1981
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vergeten
+- **plek_code:** -
+- **detail:** Een kinderrijm. Niemand weet meer wie Lior was. [waarheid: vergeten; trouw 0.049]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.379, "bodem": 0.139, "techniek": 0.256, "jongens": 0.37, "honger": 0.98, "kas": 0.277, "edelen": 1.432, "geloof": 0.315, "openheid": 0.327, "orrim": 0.508, "beschaving": 0.546, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 10, "macht": {"staat": 0.009, "huizen": 0.161, "kerk": 0.031, "steden": 0.22, "dragers": 0.368, "buren": 0.146, "orrim": 0.023, "volk": 0.041}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.366, "bodem": 0.138, "techniek": 0.266, "jongens": 0.384, "honger": 0.983, "kas": 0.29, "edelen": 1.454, "geloof": 0.314, "openheid": 0.313, "orrim": 0.456, "beschaving": 0.609, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 10, "macht": {"staat": 0.009, "huizen": 0.158, "kerk": 0.031, "steden": 0.223, "dragers": 0.36, "buren": 0.157, "orrim": 0.023, "volk": 0.04}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.36, "bodem": 0.137, "techniek": 0.278, "jongens": 0.396, "honger": 0.984, "kas": 0.311, "edelen": 1.474, "geloof": 0.313, "openheid": 0.299, "orrim": 0.408, "beschaving": 0.673, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 10, "macht": {"staat": 0.009, "huizen": 0.155, "kerk": 0.031, "steden": 0.226, "dragers": 0.349, "buren": 0.168, "orrim": 0.022, "volk": 0.04}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.531, "bodem": 0.136, "techniek": 0.288, "jongens": 0.407, "honger": 0.972, "kas": 0.341, "edelen": 1.49, "geloof": 0.311, "openheid": 0.133, "orrim": 0.364, "beschaving": 0.737, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 12, "macht": {"staat": 0.009, "huizen": 0.198, "kerk": 0.028, "steden": 0.208, "dragers": 0.34, "buren": 0.162, "orrim": 0.02, "volk": 0.035}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.411, "bodem": 0.135, "techniek": 0.298, "jongens": 0.417, "honger": 0.962, "kas": 0.384, "edelen": 1.501, "geloof": 0.309, "openheid": 0.114, "orrim": 0.327, "beschaving": 0.802, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 12, "macht": {"staat": 0.01, "huizen": 0.198, "kerk": 0.028, "steden": 0.213, "dragers": 0.322, "buren": 0.175, "orrim": 0.02, "volk": 0.034}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.386, "bodem": 0.135, "techniek": 0.311, "jongens": 0.426, "honger": 0.956, "kas": 0.445, "edelen": 1.507, "geloof": 0.306, "openheid": 0.094, "orrim": 0.298, "beschaving": 0.867, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 12, "macht": {"staat": 0.012, "huizen": 0.197, "kerk": 0.028, "steden": 0.216, "dragers": 0.308, "buren": 0.186, "orrim": 0.02, "volk": 0.033}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2541
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.091]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.442, "bodem": 0.134, "techniek": 0.328, "jongens": 0.433, "honger": 0.958, "kas": 0.526, "edelen": 1.512, "geloof": 0.302, "openheid": 0.076, "orrim": 0.276, "beschaving": 0.933, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 12, "macht": {"staat": 0.016, "huizen": 0.193, "kerk": 0.028, "steden": 0.217, "dragers": 0.299, "buren": 0.195, "orrim": 0.019, "volk": 0.032}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.398, "bodem": 0.134, "techniek": 0.352, "jongens": 0.44, "honger": 0.905, "kas": 0.583, "edelen": 1.501, "geloof": 0.297, "openheid": 0.063, "orrim": 0.259, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Kaldra", "wetten": 12, "macht": {"staat": 0.02, "huizen": 0.18, "kerk": 0.026, "steden": 0.209, "dragers": 0.33, "buren": 0.193, "orrim": 0.018, "volk": 0.024}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.501, "bodem": 0.134, "techniek": 0.382, "jongens": 0.447, "honger": 0.955, "kas": 0.658, "edelen": 1.504, "geloof": 0.291, "openheid": 0.057, "orrim": 0.246, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Kaldra", "wetten": 12, "macht": {"staat": 0.027, "huizen": 0.169, "kerk": 0.024, "steden": 0.205, "dragers": 0.339, "buren": 0.192, "orrim": 0.017, "volk": 0.027}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2841
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vergeten
+- **plek_code:** -
+- **detail:** Een kinderrijm. Niemand weet meer wie Lior was. [waarheid: vergeten; trouw 0.049]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 2901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.412, "bodem": 0.134, "techniek": 0.427, "jongens": 0.452, "honger": 0.976, "kas": 0.744, "edelen": 1.512, "geloof": 0.282, "openheid": 0.059, "orrim": 0.235, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Kaldra", "wetten": 12, "macht": {"staat": 0.036, "huizen": 0.164, "kerk": 0.023, "steden": 0.212, "dragers": 0.322, "buren": 0.197, "orrim": 0.016, "volk": 0.029}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.389, "bodem": 0.133, "techniek": 0.466, "jongens": 0.457, "honger": 0.983, "kas": 0.834, "edelen": 1.522, "geloof": 0.27, "openheid": 0.061, "orrim": 0.227, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Kaldra", "wetten": 12, "macht": {"staat": 0.048, "huizen": 0.16, "kerk": 0.02, "steden": 0.218, "dragers": 0.308, "buren": 0.202, "orrim": 0.016, "volk": 0.029}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.558, "bodem": 0.133, "techniek": 0.501, "jongens": 0.462, "honger": 0.977, "kas": 0.923, "edelen": 1.531, "geloof": 0.255, "openheid": 0.068, "orrim": 0.221, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Kaldra", "wetten": 12, "macht": {"staat": 0.058, "huizen": 0.147, "kerk": 0.01, "steden": 0.209, "dragers": 0.342, "buren": 0.194, "orrim": 0.015, "volk": 0.026}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3101
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.053]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.408, "bodem": 0.123, "techniek": 0.599, "jongens": 0.466, "honger": 0.974, "kas": 1, "edelen": 1.537, "geloof": 0.286, "openheid": 0.103, "orrim": 0.216, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.08, "huizen": 0.138, "kerk": 0.008, "steden": 0.211, "dragers": 0.333, "buren": 0.192, "orrim": 0.014, "volk": 0.024}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3221
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de nachtmerrie
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3221
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de draak met de schat
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3221
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de wandelende doden
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3221
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de vampier
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3221
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de feeën
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3281
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.258]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.368, "bodem": 0.123, "techniek": 0.762, "jongens": 0.469, "honger": 0.97, "kas": 1, "edelen": 1.542, "geloof": 0.259, "openheid": 0.168, "orrim": 0.213, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kaldra", "wetten": 14, "macht": {"staat": 0.106, "huizen": 0.131, "kerk": 0.008, "steden": 0.229, "dragers": 0.301, "buren": 0.19, "orrim": 0.013, "volk": 0.022}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3341
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.311]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3381
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.292]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.35, "bodem": 0.123, "techniek": 0.926, "jongens": 0.473, "honger": 0.963, "kas": 1, "edelen": 1.544, "geloof": 0.223, "openheid": 0.214, "orrim": 0.21, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kaldra", "wetten": 14, "macht": {"staat": 0.12, "huizen": 0.127, "kerk": 0.008, "steden": 0.244, "dragers": 0.277, "buren": 0.192, "orrim": 0.013, "volk": 0.022}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3461
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.344]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.337, "bodem": 0.123, "techniek": 1, "jongens": 0.475, "honger": 0.956, "kas": 1, "edelen": 1.543, "geloof": 0.177, "openheid": 0.245, "orrim": 0.208, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kaldra", "wetten": 14, "macht": {"staat": 0.145, "huizen": 0.125, "kerk": 0.007, "steden": 0.264, "dragers": 0.229, "buren": 0.197, "orrim": 0.012, "volk": 0.02}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.348, "bodem": 0.123, "techniek": 1, "jongens": 0.478, "honger": 0.957, "kas": 1, "edelen": 1.541, "geloof": 0.13, "openheid": 0.378, "orrim": 0.206, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kaldra", "wetten": 14, "macht": {"staat": 0.163, "huizen": 0.119, "kerk": 0.006, "steden": 0.268, "dragers": 0.218, "buren": 0.195, "orrim": 0.012, "volk": 0.019}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.326, "bodem": 0.123, "techniek": 1, "jongens": 0.48, "honger": 0.929, "kas": 1, "edelen": 1.536, "geloof": 0.083, "openheid": 0.486, "orrim": 0.205, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kaldra", "wetten": 14, "macht": {"staat": 0.174, "huizen": 0.114, "kerk": 0.007, "steden": 0.274, "dragers": 0.209, "buren": 0.194, "orrim": 0.011, "volk": 0.017}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.29, "bodem": 0.123, "techniek": 0.978, "jongens": 0.482, "honger": 0.957, "kas": 1, "edelen": 1.532, "geloof": 0.035, "openheid": 0.542, "orrim": 0.204, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kaldra", "wetten": 14, "macht": {"staat": 0.185, "huizen": 0.109, "kerk": 0.008, "steden": 0.28, "dragers": 0.197, "buren": 0.193, "orrim": 0.011, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 3901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.269, "bodem": 0.123, "techniek": 0.927, "jongens": 0.484, "honger": 0.997, "kas": 1, "edelen": 1.538, "geloof": 0, "openheid": 0.546, "orrim": 0.203, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 14, "macht": {"staat": 0.193, "huizen": 0.106, "kerk": 0.007, "steden": 0.287, "dragers": 0.182, "buren": 0.194, "orrim": 0.011, "volk": 0.019}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.256, "bodem": 0.123, "techniek": 0.916, "jongens": 0.486, "honger": 0.992, "kas": 1, "edelen": 1.549, "geloof": 0, "openheid": 0.564, "orrim": 0.202, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 14, "macht": {"staat": 0.2, "huizen": 0.103, "kerk": 0.006, "steden": 0.293, "dragers": 0.173, "buren": 0.195, "orrim": 0.01, "volk": 0.019}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.289, "bodem": 0.123, "techniek": 0.922, "jongens": 0.487, "honger": 0.974, "kas": 1, "edelen": 1.55, "geloof": 0, "openheid": 0.589, "orrim": 0.202, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 14, "macht": {"staat": 0.202, "huizen": 0.098, "kerk": 0.006, "steden": 0.293, "dragers": 0.182, "buren": 0.192, "orrim": 0.01, "volk": 0.017}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.244, "bodem": 0.123, "techniek": 0.967, "jongens": 0.489, "honger": 0.893, "kas": 1, "edelen": 1.524, "geloof": 0.041, "openheid": 0.622, "orrim": 0.201, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 14, "macht": {"staat": 0.206, "huizen": 0.095, "kerk": 0.006, "steden": 0.307, "dragers": 0.175, "buren": 0.191, "orrim": 0.009, "volk": 0.012}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.227, "bodem": 0.123, "techniek": 1.0, "jongens": 0.49, "honger": 0.814, "kas": 1, "edelen": 1.507, "geloof": 0, "openheid": 0.662, "orrim": 0.201, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 15, "macht": {"staat": 0.211, "huizen": 0.092, "kerk": 0.006, "steden": 0.313, "dragers": 0.169, "buren": 0.191, "orrim": 0.009, "volk": 0.009}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.217, "bodem": 0.123, "techniek": 1.0, "jongens": 0.491, "honger": 0.886, "kas": 1, "edelen": 1.481, "geloof": 0, "openheid": 0.707, "orrim": 0.201, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 15, "macht": {"staat": 0.214, "huizen": 0.089, "kerk": 0.005, "steden": 0.318, "dragers": 0.164, "buren": 0.191, "orrim": 0.009, "volk": 0.011}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.207, "bodem": 0.123, "techniek": 1.0, "jongens": 0.492, "honger": 0.95, "kas": 1, "edelen": 1.48, "geloof": 0, "openheid": 0.757, "orrim": 0.201, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 15, "macht": {"staat": 0.217, "huizen": 0.086, "kerk": 0.005, "steden": 0.322, "dragers": 0.158, "buren": 0.189, "orrim": 0.009, "volk": 0.014}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.196, "bodem": 0.123, "techniek": 1.0, "jongens": 0.493, "honger": 1.008, "kas": 1, "edelen": 1.499, "geloof": 0, "openheid": 0.808, "orrim": 0.2, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 15, "macht": {"staat": 0.22, "huizen": 0.083, "kerk": 0.005, "steden": 0.326, "dragers": 0.153, "buren": 0.188, "orrim": 0.008, "volk": 0.016}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.186, "bodem": 0.123, "techniek": 1.0, "jongens": 0.494, "honger": 0.999, "kas": 1, "edelen": 1.518, "geloof": 0, "openheid": 0.86, "orrim": 0.2, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 15, "macht": {"staat": 0.224, "huizen": 0.081, "kerk": 0.005, "steden": 0.331, "dragers": 0.148, "buren": 0.188, "orrim": 0.008, "volk": 0.015}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.175, "bodem": 0.123, "techniek": 1.0, "jongens": 0.494, "honger": 0.996, "kas": 1, "edelen": 1.534, "geloof": 0, "openheid": 0.914, "orrim": 0.2, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 15, "macht": {"staat": 0.227, "huizen": 0.078, "kerk": 0.005, "steden": 0.336, "dragers": 0.144, "buren": 0.188, "orrim": 0.008, "volk": 0.015}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.223, "bodem": 0.123, "techniek": 1.0, "jongens": 0.495, "honger": 0.98, "kas": 1, "edelen": 1.538, "geloof": 0, "openheid": 0.971, "orrim": 0.2, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 15, "macht": {"staat": 0.229, "huizen": 0.076, "kerk": 0.005, "steden": 0.341, "dragers": 0.14, "buren": 0.187, "orrim": 0.008, "volk": 0.014}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 4921
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.299]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **jaar:** 5001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.167, "bodem": 0.123, "techniek": 1.0, "jongens": 0.495, "honger": 0.991, "kas": 1, "edelen": 1.548, "geloof": 0, "openheid": 1.0, "orrim": 0.2, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 15, "macht": {"staat": 0.232, "huizen": 0.074, "kerk": 0.004, "steden": 0.346, "dragers": 0.136, "buren": 0.187, "orrim": 0.007, "volk": 0.014}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1061
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-kharvos
+- **plek_code:** -
+- **detail:** Kharvos-ambacht (gewoon). Noodzaak: invasie. Breekt: het idee dat machines van de vijand zijn. Prijs: wie Kharvos-kennis haalt, heet verrader; overlopers en spionnen betalen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1161
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-roestlak
+- **plek_code:** -
+- **detail:** Roestlak (bio). Noodzaak: bankroet. Breekt: niets direct; het maakt metaal weer bruikbaar. Prijs: lakkers ademen sporen; de lak leeft en moet gevoerd worden.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1461
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-lens
+- **plek_code:** -
+- **detail:** Glazen lenzen (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de Sterrensteen als enige lens: gewoon glas vraagt geen Orrim. Prijs: slijpers worden blind van het werk.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3581
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** dragers
+- **doel:** TK-vrijladen
+- **plek_code:** -
+- **detail:** Vrije laadsters gaat verloren: magie onder 0,32. Opvolger: TN-elektriciteit.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1601
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** dragers
+- **doel:** TK-vrijladen
+- **plek_code:** -
+- **detail:** Vrije laadsters (gave). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het laadmonopolie van de Registerkamer (TECHNO-TIJDLIJN fase 4). Prijs: de gever droogt uit; een geladen voorwerp kost hem dagen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1661
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-kweekakker
+- **plek_code:** -
+- **detail:** Kweekakkers (bio). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de dragers als enigen die een mislukte oogst kunnen redden. Prijs: kweekstammen worden ziek door inteelt; een uitbraak kan uit de akker komen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1801
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-lakijzer
+- **plek_code:** -
+- **detail:** Lakijzer (metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de drager als onverslaanbare krijger. Prijs: erts is schaars en mijnwerkers sterven; zonder lak eet de schimmel het zwaard.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1941
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-vaccin
+- **plek_code:** -
+- **detail:** Kiemleer en vaccinatie (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de schimmel als straf: onder de lens is het een levend ding. Prijs: de eerste ingeënten zijn proefpersonen; de kerk noemt het heiligschennis.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2181
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-spiermolen
+- **plek_code:** -
+- **detail:** Spiermolens (bio). Noodzaak: honger. Breekt: de dragers als enige krachtbron naast mens en dier. Prijs: het vlees lijdt en moet eten; in een hongerjaar eet de molen eerst.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2201
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-molen
+- **plek_code:** -
+- **detail:** Water- en windmolens (gewoon). Noodzaak: honger. Breekt: de spiermolen als enige molen: water en wind eten niet. Prijs: molenaars worden machtig; rivieren worden bezit.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3581
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** dragers
+- **doel:** TK-laadwerkplaats
+- **plek_code:** -
+- **detail:** Laadwerkplaatsen gaat verloren: magie onder 0,32. Opvolger: TN-stoom.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2261
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** dragers
+- **doel:** TK-laadwerkplaats
+- **plek_code:** -
+- **detail:** Laadwerkplaatsen (gave). Noodzaak: honger. Breekt: niets; het maakt de dragers juist onmisbaar. Prijs: uitputting van de gevers; wie te vaak geeft, wordt grijs.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2641
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-uurwerk
+- **plek_code:** -
+- **detail:** Uurwerk en kompas (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de tempelklok als enige maat van de dag. Prijs: de kerk verliest de uren; schippers varen verder dan de Aelthir-kaarten reiken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2781
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-stoom
+- **plek_code:** -
+- **detail:** De stoommachine (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de spiermolen: een ketel eet hout, geen graan. Prijs: de wouden van de Aelthir worden gekapt; mijnwerkers en stokers sterven jong.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2961
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-drukpers
+- **plek_code:** -
+- **detail:** De drukpers (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het laatste woord van de kerk over wat waar is. Prijs: kopiisten en sporendrukkers verliezen hun brood.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2981
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-lichtnet
+- **plek_code:** -
+- **detail:** Het lichtnet (zegelsteen). Noodzaak: geloof. Breekt: de afstand tussen de kroon en haar provincies. Prijs: Orrim-steen; elk bericht is af te luisteren.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3041
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-elektriciteit
+- **plek_code:** -
+- **detail:** Elektriciteit (gewoon). Noodzaak: geloof. Breekt: de lading als enige stroom: wat eerst een drager vroeg, vraagt nu een draad. Prijs: koper uit Kharvos maakt de buren rijk; draden lopen door heilige grond.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3061
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-kluisherstel
+- **plek_code:** -
+- **detail:** Kluisherstel (metaal). Noodzaak: vondst. Breekt: het geheim van de Orde-kluizen. Prijs: elk onderdeel is voorgoed weg; kernen stralen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3101
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-heelkweek
+- **plek_code:** -
+- **detail:** Heelkweek (bio). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de kloosters als enige plek waar je beter wordt. Prijs: organen komen van iemand; de stam verwildert als je hem niet bewaakt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3121
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-steenlens
+- **plek_code:** -
+- **detail:** De steenlens (zegelsteen). Noodzaak: vondst. Breekt: de onzichtbaarheid van wat ziek maakt. Prijs: koud licht dat de slijper verstijft; Orrim-steen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3581
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** steden
+- **doel:** TK-sporenkern
+- **plek_code:** -
+- **detail:** De sporenkern gaat verloren: magie onder 0,32. Opvolger: geen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3141
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporenkern
+- **plek_code:** -
+- **detail:** De sporenkern (bio+metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de grens tussen levende en dode techniek. Prijs: verboden en onvoorspelbaar; uit de kern kan een uitbraak komen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3581
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** staat
+- **doel:** TK-vleesmetaal
+- **plek_code:** -
+- **detail:** Vleesmetaal gaat verloren: magie onder 0,32. Opvolger: TN-spoor.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3161
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-vleesmetaal
+- **plek_code:** -
+- **detail:** Vleesmetaal (bio+metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de lengte van een Leegtevaart. Prijs: de worm lijdt pijn en wordt waanzinnig.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3201
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-spoor
+- **plek_code:** -
+- **detail:** Spoorweg en stoomschip (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de Leegteworm als enige snelle reis. Prijs: grond wordt onteigend; Wormvaarders verliezen hun vak.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3341
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-telegraaf
+- **plek_code:** -
+- **detail:** Telegraaf (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het lichtnet en het echonet: een bericht heeft geen steen en geen gever meer nodig. Prijs: spiegelwachters en ringdragers worden overbodig.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3381
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporennet
+- **plek_code:** -
+- **detail:** Het sporennet (bio). Noodzaak: geloof. Breekt: de kerk als enige die weet wat er in het land gebeurt. Prijs: leest alleen voor verwanten; sporen in de longen van wie leest.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3421
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporendruk
+- **plek_code:** -
+- **detail:** Sporendruk (bio). Noodzaak: geloof. Breekt: de kerk als enige die schrijft en bewaart. Prijs: kopiisten verliezen hun werk; sporen in elk boek.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3461
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-kruit
+- **plek_code:** -
+- **detail:** Kruit (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de drager en de muur als zekerheid in de oorlog. Prijs: salpeter wordt gekrabd in de oude melkstallen; wie daar werkt, ademt de geschiedenis in.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3481
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-lichtcel
+- **plek_code:** -
+- **detail:** Lichtcellen (zegelsteen). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de dragers als enige krachtbron. Prijs: de vraag naar steen stijgt: meer Orrim in de groeven; de Sterrensteen barst bij overgebruik.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 941
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.52, oorzaak {"S": 0.034, "E": 1.182}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1141
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.72, oorzaak {"S": 0, "E": 1.226}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3161
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** geloof
+- **plek_code:** -
+- **detail:** Crisis geloof (druk 0.52, oorzaak {"L": 0.25, "T": 0.8}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3361
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** geloof
+- **plek_code:** -
+- **detail:** Crisis geloof (druk 0.88, oorzaak {"L": 0.161, "T": 1}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1201
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1261
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1281
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** kern_valt
+- **plek_code:** -
+- **detail:** De kern onder Hoornburg valt stil. Kharvos heeft een nieuwe nodig.
+- **canon_code:** ORIGIN-Z1-harrow
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1281
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1421
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1441
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** negen_cellen
+- **plek_code:** -
+- **detail:** De negen cellen van Hesta duiken op uit een kluis.
+- **canon_code:** YSA-Z21-3
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1501
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1501
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1621
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1801
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1941
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2061
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2161
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2201
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2241
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2241
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2441
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2501
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2501
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2521
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2581
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2621
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2841
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2861
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2881
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3041
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3161
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3201
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3281
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3321
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3661
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3681
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3781
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3961
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3981
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4101
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4161
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4221
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4481
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4541
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4561
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4581
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4601
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4721
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4721
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4741
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** nachtplaag
+- **plek_code:** -
+- **detail:** Een winter van nachtvlerken: in elk dorp sterven slapers.
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4781
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4821
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** nachtplaag
+- **plek_code:** -
+- **detail:** Een winter van nachtvlerken: in elk dorp sterven slapers.
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4861
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** kern_in_worm
+- **plek_code:** -
+- **detail:** Wormvaarders vinden het Harrow-teken en de reservekern in een worm.
+- **canon_code:** ORIGIN-Z1-harrow
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4901
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 5001
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1461
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 1461 tot 2141. Politiek: geen crisis. Economie: honger 0.931→0.981, kas 0.192→0.277. Samenleving: jongens 0.377→0.471, 1 wetten in, 0 uit, geloof 0.32→0.326. Magie: 0.768→0.488. Verhalen op de schaal van huis en dorp: romance, komedie, dorpsintrige.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2181
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 2181 tot 2841. Politiek: geen crisis. Economie: honger 0.88→0.974, kas 0.295→0.845. Samenleving: jongens 0.473→0.493, 0 wetten in, 0 uit, geloof 0.326→0.271. Magie: 0.46→0.6. Verhalen op de schaal van huis en dorp: komedie, mysterie, familiesaga.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3381
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 3381 tot 5001. Politiek: geen crisis. Economie: honger 0.941→1.042, kas 1→1. Samenleving: jongens 0.498→0.5, 0 wetten in, 0 uit, geloof 0.152→0. Magie: 0.352→0.219. Verhalen op de schaal van huis en dorp: mysterie, familiesaga, stille horror.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** deels waar: Ysa en het schip ontbreken
+- **plek_code:** -
+- **detail:** Een boerendochter uit Ambergaard brak het Zegel, en de Orde viel. [waarheid: deels waar: Ysa en het schip ontbreken; trouw 0.575]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** wormvaarders
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** askouden
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** de Aelthir
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.522, "bodem": 0.151, "techniek": 0.056, "jongens": 0.103, "honger": 0.791, "kas": 0.102, "edelen": 1.181, "geloof": 0.264, "openheid": 0.286, "orrim": 0.975, "beschaving": 0.203, "tijd": "Ruwe Jaren", "heerser": "Varenne", "wetten": 7, "macht": {"staat": 0.095, "huizen": 0.26, "kerk": 0.073, "steden": 0.074, "dragers": 0.186, "buren": 0.239, "orrim": 0.037, "volk": 0.037}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 941
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heilige Lior gaf haar licht, opdat elke vrouw zelf zou kiezen. [waarheid: vervalst; trouw 0.448]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 961
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** groep
+- **plek_code:** -
+- **detail:** wormbroeders
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 961
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** groep
+- **plek_code:** -
+- **detail:** koudbloeden
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 981
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** dragerlozen: verbrande ontvangers
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.507, "bodem": 0.149, "techniek": 0.062, "jongens": 0.178, "honger": 0.857, "kas": 0, "edelen": 1.19, "geloof": 0.277, "openheid": 0.272, "orrim": 0.949, "beschaving": 0.226, "tijd": "Ruwe Jaren", "heerser": "Varenne", "wetten": 7, "macht": {"staat": 0.067, "huizen": 0.263, "kerk": 0.072, "steden": 0.075, "dragers": 0.188, "buren": 0.258, "orrim": 0.038, "volk": 0.039}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1021
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.38]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.496, "bodem": 0.148, "techniek": 0.072, "jongens": 0.239, "honger": 0.897, "kas": 0, "edelen": 1.214, "geloof": 0.29, "openheid": 0.257, "orrim": 0.921, "beschaving": 0.179, "tijd": "Ruwe Jaren", "heerser": "Varenne", "wetten": 7, "macht": {"staat": 0.039, "huizen": 0.276, "kerk": 0.075, "steden": 0.082, "dragers": 0.355, "buren": 0.083, "orrim": 0.039, "volk": 0.051}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** groep
+- **plek_code:** -
+- **detail:** nachtvlerken in de ruïnes
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** volk
+- **plek_code:** -
+- **detail:** de wyrmen
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het nachtadel
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** groep
+- **plek_code:** -
+- **detail:** de Langlevenden
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1141
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.296]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.486, "bodem": 0.148, "techniek": 0.093, "jongens": 0.288, "honger": 0.923, "kas": 0, "edelen": 1.245, "geloof": 0.302, "openheid": 0.241, "orrim": 0.889, "beschaving": 0.203, "tijd": "Ruwe Jaren", "heerser": "Varenne", "wetten": 7, "macht": {"staat": 0.016, "huizen": 0.275, "kerk": 0.075, "steden": 0.09, "dragers": 0.354, "buren": 0.094, "orrim": 0.039, "volk": 0.056}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1261
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het vlerkvolk
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1261
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** monster
+- **plek_code:** -
+- **detail:** draken op de kern
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1261
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** monster
+- **plek_code:** -
+- **detail:** bloeddrinkers
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.615, "bodem": 0.147, "techniek": 0.169, "jongens": 0.328, "honger": 0.932, "kas": 0, "edelen": 1.277, "geloof": 0.311, "openheid": 0.324, "orrim": 0.853, "beschaving": 0.159, "tijd": "Ruwe Jaren", "heerser": "Kharvos van Saelith", "wetten": 7, "macht": {"staat": 0.015, "huizen": 0.267, "kerk": 0.073, "steden": 0.103, "dragers": 0.343, "buren": 0.105, "orrim": 0.038, "volk": 0.057}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.486, "bodem": 0.145, "techniek": 0.199, "jongens": 0.361, "honger": 0.934, "kas": 0.243, "edelen": 1.305, "geloof": 0.317, "openheid": 0.362, "orrim": 0.815, "beschaving": 0.218, "tijd": "Ruwe Jaren", "heerser": "Mirre", "wetten": 8, "macht": {"staat": 0.013, "huizen": 0.233, "kerk": 0.064, "steden": 0.203, "dragers": 0.3, "buren": 0.103, "orrim": 0.033, "volk": 0.05}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1401
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** monster
+- **plek_code:** -
+- **detail:** de merries
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1441
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het heuvelvolk
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1461
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.149]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.626, "bodem": 0.145, "techniek": 0.213, "jongens": 0.387, "honger": 0.861, "kas": 0.163, "edelen": 1.324, "geloof": 0.322, "openheid": 0.197, "orrim": 0.773, "beschaving": 0.278, "tijd": "Ruwe Jaren", "heerser": "Mirre", "wetten": 9, "macht": {"staat": 0.011, "huizen": 0.284, "kerk": 0.055, "steden": 0.179, "dragers": 0.312, "buren": 0.1, "orrim": 0.028, "volk": 0.03}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1501
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** schimmelbezetenen
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.486, "bodem": 0.144, "techniek": 0.227, "jongens": 0.409, "honger": 0.914, "kas": 0.119, "edelen": 1.333, "geloof": 0.325, "openheid": 0.181, "orrim": 0.727, "beschaving": 0.339, "tijd": "Ruwe Jaren", "heerser": "Mirre", "wetten": 10, "macht": {"staat": 0.011, "huizen": 0.276, "kerk": 0.053, "steden": 0.179, "dragers": 0.305, "buren": 0.109, "orrim": 0.028, "volk": 0.038}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1621
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.182]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.451, "bodem": 0.143, "techniek": 0.246, "jongens": 0.426, "honger": 0.94, "kas": 0.104, "edelen": 1.354, "geloof": 0.328, "openheid": 0.165, "orrim": 0.677, "beschaving": 0.401, "tijd": "Tijd van de kronen", "heerser": "Mirre", "wetten": 10, "macht": {"staat": 0.011, "huizen": 0.27, "kerk": 0.051, "steden": 0.18, "dragers": 0.3, "buren": 0.119, "orrim": 0.027, "volk": 0.042}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1721
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.148]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1761
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** monster
+- **plek_code:** -
+- **detail:** het verborgen volk
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.59, "bodem": 0.142, "techniek": 0.259, "jongens": 0.44, "honger": 0.946, "kas": 0.109, "edelen": 1.376, "geloof": 0.329, "openheid": 0.148, "orrim": 0.625, "beschaving": 0.464, "tijd": "Tijd van de kronen", "heerser": "Mirre", "wetten": 10, "macht": {"staat": 0.011, "huizen": 0.253, "kerk": 0.042, "steden": 0.173, "dragers": 0.333, "buren": 0.122, "orrim": 0.025, "volk": 0.041}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 1901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.471, "bodem": 0.141, "techniek": 0.268, "jongens": 0.451, "honger": 0.941, "kas": 0.134, "edelen": 1.395, "geloof": 0.329, "openheid": 0.13, "orrim": 0.572, "beschaving": 0.527, "tijd": "Tijd van de kronen", "heerser": "Mirre", "wetten": 10, "macht": {"staat": 0.011, "huizen": 0.252, "kerk": 0.038, "steden": 0.178, "dragers": 0.324, "buren": 0.133, "orrim": 0.025, "volk": 0.04}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.44, "bodem": 0.139, "techniek": 0.275, "jongens": 0.461, "honger": 0.957, "kas": 0.181, "edelen": 1.413, "geloof": 0.328, "openheid": 0.112, "orrim": 0.519, "beschaving": 0.59, "tijd": "Tijd van de kronen", "heerser": "Mirre", "wetten": 10, "macht": {"staat": 0.011, "huizen": 0.252, "kerk": 0.037, "steden": 0.182, "dragers": 0.306, "buren": 0.144, "orrim": 0.025, "volk": 0.043}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.536, "bodem": 0.138, "techniek": 0.283, "jongens": 0.468, "honger": 0.975, "kas": 0.246, "edelen": 1.434, "geloof": 0.327, "openheid": 0.092, "orrim": 0.468, "beschaving": 0.654, "tijd": "Tijd van de kronen", "heerser": "Mirre", "wetten": 10, "macht": {"staat": 0.01, "huizen": 0.251, "kerk": 0.038, "steden": 0.187, "dragers": 0.291, "buren": 0.154, "orrim": 0.025, "volk": 0.044}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.451, "bodem": 0.137, "techniek": 0.296, "jongens": 0.474, "honger": 0.974, "kas": 0.299, "edelen": 1.453, "geloof": 0.325, "openheid": 0.072, "orrim": 0.421, "beschaving": 0.719, "tijd": "Tijd van de kronen", "heerser": "Mirre", "wetten": 10, "macht": {"staat": 0.009, "huizen": 0.231, "kerk": 0.035, "steden": 0.178, "dragers": 0.331, "buren": 0.152, "orrim": 0.023, "volk": 0.04}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.509, "bodem": 0.137, "techniek": 0.32, "jongens": 0.479, "honger": 0.971, "kas": 0.329, "edelen": 1.469, "geloof": 0.323, "openheid": 0.051, "orrim": 0.376, "beschaving": 0.784, "tijd": "Tijd van de kronen", "heerser": "Mirre", "wetten": 10, "macht": {"staat": 0.009, "huizen": 0.227, "kerk": 0.035, "steden": 0.185, "dragers": 0.323, "buren": 0.159, "orrim": 0.023, "volk": 0.039}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.442, "bodem": 0.136, "techniek": 0.364, "jongens": 0.483, "honger": 0.968, "kas": 0.373, "edelen": 1.483, "geloof": 0.318, "openheid": 0.032, "orrim": 0.337, "beschaving": 0.851, "tijd": "Tijd van de steden", "heerser": "Mirre", "wetten": 10, "macht": {"staat": 0.009, "huizen": 0.222, "kerk": 0.035, "steden": 0.197, "dragers": 0.311, "buren": 0.166, "orrim": 0.022, "volk": 0.038}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.675, "bodem": 0.135, "techniek": 0.415, "jongens": 0.486, "honger": 0.908, "kas": 0.432, "edelen": 1.489, "geloof": 0.311, "openheid": 0.015, "orrim": 0.306, "beschaving": 0.92, "tijd": "Tijd van de steden", "heerser": "Mirre", "wetten": 10, "macht": {"staat": 0.009, "huizen": 0.209, "kerk": 0.033, "steden": 0.202, "dragers": 0.333, "buren": 0.165, "orrim": 0.021, "volk": 0.028}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.478, "bodem": 0.134, "techniek": 0.445, "jongens": 0.489, "honger": 0.899, "kas": 0.523, "edelen": 1.479, "geloof": 0.3, "openheid": 0.001, "orrim": 0.282, "beschaving": 0.992, "tijd": "Tijd van de steden", "heerser": "Mirre", "wetten": 10, "macht": {"staat": 0.012, "huizen": 0.203, "kerk": 0.032, "steden": 0.208, "dragers": 0.328, "buren": 0.17, "orrim": 0.02, "volk": 0.026}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2621
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.198]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.43, "bodem": 0.134, "techniek": 0.463, "jongens": 0.491, "honger": 0.946, "kas": 0.649, "edelen": 1.478, "geloof": 0.289, "openheid": 0.001, "orrim": 0.263, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Mirre", "wetten": 10, "macht": {"staat": 0.019, "huizen": 0.197, "kerk": 0.031, "steden": 0.21, "dragers": 0.319, "buren": 0.173, "orrim": 0.02, "volk": 0.031}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2781
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.145]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.415, "bodem": 0.134, "techniek": 0.486, "jongens": 0.493, "honger": 0.969, "kas": 0.788, "edelen": 1.487, "geloof": 0.276, "openheid": 0.005, "orrim": 0.249, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Mirre", "wetten": 10, "macht": {"staat": 0.031, "huizen": 0.19, "kerk": 0.03, "steden": 0.214, "dragers": 0.307, "buren": 0.176, "orrim": 0.019, "volk": 0.033}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2881
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** groep
+- **plek_code:** -
+- **detail:** de dwalers
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 2901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.572, "bodem": 0.134, "techniek": 0.52, "jongens": 0.494, "honger": 0.973, "kas": 0.93, "edelen": 1.499, "geloof": 0.262, "openheid": 0.016, "orrim": 0.238, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Kharvos van Saelith", "wetten": 11, "macht": {"staat": 0.042, "huizen": 0.163, "kerk": 0.025, "steden": 0.194, "dragers": 0.374, "buren": 0.157, "orrim": 0.016, "volk": 0.028}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.431, "bodem": 0.124, "techniek": 0.601, "jongens": 0.495, "honger": 0.976, "kas": 1, "edelen": 1.51, "geloof": 0.293, "openheid": 0.038, "orrim": 0.229, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kharvos van Saelith", "wetten": 12, "macht": {"staat": 0.061, "huizen": 0.159, "kerk": 0.009, "steden": 0.207, "dragers": 0.359, "buren": 0.161, "orrim": 0.016, "volk": 0.028}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3021
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de nachtmerrie
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3021
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de draak met de schat
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3021
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de vampier
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3021
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de feeën
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3041
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** volk
+- **plek_code:** -
+- **detail:** de stille stoeten
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3061
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.292]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.394, "bodem": 0.123, "techniek": 0.677, "jongens": 0.496, "honger": 0.978, "kas": 1, "edelen": 1.519, "geloof": 0.268, "openheid": 0.08, "orrim": 0.223, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.083, "huizen": 0.153, "kerk": 0.006, "steden": 0.222, "dragers": 0.332, "buren": 0.161, "orrim": 0.015, "volk": 0.027}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.392, "bodem": 0.123, "techniek": 0.907, "jongens": 0.497, "honger": 0.987, "kas": 1, "edelen": 1.529, "geloof": 0.236, "openheid": 0.143, "orrim": 0.218, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.116, "huizen": 0.144, "kerk": 0.009, "steden": 0.238, "dragers": 0.294, "buren": 0.158, "orrim": 0.014, "volk": 0.026}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3201
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** monster
+- **plek_code:** -
+- **detail:** de ondoden
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.386, "bodem": 0.123, "techniek": 1, "jongens": 0.497, "honger": 0.967, "kas": 1, "edelen": 1.534, "geloof": 0.189, "openheid": 0.291, "orrim": 0.214, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.139, "huizen": 0.137, "kerk": 0.008, "steden": 0.244, "dragers": 0.279, "buren": 0.156, "orrim": 0.014, "volk": 0.023}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3321
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de wandelende doden
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.346, "bodem": 0.123, "techniek": 1, "jongens": 0.498, "honger": 0.945, "kas": 1, "edelen": 1.527, "geloof": 0.142, "openheid": 0.37, "orrim": 0.211, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.157, "huizen": 0.13, "kerk": 0.008, "steden": 0.251, "dragers": 0.266, "buren": 0.154, "orrim": 0.013, "volk": 0.02}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.319, "bodem": 0.123, "techniek": 1, "jongens": 0.498, "honger": 0.96, "kas": 1, "edelen": 1.527, "geloof": 0.095, "openheid": 0.47, "orrim": 0.208, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.173, "huizen": 0.126, "kerk": 0.006, "steden": 0.261, "dragers": 0.244, "buren": 0.155, "orrim": 0.013, "volk": 0.022}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.298, "bodem": 0.123, "techniek": 0.962, "jongens": 0.499, "honger": 0.97, "kas": 1, "edelen": 1.531, "geloof": 0.048, "openheid": 0.479, "orrim": 0.206, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.193, "huizen": 0.124, "kerk": 0.009, "steden": 0.275, "dragers": 0.208, "buren": 0.158, "orrim": 0.012, "volk": 0.021}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.283, "bodem": 0.123, "techniek": 0.921, "jongens": 0.499, "honger": 0.978, "kas": 1, "edelen": 1.537, "geloof": 0.004, "openheid": 0.482, "orrim": 0.205, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.202, "huizen": 0.121, "kerk": 0.008, "steden": 0.284, "dragers": 0.193, "buren": 0.159, "orrim": 0.012, "volk": 0.021}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.271, "bodem": 0.123, "techniek": 0.913, "jongens": 0.499, "honger": 0.984, "kas": 1, "edelen": 1.545, "geloof": 0, "openheid": 0.496, "orrim": 0.204, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.21, "huizen": 0.117, "kerk": 0.007, "steden": 0.291, "dragers": 0.183, "buren": 0.159, "orrim": 0.012, "volk": 0.021}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 3901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.262, "bodem": 0.123, "techniek": 0.921, "jongens": 0.499, "honger": 0.988, "kas": 1, "edelen": 1.553, "geloof": 0, "openheid": 0.516, "orrim": 0.203, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.217, "huizen": 0.113, "kerk": 0.007, "steden": 0.297, "dragers": 0.175, "buren": 0.159, "orrim": 0.011, "volk": 0.021}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.253, "bodem": 0.123, "techniek": 0.936, "jongens": 0.499, "honger": 0.99, "kas": 1, "edelen": 1.561, "geloof": 0, "openheid": 0.541, "orrim": 0.202, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.222, "huizen": 0.109, "kerk": 0.007, "steden": 0.304, "dragers": 0.169, "buren": 0.158, "orrim": 0.011, "volk": 0.02}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.244, "bodem": 0.123, "techniek": 0.954, "jongens": 0.5, "honger": 0.991, "kas": 1, "edelen": 1.568, "geloof": 0, "openheid": 0.569, "orrim": 0.202, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.228, "huizen": 0.106, "kerk": 0.006, "steden": 0.31, "dragers": 0.163, "buren": 0.158, "orrim": 0.011, "volk": 0.019}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.236, "bodem": 0.123, "techniek": 0.974, "jongens": 0.5, "honger": 0.968, "kas": 1, "edelen": 1.568, "geloof": 0, "openheid": 0.6, "orrim": 0.201, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.233, "huizen": 0.102, "kerk": 0.006, "steden": 0.316, "dragers": 0.158, "buren": 0.157, "orrim": 0.01, "volk": 0.017}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.228, "bodem": 0.123, "techniek": 0.996, "jongens": 0.5, "honger": 0.983, "kas": 1, "edelen": 1.57, "geloof": 0, "openheid": 0.635, "orrim": 0.201, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.237, "huizen": 0.099, "kerk": 0.006, "steden": 0.322, "dragers": 0.152, "buren": 0.156, "orrim": 0.01, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.22, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.99, "kas": 1, "edelen": 1.575, "geloof": 0, "openheid": 0.672, "orrim": 0.201, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.241, "huizen": 0.096, "kerk": 0.006, "steden": 0.327, "dragers": 0.147, "buren": 0.156, "orrim": 0.01, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.211, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 1.031, "kas": 1, "edelen": 1.587, "geloof": 0, "openheid": 0.712, "orrim": 0.201, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.244, "huizen": 0.093, "kerk": 0.006, "steden": 0.332, "dragers": 0.143, "buren": 0.154, "orrim": 0.009, "volk": 0.019}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4561
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.319]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.343, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.987, "kas": 1, "edelen": 1.591, "geloof": 0, "openheid": 0.753, "orrim": 0.2, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.248, "huizen": 0.09, "kerk": 0.005, "steden": 0.339, "dragers": 0.138, "buren": 0.154, "orrim": 0.009, "volk": 0.016}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.227, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.991, "kas": 1, "edelen": 1.593, "geloof": 0, "openheid": 0.797, "orrim": 0.2, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.251, "huizen": 0.087, "kerk": 0.005, "steden": 0.344, "dragers": 0.134, "buren": 0.153, "orrim": 0.009, "volk": 0.016}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4741
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.298]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.252, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 1.013, "kas": 1, "edelen": 1.594, "geloof": 0, "openheid": 0.844, "orrim": 0.2, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.254, "huizen": 0.085, "kerk": 0.005, "steden": 0.349, "dragers": 0.13, "buren": 0.152, "orrim": 0.008, "volk": 0.017}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 4901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.402, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.999, "kas": 1, "edelen": 1.601, "geloof": 0, "openheid": 0.893, "orrim": 0.2, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.256, "huizen": 0.082, "kerk": 0.005, "steden": 0.354, "dragers": 0.127, "buren": 0.152, "orrim": 0.008, "volk": 0.016}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **jaar:** 5001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.219, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 1.042, "kas": 1, "edelen": 1.608, "geloof": 0, "openheid": 0.944, "orrim": 0.2, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van Saelith", "wetten": 13, "macht": {"staat": 0.258, "huizen": 0.08, "kerk": 0.005, "steden": 0.359, "dragers": 0.123, "buren": 0.151, "orrim": 0.008, "volk": 0.017}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3201
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** dragers
+- **doel:** TK-vrijladen
+- **plek_code:** -
+- **detail:** Vrije laadsters gaat verloren: magie onder 0,32. Opvolger: TN-elektriciteit.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1141
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** dragers
+- **doel:** TK-vrijladen
+- **plek_code:** -
+- **detail:** Vrije laadsters (gave). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het laadmonopolie van de Registerkamer (TECHNO-TIJDLIJN fase 4). Prijs: de gever droogt uit; een geladen voorwerp kost hem dagen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1261
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-kharvos
+- **plek_code:** -
+- **detail:** Kharvos-ambacht (gewoon). Noodzaak: bankroet, invasie. Breekt: het idee dat machines van de vijand zijn. Prijs: wie Kharvos-kennis haalt, heet verrader; overlopers en spionnen betalen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3201
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** dragers
+- **doel:** TK-laadwerkplaats
+- **plek_code:** -
+- **detail:** Laadwerkplaatsen gaat verloren: magie onder 0,32. Opvolger: TN-stoom.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1321
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** dragers
+- **doel:** TK-laadwerkplaats
+- **plek_code:** -
+- **detail:** Laadwerkplaatsen (gave). Noodzaak: bankroet. Breekt: niets; het maakt de dragers juist onmisbaar. Prijs: uitputting van de gevers; wie te vaak geeft, wordt grijs.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1581
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-roestlak
+- **plek_code:** -
+- **detail:** Roestlak (bio). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: niets direct; het maakt metaal weer bruikbaar. Prijs: lakkers ademen sporen; de lak leeft en moet gevoerd worden.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1941
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-lakijzer
+- **plek_code:** -
+- **detail:** Lakijzer (metaal). Noodzaak: invasie. Breekt: de drager als onverslaanbare krijger. Prijs: erts is schaars en mijnwerkers sterven; zonder lak eet de schimmel het zwaard.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3201
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** dragers
+- **doel:** TK-echonet
+- **plek_code:** -
+- **detail:** Het echonet gaat verloren: magie onder 0,32. Opvolger: TN-telegraaf.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2001
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** dragers
+- **doel:** TK-echonet
+- **plek_code:** -
+- **detail:** Het echonet (gave). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de afstand tussen hof en grens. Prijs: het net sterft met de gever.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2501
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-molen
+- **plek_code:** -
+- **detail:** Water- en windmolens (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de spiermolen als enige molen: water en wind eten niet. Prijs: molenaars worden machtig; rivieren worden bezit.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2561
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-lens
+- **plek_code:** -
+- **detail:** Glazen lenzen (gewoon). Noodzaak: epidemie. Breekt: de Sterrensteen als enige lens: gewoon glas vraagt geen Orrim. Prijs: slijpers worden blind van het werk.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2641
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-kweekakker
+- **plek_code:** -
+- **detail:** Kweekakkers (bio). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de dragers als enigen die een mislukte oogst kunnen redden. Prijs: kweekstammen worden ziek door inteelt; een uitbraak kan uit de akker komen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2781
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-spiermolen
+- **plek_code:** -
+- **detail:** Spiermolens (bio). Noodzaak: honger. Breekt: de dragers als enige krachtbron naast mens en dier. Prijs: het vlees lijdt en moet eten; in een hongerjaar eet de molen eerst.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2801
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-stoom
+- **plek_code:** -
+- **detail:** De stoommachine (gewoon). Noodzaak: honger. Breekt: de spiermolen: een ketel eet hout, geen graan. Prijs: de wouden van de Aelthir worden gekapt; mijnwerkers en stokers sterven jong.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2821
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-heelkweek
+- **plek_code:** -
+- **detail:** Heelkweek (bio). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de kloosters als enige plek waar je beter wordt. Prijs: organen komen van iemand; de stam verwildert als je hem niet bewaakt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2961
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-vaccin
+- **plek_code:** -
+- **detail:** Kiemleer en vaccinatie (gewoon). Noodzaak: epidemie. Breekt: de schimmel als straf: onder de lens is het een levend ding. Prijs: de eerste ingeënten zijn proefpersonen; de kerk noemt het heiligschennis.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2981
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporennet
+- **plek_code:** -
+- **detail:** Het sporennet (bio). Noodzaak: vondst. Breekt: de kerk als enige die weet wat er in het land gebeurt. Prijs: leest alleen voor verwanten; sporen in de longen van wie leest.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3041
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-elektriciteit
+- **plek_code:** -
+- **detail:** Elektriciteit (gewoon). Noodzaak: geloof. Breekt: de lading als enige stroom: wat eerst een drager vroeg, vraagt nu een draad. Prijs: koper uit Kharvos maakt de buren rijk; draden lopen door heilige grond.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3061
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporendruk
+- **plek_code:** -
+- **detail:** Sporendruk (bio). Noodzaak: geloof, vondst. Breekt: de kerk als enige die schrijft en bewaart. Prijs: kopiisten verliezen hun werk; sporen in elk boek.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3081
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-uurwerk
+- **plek_code:** -
+- **detail:** Uurwerk en kompas (gewoon). Noodzaak: geloof. Breekt: de tempelklok als enige maat van de dag. Prijs: de kerk verliest de uren; schippers varen verder dan de Aelthir-kaarten reiken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3141
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-drukpers
+- **plek_code:** -
+- **detail:** De drukpers (gewoon). Noodzaak: vondst. Breekt: het laatste woord van de kerk over wat waar is. Prijs: kopiisten en sporendrukkers verliezen hun brood.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3561
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-kruit
+- **plek_code:** -
+- **detail:** Kruit (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de drager en de muur als zekerheid in de oorlog. Prijs: salpeter wordt gekrabd in de oude melkstallen; wie daar werkt, ademt de geschiedenis in.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3581
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-spoor
+- **plek_code:** -
+- **detail:** Spoorweg en stoomschip (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de Leegteworm als enige snelle reis. Prijs: grond wordt onteigend; Wormvaarders verliezen hun vak.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3621
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-kluisherstel
+- **plek_code:** -
+- **detail:** Kluisherstel (metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het geheim van de Orde-kluizen. Prijs: elk onderdeel is voorgoed weg; kernen stralen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3761
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** staat
+- **doel:** TK-lichtnet
+- **plek_code:** -
+- **detail:** Het lichtnet gaat verloren: geen steen meer uit de groeven. Opvolger: TN-telegraaf.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3661
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-lichtnet
+- **plek_code:** -
+- **detail:** Het lichtnet (zegelsteen). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de afstand tussen de kroon en haar provincies. Prijs: Orrim-steen; elk bericht is af te luisteren.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3781
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** steden
+- **doel:** TK-sporenkern
+- **plek_code:** -
+- **detail:** De sporenkern gaat verloren: magie onder 0,32. Opvolger: geen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3681
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporenkern
+- **plek_code:** -
+- **detail:** De sporenkern (bio+metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de grens tussen levende en dode techniek. Prijs: verboden en onvoorspelbaar; uit de kern kan een uitbraak komen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3701
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-telegraaf
+- **plek_code:** -
+- **detail:** Telegraaf (gewoon). Noodzaak: opvolger van verloren techniek. Breekt: het lichtnet en het echonet: een bericht heeft geen steen en geen gever meer nodig. Prijs: spiegelwachters en ringdragers worden overbodig.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3861
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** steden
+- **doel:** TK-steenlens
+- **plek_code:** -
+- **detail:** De steenlens gaat verloren: geen steen meer uit de groeven. Opvolger: TN-lens.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3761
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-steenlens
+- **plek_code:** -
+- **detail:** De steenlens (zegelsteen). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de onzichtbaarheid van wat ziek maakt. Prijs: koud licht dat de slijper verstijft; Orrim-steen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3901
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** staat
+- **doel:** TK-lichtcel
+- **plek_code:** -
+- **detail:** Lichtcellen gaat verloren: geen steen meer uit de groeven. Opvolger: TN-elektriciteit.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-lichtcel
+- **plek_code:** -
+- **detail:** Lichtcellen (zegelsteen). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de dragers als enige krachtbron. Prijs: de vraag naar steen stijgt: meer Orrim in de groeven; de Sterrensteen barst bij overgebruik.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3921
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** staat
+- **doel:** TK-vleesmetaal
+- **plek_code:** -
+- **detail:** Vleesmetaal gaat verloren: magie onder 0,32. Opvolger: TN-spoor.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3821
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-vleesmetaal
+- **plek_code:** -
+- **detail:** Vleesmetaal (bio+metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de lengte van een Leegtevaart. Prijs: de worm lijdt pijn en wordt waanzinnig.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 961
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.66, oorzaak {"S": 0.01, "E": 1.195}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1241
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.72, oorzaak {"S": 0, "E": 1.26}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1601
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** invasie
+- **plek_code:** -
+- **detail:** Crisis invasie (druk 0.51, oorzaak {"buren": 0.34, "eigen": 0.0}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1661
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.72, oorzaak {"S": 0, "E": 1.379}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1781
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** epidemie
+- **plek_code:** -
+- **detail:** Crisis epidemie (druk 0.59, oorzaak {"schim": 0.4, "O": 0.237}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1901
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.72, oorzaak {"S": 0, "E": 1.435}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3221
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** geloof
+- **plek_code:** -
+- **detail:** Crisis geloof (druk 0.74, oorzaak {"L": 0.195, "T": 0.994}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 881
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** negen_cellen
+- **plek_code:** -
+- **detail:** De negen cellen van Hesta duiken op uit een kluis.
+- **canon_code:** YSA-Z21-3
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 881
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 981
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** kern_in_worm
+- **plek_code:** -
+- **detail:** Wormvaarders vinden het Harrow-teken en de reservekern in een worm.
+- **canon_code:** ORIGIN-Z1-harrow
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1021
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1061
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** kern_valt
+- **plek_code:** -
+- **detail:** De kern onder Hoornburg valt stil. Kharvos heeft een nieuwe nodig.
+- **canon_code:** ORIGIN-Z1-harrow
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1101
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1181
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1261
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1321
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1361
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1481
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1501
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1681
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1721
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1741
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1741
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1861
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1861
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1881
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1921
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1941
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1961
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1981
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2021
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2121
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2241
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2301
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2361
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2441
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2441
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2461
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2601
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2661
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2681
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2701
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2761
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2801
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2861
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2901
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2981
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3021
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3081
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3181
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3241
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3321
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3341
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3361
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3381
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3561
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3621
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3721
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3721
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3841
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3901
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3921
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4061
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4221
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4261
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4301
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4301
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4341
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4501
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4701
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4721
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4821
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4861
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4881
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4961
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4961
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2141
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 2141 tot 2441. Politiek: geen crisis. Economie: honger 0.827→0.976, kas 0.072→0.226. Samenleving: jongens 0.473→0.486, 0 wetten in, 0 uit, geloof 0.357→0.329. Magie: 0.443→0.424. Verhalen op de schaal van huis en dorp: komedie, mysterie, familiesaga.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2481
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 2481 tot 2741. Politiek: geen crisis. Economie: honger 0.821→0.977, kas 0.24→0.428. Samenleving: jongens 0.487→0.493, 0 wetten in, 0 uit, geloof 0.324→0.292. Magie: 0.392→0.428. Verhalen op de schaal van huis en dorp: komedie, mysterie, familiesaga.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3241
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 3241 tot 3901. Politiek: geen crisis. Economie: honger 0.959→1.027, kas 0.836→1. Samenleving: jongens 0.498→0.499, 0 wetten in, 0 uit, geloof 0.186→0. Magie: 0.295→0.2. Verhalen op de schaal van huis en dorp: mysterie, familiesaga, stille horror.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4001
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 4001 tot 4861. Politiek: geen crisis. Economie: honger 0.917→0.997, kas 1→1. Samenleving: jongens 0.5→0.5, 0 wetten in, 0 uit, geloof 0.041→0. Magie: 0.183→0.127. Verhalen op de schaal van huis en dorp: mysterie, familiesaga, stille horror.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** deels waar: Ysa en het schip ontbreken
+- **plek_code:** -
+- **detail:** Een boerendochter uit Ambergaard brak het Zegel, en de Orde viel. [waarheid: deels waar: Ysa en het schip ontbreken; trouw 0.573]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** wormvaarders
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** askouden
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** de Aelthir
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.887, "bodem": 0.151, "techniek": 0.055, "jongens": 0.106, "honger": 0.816, "kas": 0.106, "edelen": 1.188, "geloof": 0.264, "openheid": 0.286, "orrim": 0.975, "beschaving": 0.203, "tijd": "Ruwe Jaren", "heerser": "Kaldra van de Zoutkust", "wetten": 8, "macht": {"staat": 0.079, "huizen": 0.216, "kerk": 0.06, "steden": 0.062, "dragers": 0.308, "buren": 0.213, "orrim": 0.031, "volk": 0.031}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 921
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** dragerlozen: verbrande ontvangers
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 941
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.436]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 961
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** groep
+- **plek_code:** -
+- **detail:** wormbroeders
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 961
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** groep
+- **plek_code:** -
+- **detail:** koudbloeden
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.876, "bodem": 0.15, "techniek": 0.06, "jongens": 0.183, "honger": 0.875, "kas": 0, "edelen": 1.203, "geloof": 0.277, "openheid": 0.271, "orrim": 0.946, "beschaving": 0.226, "tijd": "Ruwe Jaren", "heerser": "Kaldra van de Zoutkust", "wetten": 8, "macht": {"staat": 0.055, "huizen": 0.214, "kerk": 0.059, "steden": 0.061, "dragers": 0.306, "buren": 0.24, "orrim": 0.031, "volk": 0.035}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1021
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** schimmelbezetenen
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1061
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** groep
+- **plek_code:** -
+- **detail:** nachtvlerken in de ruïnes
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.761, "bodem": 0.149, "techniek": 0.106, "jongens": 0.245, "honger": 0.913, "kas": 0, "edelen": 1.231, "geloof": 0.288, "openheid": 0.356, "orrim": 0.911, "beschaving": 0.18, "tijd": "Ruwe Jaren", "heerser": "Kharvos van Saelith", "wetten": 8, "macht": {"staat": 0.03, "huizen": 0.209, "kerk": 0.057, "steden": 0.062, "dragers": 0.298, "buren": 0.273, "orrim": 0.03, "volk": 0.041}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.291]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** volk
+- **plek_code:** -
+- **detail:** de wyrmen
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het nachtadel
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** groep
+- **plek_code:** -
+- **detail:** de Langlevenden
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1161
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** groep
+- **plek_code:** -
+- **detail:** de dwalers
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.532, "bodem": 0.148, "techniek": 0.111, "jongens": 0.295, "honger": 0.879, "kas": 0, "edelen": 1.252, "geloof": 0.298, "openheid": 0.34, "orrim": 0.871, "beschaving": 0.136, "tijd": "Ruwe Jaren", "heerser": "Kharvos van Saelith", "wetten": 8, "macht": {"staat": 0.012, "huizen": 0.203, "kerk": 0.053, "steden": 0.064, "dragers": 0.497, "buren": 0.108, "orrim": 0.029, "volk": 0.034}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1221
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het vlerkvolk
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1281
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** monster
+- **plek_code:** -
+- **detail:** draken op de kern
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1281
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** monster
+- **plek_code:** -
+- **detail:** bloeddrinkers
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.552, "bodem": 0.147, "techniek": 0.122, "jongens": 0.335, "honger": 0.927, "kas": 0, "edelen": 1.277, "geloof": 0.307, "openheid": 0.323, "orrim": 0.822, "beschaving": 0.162, "tijd": "Ruwe Jaren", "heerser": "Kharvos van Saelith", "wetten": 8, "macht": {"staat": 0.011, "huizen": 0.184, "kerk": 0.042, "steden": 0.064, "dragers": 0.513, "buren": 0.121, "orrim": 0.026, "volk": 0.039}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1321
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** volk
+- **plek_code:** -
+- **detail:** de stille stoeten
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1381
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** monster
+- **plek_code:** -
+- **detail:** de merries
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.608, "bodem": 0.146, "techniek": 0.15, "jongens": 0.367, "honger": 0.943, "kas": 0, "edelen": 1.307, "geloof": 0.315, "openheid": 0.305, "orrim": 0.762, "beschaving": 0.218, "tijd": "Ruwe Jaren", "heerser": "Kharvos van Saelith", "wetten": 8, "macht": {"staat": 0.01, "huizen": 0.168, "kerk": 0.033, "steden": 0.069, "dragers": 0.531, "buren": 0.128, "orrim": 0.024, "volk": 0.037}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1441
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.143]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1441
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het heuvelvolk
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1481
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** monster
+- **plek_code:** -
+- **detail:** de ondoden
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.771, "bodem": 0.144, "techniek": 0.198, "jongens": 0.393, "honger": 0.954, "kas": 0, "edelen": 1.337, "geloof": 0.32, "openheid": 0.287, "orrim": 0.694, "beschaving": 0.277, "tijd": "Ruwe Jaren", "heerser": "Kharvos van Saelith", "wetten": 8, "macht": {"staat": 0.009, "huizen": 0.154, "kerk": 0.029, "steden": 0.078, "dragers": 0.54, "buren": 0.132, "orrim": 0.022, "volk": 0.036}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.504, "bodem": 0.142, "techniek": 0.232, "jongens": 0.414, "honger": 0.957, "kas": 0, "edelen": 1.364, "geloof": 0.322, "openheid": 0.269, "orrim": 0.62, "beschaving": 0.338, "tijd": "Ruwe Jaren", "heerser": "Kharvos van Saelith", "wetten": 9, "macht": {"staat": 0.008, "huizen": 0.148, "kerk": 0.029, "steden": 0.086, "dragers": 0.528, "buren": 0.144, "orrim": 0.021, "volk": 0.035}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.435, "bodem": 0.14, "techniek": 0.251, "jongens": 0.431, "honger": 0.967, "kas": 0, "edelen": 1.39, "geloof": 0.323, "openheid": 0.252, "orrim": 0.544, "beschaving": 0.34, "tijd": "Ruwe Jaren", "heerser": "Kharvos van Saelith", "wetten": 9, "macht": {"staat": 0.008, "huizen": 0.144, "kerk": 0.028, "steden": 0.089, "dragers": 0.515, "buren": 0.159, "orrim": 0.021, "volk": 0.035}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1721
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.156]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1761
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.144]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1761
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** monster
+- **plek_code:** -
+- **detail:** het verborgen volk
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.478, "bodem": 0.138, "techniek": 0.271, "jongens": 0.444, "honger": 0.969, "kas": 0, "edelen": 1.414, "geloof": 0.322, "openheid": 0.233, "orrim": 0.468, "beschaving": 0.373, "tijd": "Ruwe Jaren", "heerser": "Kharvos van Saelith", "wetten": 10, "macht": {"staat": 0.007, "huizen": 0.128, "kerk": 0.025, "steden": 0.084, "dragers": 0.493, "buren": 0.158, "orrim": 0.073, "volk": 0.031}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.415, "bodem": 0.137, "techniek": 0.326, "jongens": 0.455, "honger": 0.972, "kas": 0, "edelen": 1.435, "geloof": 0.319, "openheid": 0.315, "orrim": 0.407, "beschaving": 0.338, "tijd": "Ruwe Jaren", "heerser": "Kharvos van de Zoutkust", "wetten": 10, "macht": {"staat": 0.008, "huizen": 0.14, "kerk": 0.028, "steden": 0.099, "dragers": 0.539, "buren": 0.071, "orrim": 0.08, "volk": 0.035}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 1921
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.18]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.637, "bodem": 0.135, "techniek": 0.335, "jongens": 0.464, "honger": 0.942, "kas": 0.011, "edelen": 1.443, "geloof": 0.365, "openheid": 0.301, "orrim": 0.37, "beschaving": 0.374, "tijd": "Ruwe Jaren", "heerser": "Kharvos van de Zoutkust", "wetten": 9, "macht": {"staat": 0.009, "huizen": 0.137, "kerk": 0.028, "steden": 0.106, "dragers": 0.524, "buren": 0.087, "orrim": 0.078, "volk": 0.031}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2021
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.147]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.498, "bodem": 0.135, "techniek": 0.342, "jongens": 0.471, "honger": 0.963, "kas": 0.059, "edelen": 1.455, "geloof": 0.36, "openheid": 0.293, "orrim": 0.353, "beschaving": 0.441, "tijd": "Tijd van de kronen", "heerser": "Mirre", "wetten": 9, "macht": {"staat": 0.008, "huizen": 0.122, "kerk": 0.027, "steden": 0.102, "dragers": 0.546, "buren": 0.094, "orrim": 0.07, "volk": 0.03}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.4, "bodem": 0.135, "techniek": 0.411, "jongens": 0.477, "honger": 0.894, "kas": 0.089, "edelen": 1.441, "geloof": 0.352, "openheid": 0.309, "orrim": 0.341, "beschaving": 0.511, "tijd": "Tijd van de steden", "heerser": "Mirre", "wetten": 10, "macht": {"staat": 0.009, "huizen": 0.122, "kerk": 0.027, "steden": 0.11, "dragers": 0.53, "buren": 0.11, "orrim": 0.07, "volk": 0.022}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.52, "bodem": 0.135, "techniek": 0.421, "jongens": 0.481, "honger": 0.987, "kas": 0.141, "edelen": 1.46, "geloof": 0.342, "openheid": 0.305, "orrim": 0.331, "beschaving": 0.582, "tijd": "Tijd van de steden", "heerser": "Mirre", "wetten": 10, "macht": {"staat": 0.007, "huizen": 0.114, "kerk": 0.026, "steden": 0.112, "dragers": 0.528, "buren": 0.118, "orrim": 0.065, "volk": 0.03}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.479, "bodem": 0.135, "techniek": 0.431, "jongens": 0.485, "honger": 0.976, "kas": 0.199, "edelen": 1.478, "geloof": 0.333, "openheid": 0.292, "orrim": 0.323, "beschaving": 0.653, "tijd": "Tijd van de steden", "heerser": "Mirre", "wetten": 10, "macht": {"staat": 0.006, "huizen": 0.108, "kerk": 0.026, "steden": 0.115, "dragers": 0.531, "buren": 0.126, "orrim": 0.062, "volk": 0.027}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.381, "bodem": 0.135, "techniek": 0.443, "jongens": 0.488, "honger": 0.845, "kas": 0.244, "edelen": 1.472, "geloof": 0.322, "openheid": 0.281, "orrim": 0.316, "beschaving": 0.725, "tijd": "Tijd van de steden", "heerser": "Mirre", "wetten": 11, "macht": {"staat": 0.006, "huizen": 0.105, "kerk": 0.025, "steden": 0.136, "dragers": 0.517, "buren": 0.136, "orrim": 0.06, "volk": 0.015}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2581
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vergeten
+- **plek_code:** -
+- **detail:** Een kinderrijm. Niemand weet meer wie Lior was. [waarheid: vergeten; trouw 0.049]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.505, "bodem": 0.135, "techniek": 0.468, "jongens": 0.49, "honger": 0.92, "kas": 0.298, "edelen": 1.462, "geloof": 0.311, "openheid": 0.273, "orrim": 0.31, "beschaving": 0.798, "tijd": "Tijd van de steden", "heerser": "Mirre", "wetten": 11, "macht": {"staat": 0.006, "huizen": 0.099, "kerk": 0.024, "steden": 0.136, "dragers": 0.516, "buren": 0.142, "orrim": 0.057, "volk": 0.021}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.495, "bodem": 0.135, "techniek": 0.51, "jongens": 0.492, "honger": 1.005, "kas": 0.39, "edelen": 1.471, "geloof": 0.298, "openheid": 0.267, "orrim": 0.304, "beschaving": 0.872, "tijd": "Tijd van de steden", "heerser": "Mirre", "wetten": 11, "macht": {"staat": 0.005, "huizen": 0.094, "kerk": 0.023, "steden": 0.138, "dragers": 0.513, "buren": 0.147, "orrim": 0.054, "volk": 0.026}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.527, "bodem": 0.135, "techniek": 0.538, "jongens": 0.494, "honger": 0.87, "kas": 0.464, "edelen": 1.478, "geloof": 0.283, "openheid": 0.265, "orrim": 0.297, "beschaving": 0.948, "tijd": "Tijd van de steden", "heerser": "Mirre", "wetten": 11, "macht": {"staat": 0.006, "huizen": 0.088, "kerk": 0.021, "steden": 0.14, "dragers": 0.532, "buren": 0.149, "orrim": 0.05, "volk": 0.015}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.466, "bodem": 0.135, "techniek": 0.628, "jongens": 0.495, "honger": 0.944, "kas": 0.543, "edelen": 1.472, "geloof": 0.265, "openheid": 0.282, "orrim": 0.289, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Mirre", "wetten": 11, "macht": {"staat": 0.008, "huizen": 0.083, "kerk": 0.02, "steden": 0.157, "dragers": 0.513, "buren": 0.152, "orrim": 0.048, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2901
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de nachtmerrie
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2901
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de draak met de schat
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2901
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de wandelende doden
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2901
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de vampier
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2901
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de feeën
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 2981
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.218]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.362, "bodem": 0.135, "techniek": 0.774, "jongens": 0.496, "honger": 0.957, "kas": 0.602, "edelen": 1.457, "geloof": 0.235, "openheid": 0.318, "orrim": 0.278, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Mirre", "wetten": 12, "macht": {"staat": 0.012, "huizen": 0.082, "kerk": 0.007, "steden": 0.181, "dragers": 0.492, "buren": 0.16, "orrim": 0.047, "volk": 0.019}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.321, "bodem": 0.124, "techniek": 0.897, "jongens": 0.497, "honger": 0.968, "kas": 0.697, "edelen": 1.469, "geloof": 0.249, "openheid": 0.375, "orrim": 0.267, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.018, "huizen": 0.08, "kerk": 0.006, "steden": 0.193, "dragers": 0.473, "buren": 0.166, "orrim": 0.045, "volk": 0.019}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3181
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.309]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.303, "bodem": 0.124, "techniek": 0.999, "jongens": 0.497, "honger": 0.96, "kas": 0.798, "edelen": 1.48, "geloof": 0.205, "openheid": 0.487, "orrim": 0.256, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.024, "huizen": 0.078, "kerk": 0.004, "steden": 0.214, "dragers": 0.445, "buren": 0.172, "orrim": 0.044, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.286, "bodem": 0.124, "techniek": 0.992, "jongens": 0.498, "honger": 0.959, "kas": 0.891, "edelen": 1.488, "geloof": 0.158, "openheid": 0.514, "orrim": 0.245, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.03, "huizen": 0.076, "kerk": 0.007, "steden": 0.223, "dragers": 0.424, "buren": 0.178, "orrim": 0.043, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3321
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.297]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3341
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.367]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.272, "bodem": 0.124, "techniek": 0.999, "jongens": 0.498, "honger": 0.949, "kas": 0.961, "edelen": 1.503, "geloof": 0.111, "openheid": 0.533, "orrim": 0.235, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.039, "huizen": 0.074, "kerk": 0.007, "steden": 0.232, "dragers": 0.407, "buren": 0.182, "orrim": 0.042, "volk": 0.017}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.261, "bodem": 0.123, "techniek": 0.999, "jongens": 0.499, "honger": 0.962, "kas": 1, "edelen": 1.507, "geloof": 0.064, "openheid": 0.559, "orrim": 0.227, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.049, "huizen": 0.071, "kerk": 0.006, "steden": 0.24, "dragers": 0.391, "buren": 0.185, "orrim": 0.041, "volk": 0.017}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3501
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.293]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.25, "bodem": 0.123, "techniek": 1.0, "jongens": 0.499, "honger": 1.002, "kas": 1, "edelen": 1.523, "geloof": 0.016, "openheid": 0.601, "orrim": 0.221, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.062, "huizen": 0.068, "kerk": 0.006, "steden": 0.247, "dragers": 0.371, "buren": 0.187, "orrim": 0.039, "volk": 0.019}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.24, "bodem": 0.123, "techniek": 1, "jongens": 0.499, "honger": 0.967, "kas": 1, "edelen": 1.526, "geloof": 0, "openheid": 0.738, "orrim": 0.216, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.097, "huizen": 0.065, "kerk": 0.006, "steden": 0.252, "dragers": 0.34, "buren": 0.187, "orrim": 0.037, "volk": 0.016}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.245, "bodem": 0.123, "techniek": 1.0, "jongens": 0.499, "honger": 0.961, "kas": 1, "edelen": 1.524, "geloof": 0, "openheid": 0.84, "orrim": 0.212, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.113, "huizen": 0.062, "kerk": 0.005, "steden": 0.257, "dragers": 0.324, "buren": 0.188, "orrim": 0.036, "volk": 0.015}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.2, "bodem": 0.123, "techniek": 0.978, "jongens": 0.499, "honger": 1.027, "kas": 1, "edelen": 1.534, "geloof": 0, "openheid": 0.919, "orrim": 0.21, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.117, "huizen": 0.061, "kerk": 0.005, "steden": 0.266, "dragers": 0.308, "buren": 0.19, "orrim": 0.035, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 3981
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.148]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.183, "bodem": 0.123, "techniek": 0.968, "jongens": 0.5, "honger": 0.917, "kas": 1, "edelen": 1.52, "geloof": 0.041, "openheid": 0.93, "orrim": 0.21, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.121, "huizen": 0.058, "kerk": 0.005, "steden": 0.279, "dragers": 0.3, "buren": 0.191, "orrim": 0.033, "volk": 0.012}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4061
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.21]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.169, "bodem": 0.123, "techniek": 0.968, "jongens": 0.5, "honger": 0.963, "kas": 1, "edelen": 1.519, "geloof": 0, "openheid": 0.962, "orrim": 0.212, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.126, "huizen": 0.056, "kerk": 0.005, "steden": 0.284, "dragers": 0.291, "buren": 0.191, "orrim": 0.032, "volk": 0.013}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.158, "bodem": 0.123, "techniek": 0.985, "jongens": 0.5, "honger": 0.98, "kas": 1, "edelen": 1.527, "geloof": 0, "openheid": 0.999, "orrim": 0.214, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.131, "huizen": 0.054, "kerk": 0.005, "steden": 0.29, "dragers": 0.283, "buren": 0.192, "orrim": 0.031, "volk": 0.014}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.148, "bodem": 0.123, "techniek": 0.999, "jongens": 0.5, "honger": 0.965, "kas": 1, "edelen": 1.531, "geloof": 0, "openheid": 1.0, "orrim": 0.215, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.136, "huizen": 0.053, "kerk": 0.005, "steden": 0.296, "dragers": 0.274, "buren": 0.193, "orrim": 0.03, "volk": 0.013}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4301
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.332]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.141, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.968, "kas": 1, "edelen": 1.532, "geloof": 0, "openheid": 1.0, "orrim": 0.215, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.141, "huizen": 0.051, "kerk": 0.004, "steden": 0.301, "dragers": 0.266, "buren": 0.194, "orrim": 0.029, "volk": 0.013}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.136, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.957, "kas": 1, "edelen": 1.538, "geloof": 0, "openheid": 1.0, "orrim": 0.215, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.145, "huizen": 0.05, "kerk": 0.004, "steden": 0.306, "dragers": 0.259, "buren": 0.195, "orrim": 0.028, "volk": 0.012}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4581
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.297]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.133, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.986, "kas": 1, "edelen": 1.544, "geloof": 0, "openheid": 1.0, "orrim": 0.214, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.149, "huizen": 0.048, "kerk": 0.004, "steden": 0.311, "dragers": 0.251, "buren": 0.196, "orrim": 0.028, "volk": 0.013}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.13, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.966, "kas": 1, "edelen": 1.552, "geloof": 0, "openheid": 1.0, "orrim": 0.212, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.153, "huizen": 0.047, "kerk": 0.004, "steden": 0.316, "dragers": 0.245, "buren": 0.197, "orrim": 0.027, "volk": 0.011}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4721
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.361]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.128, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.991, "kas": 1, "edelen": 1.558, "geloof": 0, "openheid": 1.0, "orrim": 0.21, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.157, "huizen": 0.046, "kerk": 0.004, "steden": 0.32, "dragers": 0.238, "buren": 0.198, "orrim": 0.026, "volk": 0.012}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 4901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.127, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.864, "kas": 1, "edelen": 1.558, "geloof": 0, "openheid": 1.0, "orrim": 0.208, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.161, "huizen": 0.045, "kerk": 0.004, "steden": 0.325, "dragers": 0.233, "buren": 0.199, "orrim": 0.026, "volk": 0.007}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **jaar:** 5001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.126, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.934, "kas": 1, "edelen": 1.539, "geloof": 0.022, "openheid": 1.0, "orrim": 0.206, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Mirre", "wetten": 13, "macht": {"staat": 0.164, "huizen": 0.044, "kerk": 0.004, "steden": 0.328, "dragers": 0.226, "buren": 0.199, "orrim": 0.025, "volk": 0.009}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1001
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-kharvos
+- **plek_code:** -
+- **detail:** Kharvos-ambacht (gewoon). Noodzaak: bankroet. Breekt: het idee dat machines van de vijand zijn. Prijs: wie Kharvos-kennis haalt, heet verrader; overlopers en spionnen betalen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1301
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-lens
+- **plek_code:** -
+- **detail:** Glazen lenzen (gewoon). Noodzaak: epidemie. Breekt: de Sterrensteen als enige lens: gewoon glas vraagt geen Orrim. Prijs: slijpers worden blind van het werk.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2101
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** dragers
+- **doel:** TK-vrijladen
+- **plek_code:** -
+- **detail:** Vrije laadsters gaat verloren: magie onder 0,32. Opvolger: TN-elektriciteit.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1401
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** dragers
+- **doel:** TK-vrijladen
+- **plek_code:** -
+- **detail:** Vrije laadsters (gave). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het laadmonopolie van de Registerkamer (TECHNO-TIJDLIJN fase 4). Prijs: de gever droogt uit; een geladen voorwerp kost hem dagen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1841
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-roestlak
+- **plek_code:** -
+- **detail:** Roestlak (bio). Noodzaak: invasie. Breekt: niets direct; het maakt metaal weer bruikbaar. Prijs: lakkers ademen sporen; de lak leeft en moet gevoerd worden.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1861
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-uurwerk
+- **plek_code:** -
+- **detail:** Uurwerk en kompas (gewoon). Noodzaak: invasie. Breekt: de tempelklok als enige maat van de dag. Prijs: de kerk verliest de uren; schippers varen verder dan de Aelthir-kaarten reiken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2101
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-kweekakker
+- **plek_code:** -
+- **detail:** Kweekakkers (bio). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de dragers als enigen die een mislukte oogst kunnen redden. Prijs: kweekstammen worden ziek door inteelt; een uitbraak kan uit de akker komen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2181
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-molen
+- **plek_code:** -
+- **detail:** Water- en windmolens (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de spiermolen als enige molen: water en wind eten niet. Prijs: molenaars worden machtig; rivieren worden bezit.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2361
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-drukpers
+- **plek_code:** -
+- **detail:** De drukpers (gewoon). Noodzaak: geloof. Breekt: het laatste woord van de kerk over wat waar is. Prijs: kopiisten en sporendrukkers verliezen hun brood.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2401
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporennet
+- **plek_code:** -
+- **detail:** Het sporennet (bio). Noodzaak: geloof. Breekt: de kerk als enige die weet wat er in het land gebeurt. Prijs: leest alleen voor verwanten; sporen in de longen van wie leest.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2441
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-heelkweek
+- **plek_code:** -
+- **detail:** Heelkweek (bio). Noodzaak: epidemie. Breekt: de kloosters als enige plek waar je beter wordt. Prijs: organen komen van iemand; de stam verwildert als je hem niet bewaakt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2461
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-vaccin
+- **plek_code:** -
+- **detail:** Kiemleer en vaccinatie (gewoon). Noodzaak: epidemie. Breekt: de schimmel als straf: onder de lens is het een levend ding. Prijs: de eerste ingeënten zijn proefpersonen; de kerk noemt het heiligschennis.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2561
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporendruk
+- **plek_code:** -
+- **detail:** Sporendruk (bio). Noodzaak: vondst. Breekt: de kerk als enige die schrijft en bewaart. Prijs: kopiisten verliezen hun werk; sporen in elk boek.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2581
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-lakijzer
+- **plek_code:** -
+- **detail:** Lakijzer (metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de drager als onverslaanbare krijger. Prijs: erts is schaars en mijnwerkers sterven; zonder lak eet de schimmel het zwaard.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2641
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-stoom
+- **plek_code:** -
+- **detail:** De stoommachine (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de spiermolen: een ketel eet hout, geen graan. Prijs: de wouden van de Aelthir worden gekapt; mijnwerkers en stokers sterven jong.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2681
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-spiermolen
+- **plek_code:** -
+- **detail:** Spiermolens (bio). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de dragers als enige krachtbron naast mens en dier. Prijs: het vlees lijdt en moet eten; in een hongerjaar eet de molen eerst.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2821
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-lichtnet
+- **plek_code:** -
+- **detail:** Het lichtnet (zegelsteen). Noodzaak: geloof. Breekt: de afstand tussen de kroon en haar provincies. Prijs: Orrim-steen; elk bericht is af te luisteren.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2901
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-steenlens
+- **plek_code:** -
+- **detail:** De steenlens (zegelsteen). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de onzichtbaarheid van wat ziek maakt. Prijs: koud licht dat de slijper verstijft; Orrim-steen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2941
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-kruit
+- **plek_code:** -
+- **detail:** Kruit (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de drager en de muur als zekerheid in de oorlog. Prijs: salpeter wordt gekrabd in de oude melkstallen; wie daar werkt, ademt de geschiedenis in.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3001
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-lichtcel
+- **plek_code:** -
+- **detail:** Lichtcellen (zegelsteen). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de dragers als enige krachtbron. Prijs: de vraag naar steen stijgt: meer Orrim in de groeven; de Sterrensteen barst bij overgebruik.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3041
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-elektriciteit
+- **plek_code:** -
+- **detail:** Elektriciteit (gewoon). Noodzaak: opvolger van verloren techniek. Breekt: de lading als enige stroom: wat eerst een drager vroeg, vraagt nu een draad. Prijs: koper uit Kharvos maakt de buren rijk; draden lopen door heilige grond.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3081
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-spoor
+- **plek_code:** -
+- **detail:** Spoorweg en stoomschip (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de Leegteworm als enige snelle reis. Prijs: grond wordt onteigend; Wormvaarders verliezen hun vak.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3101
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-kluisherstel
+- **plek_code:** -
+- **detail:** Kluisherstel (metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het geheim van de Orde-kluizen. Prijs: elk onderdeel is voorgoed weg; kernen stralen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3301
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** steden
+- **doel:** TK-sporenkern
+- **plek_code:** -
+- **detail:** De sporenkern gaat verloren: magie onder 0,32. Opvolger: geen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3201
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporenkern
+- **plek_code:** -
+- **detail:** De sporenkern (bio+metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de grens tussen levende en dode techniek. Prijs: verboden en onvoorspelbaar; uit de kern kan een uitbraak komen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3341
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** staat
+- **doel:** TK-vleesmetaal
+- **plek_code:** -
+- **detail:** Vleesmetaal gaat verloren: magie onder 0,32. Opvolger: TN-spoor.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3241
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-vleesmetaal
+- **plek_code:** -
+- **detail:** Vleesmetaal (bio+metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de lengte van een Leegtevaart. Prijs: de worm lijdt pijn en wordt waanzinnig.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3381
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-telegraaf
+- **plek_code:** -
+- **detail:** Telegraaf (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het lichtnet en het echonet: een bericht heeft geen steen en geen gever meer nodig. Prijs: spiegelwachters en ringdragers worden overbodig.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 921
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.72, oorzaak {"S": 0, "E": 1.174}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1521
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.6, oorzaak {"S": 0.02, "E": 1.19}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2601
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** geloof
+- **plek_code:** -
+- **detail:** Crisis geloof (druk 0.56, oorzaak {"L": 0.241, "T": 0.644}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2801
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** geloof
+- **plek_code:** -
+- **detail:** Crisis geloof (druk 0.82, oorzaak {"L": 0.174, "T": 0.909}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 841
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** kern_valt
+- **plek_code:** -
+- **detail:** De kern onder Hoornburg valt stil. Kharvos heeft een nieuwe nodig.
+- **canon_code:** ORIGIN-Z1-harrow
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1021
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1021
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1101
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** kern_in_worm
+- **plek_code:** -
+- **detail:** Wormvaarders vinden het Harrow-teken en de reservekern in een worm.
+- **canon_code:** ORIGIN-Z1-harrow
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1141
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1201
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1261
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1321
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1381
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** negen_cellen
+- **plek_code:** -
+- **detail:** De negen cellen van Hesta duiken op uit een kluis.
+- **canon_code:** YSA-Z21-3
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1441
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1461
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1721
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1781
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1841
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1861
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1941
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2081
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2261
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2281
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2321
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2381
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2381
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2421
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2441
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2541
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2861
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2941
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3021
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3081
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3121
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3301
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3301
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3441
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3561
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3901
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4061
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4521
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4541
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4621
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4781
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4781
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4801
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4921
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1541
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 1541 tot 1781. Politiek: geen crisis. Economie: honger 0.788→0.915, kas 0.005→0. Samenleving: jongens 0.414→0.451, 0 wetten in, 0 uit, geloof 0.31→0.305. Magie: 0.466→0.371. Verhalen op de schaal van huis en dorp: romance, komedie, dorpsintrige.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1961
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 1961 tot 2181. Politiek: geen crisis. Economie: honger 0.777→0.898, kas 0.296→0.296. Samenleving: jongens 0.468→0.481, 0 wetten in, 0 uit, geloof 0.294→0.272. Magie: 0.331→0.29. Verhalen op de schaal van huis en dorp: komedie, mysterie, familiesaga.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2821
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 2821 tot 3281. Politiek: geen crisis. Economie: honger 0.964→0.96, kas 1→1. Samenleving: jongens 0.496→0.499, 0 wetten in, 0 uit, geloof 0.166→0. Magie: 0.184→0.199. Verhalen op de schaal van huis en dorp: mysterie, familiesaga, stille horror.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3381
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 3381 tot 4601. Politiek: geen crisis. Economie: honger 0.859→0.997, kas 1→1. Samenleving: jongens 0.499→0.5, 0 wetten in, 0 uit, geloof 0.041→0. Magie: 0.132→0.123. Verhalen op de schaal van huis en dorp: mysterie, familiesaga, stille horror.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4701
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 4701 tot 5001. Politiek: geen crisis. Economie: honger 0.896→0.978, kas 1→1. Samenleving: jongens 0.5→0.5, 0 wetten in, 0 uit, geloof 0.041→0. Magie: 0.123→0.201. Verhalen op de schaal van huis en dorp: mysterie, familiesaga, stille horror.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** deels waar: Ysa en het schip ontbreken
+- **plek_code:** -
+- **detail:** Een boerendochter uit Ambergaard brak het Zegel, en de Orde viel. [waarheid: deels waar: Ysa en het schip ontbreken; trouw 0.574]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** wormvaarders
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** askouden
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** de Aelthir
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.515, "bodem": 0.151, "techniek": 0.096, "jongens": 0.113, "honger": 0.766, "kas": 0, "edelen": 1.176, "geloof": 0.263, "openheid": 0.387, "orrim": 0.975, "beschaving": 0.103, "tijd": "Ruwe Jaren", "heerser": "Kharvos van Groenmuil", "wetten": 7, "macht": {"staat": 0.095, "huizen": 0.271, "kerk": 0.076, "steden": 0.079, "dragers": 0.193, "buren": 0.209, "orrim": 0.039, "volk": 0.039}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 941
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** dragerlozen: verbrande ontvangers
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 961
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heilige Lior gaf haar licht, opdat elke vrouw zelf zou kiezen. [waarheid: vervalst; trouw 0.443]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 961
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** groep
+- **plek_code:** -
+- **detail:** wormbroeders
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 961
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** groep
+- **plek_code:** -
+- **detail:** koudbloeden
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.489, "bodem": 0.149, "techniek": 0.104, "jongens": 0.194, "honger": 0.821, "kas": 0, "edelen": 1.175, "geloof": 0.274, "openheid": 0.376, "orrim": 0.949, "beschaving": 0.128, "tijd": "Ruwe Jaren", "heerser": "Kharvos van Groenmuil", "wetten": 7, "macht": {"staat": 0.064, "huizen": 0.27, "kerk": 0.074, "steden": 0.086, "dragers": 0.193, "buren": 0.237, "orrim": 0.039, "volk": 0.039}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1081
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** groep
+- **plek_code:** -
+- **detail:** nachtvlerken in de ruïnes
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.678, "bodem": 0.148, "techniek": 0.119, "jongens": 0.258, "honger": 0.806, "kas": 0, "edelen": 1.166, "geloof": 0.284, "openheid": 0.366, "orrim": 0.923, "beschaving": 0.084, "tijd": "Ruwe Jaren", "heerser": "Kharvos van Groenmuil", "wetten": 7, "macht": {"staat": 0.032, "huizen": 0.259, "kerk": 0.07, "steden": 0.093, "dragers": 0.407, "buren": 0.064, "orrim": 0.037, "volk": 0.037}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1101
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.329]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** volk
+- **plek_code:** -
+- **detail:** de wyrmen
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** schimmelbezetenen
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het nachtadel
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** groep
+- **plek_code:** -
+- **detail:** de Langlevenden
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1161
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.29]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.987, "bodem": 0.148, "techniek": 0.147, "jongens": 0.309, "honger": 0.84, "kas": 0, "edelen": 1.176, "geloof": 0.293, "openheid": 0.357, "orrim": 0.892, "beschaving": 0.14, "tijd": "Smeedtijd", "heerser": "Kharvos van Groenmuil", "wetten": 8, "macht": {"staat": 0.014, "huizen": 0.237, "kerk": 0.064, "steden": 0.103, "dragers": 0.439, "buren": 0.076, "orrim": 0.034, "volk": 0.034}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1241
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het vlerkvolk
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1261
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** groep
+- **plek_code:** -
+- **detail:** de dwalers
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1281
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** monster
+- **plek_code:** -
+- **detail:** draken op de kern
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1281
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** monster
+- **plek_code:** -
+- **detail:** bloeddrinkers
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.588, "bodem": 0.147, "techniek": 0.167, "jongens": 0.349, "honger": 0.721, "kas": 0.205, "edelen": 1.172, "geloof": 0.3, "openheid": 0.405, "orrim": 0.854, "beschaving": 0.198, "tijd": "Smeedtijd", "heerser": "Kaldra", "wetten": 10, "macht": {"staat": 0.012, "huizen": 0.202, "kerk": 0.054, "steden": 0.217, "dragers": 0.375, "buren": 0.083, "orrim": 0.029, "volk": 0.029}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.666, "bodem": 0.146, "techniek": 0.181, "jongens": 0.381, "honger": 0.866, "kas": 0.115, "edelen": 1.189, "geloof": 0.306, "openheid": 0.404, "orrim": 0.809, "beschaving": 0.257, "tijd": "Ruwe Jaren", "heerser": "Kaldra", "wetten": 11, "macht": {"staat": 0.011, "huizen": 0.195, "kerk": 0.052, "steden": 0.217, "dragers": 0.364, "buren": 0.101, "orrim": 0.028, "volk": 0.031}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1401
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** monster
+- **plek_code:** -
+- **detail:** de merries
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1421
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** volk
+- **plek_code:** -
+- **detail:** de stille stoeten
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1441
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het heuvelvolk
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.525, "bodem": 0.145, "techniek": 0.263, "jongens": 0.406, "honger": 0.754, "kas": 0.037, "edelen": 1.193, "geloof": 0.31, "openheid": 0.405, "orrim": 0.759, "beschaving": 0.318, "tijd": "Ruwe Jaren", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.01, "huizen": 0.18, "kerk": 0.045, "steden": 0.209, "dragers": 0.392, "buren": 0.114, "orrim": 0.026, "volk": 0.026}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1501
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.144]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1581
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** monster
+- **plek_code:** -
+- **detail:** de ondoden
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.419, "bodem": 0.144, "techniek": 0.279, "jongens": 0.426, "honger": 0.832, "kas": 0, "edelen": 1.19, "geloof": 0.309, "openheid": 0.409, "orrim": 0.704, "beschaving": 0.351, "tijd": "Ruwe Jaren", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.01, "huizen": 0.174, "kerk": 0.036, "steden": 0.211, "dragers": 0.39, "buren": 0.129, "orrim": 0.025, "volk": 0.025}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.385, "bodem": 0.142, "techniek": 0.289, "jongens": 0.441, "honger": 0.886, "kas": 0, "edelen": 1.209, "geloof": 0.307, "openheid": 0.413, "orrim": 0.647, "beschaving": 0.416, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.01, "huizen": 0.167, "kerk": 0.032, "steden": 0.214, "dragers": 0.381, "buren": 0.143, "orrim": 0.024, "volk": 0.029}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1721
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.171]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1761
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** monster
+- **plek_code:** -
+- **detail:** het verborgen volk
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.368, "bodem": 0.141, "techniek": 0.3, "jongens": 0.454, "honger": 0.921, "kas": 0.0, "edelen": 1.239, "geloof": 0.305, "openheid": 0.417, "orrim": 0.589, "beschaving": 0.48, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.009, "huizen": 0.162, "kerk": 0.03, "steden": 0.217, "dragers": 0.369, "buren": 0.156, "orrim": 0.023, "volk": 0.033}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1801
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.146]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1841
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.212]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 1901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.345, "bodem": 0.14, "techniek": 0.359, "jongens": 0.463, "honger": 0.938, "kas": 0.302, "edelen": 1.272, "geloof": 0.299, "openheid": 0.577, "orrim": 0.531, "beschaving": 0.448, "tijd": "Tijd van de steden", "heerser": "Kharvos van de Stille eilanden", "wetten": 13, "macht": {"staat": 0.009, "huizen": 0.164, "kerk": 0.031, "steden": 0.305, "dragers": 0.374, "buren": 0.057, "orrim": 0.023, "volk": 0.036}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.323, "bodem": 0.138, "techniek": 0.398, "jongens": 0.471, "honger": 0.813, "kas": 0.283, "edelen": 1.274, "geloof": 0.291, "openheid": 0.602, "orrim": 0.476, "beschaving": 0.517, "tijd": "Tijd van de steden", "heerser": "Kharvos van de Stille eilanden", "wetten": 13, "macht": {"staat": 0.009, "huizen": 0.157, "kerk": 0.029, "steden": 0.33, "dragers": 0.358, "buren": 0.072, "orrim": 0.022, "volk": 0.022}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2041
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.144]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.304, "bodem": 0.137, "techniek": 0.437, "jongens": 0.477, "honger": 0.875, "kas": 0.279, "edelen": 1.277, "geloof": 0.281, "openheid": 0.634, "orrim": 0.425, "beschaving": 0.587, "tijd": "Tijd van de steden", "heerser": "Kharvos van de Stille eilanden", "wetten": 13, "macht": {"staat": 0.009, "huizen": 0.151, "kerk": 0.03, "steden": 0.335, "dragers": 0.341, "buren": 0.087, "orrim": 0.022, "volk": 0.025}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.286, "bodem": 0.137, "techniek": 0.457, "jongens": 0.482, "honger": 0.899, "kas": 0.303, "edelen": 1.294, "geloof": 0.27, "openheid": 0.651, "orrim": 0.378, "beschaving": 0.66, "tijd": "Tijd van de steden", "heerser": "Kharvos van de Stille eilanden", "wetten": 13, "macht": {"staat": 0.008, "huizen": 0.147, "kerk": 0.035, "steden": 0.344, "dragers": 0.317, "buren": 0.101, "orrim": 0.021, "volk": 0.028}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.272, "bodem": 0.136, "techniek": 0.481, "jongens": 0.486, "honger": 0.854, "kas": 0.353, "edelen": 1.304, "geloof": 0.257, "openheid": 0.667, "orrim": 0.338, "beschaving": 0.733, "tijd": "Tijd van de steden", "heerser": "Kharvos van de Stille eilanden", "wetten": 14, "macht": {"staat": 0.008, "huizen": 0.136, "kerk": 0.034, "steden": 0.336, "dragers": 0.279, "buren": 0.109, "orrim": 0.078, "volk": 0.021}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.421, "bodem": 0.125, "techniek": 0.54, "jongens": 0.489, "honger": 0.891, "kas": 0.46, "edelen": 1.311, "geloof": 0.29, "openheid": 0.694, "orrim": 0.307, "beschaving": 0.809, "tijd": "Tijd van de steden", "heerser": "Kharvos van de Stille eilanden", "wetten": 15, "macht": {"staat": 0.008, "huizen": 0.13, "kerk": 0.01, "steden": 0.338, "dragers": 0.298, "buren": 0.118, "orrim": 0.074, "volk": 0.023}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2441
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de nachtmerrie
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2441
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de draak met de schat
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2441
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de wandelende doden
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2441
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de vampier
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2441
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de feeën
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.277, "bodem": 0.124, "techniek": 0.621, "jongens": 0.491, "honger": 0.832, "kas": 0.553, "edelen": 1.297, "geloof": 0.266, "openheid": 0.773, "orrim": 0.283, "beschaving": 0.889, "tijd": "Tijd van de werkplaatsen", "heerser": "Kharvos van de Stille eilanden", "wetten": 15, "macht": {"staat": 0.012, "huizen": 0.126, "kerk": 0.007, "steden": 0.348, "dragers": 0.288, "buren": 0.129, "orrim": 0.072, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2501
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.154]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2561
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.369]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.308, "bodem": 0.124, "techniek": 0.644, "jongens": 0.493, "honger": 0.92, "kas": 0.685, "edelen": 1.308, "geloof": 0.241, "openheid": 0.836, "orrim": 0.264, "beschaving": 0.971, "tijd": "Tijd van de werkplaatsen", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.02, "huizen": 0.12, "kerk": 0.007, "steden": 0.353, "dragers": 0.271, "buren": 0.136, "orrim": 0.068, "volk": 0.025}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.223, "bodem": 0.124, "techniek": 0.775, "jongens": 0.494, "honger": 0.947, "kas": 0.834, "edelen": 1.333, "geloof": 0.213, "openheid": 0.909, "orrim": 0.249, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.038, "huizen": 0.115, "kerk": 0.01, "steden": 0.377, "dragers": 0.225, "buren": 0.143, "orrim": 0.066, "volk": 0.026}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.189, "bodem": 0.124, "techniek": 0.909, "jongens": 0.496, "honger": 0.965, "kas": 0.976, "edelen": 1.362, "geloof": 0.174, "openheid": 0.969, "orrim": 0.238, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.051, "huizen": 0.108, "kerk": 0.009, "steden": 0.41, "dragers": 0.186, "buren": 0.147, "orrim": 0.062, "volk": 0.026}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 2901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.168, "bodem": 0.124, "techniek": 0.942, "jongens": 0.497, "honger": 0.962, "kas": 1, "edelen": 1.388, "geloof": 0.131, "openheid": 1, "orrim": 0.23, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.078, "huizen": 0.101, "kerk": 0.009, "steden": 0.408, "dragers": 0.173, "buren": 0.148, "orrim": 0.058, "volk": 0.024}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.155, "bodem": 0.123, "techniek": 1, "jongens": 0.497, "honger": 0.934, "kas": 1, "edelen": 1.401, "geloof": 0.086, "openheid": 1, "orrim": 0.223, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.102, "huizen": 0.097, "kerk": 0.008, "steden": 0.416, "dragers": 0.146, "buren": 0.153, "orrim": 0.055, "volk": 0.023}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.146, "bodem": 0.123, "techniek": 1, "jongens": 0.498, "honger": 0.98, "kas": 1, "edelen": 1.429, "geloof": 0.038, "openheid": 1, "orrim": 0.218, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.121, "huizen": 0.093, "kerk": 0.008, "steden": 0.438, "dragers": 0.105, "buren": 0.158, "orrim": 0.053, "volk": 0.024}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.139, "bodem": 0.123, "techniek": 1, "jongens": 0.498, "honger": 0.951, "kas": 1, "edelen": 1.439, "geloof": 0, "openheid": 1, "orrim": 0.214, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.148, "huizen": 0.087, "kerk": 0.007, "steden": 0.439, "dragers": 0.092, "buren": 0.157, "orrim": 0.05, "volk": 0.02}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.183, "bodem": 0.123, "techniek": 0.985, "jongens": 0.499, "honger": 0.962, "kas": 1, "edelen": 1.453, "geloof": 0, "openheid": 1, "orrim": 0.211, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.155, "huizen": 0.083, "kerk": 0.007, "steden": 0.441, "dragers": 0.088, "buren": 0.159, "orrim": 0.047, "volk": 0.02}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.132, "bodem": 0.123, "techniek": 0.992, "jongens": 0.499, "honger": 0.873, "kas": 1, "edelen": 1.427, "geloof": 0.031, "openheid": 1, "orrim": 0.208, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.162, "huizen": 0.079, "kerk": 0.007, "steden": 0.452, "dragers": 0.083, "buren": 0.16, "orrim": 0.045, "volk": 0.013}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.129, "bodem": 0.123, "techniek": 0.997, "jongens": 0.499, "honger": 0.923, "kas": 1, "edelen": 1.425, "geloof": 0, "openheid": 0.998, "orrim": 0.206, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.174, "huizen": 0.075, "kerk": 0.006, "steden": 0.449, "dragers": 0.079, "buren": 0.16, "orrim": 0.043, "volk": 0.015}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.127, "bodem": 0.123, "techniek": 0.999, "jongens": 0.499, "honger": 0.952, "kas": 1, "edelen": 1.435, "geloof": 0, "openheid": 0.999, "orrim": 0.205, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.179, "huizen": 0.071, "kerk": 0.006, "steden": 0.45, "dragers": 0.076, "buren": 0.161, "orrim": 0.041, "volk": 0.016}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.126, "bodem": 0.123, "techniek": 0.999, "jongens": 0.499, "honger": 0.968, "kas": 1, "edelen": 1.451, "geloof": 0, "openheid": 1.0, "orrim": 0.204, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.184, "huizen": 0.069, "kerk": 0.006, "steden": 0.451, "dragers": 0.073, "buren": 0.162, "orrim": 0.039, "volk": 0.017}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.125, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.977, "kas": 1, "edelen": 1.468, "geloof": 0, "openheid": 1.0, "orrim": 0.203, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.188, "huizen": 0.066, "kerk": 0.006, "steden": 0.453, "dragers": 0.07, "buren": 0.164, "orrim": 0.038, "volk": 0.017}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 3901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.125, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.947, "kas": 1, "edelen": 1.483, "geloof": 0, "openheid": 1.0, "orrim": 0.202, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.192, "huizen": 0.064, "kerk": 0.005, "steden": 0.455, "dragers": 0.067, "buren": 0.165, "orrim": 0.036, "volk": 0.014}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.124, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.97, "kas": 1, "edelen": 1.492, "geloof": 0, "openheid": 1.0, "orrim": 0.202, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.196, "huizen": 0.062, "kerk": 0.005, "steden": 0.456, "dragers": 0.065, "buren": 0.166, "orrim": 0.035, "volk": 0.015}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.124, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.983, "kas": 1, "edelen": 1.505, "geloof": 0, "openheid": 1.0, "orrim": 0.201, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.2, "huizen": 0.059, "kerk": 0.005, "steden": 0.457, "dragers": 0.063, "buren": 0.167, "orrim": 0.034, "volk": 0.015}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.124, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.989, "kas": 1, "edelen": 1.519, "geloof": 0, "openheid": 1.0, "orrim": 0.201, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.203, "huizen": 0.057, "kerk": 0.005, "steden": 0.458, "dragers": 0.061, "buren": 0.168, "orrim": 0.033, "volk": 0.015}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.123, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.993, "kas": 1, "edelen": 1.532, "geloof": 0, "openheid": 1.0, "orrim": 0.201, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.206, "huizen": 0.056, "kerk": 0.005, "steden": 0.459, "dragers": 0.059, "buren": 0.169, "orrim": 0.032, "volk": 0.015}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4301
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.299]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.123, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.995, "kas": 1, "edelen": 1.544, "geloof": 0, "openheid": 1.0, "orrim": 0.201, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.209, "huizen": 0.054, "kerk": 0.005, "steden": 0.46, "dragers": 0.057, "buren": 0.17, "orrim": 0.031, "volk": 0.014}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.123, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.996, "kas": 1, "edelen": 1.556, "geloof": 0, "openheid": 1.0, "orrim": 0.2, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.212, "huizen": 0.052, "kerk": 0.004, "steden": 0.461, "dragers": 0.055, "buren": 0.171, "orrim": 0.03, "volk": 0.014}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.123, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.997, "kas": 1, "edelen": 1.565, "geloof": 0, "openheid": 1.0, "orrim": 0.2, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.215, "huizen": 0.051, "kerk": 0.004, "steden": 0.462, "dragers": 0.054, "buren": 0.172, "orrim": 0.029, "volk": 0.014}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.123, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.896, "kas": 1, "edelen": 1.541, "geloof": 0.041, "openheid": 1.0, "orrim": 0.2, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.218, "huizen": 0.05, "kerk": 0.004, "steden": 0.465, "dragers": 0.053, "buren": 0.173, "orrim": 0.028, "volk": 0.009}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.451, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.943, "kas": 1, "edelen": 1.53, "geloof": 0, "openheid": 1.0, "orrim": 0.2, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.22, "huizen": 0.048, "kerk": 0.004, "steden": 0.465, "dragers": 0.051, "buren": 0.174, "orrim": 0.028, "volk": 0.011}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 4901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.201, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.965, "kas": 1, "edelen": 1.531, "geloof": 0, "openheid": 1.0, "orrim": 0.2, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.222, "huizen": 0.047, "kerk": 0.004, "steden": 0.465, "dragers": 0.05, "buren": 0.174, "orrim": 0.027, "volk": 0.011}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **jaar:** 5001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.201, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.978, "kas": 1, "edelen": 1.537, "geloof": 0, "openheid": 1.0, "orrim": 0.2, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kharvos van de Stille eilanden", "wetten": 16, "macht": {"staat": 0.224, "huizen": 0.046, "kerk": 0.004, "steden": 0.466, "dragers": 0.048, "buren": 0.175, "orrim": 0.026, "volk": 0.012}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4181
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** dragers
+- **doel:** TK-vrijladen
+- **plek_code:** -
+- **detail:** Vrije laadsters gaat verloren: magie onder 0,32. Opvolger: TN-elektriciteit.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 981
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** dragers
+- **doel:** TK-vrijladen
+- **plek_code:** -
+- **detail:** Vrije laadsters (gave). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het laadmonopolie van de Registerkamer (TECHNO-TIJDLIJN fase 4). Prijs: de gever droogt uit; een geladen voorwerp kost hem dagen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4181
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** dragers
+- **doel:** TK-laadwerkplaats
+- **plek_code:** -
+- **detail:** Laadwerkplaatsen gaat verloren: magie onder 0,32. Opvolger: TN-stoom.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1161
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** dragers
+- **doel:** TK-laadwerkplaats
+- **plek_code:** -
+- **detail:** Laadwerkplaatsen (gave). Noodzaak: bankroet. Breekt: niets; het maakt de dragers juist onmisbaar. Prijs: uitputting van de gevers; wie te vaak geeft, wordt grijs.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1441
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-roestlak
+- **plek_code:** -
+- **detail:** Roestlak (bio). Noodzaak: bankroet. Breekt: niets direct; het maakt metaal weer bruikbaar. Prijs: lakkers ademen sporen; de lak leeft en moet gevoerd worden.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1701
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-kharvos
+- **plek_code:** -
+- **detail:** Kharvos-ambacht (gewoon). Noodzaak: bankroet. Breekt: het idee dat machines van de vijand zijn. Prijs: wie Kharvos-kennis haalt, heet verrader; overlopers en spionnen betalen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2441
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-lakijzer
+- **plek_code:** -
+- **detail:** Lakijzer (metaal). Noodzaak: elitestrijd. Breekt: de drager als onverslaanbare krijger. Prijs: erts is schaars en mijnwerkers sterven; zonder lak eet de schimmel het zwaard.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2821
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-kweekakker
+- **plek_code:** -
+- **detail:** Kweekakkers (bio). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de dragers als enigen die een mislukte oogst kunnen redden. Prijs: kweekstammen worden ziek door inteelt; een uitbraak kan uit de akker komen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3061
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-heelkweek
+- **plek_code:** -
+- **detail:** Heelkweek (bio). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de kloosters als enige plek waar je beter wordt. Prijs: organen komen van iemand; de stam verwildert als je hem niet bewaakt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3081
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-molen
+- **plek_code:** -
+- **detail:** Water- en windmolens (gewoon). Noodzaak: honger. Breekt: de spiermolen als enige molen: water en wind eten niet. Prijs: molenaars worden machtig; rivieren worden bezit.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3121
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-spiermolen
+- **plek_code:** -
+- **detail:** Spiermolens (bio). Noodzaak: honger. Breekt: de dragers als enige krachtbron naast mens en dier. Prijs: het vlees lijdt en moet eten; in een hongerjaar eet de molen eerst.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4181
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** dragers
+- **doel:** TK-echonet
+- **plek_code:** -
+- **detail:** Het echonet gaat verloren: magie onder 0,32. Opvolger: TN-telegraaf.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3341
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** dragers
+- **doel:** TK-echonet
+- **plek_code:** -
+- **detail:** Het echonet (gave). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de afstand tussen hof en grens. Prijs: het net sterft met de gever.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3461
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-uurwerk
+- **plek_code:** -
+- **detail:** Uurwerk en kompas (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de tempelklok als enige maat van de dag. Prijs: de kerk verliest de uren; schippers varen verder dan de Aelthir-kaarten reiken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3561
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-lens
+- **plek_code:** -
+- **detail:** Glazen lenzen (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de Sterrensteen als enige lens: gewoon glas vraagt geen Orrim. Prijs: slijpers worden blind van het werk.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3601
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-drukpers
+- **plek_code:** -
+- **detail:** De drukpers (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het laatste woord van de kerk over wat waar is. Prijs: kopiisten en sporendrukkers verliezen hun brood.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3661
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-kruit
+- **plek_code:** -
+- **detail:** Kruit (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de drager en de muur als zekerheid in de oorlog. Prijs: salpeter wordt gekrabd in de oude melkstallen; wie daar werkt, ademt de geschiedenis in.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3781
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-kluisherstel
+- **plek_code:** -
+- **detail:** Kluisherstel (metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het geheim van de Orde-kluizen. Prijs: elk onderdeel is voorgoed weg; kernen stralen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3901
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** staat
+- **doel:** TK-lichtnet
+- **plek_code:** -
+- **detail:** Het lichtnet gaat verloren: geen steen meer uit de groeven. Opvolger: TN-telegraaf.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-lichtnet
+- **plek_code:** -
+- **detail:** Het lichtnet (zegelsteen). Noodzaak: geloof. Breekt: de afstand tussen de kroon en haar provincies. Prijs: Orrim-steen; elk bericht is af te luisteren.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3821
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-stoom
+- **plek_code:** -
+- **detail:** De stoommachine (gewoon). Noodzaak: honger. Breekt: de spiermolen: een ketel eet hout, geen graan. Prijs: de wouden van de Aelthir worden gekapt; mijnwerkers en stokers sterven jong.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4181
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** staat
+- **doel:** TK-vleesmetaal
+- **plek_code:** -
+- **detail:** Vleesmetaal gaat verloren: magie onder 0,32. Opvolger: TN-spoor.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3861
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-vleesmetaal
+- **plek_code:** -
+- **detail:** Vleesmetaal (bio+metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de lengte van een Leegtevaart. Prijs: de worm lijdt pijn en wordt waanzinnig.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3881
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-spoor
+- **plek_code:** -
+- **detail:** Spoorweg en stoomschip (gewoon). Noodzaak: honger. Breekt: de Leegteworm als enige snelle reis. Prijs: grond wordt onteigend; Wormvaarders verliezen hun vak.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4001
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** steden
+- **doel:** TK-steenlens
+- **plek_code:** -
+- **detail:** De steenlens gaat verloren: geen steen meer uit de groeven. Opvolger: TN-lens.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3901
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-steenlens
+- **plek_code:** -
+- **detail:** De steenlens (zegelsteen). Noodzaak: vondst. Breekt: de onzichtbaarheid van wat ziek maakt. Prijs: koud licht dat de slijper verstijft; Orrim-steen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3941
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-elektriciteit
+- **plek_code:** -
+- **detail:** Elektriciteit (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de lading als enige stroom: wat eerst een drager vroeg, vraagt nu een draad. Prijs: koper uit Kharvos maakt de buren rijk; draden lopen door heilige grond.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4061
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** staat
+- **doel:** TK-lichtcel
+- **plek_code:** -
+- **detail:** Lichtcellen gaat verloren: geen steen meer uit de groeven. Opvolger: TN-elektriciteit.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3961
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-lichtcel
+- **plek_code:** -
+- **detail:** Lichtcellen (zegelsteen). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de dragers als enige krachtbron. Prijs: de vraag naar steen stijgt: meer Orrim in de groeven; de Sterrensteen barst bij overgebruik.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3981
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-telegraaf
+- **plek_code:** -
+- **detail:** Telegraaf (gewoon). Noodzaak: opvolger van verloren techniek. Breekt: het lichtnet en het echonet: een bericht heeft geen steen en geen gever meer nodig. Prijs: spiegelwachters en ringdragers worden overbodig.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4021
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporennet
+- **plek_code:** -
+- **detail:** Het sporennet (bio). Noodzaak: geloof, vondst. Breekt: de kerk als enige die weet wat er in het land gebeurt. Prijs: leest alleen voor verwanten; sporen in de longen van wie leest.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4061
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporendruk
+- **plek_code:** -
+- **detail:** Sporendruk (bio). Noodzaak: vondst. Breekt: de kerk als enige die schrijft en bewaart. Prijs: kopiisten verliezen hun werk; sporen in elk boek.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4101
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-vaccin
+- **plek_code:** -
+- **detail:** Kiemleer en vaccinatie (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de schimmel als straf: onder de lens is het een levend ding. Prijs: de eerste ingeënten zijn proefpersonen; de kerk noemt het heiligschennis.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4261
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporenkern
+- **plek_code:** -
+- **detail:** De sporenkern (bio+metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de grens tussen levende en dode techniek. Prijs: verboden en onvoorspelbaar; uit de kern kan een uitbraak komen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 941
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.52, oorzaak {"S": 0.034, "E": 1.182}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1141
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.72, oorzaak {"S": 0, "E": 1.226}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1381
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.72, oorzaak {"S": 0, "E": 1.298}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1601
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** epidemie
+- **plek_code:** -
+- **detail:** Crisis epidemie (druk 0.53, oorzaak {"schim": 0.34, "O": 0.273}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1661
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.72, oorzaak {"S": 0, "E": 1.375}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1861
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.72, oorzaak {"S": 0, "E": 1.424}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2061
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.72, oorzaak {"S": 0, "E": 1.472}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2261
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.68, oorzaak {"S": 0.007, "E": 1.488}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3941
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** geloof
+- **plek_code:** -
+- **detail:** Crisis geloof (druk 0.53, oorzaak {"L": 0.249, "T": 0.836}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4141
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** geloof
+- **plek_code:** -
+- **detail:** Crisis geloof (druk 0.88, oorzaak {"L": 0.16, "T": 0.958}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1321
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1321
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1401
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1421
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1481
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1501
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1561
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1601
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1601
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1741
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1741
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1861
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1961
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** negen_cellen
+- **plek_code:** -
+- **detail:** De negen cellen van Hesta duiken op uit een kluis.
+- **canon_code:** YSA-Z21-3
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2001
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2161
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2541
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2561
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2661
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2741
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2761
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2801
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2901
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3061
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3081
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** kern_in_worm
+- **plek_code:** -
+- **detail:** Wormvaarders vinden het Harrow-teken en de reservekern in een worm.
+- **canon_code:** ORIGIN-Z1-harrow
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3201
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3341
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3381
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3461
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3521
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3661
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3721
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3781
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3881
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4081
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4081
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4201
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4241
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4421
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4461
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4561
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4661
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4721
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4721
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4781
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4841
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4881
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2381
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 2381 tot 3041. Politiek: geen crisis. Economie: honger 0.945→0.966, kas 0.017→0.709. Samenleving: jongens 0.414→0.459, 0 wetten in, 0 uit, geloof 0.356→0.328. Magie: 0.438→0.406. Verhalen op de schaal van huis en dorp: komedie, mysterie, familiesaga.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3081
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 3081 tot 3721. Politiek: geen crisis. Economie: honger 0.857→0.978, kas 0.745→1. Samenleving: jongens 0.46→0.481, 0 wetten in, 0 uit, geloof 0.326→0.259. Magie: 0.779→0.384. Verhalen op de schaal van huis en dorp: komedie, mysterie, familiesaga.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4161
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 4161 tot 5001. Politiek: geen crisis. Economie: honger 0.942→0.982, kas 1→1. Samenleving: jongens 0.488→0.495, 0 wetten in, 0 uit, geloof 0.151→0. Magie: 0.306→0.282. Verhalen op de schaal van huis en dorp: mysterie, familiesaga, stille horror.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** deels waar: Ysa en het schip ontbreken
+- **plek_code:** -
+- **detail:** Een boerendochter uit Ambergaard brak het Zegel, en de Orde viel. [waarheid: deels waar: Ysa en het schip ontbreken; trouw 0.574]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** wormvaarders
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** askouden
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** de Aelthir
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.522, "bodem": 0.151, "techniek": 0.056, "jongens": 0.061, "honger": 0.792, "kas": 0.102, "edelen": 1.181, "geloof": 0.264, "openheid": 0.286, "orrim": 0.975, "beschaving": 0.203, "tijd": "Ruwe Jaren", "heerser": "Varenne", "wetten": 7, "macht": {"staat": 0.094, "huizen": 0.258, "kerk": 0.072, "steden": 0.074, "dragers": 0.184, "buren": 0.244, "orrim": 0.037, "volk": 0.037}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 941
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heilige Lior gaf haar licht, opdat elke vrouw zelf zou kiezen. [waarheid: vervalst; trouw 0.44]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 961
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** groep
+- **plek_code:** -
+- **detail:** wormbroeders
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 961
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** groep
+- **plek_code:** -
+- **detail:** koudbloeden
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 981
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.411]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.507, "bodem": 0.149, "techniek": 0.062, "jongens": 0.107, "honger": 0.859, "kas": 0, "edelen": 1.191, "geloof": 0.277, "openheid": 0.272, "orrim": 0.949, "beschaving": 0.226, "tijd": "Ruwe Jaren", "heerser": "Varenne", "wetten": 7, "macht": {"staat": 0.066, "huizen": 0.259, "kerk": 0.07, "steden": 0.074, "dragers": 0.187, "buren": 0.268, "orrim": 0.037, "volk": 0.039}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1001
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** dragerlozen: verbrande ontvangers
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1021
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heilige Lior gaf haar licht, opdat elke vrouw zelf zou kiezen. [waarheid: vervalst; trouw 0.384]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.482, "bodem": 0.148, "techniek": 0.108, "jongens": 0.148, "honger": 0.896, "kas": 0, "edelen": 1.215, "geloof": 0.287, "openheid": 0.359, "orrim": 0.923, "beschaving": 0.181, "tijd": "Ruwe Jaren", "heerser": "Kharvos van Saelith", "wetten": 7, "macht": {"staat": 0.045, "huizen": 0.318, "kerk": 0.078, "steden": 0.097, "dragers": 0.241, "buren": 0.116, "orrim": 0.045, "volk": 0.058}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.309]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** volk
+- **plek_code:** -
+- **detail:** de wyrmen
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het nachtadel
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** groep
+- **plek_code:** -
+- **detail:** de Langlevenden
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1141
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.296]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1141
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** groep
+- **plek_code:** -
+- **detail:** nachtvlerken in de ruïnes
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.511, "bodem": 0.147, "techniek": 0.119, "jongens": 0.185, "honger": 0.915, "kas": 0, "edelen": 1.244, "geloof": 0.296, "openheid": 0.344, "orrim": 0.896, "beschaving": 0.207, "tijd": "Ruwe Jaren", "heerser": "Kharvos van Saelith", "wetten": 7, "macht": {"staat": 0.016, "huizen": 0.285, "kerk": 0.058, "steden": 0.094, "dragers": 0.32, "buren": 0.129, "orrim": 0.041, "volk": 0.057}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1281
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** monster
+- **plek_code:** -
+- **detail:** draken op de kern
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1281
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** monster
+- **plek_code:** -
+- **detail:** bloeddrinkers
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.46, "bodem": 0.146, "techniek": 0.141, "jongens": 0.218, "honger": 0.933, "kas": 0, "edelen": 1.274, "geloof": 0.304, "openheid": 0.328, "orrim": 0.865, "beschaving": 0.263, "tijd": "Ruwe Jaren", "heerser": "Kharvos van Saelith", "wetten": 7, "macht": {"staat": 0.015, "huizen": 0.27, "kerk": 0.051, "steden": 0.099, "dragers": 0.323, "buren": 0.146, "orrim": 0.039, "volk": 0.058}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1301
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het vlerkvolk
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.548, "bodem": 0.146, "techniek": 0.17, "jongens": 0.247, "honger": 1.051, "kas": 0, "edelen": 1.311, "geloof": 0.309, "openheid": 0.311, "orrim": 0.83, "beschaving": 0.291, "tijd": "Ruwe Jaren", "heerser": "Kaldra", "wetten": 8, "macht": {"staat": 0.011, "huizen": 0.2, "kerk": 0.037, "steden": 0.083, "dragers": 0.452, "buren": 0.126, "orrim": 0.029, "volk": 0.063}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1441
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het heuvelvolk
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1461
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** monster
+- **plek_code:** -
+- **detail:** de merries
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1481
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.143]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.617, "bodem": 0.146, "techniek": 0.188, "jongens": 0.274, "honger": 0.895, "kas": 0, "edelen": 1.351, "geloof": 0.313, "openheid": 0.292, "orrim": 0.785, "beschaving": 0.35, "tijd": "Ruwe Jaren", "heerser": "Kaldra", "wetten": 8, "macht": {"staat": 0.01, "huizen": 0.179, "kerk": 0.034, "steden": 0.081, "dragers": 0.51, "buren": 0.128, "orrim": 0.026, "volk": 0.032}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.468, "bodem": 0.145, "techniek": 0.206, "jongens": 0.297, "honger": 0.972, "kas": 0, "edelen": 1.357, "geloof": 0.317, "openheid": 0.273, "orrim": 0.731, "beschaving": 0.409, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 8, "macht": {"staat": 0.01, "huizen": 0.173, "kerk": 0.033, "steden": 0.083, "dragers": 0.494, "buren": 0.139, "orrim": 0.025, "volk": 0.043}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1601
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** schimmelbezetenen
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.428, "bodem": 0.143, "techniek": 0.229, "jongens": 0.319, "honger": 0.965, "kas": 0, "edelen": 1.385, "geloof": 0.319, "openheid": 0.254, "orrim": 0.669, "beschaving": 0.41, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 8, "macht": {"staat": 0.01, "huizen": 0.169, "kerk": 0.033, "steden": 0.088, "dragers": 0.484, "buren": 0.151, "orrim": 0.024, "volk": 0.041}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1741
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** groep
+- **plek_code:** -
+- **detail:** de dwalers
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1761
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** monster
+- **plek_code:** -
+- **detail:** het verborgen volk
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.567, "bodem": 0.142, "techniek": 0.246, "jongens": 0.338, "honger": 0.955, "kas": 0, "edelen": 1.407, "geloof": 0.319, "openheid": 0.081, "orrim": 0.603, "beschaving": 0.472, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 9, "macht": {"staat": 0.008, "huizen": 0.212, "kerk": 0.029, "steden": 0.083, "dragers": 0.467, "buren": 0.144, "orrim": 0.021, "volk": 0.035}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.464, "bodem": 0.14, "techniek": 0.268, "jongens": 0.355, "honger": 1.022, "kas": 0, "edelen": 1.441, "geloof": 0.319, "openheid": 0.056, "orrim": 0.532, "beschaving": 0.405, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 9, "macht": {"staat": 0.008, "huizen": 0.212, "kerk": 0.029, "steden": 0.091, "dragers": 0.551, "buren": 0.044, "orrim": 0.021, "volk": 0.043}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 1901
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** volk
+- **plek_code:** -
+- **detail:** de stille stoeten
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.762, "bodem": 0.138, "techniek": 0.29, "jongens": 0.37, "honger": 0.973, "kas": 0, "edelen": 1.465, "geloof": 0.318, "openheid": 0.03, "orrim": 0.459, "beschaving": 0.469, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 10, "macht": {"staat": 0.008, "huizen": 0.189, "kerk": 0.027, "steden": 0.09, "dragers": 0.531, "buren": 0.047, "orrim": 0.076, "volk": 0.033}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2021
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vergeten
+- **plek_code:** -
+- **detail:** Een kinderrijm. Niemand weet meer wie Lior was. [waarheid: vergeten; trouw 0.048]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2061
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** monster
+- **plek_code:** -
+- **detail:** de ondoden
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.515, "bodem": 0.137, "techniek": 0.301, "jongens": 0.383, "honger": 0.956, "kas": 0, "edelen": 1.475, "geloof": 0.315, "openheid": 0.004, "orrim": 0.4, "beschaving": 0.504, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 10, "macht": {"staat": 0.007, "huizen": 0.187, "kerk": 0.027, "steden": 0.093, "dragers": 0.524, "buren": 0.057, "orrim": 0.075, "volk": 0.031}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2161
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.113]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.457, "bodem": 0.135, "techniek": 0.309, "jongens": 0.396, "honger": 0.959, "kas": 0.001, "edelen": 1.483, "geloof": 0.362, "openheid": 0, "orrim": 0.373, "beschaving": 0.569, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 9, "macht": {"staat": 0.007, "huizen": 0.184, "kerk": 0.027, "steden": 0.095, "dragers": 0.515, "buren": 0.067, "orrim": 0.074, "volk": 0.03}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.443, "bodem": 0.135, "techniek": 0.315, "jongens": 0.407, "honger": 0.964, "kas": 0.014, "edelen": 1.492, "geloof": 0.359, "openheid": 0, "orrim": 0.356, "beschaving": 0.605, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 10, "macht": {"staat": 0.007, "huizen": 0.181, "kerk": 0.028, "steden": 0.097, "dragers": 0.507, "buren": 0.077, "orrim": 0.072, "volk": 0.03}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.437, "bodem": 0.135, "techniek": 0.321, "jongens": 0.416, "honger": 0.949, "kas": 0.034, "edelen": 1.122, "geloof": 0.356, "openheid": 0.001, "orrim": 0.342, "beschaving": 0.42, "tijd": "Tijd van de kronen", "heerser": "Qesh", "wetten": 10, "macht": {"staat": 0.007, "huizen": 0.179, "kerk": 0.028, "steden": 0.098, "dragers": 0.5, "buren": 0.087, "orrim": 0.071, "volk": 0.029}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.432, "bodem": 0.135, "techniek": 0.327, "jongens": 0.425, "honger": 0.963, "kas": 0.125, "edelen": 1.18, "geloof": 0.352, "openheid": 0.001, "orrim": 0.331, "beschaving": 0.487, "tijd": "Tijd van de kronen", "heerser": "Qesh", "wetten": 10, "macht": {"staat": 0.007, "huizen": 0.176, "kerk": 0.029, "steden": 0.1, "dragers": 0.49, "buren": 0.097, "orrim": 0.07, "volk": 0.03}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.427, "bodem": 0.135, "techniek": 0.333, "jongens": 0.433, "honger": 0.971, "kas": 0.223, "edelen": 1.234, "geloof": 0.348, "openheid": 0, "orrim": 0.323, "beschaving": 0.553, "tijd": "Tijd van de kronen", "heerser": "Qesh", "wetten": 10, "macht": {"staat": 0.007, "huizen": 0.174, "kerk": 0.03, "steden": 0.103, "dragers": 0.479, "buren": 0.107, "orrim": 0.07, "volk": 0.031}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.422, "bodem": 0.135, "techniek": 0.339, "jongens": 0.44, "honger": 0.976, "kas": 0.324, "edelen": 1.282, "geloof": 0.344, "openheid": 0, "orrim": 0.318, "beschaving": 0.62, "tijd": "Tijd van de kronen", "heerser": "Qesh", "wetten": 10, "macht": {"staat": 0.007, "huizen": 0.173, "kerk": 0.03, "steden": 0.106, "dragers": 0.466, "buren": 0.117, "orrim": 0.069, "volk": 0.031}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2741
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.167]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.417, "bodem": 0.135, "techniek": 0.346, "jongens": 0.446, "honger": 0.979, "kas": 0.43, "edelen": 1.324, "geloof": 0.34, "openheid": 0, "orrim": 0.314, "beschaving": 0.687, "tijd": "Tijd van de kronen", "heerser": "Qesh", "wetten": 10, "macht": {"staat": 0.009, "huizen": 0.172, "kerk": 0.031, "steden": 0.108, "dragers": 0.455, "buren": 0.126, "orrim": 0.069, "volk": 0.031}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2801
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.147]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.412, "bodem": 0.135, "techniek": 0.353, "jongens": 0.452, "honger": 0.975, "kas": 0.541, "edelen": 1.36, "geloof": 0.335, "openheid": 0, "orrim": 0.312, "beschaving": 0.755, "tijd": "Tijd van de steden", "heerser": "Qesh", "wetten": 10, "macht": {"staat": 0.012, "huizen": 0.169, "kerk": 0.031, "steden": 0.11, "dragers": 0.445, "buren": 0.135, "orrim": 0.068, "volk": 0.03}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 2901
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.197]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.407, "bodem": 0.135, "techniek": 0.361, "jongens": 0.457, "honger": 0.969, "kas": 0.659, "edelen": 1.391, "geloof": 0.33, "openheid": 0, "orrim": 0.312, "beschaving": 0.823, "tijd": "Tijd van de steden", "heerser": "Qesh", "wetten": 10, "macht": {"staat": 0.019, "huizen": 0.166, "kerk": 0.031, "steden": 0.112, "dragers": 0.433, "buren": 0.143, "orrim": 0.067, "volk": 0.029}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3041
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.148]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.684, "bodem": 0.135, "techniek": 0.37, "jongens": 0.461, "honger": 0.867, "kas": 0.76, "edelen": 1.406, "geloof": 0.325, "openheid": 0, "orrim": 0.313, "beschaving": 0.891, "tijd": "Tijd van de steden", "heerser": "Qesh", "wetten": 10, "macht": {"staat": 0.028, "huizen": 0.157, "kerk": 0.03, "steden": 0.11, "dragers": 0.45, "buren": 0.145, "orrim": 0.063, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.465, "bodem": 0.135, "techniek": 0.388, "jongens": 0.465, "honger": 0.919, "kas": 0.863, "edelen": 1.406, "geloof": 0.319, "openheid": 0, "orrim": 0.315, "beschaving": 0.96, "tijd": "Tijd van de steden", "heerser": "Qesh", "wetten": 10, "macht": {"staat": 0.04, "huizen": 0.153, "kerk": 0.029, "steden": 0.113, "dragers": 0.432, "buren": 0.15, "orrim": 0.061, "volk": 0.022}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.41, "bodem": 0.135, "techniek": 0.418, "jongens": 0.469, "honger": 0.956, "kas": 0.999, "edelen": 1.419, "geloof": 0.312, "openheid": 0, "orrim": 0.317, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Qesh", "wetten": 10, "macht": {"staat": 0.055, "huizen": 0.148, "kerk": 0.028, "steden": 0.119, "dragers": 0.413, "buren": 0.154, "orrim": 0.059, "volk": 0.024}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.473, "bodem": 0.135, "techniek": 0.455, "jongens": 0.472, "honger": 1.03, "kas": 1, "edelen": 1.448, "geloof": 0.302, "openheid": 0.001, "orrim": 0.319, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Qesh", "wetten": 10, "macht": {"staat": 0.071, "huizen": 0.142, "kerk": 0.027, "steden": 0.125, "dragers": 0.391, "buren": 0.157, "orrim": 0.057, "volk": 0.029}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.405, "bodem": 0.135, "techniek": 0.482, "jongens": 0.475, "honger": 0.999, "kas": 1, "edelen": 1.476, "geloof": 0.291, "openheid": 0.009, "orrim": 0.322, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Qesh", "wetten": 10, "macht": {"staat": 0.088, "huizen": 0.138, "kerk": 0.027, "steden": 0.131, "dragers": 0.375, "buren": 0.161, "orrim": 0.055, "volk": 0.026}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.445, "bodem": 0.135, "techniek": 0.508, "jongens": 0.478, "honger": 0.983, "kas": 1, "edelen": 1.495, "geloof": 0.278, "openheid": 0.04, "orrim": 0.326, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Qesh", "wetten": 10, "macht": {"staat": 0.105, "huizen": 0.133, "kerk": 0.024, "steden": 0.133, "dragers": 0.363, "buren": 0.164, "orrim": 0.053, "volk": 0.024}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.39, "bodem": 0.135, "techniek": 0.555, "jongens": 0.48, "honger": 0.979, "kas": 1, "edelen": 1.508, "geloof": 0.263, "openheid": 0.074, "orrim": 0.33, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Qesh", "wetten": 10, "macht": {"staat": 0.121, "huizen": 0.131, "kerk": 0.014, "steden": 0.137, "dragers": 0.352, "buren": 0.169, "orrim": 0.052, "volk": 0.024}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.361, "bodem": 0.125, "techniek": 0.607, "jongens": 0.482, "honger": 1.033, "kas": 1, "edelen": 1.527, "geloof": 0.291, "openheid": 0.086, "orrim": 0.335, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Qesh", "wetten": 11, "macht": {"staat": 0.147, "huizen": 0.128, "kerk": 0.008, "steden": 0.143, "dragers": 0.323, "buren": 0.173, "orrim": 0.051, "volk": 0.027}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de nachtmerrie
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de draak met de schat
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de wandelende doden
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de vampier
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de feeën
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 3901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.351, "bodem": 0.125, "techniek": 0.802, "jongens": 0.484, "honger": 0.959, "kas": 1, "edelen": 1.512, "geloof": 0.263, "openheid": 0.163, "orrim": 0.341, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Qesh", "wetten": 11, "macht": {"staat": 0.167, "huizen": 0.118, "kerk": 0.007, "steden": 0.157, "dragers": 0.319, "buren": 0.166, "orrim": 0.047, "volk": 0.019}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.336, "bodem": 0.125, "techniek": 0.981, "jongens": 0.486, "honger": 0.948, "kas": 1, "edelen": 1.513, "geloof": 0.225, "openheid": 0.297, "orrim": 0.346, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Qesh", "wetten": 11, "macht": {"staat": 0.182, "huizen": 0.114, "kerk": 0.007, "steden": 0.179, "dragers": 0.287, "buren": 0.168, "orrim": 0.046, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4021
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.254]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.318, "bodem": 0.125, "techniek": 0.968, "jongens": 0.487, "honger": 0.906, "kas": 1, "edelen": 1.506, "geloof": 0.178, "openheid": 0.421, "orrim": 0.344, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Qesh", "wetten": 12, "macht": {"staat": 0.194, "huizen": 0.11, "kerk": 0.004, "steden": 0.191, "dragers": 0.273, "buren": 0.169, "orrim": 0.044, "volk": 0.015}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.298, "bodem": 0.125, "techniek": 0.937, "jongens": 0.489, "honger": 0.949, "kas": 1, "edelen": 1.502, "geloof": 0.133, "openheid": 0.427, "orrim": 0.347, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Qesh", "wetten": 12, "macht": {"staat": 0.198, "huizen": 0.106, "kerk": 0.008, "steden": 0.198, "dragers": 0.261, "buren": 0.17, "orrim": 0.042, "volk": 0.017}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.359, "bodem": 0.125, "techniek": 0.956, "jongens": 0.49, "honger": 0.956, "kas": 1, "edelen": 1.505, "geloof": 0.09, "openheid": 0.405, "orrim": 0.356, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Qesh", "wetten": 12, "macht": {"staat": 0.199, "huizen": 0.102, "kerk": 0.008, "steden": 0.202, "dragers": 0.263, "buren": 0.169, "orrim": 0.041, "volk": 0.017}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.322, "bodem": 0.125, "techniek": 0.998, "jongens": 0.491, "honger": 0.96, "kas": 1, "edelen": 1.509, "geloof": 0.044, "openheid": 0.41, "orrim": 0.367, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Qesh", "wetten": 12, "macht": {"staat": 0.204, "huizen": 0.099, "kerk": 0.007, "steden": 0.211, "dragers": 0.253, "buren": 0.17, "orrim": 0.04, "volk": 0.016}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.328, "bodem": 0.125, "techniek": 0.999, "jongens": 0.492, "honger": 0.963, "kas": 1, "edelen": 1.514, "geloof": 0, "openheid": 0.427, "orrim": 0.379, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Qesh", "wetten": 12, "macht": {"staat": 0.205, "huizen": 0.094, "kerk": 0.006, "steden": 0.215, "dragers": 0.259, "buren": 0.168, "orrim": 0.038, "volk": 0.016}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.362, "bodem": 0.125, "techniek": 1.0, "jongens": 0.493, "honger": 0.967, "kas": 1, "edelen": 1.52, "geloof": 0, "openheid": 0.45, "orrim": 0.391, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Qesh", "wetten": 12, "macht": {"staat": 0.206, "huizen": 0.09, "kerk": 0.005, "steden": 0.218, "dragers": 0.264, "buren": 0.166, "orrim": 0.036, "volk": 0.015}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4601
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.149]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.281, "bodem": 0.126, "techniek": 1.0, "jongens": 0.493, "honger": 0.948, "kas": 1, "edelen": 1.52, "geloof": 0, "openheid": 0.478, "orrim": 0.402, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Qesh", "wetten": 12, "macht": {"staat": 0.21, "huizen": 0.087, "kerk": 0.005, "steden": 0.226, "dragers": 0.257, "buren": 0.166, "orrim": 0.035, "volk": 0.014}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.304, "bodem": 0.126, "techniek": 1.0, "jongens": 0.494, "honger": 0.967, "kas": 1, "edelen": 1.523, "geloof": 0, "openheid": 0.508, "orrim": 0.412, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Qesh", "wetten": 12, "macht": {"staat": 0.211, "huizen": 0.083, "kerk": 0.005, "steden": 0.228, "dragers": 0.261, "buren": 0.164, "orrim": 0.033, "volk": 0.014}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 4901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.433, "bodem": 0.126, "techniek": 1.0, "jongens": 0.495, "honger": 0.976, "kas": 1, "edelen": 1.53, "geloof": 0, "openheid": 0.541, "orrim": 0.42, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Qesh", "wetten": 12, "macht": {"staat": 0.208, "huizen": 0.078, "kerk": 0.005, "steden": 0.227, "dragers": 0.277, "buren": 0.159, "orrim": 0.031, "volk": 0.014}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **jaar:** 5001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.282, "bodem": 0.127, "techniek": 1.0, "jongens": 0.495, "honger": 0.982, "kas": 1, "edelen": 1.538, "geloof": 0, "openheid": 0.576, "orrim": 0.425, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Qesh", "wetten": 12, "macht": {"staat": 0.211, "huizen": 0.076, "kerk": 0.005, "steden": 0.234, "dragers": 0.27, "buren": 0.16, "orrim": 0.031, "volk": 0.014}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3921
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** dragers
+- **doel:** TK-vrijladen
+- **plek_code:** -
+- **detail:** Vrije laadsters gaat verloren: magie onder 0,32. Opvolger: TN-elektriciteit.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1341
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** dragers
+- **doel:** TK-vrijladen
+- **plek_code:** -
+- **detail:** Vrije laadsters (gave). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het laadmonopolie van de Registerkamer (TECHNO-TIJDLIJN fase 4). Prijs: de gever droogt uit; een geladen voorwerp kost hem dagen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1421
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-kharvos
+- **plek_code:** -
+- **detail:** Kharvos-ambacht (gewoon). Noodzaak: bankroet, invasie. Breekt: het idee dat machines van de vijand zijn. Prijs: wie Kharvos-kennis haalt, heet verrader; overlopers en spionnen betalen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1601
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-roestlak
+- **plek_code:** -
+- **detail:** Roestlak (bio). Noodzaak: bankroet. Breekt: niets direct; het maakt metaal weer bruikbaar. Prijs: lakkers ademen sporen; de lak leeft en moet gevoerd worden.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1941
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-lens
+- **plek_code:** -
+- **detail:** Glazen lenzen (gewoon). Noodzaak: epidemie. Breekt: de Sterrensteen als enige lens: gewoon glas vraagt geen Orrim. Prijs: slijpers worden blind van het werk.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3921
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** dragers
+- **doel:** TK-echonet
+- **plek_code:** -
+- **detail:** Het echonet gaat verloren: magie onder 0,32. Opvolger: TN-telegraaf.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2121
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** dragers
+- **doel:** TK-echonet
+- **plek_code:** -
+- **detail:** Het echonet (gave). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de afstand tussen hof en grens. Prijs: het net sterft met de gever.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3921
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** dragers
+- **doel:** TK-laadwerkplaats
+- **plek_code:** -
+- **detail:** Laadwerkplaatsen gaat verloren: magie onder 0,32. Opvolger: TN-stoom.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2221
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** dragers
+- **doel:** TK-laadwerkplaats
+- **plek_code:** -
+- **detail:** Laadwerkplaatsen (gave). Noodzaak: honger. Breekt: niets; het maakt de dragers juist onmisbaar. Prijs: uitputting van de gevers; wie te vaak geeft, wordt grijs.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2501
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-molen
+- **plek_code:** -
+- **detail:** Water- en windmolens (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de spiermolen als enige molen: water en wind eten niet. Prijs: molenaars worden machtig; rivieren worden bezit.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2721
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-kweekakker
+- **plek_code:** -
+- **detail:** Kweekakkers (bio). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de dragers als enigen die een mislukte oogst kunnen redden. Prijs: kweekstammen worden ziek door inteelt; een uitbraak kan uit de akker komen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2781
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-lakijzer
+- **plek_code:** -
+- **detail:** Lakijzer (metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de drager als onverslaanbare krijger. Prijs: erts is schaars en mijnwerkers sterven; zonder lak eet de schimmel het zwaard.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2881
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-uurwerk
+- **plek_code:** -
+- **detail:** Uurwerk en kompas (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de tempelklok als enige maat van de dag. Prijs: de kerk verliest de uren; schippers varen verder dan de Aelthir-kaarten reiken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2981
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-spiermolen
+- **plek_code:** -
+- **detail:** Spiermolens (bio). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de dragers als enige krachtbron naast mens en dier. Prijs: het vlees lijdt en moet eten; in een hongerjaar eet de molen eerst.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3021
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-drukpers
+- **plek_code:** -
+- **detail:** De drukpers (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het laatste woord van de kerk over wat waar is. Prijs: kopiisten en sporendrukkers verliezen hun brood.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3081
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-vaccin
+- **plek_code:** -
+- **detail:** Kiemleer en vaccinatie (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de schimmel als straf: onder de lens is het een levend ding. Prijs: de eerste ingeënten zijn proefpersonen; de kerk noemt het heiligschennis.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3301
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-stoom
+- **plek_code:** -
+- **detail:** De stoommachine (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de spiermolen: een ketel eet hout, geen graan. Prijs: de wouden van de Aelthir worden gekapt; mijnwerkers en stokers sterven jong.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3361
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TN-elektriciteit
+- **plek_code:** -
+- **detail:** Elektriciteit (gewoon). Noodzaak: geloof. Breekt: de lading als enige stroom: wat eerst een drager vroeg, vraagt nu een draad. Prijs: koper uit Kharvos maakt de buren rijk; draden lopen door heilige grond.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3421
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-kluisherstel
+- **plek_code:** -
+- **detail:** Kluisherstel (metaal). Noodzaak: vondst. Breekt: het geheim van de Orde-kluizen. Prijs: elk onderdeel is voorgoed weg; kernen stralen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3461
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-lichtnet
+- **plek_code:** -
+- **detail:** Het lichtnet (zegelsteen). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de afstand tussen de kroon en haar provincies. Prijs: Orrim-steen; elk bericht is af te luisteren.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3481
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-heelkweek
+- **plek_code:** -
+- **detail:** Heelkweek (bio). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de kloosters als enige plek waar je beter wordt. Prijs: organen komen van iemand; de stam verwildert als je hem niet bewaakt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3521
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-steenlens
+- **plek_code:** -
+- **detail:** De steenlens (zegelsteen). Noodzaak: vondst. Breekt: de onzichtbaarheid van wat ziek maakt. Prijs: koud licht dat de slijper verstijft; Orrim-steen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3921
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** steden
+- **doel:** TK-sporenkern
+- **plek_code:** -
+- **detail:** De sporenkern gaat verloren: magie onder 0,32. Opvolger: geen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3541
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporenkern
+- **plek_code:** -
+- **detail:** De sporenkern (bio+metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de grens tussen levende en dode techniek. Prijs: verboden en onvoorspelbaar; uit de kern kan een uitbraak komen.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3921
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** staat
+- **doel:** TK-vleesmetaal
+- **plek_code:** -
+- **detail:** Vleesmetaal gaat verloren: magie onder 0,32. Opvolger: TN-spoor.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3561
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-vleesmetaal
+- **plek_code:** -
+- **detail:** Vleesmetaal (bio+metaal). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de lengte van een Leegtevaart. Prijs: de worm lijdt pijn en wordt waanzinnig.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3601
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TK-lichtcel
+- **plek_code:** -
+- **detail:** Lichtcellen (zegelsteen). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de dragers als enige krachtbron. Prijs: de vraag naar steen stijgt: meer Orrim in de groeven; de Sterrensteen barst bij overgebruik.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3641
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-telegraaf
+- **plek_code:** -
+- **detail:** Telegraaf (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: het lichtnet en het echonet: een bericht heeft geen steen en geen gever meer nodig. Prijs: spiegelwachters en ringdragers worden overbodig.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3661
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporennet
+- **plek_code:** -
+- **detail:** Het sporennet (bio). Noodzaak: geloof. Breekt: de kerk als enige die weet wat er in het land gebeurt. Prijs: leest alleen voor verwanten; sporen in de longen van wie leest.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3921
+- **seizoen:** -
+- **type_code:** gesch_techniek_verloren
+- **actor:** huizen
+- **doel:** TK-gaveglas
+- **plek_code:** -
+- **detail:** Gaveglas gaat verloren: magie onder 0,32. Opvolger: TN-elektriciteit.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH4-verval
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3681
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** huizen
+- **doel:** TK-gaveglas
+- **plek_code:** -
+- **detail:** Gaveglas (gave+zegelsteen). Noodzaak: geloof. Breekt: het donker van de winter voor wie het kan betalen. Prijs: de duurste lamp van Velmara; een gever en een Orrim in elke lamp.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3721
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-spoor
+- **plek_code:** -
+- **detail:** Spoorweg en stoomschip (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de Leegteworm als enige snelle reis. Prijs: grond wordt onteigend; Wormvaarders verliezen hun vak.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** steden
+- **doel:** TK-sporendruk
+- **plek_code:** -
+- **detail:** Sporendruk (bio). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de kerk als enige die schrijft en bewaart. Prijs: kopiisten verliezen hun werk; sporen in elk boek.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3841
+- **seizoen:** -
+- **type_code:** gesch_uitvinding_boom
+- **actor:** staat
+- **doel:** TN-kruit
+- **plek_code:** -
+- **detail:** Kruit (gewoon). Noodzaak: aantrekkelijk: geen crisis vroeg erom. Breekt: de drager en de muur als zekerheid in de oorlog. Prijs: salpeter wordt gekrabd in de oude melkstallen; wie daar werkt, ademt de geschiedenis in.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH3-boom
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 941
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.55, oorzaak {"S": 0.029, "E": 1.17}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1081
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** epidemie
+- **plek_code:** -
+- **detail:** Crisis epidemie (druk 0.52, oorzaak {"schim": 0.34, "O": 0.263}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1141
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.72, oorzaak {"S": 0, "E": 1.187}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1281
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** epidemie
+- **plek_code:** -
+- **detail:** Crisis epidemie (druk 0.6, oorzaak {"schim": 0.407, "O": 0.235}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1341
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.72, oorzaak {"S": 0, "E": 1.266}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1481
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** epidemie
+- **plek_code:** -
+- **detail:** Crisis epidemie (druk 0.67, oorzaak {"schim": 0.42, "O": 0.295}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1541
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** bankroet
+- **plek_code:** -
+- **detail:** Crisis bankroet (druk 0.72, oorzaak {"S": 0, "E": 1.342}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3621
+- **seizoen:** -
+- **type_code:** gesch_onopgelost
+- **actor:** -
+- **doel:** geloof
+- **plek_code:** -
+- **detail:** Crisis geloof (druk 0.75, oorzaak {"L": 0.194, "T": 1}): niemand met genoeg macht had een oplossing die rijmt.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH2-macht
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 861
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1021
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1081
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1201
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1221
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** negen_cellen
+- **plek_code:** -
+- **detail:** De negen cellen van Hesta duiken op uit een kluis.
+- **canon_code:** YSA-Z21-3
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1221
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1281
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1301
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1341
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** kern_valt
+- **plek_code:** -
+- **detail:** De kern onder Hoornburg valt stil. Kharvos heeft een nieuwe nodig.
+- **canon_code:** ORIGIN-Z1-harrow
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1461
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1481
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1861
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1901
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2041
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2121
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2121
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2141
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** koude_eeuw
+- **plek_code:** -
+- **detail:** Een koude eeuw: de oogsten mislukken.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2141
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2221
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** kern_in_worm
+- **plek_code:** -
+- **detail:** Wormvaarders vinden het Harrow-teken en de reservekern in een worm.
+- **canon_code:** ORIGIN-Z1-harrow
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2261
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2261
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2461
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2541
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2601
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2661
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2661
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2821
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2881
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2921
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3121
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3161
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3301
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3341
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3401
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3481
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3501
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** grote_drager
+- **plek_code:** -
+- **detail:** Er wordt een man geboren met de lading van een Vonkkoning.
+- **canon_code:** GAVE-Z37-ja
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3561
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3561
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3621
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3661
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3681
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3721
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3901
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4041
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4081
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4081
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4101
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4101
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4201
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** splinter
+- **plek_code:** -
+- **detail:** Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **canon_code:** ORIGIN-8
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4261
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** schimmeljaar
+- **plek_code:** -
+- **detail:** Een natte zomer: de schimmel komt de steden in.
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4461
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4541
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4601
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** aelthir_trek
+- **plek_code:** -
+- **detail:** De Aelthir verlaten hun wouden en trekken de heuvels in.
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4641
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** goede_eeuw
+- **plek_code:** -
+- **detail:** Een warme, natte eeuw: overvloed.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4801
+- **seizoen:** -
+- **type_code:** gesch_gebeurtenis
+- **actor:** -
+- **doel:** archief
+- **plek_code:** -
+- **detail:** In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **canon_code:** REG-stille
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-piek
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1561
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 1561 tot 1841. Politiek: geen crisis. Economie: honger 0.944→0.938, kas 0→0. Samenleving: jongens 0.434→0.469, 0 wetten in, 0 uit, geloof 0.339→0.35. Magie: 0.444→0.417. Verhalen op de schaal van huis en dorp: romance, komedie, dorpsintrige.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1941
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 1941 tot 2121. Politiek: geen crisis. Economie: honger 0.809→1.0, kas 0.282→0.184. Samenleving: jongens 0.476→0.485, 0 wetten in, 0 uit, geloof 0.352→0.353. Magie: 0.411→0.546. Verhalen op de schaal van huis en dorp: romance, komedie, dorpsintrige.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2241
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 2241 tot 3301. Politiek: geen crisis. Economie: honger 0.888→0.978, kas 0.104→0.836. Samenleving: jongens 0.489→0.499, 0 wetten in, 0 uit, geloof 0.352→0.256. Magie: 0.698→0.542. Verhalen op de schaal van huis en dorp: komedie, mysterie, familiesaga.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3641
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 3641 tot 4081. Politiek: geen crisis. Economie: honger 0.898→0.951, kas 1→1. Samenleving: jongens 0.5→0.5, 0 wetten in, 0 uit, geloof 0.184→0. Magie: 0.404→0.25. Verhalen op de schaal van huis en dorp: mysterie, familiesaga, stille horror.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4181
+- **seizoen:** -
+- **type_code:** gesch_rust
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** Rustige tijd 4181 tot 5001. Politiek: geen crisis. Economie: honger 0.869→1.006, kas 1→1. Samenleving: jongens 0.5→0.5, 0 wetten in, 0 uit, geloof 0.041→0. Magie: 0.239→0.155. Verhalen op de schaal van huis en dorp: mysterie, familiesaga, stille horror.
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-rust
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** deels waar: Ysa en het schip ontbreken
+- **plek_code:** -
+- **detail:** Een boerendochter uit Ambergaard brak het Zegel, en de Orde viel. [waarheid: deels waar: Ysa en het schip ontbreken; trouw 0.574]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** wormvaarders
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** askouden
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 821
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** de Aelthir
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.606, "bodem": 0.152, "techniek": 0.055, "jongens": 0.124, "honger": 0.756, "kas": 0.099, "edelen": 1.174, "geloof": 0.264, "openheid": 0.286, "orrim": 0.974, "beschaving": 0.203, "tijd": "Ruwe Jaren", "heerser": "Varenne", "wetten": 7, "macht": {"staat": 0.089, "huizen": 0.244, "kerk": 0.068, "steden": 0.07, "dragers": 0.244, "buren": 0.216, "orrim": 0.035, "volk": 0.035}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 941
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heilige Lior gaf haar licht, opdat elke vrouw zelf zou kiezen. [waarheid: vervalst; trouw 0.441]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 941
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** dragerlozen: verbrande ontvangers
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 961
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** groep
+- **plek_code:** -
+- **detail:** wormbroeders
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 961
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** groep
+- **plek_code:** -
+- **detail:** koudbloeden
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.527, "bodem": 0.15, "techniek": 0.061, "jongens": 0.211, "honger": 0.809, "kas": 0, "edelen": 1.169, "geloof": 0.277, "openheid": 0.274, "orrim": 0.946, "beschaving": 0.226, "tijd": "Ruwe Jaren", "heerser": "Varenne", "wetten": 7, "macht": {"staat": 0.064, "huizen": 0.249, "kerk": 0.068, "steden": 0.071, "dragers": 0.249, "buren": 0.228, "orrim": 0.036, "volk": 0.036}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1021
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.37]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1081
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** groep
+- **plek_code:** -
+- **detail:** nachtvlerken in de ruïnes
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1081
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** slachtoffer
+- **plek_code:** -
+- **detail:** schimmelbezetenen
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.548, "bodem": 0.149, "techniek": 0.067, "jongens": 0.279, "honger": 0.847, "kas": 0, "edelen": 1.18, "geloof": 0.29, "openheid": 0.261, "orrim": 0.915, "beschaving": 0.249, "tijd": "Ruwe Jaren", "heerser": "Varenne", "wetten": 7, "macht": {"staat": 0.034, "huizen": 0.237, "kerk": 0.065, "steden": 0.068, "dragers": 0.305, "buren": 0.224, "orrim": 0.034, "volk": 0.034}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.298]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** volk
+- **plek_code:** -
+- **detail:** de wyrmen
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het nachtadel
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1121
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** groep
+- **plek_code:** -
+- **detail:** de Langlevenden
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.497, "bodem": 0.147, "techniek": 0.074, "jongens": 0.33, "honger": 0.802, "kas": 0, "edelen": 1.195, "geloof": 0.302, "openheid": 0.247, "orrim": 0.88, "beschaving": 0.272, "tijd": "Ruwe Jaren", "heerser": "Varenne", "wetten": 7, "macht": {"staat": 0.014, "huizen": 0.24, "kerk": 0.065, "steden": 0.068, "dragers": 0.309, "buren": 0.234, "orrim": 0.034, "volk": 0.034}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1221
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** groep
+- **plek_code:** -
+- **detail:** de dwalers
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1241
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het vlerkvolk
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1281
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** monster
+- **plek_code:** -
+- **detail:** draken op de kern
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1281
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** monster
+- **plek_code:** -
+- **detail:** bloeddrinkers
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.574, "bodem": 0.147, "techniek": 0.079, "jongens": 0.37, "honger": 1.051, "kas": 0, "edelen": 1.24, "geloof": 0.314, "openheid": 0.232, "orrim": 0.84, "beschaving": 0.196, "tijd": "Ruwe Jaren", "heerser": "Varenne", "wetten": 7, "macht": {"staat": 0.014, "huizen": 0.238, "kerk": 0.065, "steden": 0.068, "dragers": 0.442, "buren": 0.064, "orrim": 0.034, "volk": 0.075}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1381
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** volk
+- **plek_code:** -
+- **detail:** de stille stoeten
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.491, "bodem": 0.146, "techniek": 0.084, "jongens": 0.4, "honger": 0.982, "kas": 0, "edelen": 1.296, "geloof": 0.326, "openheid": 0.212, "orrim": 0.794, "beschaving": 0.22, "tijd": "Ruwe Jaren", "heerser": "Varenne", "wetten": 7, "macht": {"staat": 0.011, "huizen": 0.199, "kerk": 0.053, "steden": 0.056, "dragers": 0.372, "buren": 0.23, "orrim": 0.028, "volk": 0.051}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1401
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** monster
+- **plek_code:** -
+- **detail:** de merries
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1441
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.149]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1441
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** volk
+- **plek_code:** -
+- **detail:** het heuvelvolk
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.456, "bodem": 0.144, "techniek": 0.139, "jongens": 0.423, "honger": 0.952, "kas": 0, "edelen": 1.331, "geloof": 0.335, "openheid": 0.291, "orrim": 0.744, "beschaving": 0.147, "tijd": "Ruwe Jaren", "heerser": "Kharvos van de Stille eilanden", "wetten": 8, "macht": {"staat": 0.013, "huizen": 0.234, "kerk": 0.056, "steden": 0.075, "dragers": 0.449, "buren": 0.086, "orrim": 0.033, "volk": 0.054}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1541
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** monster
+- **plek_code:** -
+- **detail:** de ondoden
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.439, "bodem": 0.143, "techniek": 0.165, "jongens": 0.441, "honger": 0.941, "kas": 0, "edelen": 1.355, "geloof": 0.342, "openheid": 0.269, "orrim": 0.692, "beschaving": 0.174, "tijd": "Ruwe Jaren", "heerser": "Kharvos van de Stille eilanden", "wetten": 8, "macht": {"staat": 0.013, "huizen": 0.23, "kerk": 0.048, "steden": 0.088, "dragers": 0.455, "buren": 0.083, "orrim": 0.033, "volk": 0.051}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.428, "bodem": 0.142, "techniek": 0.194, "jongens": 0.455, "honger": 0.937, "kas": 0, "edelen": 1.374, "geloof": 0.346, "openheid": 0.248, "orrim": 0.637, "beschaving": 0.233, "tijd": "Ruwe Jaren", "heerser": "Kharvos van de Stille eilanden", "wetten": 8, "macht": {"staat": 0.013, "huizen": 0.226, "kerk": 0.047, "steden": 0.101, "dragers": 0.451, "buren": 0.082, "orrim": 0.032, "volk": 0.049}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1761
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** monster
+- **plek_code:** -
+- **detail:** het verborgen volk
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.42, "bodem": 0.141, "techniek": 0.217, "jongens": 0.465, "honger": 0.937, "kas": 0, "edelen": 1.39, "geloof": 0.349, "openheid": 0.227, "orrim": 0.583, "beschaving": 0.294, "tijd": "Ruwe Jaren", "heerser": "Kharvos van de Stille eilanden", "wetten": 8, "macht": {"staat": 0.013, "huizen": 0.222, "kerk": 0.047, "steden": 0.107, "dragers": 0.445, "buren": 0.085, "orrim": 0.032, "volk": 0.048}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.414, "bodem": 0.14, "techniek": 0.234, "jongens": 0.473, "honger": 0.778, "kas": 0, "edelen": 1.381, "geloof": 0.351, "openheid": 0.207, "orrim": 0.53, "beschaving": 0.355, "tijd": "Ruwe Jaren", "heerser": "Kharvos van de Stille eilanden", "wetten": 9, "macht": {"staat": 0.012, "huizen": 0.216, "kerk": 0.047, "steden": 0.141, "dragers": 0.432, "buren": 0.089, "orrim": 0.031, "volk": 0.031}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 1961
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vergeten
+- **plek_code:** -
+- **detail:** Een kinderrijm. Niemand weet meer wie Lior was. [waarheid: vergeten; trouw 0.049]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.405, "bodem": 0.138, "techniek": 0.247, "jongens": 0.48, "honger": 0.847, "kas": 0.237, "edelen": 1.358, "geloof": 0.353, "openheid": 0.245, "orrim": 0.48, "beschaving": 0.417, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 10, "macht": {"staat": 0.011, "huizen": 0.195, "kerk": 0.044, "steden": 0.218, "dragers": 0.39, "buren": 0.086, "orrim": 0.028, "volk": 0.028}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.397, "bodem": 0.138, "techniek": 0.265, "jongens": 0.484, "honger": 0.892, "kas": 0.191, "edelen": 1.356, "geloof": 0.353, "openheid": 0.235, "orrim": 0.433, "beschaving": 0.48, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 10, "macht": {"staat": 0.011, "huizen": 0.191, "kerk": 0.045, "steden": 0.22, "dragers": 0.382, "buren": 0.09, "orrim": 0.027, "volk": 0.034}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2141
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.11]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.437, "bodem": 0.137, "techniek": 0.286, "jongens": 0.488, "honger": 0.888, "kas": 0.129, "edelen": 1.379, "geloof": 0.353, "openheid": 0.234, "orrim": 0.389, "beschaving": 0.543, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 10, "macht": {"staat": 0.01, "huizen": 0.166, "kerk": 0.04, "steden": 0.198, "dragers": 0.45, "buren": 0.083, "orrim": 0.024, "volk": 0.029}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2261
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.163]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.523, "bodem": 0.136, "techniek": 0.306, "jongens": 0.491, "honger": 0.891, "kas": 0.074, "edelen": 1.378, "geloof": 0.351, "openheid": 0.093, "orrim": 0.348, "beschaving": 0.608, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 11, "macht": {"staat": 0.01, "huizen": 0.217, "kerk": 0.038, "steden": 0.188, "dragers": 0.417, "buren": 0.08, "orrim": 0.022, "volk": 0.027}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2321
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.143]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.426, "bodem": 0.135, "techniek": 0.345, "jongens": 0.493, "honger": 0.907, "kas": 0.047, "edelen": 1.382, "geloof": 0.348, "openheid": 0.1, "orrim": 0.315, "beschaving": 0.674, "tijd": "Tijd van de kronen", "heerser": "Kaldra", "wetten": 11, "macht": {"staat": 0.009, "huizen": 0.211, "kerk": 0.038, "steden": 0.193, "dragers": 0.417, "buren": 0.082, "orrim": 0.021, "volk": 0.028}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2461
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.185]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.402, "bodem": 0.135, "techniek": 0.364, "jongens": 0.495, "honger": 0.918, "kas": 0.044, "edelen": 1.389, "geloof": 0.343, "openheid": 0.09, "orrim": 0.289, "beschaving": 0.742, "tijd": "Tijd van de steden", "heerser": "Kaldra", "wetten": 11, "macht": {"staat": 0.008, "huizen": 0.207, "kerk": 0.038, "steden": 0.198, "dragers": 0.414, "buren": 0.085, "orrim": 0.021, "volk": 0.029}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.545, "bodem": 0.134, "techniek": 0.381, "jongens": 0.496, "honger": 0.917, "kas": 0.064, "edelen": 1.398, "geloof": 0.337, "openheid": 0.08, "orrim": 0.269, "beschaving": 0.811, "tijd": "Tijd van de steden", "heerser": "Kaldra", "wetten": 11, "macht": {"staat": 0.008, "huizen": 0.196, "kerk": 0.037, "steden": 0.194, "dragers": 0.432, "buren": 0.085, "orrim": 0.02, "volk": 0.028}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.513, "bodem": 0.134, "techniek": 0.4, "jongens": 0.497, "honger": 0.911, "kas": 0.106, "edelen": 1.403, "geloof": 0.331, "openheid": 0.071, "orrim": 0.253, "beschaving": 0.88, "tijd": "Tijd van de steden", "heerser": "Kaldra", "wetten": 11, "macht": {"staat": 0.007, "huizen": 0.187, "kerk": 0.036, "steden": 0.191, "dragers": 0.449, "buren": 0.085, "orrim": 0.019, "volk": 0.026}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2781
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.144]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.419, "bodem": 0.134, "techniek": 0.41, "jongens": 0.498, "honger": 0.914, "kas": 0.173, "edelen": 1.409, "geloof": 0.323, "openheid": 0.063, "orrim": 0.241, "beschaving": 0.951, "tijd": "Tijd van de steden", "heerser": "Kaldra", "wetten": 11, "macht": {"staat": 0.008, "huizen": 0.186, "kerk": 0.036, "steden": 0.197, "dragers": 0.439, "buren": 0.088, "orrim": 0.019, "volk": 0.027}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2881
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.195]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 2901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.454, "bodem": 0.134, "techniek": 0.422, "jongens": 0.498, "honger": 0.904, "kas": 0.266, "edelen": 1.412, "geloof": 0.315, "openheid": 0.059, "orrim": 0.232, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Kaldra", "wetten": 11, "macht": {"staat": 0.009, "huizen": 0.189, "kerk": 0.037, "steden": 0.207, "dragers": 0.419, "buren": 0.093, "orrim": 0.019, "volk": 0.027}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.401, "bodem": 0.133, "techniek": 0.451, "jongens": 0.499, "honger": 0.906, "kas": 0.39, "edelen": 1.405, "geloof": 0.306, "openheid": 0.072, "orrim": 0.225, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Kaldra", "wetten": 11, "macht": {"staat": 0.01, "huizen": 0.19, "kerk": 0.038, "steden": 0.217, "dragers": 0.405, "buren": 0.097, "orrim": 0.019, "volk": 0.025}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3041
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.147]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.384, "bodem": 0.133, "techniek": 0.509, "jongens": 0.499, "honger": 0.952, "kas": 0.534, "edelen": 1.415, "geloof": 0.294, "openheid": 0.099, "orrim": 0.219, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Kaldra", "wetten": 11, "macht": {"staat": 0.012, "huizen": 0.188, "kerk": 0.027, "steden": 0.237, "dragers": 0.387, "buren": 0.1, "orrim": 0.019, "volk": 0.03}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3121
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.153]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.48, "bodem": 0.133, "techniek": 0.541, "jongens": 0.499, "honger": 0.982, "kas": 0.686, "edelen": 1.435, "geloof": 0.276, "openheid": 0.125, "orrim": 0.215, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Kaldra", "wetten": 11, "macht": {"staat": 0.021, "huizen": 0.186, "kerk": 0.011, "steden": 0.252, "dragers": 0.375, "buren": 0.103, "orrim": 0.019, "volk": 0.033}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3241
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** kinderrijm
+- **plek_code:** -
+- **detail:** Lior, Lior, doe de deur dicht, anders komt het licht. [waarheid: kinderrijm; trouw 0.145]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.542, "bodem": 0.133, "techniek": 0.557, "jongens": 0.499, "honger": 0.978, "kas": 0.836, "edelen": 1.456, "geloof": 0.256, "openheid": 0.126, "orrim": 0.211, "beschaving": 1, "tijd": "Tijd van de steden", "heerser": "Kaldra", "wetten": 11, "macht": {"staat": 0.032, "huizen": 0.174, "kerk": 0.01, "steden": 0.249, "dragers": 0.386, "buren": 0.1, "orrim": 0.017, "volk": 0.031}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3361
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** nacht
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de nachtmerrie
+- **canon_code:** ORIGIN-WAAROM-9
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3361
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** worm
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de draak met de schat
+- **canon_code:** NAV-wormwording-B1
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3361
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** schim
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de wandelende doden
+- **canon_code:** HORROR-SKELET-Z9-6
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3361
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** askoud
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de vampier
+- **canon_code:** BESLUIT-Z6-WRIJ-065
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3361
+- **seizoen:** -
+- **type_code:** gesch_wezen
+- **actor:** aelthir
+- **doel:** sprookje
+- **plek_code:** -
+- **detail:** de feeën
+- **canon_code:** VOLK-aelthir-V5
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-wezens
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.471, "bodem": 0.123, "techniek": 0.718, "jongens": 0.499, "honger": 0.921, "kas": 1, "edelen": 1.468, "geloof": 0.281, "openheid": 0.167, "orrim": 0.209, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.049, "huizen": 0.169, "kerk": 0.01, "steden": 0.284, "dragers": 0.347, "buren": 0.1, "orrim": 0.017, "volk": 0.024}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3401
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.301]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3421
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.291]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.521, "bodem": 0.123, "techniek": 0.898, "jongens": 0.5, "honger": 0.939, "kas": 1, "edelen": 1.469, "geloof": 0.246, "openheid": 0.19, "orrim": 0.207, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.079, "huizen": 0.155, "kerk": 0.009, "steden": 0.291, "dragers": 0.332, "buren": 0.095, "orrim": 0.015, "volk": 0.024}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.392, "bodem": 0.123, "techniek": 1, "jongens": 0.5, "honger": 0.924, "kas": 1, "edelen": 1.468, "geloof": 0.203, "openheid": 0.246, "orrim": 0.205, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.105, "huizen": 0.147, "kerk": 0.009, "steden": 0.295, "dragers": 0.314, "buren": 0.094, "orrim": 0.015, "volk": 0.021}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.498, "bodem": 0.123, "techniek": 1, "jongens": 0.5, "honger": 0.891, "kas": 1, "edelen": 1.454, "geloof": 0.156, "openheid": 0.361, "orrim": 0.204, "beschaving": 1, "tijd": "Tijd van de werkplaatsen", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.126, "huizen": 0.144, "kerk": 0.009, "steden": 0.305, "dragers": 0.291, "buren": 0.094, "orrim": 0.014, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.343, "bodem": 0.123, "techniek": 1, "jongens": 0.5, "honger": 0.91, "kas": 1, "edelen": 1.443, "geloof": 0.109, "openheid": 0.551, "orrim": 0.203, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.151, "huizen": 0.141, "kerk": 0.007, "steden": 0.306, "dragers": 0.272, "buren": 0.09, "orrim": 0.013, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 3901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.288, "bodem": 0.123, "techniek": 1, "jongens": 0.5, "honger": 0.914, "kas": 1, "edelen": 1.446, "geloof": 0.061, "openheid": 0.612, "orrim": 0.202, "beschaving": 1, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.174, "huizen": 0.137, "kerk": 0.008, "steden": 0.318, "dragers": 0.239, "buren": 0.09, "orrim": 0.013, "volk": 0.021}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.26, "bodem": 0.123, "techniek": 0.934, "jongens": 0.5, "honger": 0.954, "kas": 1, "edelen": 1.452, "geloof": 0.016, "openheid": 0.589, "orrim": 0.202, "beschaving": 0.998, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.184, "huizen": 0.131, "kerk": 0.009, "steden": 0.331, "dragers": 0.22, "buren": 0.092, "orrim": 0.013, "volk": 0.021}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4081
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.322]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4101
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.247, "bodem": 0.123, "techniek": 0.918, "jongens": 0.5, "honger": 0.958, "kas": 1, "edelen": 1.461, "geloof": 0, "openheid": 0.597, "orrim": 0.201, "beschaving": 0.999, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.192, "huizen": 0.126, "kerk": 0.008, "steden": 0.341, "dragers": 0.209, "buren": 0.092, "orrim": 0.012, "volk": 0.02}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4201
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.424, "bodem": 0.123, "techniek": 0.953, "jongens": 0.5, "honger": 0.884, "kas": 1, "edelen": 1.437, "geloof": 0.032, "openheid": 0.625, "orrim": 0.201, "beschaving": 1.0, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.199, "huizen": 0.12, "kerk": 0.007, "steden": 0.358, "dragers": 0.198, "buren": 0.091, "orrim": 0.012, "volk": 0.014}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4261
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** mythe
+- **plek_code:** -
+- **detail:** Het meisje dat de ster stal. [waarheid: mythe; trouw 0.297]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4301
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.269, "bodem": 0.123, "techniek": 0.967, "jongens": 0.5, "honger": 0.937, "kas": 1, "edelen": 1.437, "geloof": 0, "openheid": 0.662, "orrim": 0.201, "beschaving": 1.0, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.205, "huizen": 0.116, "kerk": 0.007, "steden": 0.363, "dragers": 0.19, "buren": 0.09, "orrim": 0.012, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4401
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.226, "bodem": 0.123, "techniek": 0.987, "jongens": 0.5, "honger": 0.968, "kas": 1, "edelen": 1.451, "geloof": 0, "openheid": 0.705, "orrim": 0.201, "beschaving": 1.0, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.211, "huizen": 0.111, "kerk": 0.007, "steden": 0.369, "dragers": 0.183, "buren": 0.089, "orrim": 0.011, "volk": 0.019}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4461
+- **seizoen:** -
+- **type_code:** gesch_versie801
+- **actor:** -
+- **doel:** vervalst
+- **plek_code:** -
+- **detail:** De heks Lior doofde de ster en bracht de honger. [waarheid: vervalst; trouw 0.354]
+- **canon_code:** BESLUIT-Z36-4
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-verhaal801
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4501
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.209, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.985, "kas": 1, "edelen": 1.47, "geloof": 0, "openheid": 0.751, "orrim": 0.201, "beschaving": 1.0, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.216, "huizen": 0.107, "kerk": 0.006, "steden": 0.375, "dragers": 0.176, "buren": 0.088, "orrim": 0.011, "volk": 0.019}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4601
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.197, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.974, "kas": 1, "edelen": 1.483, "geloof": 0, "openheid": 0.799, "orrim": 0.2, "beschaving": 1.0, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.222, "huizen": 0.104, "kerk": 0.006, "steden": 0.381, "dragers": 0.171, "buren": 0.087, "orrim": 0.01, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4701
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.187, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.971, "kas": 1, "edelen": 1.493, "geloof": 0, "openheid": 0.849, "orrim": 0.2, "beschaving": 1.0, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.227, "huizen": 0.101, "kerk": 0.006, "steden": 0.387, "dragers": 0.165, "buren": 0.087, "orrim": 0.01, "volk": 0.017}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4801
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.176, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 0.991, "kas": 1, "edelen": 1.508, "geloof": 0, "openheid": 0.901, "orrim": 0.2, "beschaving": 1.0, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.231, "huizen": 0.097, "kerk": 0.006, "steden": 0.393, "dragers": 0.16, "buren": 0.086, "orrim": 0.01, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 4901
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.166, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 1.001, "kas": 1, "edelen": 1.525, "geloof": 0, "openheid": 0.954, "orrim": 0.2, "beschaving": 1.0, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.235, "huizen": 0.094, "kerk": 0.006, "steden": 0.398, "dragers": 0.155, "buren": 0.085, "orrim": 0.009, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
+<!-- REC sim_gebeurtenis -->
+### None · None
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **jaar:** 5001
+- **seizoen:** -
+- **type_code:** gesch_toestand
+- **actor:** -
+- **doel:** -
+- **plek_code:** -
+- **detail:** {"magie": 0.155, "bodem": 0.123, "techniek": 1.0, "jongens": 0.5, "honger": 1.006, "kas": 1, "edelen": 1.541, "geloof": 0, "openheid": 1.0, "orrim": 0.2, "beschaving": 1.0, "tijd": "Het Gewone", "heerser": "Kaldra", "wetten": 13, "macht": {"staat": 0.239, "huizen": 0.091, "kerk": 0.005, "steden": 0.403, "dragers": 0.15, "buren": 0.084, "orrim": 0.009, "volk": 0.018}}
+- **canon_code:** 
+- **status:** voorlopig
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+- **oorzaak:** GESCH-bodem
+<!-- /REC -->
 
 <!-- SECTIE: SIM_FIGUUR -->

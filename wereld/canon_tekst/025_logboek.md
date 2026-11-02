@@ -899,5 +899,11 @@
 - **datum:** 2026-11-02
 - **wat:** Ronde Z44: de technologieboom (z44/boom.py, z44/geschiedenis.py). Nieuwe tabellen tech_knoop (17 mogelijke en 7 onmogelijke of onnodige technieken, elk met canonbron) en sim_uitvinding (migratie 011), views v_tech_boom en v_sim_uitvinding, regels R-tech_boom en R-sim_uitvinding. 5 motorregels GESCH3-*, 1000 runs Z44-GESCH-0001..1000 (dezelfde seeds als Z42 en Z43), zes gekozen runs met alle details, vier open keuzes KEUZE-Z44-*. Alles voorstel of simulatie; niets in de canon gezet.
 <!-- /REC -->
+<!-- REC logboek -->
+### 151 · 2026-11-02
+- **id:** 151
+- **datum:** 2026-11-02
+- **wat:** Ronde Z45: gebruik, gewone uitvindingen, kennis en verspreiding (z45/boom.py, z45/geschiedenis.py). 11 gewone knopen met Velmara-voorganger en Kharvos-brug; gebruik, aards equivalent, tijdperk en soort bij alle knopen (migratie 012); correctie op Z44 (stoom en kruit mogelijk, kolen open). Regels R-tech_gebruik, R-sim_effect, R-sim_convergentie (signaal); R-tech_boom kent nu A|B. 5 motorregels GESCH4-*, 1000 runs Z45-GESCH-0001..1000, zes gekozen runs met alle details, vijf open keuzes KEUZE-Z45-*. Alles voorstel of simulatie.
+<!-- /REC -->
 
 <!-- SECTIE: ANKER -->

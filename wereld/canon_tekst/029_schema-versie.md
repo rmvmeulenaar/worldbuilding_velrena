@@ -65,5 +65,11 @@
 - **naam:** z44_boom
 - **toegepast:** 2026-11-02
 <!-- /REC -->
+<!-- REC schema_versie -->
+### None · z45_gebruik
+- **versie:** 12
+- **naam:** z45_gebruik
+- **toegepast:** 2026-11-02
+<!-- /REC -->
 
 <!-- SECTIE: WIJZIGING -->

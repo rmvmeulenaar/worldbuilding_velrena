@@ -4117,5 +4117,2412 @@
 - **blijvend:** Het schip was echt. Men weet het, en het verandert niets aan wat men voelt.
 - **epistemiek:** simulatie (Z44-GESCH-0013, seed 420013)
 <!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het noorden valt aan Kharvos
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **van:** 941
+- **tot:** 1241
+- **crisis:** invasie
+- **oplossing:** nederlaag
+- **naam:** Het noorden valt aan Kharvos
+- **beslisser:** Kharvos
+- **macht_sleutel:** buren
+- **actor_macht:** 0.389
+- **mechanisme:** Kharvos verslaat het leger aan de pas en neemt het noorden
+- **handhaver:** de bezetter
+- **betaler:** het grensvolk
+- **vervalst:** de vrede die gesloten werd
+- **ontdekt:** deels
+- **schaal:** rijk
+- **oorzaak:** {"buren": 0.644, "eigen": 0.051}
+- **druk:** 0.89
+- **tweede_druk:** epidemie 0.53
+- **erft_van:** gebeurtenis 941: De kern onder Hoornburg valt stil. Kharvos heeft een nieuwe nodig.
+- **gedeeld_mechanisme:** verdelen
+- **rijmt_met:** 1 Overvloed
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": 0.093, "T": 0.047, "P": 0.077, "S": -0.075, "O": 0.091, "C": -0.056, "r": 0.036}, "macht": {"dragers": 0.07, "buren": -0.043, "staat": -0.024}, "heerser_na": "Kharvos van de Pas"}
+- **blijvend:** De machinemannen wonen nu aan deze kant van de pas.
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Een leger van dragers
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **van:** 1241
+- **tot:** 1301
+- **crisis:** invasie
+- **oplossing:** dragerleger
+- **naam:** Een leger van dragers
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.298
+- **mechanisme:** dragers ontladen op het slagveld
+- **handhaver:** de dragers
+- **betaler:** de dragers zelf, die opbranden
+- **vervalst:** hoeveel er niet terugkwamen
+- **ontdekt:** nee
+- **schaal:** rijk
+- **oorzaak:** {"buren": 0.335, "eigen": 0.0}
+- **druk:** 0.5
+- **tweede_druk:** wezens 0.44
+- **erft_van:** uitvinding 1001: Kharvos-ambacht
+- **gedeeld_mechanisme:** noodwet
+- **rijmt_met:** 7 Barsten
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.247, "T": 0.025, "P": -0.065, "C": -0.053, "r": 0.027}, "macht": {"buren": -0.153, "dragers": 0.143, "steden": 0.013}, "heerser_na": "Kharvos van de Pas"}
+- **blijvend:** Een oorlog is weer een zaak van lading.
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Een huis van bankiers neemt de schuld over
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **van:** 1301
+- **tot:** 1361
+- **crisis:** bankroet
+- **oplossing:** bankiers
+- **naam:** Een huis van bankiers neemt de schuld over
+- **beslisser:** de bankiers
+- **macht_sleutel:** steden
+- **actor_macht:** 0.114
+- **mechanisme:** een bankiershuis koopt de staatsschuld en daarmee de belasting
+- **handhaver:** de schuldboeken van de steden
+- **betaler:** de belastingbetalers
+- **vervalst:** hoeveel rente er stond
+- **ontdekt:** nee
+- **schaal:** wereld
+- **oorzaak:** {"S": 0, "E": 1.232}
+- **druk:** 0.72
+- **tweede_druk:** wezens 0.44
+- **erft_van:** fase 941: Het noorden valt aan Kharvos
+- **gedeeld_mechanisme:** verdelen
+- **rijmt_met:** fase 941 (Het noorden valt aan Kharvos)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.113, "P": 0.073, "S": 0.284, "O": 0.045, "r": 0.025}, "macht": {"steden": 0.083, "dragers": -0.052, "huizen": -0.029}, "heerser_na": "Kaldra"}
+- **blijvend:** Een familie zonder land bezit alle landen.
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De nachtwet: niemand slaapt alleen
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **van:** 1361
+- **tot:** 1581
+- **crisis:** wezens
+- **oplossing:** nachtwet
+- **naam:** De nachtwet: niemand slaapt alleen
+- **beslisser:** de dorpsmoeders
+- **macht_sleutel:** huizen
+- **actor_macht:** 0.209
+- **mechanisme:** elk huis houdt bij wie waar slaapt, en een open raam wordt beboet
+- **handhaver:** de dorpsmoeders
+- **betaler:** wie alleen woont
+- **vervalst:** waarom alleen slapen gevaarlijk is
+- **ontdekt:** nee
+- **schaal:** dorp
+- **oorzaak:** {"nacht": 0.472, "askoud": 0.449}
+- **druk:** 0.66
+- **tweede_druk:** geloof 0.31
+- **erft_van:** gebeurtenis 1321: Een winter van nachtvlerken: in elk dorp sterven slapers.
+- **gedeeld_mechanisme:** registreren
+- **rijmt_met:** fase 1301 (Een huis van bankiers neemt de schuld over)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.056, "P": 0.049, "E": 0.023, "C": 0.048, "r": 0.023}, "macht": {"buren": 0.012}, "heerser_na": "Kaldra"}
+- **blijvend:** Slapen doe je samen; een open raam is een schande.
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De schimmelmuren
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **van:** 1581
+- **tot:** 2261
+- **crisis:** epidemie
+- **oplossing:** schimmelmuren
+- **naam:** De schimmelmuren
+- **beslisser:** de artsenkloosters
+- **macht_sleutel:** steden
+- **actor_macht:** 0.2
+- **mechanisme:** de stad bouwt een binnenring; wie koorts heeft, gaat naar buiten
+- **handhaver:** de stadswacht
+- **betaler:** de besmetten achter de muur
+- **vervalst:** hoeveel er achter de muur bleven
+- **ontdekt:** deels
+- **schaal:** stad
+- **oorzaak:** {"schim": 0.344, "O": 0.371}
+- **druk:** 0.6
+- **tweede_druk:** geloof 0.27
+- **erft_van:** gebeurtenis 1581: Een natte zomer: de schimmel komt de steden in.
+- **gedeeld_mechanisme:** noodwet
+- **rijmt_met:** fase 1361 (De nachtwet: niemand slaapt alleen)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"P": -0.04, "C": 0.049}, "macht": {"steden": 0.025, "dragers": -0.01}, "heerser_na": "Kaldra"}
+- **blijvend:** Een stad heeft een binnenring voor de levenden.
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Dragers mogen alleen nog met dragers
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **van:** 2261
+- **tot:** 2621
+- **crisis:** opleving
+- **oplossing:** lijnhuwelijk
+- **naam:** Dragers mogen alleen nog met dragers
+- **beslisser:** de huizen
+- **macht_sleutel:** huizen
+- **actor_macht:** 0.147
+- **mechanisme:** dragers mogen alleen met dragers trouwen; het register weigert de rest
+- **handhaver:** de registers van de huizen
+- **betaler:** liefdes over de lijn
+- **vervalst:** wie er uit de registers verdween
+- **ontdekt:** nee
+- **schaal:** huis
+- **oorzaak:** {"M": 0.658, "gem": 0.397}
+- **druk:** 0.71
+- **tweede_druk:** orrim 0.49
+- **erft_van:** gebeurtenis 2261: Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **gedeeld_mechanisme:** registreren
+- **rijmt_met:** fase 1581 (De schimmelmuren)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"S": 0.027, "O": -0.164, "C": 0.051}, "macht": {"huizen": 0.05, "dragers": -0.035}, "heerser_na": "Kaldra"}
+- **blijvend:** Lading wordt erfgoed van een kaste.
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Dragers laten de akkers groeien
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **van:** 2621
+- **tot:** 3121
+- **crisis:** honger
+- **oplossing:** dragersakkers
+- **naam:** Dragers laten de akkers groeien
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.295
+- **mechanisme:** dragers ontladen in de akkers; wie oogst wil, huurt hun lading
+- **handhaver:** de dragers zelf
+- **betaler:** wie hun lading ontvangt
+- **vervalst:** wat het de ontvangers kost
+- **ontdekt:** nee
+- **schaal:** dorp
+- **oorzaak:** {"P/F": 1.033}
+- **druk:** 0.52
+- **tweede_druk:** wezens 0.43
+- **erft_van:** gebeurtenis 2621: Een koude eeuw: de oogsten mislukken.
+- **gedeeld_mechanisme:** lading-is-macht
+- **rijmt_met:** fase 1241 (Een leger van dragers)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.039, "P": -0.068, "S": 0.044, "C": 0.054}, "macht": {"dragers": 0.033, "huizen": -0.012}, "heerser_na": "Kaldra"}
+- **blijvend:** Een goede oogst heeft een man nodig; vruchtbaarheid is weer een gave.
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het grote twijfelen
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **van:** 3121
+- **tot:** 3261
+- **crisis:** geloof
+- **oplossing:** ongeloof
+- **naam:** Het grote twijfelen
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.21
+- **mechanisme:** de steden houden op de tiende te innen; de kerk kan niet meer dwingen
+- **handhaver:** niemand
+- **betaler:** de kerk
+- **vervalst:** niets
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"L": 0.252, "T": 0.509}
+- **druk:** 0.51
+- **tweede_druk:** wezens 0.44
+- **erft_van:** uitvinding 3081: Laadwerkplaatsen
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** 5 Ontvangst
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": -0.135, "T": 0.074, "S": 0.077, "L": 0.035, "O": 0.027}, "macht": {"staat": 0.016}, "heerser_na": "Kaldra"}
+- **blijvend:** God is een vraag geworden.
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het schip wordt erkend
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **van:** 3261
+- **tot:** 3381
+- **crisis:** vondst
+- **oplossing:** erkenning
+- **naam:** Het schip wordt erkend
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.218
+- **mechanisme:** de steden erkennen het schip als geschiedenis; de kerk kan het niet meer tegenhouden
+- **handhaver:** de geleerden
+- **betaler:** de kerk, die haar wonder verliest
+- **vervalst:** niets: de waarheid wint, maar te laat om iets te voelen
+- **ontdekt:** ja
+- **schaal:** wereld
+- **oorzaak:** {"T": 0.691, "W": 0.048}
+- **druk:** 0.5
+- **tweede_druk:** wezens 0.43
+- **erft_van:** uitvinding 3201: De stoommachine
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 3121 (Het grote twijfelen)
+- **assen_anders:** 3
+- **gevolg:** {"toestand": {"M": -0.023, "T": 0.125, "L": -0.024, "O": 0.06}, "macht": {"dragers": -0.024, "steden": 0.017, "staat": 0.015}, "heerser_na": "Kaldra"}
+- **blijvend:** Het schip was echt. Men weet het, en het verandert niets aan wat men voelt.
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De Wieg wordt gevonden en antwoordt
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **van:** 3381
+- **tot:** 4121
+- **crisis:** vondst
+- **oplossing:** wieg
+- **naam:** De Wieg wordt gevonden en antwoordt
+- **beslisser:** de geleerden en een drager
+- **macht_sleutel:** steden
+- **actor_macht:** 0.238
+- **mechanisme:** de Wieg wordt gevonden en vraagt om een ja
+- **handhaver:** de geleerden en een drager
+- **betaler:** wie haar eerst aanraakte
+- **vervalst:** wat de Wieg zei
+- **ontdekt:** deels
+- **schaal:** wereld
+- **oorzaak:** {"T": 0.842, "W": 0.462}
+- **druk:** 0.97
+- **tweede_druk:** wezens 0.42
+- **erft_van:** gebeurtenis 3341: In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **gedeeld_mechanisme:** lading-is-macht
+- **rijmt_met:** fase 2621 (Dragers laten de akkers groeien)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"T": 0.173, "L": -0.033}, "macht": {"dragers": -0.04, "steden": 0.022, "staat": 0.017}, "heerser_na": "Kaldra"}
+- **blijvend:** De machine onder de berg vraagt nog steeds om een ja.
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De schimmelmuren
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **van:** 4121
+- **tot:** 4181
+- **crisis:** epidemie
+- **oplossing:** schimmelmuren
+- **naam:** De schimmelmuren
+- **beslisser:** de artsenkloosters
+- **macht_sleutel:** steden
+- **actor_macht:** 0.294
+- **mechanisme:** de stad bouwt een binnenring; wie koorts heeft, gaat naar buiten
+- **handhaver:** de stadswacht
+- **betaler:** de besmetten achter de muur
+- **vervalst:** hoeveel er achter de muur bleven
+- **ontdekt:** deels
+- **schaal:** stad
+- **oorzaak:** {"schim": 0.577, "O": 0.595}
+- **druk:** 1.26
+- **tweede_druk:** vondst 1.25
+- **erft_van:** gebeurtenis 4121: Een natte zomer: de schimmel komt de steden in.
+- **gedeeld_mechanisme:** registreren
+- **rijmt_met:** fase 2261 (Dragers mogen alleen nog met dragers)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.04, "P": -0.098, "E": -0.022, "O": 0.025}, "macht": {"steden": 0.013}, "heerser_na": "Kaldra"}
+- **blijvend:** Een stad heeft een binnenring voor de levenden.
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het grote twijfelen
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **van:** 4181
+- **tot:** 4281
+- **crisis:** geloof
+- **oplossing:** ongeloof
+- **naam:** Het grote twijfelen
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.306
+- **mechanisme:** de steden houden op de tiende te innen; de kerk kan niet meer dwingen
+- **handhaver:** niemand
+- **betaler:** de kerk
+- **vervalst:** niets
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"L": 0, "T": 0.934}
+- **druk:** 1.52
+- **tweede_druk:** vondst 1.26
+- **erft_van:** uitvinding 3601: Sporendruk
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 3261 (Het schip wordt erkend)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.02, "T": 0.045, "P": 0.067, "L": 0.023, "O": 0.029}, "macht": {}, "heerser_na": "Kaldra"}
+- **blijvend:** God is een vraag geworden.
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het artsengilde vindt de schimmel onder glas
+- **run_id:** Z45-GESCH-0001
+- **module:** geschiedenis_z45
+- **van:** 4281
+- **tot:** 5001
+- **crisis:** epidemie
+- **oplossing:** artsengilde
+- **naam:** Het artsengilde vindt de schimmel onder glas
+- **beslisser:** de artsen
+- **macht_sleutel:** steden
+- **actor_macht:** 0.31
+- **mechanisme:** de stad geeft het artsengilde het alleenrecht op lijken, in ruil voor de oorzaak van de ziekte
+- **handhaver:** de stadsraad die het gilde erkent
+- **betaler:** de proefpersonen
+- **vervalst:** wie er in de proeven stierf
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"schim": 0.715, "O": 0.653}
+- **druk:** 1.65
+- **tweede_druk:** vondst 1.34
+- **erft_van:** gebeurtenis 4281: Een natte zomer: de schimmel komt de steden in.
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 4181 (Het grote twijfelen)
+- **assen_anders:** 3
+- **gevolg:** {"toestand": {"T": 0.021, "P": -0.072, "E": -0.023, "O": 0.034}, "macht": {}, "heerser_na": "Kaldra"}
+- **blijvend:** Ziekte heeft een oorzaak die je kunt zien.
+- **epistemiek:** simulatie (Z45-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Een leger van dragers
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **van:** 1001
+- **tot:** 1281
+- **crisis:** invasie
+- **oplossing:** dragerleger
+- **naam:** Een leger van dragers
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.188
+- **mechanisme:** dragers ontladen op het slagveld
+- **handhaver:** de dragers
+- **betaler:** de dragers zelf, die opbranden
+- **vervalst:** hoeveel er niet terugkwamen
+- **ontdekt:** nee
+- **schaal:** rijk
+- **oorzaak:** {"buren": 0.344, "eigen": 0.0}
+- **druk:** 0.52
+- **tweede_druk:** geloof 0.41
+- **erft_van:** de toestand bij 801 (BESLUIT-Z36-4)
+- **gedeeld_mechanisme:** noodwet
+- **rijmt_met:** 7 Barsten
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"P": 0.037, "C": -0.057, "r": 0.052}, "macht": {"buren": -0.178, "dragers": 0.167, "staat": -0.021}, "heerser_na": "Varenne"}
+- **blijvend:** Een oorlog is weer een zaak van lading.
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het noorden valt aan Kharvos
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **van:** 1281
+- **tot:** 1341
+- **crisis:** invasie
+- **oplossing:** nederlaag
+- **naam:** Het noorden valt aan Kharvos
+- **beslisser:** Kharvos
+- **macht_sleutel:** buren
+- **actor_macht:** 0.267
+- **mechanisme:** Kharvos verslaat het leger aan de pas en neemt het noorden
+- **handhaver:** de bezetter
+- **betaler:** het grensvolk
+- **vervalst:** de vrede die gesloten werd
+- **ontdekt:** deels
+- **schaal:** rijk
+- **oorzaak:** {"buren": 0.427, "eigen": 0.0}
+- **druk:** 0.64
+- **tweede_druk:** wezens 0.37
+- **erft_van:** gebeurtenis 1281: De kern onder Hoornburg valt stil. Kharvos heeft een nieuwe nodig.
+- **gedeeld_mechanisme:** verdelen
+- **rijmt_met:** 1 Overvloed
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": 0.065, "T": 0.069, "E": 0.024, "O": 0.087, "C": -0.054, "r": 0.029}, "macht": {"steden": 0.011, "buren": 0.011, "dragers": -0.01}, "heerser_na": "Kharvos van Saelith"}
+- **blijvend:** De machinemannen wonen nu aan deze kant van de pas.
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Een huis van bankiers neemt de schuld over
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **van:** 1341
+- **tot:** 1441
+- **crisis:** bankroet
+- **oplossing:** bankiers
+- **naam:** Een huis van bankiers neemt de schuld over
+- **beslisser:** de bankiers
+- **macht_sleutel:** steden
+- **actor_macht:** 0.108
+- **mechanisme:** een bankiershuis koopt de staatsschuld en daarmee de belasting
+- **handhaver:** de schuldboeken van de steden
+- **betaler:** de belastingbetalers
+- **vervalst:** hoeveel rente er stond
+- **ontdekt:** nee
+- **schaal:** wereld
+- **oorzaak:** {"S": 0, "E": 1.288}
+- **druk:** 0.72
+- **tweede_druk:** wezens 0.38
+- **erft_van:** fase 1281: Het noorden valt aan Kharvos
+- **gedeeld_mechanisme:** verdelen
+- **rijmt_met:** fase 1281 (Het noorden valt aan Kharvos)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": -0.09, "T": 0.023, "S": 0.243, "E": 0.022, "O": 0.041, "C": 0.048, "r": 0.026}, "macht": {"steden": 0.097, "dragers": -0.041, "huizen": -0.032}, "heerser_na": "Mirre"}
+- **blijvend:** Een familie zonder land bezit alle landen.
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Dragers mogen alleen nog met dragers
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **van:** 1441
+- **tot:** 2161
+- **crisis:** opleving
+- **oplossing:** lijnhuwelijk
+- **naam:** Dragers mogen alleen nog met dragers
+- **beslisser:** de huizen
+- **macht_sleutel:** huizen
+- **actor_macht:** 0.217
+- **mechanisme:** dragers mogen alleen met dragers trouwen; het register weigert de rest
+- **handhaver:** de registers van de huizen
+- **betaler:** liefdes over de lijn
+- **vervalst:** wie er uit de registers verdween
+- **ontdekt:** nee
+- **schaal:** huis
+- **oorzaak:** {"M": 0.875, "gem": 0.555}
+- **druk:** 1.0
+- **tweede_druk:** wezens 0.4
+- **erft_van:** gebeurtenis 1441: De negen cellen van Hesta duiken op uit een kluis.
+- **gedeeld_mechanisme:** registreren
+- **rijmt_met:** fase 1341 (Een huis van bankiers neemt de schuld over)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"P": -0.075, "S": -0.062, "O": -0.162, "C": 0.048, "r": 0.02}, "macht": {"huizen": 0.066, "dragers": -0.03, "volk": -0.017}, "heerser_na": "Mirre"}
+- **blijvend:** Lading wordt erfgoed van een kaste.
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Dragers laten de akkers groeien
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **van:** 2161
+- **tot:** 2861
+- **crisis:** honger
+- **oplossing:** dragersakkers
+- **naam:** Dragers laten de akkers groeien
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.282
+- **mechanisme:** dragers ontladen in de akkers; wie oogst wil, huurt hun lading
+- **handhaver:** de dragers zelf
+- **betaler:** wie hun lading ontvangt
+- **vervalst:** wat het de ontvangers kost
+- **ontdekt:** nee
+- **schaal:** dorp
+- **oorzaak:** {"P/F": 1.065}
+- **druk:** 0.68
+- **tweede_druk:** wezens 0.45
+- **erft_van:** gebeurtenis 2161: Een koude eeuw: de oogsten mislukken.
+- **gedeeld_mechanisme:** lading-is-macht
+- **rijmt_met:** fase 1001 (Een leger van dragers)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.043, "S": 0.027, "C": 0.052}, "macht": {"dragers": 0.043, "huizen": -0.02}, "heerser_na": "Mirre"}
+- **blijvend:** Een goede oogst heeft een man nodig; vruchtbaarheid is weer een gave.
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Dragers worden koning
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **van:** 2861
+- **tot:** 2961
+- **crisis:** opleving
+- **oplossing:** dragerskoningen
+- **naam:** Dragers worden koning
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.324
+- **mechanisme:** de sterkste lading neemt de kroon, en de wacht volgt de lading
+- **handhaver:** de dragerswacht
+- **betaler:** gewone mannen als soldaten
+- **vervalst:** dat de koningen ooit gewone jongens waren
+- **ontdekt:** nee
+- **schaal:** rijk
+- **oorzaak:** {"M": 0.701, "gem": 0.467}
+- **druk:** 0.57
+- **tweede_druk:** wezens 0.47
+- **erft_van:** gebeurtenis 2861: Er wordt een man geboren met de lading van een Vonkkoning.
+- **gedeeld_mechanisme:** lading-is-macht
+- **rijmt_met:** fase 2161 (Dragers laten de akkers groeien)
+- **assen_anders:** 3
+- **gevolg:** {"toestand": {"M": -0.07, "T": 0.03, "S": 0.113}, "macht": {"dragers": 0.068, "huizen": -0.026, "steden": -0.02}, "heerser_na": "Kharvos van Saelith"}
+- **blijvend:** Koningschap volgt de lading; een kroon gloeit.
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het grote twijfelen
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **van:** 2961
+- **tot:** 3041
+- **crisis:** geloof
+- **oplossing:** ongeloof
+- **naam:** Het grote twijfelen
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.199
+- **mechanisme:** de steden houden op de tiende te innen; de kerk kan niet meer dwingen
+- **handhaver:** niemand
+- **betaler:** de kerk
+- **vervalst:** niets
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"L": 0.252, "T": 0.548}
+- **druk:** 0.51
+- **tweede_druk:** wezens 0.47
+- **erft_van:** uitvinding 2961: De drukpers
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** 5 Ontvangst
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": -0.078, "T": 0.076, "L": 0.033, "O": 0.023}, "macht": {"staat": 0.016, "kerk": -0.016, "steden": 0.013}, "heerser_na": "Kharvos van Saelith"}
+- **blijvend:** God is een vraag geworden.
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het schip wordt erkend
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **van:** 3041
+- **tot:** 3221
+- **crisis:** vondst
+- **oplossing:** erkenning
+- **naam:** Het schip wordt erkend
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.214
+- **mechanisme:** de steden erkennen het schip als geschiedenis; de kerk kan het niet meer tegenhouden
+- **handhaver:** de geleerden
+- **betaler:** de kerk, die haar wonder verliest
+- **vervalst:** niets: de waarheid wint, maar te laat om iets te voelen
+- **ontdekt:** ja
+- **schaal:** wereld
+- **oorzaak:** {"T": 0.631, "W": 0.348}
+- **druk:** 0.5
+- **tweede_druk:** epidemie 0.48
+- **erft_van:** uitvinding 3041: Elektriciteit
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 2961 (Het grote twijfelen)
+- **assen_anders:** 3
+- **gevolg:** {"toestand": {"M": -0.026, "T": 0.063, "L": -0.021, "O": 0.035}, "macht": {"dragers": -0.022, "staat": 0.018, "steden": 0.012}, "heerser_na": "Kharvos van Saelith"}
+- **blijvend:** Het schip was echt. Men weet het, en het verandert niets aan wat men voelt.
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De Wieg wordt gevonden en antwoordt
+- **run_id:** Z45-GESCH-0002
+- **module:** geschiedenis_z45
+- **van:** 3221
+- **tot:** 5001
+- **crisis:** vondst
+- **oplossing:** wieg
+- **naam:** De Wieg wordt gevonden en antwoordt
+- **beslisser:** de geleerden en een drager
+- **macht_sleutel:** steden
+- **actor_macht:** 0.239
+- **mechanisme:** de Wieg wordt gevonden en vraagt om een ja
+- **handhaver:** de geleerden en een drager
+- **betaler:** wie haar eerst aanraakte
+- **vervalst:** wat de Wieg zei
+- **ontdekt:** deels
+- **schaal:** wereld
+- **oorzaak:** {"T": 0.956, "W": 0.694}
+- **druk:** 1.29
+- **tweede_druk:** wezens 0.46
+- **erft_van:** uitvinding 3141: De sporenkern
+- **gedeeld_mechanisme:** lading-is-macht
+- **rijmt_met:** fase 2861 (Dragers worden koning)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"T": 0.093, "L": -0.037, "O": 0.144}, "macht": {"staat": 0.021, "dragers": -0.013}, "heerser_na": "Kharvos van Saelith"}
+- **blijvend:** De machine onder de berg vraagt nog steeds om een ja.
+- **epistemiek:** simulatie (Z45-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Dragers worden koning
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 881
+- **tot:** 1021
+- **crisis:** opleving
+- **oplossing:** dragerskoningen
+- **naam:** Dragers worden koning
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.183
+- **mechanisme:** de sterkste lading neemt de kroon, en de wacht volgt de lading
+- **handhaver:** de dragerswacht
+- **betaler:** gewone mannen als soldaten
+- **vervalst:** dat de koningen ooit gewone jongens waren
+- **ontdekt:** nee
+- **schaal:** rijk
+- **oorzaak:** {"M": 1.012, "gem": 0.652}
+- **druk:** 1.2
+- **tweede_druk:** geloof 0.48
+- **erft_van:** gebeurtenis 881: Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **gedeeld_mechanisme:** lading-is-macht
+- **rijmt_met:** 2 Vonk
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": 0.194, "P": 0.062, "S": -0.137, "C": 0.042, "r": 0.069}, "macht": {"dragers": 0.125, "huizen": -0.041, "staat": -0.032}, "heerser_na": "Kaldra van de Zoutkust"}
+- **blijvend:** Koningschap volgt de lading; een kroon gloeit.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het noorden valt aan Kharvos
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 1021
+- **tot:** 1121
+- **crisis:** invasie
+- **oplossing:** nederlaag
+- **naam:** Het noorden valt aan Kharvos
+- **beslisser:** Kharvos
+- **macht_sleutel:** buren
+- **actor_macht:** 0.245
+- **mechanisme:** Kharvos verslaat het leger aan de pas en neemt het noorden
+- **handhaver:** de bezetter
+- **betaler:** het grensvolk
+- **vervalst:** de vrede die gesloten werd
+- **ontdekt:** deels
+- **schaal:** rijk
+- **oorzaak:** {"buren": 0.401, "eigen": 0.0}
+- **druk:** 0.6
+- **tweede_druk:** epidemie 0.52
+- **erft_van:** de toestand bij 801 (BESLUIT-Z36-4)
+- **gedeeld_mechanisme:** verdelen
+- **rijmt_met:** 1 Overvloed
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.269, "T": 0.044, "P": 0.031, "E": 0.021, "O": 0.088, "C": -0.057, "r": 0.051}, "macht": {"buren": 0.028, "staat": -0.02}, "heerser_na": "Kharvos van Saelith"}
+- **blijvend:** De machinemannen wonen nu aan deze kant van de pas.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Dragers laten de akkers groeien
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 1121
+- **tot:** 1181
+- **crisis:** honger
+- **oplossing:** dragersakkers
+- **naam:** Dragers laten de akkers groeien
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.291
+- **mechanisme:** dragers ontladen in de akkers; wie oogst wil, huurt hun lading
+- **handhaver:** de dragers zelf
+- **betaler:** wie hun lading ontvangt
+- **vervalst:** wat het de ontvangers kost
+- **ontdekt:** nee
+- **schaal:** dorp
+- **oorzaak:** {"P/F": 1.04}
+- **druk:** 0.55
+- **tweede_druk:** wezens 0.41
+- **erft_van:** gebeurtenis 1121: Een koude eeuw: de oogsten mislukken.
+- **gedeeld_mechanisme:** lading-is-macht
+- **rijmt_met:** fase 881 (Dragers worden koning)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": -0.204, "P": -0.047, "C": 0.045, "r": 0.041}, "macht": {"dragers": 0.061, "staat": -0.019, "huizen": -0.017}, "heerser_na": "Kharvos van Saelith"}
+- **blijvend:** Een goede oogst heeft een man nodig; vruchtbaarheid is weer een gave.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Een leger van dragers
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 1181
+- **tot:** 1721
+- **crisis:** invasie
+- **oplossing:** dragerleger
+- **naam:** Een leger van dragers
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.359
+- **mechanisme:** dragers ontladen op het slagveld
+- **handhaver:** de dragers
+- **betaler:** de dragers zelf, die opbranden
+- **vervalst:** hoeveel er niet terugkwamen
+- **ontdekt:** nee
+- **schaal:** rijk
+- **oorzaak:** {"buren": 0.494, "eigen": 0.0}
+- **druk:** 0.74
+- **tweede_druk:** epidemie 0.73
+- **erft_van:** gebeurtenis 1061: De kern onder Hoornburg valt stil. Kharvos heeft een nieuwe nodig.
+- **gedeeld_mechanisme:** lading-is-macht
+- **rijmt_met:** fase 1121 (Dragers laten de akkers groeien)
+- **assen_anders:** 3
+- **gevolg:** {"toestand": {"M": -0.093, "P": 0.054, "C": -0.056, "r": 0.036}, "macht": {"buren": -0.151, "dragers": 0.131, "volk": 0.01}, "heerser_na": "Kharvos van Saelith"}
+- **blijvend:** Een oorlog is weer een zaak van lading.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De Orrim worden in de groeven vastgehouden
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 1721
+- **tot:** 1841
+- **crisis:** orrim
+- **oplossing:** orrimgroeve
+- **naam:** De Orrim worden in de groeven vastgehouden
+- **beslisser:** de mijnhuizen
+- **macht_sleutel:** huizen
+- **actor_macht:** 0.144
+- **mechanisme:** de mijnhuizen sluiten de groeven af en mijnen de doden
+- **handhaver:** de mijnwachten
+- **betaler:** de Orrim
+- **vervalst:** dat het een volk is en geen groeve
+- **ontdekt:** nee
+- **schaal:** rijk
+- **oorzaak:** {"mijn": 0.944, "orrim": 0.529}
+- **druk:** 0.63
+- **tweede_druk:** wezens 0.48
+- **erft_van:** de toestand bij 801 (BESLUIT-Z36-4)
+- **gedeeld_mechanisme:** lichaam-is-waar
+- **rijmt_met:** fase 1121 (Dragers laten de akkers groeien)
+- **assen_anders:** 3
+- **gevolg:** {"toestand": {"M": 0.067, "C": 0.05}, "macht": {"orrim": 0.052, "dragers": -0.02, "huizen": -0.016}, "heerser_na": "Kharvos van Saelith"}
+- **blijvend:** Een volk is een mijn geworden.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het noorden valt aan Kharvos
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 1841
+- **tot:** 1961
+- **crisis:** invasie
+- **oplossing:** nederlaag
+- **naam:** Het noorden valt aan Kharvos
+- **beslisser:** Kharvos
+- **macht_sleutel:** buren
+- **actor_macht:** 0.163
+- **mechanisme:** Kharvos verslaat het leger aan de pas en neemt het noorden
+- **handhaver:** de bezetter
+- **betaler:** het grensvolk
+- **vervalst:** de vrede die gesloten werd
+- **ontdekt:** deels
+- **schaal:** rijk
+- **oorzaak:** {"buren": 0.45, "eigen": 0.0}
+- **druk:** 0.68
+- **tweede_druk:** orrim 0.6
+- **erft_van:** uitvinding 1261: Kharvos-ambacht
+- **gedeeld_mechanisme:** verdelen
+- **rijmt_met:** fase 1021 (Het noorden valt aan Kharvos)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.045, "T": 0.051, "O": 0.086, "C": -0.047}, "macht": {"buren": -0.089, "dragers": 0.048, "steden": 0.014}, "heerser_na": "Kharvos van de Zoutkust"}
+- **blijvend:** De machinemannen wonen nu aan deze kant van de pas.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De Orrim krijgen het recht op hun doden
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 1961
+- **tot:** 2021
+- **crisis:** orrim
+- **oplossing:** orrimrecht
+- **naam:** De Orrim krijgen het recht op hun doden
+- **beslisser:** een raad van vrouwen
+- **macht_sleutel:** huizen
+- **actor_macht:** 0.139
+- **mechanisme:** een raad van vrouwen erkent dat de Orrim hun doden houden
+- **handhaver:** de moederraden
+- **betaler:** de mijnhuizen
+- **vervalst:** hoeveel er al gemijnd was
+- **ontdekt:** ja
+- **schaal:** rijk
+- **oorzaak:** {"mijn": 1, "orrim": 0.378}
+- **druk:** 0.51
+- **tweede_druk:** wezens 0.47
+- **erft_van:** fase 1721: De Orrim worden in de groeven vastgehouden
+- **gedeeld_mechanisme:** erven
+- **rijmt_met:** fase 881 (Dragers worden koning)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": 0.357, "P": 0.032, "L": 0.047, "C": 0.054}, "macht": {"dragers": -0.016, "buren": 0.013}, "heerser_na": "Kharvos van de Zoutkust"}
+- **blijvend:** Een volk mag zijn doden houden; wie een groeve roeft, is een grafrover.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Dragers worden koning
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 2021
+- **tot:** 2121
+- **crisis:** opleving
+- **oplossing:** dragerskoningen
+- **naam:** Dragers worden koning
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.52
+- **mechanisme:** de sterkste lading neemt de kroon, en de wacht volgt de lading
+- **handhaver:** de dragerswacht
+- **betaler:** gewone mannen als soldaten
+- **vervalst:** dat de koningen ooit gewone jongens waren
+- **ontdekt:** nee
+- **schaal:** rijk
+- **oorzaak:** {"M": 0.76, "gem": 0.519}
+- **druk:** 0.61
+- **tweede_druk:** wezens 0.49
+- **erft_van:** gebeurtenis 2021: Een nieuwe splinter Sterrensteen wordt gevonden in de woestijn.
+- **gedeeld_mechanisme:** erven
+- **rijmt_met:** fase 1961 (De Orrim krijgen het recht op hun doden)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.098, "S": 0.037, "C": 0.054}, "macht": {"dragers": 0.026, "huizen": -0.014}, "heerser_na": "Mirre"}
+- **blijvend:** Koningschap volgt de lading; een kroon gloeit.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het artsengilde vindt de schimmel onder glas
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 2121
+- **tot:** 2461
+- **crisis:** epidemie
+- **oplossing:** artsengilde
+- **naam:** Het artsengilde vindt de schimmel onder glas
+- **beslisser:** de artsen
+- **macht_sleutel:** steden
+- **actor_macht:** 0.103
+- **mechanisme:** de stad geeft het artsengilde het alleenrecht op lijken, in ruil voor de oorzaak van de ziekte
+- **handhaver:** de stadsraad die het gilde erkent
+- **betaler:** de proefpersonen
+- **vervalst:** wie er in de proeven stierf
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"schim": 0.455, "O": 0.294}
+- **druk:** 0.72
+- **tweede_druk:** wezens 0.49
+- **erft_van:** gebeurtenis 2121: Een natte zomer: de schimmel komt de steden in.
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** 5 Ontvangst
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": -0.087, "T": 0.067, "P": -0.088, "S": 0.022, "C": 0.056}, "macht": {"buren": 0.013, "dragers": -0.012}, "heerser_na": "Mirre"}
+- **blijvend:** Ziekte heeft een oorzaak die je kunt zien.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De schimmelmuren
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 2461
+- **tot:** 2761
+- **crisis:** epidemie
+- **oplossing:** schimmelmuren
+- **naam:** De schimmelmuren
+- **beslisser:** de artsenkloosters
+- **macht_sleutel:** steden
+- **actor_macht:** 0.119
+- **mechanisme:** de stad bouwt een binnenring; wie koorts heeft, gaat naar buiten
+- **handhaver:** de stadswacht
+- **betaler:** de besmetten achter de muur
+- **vervalst:** hoeveel er achter de muur bleven
+- **ontdekt:** deels
+- **schaal:** stad
+- **oorzaak:** {"schim": 0.64, "O": 0.285}
+- **druk:** 0.5
+- **tweede_druk:** wezens 0.47
+- **erft_van:** gebeurtenis 2461: Een natte zomer: de schimmel komt de steden in.
+- **gedeeld_mechanisme:** registreren
+- **rijmt_met:** fase 2121 (Het artsengilde vindt de schimmel onder glas)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.051, "P": -0.109, "S": 0.025, "C": 0.058}, "macht": {"steden": 0.019, "dragers": -0.013, "volk": -0.01}, "heerser_na": "Mirre"}
+- **blijvend:** Een stad heeft een binnenring voor de levenden.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Dragers laten de akkers groeien
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 2761
+- **tot:** 2901
+- **crisis:** honger
+- **oplossing:** dragersakkers
+- **naam:** Dragers laten de akkers groeien
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.502
+- **mechanisme:** dragers ontladen in de akkers; wie oogst wil, huurt hun lading
+- **handhaver:** de dragers zelf
+- **betaler:** wie hun lading ontvangt
+- **vervalst:** wat het de ontvangers kost
+- **ontdekt:** nee
+- **schaal:** dorp
+- **oorzaak:** {"P/F": 1.037}
+- **druk:** 0.53
+- **tweede_druk:** wezens 0.46
+- **erft_van:** gebeurtenis 2761: Een koude eeuw: de oogsten mislukken.
+- **gedeeld_mechanisme:** lading-is-macht
+- **rijmt_met:** fase 2021 (Dragers worden koning)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": 0.052, "T": 0.027, "P": -0.091, "S": 0.048, "C": 0.061}, "macht": {"dragers": 0.019}, "heerser_na": "Mirre"}
+- **blijvend:** Een goede oogst heeft een man nodig; vruchtbaarheid is weer een gave.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het artsengilde vindt de schimmel onder glas
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 2901
+- **tot:** 2961
+- **crisis:** epidemie
+- **oplossing:** artsengilde
+- **naam:** Het artsengilde vindt de schimmel onder glas
+- **beslisser:** de artsen
+- **macht_sleutel:** steden
+- **actor_macht:** 0.157
+- **mechanisme:** de stad geeft het artsengilde het alleenrecht op lijken, in ruil voor de oorzaak van de ziekte
+- **handhaver:** de stadsraad die het gilde erkent
+- **betaler:** de proefpersonen
+- **vervalst:** wie er in de proeven stierf
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"schim": 0.366, "O": 0.282}
+- **druk:** 0.57
+- **tweede_druk:** wezens 0.46
+- **erft_van:** gebeurtenis 2901: Een natte zomer: de schimmel komt de steden in.
+- **gedeeld_mechanisme:** registreren
+- **rijmt_met:** fase 2461 (De schimmelmuren)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": -0.121, "T": 0.159, "P": -0.062, "S": 0.05, "L": -0.02, "O": 0.03}, "macht": {"dragers": -0.025, "steden": 0.024}, "heerser_na": "Mirre"}
+- **blijvend:** Ziekte heeft een oorzaak die je kunt zien.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het schip wordt erkend
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 2961
+- **tot:** 3021
+- **crisis:** vondst
+- **oplossing:** erkenning
+- **naam:** Het schip wordt erkend
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.175
+- **mechanisme:** de steden erkennen het schip als geschiedenis; de kerk kan het niet meer tegenhouden
+- **handhaver:** de geleerden
+- **betaler:** de kerk, die haar wonder verliest
+- **vervalst:** niets: de waarheid wint, maar te laat om iets te voelen
+- **ontdekt:** ja
+- **schaal:** wereld
+- **oorzaak:** {"T": 0.759, "W": 0.052}
+- **druk:** 0.64
+- **tweede_druk:** geloof 0.53
+- **erft_van:** fase 2901: Het artsengilde vindt de schimmel onder glas
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 2901 (Het artsengilde vindt de schimmel onder glas)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.055, "T": 0.036, "P": 0.114, "S": 0.055, "L": -0.025, "O": 0.025}, "macht": {"kerk": -0.013, "dragers": -0.013, "steden": 0.012}, "heerser_na": "Mirre"}
+- **blijvend:** Het schip was echt. Men weet het, en het verandert niets aan wat men voelt.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het grote twijfelen
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 3021
+- **tot:** 3081
+- **crisis:** geloof
+- **oplossing:** ongeloof
+- **naam:** Het grote twijfelen
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.183
+- **mechanisme:** de steden houden op de tiende te innen; de kerk kan niet meer dwingen
+- **handhaver:** niemand
+- **betaler:** de kerk
+- **vervalst:** niets
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"L": 0.229, "T": 0.778}
+- **druk:** 0.61
+- **tweede_druk:** wezens 0.45
+- **erft_van:** fase 2961: Het schip wordt erkend
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 2961 (Het schip wordt erkend)
+- **assen_anders:** 3
+- **gevolg:** {"toestand": {"M": -0.037, "T": 0.059, "S": 0.074, "L": 0.022, "O": 0.04}, "macht": {"dragers": -0.014}, "heerser_na": "Mirre"}
+- **blijvend:** God is een vraag geworden.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De Wieg wordt gevonden en antwoordt
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 3081
+- **tot:** 3921
+- **crisis:** vondst
+- **oplossing:** wieg
+- **naam:** De Wieg wordt gevonden en antwoordt
+- **beslisser:** de geleerden en een drager
+- **macht_sleutel:** steden
+- **actor_macht:** 0.19
+- **mechanisme:** de Wieg wordt gevonden en vraagt om een ja
+- **handhaver:** de geleerden en een drager
+- **betaler:** wie haar eerst aanraakte
+- **vervalst:** wat de Wieg zei
+- **ontdekt:** deels
+- **schaal:** wereld
+- **oorzaak:** {"T": 0.833, "W": 0.5}
+- **druk:** 0.97
+- **tweede_druk:** wezens 0.44
+- **erft_van:** gebeurtenis 3081: In een ingestorte kelder ligt een archief van de Stille Zusters.
+- **gedeeld_mechanisme:** lading-is-macht
+- **rijmt_met:** fase 2761 (Dragers laten de akkers groeien)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"T": 0.122, "S": 0.082, "L": -0.032, "O": 0.071}, "macht": {"dragers": -0.02, "steden": 0.015}, "heerser_na": "Mirre"}
+- **blijvend:** De machine onder de berg vraagt nog steeds om een ja.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De schimmelmuren
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 3921
+- **tot:** 3981
+- **crisis:** epidemie
+- **oplossing:** schimmelmuren
+- **naam:** De schimmelmuren
+- **beslisser:** de artsenkloosters
+- **macht_sleutel:** steden
+- **actor_macht:** 0.267
+- **mechanisme:** de stad bouwt een binnenring; wie koorts heeft, gaat naar buiten
+- **handhaver:** de stadswacht
+- **betaler:** de besmetten achter de muur
+- **vervalst:** hoeveel er achter de muur bleven
+- **ontdekt:** deels
+- **schaal:** stad
+- **oorzaak:** {"schim": 0.544, "O": 0.919}
+- **druk:** 1.54
+- **tweede_druk:** vondst 1.36
+- **erft_van:** gebeurtenis 3921: Een natte zomer: de schimmel komt de steden in.
+- **gedeeld_mechanisme:** registreren
+- **rijmt_met:** fase 2901 (Het artsengilde vindt de schimmel onder glas)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"T": -0.036, "P": -0.125}, "macht": {"steden": 0.012}, "heerser_na": "Mirre"}
+- **blijvend:** Een stad heeft een binnenring voor de levenden.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het grote twijfelen
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 3981
+- **tot:** 4881
+- **crisis:** geloof
+- **oplossing:** ongeloof
+- **naam:** Het grote twijfelen
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.278
+- **mechanisme:** de steden houden op de tiende te innen; de kerk kan niet meer dwingen
+- **handhaver:** niemand
+- **betaler:** de kerk
+- **vervalst:** niets
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"L": 0, "T": 0.942}
+- **druk:** 1.52
+- **tweede_druk:** vondst 1.31
+- **erft_van:** uitvinding 3801: Lichtcellen
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 3021 (Het grote twijfelen)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"P": 0.056, "L": 0.023}, "macht": {}, "heerser_na": "Mirre"}
+- **blijvend:** God is een vraag geworden.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het artsengilde vindt de schimmel onder glas
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 4881
+- **tot:** 4941
+- **crisis:** epidemie
+- **oplossing:** artsengilde
+- **naam:** Het artsengilde vindt de schimmel onder glas
+- **beslisser:** de artsen
+- **macht_sleutel:** steden
+- **actor_macht:** 0.323
+- **mechanisme:** de stad geeft het artsengilde het alleenrecht op lijken, in ruil voor de oorzaak van de ziekte
+- **handhaver:** de stadsraad die het gilde erkent
+- **betaler:** de proefpersonen
+- **vervalst:** wie er in de proeven stierf
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"schim": 0.552, "O": 1.0}
+- **druk:** 1.66
+- **tweede_druk:** vondst 1.5
+- **erft_van:** gebeurtenis 4881: Een natte zomer: de schimmel komt de steden in.
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 3981 (Het grote twijfelen)
+- **assen_anders:** 3
+- **gevolg:** {"toestand": {"P": -0.088}, "macht": {}, "heerser_na": "Mirre"}
+- **blijvend:** Ziekte heeft een oorzaak die je kunt zien.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het grote twijfelen
+- **run_id:** Z45-GESCH-0003
+- **module:** geschiedenis_z45
+- **van:** 4941
+- **tot:** 5001
+- **crisis:** geloof
+- **oplossing:** ongeloof
+- **naam:** Het grote twijfelen
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.326
+- **mechanisme:** de steden houden op de tiende te innen; de kerk kan niet meer dwingen
+- **handhaver:** niemand
+- **betaler:** de kerk
+- **vervalst:** niets
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"L": 0, "T": 1.0}
+- **druk:** 1.52
+- **tweede_druk:** vondst 1.49
+- **erft_van:** fase 4881: Het artsengilde vindt de schimmel onder glas
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 4881 (Het artsengilde vindt de schimmel onder glas)
+- **assen_anders:** 3
+- **gevolg:** {"toestand": {"P": 0.046, "L": 0.022}, "macht": {}, "heerser_na": "Mirre"}
+- **blijvend:** God is een vraag geworden.
+- **epistemiek:** simulatie (Z45-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het noorden valt aan Kharvos
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 861
+- **tot:** 1081
+- **crisis:** invasie
+- **oplossing:** nederlaag
+- **naam:** Het noorden valt aan Kharvos
+- **beslisser:** Kharvos
+- **macht_sleutel:** buren
+- **actor_macht:** 0.375
+- **mechanisme:** Kharvos verslaat het leger aan de pas en neemt het noorden
+- **handhaver:** de bezetter
+- **betaler:** het grensvolk
+- **vervalst:** de vrede die gesloten werd
+- **ontdekt:** deels
+- **schaal:** rijk
+- **oorzaak:** {"buren": 0.624, "eigen": 0.156}
+- **druk:** 0.7
+- **tweede_druk:** geloof 0.49
+- **erft_van:** gebeurtenis 841: De kern onder Hoornburg valt stil. Kharvos heeft een nieuwe nodig.
+- **gedeeld_mechanisme:** verdelen
+- **rijmt_met:** 1 Overvloed
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": -0.022, "T": 0.045, "P": 0.052, "S": -0.215, "O": 0.091, "C": -0.057, "r": 0.077}, "macht": {"buren": -0.156, "huizen": 0.059, "dragers": 0.042}, "heerser_na": "Kharvos van Groenmuil"}
+- **blijvend:** De machinemannen wonen nu aan deze kant van de pas.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Een leger van dragers
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 1081
+- **tot:** 1141
+- **crisis:** invasie
+- **oplossing:** dragerleger
+- **naam:** Een leger van dragers
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.192
+- **mechanisme:** dragers ontladen op het slagveld
+- **handhaver:** de dragers
+- **betaler:** de dragers zelf, die opbranden
+- **vervalst:** hoeveel er niet terugkwamen
+- **ontdekt:** nee
+- **schaal:** rijk
+- **oorzaak:** {"buren": 0.335, "eigen": 0.0}
+- **druk:** 0.5
+- **tweede_druk:** geloof 0.39
+- **erft_van:** uitvinding 1001: Kharvos-ambacht
+- **gedeeld_mechanisme:** noodwet
+- **rijmt_met:** 7 Barsten
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": 0.43, "P": 0.044, "C": -0.056, "r": 0.046}, "macht": {"dragers": 0.255, "buren": -0.185, "huizen": -0.028}, "heerser_na": "Kharvos van Groenmuil"}
+- **blijvend:** Een oorlog is weer een zaak van lading.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Een kleiner zegel wordt gesmeed
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 1141
+- **tot:** 1201
+- **crisis:** opleving
+- **oplossing:** smeden
+- **naam:** Een kleiner zegel wordt gesmeed
+- **beslisser:** wie de fragmenten heeft
+- **macht_sleutel:** huizen
+- **actor_macht:** 0.241
+- **mechanisme:** wie de fragmenten heeft, bindt dienaren in nieuwe steen en laat die ja zeggen namens anderen
+- **handhaver:** de wachters van de steen
+- **betaler:** wie in de nieuwe steen wordt gebonden
+- **vervalst:** dat het een zegel is
+- **ontdekt:** nee
+- **schaal:** rijk
+- **oorzaak:** {"M": 1.011, "gem": 0.611}
+- **druk:** 1.4
+- **tweede_druk:** bankroet 0.72
+- **erft_van:** gebeurtenis 1141: Er wordt een man geboren met de lading van een Vonkkoning.
+- **gedeeld_mechanisme:** namens-beslissen
+- **rijmt_met:** 801 Heden
+- **assen_anders:** 3
+- **gevolg:** {"toestand": {"T": 0.023, "P": 0.023, "C": 0.045, "r": 0.04}, "macht": {"dragers": 0.032, "huizen": -0.022, "staat": -0.012}, "heerser_na": "Kharvos van Groenmuil"}
+- **blijvend:** Er zegt weer iets ja namens anderen, kleiner dan het eerste Zegel.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Een huis van bankiers neemt de schuld over
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 1201
+- **tot:** 1261
+- **crisis:** bankroet
+- **oplossing:** bankiers
+- **naam:** Een huis van bankiers neemt de schuld over
+- **beslisser:** de bankiers
+- **macht_sleutel:** steden
+- **actor_macht:** 0.103
+- **mechanisme:** een bankiershuis koopt de staatsschuld en daarmee de belasting
+- **handhaver:** de schuldboeken van de steden
+- **betaler:** de belastingbetalers
+- **vervalst:** hoeveel rente er stond
+- **ontdekt:** nee
+- **schaal:** wereld
+- **oorzaak:** {"S": 0, "E": 1.176}
+- **druk:** 0.72
+- **tweede_druk:** wezens 0.46
+- **erft_van:** fase 861: Het noorden valt aan Kharvos
+- **gedeeld_mechanisme:** verdelen
+- **rijmt_met:** fase 861 (Het noorden valt aan Kharvos)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.195, "P": 0.025, "S": 0.251, "O": 0.046, "C": 0.046, "r": 0.034}, "macht": {"steden": 0.091, "dragers": -0.052, "huizen": -0.028}, "heerser_na": "Kaldra"}
+- **blijvend:** Een familie zonder land bezit alle landen.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De schimmelmuren
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 1261
+- **tot:** 1321
+- **crisis:** epidemie
+- **oplossing:** schimmelmuren
+- **naam:** De schimmelmuren
+- **beslisser:** de artsenkloosters
+- **macht_sleutel:** steden
+- **actor_macht:** 0.191
+- **mechanisme:** de stad bouwt een binnenring; wie koorts heeft, gaat naar buiten
+- **handhaver:** de stadswacht
+- **betaler:** de besmetten achter de muur
+- **vervalst:** hoeveel er achter de muur bleven
+- **ontdekt:** deels
+- **schaal:** stad
+- **oorzaak:** {"schim": 0.449, "O": 0.405}
+- **druk:** 0.81
+- **tweede_druk:** wezens 0.51
+- **erft_van:** gebeurtenis 1261: Een natte zomer: de schimmel komt de steden in.
+- **gedeeld_mechanisme:** registreren
+- **rijmt_met:** fase 1201 (Een huis van bankiers neemt de schuld over)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": -0.224, "P": -0.02, "S": -0.082, "C": 0.047, "r": 0.03}, "macht": {"steden": 0.027, "dragers": -0.021, "buren": 0.012}, "heerser_na": "Kaldra"}
+- **blijvend:** Een stad heeft een binnenring voor de levenden.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De nachtwet: niemand slaapt alleen
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 1321
+- **tot:** 1461
+- **crisis:** wezens
+- **oplossing:** nachtwet
+- **naam:** De nachtwet: niemand slaapt alleen
+- **beslisser:** de dorpsmoeders
+- **macht_sleutel:** huizen
+- **actor_macht:** 0.201
+- **mechanisme:** elk huis houdt bij wie waar slaapt, en een open raam wordt beboet
+- **handhaver:** de dorpsmoeders
+- **betaler:** wie alleen woont
+- **vervalst:** waarom alleen slapen gevaarlijk is
+- **ontdekt:** nee
+- **schaal:** dorp
+- **oorzaak:** {"nacht": 0.372, "askoud": 0.454}
+- **druk:** 0.52
+- **tweede_druk:** geloof 0.32
+- **erft_van:** gebeurtenis 1121: Wormvaarders vinden het Harrow-teken en de reservekern in een worm.
+- **gedeeld_mechanisme:** noodwet
+- **rijmt_met:** fase 1261 (De schimmelmuren)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": 0.17, "P": 0.141, "S": -0.074, "C": 0.047, "r": 0.026}, "macht": {"buren": 0.015, "dragers": -0.01}, "heerser_na": "Kaldra"}
+- **blijvend:** Slapen doe je samen; een open raam is een schande.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het artsengilde vindt de schimmel onder glas
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 1461
+- **tot:** 1801
+- **crisis:** epidemie
+- **oplossing:** artsengilde
+- **naam:** Het artsengilde vindt de schimmel onder glas
+- **beslisser:** de artsen
+- **macht_sleutel:** steden
+- **actor_macht:** 0.206
+- **mechanisme:** de stad geeft het artsengilde het alleenrecht op lijken, in ruil voor de oorzaak van de ziekte
+- **handhaver:** de stadsraad die het gilde erkent
+- **betaler:** de proefpersonen
+- **vervalst:** wie er in de proeven stierf
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"schim": 0.358, "O": 0.404}
+- **druk:** 0.65
+- **tweede_druk:** geloof 0.28
+- **erft_van:** gebeurtenis 1461: Een natte zomer: de schimmel komt de steden in.
+- **gedeeld_mechanisme:** registreren
+- **rijmt_met:** fase 1321 (De nachtwet: niemand slaapt alleen)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": -0.209, "T": 0.078, "P": -0.108, "S": -0.068, "C": 0.049}, "macht": {"buren": 0.014}, "heerser_na": "Kaldra"}
+- **blijvend:** Ziekte heeft een oorzaak die je kunt zien.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het noorden valt aan Kharvos
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 1801
+- **tot:** 1861
+- **crisis:** invasie
+- **oplossing:** nederlaag
+- **naam:** Het noorden valt aan Kharvos
+- **beslisser:** Kharvos
+- **macht_sleutel:** buren
+- **actor_macht:** 0.156
+- **mechanisme:** Kharvos verslaat het leger aan de pas en neemt het noorden
+- **handhaver:** de bezetter
+- **betaler:** het grensvolk
+- **vervalst:** de vrede die gesloten werd
+- **ontdekt:** deels
+- **schaal:** rijk
+- **oorzaak:** {"buren": 0.339, "eigen": 0.001}
+- **druk:** 0.51
+- **tweede_druk:** wezens 0.45
+- **erft_van:** fase 1201: Een huis van bankiers neemt de schuld over
+- **gedeeld_mechanisme:** verdelen
+- **rijmt_met:** fase 1201 (Een huis van bankiers neemt de schuld over)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"T": 0.052, "E": 0.027, "O": 0.105, "C": -0.046}, "macht": {"buren": -0.099, "dragers": 0.037, "steden": 0.033}, "heerser_na": "Kharvos van Saelith"}
+- **blijvend:** De machinemannen wonen nu aan deze kant van de pas.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Een huis van bankiers neemt de schuld over
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 1861
+- **tot:** 1941
+- **crisis:** bankroet
+- **oplossing:** bankiers
+- **naam:** Een huis van bankiers neemt de schuld over
+- **beslisser:** de bankiers
+- **macht_sleutel:** steden
+- **actor_macht:** 0.25
+- **mechanisme:** een bankiershuis koopt de staatsschuld en daarmee de belasting
+- **handhaver:** de schuldboeken van de steden
+- **betaler:** de belastingbetalers
+- **vervalst:** hoeveel rente er stond
+- **ontdekt:** nee
+- **schaal:** wereld
+- **oorzaak:** {"S": 0.0, "E": 1.259}
+- **druk:** 0.72
+- **tweede_druk:** epidemie 0.7
+- **erft_van:** fase 1801: Het noorden valt aan Kharvos
+- **gedeeld_mechanisme:** verdelen
+- **rijmt_met:** fase 1801 (Het noorden valt aan Kharvos)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"S": 0.304, "E": 0.027, "O": 0.062, "C": 0.054}, "macht": {"steden": 0.057, "dragers": -0.04, "huizen": -0.017}, "heerser_na": "Kharvos van de Stille eilanden"}
+- **blijvend:** Een familie zonder land bezit alle landen.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De schimmelmuren
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 1941
+- **tot:** 2201
+- **crisis:** epidemie
+- **oplossing:** schimmelmuren
+- **naam:** De schimmelmuren
+- **beslisser:** de artsenkloosters
+- **macht_sleutel:** steden
+- **actor_macht:** 0.307
+- **mechanisme:** de stad bouwt een binnenring; wie koorts heeft, gaat naar buiten
+- **handhaver:** de stadswacht
+- **betaler:** de besmetten achter de muur
+- **vervalst:** hoeveel er achter de muur bleven
+- **ontdekt:** deels
+- **schaal:** stad
+- **oorzaak:** {"schim": 0.519, "O": 0.584}
+- **druk:** 1.13
+- **tweede_druk:** wezens 0.44
+- **erft_van:** gebeurtenis 1941: Een natte zomer: de schimmel komt de steden in.
+- **gedeeld_mechanisme:** registreren
+- **rijmt_met:** fase 1861 (Een huis van bankiers neemt de schuld over)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"T": 0.033, "P": -0.128, "S": -0.021, "O": 0.022, "C": 0.056}, "macht": {"steden": 0.024, "dragers": -0.014, "volk": -0.014}, "heerser_na": "Kharvos van de Stille eilanden"}
+- **blijvend:** Een stad heeft een binnenring voor de levenden.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De Orrim worden in de groeven vastgehouden
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 2201
+- **tot:** 2321
+- **crisis:** orrim
+- **oplossing:** orrimgroeve
+- **naam:** De Orrim worden in de groeven vastgehouden
+- **beslisser:** de mijnhuizen
+- **macht_sleutel:** huizen
+- **actor_macht:** 0.147
+- **mechanisme:** de mijnhuizen sluiten de groeven af en mijnen de doden
+- **handhaver:** de mijnwachten
+- **betaler:** de Orrim
+- **vervalst:** dat het een volk is en geen groeve
+- **ontdekt:** nee
+- **schaal:** rijk
+- **oorzaak:** {"mijn": 0.991, "orrim": 0.378}
+- **druk:** 0.5
+- **tweede_druk:** geloof 0.44
+- **erft_van:** de toestand bij 801 (BESLUIT-Z36-4)
+- **gedeeld_mechanisme:** binden
+- **rijmt_met:** fase 1141 (Een kleiner zegel wordt gesmeed)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"S": 0.033, "C": 0.059}, "macht": {"orrim": 0.057, "dragers": -0.036, "steden": -0.012}, "heerser_na": "Kharvos van de Stille eilanden"}
+- **blijvend:** Een volk is een mijn geworden.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het grote twijfelen
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 2321
+- **tot:** 2421
+- **crisis:** geloof
+- **oplossing:** ongeloof
+- **naam:** Het grote twijfelen
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.338
+- **mechanisme:** de steden houden op de tiende te innen; de kerk kan niet meer dwingen
+- **handhaver:** niemand
+- **betaler:** de kerk
+- **vervalst:** niets
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"L": 0.255, "T": 0.488}
+- **druk:** 0.5
+- **tweede_druk:** wezens 0.39
+- **erft_van:** uitvinding 2181: Water- en windmolens
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 1461 (Het artsengilde vindt de schimmel onder glas)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": 0.209, "T": 0.054, "P": 0.03, "S": 0.082, "L": 0.037, "C": 0.061}, "macht": {"kerk": -0.023, "dragers": 0.022}, "heerser_na": "Kharvos van de Stille eilanden"}
+- **blijvend:** God is een vraag geworden.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het artsengilde vindt de schimmel onder glas
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 2421
+- **tot:** 2541
+- **crisis:** epidemie
+- **oplossing:** artsengilde
+- **naam:** Het artsengilde vindt de schimmel onder glas
+- **beslisser:** de artsen
+- **macht_sleutel:** steden
+- **actor_macht:** 0.34
+- **mechanisme:** de stad geeft het artsengilde het alleenrecht op lijken, in ruil voor de oorzaak van de ziekte
+- **handhaver:** de stadsraad die het gilde erkent
+- **betaler:** de proefpersonen
+- **vervalst:** wie er in de proeven stierf
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"schim": 0.371, "O": 0.702}
+- **druk:** 0.89
+- **tweede_druk:** orrim 0.41
+- **erft_van:** gebeurtenis 2421: Een natte zomer: de schimmel komt de steden in.
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 2321 (Het grote twijfelen)
+- **assen_anders:** 3
+- **gevolg:** {"toestand": {"M": -0.128, "T": 0.077, "P": -0.081, "S": 0.073, "O": 0.053, "C": 0.064}, "macht": {}, "heerser_na": "Kharvos van de Stille eilanden"}
+- **blijvend:** Ziekte heeft een oorzaak die je kunt zien.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het schip wordt erkend
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 2541
+- **tot:** 2661
+- **crisis:** vondst
+- **oplossing:** erkenning
+- **naam:** Het schip wordt erkend
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.349
+- **mechanisme:** de steden erkennen het schip als geschiedenis; de kerk kan het niet meer tegenhouden
+- **handhaver:** de geleerden
+- **betaler:** de kerk, die haar wonder verliest
+- **vervalst:** niets: de waarheid wint, maar te laat om iets te voelen
+- **ontdekt:** ja
+- **schaal:** wereld
+- **oorzaak:** {"T": 0.631, "W": 0.348}
+- **druk:** 0.5
+- **tweede_druk:** geloof 0.49
+- **erft_van:** fase 2421: Het artsengilde vindt de schimmel onder glas
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 2421 (Het artsengilde vindt de schimmel onder glas)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": 0.045, "P": 0.063, "S": 0.109, "L": -0.021, "O": 0.037, "C": 0.065}, "macht": {"dragers": -0.015}, "heerser_na": "Kharvos van de Stille eilanden"}
+- **blijvend:** Het schip was echt. Men weet het, en het verandert niets aan wat men voelt.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De Wieg wordt gevonden en antwoordt
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 2661
+- **tot:** 3301
+- **crisis:** vondst
+- **oplossing:** wieg
+- **naam:** De Wieg wordt gevonden en antwoordt
+- **beslisser:** de geleerden en een drager
+- **macht_sleutel:** steden
+- **actor_macht:** 0.362
+- **mechanisme:** de Wieg wordt gevonden en vraagt om een ja
+- **handhaver:** de geleerden en een drager
+- **betaler:** wie haar eerst aanraakte
+- **vervalst:** wat de Wieg zei
+- **ontdekt:** deels
+- **schaal:** wereld
+- **oorzaak:** {"T": 0.671, "W": 0.712}
+- **druk:** 0.73
+- **tweede_druk:** wezens 0.37
+- **erft_van:** uitvinding 2641: De stoommachine
+- **gedeeld_mechanisme:** namens-beslissen
+- **rijmt_met:** fase 1141 (Een kleiner zegel wordt gesmeed)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.048, "T": 0.163, "S": 0.12, "E": 0.022, "L": -0.025, "O": 0.063, "C": 0.026}, "macht": {"dragers": -0.043, "steden": 0.03, "staat": 0.013}, "heerser_na": "Kharvos van de Stille eilanden"}
+- **blijvend:** De machine onder de berg vraagt nog steeds om een ja.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De schimmelmuren
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 3301
+- **tot:** 3361
+- **crisis:** epidemie
+- **oplossing:** schimmelmuren
+- **naam:** De schimmelmuren
+- **beslisser:** de artsenkloosters
+- **macht_sleutel:** steden
+- **actor_macht:** 0.441
+- **mechanisme:** de stad bouwt een binnenring; wie koorts heeft, gaat naar buiten
+- **handhaver:** de stadswacht
+- **betaler:** de besmetten achter de muur
+- **vervalst:** hoeveel er achter de muur bleven
+- **ontdekt:** deels
+- **schaal:** stad
+- **oorzaak:** {"schim": 0.523, "O": 1}
+- **druk:** 1.57
+- **tweede_druk:** vondst 1.47
+- **erft_van:** gebeurtenis 3301: Een natte zomer: de schimmel komt de steden in.
+- **gedeeld_mechanisme:** registreren
+- **rijmt_met:** fase 2421 (Het artsengilde vindt de schimmel onder glas)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.066, "T": -0.029, "P": -0.116}, "macht": {"steden": 0.011}, "heerser_na": "Kharvos van de Stille eilanden"}
+- **blijvend:** Een stad heeft een binnenring voor de levenden.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het grote twijfelen
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 3361
+- **tot:** 4621
+- **crisis:** geloof
+- **oplossing:** ongeloof
+- **naam:** Het grote twijfelen
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.452
+- **mechanisme:** de steden houden op de tiende te innen; de kerk kan niet meer dwingen
+- **handhaver:** niemand
+- **betaler:** de kerk
+- **vervalst:** niets
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"L": 0, "T": 0.971}
+- **druk:** 1.52
+- **tweede_druk:** vondst 1.43
+- **erft_van:** uitvinding 3201: De sporenkern
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 2541 (Het schip wordt erkend)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"P": 0.057, "L": 0.022}, "macht": {}, "heerser_na": "Kharvos van de Stille eilanden"}
+- **blijvend:** God is een vraag geworden.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het artsengilde vindt de schimmel onder glas
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 4621
+- **tot:** 4681
+- **crisis:** epidemie
+- **oplossing:** artsengilde
+- **naam:** Het artsengilde vindt de schimmel onder glas
+- **beslisser:** de artsen
+- **macht_sleutel:** steden
+- **actor_macht:** 0.462
+- **mechanisme:** de stad geeft het artsengilde het alleenrecht op lijken, in ruil voor de oorzaak van de ziekte
+- **handhaver:** de stadsraad die het gilde erkent
+- **betaler:** de proefpersonen
+- **vervalst:** wie er in de proeven stierf
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"schim": 0.521, "O": 1.0}
+- **druk:** 1.56
+- **tweede_druk:** vondst 1.34
+- **erft_van:** gebeurtenis 4621: Een natte zomer: de schimmel komt de steden in.
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 3361 (Het grote twijfelen)
+- **assen_anders:** 3
+- **gevolg:** {"toestand": {"P": -0.115}, "macht": {}, "heerser_na": "Kharvos van de Stille eilanden"}
+- **blijvend:** Ziekte heeft een oorzaak die je kunt zien.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het grote twijfelen
+- **run_id:** Z45-GESCH-0005
+- **module:** geschiedenis_z45
+- **van:** 4681
+- **tot:** 5001
+- **crisis:** geloof
+- **oplossing:** ongeloof
+- **naam:** Het grote twijfelen
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.465
+- **mechanisme:** de steden houden op de tiende te innen; de kerk kan niet meer dwingen
+- **handhaver:** niemand
+- **betaler:** de kerk
+- **vervalst:** niets
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"L": 0, "T": 1.0}
+- **druk:** 1.52
+- **tweede_druk:** vondst 1.33
+- **erft_van:** fase 4621: Het artsengilde vindt de schimmel onder glas
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 4621 (Het artsengilde vindt de schimmel onder glas)
+- **assen_anders:** 3
+- **gevolg:** {"toestand": {"P": 0.051, "L": 0.022}, "macht": {}, "heerser_na": "Kharvos van de Stille eilanden"}
+- **blijvend:** God is een vraag geworden.
+- **epistemiek:** simulatie (Z45-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het noorden valt aan Kharvos
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **van:** 1001
+- **tot:** 1321
+- **crisis:** invasie
+- **oplossing:** nederlaag
+- **naam:** Het noorden valt aan Kharvos
+- **beslisser:** Kharvos
+- **macht_sleutel:** buren
+- **actor_macht:** 0.268
+- **mechanisme:** Kharvos verslaat het leger aan de pas en neemt het noorden
+- **handhaver:** de bezetter
+- **betaler:** het grensvolk
+- **vervalst:** de vrede die gesloten werd
+- **ontdekt:** deels
+- **schaal:** rijk
+- **oorzaak:** {"buren": 0.362, "eigen": 0.0}
+- **druk:** 0.54
+- **tweede_druk:** geloof 0.41
+- **erft_van:** de toestand bij 801 (BESLUIT-Z36-4)
+- **gedeeld_mechanisme:** verdelen
+- **rijmt_met:** 1 Overvloed
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"T": 0.045, "P": 0.035, "O": 0.089, "C": -0.056, "r": 0.034}, "macht": {"buren": -0.157, "huizen": 0.061, "dragers": 0.049}, "heerser_na": "Kharvos van Saelith"}
+- **blijvend:** De machinemannen wonen nu aan deze kant van de pas.
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Dragers worden koning
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **van:** 1321
+- **tot:** 1741
+- **crisis:** opleving
+- **oplossing:** dragerskoningen
+- **naam:** Dragers worden koning
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.371
+- **mechanisme:** de sterkste lading neemt de kroon, en de wacht volgt de lading
+- **handhaver:** de dragerswacht
+- **betaler:** gewone mannen als soldaten
+- **vervalst:** dat de koningen ooit gewone jongens waren
+- **ontdekt:** nee
+- **schaal:** rijk
+- **oorzaak:** {"M": 0.793, "gem": 0.529}
+- **druk:** 0.72
+- **tweede_druk:** wezens 0.38
+- **erft_van:** gebeurtenis 1321: Er wordt een man geboren met de lading van een Vonkkoning.
+- **gedeeld_mechanisme:** lading-is-macht
+- **rijmt_met:** 2 Vonk
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": 0.127, "T": 0.024, "E": 0.024, "C": 0.046, "r": 0.024}, "macht": {"dragers": 0.139, "huizen": -0.065, "buren": -0.02}, "heerser_na": "Kaldra"}
+- **blijvend:** Koningschap volgt de lading; een kroon gloeit.
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Dragers mogen alleen nog met dragers
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **van:** 1741
+- **tot:** 1801
+- **crisis:** opleving
+- **oplossing:** lijnhuwelijk
+- **naam:** Dragers mogen alleen nog met dragers
+- **beslisser:** de huizen
+- **macht_sleutel:** huizen
+- **actor_macht:** 0.16
+- **mechanisme:** dragers mogen alleen met dragers trouwen; het register weigert de rest
+- **handhaver:** de registers van de huizen
+- **betaler:** liefdes over de lijn
+- **vervalst:** wie er uit de registers verdween
+- **ontdekt:** nee
+- **schaal:** huis
+- **oorzaak:** {"M": 0.759, "gem": 0.52}
+- **druk:** 0.59
+- **tweede_druk:** invasie 0.48
+- **erft_van:** gebeurtenis 1741: Er wordt een man geboren met de lading van een Vonkkoning.
+- **gedeeld_mechanisme:** erven
+- **rijmt_met:** fase 1321 (Dragers worden koning)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": 0.143, "O": -0.169, "C": 0.049}, "macht": {"huizen": 0.043, "dragers": -0.015}, "heerser_na": "Kaldra"}
+- **blijvend:** Lading wordt erfgoed van een kaste.
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Een leger van dragers
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **van:** 1801
+- **tot:** 1921
+- **crisis:** invasie
+- **oplossing:** dragerleger
+- **naam:** Een leger van dragers
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.467
+- **mechanisme:** dragers ontladen op het slagveld
+- **handhaver:** de dragers
+- **betaler:** de dragers zelf, die opbranden
+- **vervalst:** hoeveel er niet terugkwamen
+- **ontdekt:** nee
+- **schaal:** rijk
+- **oorzaak:** {"buren": 0.338, "eigen": 0.0}
+- **druk:** 0.51
+- **tweede_druk:** wezens 0.45
+- **erft_van:** uitvinding 1701: Kharvos-ambacht
+- **gedeeld_mechanisme:** lading-is-macht
+- **rijmt_met:** fase 1321 (Dragers worden koning)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.125, "P": 0.099, "E": 0.021, "C": -0.05}, "macht": {"buren": -0.101, "dragers": 0.083, "volk": 0.012}, "heerser_na": "Kaldra"}
+- **blijvend:** Een oorlog is weer een zaak van lading.
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De Orrim worden in de groeven vastgehouden
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **van:** 1921
+- **tot:** 2121
+- **crisis:** orrim
+- **oplossing:** orrimgroeve
+- **naam:** De Orrim worden in de groeven vastgehouden
+- **beslisser:** de mijnhuizen
+- **macht_sleutel:** huizen
+- **actor_macht:** 0.211
+- **mechanisme:** de mijnhuizen sluiten de groeven af en mijnen de doden
+- **handhaver:** de mijnwachten
+- **betaler:** de Orrim
+- **vervalst:** dat het een volk is en geen groeve
+- **ontdekt:** nee
+- **schaal:** rijk
+- **oorzaak:** {"mijn": 0.943, "orrim": 0.518}
+- **druk:** 0.61
+- **tweede_druk:** wezens 0.45
+- **erft_van:** de toestand bij 801 (BESLUIT-Z36-4)
+- **gedeeld_mechanisme:** lichaam-is-waar
+- **rijmt_met:** 6 Markt
+- **assen_anders:** 3
+- **gevolg:** {"toestand": {"M": 0.206, "P": -0.041, "E": 0.02, "O": -0.021, "C": 0.051}, "macht": {"orrim": 0.058, "dragers": -0.038, "huizen": -0.015}, "heerser_na": "Kaldra"}
+- **blijvend:** Een volk is een mijn geworden.
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De Orrim krijgen het recht op hun doden
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **van:** 2121
+- **tot:** 2361
+- **crisis:** orrim
+- **oplossing:** orrimrecht
+- **naam:** De Orrim krijgen het recht op hun doden
+- **beslisser:** een raad van vrouwen
+- **macht_sleutel:** huizen
+- **actor_macht:** 0.186
+- **mechanisme:** een raad van vrouwen erkent dat de Orrim hun doden houden
+- **handhaver:** de moederraden
+- **betaler:** de mijnhuizen
+- **vervalst:** hoeveel er al gemijnd was
+- **ontdekt:** ja
+- **schaal:** rijk
+- **oorzaak:** {"mijn": 1, "orrim": 0.39}
+- **druk:** 0.53
+- **tweede_druk:** wezens 0.48
+- **erft_van:** fase 1921: De Orrim worden in de groeven vastgehouden
+- **gedeeld_mechanisme:** erven
+- **rijmt_met:** fase 1741 (Dragers mogen alleen nog met dragers)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.052, "L": 0.048, "C": 0.052}, "macht": {}, "heerser_na": "Kaldra"}
+- **blijvend:** Een volk mag zijn doden houden; wie een groeve roeft, is een grafrover.
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De oorlog van de neven
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **van:** 2361
+- **tot:** 3061
+- **crisis:** elitestrijd
+- **oplossing:** burgeroorlog
+- **naam:** De oorlog van de neven
+- **beslisser:** de huizen
+- **macht_sleutel:** huizen
+- **actor_macht:** 0.179
+- **mechanisme:** de neven bewapenen hun lijfwachten; de opvolging wordt op het veld beslist
+- **handhaver:** de huislegers
+- **betaler:** gewone mannen als soldaten
+- **vervalst:** wie begon
+- **ontdekt:** nee
+- **schaal:** rijk
+- **oorzaak:** {"E": 1.497, "S": 0.029}
+- **druk:** 0.5
+- **tweede_druk:** wezens 0.47
+- **erft_van:** fase 1801: Een leger van dragers
+- **gedeeld_mechanisme:** erven
+- **rijmt_met:** fase 2121 (De Orrim krijgen het recht op hun doden)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"S": 0.029, "E": -0.361, "C": -0.197}, "macht": {}, "heerser_na": "Qesh"}
+- **blijvend:** Een generatie edelen is dood; de rest is moe en kleiner.
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Dragers laten de akkers groeien
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **van:** 3061
+- **tot:** 3741
+- **crisis:** honger
+- **oplossing:** dragersakkers
+- **naam:** Dragers laten de akkers groeien
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.421
+- **mechanisme:** dragers ontladen in de akkers; wie oogst wil, huurt hun lading
+- **handhaver:** de dragers zelf
+- **betaler:** wie hun lading ontvangt
+- **vervalst:** wat het de ontvangers kost
+- **ontdekt:** nee
+- **schaal:** dorp
+- **oorzaak:** {"P/F": 1.041}
+- **druk:** 0.55
+- **tweede_druk:** wezens 0.44
+- **erft_van:** gebeurtenis 3061: Een koude eeuw: de oogsten mislukken.
+- **gedeeld_mechanisme:** lichaam-is-waar
+- **rijmt_met:** fase 1921 (De Orrim worden in de groeven vastgehouden)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": 0.207, "P": -0.088, "S": 0.068, "C": 0.055}, "macht": {"dragers": 0.019}, "heerser_na": "Qesh"}
+- **blijvend:** Een goede oogst heeft een man nodig; vruchtbaarheid is weer een gave.
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het grote twijfelen
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **van:** 3741
+- **tot:** 3801
+- **crisis:** geloof
+- **oplossing:** ongeloof
+- **naam:** Het grote twijfelen
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.141
+- **mechanisme:** de steden houden op de tiende te innen; de kerk kan niet meer dwingen
+- **handhaver:** niemand
+- **betaler:** de kerk
+- **vervalst:** niets
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"L": 0.255, "T": 0.565}
+- **druk:** 0.5
+- **tweede_druk:** wezens 0.45
+- **erft_van:** uitvinding 3601: De drukpers
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** 5 Ontvangst
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": -0.023, "T": 0.045, "P": 0.055, "L": 0.032}, "macht": {"dragers": -0.026, "staat": 0.021}, "heerser_na": "Qesh"}
+- **blijvend:** God is een vraag geworden.
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Dragers laten de akkers groeien
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **van:** 3801
+- **tot:** 3861
+- **crisis:** honger
+- **oplossing:** dragersakkers
+- **naam:** Dragers laten de akkers groeien
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.323
+- **mechanisme:** dragers ontladen in de akkers; wie oogst wil, huurt hun lading
+- **handhaver:** de dragers zelf
+- **betaler:** wie hun lading ontvangt
+- **vervalst:** wat het de ontvangers kost
+- **ontdekt:** nee
+- **schaal:** dorp
+- **oorzaak:** {"P/F": 1.033}
+- **druk:** 0.52
+- **tweede_druk:** wezens 0.44
+- **erft_van:** gebeurtenis 3781: Een koude eeuw: de oogsten mislukken.
+- **gedeeld_mechanisme:** lading-is-macht
+- **rijmt_met:** fase 3061 (Dragers laten de akkers groeien)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"T": 0.074, "P": -0.161, "O": 0.023}, "macht": {"staat": 0.017, "volk": -0.014, "dragers": 0.012}, "heerser_na": "Qesh"}
+- **blijvend:** Een goede oogst heeft een man nodig; vruchtbaarheid is weer een gave.
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De Wieg wordt gevonden en antwoordt
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **van:** 3861
+- **tot:** 4001
+- **crisis:** vondst
+- **oplossing:** wieg
+- **naam:** De Wieg wordt gevonden en antwoordt
+- **beslisser:** de geleerden en een drager
+- **macht_sleutel:** steden
+- **actor_macht:** 0.145
+- **mechanisme:** de Wieg wordt gevonden en vraagt om een ja
+- **handhaver:** de geleerden en een drager
+- **betaler:** wie haar eerst aanraakte
+- **vervalst:** wat de Wieg zei
+- **ontdekt:** deels
+- **schaal:** wereld
+- **oorzaak:** {"T": 0.676, "W": 0.204}
+- **druk:** 0.53
+- **tweede_druk:** wezens 0.44
+- **erft_van:** uitvinding 3821: De stoommachine
+- **gedeeld_mechanisme:** lading-is-macht
+- **rijmt_met:** fase 3801 (Dragers laten de akkers groeien)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"T": 0.178, "P": 0.083, "L": -0.025, "O": 0.101}, "macht": {"dragers": -0.029, "steden": 0.018, "staat": 0.016}, "heerser_na": "Qesh"}
+- **blijvend:** De machine onder de berg vraagt nog steeds om een ja.
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het schip wordt erkend
+- **run_id:** Z45-GESCH-0008
+- **module:** geschiedenis_z45
+- **van:** 4001
+- **tot:** 5001
+- **crisis:** vondst
+- **oplossing:** erkenning
+- **naam:** Het schip wordt erkend
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.179
+- **mechanisme:** de steden erkennen het schip als geschiedenis; de kerk kan het niet meer tegenhouden
+- **handhaver:** de geleerden
+- **betaler:** de kerk, die haar wonder verliest
+- **vervalst:** niets: de waarheid wint, maar te laat om iets te voelen
+- **ontdekt:** ja
+- **schaal:** wereld
+- **oorzaak:** {"T": 0.981, "W": 0.362}
+- **druk:** 1.21
+- **tweede_druk:** wezens 0.42
+- **erft_van:** uitvinding 3961: Lichtcellen
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 3741 (Het grote twijfelen)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"T": 0.065, "L": -0.037, "O": 0.086}, "macht": {"dragers": -0.026, "steden": 0.016, "staat": 0.013}, "heerser_na": "Qesh"}
+- **blijvend:** Het schip was echt. Men weet het, en het verandert niets aan wat men voelt.
+- **epistemiek:** simulatie (Z45-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Een leger van dragers
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **van:** 1201
+- **tot:** 1401
+- **crisis:** invasie
+- **oplossing:** dragerleger
+- **naam:** Een leger van dragers
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.309
+- **mechanisme:** dragers ontladen op het slagveld
+- **handhaver:** de dragers
+- **betaler:** de dragers zelf, die opbranden
+- **vervalst:** hoeveel er niet terugkwamen
+- **ontdekt:** nee
+- **schaal:** rijk
+- **oorzaak:** {"buren": 0.341, "eigen": 0.0}
+- **druk:** 0.51
+- **tweede_druk:** wezens 0.38
+- **erft_van:** de toestand bij 801 (BESLUIT-Z36-4)
+- **gedeeld_mechanisme:** noodwet
+- **rijmt_met:** 7 Barsten
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": 0.15, "P": 0.043, "E": 0.021, "C": -0.057, "r": 0.034}, "macht": {"buren": -0.168, "dragers": 0.148, "volk": 0.01}, "heerser_na": "Varenne"}
+- **blijvend:** Een oorlog is weer een zaak van lading.
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het noorden valt aan Kharvos
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **van:** 1401
+- **tot:** 1861
+- **crisis:** invasie
+- **oplossing:** nederlaag
+- **naam:** Het noorden valt aan Kharvos
+- **beslisser:** Kharvos
+- **macht_sleutel:** buren
+- **actor_macht:** 0.23
+- **mechanisme:** Kharvos verslaat het leger aan de pas en neemt het noorden
+- **handhaver:** de bezetter
+- **betaler:** het grensvolk
+- **vervalst:** de vrede die gesloten werd
+- **ontdekt:** deels
+- **schaal:** rijk
+- **oorzaak:** {"buren": 0.405, "eigen": 0.0}
+- **druk:** 0.61
+- **tweede_druk:** wezens 0.42
+- **erft_van:** gebeurtenis 1341: De kern onder Hoornburg valt stil. Kharvos heeft een nieuwe nodig.
+- **gedeeld_mechanisme:** verdelen
+- **rijmt_met:** 1 Overvloed
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.034, "T": 0.049, "P": -0.031, "E": 0.032, "O": 0.084, "C": -0.056, "r": 0.021}, "macht": {"buren": -0.144, "dragers": 0.075, "huizen": 0.036}, "heerser_na": "Kharvos van de Stille eilanden"}
+- **blijvend:** De machinemannen wonen nu aan deze kant van de pas.
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De schimmelmuren
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **van:** 1861
+- **tot:** 1921
+- **crisis:** epidemie
+- **oplossing:** schimmelmuren
+- **naam:** De schimmelmuren
+- **beslisser:** de artsenkloosters
+- **macht_sleutel:** steden
+- **actor_macht:** 0.11
+- **mechanisme:** de stad bouwt een binnenring; wie koorts heeft, gaat naar buiten
+- **handhaver:** de stadswacht
+- **betaler:** de besmetten achter de muur
+- **vervalst:** hoeveel er achter de muur bleven
+- **ontdekt:** deels
+- **schaal:** stad
+- **oorzaak:** {"schim": 0.359, "O": 0.215}
+- **druk:** 0.51
+- **tweede_druk:** wezens 0.42
+- **erft_van:** gebeurtenis 1861: Een natte zomer: de schimmel komt de steden in.
+- **gedeeld_mechanisme:** noodwet
+- **rijmt_met:** fase 1201 (Een leger van dragers)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"P": -0.144, "E": -0.022, "C": 0.049}, "macht": {"steden": 0.033, "volk": -0.017, "dragers": -0.011}, "heerser_na": "Kharvos van de Stille eilanden"}
+- **blijvend:** Een stad heeft een binnenring voor de levenden.
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Een huis van bankiers neemt de schuld over
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **van:** 1921
+- **tot:** 2141
+- **crisis:** bankroet
+- **oplossing:** bankiers
+- **naam:** Een huis van bankiers neemt de schuld over
+- **beslisser:** de bankiers
+- **macht_sleutel:** steden
+- **actor_macht:** 0.142
+- **mechanisme:** een bankiershuis koopt de staatsschuld en daarmee de belasting
+- **handhaver:** de schuldboeken van de steden
+- **betaler:** de belastingbetalers
+- **vervalst:** hoeveel rente er stond
+- **ontdekt:** nee
+- **schaal:** wereld
+- **oorzaak:** {"S": 0, "E": 1.374}
+- **druk:** 0.72
+- **tweede_druk:** wezens 0.42
+- **erft_van:** fase 1401: Het noorden valt aan Kharvos
+- **gedeeld_mechanisme:** registreren
+- **rijmt_met:** fase 1861 (De schimmelmuren)
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"P": 0.057, "S": 0.25, "E": -0.02, "O": 0.04, "C": 0.049}, "macht": {"steden": 0.076, "dragers": -0.041, "huizen": -0.02}, "heerser_na": "Kaldra"}
+- **blijvend:** Een familie zonder land bezit alle landen.
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Dragers laten de akkers groeien
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **van:** 2141
+- **tot:** 2221
+- **crisis:** honger
+- **oplossing:** dragersakkers
+- **naam:** Dragers laten de akkers groeien
+- **beslisser:** de dragers
+- **macht_sleutel:** dragers
+- **actor_macht:** 0.398
+- **mechanisme:** dragers ontladen in de akkers; wie oogst wil, huurt hun lading
+- **handhaver:** de dragers zelf
+- **betaler:** wie hun lading ontvangt
+- **vervalst:** wat het de ontvangers kost
+- **ontdekt:** nee
+- **schaal:** dorp
+- **oorzaak:** {"P/F": 1.113}
+- **druk:** 0.91
+- **tweede_druk:** orrim 0.44
+- **erft_van:** gebeurtenis 2141: Een koude eeuw: de oogsten mislukken.
+- **gedeeld_mechanisme:** lading-is-macht
+- **rijmt_met:** fase 1201 (Een leger van dragers)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": -0.109, "P": -0.112, "S": -0.055, "C": 0.051}, "macht": {"dragers": 0.044, "volk": -0.019, "huizen": -0.011}, "heerser_na": "Kaldra"}
+- **blijvend:** Een goede oogst heeft een man nodig; vruchtbaarheid is weer een gave.
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Dragers mogen alleen nog met dragers
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **van:** 2221
+- **tot:** 3321
+- **crisis:** opleving
+- **oplossing:** lijnhuwelijk
+- **naam:** Dragers mogen alleen nog met dragers
+- **beslisser:** de huizen
+- **macht_sleutel:** huizen
+- **actor_macht:** 0.165
+- **mechanisme:** dragers mogen alleen met dragers trouwen; het register weigert de rest
+- **handhaver:** de registers van de huizen
+- **betaler:** liefdes over de lijn
+- **vervalst:** wie er uit de registers verdween
+- **ontdekt:** nee
+- **schaal:** huis
+- **oorzaak:** {"M": 0.799, "gem": 0.457}
+- **druk:** 1.11
+- **tweede_druk:** orrim 0.47
+- **erft_van:** gebeurtenis 2221: Wormvaarders vinden het Harrow-teken en de reservekern in een worm.
+- **gedeeld_mechanisme:** registreren
+- **rijmt_met:** fase 1921 (Een huis van bankiers neemt de schuld over)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": 0.129, "S": -0.046, "O": -0.144, "C": 0.052}, "macht": {"huizen": 0.052, "dragers": -0.033, "steden": -0.01}, "heerser_na": "Kaldra"}
+- **blijvend:** Lading wordt erfgoed van een kaste.
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het grote twijfelen
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **van:** 3321
+- **tot:** 3381
+- **crisis:** geloof
+- **oplossing:** ongeloof
+- **naam:** Het grote twijfelen
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.251
+- **mechanisme:** de steden houden op de tiende te innen; de kerk kan niet meer dwingen
+- **handhaver:** niemand
+- **betaler:** de kerk
+- **vervalst:** niets
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"L": 0.252, "T": 0.565}
+- **druk:** 0.51
+- **tweede_druk:** wezens 0.44
+- **erft_van:** uitvinding 3301: De stoommachine
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** 5 Ontvangst
+- **assen_anders:** 5
+- **gevolg:** {"toestand": {"M": -0.029, "T": 0.132, "S": 0.132, "L": 0.031, "O": 0.035}, "macht": {"dragers": -0.032, "steden": 0.026, "staat": 0.013}, "heerser_na": "Kaldra"}
+- **blijvend:** God is een vraag geworden.
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het schip wordt erkend
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **van:** 3381
+- **tot:** 3461
+- **crisis:** vondst
+- **oplossing:** erkenning
+- **naam:** Het schip wordt erkend
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.275
+- **mechanisme:** de steden erkennen het schip als geschiedenis; de kerk kan het niet meer tegenhouden
+- **handhaver:** de geleerden
+- **betaler:** de kerk, die haar wonder verliest
+- **vervalst:** niets: de waarheid wint, maar te laat om iets te voelen
+- **ontdekt:** ja
+- **schaal:** wereld
+- **oorzaak:** {"T": 0.689, "W": 0.496}
+- **druk:** 0.68
+- **tweede_druk:** wezens 0.45
+- **erft_van:** uitvinding 3361: Elektriciteit
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 3321 (Het grote twijfelen)
+- **assen_anders:** 3
+- **gevolg:** {"toestand": {"M": -0.153, "T": 0.145, "P": -0.041, "S": 0.066, "L": -0.023, "O": 0.026}, "macht": {"dragers": -0.04, "steden": 0.034, "staat": 0.016}, "heerser_na": "Kaldra"}
+- **blijvend:** Het schip was echt. Men weet het, en het verandert niets aan wat men voelt.
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De Wieg wordt gevonden en antwoordt
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **van:** 3461
+- **tot:** 4101
+- **crisis:** vondst
+- **oplossing:** wieg
+- **naam:** De Wieg wordt gevonden en antwoordt
+- **beslisser:** de geleerden en een drager
+- **macht_sleutel:** steden
+- **actor_macht:** 0.301
+- **mechanisme:** de Wieg wordt gevonden en vraagt om een ja
+- **handhaver:** de geleerden en een drager
+- **betaler:** wie haar eerst aanraakte
+- **vervalst:** wat de Wieg zei
+- **ontdekt:** deels
+- **schaal:** wereld
+- **oorzaak:** {"T": 0.812, "W": 0.772}
+- **druk:** 0.52
+- **tweede_druk:** geloof 0.47
+- **erft_van:** uitvinding 3421: Kluisherstel
+- **gedeeld_mechanisme:** lading-is-macht
+- **rijmt_met:** fase 2141 (Dragers laten de akkers groeien)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": 0.06, "T": 0.119, "L": -0.031, "O": 0.03}, "macht": {"staat": 0.029, "huizen": -0.013}, "heerser_na": "Kaldra"}
+- **blijvend:** De machine onder de berg vraagt nog steeds om een ja.
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · De schimmelmuren
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **van:** 4101
+- **tot:** 4161
+- **crisis:** epidemie
+- **oplossing:** schimmelmuren
+- **naam:** De schimmelmuren
+- **beslisser:** de artsenkloosters
+- **macht_sleutel:** steden
+- **actor_macht:** 0.341
+- **mechanisme:** de stad bouwt een binnenring; wie koorts heeft, gaat naar buiten
+- **handhaver:** de stadswacht
+- **betaler:** de besmetten achter de muur
+- **vervalst:** hoeveel er achter de muur bleven
+- **ontdekt:** deels
+- **schaal:** stad
+- **oorzaak:** {"schim": 0.612, "O": 0.597}
+- **druk:** 1.34
+- **tweede_druk:** vondst 1.33
+- **erft_van:** gebeurtenis 4101: Een natte zomer: de schimmel komt de steden in.
+- **gedeeld_mechanisme:** registreren
+- **rijmt_met:** fase 2221 (Dragers mogen alleen nog met dragers)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"P": -0.099}, "macht": {"steden": 0.017}, "heerser_na": "Kaldra"}
+- **blijvend:** Een stad heeft een binnenring voor de levenden.
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_fase -->
+### None · Het grote twijfelen
+- **run_id:** Z45-GESCH-0013
+- **module:** geschiedenis_z45
+- **van:** 4161
+- **tot:** 5001
+- **crisis:** geloof
+- **oplossing:** ongeloof
+- **naam:** Het grote twijfelen
+- **beslisser:** de geleerden
+- **macht_sleutel:** steden
+- **actor_macht:** 0.356
+- **mechanisme:** de steden houden op de tiende te innen; de kerk kan niet meer dwingen
+- **handhaver:** niemand
+- **betaler:** de kerk
+- **vervalst:** niets
+- **ontdekt:** ja
+- **schaal:** stad
+- **oorzaak:** {"L": 0, "T": 0.92}
+- **druk:** 1.52
+- **tweede_druk:** vondst 1.33
+- **erft_van:** uitvinding 3801: Sporendruk
+- **gedeeld_mechanisme:** verbergen
+- **rijmt_met:** fase 3381 (Het schip wordt erkend)
+- **assen_anders:** 4
+- **gevolg:** {"toestand": {"M": 0.131, "T": 0.037, "P": 0.062, "L": 0.023, "O": 0.025}, "macht": {}, "heerser_na": "Kaldra"}
+- **blijvend:** God is een vraag geworden.
+- **epistemiek:** simulatie (Z45-GESCH-0013, seed 420013)
+<!-- /REC -->
 
 <!-- SECTIE: SIM_WET -->

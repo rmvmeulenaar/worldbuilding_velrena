@@ -881,5 +881,75 @@
 - **status:** voorlopig
 - **epistemiek:** aanname (motorontwerp Z44, bron TECHNO-REGEL-V4)
 <!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH4-kennis · Uitvinden hangt af van de kennisvoorraad, tot de derde macht: traag zolang die klein is (zoals in de middeleeuwen), sneller met steden, handel en schrift; sporendruk en drukpers versnellen de groei, oorlog en epidemie kosten kennis, een boekverbod halveert de groei (Kremer, Mokyr).
+- **code:** GESCH4-kennis
+- **module:** geschiedenis_z45
+- **omschrijving:** Uitvinden hangt af van de kennisvoorraad, tot de derde macht: traag zolang die klein is (zoals in de middeleeuwen), sneller met steden, handel en schrift; sporendruk en drukpers versnellen de groei, oorlog en epidemie kosten kennis, een boekverbod halveert de groei (Kremer, Mokyr).
+- **parameter:** kennis
+- **waarde:** start 0,25; kans 1,0 maal kennis^3 maal noodzaak
+- **bron_code:** TECHNO-REGEL-V4;TECH-GESCH-11
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z44, bron TECHNO-REGEL-V4;TECH-GESCH-11)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH4-verspreiding · Een uitvinding verspreidt zich langs een S-curve; handel, drukwerk en netten (lichtnet, echonet, telegraaf, spoor) versnellen. Haar effect groeit en slinkt mee met het gebruik.
+- **code:** GESCH4-verspreiding
+- **module:** geschiedenis_z45
+- **omschrijving:** Een uitvinding verspreidt zich langs een S-curve; handel, drukwerk en netten (lichtnet, echonet, telegraaf, spoor) versnellen. Haar effect groeit en slinkt mee met het gebruik.
+- **parameter:** verspreiding
+- **waarde:** 0,3 per 20 jaar maal (1 + handel + 2,5 drukwerk + 2 netten)
+- **bron_code:** TECHNO-REGEL-V4
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z44, bron TECHNO-REGEL-V4)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH4-verval · Gave- en zegelsteentechniek gaat verloren als haar bron 100 jaar wegvalt (magie onder 0,32, of geen steen uit de groeven); de kennis blijft, de praktijk slinkt, en haar gewone opvolger wordt nodig.
+- **code:** GESCH4-verval
+- **module:** geschiedenis_z45
+- **omschrijving:** Gave- en zegelsteentechniek gaat verloren als haar bron 100 jaar wegvalt (magie onder 0,32, of geen steen uit de groeven); de kennis blijft, de praktijk slinkt, en haar gewone opvolger wordt nodig.
+- **parameter:** verval
+- **waarde:** 100 jaar
+- **bron_code:** BESLUIT-2;D1-orrim-dood
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z44, bron BESLUIT-2;D1-orrim-dood)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH4-kharvos · Het contact met Kharvos groeit met handel en met de dreiging van Kharvos; het opent het Kharvos-ambacht (smeden, raderwerk, koper).
+- **code:** GESCH4-kharvos
+- **module:** geschiedenis_z45
+- **omschrijving:** Het contact met Kharvos groeit met handel en met de dreiging van Kharvos; het opent het Kharvos-ambacht (smeden, raderwerk, koper).
+- **parameter:** contact
+- **waarde:** start 0,2
+- **bron_code:** BESLUIT-3;REG-kharvos-B1;ORIGIN-Z1-harrow
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z44, bron BESLUIT-3;REG-kharvos-B1;ORIGIN-Z1-harrow)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH4-gewoon · Het Gewone begint als stoom, drukpers, elektriciteit, vaccin en spoor elk voor de helft verspreid zijn.
+- **code:** GESCH4-gewoon
+- **module:** geschiedenis_z45
+- **omschrijving:** Het Gewone begint als stoom, drukpers, elektriciteit, vaccin en spoor elk voor de helft verspreid zijn.
+- **parameter:** gewoon
+- **waarde:** 5 uitvindingen op 50%
+- **bron_code:** TECH-GESCH-12-V4
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z44, bron TECH-GESCH-12-V4)
+<!-- /REC -->
 
 <!-- SECTIE: GEBEURTENIS_TYPE -->
