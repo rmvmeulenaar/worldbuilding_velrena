@@ -1,0 +1,6 @@
+# Keuzelijst Z44 (Rogier beslist)
+
+1. **De tijdperken na 801** (fase 9 tot 16) staan als voorstel in de ideeënbank. Advies: neem de reeks als geraamte in de canon. De jaartallen houd je voorlopig, want die komen uit de simulatie. Zekerheid 75%.
+2. **Het anker**: 801 ligt rond 25.150 jaar geleden, en Velmara ligt in de ijstijd op land dat nu onder zee ligt. Advies: ja. Het verklaart dat er geen sporen zijn en dat de mythen overal voorkomen. Zekerheid 70%. Dan volgt de vraag op welk plat Velmara ligt (M7). Mijn eerste kandidaat is het bekken van de Perzische Golf, dat in de ijstijd droog lag en een rivierdelta had. Het Zagros-gebergte past dan als Hoogvrouwe, en de woestijn als Qesh. Het sluit ook aan bij Dilmun en Eden en dus bij de zondeval. Andere kandidaten zijn Sundaland en Doggerland.
+3. **De rampen die de tijdperken afsluiten**: de Doving van Saelith, de Val van Hoornburg (de kern van de Harrow bezwijkt), de Laatste Gloed en de ster die stilstaat. Dit zijn verzinsels van de architect. Kies welke je wilt houden.
+4. **Negen tijdperk-labels vallen niet op de as**, waaronder "Tijd der Koningen", "Tijd der Rivieren" en "De Mannenoorlogen". De signaalregel meldt ze nu niet, omdat ze alleen aan vervangen rijen hangen. Advies: laten zo.

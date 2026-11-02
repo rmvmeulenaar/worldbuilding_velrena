@@ -14010,4 +14010,304 @@
 - **bron_handmatig:** 
 - **epistemiek:** voorstel (architect Z42, geen besluit)
 <!-- /REC -->
+<!-- REC canon -->
+### FASE-voortijd · De Voortijd
+- **code:** FASE-voortijd
+- **categorie:** Tijdperk
+- **onderwerp:** De Voortijd
+- **wat:** -1240 tot -600. Van de landing van het zaaischip tot de eerste koningen van de delta: de Makers, de Koude Muiterij, de stemming van 5 tegen 4, de Stille Modus van jaar 28, de val van de Sterrensteen in -480. Afgeleid uit de landing (ORIGIN-1) en het begin van de Overvloed (FASE-overvloed).
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** ORIGIN-1;FASE-overvloed;GEB-Z17-sterrensteen-inslag;BESLUIT-Z36-1
+- **verwijst_naar:** ORIGIN-1;FASE-overvloed;GEB-Z17-sterrensteen-inslag;BESLUIT-Z36-1
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** -1240 tot -600. Van de landing van het zaaischip tot de eerste koningen van de delta: de Makers, de Koude Muiterij, de stemming van 5 tegen 4, de Stille Modus van jaar 28, de val van de Sterrensteen in -480. Afgeleid uit de landing (ORIGIN-1) en het begin van de Overvloed (FASE-overvloed).
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (afgeleid uit ORIGIN-1 en FASE-overvloed)
+<!-- /REC -->
+<!-- REC canon -->
+### TIJD-anker · Waar 801 op de aarde ligt
+- **code:** TIJD-anker
+- **categorie:** Tijdperk
+- **onderwerp:** Waar 801 op de aarde ligt
+- **wat:** Het jaar 801 ligt op ongeveer 25.150 jaar voor heden (band 21.802 tot 26.661), de landing dus rond 27.191 jaar geleden. Velmara leeft in het laatste glaciale maximum, toen de zee ongeveer 120 meter lager stond, op continentaal plat dat nu onder water ligt. Zo zijn er geen sporen: de schimmel at het schip, het ijzer roestte, en de zee kwam eroverheen. De mythen moeten zijn gevormd voordat mensen Amerika in trokken, en daarna zwijgt de wereld duizenden jaren tot het eerste schrift. Geschat met tijd/verlies.py uit de canon en uit wat bekend is over ijstijd, Amerika en schrift; fantasie, aannemelijk gemaakt.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** BESLUIT-Z42-1;ORIGIN-1;BESLUIT-Z11-tijdlijn
+- **verwijst_naar:** BESLUIT-Z42-1;ORIGIN-1;BESLUIT-Z11-tijdlijn
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Het jaar 801 ligt op ongeveer 25.150 jaar voor heden (band 21.802 tot 26.661), de landing dus rond 27.191 jaar geleden. Velmara leeft in het laatste glaciale maximum, toen de zee ongeveer 120 meter lager stond, op continentaal plat dat nu onder water ligt. Zo zijn er geen sporen: de schimmel at het schip, het ijzer roestte, en de zee kwam eroverheen. De mythen moeten zijn gevormd voordat mensen Amerika in trokken, en daarna zwijgt de wereld duizenden jaren tot het eerste schrift. Geschat met tijd/verlies.py uit de canon en uit wat bekend is over ijstijd, Amerika en schrift; fantasie, aannemelijk gemaakt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### FASE-z44-ja · Tijd van de Ja
+- **code:** FASE-z44-ja
+- **categorie:** Tijdperk
+- **onderwerp:** Tijd van de Ja
+- **wat:** 801 tot 1531. Na de derde weg vraagt het Zegel elk lichaam om een ja, en daarmee kan iedereen nee zeggen. In decennia schuift de verhouding van één jongen op honderd naar één op twintig, en later verder. Gaven doven per generatie, de stallen gaan open, de laatste reuzenstieren sterven, de Grauwen gaan op in de dorpen, kinderen van de Vathren worden gewone kinderen. Het tijdperk eindigt met de Doving: het laatste zegellicht in Saelith gaat uit.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** TIJD-anker;BESLUIT-Z12-2
+- **verwijst_naar:** TIJD-anker;BESLUIT-Z12-2
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** 801 tot 1531. Na de derde weg vraagt het Zegel elk lichaam om een ja, en daarmee kan iedereen nee zeggen. In decennia schuift de verhouding van één jongen op honderd naar één op twintig, en later verder. Gaven doven per generatie, de stallen gaan open, de laatste reuzenstieren sterven, de Grauwen gaan op in de dorpen, kinderen van de Vathren worden gewone kinderen. Het tijdperk eindigt met de Doving: het laatste zegellicht in Saelith gaat uit.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### FASE-z44-volken · Tijd der Volken
+- **code:** FASE-z44-volken
+- **categorie:** Tijdperk
+- **onderwerp:** Tijd der Volken
+- **wat:** 1531 tot 3011. Zonder Zegel leven de volken nog een tijd naast elkaar, maar wat het Zegel erfelijk maakte, slijt. Skerra-kinderen komen steeds vaker zonder vleugels, Ves-Lethi houden één gezicht, de korven van de Kluwers vallen uiteen in families, en de kraaien vergeten de stem van Ysa. Kharvos houdt zijn wonderen het langst, op de kern van de Harrow, tot die kern bezwijkt bij de Val van Hoornburg.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** TIJD-anker;BESLUIT-Z12-2
+- **verwijst_naar:** TIJD-anker;BESLUIT-Z12-2
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** 1531 tot 3011. Zonder Zegel leven de volken nog een tijd naast elkaar, maar wat het Zegel erfelijk maakte, slijt. Skerra-kinderen komen steeds vaker zonder vleugels, Ves-Lethi houden één gezicht, de korven van de Kluwers vallen uiteen in families, en de kraaien vergeten de stem van Ysa. Kharvos houdt zijn wonderen het langst, op de kern van de Harrow, tot die kern bezwijkt bij de Val van Hoornburg.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### FASE-z44-helden · Heldentijd
+- **code:** FASE-z44-helden
+- **categorie:** Tijdperk
+- **onderwerp:** Heldentijd
+- **wat:** 3011 tot 3761. Midden-aarde: mensen zijn de meesten, de oude volken de laatsten. De Aelthir trekken zich terug in de mist, de hallen van de Dhurn lopen leeg, de laatste Tharn bewaken poorten die niemand meer aanvalt, Orrim staan stil als beelden. Helden met een restje gave zoeken de laatste werkende kluizen. Het eindigt met de Laatste Gloed: de Sterrensteen wordt een gewone grijze steen.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** TIJD-anker;BESLUIT-Z12-2
+- **verwijst_naar:** TIJD-anker;BESLUIT-Z12-2
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** 3011 tot 3761. Midden-aarde: mensen zijn de meesten, de oude volken de laatsten. De Aelthir trekken zich terug in de mist, de hallen van de Dhurn lopen leeg, de laatste Tharn bewaken poorten die niemand meer aanvalt, Orrim staan stil als beelden. Helden met een restje gave zoeken de laatste werkende kluizen. Het eindigt met de Laatste Gloed: de Sterrensteen wordt een gewone grijze steen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### FASE-z44-vertrek · Het Vertrek
+- **code:** FASE-z44-vertrek
+- **categorie:** Tijdperk
+- **onderwerp:** Het Vertrek
+- **wat:** 3761 tot 5831. Wat nog leeft van de Makers, gaat weg of valt stil. De laatste Leegtewormen sterven in de diepte en spoelen aan als zeeslangen, de stem in de Wortel zwijgt, en de laatste Aelthir gaan met een lander naar het Kluisschip dat nog vliegt. Het eindigt als de bewegende ster niet meer beweegt.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** TIJD-anker;BESLUIT-Z12-2
+- **verwijst_naar:** TIJD-anker;BESLUIT-Z12-2
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** 3761 tot 5831. Wat nog leeft van de Makers, gaat weg of valt stil. De laatste Leegtewormen sterven in de diepte en spoelen aan als zeeslangen, de stem in de Wortel zwijgt, en de laatste Aelthir gaan met een lander naar het Kluisschip dat nog vliegt. Het eindigt als de bewegende ster niet meer beweegt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### FASE-z44-mensen · Tijd der Mensen
+- **code:** FASE-z44-mensen
+- **categorie:** Tijdperk
+- **onderwerp:** Tijd der Mensen
+- **wat:** 5831 tot 6951. Alleen mensen, met wat bloed van de volken in zich, en twee dingen die het Zegel nooit raakte: de Oevrin in het slik en het schimmelnet van de Myrrhen. Over het droge plat trekken families naar alle kanten, ook over de landbrug naar het oosten, en ze nemen hun verhalen mee. De geschiedenis wordt mythe.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** TIJD-anker;BESLUIT-Z12-2
+- **verwijst_naar:** TIJD-anker;BESLUIT-Z12-2
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** 5831 tot 6951. Alleen mensen, met wat bloed van de volken in zich, en twee dingen die het Zegel nooit raakte: de Oevrin in het slik en het schimmelnet van de Myrrhen. Over het droge plat trekken families naar alle kanten, ook over de landbrug naar het oosten, en ze nemen hun verhalen mee. De geschiedenis wordt mythe.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### FASE-z44-smelt · De Grote Smelt
+- **code:** FASE-z44-smelt
+- **categorie:** Tijdperk
+- **onderwerp:** De Grote Smelt
+- **wat:** 6951 tot 17751. Het ijs smelt en de zee stijgt ongeveer 120 meter. De delta, de Zoutkust en het slik van de Oevrin verdwijnen onder water; wat de zee neemt, is voorgoed weg. Over de oude herinnering aan de Brand en aan Ves-Anath legt zich een tweede, echte ondergang: daar komen de vloed en de verzonken stad vandaan.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** TIJD-anker;BESLUIT-Z12-2
+- **verwijst_naar:** TIJD-anker;BESLUIT-Z12-2
+- **jaar:** 
+- **tijdperk:** 14 De Grote Smelt (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** 6951 tot 17751. Het ijs smelt en de zee stijgt ongeveer 120 meter. De delta, de Zoutkust en het slik van de Oevrin verdwijnen onder water; wat de zee neemt, is voorgoed weg. Over de oude herinnering aan de Brand en aan Ves-Anath legt zich een tweede, echte ondergang: daar komen de vloed en de verzonken stad vandaan.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### FASE-z44-gat · Het Zwevende Gat
+- **code:** FASE-z44-gat
+- **categorie:** Tijdperk
+- **onderwerp:** Het Zwevende Gat
+- **wat:** 17751 tot 20751. Dit is het zwevende gat. Niemand weet meer wat er gebeurde; alleen vaste formules overleven het doorvertellen, zoals de prijs van het lichaam en de vrouw die opende. De eerste boeren zaaien op nieuwe kusten. Wat vreemd was, wordt vertrouwd, en de Makers worden goden.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** TIJD-anker;BESLUIT-Z12-2
+- **verwijst_naar:** TIJD-anker;BESLUIT-Z12-2
+- **jaar:** 
+- **tijdperk:** 15 Het Zwevende Gat (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** 17751 tot 20751. Dit is het zwevende gat. Niemand weet meer wat er gebeurde; alleen vaste formules overleven het doorvertellen, zoals de prijs van het lichaam en de vrouw die opende. De eerste boeren zaaien op nieuwe kusten. Wat vreemd was, wordt vertrouwd, en de Makers worden goden.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### FASE-z44-schrift · Tijd van het Schrift
+- **code:** FASE-z44-schrift
+- **categorie:** Tijdperk
+- **onderwerp:** Tijd van het Schrift
+- **wat:** 20751 tot 25951. Pas het eerste schrift legt de mythen vast: Inanna, Atrahasis, later de Grieken en de Edda. Wat er van Velmara over is, is geen steen op steen, maar herkenning: feeënringen in het gras, grijze hemelstenen, een woord dat in drie talen terugkomt. Vandaag is het ongeveer Zegeljaar 25.951.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** TIJD-anker;BESLUIT-Z12-2
+- **verwijst_naar:** TIJD-anker;BESLUIT-Z12-2
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** 20751 tot 25951. Pas het eerste schrift legt de mythen vast: Inanna, Atrahasis, later de Grieken en de Edda. Wat er van Velmara over is, is geen steen op steen, maar herkenning: feeënringen in het gras, grijze hemelstenen, een woord dat in drie talen terugkomt. Vandaag is het ongeveer Zegeljaar 25.951.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
 

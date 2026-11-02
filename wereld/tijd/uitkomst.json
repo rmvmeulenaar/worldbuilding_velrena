@@ -1,0 +1,398 @@
+{
+ "runs": 20000,
+ "geaccepteerd": 806,
+ "anker_bp_801": [
+  21802,
+  25148,
+  26661
+ ],
+ "tijdperk_eind_na_801": {
+  "ja": [
+   456,
+   730,
+   1309
+  ],
+  "volken": [
+   1385,
+   2206,
+   3853
+  ],
+  "helden": [
+   1917,
+   2955,
+   4405
+  ],
+  "vertrek": [
+   3322,
+   5032,
+   7867
+  ]
+ },
+ "wezens": {
+  "gaven-mannen": {
+   "zeldzaam": [
+    57,
+    78,
+    115
+   ],
+   "legende": [
+    189,
+    261,
+    383
+   ],
+   "verdwenen": [
+    378,
+    521,
+    766
+   ]
+  },
+  "vathren": {
+   "zeldzaam": [
+    31,
+    45,
+    68
+   ],
+   "legende": [
+    104,
+    148,
+    227
+   ],
+   "verdwenen": [
+    208,
+    296,
+    454
+   ]
+  },
+  "zegellicht": {
+   "zeldzaam": [
+    135,
+    220,
+    394
+   ],
+   "legende": [
+    447,
+    730,
+    1309
+   ],
+   "verdwenen": [
+    895,
+    1460,
+    2618
+   ]
+  },
+  "karruk-storm": {
+   "zeldzaam": [
+    64,
+    89,
+    140
+   ],
+   "legende": [
+    214,
+    294,
+    466
+   ],
+   "verdwenen": [
+    428,
+    588,
+    933
+   ]
+  },
+  "grauwen": {
+   "zeldzaam": [
+    37,
+    55,
+    103
+   ],
+   "legende": [
+    124,
+    183,
+    343
+   ],
+   "verdwenen": [
+    249,
+    366,
+    686
+   ]
+  },
+  "reuzenstieren": {
+   "zeldzaam": [
+    9,
+    13,
+    20
+   ],
+   "legende": [
+    31,
+    42,
+    67
+   ],
+   "verdwenen": [
+    62,
+    84,
+    134
+   ]
+  },
+  "skerra": {
+   "zeldzaam": [
+    96,
+    139,
+    269
+   ],
+   "legende": [
+    318,
+    462,
+    893
+   ],
+   "verdwenen": [
+    636,
+    924,
+    1785
+   ]
+  },
+  "ves-lethi": {
+   "zeldzaam": [
+    114,
+    173,
+    339
+   ],
+   "legende": [
+    378,
+    574,
+    1126
+   ],
+   "verdwenen": [
+    755,
+    1148,
+    2251
+   ]
+  },
+  "kluwers": {
+   "zeldzaam": [
+    375,
+    547,
+    1073
+   ],
+   "legende": [
+    1246,
+    1818,
+    3563
+   ],
+   "verdwenen": [
+    2492,
+    3636,
+    7126
+   ]
+  },
+  "registerkraaien-stem": {
+   "zeldzaam": [
+    252,
+    391,
+    882
+   ],
+   "legende": [
+    837,
+    1300,
+    2930
+   ],
+   "verdwenen": [
+    1673,
+    2601,
+    5861
+   ]
+  },
+  "dhurn": {
+   "zeldzaam": [
+    224,
+    385,
+    714
+   ],
+   "legende": [
+    743,
+    1280,
+    2371
+   ],
+   "verdwenen": [
+    1486,
+    2559,
+    4742
+   ]
+  },
+  "orrim": {
+   "zeldzaam": [
+    373,
+    659,
+    1207
+   ],
+   "legende": [
+    1238,
+    2188,
+    4010
+   ],
+   "verdwenen": [
+    2475,
+    4376,
+    8020
+   ]
+  },
+  "aelthir": {
+   "zeldzaam": [
+    212,
+    288,
+    476
+   ],
+   "legende": [
+    704,
+    957,
+    1582
+   ],
+   "verdwenen": [
+    1409,
+    1914,
+    3165
+   ]
+  },
+  "tharn": {
+   "zeldzaam": [
+    297,
+    426,
+    714
+   ],
+   "legende": [
+    988,
+    1414,
+    2373
+   ],
+   "verdwenen": [
+    1975,
+    2829,
+    4747
+   ]
+  },
+  "wiegkasten": {
+   "zeldzaam": [
+    192,
+    338,
+    654
+   ],
+   "legende": [
+    638,
+    1124,
+    2173
+   ],
+   "verdwenen": [
+    1276,
+    2248,
+    4346
+   ]
+  },
+  "sterrensteen": {
+   "zeldzaam": [
+    441,
+    643,
+    1066
+   ],
+   "legende": [
+    1464,
+    2137,
+    3543
+   ],
+   "verdwenen": [
+    2929,
+    4274,
+    7086
+   ]
+  },
+  "leegtewormen": {
+   "zeldzaam": [
+    472,
+    793,
+    1408
+   ],
+   "legende": [
+    1567,
+    2634,
+    4676
+   ],
+   "verdwenen": [
+    3133,
+    5268,
+    9353
+   ]
+  },
+  "wortelstem": {
+   "zeldzaam": [
+    572,
+    998,
+    1761
+   ],
+   "legende": [
+    1899,
+    3314,
+    5850
+   ],
+   "verdwenen": [
+    3799,
+    6628,
+    11700
+   ]
+  },
+  "kluisschip": {
+   "zeldzaam": [
+    928,
+    1504,
+    2351
+   ],
+   "legende": [
+    3084,
+    4996,
+    7809
+   ],
+   "verdwenen": [
+    6168,
+    9992,
+    15617
+   ]
+  },
+  "sael-mor": {
+   "zeldzaam": [
+    497,
+    702,
+    1134
+   ],
+   "legende": [
+    1652,
+    2331,
+    3766
+   ],
+   "verdwenen": [
+    3303,
+    4662,
+    7531
+   ]
+  },
+  "oevrin": {
+   "zeldzaam": null,
+   "legende": null,
+   "verdwenen": null
+  },
+  "myrrhen": {
+   "zeldzaam": null,
+   "legende": null,
+   "verdwenen": null
+  },
+  "ishvar": {
+   "zeldzaam": null,
+   "legende": null,
+   "verdwenen": null
+  }
+ },
+ "steen_halfwaarde": [
+  441,
+  643,
+  1066
+ ],
+ "knelt": {
+  "c1 laag water": 0.56,
+  "c2 voor Amerika": 0.6,
+  "c3 zwevend gat": 0.19
+ }
+}

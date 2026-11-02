@@ -256,8 +256,49 @@ def persoon_identiteit(c):
   c.execute('drop view if exists v_persoon')
   c.execute("create view v_persoon as select persoon,max(naam) naam,count(*) codes,group_concat(code,';') leden from persoon_identiteit group by persoon")
 
+def tijdas(c):
+  """Z44: één onderliggende tijdas. Afgeleid uit de FASE-rijen ('X tot Y' aan het begin van het feit), de anker-rij TIJD-anker
+  (jaren BP van 801) en alle tijdperk-labels in de canon. tijdas: fase, code, naam, van, tot (Zegeljaar), van_bp, tot_bp, voorstel.
+  tijdperk_label: elk gebruikt tijdperk-label -> fase (NULL = onbekend; regel R-tijdperk_onbekend meldt dat als signaal)."""
+  import re as _re
+  for t in ('tijdas','tijdperk_label'): c.execute(f'drop table if exists {t}')
+  c.execute('create table tijdas(fase integer primary key, code text, naam text, van integer, tot integer, van_bp integer, tot_bp integer, voorstel integer)')
+  c.execute('create table tijdperk_label(label text primary key, fase integer)')
+  num=lambda x:int(x.replace('.',''))
+  rij=[]
+  for code,tp,ond,feit,ib in c.execute("select code,tijdperk,onderwerp,feit,coalesce(ideeenbank,0) from canon where code like 'FASE-%' and code not like 'FASE-OVERZICHT%' and status in ('vastgesteld','voorlopig')"):
+    m=_re.match(r'\s*(-?[\d.]+)\s+tot\s+(-?[\d.]+)',feit or '')
+    if m: rij.append((num(m.group(1)),num(m.group(2)),code,tp,ond,ib))
+  rij.sort()
+  a=c.execute("select feit from canon where code='TIJD-anker' and status in ('vastgesteld','voorlopig')").fetchone()
+  A=None
+  if a:
+    m=_re.search(r'(\d{1,3}(?:\.\d{3})+|\d{4,6}) jaar',a[0]); A=num(m.group(1)) if m else None
+  bp=lambda j: None if A is None else A-(j-801)
+  voor=[r for r in rij if r[1]<=801]; na=[r for r in rij if r[0]>=801]
+  F=[(i,)+r for i,r in enumerate(voor)]+[(len(voor),801,802,'HEDEN','801 (nu)','Heden',0)]+[(len(voor)+1+i,)+r for i,r in enumerate(na)]
+  namen={}
+  for f,van,tot,code,tp,ond,ib in F:
+    nm=(tp or ond or code)
+    c.execute('insert into tijdas values(?,?,?,?,?,?,?,?)',(f,code,nm,van,tot,bp(van),bp(tot),ib))
+    for x in {tp,ond}:
+      if x: namen[_re.sub(r'^\d+\s+','',x).split(' (')[0].lower()]=f
+  fasen={f for f,*_ in F}
+  for (lab,) in c.execute("select distinct tijdperk from canon where tijdperk is not null and trim(tijdperk)<>''").fetchall():
+    m=_re.match(r'\s*(\d+)',lab);f=None
+    if m:
+      k=int(m.group(1));f=len(voor) if k==801 else (k if k in fasen else None)
+    if f is None and 'na 801' in lab: f=len(voor)+1 if len(voor)+1 in fasen else None
+    if f is None:
+      kern=_re.sub(r'^\d+\s+','',lab).split(' (')[0].split(';')[0].strip().lower()
+      f=namen.get(kern) or next((v for n,v in namen.items() if n and (n in lab.lower())),None)
+    c.execute('insert or replace into tijdperk_label values(?,?)',(lab,f))
+  c.execute('drop view if exists v_tijdlijn')
+  c.execute("""create view v_tijdlijn as select k.code,k.categorie,k.onderwerp,k.tijdperk,t.fase,t.naam fase_naam,t.van,t.tot,t.van_bp,t.tot_bp,coalesce(k.ideeenbank,0) ideeenbank
+    from canon k join tijdperk_label l on l.label=k.tijdperk left join tijdas t on t.fase=l.fase where k.status in ('vastgesteld','voorlopig')""")
+
 def bouw(c):
-  schema(c);herkomst(c);personage_profiel(c);relaties(c);per_relaties(c);anker_kopie(c);persoon_identiteit(c)
+  schema(c);herkomst(c);personage_profiel(c);relaties(c);per_relaties(c);anker_kopie(c);persoon_identiteit(c);tijdas(c)
   import os,sys,importlib.util as iu  # Z37: rijkdom_lid (afgeleid) als de tabel domein bestaat
   pad=os.path.join(os.path.dirname(os.path.abspath(__file__)),'z37','rijkdom.py')
   if os.path.exists(pad):

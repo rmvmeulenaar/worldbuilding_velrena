@@ -428,5 +428,16 @@
 - **status:** actief
 - **niveau:** fout
 <!-- /REC -->
+<!-- REC regel -->
+### R-tijdperk_onbekend · Een levende rij heeft een tijdperk-label dat niet op de tijdas valt (tijdperk_label.fase is leeg).
+- **code:** R-tijdperk_onbekend
+- **domein:** tijd
+- **omschrijving:** Een levende rij heeft een tijdperk-label dat niet op de tijdas valt (tijdperk_label.fase is leeg).
+- **sql_test:** select k.code,'tijdperk niet op de tijdas: '||k.tijdperk from canon k join tijdperk_label l on l.label=k.tijdperk where l.fase is null and k.status in ('vastgesteld','voorlopig')
+- **bron:** Z44 (afgeleid_motor.tijdas)
+- **goedgekeurd_door:** architect Z44 (signaal)
+- **status:** actief
+- **niveau:** signaal
+<!-- /REC -->
 
 <!-- SECTIE: BOOG -->

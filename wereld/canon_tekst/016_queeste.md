@@ -27210,4 +27210,934 @@
 - **bron_handmatig:** 
 - **epistemiek:** feit (canon, herschreven na BESLUIT-Z42-1)
 <!-- /REC -->
+<!-- REC canon -->
+### VERHAAL-Z44-tijdperk-9 · De eerste nee
+- **code:** VERHAAL-Z44-tijdperk-9
+- **categorie:** Verhaal
+- **onderwerp:** De eerste nee
+- **wat:** Hanne is stalmeesteres in Ambergaard als het Lichtconvent van 806 de geloften ongeldig verklaart. Haar mannen mogen nu weigeren, en de eerste die het doet, is de man die ze het meest vertrouwt. In dertig jaar zien haar dochters wat zij nooit zag: broers. Tegelijk sterven in de achterste stal de reuzenstieren, onvruchtbaar en woedend, een voor een. Ze laat de deuren openstaan. Als haar kleindochter het laatste zegellicht in Saelith ziet uitgaan, denkt ze dat het de lamp van een kapel is.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** FASE-z44-ja;BESLUIT-Z12-2;HAAK-B1-2-4;BESLUIT-Z6-WRIJ-077;DEG-stalreus
+- **verwijst_naar:** FASE-z44-ja;BESLUIT-Z12-2;HAAK-B1-2-4;BESLUIT-Z6-WRIJ-077;DEG-stalreus
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Hanne is stalmeesteres in Ambergaard als het Lichtconvent van 806 de geloften ongeldig verklaart. Haar mannen mogen nu weigeren, en de eerste die het doet, is de man die ze het meest vertrouwt. In dertig jaar zien haar dochters wat zij nooit zag: broers. Tegelijk sterven in de achterste stal de reuzenstieren, onvruchtbaar en woedend, een voor een. Ze laat de deuren openstaan. Als haar kleindochter het laatste zegellicht in Saelith ziet uitgaan, denkt ze dat het de lamp van een kapel is.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, verhaal bij het tijdperk)
+<!-- /REC -->
+<!-- REC canon -->
+### VERHAAL-Z44-tijdperk-10 · De Val van Hoornburg
+- **code:** VERHAAL-Z44-tijdperk-10
+- **categorie:** Verhaal
+- **onderwerp:** De Val van Hoornburg
+- **wat:** Kharvos is het laatste land waar de machines nog zoemen, op de kern van de Harrow onder de burcht van Hoornburg. Ves-Lethi trekken erheen omdat hun gezicht daar nog wisselt; Skerra zonder vleugels laten zich er dragen door luchtschepen die niemand meer kan bouwen. Een Kharvos-vorstin weigert te geloven dat de kern op raakt en laat hem harder draaien. Hij bezwijkt in één nacht. Wat de overlevenden aan de kust vertellen, is het verhaal van een trots land dat de goden te veel vroeg.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** FASE-z44-volken;BESLUIT-3;ORIGIN-Z1-harrow;VOLK-ves-lethi-Z6;VOLK-skerra
+- **verwijst_naar:** FASE-z44-volken;BESLUIT-3;ORIGIN-Z1-harrow;VOLK-ves-lethi-Z6;VOLK-skerra
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Kharvos is het laatste land waar de machines nog zoemen, op de kern van de Harrow onder de burcht van Hoornburg. Ves-Lethi trekken erheen omdat hun gezicht daar nog wisselt; Skerra zonder vleugels laten zich er dragen door luchtschepen die niemand meer kan bouwen. Een Kharvos-vorstin weigert te geloven dat de kern op raakt en laat hem harder draaien. Hij bezwijkt in één nacht. Wat de overlevenden aan de kust vertellen, is het verhaal van een trots land dat de goden te veel vroeg.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, verhaal bij het tijdperk)
+<!-- /REC -->
+<!-- REC canon -->
+### VERHAAL-Z44-tijdperk-11 · De laatste kluis
+- **code:** VERHAAL-Z44-tijdperk-11
+- **categorie:** Verhaal
+- **onderwerp:** De laatste kluis
+- **wat:** Een mensenvrouw met een vonk die nauwelijks een kaars aansteekt, een Dhurn met de laatste handen die een kluis kunnen openen, en een Aelthir die haar eigen naam aan het vergeten is, zoeken een kluis waar nog een Wiegkast zou werken. Onderweg laat een Tharn hen door een poort die al eeuwen niet meer verdedigd wordt, alleen om iemand te spreken. De kluis werkt nog één keer. Daarna gloeit de Sterrensteen niet meer, en de Dhurn weet dat zijn volk geen dochters meer zal krijgen.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** FASE-z44-helden;VOLK-dhurn;VOLK-aelthir-V5;UIT-VOLK-tharn;BESLUIT-Z4-sterrensteen
+- **verwijst_naar:** FASE-z44-helden;VOLK-dhurn;VOLK-aelthir-V5;UIT-VOLK-tharn;BESLUIT-Z4-sterrensteen
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een mensenvrouw met een vonk die nauwelijks een kaars aansteekt, een Dhurn met de laatste handen die een kluis kunnen openen, en een Aelthir die haar eigen naam aan het vergeten is, zoeken een kluis waar nog een Wiegkast zou werken. Onderweg laat een Tharn hen door een poort die al eeuwen niet meer verdedigd wordt, alleen om iemand te spreken. De kluis werkt nog één keer. Daarna gloeit de Sterrensteen niet meer, en de Dhurn weet dat zijn volk geen dochters meer zal krijgen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, verhaal bij het tijdperk)
+<!-- /REC -->
+<!-- REC canon -->
+### VERHAAL-Z44-tijdperk-12 · Het schip naar de bewegende ster
+- **code:** VERHAAL-Z44-tijdperk-12
+- **categorie:** Verhaal
+- **onderwerp:** Het schip naar de bewegende ster
+- **wat:** De laatste Aelthir verzamelen zich aan de kust waar een lander van de Makers ligt die nog één vlucht heeft. Een mens die ze liefheeft, mag niet mee; aan boord stopt de tijd voor wie gaat, niet voor wie blijft. In dezelfde jaren spoelen de laatste Leegtewormen aan, met lege ruimen, en zwijgt de stem in de Wortel na een laatste vraag. Als de lander opstijgt, ziet de mens de bewegende ster nog een winter lang. Dan staat hij stil.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** FASE-z44-vertrek;TECHNO-metaal-schip-Z42;YSA-Z32-6;OORSPRONG-bio-8
+- **verwijst_naar:** FASE-z44-vertrek;TECHNO-metaal-schip-Z42;YSA-Z32-6;OORSPRONG-bio-8
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De laatste Aelthir verzamelen zich aan de kust waar een lander van de Makers ligt die nog één vlucht heeft. Een mens die ze liefheeft, mag niet mee; aan boord stopt de tijd voor wie gaat, niet voor wie blijft. In dezelfde jaren spoelen de laatste Leegtewormen aan, met lege ruimen, en zwijgt de stem in de Wortel na een laatste vraag. Als de lander opstijgt, ziet de mens de bewegende ster nog een winter lang. Dan staat hij stil.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, verhaal bij het tijdperk)
+<!-- /REC -->
+<!-- REC canon -->
+### VERHAAL-Z44-tijdperk-13 · Over de landbrug
+- **code:** VERHAAL-Z44-tijdperk-13
+- **categorie:** Verhaal
+- **onderwerp:** Over de landbrug
+- **wat:** Een familie met Ishvar-bloed en een grootmoeder die nog zingt in de akkoorden van de Oevrin trekt achter de rendieren aan, het droge plat over, naar het oosten waar de zon opkomt. Ze nemen geen voorwerpen mee, alleen verhalen: een vrouw die opende, een slang die de wereld rond voer, een man die vuur haalde. Elke winter vertellen ze ze anders. Waar ze stoppen, groeien in het gras kringen paddenstoelen, en de grootmoeder zegt dat de doden daar dansen.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** FASE-z44-mensen;VOLK-oevrin;FEE-Z37-myrrhen-ringen;VOLK-ishvar
+- **verwijst_naar:** FASE-z44-mensen;VOLK-oevrin;FEE-Z37-myrrhen-ringen;VOLK-ishvar
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een familie met Ishvar-bloed en een grootmoeder die nog zingt in de akkoorden van de Oevrin trekt achter de rendieren aan, het droge plat over, naar het oosten waar de zon opkomt. Ze nemen geen voorwerpen mee, alleen verhalen: een vrouw die opende, een slang die de wereld rond voer, een man die vuur haalde. Elke winter vertellen ze ze anders. Waar ze stoppen, groeien in het gras kringen paddenstoelen, en de grootmoeder zegt dat de doden daar dansen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, verhaal bij het tijdperk)
+<!-- /REC -->
+<!-- REC canon -->
+### VERHAAL-Z44-tijdperk-14 · Het water komt
+- **code:** VERHAAL-Z44-tijdperk-14
+- **categorie:** Verhaal
+- **onderwerp:** Het water komt
+- **wat:** Elk jaar staat het water een handbreed hoger aan de oude kust van de Zoutkust. De Oevrin merken het eerst: hun paaipoelen verzilten, hun slikgangen lopen vol. Een Oevrin-vrouw en een mensenman die samen een veer houden, moeten kiezen tussen de zee in of het land op. Achter hen verdwijnen de ruïnes van Ves-Anath onder water. Kinderen die nooit iets van de stad wisten, horen later van een stad die verzonk om haar trots, en van klokken die je nog hoort bij stil weer.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** FASE-z44-smelt;VOLK-oevrin;BESLUIT-Z12-11;REG-zoutkust
+- **verwijst_naar:** FASE-z44-smelt;VOLK-oevrin;BESLUIT-Z12-11;REG-zoutkust
+- **jaar:** 
+- **tijdperk:** 14 De Grote Smelt (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Elk jaar staat het water een handbreed hoger aan de oude kust van de Zoutkust. De Oevrin merken het eerst: hun paaipoelen verzilten, hun slikgangen lopen vol. Een Oevrin-vrouw en een mensenman die samen een veer houden, moeten kiezen tussen de zee in of het land op. Achter hen verdwijnen de ruïnes van Ves-Anath onder water. Kinderen die nooit iets van de stad wisten, horen later van een stad die verzonk om haar trots, en van klokken die je nog hoort bij stil weer.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, verhaal bij het tijdperk)
+<!-- /REC -->
+<!-- REC canon -->
+### VERHAAL-Z44-tijdperk-15 · De laatste die het wist
+- **code:** VERHAAL-Z44-tijdperk-15
+- **categorie:** Verhaal
+- **onderwerp:** De laatste die het wist
+- **wat:** In een dorp aan een nieuwe kust leeft een oude vrouw die drie woorden kent waarvan niemand de betekenis weet: ysa, kern, wieg. Ze zingt ze bij elke geboorte. Haar kleinzoon vraagt wat ze betekenen; ze weet het niet meer, alleen dat je ze moet zeggen. Na haar dood zingt hij ze verkeerd, en zijn dochter maakt er een godin van. Zo verdwijnt het laatste wat een mens van de Makers wist, en zo begint het eerste geloof.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** FASE-z44-gat;TAAL-dode-taal;ORIGIN-WAAROM-11
+- **verwijst_naar:** FASE-z44-gat;TAAL-dode-taal;ORIGIN-WAAROM-11
+- **jaar:** 
+- **tijdperk:** 15 Het Zwevende Gat (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In een dorp aan een nieuwe kust leeft een oude vrouw die drie woorden kent waarvan niemand de betekenis weet: ysa, kern, wieg. Ze zingt ze bij elke geboorte. Haar kleinzoon vraagt wat ze betekenen; ze weet het niet meer, alleen dat je ze moet zeggen. Na haar dood zingt hij ze verkeerd, en zijn dochter maakt er een godin van. Zo verdwijnt het laatste wat een mens van de Makers wist, en zo begint het eerste geloof.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, verhaal bij het tijdperk)
+<!-- /REC -->
+<!-- REC canon -->
+### VERHAAL-Z44-tijdperk-16 · Een grijze steen in een museum
+- **code:** VERHAAL-Z44-tijdperk-16
+- **categorie:** Verhaal
+- **onderwerp:** Een grijze steen in een museum
+- **wat:** In onze tijd beschrijft een geologe een grijze steen uit een kraterveld die breekt als glas en die geen bekende inslag verklaart. Haar moeder hield vroeger kippen in een tuin vol feeënringen en had een vonk die nooit iemand geloofde. Op een avond legt de geologe de steen op tafel en hoort, zacht, een klik aan het eind van een zin die ze niet verstaat. Ze schrijft het op en gooit het weg. De lezer weet beter.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** FASE-z44-schrift;BESLUIT-Z42-1;MYTHE-Z43-hemelsteen;MYTHE-Z43-feeen
+- **verwijst_naar:** FASE-z44-schrift;BESLUIT-Z42-1;MYTHE-Z43-hemelsteen;MYTHE-Z43-feeen
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In onze tijd beschrijft een geologe een grijze steen uit een kraterveld die breekt als glas en die geen bekende inslag verklaart. Haar moeder hield vroeger kippen in een tuin vol feeënringen en had een vonk die nooit iemand geloofde. Op een avond legt de geologe de steen op tafel en hoort, zacht, een klik aan het eind van een zin die ze niet verstaat. Ze schrijft het op en gooit het weg. De lezer weet beter.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, verhaal bij het tijdperk)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-reuzenstieren · Het verdwijnen: reuzenstieren
+- **code:** LOT-Z44-reuzenstieren
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: reuzenstieren
+- **wat:** Als de stallen opengaan, blijft één stalknecht bij de reuzenstieren die niet weg kunnen, te groot voor elke weg. Ze zijn onvruchtbaar en sterven jong, en rond 841 is de laatste dood. Hij begraaft hem in de gang onder de oude stal. Eeuwen later vindt iemand daar een schedel die te groot is voor een stier, in een doolhof van gangen.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** DEG-stalreus;MYTHE-Z43-minotaurus;MYTHE-Z43-stal-van-de-goden
+- **verwijst_naar:** DEG-stalreus;MYTHE-Z43-minotaurus;MYTHE-Z43-stal-van-de-goden
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Als de stallen opengaan, blijft één stalknecht bij de reuzenstieren die niet weg kunnen, te groot voor elke weg. Ze zijn onvruchtbaar en sterven jong, en rond 841 is de laatste dood. Hij begraaft hem in de gang onder de oude stal. Eeuwen later vindt iemand daar een schedel die te groot is voor een stier, in een doolhof van gangen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-vathren · Het verdwijnen: vathren
+- **code:** LOT-Z44-vathren
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: vathren
+- **wat:** Een Vathren-ziener die het Zegel altijd als hartslag voelde, hoort het na 801 zachter worden. Haar zoon voelt niets meer en lacht erom. Rond 951 leeft er niemand meer die een lek kan voorspellen. Ze rouwt om een stem die haar pijn deed, en weet niet of dat verlies of genezing is.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** VOLK-vathren-Z6;MYTHE-Z43-vloek-op-zonen
+- **verwijst_naar:** VOLK-vathren-Z6;MYTHE-Z43-vloek-op-zonen
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een Vathren-ziener die het Zegel altijd als hartslag voelde, hoort het na 801 zachter worden. Haar zoon voelt niets meer en lacht erom. Rond 951 leeft er niemand meer die een lek kan voorspellen. Ze rouwt om een stem die haar pijn deed, en weet niet of dat verlies of genezing is.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-zegellicht · Het verdwijnen: zegellicht
+- **code:** LOT-Z44-zegellicht
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: zegellicht
+- **wat:** In de Ontvangstzaal van Saelith trekt het zegellicht elk jaar minder warmte uit je vingers. De laatste priesteres die het nog onderhoudt, zit er rond 1531 alleen. Op de nacht dat het uitgaat, is de zaal voor het eerst warm. Wat ze eraan overhoudt, is de gewoonte om niemand binnen te laten die niet gevraagd is.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** PLEK-Z4-saelith-1;MYTHE-Z43-vampier;MYTHE-Z43-heilig-huwelijk
+- **verwijst_naar:** PLEK-Z4-saelith-1;MYTHE-Z43-vampier;MYTHE-Z43-heilig-huwelijk
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In de Ontvangstzaal van Saelith trekt het zegellicht elk jaar minder warmte uit je vingers. De laatste priesteres die het nog onderhoudt, zit er rond 1531 alleen. Op de nacht dat het uitgaat, is de zaal voor het eerst warm. Wat ze eraan overhoudt, is de gewoonte om niemand binnen te laten die niet gevraagd is.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-gaven-mannen · Het verdwijnen: gaven-mannen
+- **code:** LOT-Z44-gaven-mannen
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: gaven-mannen
+- **wat:** Een oude stormman uit de Barsten leeft lang genoeg om zijn kleinzoon een vonk te zien geven die nog net een kaars aansteekt. Elke generatie geeft minder, want alleen gegeven kracht blijft. Rond 1061 is een stormman iets uit liederen; de laatste die de bliksem nog in zijn handen voelde, wordt in de bergen een god genoemd.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** BESLUIT-Z12-2;MAGIE-kracht-duur;MYTHE-Z43-dondergod;MYTHE-Z43-held-taken
+- **verwijst_naar:** BESLUIT-Z12-2;MAGIE-kracht-duur;MYTHE-Z43-dondergod;MYTHE-Z43-held-taken
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een oude stormman uit de Barsten leeft lang genoeg om zijn kleinzoon een vonk te zien geven die nog net een kaars aansteekt. Elke generatie geeft minder, want alleen gegeven kracht blijft. Rond 1061 is een stormman iets uit liederen; de laatste die de bliksem nog in zijn handen voelde, wordt in de bergen een god genoemd.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-grauwen · Het verdwijnen: grauwen
+- **code:** LOT-Z44-grauwen
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: grauwen
+- **wat:** Zonder register is er niemand meer die de Grauwen uitsluit. Een Grauwen-dorpsraad besluit zich niet langer apart te houden, en binnen een paar generaties trouwen hun kinderen overal. Rond 981 weet niemand meer welk dorp ooit Grauw was. Het is het enige volk waarvan het verdwijnen een overwinning is.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** VOLK-grauwen
+- **verwijst_naar:** VOLK-grauwen
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Zonder register is er niemand meer die de Grauwen uitsluit. Een Grauwen-dorpsraad besluit zich niet langer apart te houden, en binnen een paar generaties trouwen hun kinderen overal. Rond 981 weet niemand meer welk dorp ooit Grauw was. Het is het enige volk waarvan het verdwijnen een overwinning is.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-karruk-storm · Het verdwijnen: karruk-storm
+- **code:** LOT-Z44-karruk-storm
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: karruk-storm
+- **wat:** De kampioen van de Karrûk vecht het jaarlijkse gevecht en merkt dat zijn vonk er niet meer is om te ontladen. De Storm-religie verliest haar reden. Rond 1091 vechten ze nog steeds elk jaar, maar alleen om de eer, en de priesters zeggen dat de Storm slaapt.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** VOLK-karrûk-Z6-Z38;MYTHE-Z43-dondergod
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;MYTHE-Z43-dondergod
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De kampioen van de Karrûk vecht het jaarlijkse gevecht en merkt dat zijn vonk er niet meer is om te ontladen. De Storm-religie verliest haar reden. Rond 1091 vechten ze nog steeds elk jaar, maar alleen om de eer, en de priesters zeggen dat de Storm slaapt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-skerra · Het verdwijnen: skerra
+- **code:** LOT-Z44-skerra
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: skerra
+- **wat:** Een Skerra-moeder broedt een ei uit op een klif en het kind krijgt geen vleugels. Zonder Zegel slijt wat het Zegel erfelijk maakte, en elke generatie heeft er minder. Rond 1261 vliegt de laatste. Zij die niet meer kunnen vliegen, blijven op de kliffen wonen en vertellen hun kinderen over boden die uit de hemel kwamen.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** VOLK-skerra;D1-skerra-ziekte;MYTHE-Z43-vleugelvolk
+- **verwijst_naar:** VOLK-skerra;D1-skerra-ziekte;MYTHE-Z43-vleugelvolk
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een Skerra-moeder broedt een ei uit op een klif en het kind krijgt geen vleugels. Zonder Zegel slijt wat het Zegel erfelijk maakte, en elke generatie heeft er minder. Rond 1261 vliegt de laatste. Zij die niet meer kunnen vliegen, blijven op de kliffen wonen en vertellen hun kinderen over boden die uit de hemel kwamen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-ves-lethi · Het verdwijnen: ves-lethi
+- **code:** LOT-Z44-ves-lethi
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: ves-lethi
+- **wat:** Een Ves-Lethi-spion merkt dat ze na 801 bij elke maan moeilijker van gedaante wisselt. In Kharvos lukt het nog, op de kern van de Harrow; elders blijft het lichaam staan. Rond 1371 houdt de laatste één gezicht en noemt dat rust. Haar kinderen worden geboren als jongen of meisje, en ze vertelt hun over vossen die vrouwen werden.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** VOLK-ves-lethi-Z6;MYTHE-Z43-gedaantewisselaar
+- **verwijst_naar:** VOLK-ves-lethi-Z6;MYTHE-Z43-gedaantewisselaar
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een Ves-Lethi-spion merkt dat ze na 801 bij elke maan moeilijker van gedaante wisselt. In Kharvos lukt het nog, op de kern van de Harrow; elders blijft het lichaam staan. Rond 1371 houdt de laatste één gezicht en noemt dat rust. Haar kinderen worden geboren als jongen of meisje, en ze vertelt hun over vossen die vrouwen werden.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-kluwers · Het verdwijnen: kluwers
+- **code:** LOT-Z44-kluwers
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: kluwers
+- **wat:** In de korven van de Kluwers sterven de darren na hun paartijd niet meer. De korf is niet meer nodig en valt langzaam uiteen in families met een eigen naam. Rond 2621 is er geen Broedmoeder meer. Hun honingwas blijft, en de mensen houden bijen zonder te weten waarom ze tegen de korf praten.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** VOLK-kluwer
+- **verwijst_naar:** VOLK-kluwer
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In de korven van de Kluwers sterven de darren na hun paartijd niet meer. De korf is niet meer nodig en valt langzaam uiteen in families met een eigen naam. Rond 2621 is er geen Broedmoeder meer. Hun honingwas blijft, en de mensen houden bijen zonder te weten waarom ze tegen de korf praten.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-registerkraaien-stem · Het verdwijnen: registerkraaien-stem
+- **code:** LOT-Z44-registerkraaien-stem
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: registerkraaien-stem
+- **wat:** Elke kraaiengeneratie kopieert de stem van Ysa iets minder goed. Eerst verdwijnt de helderheid, dan de woorden, ten slotte blijft alleen de klik. Rond 2101 doet geen kraai meer een stem na. Mensen zeggen nog lang dat raven de namen van de doden kennen.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** BESLUIT-Z7-KRAAI;BESLUIT-Z27-1;MYTHE-Z43-raven
+- **verwijst_naar:** BESLUIT-Z7-KRAAI;BESLUIT-Z27-1;MYTHE-Z43-raven
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Elke kraaiengeneratie kopieert de stem van Ysa iets minder goed. Eerst verdwijnt de helderheid, dan de woorden, ten slotte blijft alleen de klik. Rond 2101 doet geen kraai meer een stem na. Mensen zeggen nog lang dat raven de namen van de doden kennen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-aelthir · Het verdwijnen: aelthir
+- **code:** LOT-Z44-aelthir
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: aelthir
+- **wat:** Een Aelthir is vierhonderd jaar en trekt zich terug in de mist, zoals haar volk doet. Ze krijgt één kind per eeuw en er komen er niet genoeg bij. Rond 1761 ziet geen mens er nog een. In de mist verliezen ze geur, aanraking en naam, en wie het laatst aan een mens dacht, vertrekt met het schip naar het westen.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** VOLK-aelthir-V5;D1-aelthir-ziekte;MYTHE-Z43-elfen;MYTHE-Z43-einde-der-magie
+- **verwijst_naar:** VOLK-aelthir-V5;D1-aelthir-ziekte;MYTHE-Z43-elfen;MYTHE-Z43-einde-der-magie
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een Aelthir is vierhonderd jaar en trekt zich terug in de mist, zoals haar volk doet. Ze krijgt één kind per eeuw en er komen er niet genoeg bij. Rond 1761 ziet geen mens er nog een. In de mist verliezen ze geur, aanraking en naam, en wie het laatst aan een mens dacht, vertrekt met het schip naar het westen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-wiegkasten · Het verdwijnen: wiegkasten
+- **code:** LOT-Z44-wiegkasten
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: wiegkasten
+- **wat:** Een heelster weet een kluis waar nog een Wiegkast werkt en brengt er stervenden heen. Elke genezing kost de kern iets. Rond 1921 heelt de laatste niets meer. Wat de heelster nalaat, is een verhaal over een schaal die alleen de waardige vindt.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** TECHNO-metaal-genees;GENEES-heelsters;MYTHE-Z43-graal
+- **verwijst_naar:** TECHNO-metaal-genees;GENEES-heelsters;MYTHE-Z43-graal
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een heelster weet een kluis waar nog een Wiegkast werkt en brengt er stervenden heen. Elke genezing kost de kern iets. Rond 1921 heelt de laatste niets meer. Wat de heelster nalaat, is een verhaal over een schaal die alleen de waardige vindt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-dhurn · Het verdwijnen: dhurn
+- **code:** LOT-Z44-dhurn
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: dhurn
+- **wat:** Dhurn-vrouwen worden pas vruchtbaar na een jaar bij de steen, en de steen gloeit steeds zwakker. De mijnmeesters sturen hun bloedgezanten vaker naar de mensen. Rond 2081 is er geen volbloed Dhurn meer. Hun ijzer blijft en hun bloed ook, in mensen die klein en taai zijn en goed zijn met een hamer.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** VOLK-dhurn;GEB-Z42-eerste-ijzer;MYTHE-Z43-dwergen
+- **verwijst_naar:** VOLK-dhurn;GEB-Z42-eerste-ijzer;MYTHE-Z43-dwergen
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Dhurn-vrouwen worden pas vruchtbaar na een jaar bij de steen, en de steen gloeit steeds zwakker. De mijnmeesters sturen hun bloedgezanten vaker naar de mensen. Rond 2081 is er geen volbloed Dhurn meer. Hun ijzer blijft en hun bloed ook, in mensen die klein en taai zijn en goed zijn met een hamer.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-tharn · Het verdwijnen: tharn
+- **code:** LOT-Z44-tharn
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: tharn
+- **wat:** De Tharn weten al eeuwen dat ze uitsterven en zingen er steenliederen over die uren duren. Na 801 komen er iets meer kinderen, maar niet genoeg, en de draagtijd blijft drie jaar. Rond 2211 staat de laatste Tharn bij een poort waar niemand meer langs wil. Zijn botten blijven er liggen.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** VOLK-tharn;UIT-VOLK-tharn;MYTHE-Z43-reuzen
+- **verwijst_naar:** VOLK-tharn;UIT-VOLK-tharn;MYTHE-Z43-reuzen
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De Tharn weten al eeuwen dat ze uitsterven en zingen er steenliederen over die uren duren. Na 801 komen er iets meer kinderen, maar niet genoeg, en de draagtijd blijft drie jaar. Rond 2211 staat de laatste Tharn bij een poort waar niemand meer langs wil. Zijn botten blijven er liggen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-sterrensteen · Het verdwijnen: sterrensteen
+- **code:** LOT-Z44-sterrensteen
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: sterrensteen
+- **wat:** Het siliciumhart van het schip gloeit na 801 steeds minder, en met de gloed dooft alles wat erop draait. Nieuw kristal kan niemand maken. Rond 2941 is het een grijze steen die breekt als glas. Pelgrims blijven er nog eeuwen heen gaan, en weten niet meer waarvoor.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** BESLUIT-Z42-1;BESLUIT-Z4-sterrensteen;MYTHE-Z43-hemelsteen;MYTHE-Z43-stem-in-de-steen
+- **verwijst_naar:** BESLUIT-Z42-1;BESLUIT-Z4-sterrensteen;MYTHE-Z43-hemelsteen;MYTHE-Z43-stem-in-de-steen
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Het siliciumhart van het schip gloeit na 801 steeds minder, en met de gloed dooft alles wat erop draait. Nieuw kristal kan niemand maken. Rond 2941 is het een grijze steen die breekt als glas. Pelgrims blijven er nog eeuwen heen gaan, en weten niet meer waarvoor.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-orrim · Het verdwijnen: orrim
+- **code:** LOT-Z44-orrim
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: orrim
+- **wat:** Zonder Sterrensteen-stof stopt de groei in de lichamen van de Orrim. Ze slijpen elkaar nog, maar de fragmenten worden niet meer volwassen. Rond 2991 staan de laatsten stil in hun woestijn, en mensen denken dat het beelden zijn. Soms is een beeld in de nacht warm.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** VOLK-orrim;BESLUIT-Z32-11;MYTHE-Z43-versteende
+- **verwijst_naar:** VOLK-orrim;BESLUIT-Z32-11;MYTHE-Z43-versteende
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Zonder Sterrensteen-stof stopt de groei in de lichamen van de Orrim. Ze slijpen elkaar nog, maar de fragmenten worden niet meer volwassen. Rond 2991 staan de laatsten stil in hun woestijn, en mensen denken dat het beelden zijn. Soms is een beeld in de nacht warm.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-leegtewormen · Het verdwijnen: leegtewormen
+- **code:** LOT-Z44-leegtewormen
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: leegtewormen
+- **wat:** Zonder navigators en zonder Makersbiologie verwilderen de laatste Leegtewormen in de diepte. Rond 3431 spoelt er een aan op een kust waar niemand ze meer kent, met een leeg ruim zo groot als een zaal. Wie het geraamte ziet, vertelt over een slang die de wereld rond voer.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** TECHNO-bio-schip;OORSPRONG-bio-8;MYTHE-Z43-draken
+- **verwijst_naar:** TECHNO-bio-schip;OORSPRONG-bio-8;MYTHE-Z43-draken
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Zonder navigators en zonder Makersbiologie verwilderen de laatste Leegtewormen in de diepte. Rond 3431 spoelt er een aan op een kust waar niemand ze meer kent, met een leeg ruim zo groot als een zaal. Wie het geraamte ziet, vertelt over een slang die de wereld rond voer.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-wortelstem · Het verdwijnen: wortelstem
+- **code:** LOT-Z44-wortelstem
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: wortelstem
+- **wat:** Na de derde weg vraagt Thalens patroon aan Ysara of ze wil blijven, en ze zegt ja. Ze spreekt zolang de steen spreekt. Wie daalt nog af om te luisteren? Rond 4111 hoort niemand haar meer. De plek blijft heilig: een boom op een heuvel waar mensen linten hangen.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** YSA-Z32-6;BESLUIT-Z12-wortelstem;MYTHE-Z43-afdaling-onderwereld;MYTHE-Z43-wereldboom
+- **verwijst_naar:** YSA-Z32-6;BESLUIT-Z12-wortelstem;MYTHE-Z43-afdaling-onderwereld;MYTHE-Z43-wereldboom
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Na de derde weg vraagt Thalens patroon aan Ysara of ze wil blijven, en ze zegt ja. Ze spreekt zolang de steen spreekt. Wie daalt nog af om te luisteren? Rond 4111 hoort niemand haar meer. De plek blijft heilig: een boom op een heuvel waar mensen linten hangen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-kluisschip · Het verdwijnen: kluisschip
+- **code:** LOT-Z44-kluisschip
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: kluisschip
+- **wat:** In de Leegte groeit geen schimmel, dus het laatste Kluisschip vliegt het langst van alles, zonder dat iemand de koers kiest. De Skerra-sterrenkijkers zagen het als een bewegende ster. Rond 5801 raakt de kern op en staat de ster stil. Dan is er geen weg meer naar het westen.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** TECHNO-metaal-schip-Z42;MYTHE-Z43-eiland-der-gelukzaligen;MYTHE-Z43-hemelvaartuig
+- **verwijst_naar:** TECHNO-metaal-schip-Z42;MYTHE-Z43-eiland-der-gelukzaligen;MYTHE-Z43-hemelvaartuig
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In de Leegte groeit geen schimmel, dus het laatste Kluisschip vliegt het langst van alles, zonder dat iemand de koers kiest. De Skerra-sterrenkijkers zagen het als een bewegende ster. Rond 5801 raakt de kern op en staat de ster stil. Dan is er geen weg meer naar het westen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-sael-mor · Het verdwijnen: sael-mor
+- **code:** LOT-Z44-sael-mor
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: sael-mor
+- **wat:** De Sael-mor leven op hun schepen en brengen vreemd bloed van haven naar haven, zoals altijd. Zonder Zegel zijn ze niet meer nodig tegen inteelt, en ze mengen zich met de havenvolken. Rond 3131 is hun volk opgegaan in de kustmensen. Wie een spleet in de hals heeft die bloedt op het land, heet nog lang een kind van de zee.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** VOLK-sael-mor;MYTHE-Z43-zwanenmaagd;MYTHE-Z43-zeemeermin
+- **verwijst_naar:** VOLK-sael-mor;MYTHE-Z43-zwanenmaagd;MYTHE-Z43-zeemeermin
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De Sael-mor leven op hun schepen en brengen vreemd bloed van haven naar haven, zoals altijd. Zonder Zegel zijn ze niet meer nodig tegen inteelt, en ze mengen zich met de havenvolken. Rond 3131 is hun volk opgegaan in de kustmensen. Wie een spleet in de hals heeft die bloedt op het land, heet nog lang een kind van de zee.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-oevrin · Het verdwijnen: oevrin
+- **code:** LOT-Z44-oevrin
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: oevrin
+- **wat:** Het Zegel raakte de Oevrin nooit, en de ja verandert niets aan hun poelen. Ze blijven tot de zee stijgt in de Grote Smelt en hun slik verzilt. Daarna trekken ze de diepte in. Zeelieden blijven duizenden jaren vertellen over zang op het water bij laag tij.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** VOLK-oevrin;D1-oevrin-feest;MYTHE-Z43-zeemeermin
+- **verwijst_naar:** VOLK-oevrin;D1-oevrin-feest;MYTHE-Z43-zeemeermin
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Het Zegel raakte de Oevrin nooit, en de ja verandert niets aan hun poelen. Ze blijven tot de zee stijgt in de Grote Smelt en hun slik verzilt. Daarna trekken ze de diepte in. Zeelieden blijven duizenden jaren vertellen over zang op het water bij laag tij.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-myrrhen · Het verdwijnen: myrrhen
+- **code:** LOT-Z44-myrrhen
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: myrrhen
+- **wat:** Schimmel heeft geen ja nodig. Het net van de Myrrhen onthoudt wat erin sterft, ook na 801, ook na de Smelt, ook nu. De mensen van de veenhallen gaan op in de dorpen, maar het net zelf leeft nog en komt boven als kring paddenstoelen in het gras. Het is het enige van Velmara dat je vandaag nog kunt aanraken.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** VOLK-myrrhen-Z6;FEE-Z37-myrrhen-ringen;MYTHE-Z43-feeen
+- **verwijst_naar:** VOLK-myrrhen-Z6;FEE-Z37-myrrhen-ringen;MYTHE-Z43-feeen
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Schimmel heeft geen ja nodig. Het net van de Myrrhen onthoudt wat erin sterft, ook na 801, ook na de Smelt, ook nu. De mensen van de veenhallen gaan op in de dorpen, maar het net zelf leeft nog en komt boven als kring paddenstoelen in het gras. Het is het enige van Velmara dat je vandaag nog kunt aanraken.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### LOT-Z44-ishvar · Het verdwijnen: ishvar
+- **code:** LOT-Z44-ishvar
+- **categorie:** Verhaal
+- **onderwerp:** Het verdwijnen: ishvar
+- **wat:** De Ishvar hadden nooit een Zegel en nooit een gave, en ze waren daar trots op. Na 801 worden de andere volken zoals zij. Het woestijnvolk dat het ijkpunt was, wordt het begin van de gewone mensheid: wie nu een eed zweert bij de zon, spreekt hun taal zonder het te weten.
+- **waarom:** Ronde Z44: de lange tijd (opdracht van Rogier 2026-11-02); jaren uit tijd/verlies.py, verhalen geschreven vanuit de rijen waar ze naar verwijzen
+- **status:** voorlopig
+- **ronde:** 73
+- **hangt_samen_met:** VOLK-ishvar
+- **verwijst_naar:** VOLK-ishvar
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De Ishvar hadden nooit een Zegel en nooit een gave, en ze waren daar trots op. Na 801 worden de andere volken zoals zij. Het woestijnvolk dat het ijkpunt was, wordt het begin van de gewone mensheid: wie nu een eed zweert bij de zon, spreekt hun taal zonder het te weten.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
+<!-- /REC -->
 
