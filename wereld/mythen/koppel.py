@@ -9,6 +9,16 @@ DK = {'Kern': 3, 'Structuur': 2, 'Kleur': 1}
 def cultuur_van(vb):
     m = re.search(r'\(([^)]+)\)\s*$', vb); return [x.strip() for x in re.split(r',| en ', m.group(1))] if m else []
 
+def voorbeelden(c):
+    # YAML-flowlijsten knippen '(Joods, Arabisch)' op de komma: plak stukken met een open haakje weer aan elkaar
+    uit, buf = [], None
+    for x in c['voorbeelden']:
+        x = (next(iter(x)) + ': ' + str(next(iter(x.values())))) if isinstance(x, dict) else str(x)
+        buf = x if buf is None else buf + ', ' + x
+        if buf.count('(') <= buf.count(')'): uit.append(buf); buf = None
+    if buf: uit.append(buf)
+    return uit
+
 def laad(m):
     m.executescript(open(os.path.join(H, 'schema.sql')).read())
     for t in ('cluster', 'lid', 'koppel_score'): m.execute(f'delete from {t}')
@@ -20,7 +30,7 @@ def laad(m):
     for e in fictie: m.execute("insert or ignore into kenmerk values(?,?,?)", (e, 'fictie', '1'))
     for c in cl:
         culturen = set()
-        for vb in [(next(iter(x)) + ': ' + str(next(iter(x.values())))) if isinstance(x, dict) else x for x in c['voorbeelden']]:
+        for vb in voorbeelden(c):
             cs = cultuur_van(vb); culturen |= set(cs)
             m.execute('insert or ignore into lid(cluster,entiteit,voorbeeld,cultuur) values(?,?,?,?)', (c['id'], None, vb, ', '.join(cs)))
         pats = [re.compile(r'\b' + re.escape(w) + r'\b', re.I) for w in c.get('en') or []]

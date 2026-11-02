@@ -40,3 +40,11 @@
 | oevrin | mensen | - | - | - | uitwendige bevruchting, de Zegel raakte hen nooit; ze verdwijnen pas als hun slik onder zee verdwijnt (zie aarde) (VOLK-oevrin) |
 | myrrhen | mensen | - | - | - | schimmel heeft geen ja nodig; het net leeft tot vandaag als feeënring (VOLK-myrrhen-Z6, FEE-Z37-myrrhen-ringen) |
 | ishvar | mensen | - | - | - | mensen zonder Zegel; zij zijn het begin van de gewone mensheid (VOLK-ishvar) |
+
+## Zeden per tijdperk (mediaan, 1 = zoals in 801)
+| Zede | fase 9 | fase 10 | fase 11 | fase 12 | fase 13 | fase 14 | fase 15 | fase 16 | 801-810 | Waarom (canon) |
+|---|---|---|---|---|---|---|---|---|---|---|
+| polyamorie | 0.78 | 0.38 | 0.18 | 0.15 | 0.15 | 0.15 | 0.15 | 0.15 | 1.00 | kracht reisde met zaad en mannen waren 1 op 100: delen was de norm en exclusieve liefde ketterij; als de verhouding en de vonk wegvallen, wordt delen een keuze (BESLUIT-7, KETEN-kruik-ontvangst, VERHAAL-fase4-Z36) |
+| ontvangst-feest | 0.49 | 0.06 | 0.05 | 0.05 | 0.05 | 0.05 | 0.05 | 0.05 | 0.99 | de Ontvangst bestond omdat bewaard zaad niet werkt; zonder gave blijft er een feest met vuren over (KETEN-kruik-ontvangst, GES-tijdlijn, GEB-r10-zaadhonger) |
+| lichaamsopenheid | 0.88 | 0.58 | 0.40 | 0.30 | 0.30 | 0.30 | 0.30 | 0.30 | 1.00 | naakt zalven, aanraken als groet, het lichaam als gewoon onderwerp; dat slijt het traagst (HAND-pelgrimszalving, REG-groenmuil, HAND-maanzalving) |
+| bloedbinding | 0.01 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.93 | binding werkt via gave en bloed; met de ja en de dovende gaven is het binnen enkele generaties weg (RIT-ontzegging-binding, RIT-bloedverbinding) |

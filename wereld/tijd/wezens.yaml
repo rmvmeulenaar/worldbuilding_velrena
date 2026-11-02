@@ -35,3 +35,10 @@ aarde:
   laag_water: [29000, 16000]     # zeespiegel ~120 m lager tijdens en rond het laatste glaciale maximum (ca. 26.500-19.000 BP); continentaal plat droog (Sunda, Doggerland, Perzische Golf)
   amerika: [23000, 15000]        # eerste mensen in Amerika (Monte Verde ca. 14.500 BP, White Sands-sporen 21.000-23.000 BP, omstreden)
   schrift: 5200                  # eerste schrift (Uruk, ca. 3200 v.Chr.); eerste geschreven mythen ca. 4.600 BP
+# Z45: zeden. Hoe sensueel en hoe polyamoreus de gewone cultuur is, als aandeel van het niveau in 801 (1 = zoals in 801).
+# Cultuur slijt trager dan biologie: een gewoonte wordt doorgegeven ook als haar reden weg is (Bartlett; Parry/Lord). Telt niet mee voor de tijdperkgrenzen. Ondergrens: wat in elke tijd blijft (mensen blijven mensen).
+zeden:
+  polyamorie:      {model: generatie, f: [0.975, 0.992], gen: 25, vloer: 0.15, bron: [BESLUIT-7, KETEN-kruik-ontvangst, VERHAAL-fase4-Z36], waarom: "kracht reisde met zaad en mannen waren 1 op 100: delen was de norm en exclusieve liefde ketterij; als de verhouding en de vonk wegvallen, wordt delen een keuze"}
+  ontvangst-feest: {model: generatie, f: [0.93, 0.975], gen: 25, vloer: 0.05, bron: [KETEN-kruik-ontvangst, GES-tijdlijn, GEB-r10-zaadhonger], waarom: "de Ontvangst bestond omdat bewaard zaad niet werkt; zonder gave blijft er een feest met vuren over"}
+  lichaamsopenheid: {model: generatie, f: [0.985, 0.997], gen: 25, vloer: 0.3, bron: [HAND-pelgrimszalving, REG-groenmuil, HAND-maanzalving], waarom: "naakt zalven, aanraken als groet, het lichaam als gewoon onderwerp; dat slijt het traagst"}
+  bloedbinding:    {model: generatie, f: [0.6, 0.8], gen: 25, vloer: 0.0, bron: [RIT-ontzegging-binding, RIT-bloedverbinding], waarom: "binding werkt via gave en bloed; met de ja en de dovende gaven is het binnen enkele generaties weg"}

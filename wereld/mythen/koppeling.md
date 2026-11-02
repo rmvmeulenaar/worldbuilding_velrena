@@ -10,61 +10,77 @@ Gemaakt door `mythen/koppel.py`. Culturen = verschillende culturen in de voorbee
 | 4 | De reuzen van voor de mensen | 18 | 584 | VOLK-GESCHIEDENIS-OVERZICHT-Z4-tharn (14.0) |
 | 5 | Goden die uit de hemel komen en mensen maken | 15 | 51 | BESLUIT-Z30-1 (13.5) |
 | 6 | De afdaling in de onderwereld | 15 | 48 | BESLUIT-Z12-wortelstem (15.0) |
-| 7 | De dondergod met de hamer of bliksem | 14 | 68 | MAGIE-kracht-duur (9.0) |
-| 8 | De grote moedergodin die het leven toelaat | 14 | 37 | ORIGIN-onthulplan (12.0) |
-| 9 | De feeën, feeënringen en het geheugen van de doden | 13 | 204 | FEE-Z37-myrrhen-ringen (8.0) |
+| 7 | De feeën, feeënringen en het geheugen van de doden | 15 | 204 | FEE-Z37-myrrhen-ringen (8.0) |
+| 8 | De dondergod met de hamer of bliksem | 14 | 68 | MAGIE-kracht-duur (9.0) |
+| 9 | De grote moedergodin die het leven toelaat | 14 | 37 | ORIGIN-onthulplan (12.0) |
 | 10 | De held met de onmogelijke taken | 11 | 38 | FASE-OVERZICHT-Z36-2 (6.0) |
-| 11 | Het gevleugelde volk: engelen en harpijen | 9 | 89 | VOLK-skerra (6.0) |
-| 12 | De bedrieger die de goden voor de gek houdt | 9 | 15 | RIJK-Z38-mens-brakhaven-reizen (4.0) |
-| 13 | De zondeval en het verloren paradijs | 8 | 6 | BESLUIT-Z36-1 (21.0) |
-| 14 | De god die sterft en terugkeert | 8 | 8 | BESLUIT-Z32-12 (9.0) |
-| 15 | De gescheiden hemel en aarde | 8 | 4 | ORIGIN-Z1-harrow (12.0) |
-| 16 | De doden die warmte en bloed drinken | 7 | 15 | ORIGIN-WAAROM-10 (9.0) |
-| 17 | De wijze vrouw, heks en kruidenvrouw | 7 | 12 | DAG-gezondheid (6.0) |
-| 18 | De verzonken stad | 7 | 0 | BESLUIT-11 (6.0) |
-| 19 | Het schip met de slapers, de ark | 6 | 5 | BESLUIT-Z30-2 (13.5) |
-| 20 | Het gestolen hemelvuur | 6 | 1 | GEB-orric-vonk (10.0) |
-| 21 | Het hoofd dat alles weet | 6 | 3 | BESLUIT-Z32-12 (15.0) |
-| 22 | Het verborgen kind dat de profetie vreest | 6 | 15 | BESLUIT-Z12-5 (9.0) |
-| 23 | De zeemeermin en het watervolk | 6 | 9 | REG-zoutkust (8.0) |
-| 24 | De gedaantewisselaar | 6 | 3 | VOLK-ves-lethi-Z6 (12.0) |
-| 25 | De vogels die alles zien en namen dragen | 6 | 12 | BESLUIT-Z11-tijdlijn (15.0) |
-| 26 | Twee broedervolken die elkaar bevechten | 6 | 2 | BESLUIT-3 (18.0) |
-| 27 | Het verboden of geheime schrift | 6 | 2 | VALS-ontvangst-Z36 (9.0) |
-| 28 | De grote vloed als straf | 5 | 4 | FASE-brand-Z38 (16.0) |
-| 29 | De maagden die aan het monster of de god worden gegeven | 5 | 3 | BESLUIT-Z36-1 (12.0) |
-| 30 | De wachter die zich tegen zijn makers keert | 5 | 18 | ORIGIN-3 (16.5) |
-| 31 | De steen die uit de hemel viel | 5 | 0 | BESLUIT-Z42-1 (10.5) |
-| 32 | Het heilig huwelijk en de tempelgemeenschap | 5 | 10 | VERHAAL-fase5-Z36 (9.5) |
-| 33 | De ontmande of geketende vadergod | 5 | 4 | GOD-wrede-vaders (10.0) |
-| 34 | Het wisselkind | 5 | 1 | BESLUIT-Z12-9 (6.0) |
-| 35 | De smeden in de berg | 5 | 13 | ORIGIN-WAAROM-10 (12.0) |
-| 36 | Het schone volk dat lang leeft | 5 | 2 | BESLUIT-V5-aelthir (6.0) |
-| 37 | Het stiermonster in het labyrint | 5 | 2 | BESLUIT-Z3-WRIJ-066 (4.0) |
-| 38 | De geest van vuur | 5 | 5 | GAVE-Z37-vuur (10.0) |
-| 39 | Het heilige vat dat heelt en voedt | 5 | 1 | TECHNO-metaal-genees (10.0) |
-| 40 | De wagen of het schip van de goden in de lucht | 5 | 0 | BESLUIT-Z30-2 (7.5) |
-| 41 | De wereldboom met wortels in alle werelden | 5 | 2 | BESLUIT-Z12-wortelstem (18.0) |
-| 42 | De schemering van de goden | 5 | 7 | FASE-barsten (6.0) |
-| 43 | De wereld gemaakt uit een lichaam | 5 | 3 | ORIGIN-4 (19.5) |
-| 44 | Het wereld-ei | 5 | 0 | ORIGIN-Z1-harrow (9.0) |
-| 45 | De stem die in de steen woont | 4 | 2 | BESLUIT-Z32-12 (15.0) |
-| 46 | Het land van de vrouwen | 4 | 0 | BESLUIT-5 (6.0) |
-| 47 | De zwanenmaagd en de huid die je aflegt | 4 | 1 | PERS-Z4-oevrin-0-1 (8.0) |
-| 48 | De nachtelijke minnaar, incubus en succubus | 4 | 6 | GES-tijdlijn (9.5) |
-| 49 | Mensen die tot steen worden | 4 | 2 | BESLUIT-Z4-sterrensteen (10.0) |
-| 50 | Het eiland in het westen waar de ouden heengaan | 4 | 0 | ORIGIN-onthulplan (6.0) |
-| 51 | De plaag als straf van de goden | 4 | 4 | BESLUIT-8 (12.0) |
-| 52 | De kudde van de goden en de veediefstal | 4 | 1 | DAG-dag-man (6.0) |
-| 53 | Waarom de mensen sterven | 4 | 0 | BESLUIT-Z15-1 (9.5) |
-| 54 | De toren naar de hemel en de verwarring van de talen | 4 | 0 | TECHNO-metaal-bouw-Z42 (8.0) |
-| 55 | De eerste vrouw die alles opent | 3 | 1 | BESLUIT-Z37-3 (15.0) |
-| 56 | De straf die elke dag terugkomt | 3 | 2 | ORIGIN-WAAROM-10 (9.0) |
-| 57 | De vloek op de zonen | 3 | 0 | BESLUIT-Z30-2 (15.0) |
-| 58 | Het voorwerp dat alleen de ware kan gebruiken | 3 | 0 | BESLUIT-Z32-13 (19.5) |
-| 59 | Het vertrek van het oude volk en het einde van de wonderen | 3 | 0 | BESLUIT-2 (6.0) |
-| 60 | De wet die de mannen deelt (lokaal) | 0 | 0 | VOLK-grauwen (6.0) |
-| 61 | De priesters die het verhaal herschrijven (lokaal) | 0 | 0 | BESLUIT-Z30-1 (12.0) |
+| 11 | De vogel die verbrandt en herboren wordt | 11 | 3 | DEG-kookkoppen (6.0) |
+| 12 | Het gevleugelde volk: engelen en harpijen | 9 | 89 | VOLK-skerra (6.0) |
+| 13 | De bedrieger die de goden voor de gek houdt | 9 | 15 | RIJK-Z38-mens-brakhaven-reizen (4.0) |
+| 14 | De zondeval en het verloren paradijs | 8 | 6 | BESLUIT-Z36-1 (21.0) |
+| 15 | De god die sterft en terugkeert | 8 | 8 | BESLUIT-Z32-12 (9.0) |
+| 16 | Het wisselkind | 8 | 1 | BESLUIT-Z12-9 (6.0) |
+| 17 | De gescheiden hemel en aarde | 8 | 4 | ORIGIN-Z1-harrow (12.0) |
+| 18 | Het zeemonster dat schepen naar beneden trekt | 8 | 18 | TECHNO-MIX-V4 (10.0) |
+| 19 | De doden die warmte en bloed drinken | 7 | 15 | ORIGIN-WAAROM-10 (9.0) |
+| 20 | De wijze vrouw, heks en kruidenvrouw | 7 | 12 | DAG-gezondheid (6.0) |
+| 21 | De verzonken stad | 7 | 0 | BESLUIT-11 (6.0) |
+| 22 | De wereldboom met wortels in alle werelden | 7 | 2 | BESLUIT-Z12-wortelstem (18.0) |
+| 23 | De griffioen die het goud bewaakt | 7 | 4 | VOLK-skerra (12.0) |
+| 24 | Het schip met de slapers, de ark | 6 | 5 | BESLUIT-Z30-2 (13.5) |
+| 25 | Het gestolen hemelvuur | 6 | 1 | GEB-orric-vonk (10.0) |
+| 26 | Het hoofd dat alles weet | 6 | 3 | BESLUIT-Z32-12 (15.0) |
+| 27 | Het verborgen kind dat de profetie vreest | 6 | 15 | BESLUIT-Z12-5 (9.0) |
+| 28 | De zwanenmaagd en de huid die je aflegt | 6 | 1 | PERS-Z4-oevrin-0-1 (8.0) |
+| 29 | De zeemeermin en het watervolk | 6 | 9 | REG-zoutkust (8.0) |
+| 30 | De gedaantewisselaar | 6 | 3 | VOLK-ves-lethi-Z6 (12.0) |
+| 31 | De nachtelijke minnaar, incubus en succubus | 6 | 6 | GES-tijdlijn (9.5) |
+| 32 | De vogels die alles zien en namen dragen | 6 | 12 | BESLUIT-Z11-tijdlijn (15.0) |
+| 33 | Twee broedervolken die elkaar bevechten | 6 | 2 | BESLUIT-3 (18.0) |
+| 34 | Het verboden of geheime schrift | 6 | 2 | VALS-ontvangst-Z36 (9.0) |
+| 35 | Het volk dat van nature slecht zou zijn | 6 | 13 | VOLK-karrûk-Z6-Z38 (12.0) |
+| 36 | Het volk van bomen en mos | 6 | 9 | VOLK-myrrhen-Z6 (12.0) |
+| 37 | De grote vloed als straf | 5 | 4 | FASE-brand-Z38 (16.0) |
+| 38 | De maagden die aan het monster of de god worden gegeven | 5 | 3 | BESLUIT-Z36-1 (12.0) |
+| 39 | De wachter die zich tegen zijn makers keert | 5 | 18 | ORIGIN-3 (16.5) |
+| 40 | De steen die uit de hemel viel | 5 | 0 | BESLUIT-Z42-1 (10.5) |
+| 41 | Het heilig huwelijk en de tempelgemeenschap | 5 | 10 | VERHAAL-fase5-Z36 (9.5) |
+| 42 | De ontmande of geketende vadergod | 5 | 4 | GOD-wrede-vaders (10.0) |
+| 43 | De smeden in de berg | 5 | 13 | ORIGIN-WAAROM-10 (12.0) |
+| 44 | Het schone volk dat lang leeft | 5 | 2 | BESLUIT-V5-aelthir (6.0) |
+| 45 | Het stiermonster in het labyrint | 5 | 2 | BESLUIT-Z3-WRIJ-066 (4.0) |
+| 46 | De geest van vuur | 5 | 5 | GAVE-Z37-vuur (10.0) |
+| 47 | Het heilige vat dat heelt en voedt | 5 | 1 | TECHNO-metaal-genees (10.0) |
+| 48 | De wagen of het schip van de goden in de lucht | 5 | 0 | BESLUIT-Z30-2 (7.5) |
+| 49 | De schemering van de goden | 5 | 7 | FASE-barsten (6.0) |
+| 50 | Het vertrek van het oude volk en het einde van de wonderen | 5 | 0 | BESLUIT-2 (6.0) |
+| 51 | De wereld gemaakt uit een lichaam | 5 | 3 | ORIGIN-4 (19.5) |
+| 52 | Het wereld-ei | 5 | 0 | ORIGIN-Z1-harrow (9.0) |
+| 53 | De eenhoorn met de genezende hoorn | 5 | 3 | DEG-stalreus (8.0) |
+| 54 | De ruiter die één is met zijn dier | 5 | 62 | VOLK-karrûk-Z6-Z38 (8.0) |
+| 55 | De kleine helpers in huis die 's nachts werken | 5 | 3 | VOLK-kluwer (12.0) |
+| 56 | De oude tovenaar met de staf | 5 | 0 | MET-D1-vonk (6.0) |
+| 57 | De doden die blijven lopen | 5 | 2 | VOLK-myrrhen-Z6 (12.0) |
+| 58 | Het monster dat aangroeit wat je afhakt | 5 | 3 | OORSPRONG-bio-4 (8.0) |
+| 59 | De stem die in de steen woont | 4 | 2 | BESLUIT-Z32-12 (15.0) |
+| 60 | Het land van de vrouwen | 4 | 0 | BESLUIT-5 (6.0) |
+| 61 | Mensen die tot steen worden | 4 | 2 | BESLUIT-Z4-sterrensteen (10.0) |
+| 62 | Het eiland in het westen waar de ouden heengaan | 4 | 0 | ORIGIN-onthulplan (6.0) |
+| 63 | De plaag als straf van de goden | 4 | 4 | BESLUIT-8 (12.0) |
+| 64 | De kudde van de goden en de veediefstal | 4 | 1 | DAG-dag-man (6.0) |
+| 65 | Waarom de mensen sterven | 4 | 0 | BESLUIT-Z15-1 (9.5) |
+| 66 | De toren naar de hemel en de verwarring van de talen | 4 | 0 | TECHNO-metaal-bouw-Z42 (8.0) |
+| 67 | De ring die bindt | 4 | 0 | PER-morvane (6.0) |
+| 68 | De spiegel die toont wie je mist | 4 | 0 | SEKS-VOLK-ves-lethi-kern (8.0) |
+| 69 | De wilde jacht door de lucht | 4 | 0 | VOLK-skerra (8.0) |
+| 70 | De steen der wijzen en het levenselixer | 4 | 1 | BESLUIT-9 (6.0) |
+| 71 | De eerste vrouw die alles opent | 3 | 1 | BESLUIT-Z37-3 (15.0) |
+| 72 | De straf die elke dag terugkomt | 3 | 2 | ORIGIN-WAAROM-10 (9.0) |
+| 73 | De vloek op de zonen | 3 | 0 | BESLUIT-Z30-2 (15.0) |
+| 74 | Het voorwerp dat alleen de ware kan gebruiken | 3 | 0 | BESLUIT-Z32-13 (19.5) |
+| 75 | De donkere heer die zijn volgelingen bindt | 3 | 2 | RIT-bloedverbinding (12.0) |
+| 76 | De wet die de mannen deelt (lokaal) | 0 | 0 | VOLK-grauwen (6.0) |
+| 77 | De priesters die het verhaal herschrijven (lokaal) | 0 | 0 | BESLUIT-Z30-1 (12.0) |
 
 ## Spoken en stemmen van de doden
 - `BESLUIT-Z32-9` 12.0: vragen, stem, Ysara, patroon
@@ -126,6 +142,16 @@ Gemaakt door `mythen/koppel.py`. Culturen = verschillende culturen in de voorbee
 - `VERHAALTIJD-Z15-ysa` 6.0: steen, Ysara, opgenomen
 - `VOLK-orrim` 6.0: steen, kerker, diep
 
+## De feeën, feeënringen en het geheugen van de doden
+- `FEE-Z37-myrrhen-ringen` 8.0: Myrrhen, schimmel, kring, paddenstoel
+- `PERS-Z4-myrrhen-0-1` 6.0: Myrrhen, schimmel, paddenstoel
+- `PERS-Z4-myrrhen-7-1` 6.0: Myrrhen, schimmel, sporen
+- `PLEK-nevel-veen` 6.0: Myrrhen, Netwerk, sporen
+- `SEKS-VOLK-myrrhen-kern` 6.0: Myrrhen, schimmel, sporen
+- `TECHNO-MIX-V4` 6.0: Myrrhen, schimmel, sporen
+- `TECHNO-bio` 6.0: Myrrhen, schimmel, sporen
+- `VOLK-myrrhen-Z6` 6.0: Myrrhen, schimmel, sporen
+
 ## De dondergod met de hamer of bliksem
 - `MAGIE-kracht-duur` 9.0: storm, gaven-man, element
 - `GEB-orric-vonk` 8.0: storm, gaven-man, Vonk, bliksem
@@ -146,16 +172,6 @@ Gemaakt door `mythen/koppel.py`. Culturen = verschillende culturen in de voorbee
 - `REGEL-verhouding-Z12` 6.0: geboorte, 1 op 100
 - `YSA-Z15-10` 6.0: Ysa, Moeder Ysa, godin
 
-## De feeën, feeënringen en het geheugen van de doden
-- `FEE-Z37-myrrhen-ringen` 8.0: Myrrhen, schimmel, kring, paddenstoel
-- `PERS-Z4-myrrhen-0-1` 6.0: Myrrhen, schimmel, paddenstoel
-- `PERS-Z4-myrrhen-7-1` 6.0: Myrrhen, schimmel, sporen
-- `PLEK-nevel-veen` 6.0: Myrrhen, Netwerk, sporen
-- `SEKS-VOLK-myrrhen-kern` 6.0: Myrrhen, schimmel, sporen
-- `TECHNO-MIX-V4` 6.0: Myrrhen, schimmel, sporen
-- `TECHNO-bio` 6.0: Myrrhen, schimmel, sporen
-- `VOLK-myrrhen-Z6` 6.0: Myrrhen, schimmel, sporen
-
 ## De held met de onmogelijke taken
 - `FASE-OVERZICHT-Z36-2` 6.0: held, Vonk
 - `HAND-gletsjerproef` 6.0: gaven-man, kracht 5x, krijgsvrouw
@@ -166,15 +182,25 @@ Gemaakt door `mythen/koppel.py`. Culturen = verschillende culturen in de voorbee
 - `VOORW-Z11-aelthir-glans` 4.0: gaven-man, Vonk
 - `WET-wetten-straffen` 4.0: gaven-man, boete
 
+## De vogel die verbrandt en herboren wordt
+- `DEG-kookkoppen` 6.0: vuur, Val, ontladen
+- `GAVE-Z37-vuur` 6.0: vuur, verbrandt, ontladen
+- `LICH-gaven-vervorming-Z6` 6.0: vuur, Val, vuurman
+- `VOLK-skerra` 6.0: Val, herboren, Skerra
+- `GESCH-karrûk-1` 5.5: Val, ontladen
+- `VOLK-myrrhen-Z6` 4.0: verbrandt, Val
+- `VOORW-gunstbrief` 4.0: verbrandt, Val
+- `YSA-Z29-84` 4.0: vuur, Val
+
 ## Het gevleugelde volk: engelen en harpijen
 - `VOLK-skerra` 6.0: Skerra, vleugels, vliegen
+- `LOT-Z44-skerra` 4.5: Skerra, vleugels, vliegen
 - `D1-skerra-ziekte` 4.0: Skerra, vliegen
 - `MEGA-Z4-skerra` 4.0: Skerra, vliegen
 - `SEKS-VOLK-skerra-kern` 4.0: Skerra, vleugels
 - `UIT-VOLK-skerra` 4.0: Skerra, vleugels
 - `VOOR-vleugelbinding` 4.0: vleugels, vliegen
-- `ACTIE-Z9-44` 2.0: boodschap, klauwen
-- `INTR-V2-skerra-riten` 2.0: Skerra, boodschap
+- `VERHAAL-Z44-tijdperk-10` 2.0: Skerra, vleugels
 
 ## De bedrieger die de goden voor de gek houdt
 - `RIJK-Z38-mens-brakhaven-reizen` 4.0: smokkel, Mirre
@@ -206,15 +232,32 @@ Gemaakt door `mythen/koppel.py`. Culturen = verschillende culturen in de voorbee
 - `RIT-afscheid-uitverkorene` 8.0: gaven-man, terug, rouw, sterft
 - `VERHAAL-fase6-Z36` 8.0: gaven-man, zaad, terug, rouw
 
+## Het wisselkind
+- `BESLUIT-Z12-9` 6.0: jongen, Myrrhen
+- `ORIGIN-WAAROM-8` 6.0: jongen, wieg
+- `PLEK-amber-hof` 4.0: lekjongens, jongen
+- `RIJK-Z38-mens-zoutkust-kinderen` 4.0: verstopt, jongen
+- `TECHNO-MIX-V4` 4.0: wieg, Myrrhen
+- `VOLK-kluwer` 4.0: jongen, Myrrhen
+- `VOLK-myrrhen-Z6` 4.0: jongen, Myrrhen
+- `ZEG-D1-myrrhen` 4.0: wieg, Myrrhen
+
 ## De gescheiden hemel en aarde
 - `ORIGIN-Z1-harrow` 12.0: Leegte, schip, landing, sterren
 - `BESLUIT-Z42-1` 10.5: Leegte, schip, landing
+- `FASE-voortijd` 7.5: schip, landing, sterren
 - `ORIGIN-1` 7.5: Leegte, schip, sterren
 - `ORIGIN-WAAROM-12` 7.5: Leegte, schip, sterren
 - `ORIGIN-WAAROM-2-Z42` 7.5: schip, landing
 - `ORIGIN-onthulplan` 7.5: schip, sterren
 - `PER-v4-thalen-orr-Z32` 7.5: schip, landing, sterren
-- `VOLK-ishvar` 6.0: Leegte, aarde, sterren
+
+## Het zeemonster dat schepen naar beneden trekt
+- `TECHNO-MIX-V4` 10.0: Leegteworm, vleesmetaal, waanzinnig, kluiskern, maag
+- `OORSPRONG-bio-8` 5.5: Leegteworm, verwilderd
+- `TECHNO-bio-schip` 4.0: Leegteworm, maag
+- `FASE-z44-vertrek` 2.0: Leegteworm, diepte
+- `LOT-Z44-leegtewormen` 2.0: Leegteworm, diepte
 
 ## De doden die warmte en bloed drinken
 - `ORIGIN-WAAROM-10` 9.0: zegellicht, ontvangsters, Wieg eet
@@ -245,6 +288,26 @@ Gemaakt door `mythen/koppel.py`. Culturen = verschillende culturen in de voorbee
 - `BODY-Z8-25` 6.0: Ves-Anath, lek, verdwenen
 - `REGEL-verhouding-Z12` 6.0: Ves-Anath, lek
 - `REGEL-walgingsschaal-Z6` 6.0: Ves-Anath, lek
+
+## De wereldboom met wortels in alle werelden
+- `BESLUIT-Z12-wortelstem` 18.0: Wortel, wortels, steen, onder, Ysara, verbindt
+- `BESLUIT-15` 12.0: Wortel, onder, Ysara, verbindt
+- `BESLUIT-Z12-15` 12.0: Wortel, wortels, onder, Ysara
+- `BESLUIT-Z32-12` 12.0: Wortel, wortels, onder, Ysara
+- `ORIGIN-Z1-harrow` 9.0: steen, onder, verbindt
+- `BESLUIT-Z6-WRIJ-049` 8.0: Wortel, wortels, onder, verbindt
+- `TOESTAND-Z15-PER-v4-thalen-orr-5` 8.0: Wortel, wortels, steen, Ysara
+- `VERHAAL-fase2-Z36` 8.0: Wortel, steen, netwerk, onder
+
+## De griffioen die het goud bewaakt
+- `VOLK-skerra` 12.0: kliffvogel, Skerra, vleugels, nest, kliffen, bloedriten
+- `SEKS-VOLK-skerra-kern` 6.0: Skerra, vleugels, kliffen
+- `D1-skerra-feest` 4.0: Skerra, nest
+- `ESTH-skerra` 4.0: nest, kliffen
+- `UIT-VOLK-skerra` 4.0: Skerra, vleugels
+- `LOT-Z44-skerra` 3.0: Skerra, vleugels, kliffen
+- `ZINT-Z5-verhaal-38` 3.0: Skerra, nest, kliffen
+- `ZINT-Z5-voorwerp-18` 2.0: Skerra, nest
 
 ## Het schip met de slapers, de ark
 - `BESLUIT-Z30-2` 13.5: zaaischip, zaad, Ysa, Harrow
@@ -286,6 +349,16 @@ Gemaakt door `mythen/koppel.py`. Culturen = verschillende culturen in de voorbee
 - `PLEK-LICH-jongenshof` 6.0: jongens, lekjongens, register
 - `RIT-hofproef` 6.0: Jongenshof, jongens, register
 
+## De zwanenmaagd en de huid die je aflegt
+- `PERS-Z4-oevrin-0-1` 8.0: Oevrin, zee, slik, water
+- `VOLK-oevrin` 8.0: Oevrin, zee, slik, water
+- `STAD-brakhaven` 6.0: Oevrin, zee, slik
+- `UIT-VOLK-oevrin` 6.0: huid, slik, water
+- `UIT-VOLK-saelmor` 6.0: huid, zee, water
+- `VERHAAL-fase4-f-Z40` 6.0: Oevrin, slik, water
+- `VOLK-GESCHIEDENIS-OVERZICHT-Z4-oevrin` 6.0: Oevrin, huid, slik
+- `VOLK-sael-mor` 6.0: huid, zee, water
+
 ## De zeemeermin en het watervolk
 - `REG-zoutkust` 8.0: Oevrin, slik, zee, zang
 - `STAD-brakhaven` 8.0: Oevrin, slik, zee, zang
@@ -298,13 +371,23 @@ Gemaakt door `mythen/koppel.py`. Culturen = verschillende culturen in de voorbee
 
 ## De gedaantewisselaar
 - `VOLK-ves-lethi-Z6` 12.0: Ves-Lethi, wisselt, vorm, gedaante, spion, maan
+- `LOT-Z44-ves-lethi` 6.5: Ves-Lethi, wisselt, gedaante, spion, maan
 - `SEKS-VOLK-ves-lethi-kern` 6.0: Ves-Lethi, vorm, gedaante
 - `UIT-VOLK-ves-lethi` 6.0: Ves-Lethi, vorm, gedaante
-- `VERHAAL-fase4-e-Z40` 4.0: vorm, maan
 - `VOLK-GESCHIEDENIS-OVERZICHT-Z4-veslethi` 4.0: Ves-Lethi, vorm
 - `VOOR-V4-ves-lethi-1` 4.0: Ves-Lethi, vorm
 - `ZEG-D1-ves-lethi` 4.0: Ves-Lethi, vorm
 - `ZINT-Z5-verhaal-40` 4.0: Ves-Lethi, wisselt, vorm, maan
+
+## De nachtelijke minnaar, incubus en succubus
+- `GES-tijdlijn` 9.5: Ontvangst, nacht, tempel, zaad
+- `KETEN-kruik-ontvangst` 9.5: Ontvangst, nacht, tempel, zaad
+- `BESLUIT-2` 9.0: Ontvangst, nacht, vonk
+- `BESLUIT-Z12-5-schema` 9.0: Ontvangst, tempel, zaad
+- `BESLUIT-Z30-1` 9.0: Ontvangst, tempel, zaad
+- `BESLUIT-Z30-2` 9.0: Ontvangst, tempel, zaad
+- `REGEL-regeringsvorm-Z12` 9.0: Ontvangst, tempel, zaad
+- `VOLK-ves-lethi-Z6` 8.0: Ontvangst, tempel, zaad, vonk
 
 ## De vogels die alles zien en namen dragen
 - `BESLUIT-Z11-tijdlijn` 15.0: registerkraai, kraai, stem, namen, register
@@ -335,6 +418,26 @@ Gemaakt door `mythen/koppel.py`. Culturen = verschillende culturen in de voorbee
 - `VERHAAL-Z34-fase4-c` 4.0: register, schrijven
 - `VERHAAL-fase1-a-Z35` 4.0: lezen, register
 - `VERHAAL-fase3-c-Z35` 4.0: lezen, annalen
+
+## Het volk dat van nature slecht zou zijn
+- `VOLK-karrûk-Z6-Z38` 12.0: Karrûk, Kharvos, stoottroep, kookhuid, Amberpas, bloedvetes
+- `GESCH-karrûk-6` 7.5: Karrûk, Kharvos, Amberpas
+- `NAV-schaduwhonden` 6.0: Karrûk, Kharvos, kookhuid
+- `PERS-Z4-karruk-4-2` 6.0: Karrûk, Kharvos, Amberpas
+- `PLEK-kharvos-grensfort` 6.0: Karrûk, Kharvos, Amberpas
+- `RIJK-Z37-karruk-zorg` 6.0: Karrûk, Kharvos, kookhuid
+- `STAD-kharvos-hoornburg` 6.0: Karrûk, Kharvos, sterven jong
+- `VOLK-tharn` 6.0: Karrûk, Kharvos, Amberpas
+
+## Het volk van bomen en mos
+- `VOLK-myrrhen-Z6` 12.0: Myrrhen, overgroeien, veenzwam, veenhallen, traag, net
+- `BESLUIT-Z38-9` 6.0: Myrrhen, net
+- `LIJN-verzet` 6.0: Myrrhen, veenhallen, net
+- `GESCH-myrrhen-1` 5.5: overgroeien, veenzwam
+- `OORSPRONG-bio-5` 5.5: Myrrhen, net
+- `VOLK-kluwer` 4.0: Myrrhen, net
+- `ZEG-D1-myrrhen` 4.0: Myrrhen, net
+- `ZIEKTE-pesten` 4.0: Myrrhen, net
 
 ## De grote vloed als straf
 - `FASE-brand-Z38` 16.0: Brand, Zegel, vernietigen, Vonkkoningen, 1 op 100, mannen terugbrengen, oorlog, overleven
@@ -396,16 +499,6 @@ Gemaakt door `mythen/koppel.py`. Culturen = verschillende culturen in de voorbee
 - `VERHAAL-fase3-Z36` 7.5: mannen, Vonkkoningen, Zegel
 - `VOOR-bondage` 6.0: Zegel, gebonden, Leegte
 
-## Het wisselkind
-- `BESLUIT-Z12-9` 6.0: jongen, Myrrhen
-- `ORIGIN-WAAROM-8` 6.0: jongen, wieg
-- `PLEK-amber-hof` 4.0: lekjongens, jongen
-- `RIJK-Z38-mens-zoutkust-kinderen` 4.0: verstopt, jongen
-- `TECHNO-MIX-V4` 4.0: wieg, Myrrhen
-- `VOLK-kluwer` 4.0: jongen, Myrrhen
-- `VOLK-myrrhen-Z6` 4.0: jongen, Myrrhen
-- `ZEG-D1-myrrhen` 4.0: wieg, Myrrhen
-
 ## De smeden in de berg
 - `ORIGIN-WAAROM-10` 12.0: Dhurn, mijn, stralingstaai, handen
 - `DAG-werk` 8.0: Dhurn, mijn, berg, smid
@@ -466,16 +559,6 @@ Gemaakt door `mythen/koppel.py`. Culturen = verschillende culturen in de voorbee
 - `ROMAN-Z16-h17` 5.5: lander, Harrow
 - `TECH-GESCH-0` 5.5: lander, zaaischip
 
-## De wereldboom met wortels in alle werelden
-- `BESLUIT-Z12-wortelstem` 18.0: Wortel, wortels, steen, onder, Ysara, verbindt
-- `BESLUIT-15` 12.0: Wortel, onder, Ysara, verbindt
-- `BESLUIT-Z12-15` 12.0: Wortel, wortels, onder, Ysara
-- `BESLUIT-Z32-12` 12.0: Wortel, wortels, onder, Ysara
-- `ORIGIN-Z1-harrow` 9.0: steen, onder, verbindt
-- `BESLUIT-Z6-WRIJ-049` 8.0: Wortel, wortels, onder, verbindt
-- `TOESTAND-Z15-PER-v4-thalen-orr-5` 8.0: Wortel, wortels, steen, Ysara
-- `VERHAAL-fase2-Z36` 8.0: Wortel, steen, netwerk, onder
-
 ## De schemering van de goden
 - `FASE-barsten` 6.0: Barsten, lekt, Kharvos valt aan
 - `OORSPRONG-gave-8` 5.5: Barsten, breekt
@@ -485,6 +568,14 @@ Gemaakt door `mythen/koppel.py`. Culturen = verschillende culturen in de voorbee
 - `SYS-zegelvoeding` 4.0: breekt, Zegel breekt
 - `UIT-VOLK-oevrin` 4.0: Barsten, lekt
 - `YSA-Z29-60` 4.0: Barsten, breekt
+
+## Het vertrek van het oude volk en het einde van de wonderen
+- `BESLUIT-2` 6.0: generatie, derde weg
+- `BESLUIT-Z12-2` 6.0: generatie, derde weg
+- `BESLUIT-Z32-11` 6.0: gaven doven, derde weg, 1 op 20
+- `BESLUIT-Z6-VRAAG-001` 4.0: derde weg, 1 op 20
+- `FUNC-VOORT-Z38` 4.0: generatie, 1 op 20
+- `FASE-z44-ja` 3.0: gaven doven, generatie, derde weg
 
 ## De wereld gemaakt uit een lichaam
 - `ORIGIN-4` 19.5: lichaam, bot, bloed, schimmel, biologisch, uit lichamen
@@ -506,6 +597,66 @@ Gemaakt door `mythen/koppel.py`. Culturen = verschillende culturen in de voorbee
 - `ORIGIN-6` 7.5: zaad, kern
 - `ORIGIN-WAAROM-4` 7.5: zaad, kern
 
+## De eenhoorn met de genezende hoorn
+- `DEG-stalreus` 8.0: zegelwater, gegroeid, reuzenstier, stal
+- `KOE-markt` 6.0: reuzenstier, stal, superkoeien
+- `KOE-opstand` 6.0: reuzenstier, stal, superkoeien
+- `TECHNO-zegelsteen-Z42` 6.0: stal, Sterrensteen, splinter
+- `VOLK-GESCHIEDENIS-OVERZICHT-Z4-orrim` 4.0: stal, splinter
+- `VOLK-orrim` 4.0: stal, Sterrensteen
+- `VOORW-lampen` 4.0: Sterrensteen, splinter
+- `YSA-Z32-2` 4.0: Sterrensteen, splinter
+
+## De ruiter die één is met zijn dier
+- `VOLK-karrûk-Z6-Z38` 8.0: Karrûk, Amberpas, clans, kampioen
+- `PERS-Z4-karruk-0-2` 6.0: Karrûk, hoorn, lichaam en hoorn
+- `PERS-Z4-karruk-3-1` 6.0: Karrûk, clans, kampioen
+- `VOLK-GESCHIEDENIS-OVERZICHT-Z4-karruk` 6.0: Karrûk, hoorn, kampioen
+- `RIJK-Z37-karruk-zorg` 4.0: Karrûk, kampioen
+- `STAD-kharvos-hoornburg` 4.0: Karrûk, hoorn
+- `VOLK-tharn` 4.0: Karrûk, Amberpas
+- `ZEG-D1-karrûk` 4.0: Karrûk, kampioen
+
+## De kleine helpers in huis die 's nachts werken
+- `VOLK-kluwer` 12.0: Kluwer, werksters, honingwas, korf, geur, stallen
+- `SEKS-VOLK-kluwer-kern` 10.0: Kluwer, werksters, korf, geur, nacht
+- `PERS-Z4-kluwer-6-2-Z5b` 8.0: Kluwer, honingwas, korf, geur
+- `PLEK-groen-korf` 8.0: Kluwer, honingwas, korf, geur
+- `GESCH-kluwer-5` 7.5: Kluwer, korf, geur
+- `ORDE-financien-Z6` 6.0: Kluwer, honingwas, stallen
+- `UIT-VOLK-kluwer` 6.0: werksters, korf, geur
+- `VERHAAL-fase6-Z36` 5.5: stallen, nacht
+
+## De oude tovenaar met de staf
+- `MET-D1-vonk` 6.0: staaf, Orric, kluis
+- `ORIGIN-onthulplan` 6.0: dode taal, kluis
+- `RECHT-gavenrecht` 4.0: kluis, gaven-man
+- `TECHNO-MIX-V4` 4.0: kluis, gaven-man
+- `TECHNO-metaal-Z42` 4.0: dode taal, kluis
+- `TECHNO-metaal-communicatie` 4.0: dode taal, kluis
+- `VERHAAL-fase6-Z36` 4.0: kluis, gaven-man
+- `VOLK-ves-lethi-Z6` 4.0: Stille Zusters, gaven-man
+
+## De doden die blijven lopen
+- `VOLK-myrrhen-Z6` 12.0: Myrrhen, zwam, in leven, Pest, Leegte, sporen
+- `GESCH-myrrhen-1` 9.5: zwam, Pest, Leegte, sporen
+- `OORSPRONG-bio-7` 9.5: Myrrhen, Pest, Leegte, sporen
+- `DAG-gezondheid` 8.0: Myrrhen, zwam, Pest, Leegte
+- `SEKS-VOLK-myrrhen-kern` 6.0: Myrrhen, zwam, sporen
+- `TECHNO-MIX-V4` 6.0: Myrrhen, Leegte, sporen
+- `TECHNO-bio` 6.0: Myrrhen, Pest, sporen
+- `VOLK-GESCHIEDENIS-OVERZICHT-Z4-myrrhen` 6.0: Myrrhen, zwam, sporen
+
+## Het monster dat aangroeit wat je afhakt
+- `OORSPRONG-bio-4` 8.0: heelslijm, Oevrin, kweekbaarmoeders, weefsel
+- `TECHNO-MIX-V4` 6.0: vleesmetaal, kweekbaarmoeders, Leegteworm
+- `TECHNO-VOLK-oevrin` 6.0: heelslijm, kweekbaarmoeders, Leegteworm
+- `OORSPRONG-verbanden` 4.0: Oevrin, Leegteworm
+- `TECHNO-TIJDLIJN` 4.0: Leegteworm, weefsel
+- `TECHNO-bio-erotiek` 4.0: Oevrin, weefsel
+- `TECHNO-bio-genees` 4.0: heelslijm, Oevrin
+- `VOLK-oevrin` 4.0: Oevrin, groeit
+
 ## De stem die in de steen woont
 - `BESLUIT-Z32-12` 15.0: Wortel, stem, Ysara, Rekenaar, Reckoner
 - `BESLUIT-15` 12.0: Wortel, stem, Ysara, spreekt
@@ -525,26 +676,6 @@ Gemaakt door `mythen/koppel.py`. Culturen = verschillende culturen in de voorbee
 - `ORIGIN-WAAROM-8` 6.0: Raad der Moeders, Moeders
 - `VOOR-lichaam` 6.0: krijgsvrouw, Moeders, Deelwet
 - `VERHAAL-fase3-Z36` 4.0: Raad der Moeders, Moeders
-
-## De zwanenmaagd en de huid die je aflegt
-- `PERS-Z4-oevrin-0-1` 8.0: Oevrin, zee, slik, water
-- `VOLK-oevrin` 8.0: Oevrin, zee, slik, water
-- `STAD-brakhaven` 6.0: Oevrin, zee, slik
-- `UIT-VOLK-oevrin` 6.0: huid, slik, water
-- `UIT-VOLK-saelmor` 6.0: huid, zee, water
-- `VERHAAL-fase4-f-Z40` 6.0: Oevrin, slik, water
-- `VOLK-GESCHIEDENIS-OVERZICHT-Z4-oevrin` 6.0: Oevrin, huid, slik
-- `VOLK-sael-mor` 6.0: huid, zee, water
-
-## De nachtelijke minnaar, incubus en succubus
-- `GES-tijdlijn` 9.5: Ontvangst, nacht, tempel, zaad
-- `KETEN-kruik-ontvangst` 9.5: Ontvangst, nacht, tempel, zaad
-- `BESLUIT-2` 9.0: Ontvangst, nacht, vonk
-- `BESLUIT-Z12-5-schema` 9.0: Ontvangst, tempel, zaad
-- `BESLUIT-Z30-1` 9.0: Ontvangst, tempel, zaad
-- `BESLUIT-Z30-2` 9.0: Ontvangst, tempel, zaad
-- `REGEL-regeringsvorm-Z12` 9.0: Ontvangst, tempel, zaad
-- `VOLK-ves-lethi-Z6` 8.0: Ontvangst, tempel, zaad, vonk
 
 ## Mensen die tot steen worden
 - `BESLUIT-Z4-sterrensteen` 10.0: Orrim, steen, versteende, verhard, opgenomen
@@ -597,7 +728,48 @@ Gemaakt door `mythen/koppel.py`. Culturen = verschillende culturen in de voorbee
 - `ESTH-rosse` 4.0: kristal, hemel
 - `ESTH-skerra` 4.0: toren, hemel
 - `TECHNO-metaal-Z42` 4.0: kristal, dode taal
+- `FASE-z44-schrift` 3.5: talen, hemel
 - `ZINT-VOORBEELD-18` 2.0: dode taal, talen
+
+## De ring die bindt
+- `PER-morvane` 6.0: binding, gebonden, ontzegging
+- `REBEL-grijswortel` 6.0: binding, gebonden, binden
+- `RIT-kinkschaal` 6.0: binding, ontzegging, gelofte
+- `RIT-leegtewake` 6.0: binding, gebonden, ontzegging
+- `SEKS-VOLK-ishvar-kern` 6.0: binding, ontzegging, gelofte
+- `SYS-hechting-liefde` 6.0: binding, ontzegging, gelofte
+- `VOOR-binding` 6.0: binding, gebonden, ontzegging
+- `WET-grijswortel` 6.0: binding, gebonden, merk
+
+## De spiegel die toont wie je mist
+- `SEKS-VOLK-ves-lethi-kern` 8.0: Ves-Lethi, spiegelnacht, gedaante, verloren
+- `VOLK-ves-lethi-Z6` 8.0: Ves-Lethi, gedaante, Lege Spiegel, gezicht
+- `LICH-r17-gezichtsrot` 6.0: Ves-Lethi, gedaante, gezicht
+- `PER-veslethi-schurk-mirror` 6.0: Ves-Lethi, Lege Spiegel, gezicht
+- `PERS-Z4-veslethi-5-2` 6.0: Ves-Lethi, Lege Spiegel, gezicht
+- `UIT-VOLK-ves-lethi` 6.0: Ves-Lethi, gedaante, gezicht
+- `VOLK-GESCHIEDENIS-OVERZICHT-Z4-veslethi` 6.0: Ves-Lethi, Lege Spiegel, gezicht
+- `LOT-Z44-ves-lethi` 4.5: Ves-Lethi, gedaante, gezicht
+
+## De wilde jacht door de lucht
+- `VOLK-skerra` 8.0: Skerra, luchtwacht, lekmeldingen, vliegen
+- `GESCH-skerra-6` 5.5: Skerra, lekmeldingen
+- `TOESTAND-Z32-PER-f1-calden-3` 4.0: kraaien, nacht
+- `VERHAAL-fase1-b-Z35` 4.0: storm, nacht
+- `VERHAAL-fase4-Z36` 4.0: storm, nacht
+- `VERHAAL-fase6-Z36` 4.0: storm, nacht
+- `YSA-Z29-12` 4.0: nacht, vliegen
+- `ZEG-D1-skerra` 4.0: Skerra, nacht
+
+## De steen der wijzen en het levenselixer
+- `BESLUIT-9` 6.0: Myrrhen-zwam, prijs
+- `BESLUIT-Z12-9` 6.0: Myrrhen-zwam, prijs
+- `VOLK-dhurn` 6.0: Sterrensteen, Zegelinkt, wijdingsgoud
+- `UIT-VOLK-orrim` 4.0: Sterrensteen, kristal
+- `VOLK-aelthir-V5` 4.0: Sterrensteen, prijs
+- `VOLK-orrim` 4.0: Sterrensteen, kristal
+- `VOOR-V4-orrim-1` 4.0: kristal, prijs
+- `VOOR-V4-top-1` 4.0: Sterrensteen, prijs
 
 ## De eerste vrouw die alles opent
 - `BESLUIT-Z37-3` 15.0: Hesta, deur, blauwe licht, test, cellen aan
@@ -639,12 +811,15 @@ Gemaakt door `mythen/koppel.py`. Culturen = verschillende culturen in de voorbee
 - `TOESTAND-Z17-PER-v4-thalen-orr-2` 13.5: sleutel, instemmingssleutel, ja, instemming
 - `BESLUIT-Z32-12` 12.0: sleutel, Thalen, ja, kiest
 
-## Het vertrek van het oude volk en het einde van de wonderen
-- `BESLUIT-2` 6.0: generatie, derde weg
-- `BESLUIT-Z12-2` 6.0: generatie, derde weg
-- `BESLUIT-Z32-11` 6.0: gaven doven, derde weg, 1 op 20
-- `BESLUIT-Z6-VRAAG-001` 4.0: derde weg, 1 op 20
-- `FUNC-VOORT-Z38` 4.0: generatie, 1 op 20
+## De donkere heer die zijn volgelingen bindt
+- `RIT-bloedverbinding` 12.0: Morvane-ir, gebonden, Bloedpaleis, Lisk, binding, trouw
+- `PER-morvane` 10.0: Morvane-ir, bloedverbinding, gebonden, Lisk, binding
+- `SEKTE-bloedkerk` 10.0: Morvane-ir, bloedverbinding, gebonden, binding, trouw
+- `STAD-lisk` 10.0: Morvane-ir, bloedverbinding, gebonden, Lisk, binding
+- `FASE-barsten` 8.0: Morvane-ir, bloedverbinding, gebonden, binding
+- `FUNC-HECHT` 8.0: Morvane-ir, gebonden, binding, trouw
+- `GEB-bloednacht-788` 8.0: Morvane-ir, bloedverbinding, Lisk, binding
+- `RIT-ontzegging-binding` 8.0: Morvane-ir, gebonden, Lisk, binding
 
 ## De wet die de mannen deelt
 - `VOLK-grauwen` 6.0: register, rotatie, beurt

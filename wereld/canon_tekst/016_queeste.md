@@ -28140,4 +28140,34 @@
 - **bron_handmatig:** 
 - **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
 <!-- /REC -->
+<!-- REC canon -->
+### VERHAAL-Z45-losbandig · De laatste vonk van Ambergaard
+- **code:** VERHAAL-Z45-losbandig
+- **categorie:** Verhaal
+- **onderwerp:** De laatste vonk van Ambergaard
+- **wat:** Saske de Jonge was stalschrijver en heeft twintig jaar namen genoteerd van mannen die geen nee mochten zeggen. In 807 opent ze het register op het marktplein en leest het voor, naam voor naam, terwijl rond haar het feest van de vrije stallen al drie dagen duurt. Een van de namen staat op en vraagt haar of ze met hem danst. Ze weet niet of ze dat mag, en vraagt het. Hij zegt ja, en dan lacht hij, omdat hij het voor het eerst hardop zegt. Het verhaal volgt hen door de roes van die jaren: de huizen vol vrienden en minnaars, de jaloezie die niemand kent omdat ze nooit hoefde, en de ochtend in 810 waarop zijn vonk niet meer komt, en ze toch blijven. Alle betrokkenen zijn volwassen, en elke stap begint met een vraag.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** GEB-Z45-losbandige-jaren;BESLUIT-Z6-WRIJ-077;HAAK-B1-2-4
+- **verwijst_naar:** GEB-Z45-losbandige-jaren;BESLUIT-Z6-WRIJ-077;HAAK-B1-2-4
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Saske de Jonge was stalschrijver en heeft twintig jaar namen genoteerd van mannen die geen nee mochten zeggen. In 807 opent ze het register op het marktplein en leest het voor, naam voor naam, terwijl rond haar het feest van de vrije stallen al drie dagen duurt. Een van de namen staat op en vraagt haar of ze met hem danst. Ze weet niet of ze dat mag, en vraagt het. Hij zegt ja, en dan lacht hij, omdat hij het voor het eerst hardop zegt. Het verhaal volgt hen door de roes van die jaren: de huizen vol vrienden en minnaars, de jaloezie die niemand kent omdat ze nooit hoefde, en de ochtend in 810 waarop zijn vonk niet meer komt, en ze toch blijven. Alle betrokkenen zijn volwassen, en elke stap begint met een vraag.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, verhaal)
+<!-- /REC -->
 

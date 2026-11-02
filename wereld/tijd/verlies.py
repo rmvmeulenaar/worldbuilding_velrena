@@ -56,6 +56,20 @@ for r in runs[:5000]:
     tel['c2 voor Amerika'] += not (a - r['_eind']['vertrek'] >= amer)
     tel['c3 zwevend gat'] += not (a - r['_eind']['vertrek'] - A['schrift'] >= 3000)
 uit['knelt'] = {k: round(v / 5000, 2) for k, v in tel.items()}
+# Z45: zeden per tijdperk (eigen RNG, zodat de tijdperken van Z44 gelijk blijven). Waarde op het midden van elk tijdperk na 801.
+rz = random.Random(45); Z = P.get('zeden', {})
+med = lambda g: (uit['tijdperk_eind_na_801'][g] or [0, 0, 0])[1]
+MID = {9: med('ja') / 2, 10: (med('ja') + med('volken')) / 2, 11: (med('volken') + med('helden')) / 2, 12: (med('helden') + med('vertrek')) / 2}
+a50_ = uit['anker_bp_801'][1]
+for f, bp in ((13, 19500), (14, 13600), (15, 6700), (16, 2600)): MID[f] = a50_ - bp
+MID[8.5] = 5  # de Losbandige Jaren, 801-810
+uit['zeden'] = {}
+for naam, w in Z.items():
+    rij = {}
+    for f, t in MID.items():
+        xs = sorted(max(w['vloer'], rz.uniform(*w['f']) ** (t / w['gen'])) for _ in range(4000))
+        rij[str(f)] = [round(xs[400], 3), round(xs[2000], 3), round(xs[3600], 3)]
+    uit['zeden'][naam] = rij
 json.dump(uit, open(os.path.join(H, 'uitkomst.json'), 'w'), indent=1, ensure_ascii=False)
 
 a50 = uit['anker_bp_801'][1]
@@ -69,4 +83,6 @@ fmt = lambda b: '-' if b is None else str(b[1])
 for n, w in sorted(W.items(), key=lambda kv: (GROEPEN.index(kv[1]['groep']), (uit['wezens'][kv[0]]['legende'] or [0, 1e9])[1])):
     b = uit['wezens'][n]
     o.append(f"| {n} | {w['groep']} | {fmt(b['zeldzaam'])} | {fmt(b['legende'])} | {fmt(b['verdwenen'])} | {w['waarom']} ({', '.join(w['bron'])}) |")
+o += ['', '## Zeden per tijdperk (mediaan, 1 = zoals in 801)', '| Zede | ' + ' | '.join('801-810' if f == '8.5' else f'fase {f}' for f in uit['zeden'][next(iter(Z))]) + ' | Waarom (canon) |', '|' + '---|' * (len(MID) + 2)]
+for naam, rij in uit['zeden'].items(): o.append(f'| {naam} | ' + ' | '.join(f'{v[1]:.2f}' for v in rij.values()) + f" | {Z[naam]['waarom']} ({', '.join(Z[naam]['bron'])}) |")
 open(os.path.join(H, 'verlies.md'), 'w').write('\n'.join(o) + '\n'); print('\n'.join(o[:12]))

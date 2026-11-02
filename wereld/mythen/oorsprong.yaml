@@ -887,3 +887,244 @@
   smaak: {verwondering: 4, horror: 1, erotiek: 0}
   rij: >-
     De toren van Babel en de verwarring van de talen gaan terug op de kristallen torens onder de Orde-kathedraal. Die zijn uit één stuk en hebben geen voegen; waar de afdichting lekt, groeit schimmel in de naden (TECHNO-metaal-bouw-Z42). De Makers verboden schrift over machines (ORIGIN-7), en daarna stierf hun taal tot er nog maar drie woorden over waren: ysa, kern en wieg. Elk volk kreeg zijn eigen tongval en telling. De mythe zegt dat een god de toren brak en de talen verwarde. Wat er echt gebeurde, was een verbod, en een taal die niemand meer leerde.
+
+# ---- Z45: de klassieke fantasy-wezens en -dingen ----
+- cluster: eenhoorn
+  laag: 6
+  canon: [DEG-stalreus, KOE-markt, BESLUIT-Z4-sterrensteen]
+  regels: [lichaam-wordt-mengwezen, vreemd-wordt-vertrouwd, vondst-wordt-verhaal]
+  keten:
+    - "In de stallen groeit een melkos door zegelwater een enkele hoorn van Sterrensteen-kristal op het voorhoofd; geslepen tot poeder remt die koorts."
+    - "Er is een wit dier met één hoorn die elk gif zuivert, en niemand kan het vangen."
+    - "De eenhoorn, de qilin, de karkadann; later verkochten handelaars narwaltanden als hoorn."
+  herkenning: de hoorn geneest, en is daarom meer waard dan het dier
+  verlies: "na de Laatste Gloed (fase 11) groeit er geen hoorn meer; wat overblijft zijn hoorns zonder kracht"
+  boek: "3, na 801"
+  smaak: {verwondering: 5, horror: 2, erotiek: 0}
+  rij: >-
+    Een hoorn die gif zuivert, ontstond in Velmara in de stallen. Een melkos die zegelwater dronk, kreeg soms een enkele uitgroei van Sterrensteen-kristal op het voorhoofd, zoals de reuzenstieren door zegelwater te groot werden (DEG-stalreus). Geslepen tot poeder remde die hoorn koorts, en hij was meer waard dan de hele stal (KOE-markt). Zulke ossen werden zelden oud, want iedereen wilde de hoorn. De mythe maakt er een wit dier van dat niemand kan vangen. Na de Laatste Gloed groeit er geen kristal meer, en eeuwen later verkopen handelaars narwaltanden als eenhoornhoorn.
+
+- cluster: griffioen
+  laag: 2
+  canon: [VOLK-skerra, D1-skerra-feest, VOLK-dhurn]
+  regels: [lichaam-wordt-mengwezen, groep-wordt-een, vondst-wordt-verhaal]
+  keten:
+    - "De kliffvogels van de bloedriten waaruit de Skerra werden gemaakt, nestelen boven de Dhurn-mijnen en jagen op wie de steen draagt."
+    - "Een gevleugeld roofdier bewaakt het goud in de bergen en draagt soms een held."
+    - "De griffioen van de Scythen, de simurgh, de roc."
+  herkenning: het dier bewaakt een mijn en heeft de klauwen van een vogel
+  verlies: "zonder Skerra en zonder mijnen vallen de nesten leeg; hun schedels liggen in de bergen en worden later gevonden"
+  boek: "2"
+  smaak: {verwondering: 5, horror: 3, erotiek: 0}
+  rij: >-
+    De griffioen die goud in de bergen bewaakt, gaat terug op de kliffvogels uit wier bloed de vonkkoningen de Skerra maakten (VOLK-skerra). Die vogels bleven nestelen boven de mijnen waar de Dhurn de Sterrensteen hakten, en vielen iedereen aan die glinsterend gesteente droeg. Een Skerra-vorstin wordt gekroond op het eerste nest. Daarvan maakte de mythe een dier dat een schat bewaakt. Dat een griffioen een ruiter kan dragen, onthoudt dat de Skerra zelf vlogen. Er is ook een aardse laag: in de Gobi vonden reizigers schedels met snavels in goudrijk gebied, en zo krijgt het oude verhaal een nieuw bewijs.
+
+- cluster: feniks
+  laag: 2
+  canon: [DEG-kookkoppen, GAVE-Z37-vuur, VOLK-skerra]
+  regels: [lichaam-wordt-mengwezen, beeldspraak-letterlijk, formule-blijft]
+  keten:
+    - "Kookkoppen aan de Kharvos-grens ontploffen in vuur als ze sterven; de Skerra vereren de Val: wie valt en zich vangt, wordt herboren."
+    - "Een vogel van vuur verbrandt aan het einde van zijn leven en staat op uit zijn as."
+    - "De feniks, de bennu, de vuurvogel."
+  herkenning: hij verbrandt zichzelf, en uit het vuur komt iets nieuws
+  verlies: "als de gaven doven, ontploft niemand meer; de feniks wordt een teken op munten"
+  boek: "2, 7"
+  smaak: {verwondering: 5, horror: 3, erotiek: 0}
+  rij: >-
+    De feniks die verbrandt en uit zijn as opstaat, komt uit twee dingen die elkaar aan de grens raakten. Het ene zijn de kookkoppen van de Karrûk: vonkdragers die nooit meer kunnen ontladen en die in vuur ontploffen als ze sterven (DEG-kookkoppen). Het andere is de religie van de Skerra, waarin wie valt en zich vangt, herboren wordt. Een vliegend volk en een man die in vuur opgaat, worden bij het doorvertellen één vogel. De zin "wie valt, wordt herboren" bleef letterlijk staan. In de Tijd van de Ja ontploft niemand meer, en vanaf dan is de feniks een teken.
+
+- cluster: kraken
+  laag: 7
+  canon: [TECHNO-MIX-V4, OORSPRONG-bio-8, TECHNO-bio-schip]
+  regels: [machine-wordt-wezen, beeldspraak-letterlijk, groep-wordt-een]
+  keten:
+    - "Vleesmetaal: een Leegteworm met een kluiskern in de maag is sneller, maar lijdt pijn en wordt waanzinnig; verwilderd trekt hij schepen mee de diepte in."
+    - "Uit de diepte komt een wezen met armen dat schepen onder water trekt."
+    - "De kraken, Scylla, de umibōzu; het eiland dat een rug bleek te zijn."
+  herkenning: het monster is gek van pijn, en het is ooit een schip geweest
+  verlies: "de laatste waanzinnige worm sterft in Het Vertrek (fase 12); zeelieden blijven duizenden jaren voor hem bang"
+  boek: "1, 3"
+  smaak: {verwondering: 4, horror: 5, erotiek: 0}
+  rij: >-
+    De kraken die schepen naar beneden trekt, is een Leegteworm met een kluiskern in zijn maag. Zo'n worm werd sneller, maar hij leed pijn en werd waanzinnig (TECHNO-MIX-V4). Als zijn navigator stierf, bleef de worm dicht bij de schepen waarmee hij had gevaren, en trok ze in zijn pijn mee de diepte in. De mythe herinnert zich alleen de armen en het water. In de Barsten keren verwilderde wormen terug met iets anders in hun ruim (OORSPRONG-bio-8). Het eiland dat een rug blijkt te zijn, is een worm die aan de oppervlakte sliep.
+
+- cluster: centaur
+  laag: 4
+  canon: [VOLK-karrûk-Z6-Z38, PERS-Z4-karruk-0-2, PERS-Z4-karruk-3-1]
+  regels: [groep-wordt-een, lichaam-wordt-mengwezen, plek-verschuift]
+  keten:
+    - "De Karrûk vechten sinds de landing met lichaam en hoorn, rijden in clans over de pas en stijgen in de strijd niet af; hun kampioen wordt elk jaar herkozen."
+    - "Achter de bergen leeft een volk dat half mens half paard is, wild in de strijd en soms wijs."
+    - "De kentauren, Polkan, de wijze Chiron."
+  herkenning: ze wonen buiten de stad, op de pas, en drinken te veel op feesten
+  verlies: "in de Tijd van de Ja verliest hun Storm zijn reden; de ruiters worden herders"
+  boek: "1-3"
+  smaak: {verwondering: 3, horror: 2, erotiek: 0}
+  rij: >-
+    De kentauren van de Griekse bergen zijn de Karrûk zoals de dalen hen zagen. Het is een volk van clans dat sinds de landing vecht met lichaam en hoorn (PERS-Z4-karruk-0-2), over de Amberpas rijdt en in de strijd niet afstijgt. Voor wie hen van ver zag aankomen, waren ruiter en rijdier één lichaam. Dat de kentauren wild zijn op feesten, komt van de wedstrijden waarin Karrûk-vrouwen hun mannen kiezen. Chiron de wijze is de kampioen die het laatste bevel van Varnath weigerde en zo zijn clans redde (PERS-Z4-karruk-3-1). Het mengwezen is een beeld van de afstand, en het staat niet voor een paring.
+
+- cluster: orks
+  laag: 7
+  canon: [VOLK-karrûk-Z6-Z38, GESCH-karrûk-6, NAV-schaduwhonden, STAD-kharvos-hoornburg]
+  regels: [schuld-verschuift, groep-wordt-een, vreemd-wordt-vertrouwd]
+  keten:
+    - "Kharvos zet Karrûk in als stoottroep en laat schaduwhonden levend in de zegelschaduw tot ze de Zegel als hitte zien; hun huid kookt; Kharvos-mannen sterven jong."
+    - "Over de pas komt een horde van gebroken soldaten die geen eigen verhaal hebben, alleen een heer."
+    - "De oni, de Fomoriërs, de ogres van het sprookje."
+  herkenning: het vijandvolk heeft een huid vol blaren en sterft jong, en wordt nooit gevraagd wat het wil
+  verlies: "in de Tijd van de Ja lopen ze over; de mythe vergeet dat, en houdt alleen de horde"
+  boek: "1"
+  smaak: {verwondering: 2, horror: 4, erotiek: 0}
+  rij: >-
+    In elk verhaal komen de soldaten van de vijand over de pas met een gebroken huid en zonder eigen naam. Dat beeld komt van de Karrûk, die Kharvos als stoottroep gebruikt (VOLK-karrûk-Z6-Z38), en van de schaduwhonden die levend in de zegelschaduw werden gelaten tot ze de Zegel als hitte zagen (NAV-schaduwhonden). Hun huid kookt en ze sterven jong. In de mythe is de horde slecht van nature. In 801 wil een deel van de Karrûk overlopen naar Velmara (GESCH-karrûk-6), maar dat hoort niet in het verhaal van de dalen. De schuld van wie hen zo maakte, kwam terecht bij wie zo gemaakt werd.
+
+- cluster: huisgeesten
+  laag: 6
+  canon: [VOLK-kluwer, PERS-Z4-kluwer-6-2-Z5b, FASE-markt]
+  regels: [groep-wordt-een, vreemd-wordt-vertrouwd, formule-blijft]
+  keten:
+    - "Kluwer-werksters verzorgen 's nachts de stallen en de zieken met honingwas; ze werken op geur en willen geen loon, alleen een plek bij de korf."
+    - "Kleine wezens doen 's nachts het werk in huis in ruil voor een schaaltje melk of honing."
+    - "De brownie, de kobold, de domovoj, de tomte."
+  herkenning: je mag ze niet bedanken met kleren, want dan vertrekken ze; zo beledig je een korf
+  verlies: "als de korven uiteenvallen (fase 10), blijft alleen het schaaltje honing bij de haard"
+  boek: "3"
+  smaak: {verwondering: 4, horror: 1, erotiek: 0}
+  rij: >-
+    Een schaaltje honing bij de haard voor wie 's nachts het werk doet: in Velmara waren dat Kluwer-werksters. Na de Pest verzorgden zij de stallen en de zieken met honingwas (PERS-Z4-kluwer-6-2-Z5b). Ze werkten op geur, spraken in koor en vroegen geen loon, alleen een plek bij de korf (VOLK-kluwer). Wie hen kleren gaf, beledigde de korf, want een werkster heeft geen eigen ik. Daarom vertrekt in de folklore de brownie die kleren krijgt. Toen de korven in de Tijd der Volken uiteenvielen, bleven de gebruiken van de mensen bestaan: wie nu nog melk zet voor de kabouters, betaalt de Kluwers.
+
+- cluster: tovenaar
+  laag: 9
+  canon: [MET-D1-vonk, RECHT-gavenrecht, TAAL-dode-taal, GENEES-heelsters]
+  regels: [mens-wordt-god, vreemd-wordt-vertrouwd, formule-blijft]
+  keten:
+    - "In de Heldentijd kent een laatste generatie oude woorden van de Makers en een staaf die vonken geleidt; met die woorden gaan nog een paar kluizen open."
+    - "Een oude man met een staf kent de woorden van de wereld en verschijnt als het nodig is."
+    - "Merlijn, Väinämöinen, de druïden."
+  herkenning: de staf geeft licht als hij in de hand van de juiste ligt, en de spreuk is in een taal die niemand meer spreekt
+  verlies: "als de laatste kluis in de Heldentijd dooft, worden zijn woorden alleen nog klank"
+  boek: "na 801 (Midden-aarde)"
+  smaak: {verwondering: 5, horror: 1, erotiek: 0}
+  rij: >-
+    De oude tovenaar met zijn staf en zijn woorden in een vergeten taal is wat er van de kluiswachters overbleef. In de Heldentijd kent nog maar een handvol mensen de woorden van de Makers waarmee een kluis opengaat (TAAL-dode-taal). Een paar dragen een staaf die vonken geleidt, zoals Orric er een droeg (MET-D1-vonk). Met een restje gave en de juiste klank laten ze licht uit een staf komen of een deur opengaan. Voor wie het zag, was dat toverkunst. Dat Merlijn verdwijnt nadat het werk gedaan is, klopt ook: de laatste kluiswachters gingen mee met Het Vertrek.
+
+- cluster: donkere-heer
+  laag: 7
+  canon: [PER-morvane, RIT-bloedverbinding, SEKTE-bloedkerk, RIT-ontzegging-binding]
+  regels: [groep-wordt-een, besluit-wordt-vloek, plek-verschuift]
+  keten:
+    - "Morvane-ir, de Bloedvorst van Lisk, bindt krijgsvrouwen met zijn zaad en bloed; zijn kerk noemt zijn bloed sacrament; hij wil het Zegel breken om met Kharvos te heersen."
+    - "In het oosten heerst een heer die zijn dienaren bindt met bloed en hen hun wil afneemt."
+    - "Angra Mainyu, Kosjtsjej, de heer van de duisternis in elke heldensage."
+  herkenning: zijn dienaren kunnen niet meer kiezen, en dat is het ergste wat hij doet
+  verlies: "met de ja aan iedereen werkt zijn binding niet meer; de mythe laat hem toch terugkomen, want er is altijd iemand die het nee wil afnemen"
+  boek: "1, finale"
+  smaak: {verwondering: 3, horror: 5, erotiek: 3}
+  rij: >-
+    De donkere heer die zijn dienaren met bloed bindt, is Morvane-ir, de Bloedvorst van Lisk. Hij bindt krijgsvrouwen met zijn zaad en zijn bloedgave, houdt een harem van gebonden vrouwen (PER-morvane), en in zijn kerk heet zijn bloed sacrament (SEKTE-bloedkerk). Bij hem is dwang een gelabeld donker thema. Dat hij volgelingen hun wil afneemt, is precies wat de wereld na 801 niet meer verdraagt. Daarom werd hij in de mythe de vijand bij uitstek. Na de derde weg werkt zijn binding niet meer, maar de heldensagen laten hem steeds terugkomen. De donkere heer is geen persoon meer, maar het nee dat iemand wil afnemen.
+
+- cluster: bindende-ring
+  laag: 6
+  canon: [RIT-ontzegging-binding, REBEL-grijswortel, PER-morvane]
+  regels: [vreemd-wordt-vertrouwd, beeldspraak-letterlijk, besluit-wordt-vloek]
+  keten:
+    - "De binding ontstaat na meer dan drie keer per maand van dezelfde gaven-man; gebonden vrouwen dragen een merk; de Grijswortel-rebellen willen iedereen kunnen ontbinden."
+    - "Er is een ring die macht geeft, maar wie hem draagt, is gebonden aan een ander."
+    - "Andvaranaut, Draupnir, de ring van Gyges."
+  herkenning: de band om de vinger is de band om de wil; hij vermenigvuldigt zich, zoals een binding op de volgende vrouw overgaat
+  verlies: "na 801 is ontbinden een recht; de ring wordt een trouwring, en dat is een ander verhaal"
+  boek: "1-3"
+  smaak: {verwondering: 3, horror: 4, erotiek: 3}
+  rij: >-
+    De ring die macht geeft maar bindt, komt uit de binding van de gaven-mannen. Wie meer dan drie keer per maand van dezelfde man ontvangt, raakt aan hem gebonden (RIT-ontzegging-binding). Een gebonden vrouw droeg een merk om haar ringvinger, zodat de Orde zag van wie ze was. In de taal van de straat heette dat "de ring", en die uitdrukking werd bij het doorvertellen een echt voorwerp. De rebellen met hun bittere Grijswortel wilden iedereen kunnen ontbinden (REBEL-grijswortel). Na 801 is ontbinden een recht. De gouden ring die je nu bij een huwelijk krijgt, is het omgekeerde: een binding die je zelf kiest.
+
+- cluster: toverspiegel
+  laag: 9
+  canon: [SEKS-VOLK-ves-lethi-kern, VOLK-ves-lethi-Z6, LICH-r17-gezichtsrot]
+  regels: [groep-wordt-een, vreemd-wordt-vertrouwd, beeldspraak-letterlijk]
+  keten:
+    - "In de spiegelnacht neemt een Ves-Lethi op verzoek de gedaante aan van een verloren volwassen geliefde; wie te vaak wisselt, verliest zijn eigen gezicht."
+    - "Er is een spiegel die je het gezicht laat zien dat je mist, maar wie te lang kijkt, verliest zichzelf."
+    - "De spiegel van de koningin, Yata no Kagami, de rookspiegel van Tezcatlipoca."
+  herkenning: de spiegel spreekt terug en toont een gezicht dat niet het jouwe is
+  verlies: "in de Tijd der Volken houdt de laatste Ves-Lethi één gezicht; spiegels tonen daarna alleen nog jezelf"
+  boek: "2-3"
+  smaak: {verwondering: 4, horror: 4, erotiek: 3}
+  rij: >-
+    De spiegel die het gezicht van een gemiste geliefde laat zien, was in Velmara een persoon. In de spiegelnacht neemt een Ves-Lethi op verzoek de gedaante aan van een volwassene die iemand verloren heeft (SEKS-VOLK-ves-lethi-kern). Daar staat een prijs tegenover: wie te vaak wisselt, verliest zijn eigen gezicht, tot de huid in lagen van gedaanten afschilfert (LICH-r17-gezichtsrot). De mythe maakt van die persoon een voorwerp dat spreekt. Dat wie te lang in de spiegel kijkt zichzelf verliest, gold eerst voor de Ves-Lethi zelf en pas later voor wie keek.
+
+- cluster: wilde-jacht
+  laag: 7
+  canon: [VOLK-skerra, GESCH-skerra-6, BESLUIT-Z7-KRAAI]
+  regels: [groep-wordt-een, vreemd-wordt-vertrouwd, besluit-wordt-vloek]
+  keten:
+    - "In 801 vliegen Skerra in stormnachten lekmeldingen over de Ysmer, met registerkraaien in hun kielzog; wie ze ziet, weet dat er iemand gezocht wordt."
+    - "In stormnachten jaagt een stoet door de lucht; wie hen ziet, moet mee."
+    - "De Wilde Jacht van Wodan, Herne, de Cŵn Annwn."
+  herkenning: het geraas boven de bomen in een stormnacht, en de kraaien die meevliegen
+  verlies: "als de laatste Skerra niet meer vliegt (fase 10), blijft alleen het geraas van de storm"
+  boek: "1"
+  smaak: {verwondering: 4, horror: 4, erotiek: 0}
+  rij: >-
+    De Wilde Jacht die in stormnachten over de bomen raast, zijn de Skerra in de Barsten. Als koeriers en luchtwacht vliegen zij lekmeldingen en registers in een paar uur over de Ysmer (VOLK-skerra), met registerkraaien in hun kielzog. In 801 is er elke nacht een lek, en dus een vlucht (GESCH-skerra-6). Wie ze zag, wist dat er iemand gezocht werd en dat de Stille Hand zou volgen. Een vlucht met een opdracht van de Orde werd in de mythe een stoet geesten waar je mee moet. Dat Wodan de jacht leidt, komt van de kraaien met de stem van een vrouw die niet van deze tijd is.
+
+- cluster: boomvolk
+  laag: 6
+  canon: [VOLK-myrrhen-Z6, GESCH-myrrhen-1, BESLUIT-Z38-9]
+  regels: [lichaam-wordt-mengwezen, groep-wordt-een, vreemd-wordt-vertrouwd]
+  keten:
+    - "Na de Pest van 470 laten stervenden zich door veenzwam overgroeien; hun nazaten leven traag in veenhallen, delen dromen via het net, en de Orde verbrandt hun bossen."
+    - "In het bos wonen wezens die half boom zijn, traag denken en sterven als hun boom sterft."
+    - "De dryaden, de lesjij, de Groene Man."
+  herkenning: het mos in het haar, de traagheid, het bos dat terugvecht als het in brand staat
+  verlies: "de mensen van de veenhallen gaan op in de dorpen; het net blijft"
+  boek: "3"
+  smaak: {verwondering: 5, horror: 3, erotiek: 1}
+  rij: >-
+    De dryaden en de Groene Man met mos in zijn baard zijn de Myrrhen. Na de Pest van 470 lieten stervenden op de Nevel-eilanden zich door veenzwam overgroeien om niet leeg te vallen (GESCH-myrrhen-1). Hun nazaten leven traag in vochtige veenhallen en delen hun dromen via het net (VOLK-myrrhen-Z6). Als de Orde hun bossen verbrandt, sterven zij met het bos. Daar komt de nimf vandaan die sterft als haar boom sterft. Een afspraak met hen gaat nooit over seks (BESLUIT-Z38-9), en daarom vragen de bosgeesten in de sprookjes altijd een naam of een jaar, nooit een lichaam.
+
+- cluster: ondoden
+  laag: 6
+  canon: [GESCH-myrrhen-1, OORSPRONG-bio-7, VOLK-myrrhen-Z6, BESLUIT-Z12-9]
+  regels: [lichaam-wordt-mengwezen, vreemd-wordt-vertrouwd, besluit-wordt-vloek]
+  keten:
+    - "De veenzwam houdt stervenden in leven; niet elk lichaam wordt een Myrrhen: sommigen lopen verder zonder herinnering, want de zwam neemt geheugen."
+    - "Doden staan op, lopen rond en bewaken iets; alleen vuur helpt."
+    - "De draugr, de jiangshi, de revenant; later de zombie."
+  herkenning: het lichaam vergaat niet, de nagels groeien door, en vuur is het enige wat helpt
+  verlies: "de zwam groeit nog, maar in de Tijd der Mensen begraaft niemand meer in het veen; de draugr wordt een verhaal over grafheuvels"
+  boek: "3"
+  smaak: {verwondering: 3, horror: 5, erotiek: 0}
+  rij: >-
+    De draugr die uit zijn grafheuvel opstaat en een schat bewaakt, is een doodgezwamde. De veenzwam hield stervenden na de Pest in leven (GESCH-myrrhen-1), maar niet iedereen werd een Myrrhen met dromen en een net. Sommigen liepen verder zonder herinnering, want de zwam neemt geheugen of levensjaren (BESLUIT-Z12-9). Ze bleven bij hun graf, hun huis of hun schat, omdat dat het laatste was wat ze nog wisten. De Orde verbrandde hen. Daarom helpt in de mythe alleen vuur tegen de ondode, en daarom vergaat zijn lichaam niet.
+
+- cluster: steen-der-wijzen
+  laag: 3
+  canon: [VOLK-dhurn, BESLUIT-Z42-1, BESLUIT-Z12-9, TECHNO-REGEL-V4-Z42]
+  regels: [vreemd-wordt-vertrouwd, formule-blijft, besluit-wordt-vloek]
+  keten:
+    - "Alleen de Dhurn bewerken Sterrensteen zonder te verbranden; daaruit komen Zegelinkt, merkweefsel en wijdingsgoud; nieuw kristal maken vraagt een hitte die niemand kan opwekken."
+    - "Er is een steen die lood in goud verandert en alles geneest, maar het recept mist altijd één stap."
+    - "De steen der wijzen, het elixer, soma, de cintamani."
+  herkenning: het recept mist precies de hitte die niemand meer kan maken
+  verlies: "na de Laatste Gloed is er niets meer om te bewerken; de alchemisten zoeken naar een stap die er nooit meer zal zijn"
+  boek: "2-3, na 801"
+  smaak: {verwondering: 5, horror: 1, erotiek: 0}
+  rij: >-
+    De steen der wijzen waar de alchemisten eeuwen naar zochten, is Sterrensteen. Alleen de Dhurn konden hem bewerken zonder te verbranden, en ze maakten er Zegelinkt, merkweefsel en wijdingsgoud van (VOLK-dhurn). Wijdingsgoud is het goud uit de steen, en daarvan komt de droom van lood dat goud wordt. Nieuw kristal maken vraagt een vlamboogoven van rond de 2000 graden, en die hitte kon niemand meer opwekken (BESLUIT-Z42-1). Precies die stap mist in elk alchemistisch recept. Het levenselixer is de Myrrhen-zwam: hij geneest, maar neemt herinneringen.
+
+- cluster: hydra
+  laag: 6
+  canon: [OORSPRONG-bio-4, TECHNO-VOLK-oevrin, TECHNO-MIX-V4]
+  regels: [lichaam-wordt-mengwezen, beeldspraak-letterlijk, vondst-wordt-verhaal]
+  keten:
+    - "Hesk van Hal-Neth kweekt weefsel buiten de stallen met Oevrin-heelslijm; wat je ervan afsnijdt, groeit dubbel terug, tot het in vuur wordt dichtgeschroeid."
+    - "Er is een monster in het moeras: voor elke kop die je afhakt, groeien er twee terug."
+    - "De Hydra van Lerna, Yamata-no-Orochi, de zevenkoppige draak."
+  herkenning: het woont in een moeras, en alleen vuur op de wond stopt het
+  verlies: "in de Grote Smelt verdwijnen de kweekpoelen onder zee"
+  boek: "3"
+  smaak: {verwondering: 3, horror: 5, erotiek: 0}
+  rij: >-
+    De Hydra in het moeras van Lerna, die voor elke afgehakte kop twee nieuwe krijgt, is een kweekpoel die uit de hand liep. Hesk van Hal-Neth kweekte weefsel buiten de stallen met de heelslijm van de Oevrin (OORSPRONG-bio-4). Wat je ervan afsneed, groeide dubbel terug, en het hield pas op als je de wond met vuur dichtschroeide. Zo'n poel in de moerassen van de Groenmuil werd een monster met koppen. Herakles die met een fakkel de nekken dichtbrandt, doet precies wat de kweeksters moesten doen. Het moeras zelf verdween in de Grote Smelt onder zee.

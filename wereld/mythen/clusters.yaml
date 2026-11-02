@@ -617,3 +617,149 @@
   en: [tower of babel, babel, ziggurat]
   nl: [toren, naadloos, kristal, dode taal, talen, Orde-kathedraal, hemel]
   voorbeelden: [de toren van Babel (Bijbels), de ziggoerat (Mesopotamisch), Cholula (Azteeks), de boom van de Chin (Afrikaans)]
+
+# ---- Z45: de klassieke fantasy-wezens en -dingen die nog ontbraken ----
+- id: eenhoorn
+  naam: De eenhoorn met de genezende hoorn
+  kern: "een wit dier met één hoorn op het voorhoofd; de hoorn geneest gif en ziekte"
+  thompson: B13
+  herkenning: de hoorn die gif zuivert, het witte dier dat niemand kan vangen
+  laag: 6
+  en: [unicorn, alicorn, qilin, karkadann, shadhavar]
+  nl: [zegelwater, gegroeid, reuzenstier, stal, Sterrensteen, splinter, heelt, superkoeien]
+  voorbeelden: [de eenhoorn (Europees), de qilin (Chinees), de karkadann (Perzisch), de shadhavar (Perzisch), de kirin (Japans)]
+- id: griffioen
+  naam: De griffioen die het goud bewaakt
+  kern: "een groot gevleugeld roofdier bewaakt goud in de bergen en draagt helden door de lucht"
+  thompson: B42
+  herkenning: de klauwen, het goud in de bergen, de vlucht met een ruiter
+  laag: 2
+  en: [griffin, gryphon, simurgh, roc, hippogriff]
+  nl: [kliffvogel, Skerra, klauwen, vleugels, nest, kliffen, bloedriten]
+  voorbeelden: [de griffioen (Grieks, Scythisch), de simurgh (Perzisch), de roc (Arabisch), de lamassu (Assyrisch)]
+- id: feniks
+  naam: De vogel die verbrandt en herboren wordt
+  kern: "een vuurvogel verbrandt aan het einde van zijn leven en staat op uit zijn eigen as"
+  thompson: B32
+  herkenning: het nest van vuur, de as, de herboren vogel
+  laag: 2
+  en: [phoenix, fenghuang, bennu, firebird, zhar-ptitsa]
+  nl: [vuur, verbrandt, Val, herboren, vuurman, ontladen, Skerra]
+  voorbeelden: [de feniks (Grieks), de bennu (Egyptisch), de fenghuang (Chinees), de vuurvogel (Slavisch), de konrul (Turks)]
+- id: kraken
+  naam: Het zeemonster dat schepen naar beneden trekt
+  kern: "een geweldig wezen met armen komt uit de diepte en trekt schepen onder water"
+  thompson: B91
+  herkenning: de armen om de mast, het eiland dat een rug blijkt te zijn
+  laag: 7
+  en: [kraken, sea monster, charybdis, scylla, umibozu, aspidochelone, leviathan]
+  nl: [Leegteworm, vleesmetaal, waanzinnig, kluiskern, maag, verwilderd, diepte]
+  voorbeelden: [de kraken (Noors), Scylla en Charybdis (Grieks), de umibōzu (Japans), het eiland-walvis aspidochelone (middeleeuws), de akkorokamui (Ainu)]
+- id: centaur
+  naam: De ruiter die één is met zijn dier
+  kern: "half mens, half paard; wild, wijs of beide, en altijd van buiten de stad"
+  thompson: B21
+  herkenning: de ruiters van de steppe die nooit afstijgen
+  laag: 4
+  en: [centaur, kinnara, polkan, onocentaur]
+  nl: [Karrûk, hoorn, ruiter, Amberpas, clans, kampioen, lichaam en hoorn]
+  voorbeelden: [de kentauren (Grieks), Polkan (Russisch), de kinnara (Indiaas), Chiron de wijze (Grieks)]
+- id: orks
+  naam: Het volk dat van nature slecht zou zijn
+  kern: "een volk van soldaten, gefokt of gebroken, dat de verhalen alleen als vijand kennen"
+  thompson: G11
+  herkenning: de horde over de pas, de gebroken huid, het volk zonder eigen verhaal
+  laag: 7
+  en: [orc, goblin, ogre, oni, troll, hobgoblin, fomorian]
+  nl: [Karrûk, Kharvos, stoottroep, kookhuid, sterven jong, Amberpas, bloedvetes]
+  voorbeelden: [de oni (Japans), de Fomoriërs (Iers), de orcus (Romeins), de ogre (Frans), de trollen (Scandinavisch)]
+- id: huisgeesten
+  naam: De kleine helpers in huis die 's nachts werken
+  kern: "kleine wezens doen 's nachts het werk in huis en stal in ruil voor melk of honing; beledig ze en ze vertrekken"
+  thompson: F480
+  herkenning: het schaaltje melk of honing, het werk dat 's ochtends klaar is, de kleren die je niet mag geven
+  laag: 6
+  en: [brownie, kobold, domovoi, tomte, nisse, house spirit, zashiki-warashi]
+  nl: [Kluwer, werksters, honingwas, korf, geur, stallen, nacht]
+  voorbeelden: [de brownie (Schots), de kobold (Duits), de domovoj (Slavisch), de tomte (Zweeds), de zashiki-warashi (Japans)]
+- id: tovenaar
+  naam: De oude tovenaar met de staf
+  kern: "een oude man of vrouw kent de woorden van de wereld, draagt een staf en verschijnt als het nodig is"
+  thompson: D1711
+  herkenning: de staf die licht geeft, de woorden in een oude taal, de verdwijning na de daad
+  laag: 9
+  en: [wizard, sorcerer, merlin, magician, shaman, druid, vainamoinen]
+  nl: [staaf, Orric, dode taal, kluis, Stille Zusters, gaven-man, kluisgeneeskunde]
+  voorbeelden: [Merlijn (Brits), Väinämöinen (Fins), de druïden (Keltisch), Taliesin (Welsh), de onmyōji (Japans)]
+- id: donkere-heer
+  naam: De donkere heer die zijn volgelingen bindt
+  kern: "een heerser in het oosten of de diepte bindt volgelingen met bloed of een voorwerp en wil de wereld onder één wil"
+  thompson: G303
+  herkenning: het oog, de toren, de gebonden dienaren die niet meer kunnen kiezen
+  laag: 7
+  en: [dark lord, angra mainyu, ahriman, chernobog, koschei, lord of darkness]
+  nl: [Morvane-ir, bloedverbinding, gebonden, Bloedpaleis, Lisk, binding, trouw]
+  voorbeelden: [Angra Mainyu (Perzisch), Kosjtsjej de Onsterfelijke (Slavisch), Tsjernobog (Slavisch), Set (Egyptisch)]
+- id: bindende-ring
+  naam: De ring die bindt
+  kern: "een ring of band geeft macht maar bindt de drager aan een andere wil, of vermenigvuldigt zich en eist terug"
+  thompson: D1076
+  herkenning: de ring die zich vermenigvuldigt, de vloek op wie hem draagt
+  laag: 6
+  en: [andvaranaut, draupnir, magic ring, ring of gyges, nibelung ring]
+  nl: [binding, gebonden, ontzegging, merk, zegelglas, gelofte, binden]
+  voorbeelden: [Andvaranaut (Noors), Draupnir (Noors), de ring van Gyges (Grieks), de ring van Salomo (Joods, Arabisch)]
+- id: toverspiegel
+  naam: De spiegel die toont wie je mist
+  kern: "een spiegel of waterplas toont de geliefde, de toekomst of de waarheid, en wie te lang kijkt verliest zichzelf"
+  thompson: D1163
+  herkenning: de spiegel die een ander gezicht teruggeeft
+  laag: 9
+  en: [magic mirror, scrying, yata no kagami, mirror of]
+  nl: [Ves-Lethi, spiegelnacht, gedaante, verloren, Lege Spiegel, gezicht]
+  voorbeelden: [de spiegel van de koningin (Duits sprookje), Yata no Kagami (Japans), de spiegel van Tezcatlipoca (Azteeks), de beker van Jamshid (Perzisch)]
+- id: wilde-jacht
+  naam: De wilde jacht door de lucht
+  kern: "in stormnachten jaagt een stoet geesten, ruiters of honden door de lucht; wie hen ziet, moet mee of sterft"
+  thompson: E501
+  herkenning: het geraas in de storm, de jagers in de lucht, de kraaien die meevliegen
+  laag: 7
+  en: [wild hunt, wodan, herne, asgardsreia, furious host]
+  nl: [Skerra, luchtwacht, storm, kraaien, nacht, lekmeldingen, vliegen]
+  voorbeelden: [de Wilde Jacht (Germaans), Odins jacht (Noors), Herne de jager (Engels), de Cŵn Annwn (Welsh)]
+- id: boomvolk
+  naam: Het volk van bomen en mos
+  kern: "wezens die half boom zijn, traag denken en het bos bewaken; nimfen die in een boom wonen en sterven als hij sterft"
+  thompson: F441
+  herkenning: de traagheid, het mos in het haar, het bos dat terugvecht
+  laag: 6
+  en: [dryad, hamadryad, leshy, green man, kodama, tree spirit]
+  nl: [Myrrhen, overgroeien, veenzwam, veenhallen, traag, bossen verbrandt, net]
+  voorbeelden: [de dryaden (Grieks), de lesjij (Slavisch), de Groene Man (Europees), de kodama (Japans), de huldra (Noors)]
+- id: ondoden
+  naam: De doden die blijven lopen
+  kern: "doden staan op uit hun graf, lopen rond en bewaken iets; vuur is het enige wat helpt"
+  thompson: E422
+  herkenning: de groeiende nagels en het haar, het lichaam dat niet vergaat, het vuur
+  laag: 6
+  en: [draugr, zombie, revenant, jiangshi, wight, ghoul, undead]
+  nl: [Myrrhen, zwam, in leven, Pest, Leegte, sporen, overgroeid]
+  voorbeelden: [de draugr (Noors), de jiangshi (Chinees), de revenant (Europees), de ghoul (Arabisch), de zombi (Haïtiaans)]
+- id: steen-der-wijzen
+  naam: De steen der wijzen en het levenselixer
+  kern: "een steen of drank verandert lood in goud, geneest alles en geeft eeuwig leven, maar niemand weet hoe je hem maakt"
+  thompson: D1342
+  herkenning: de zoektocht van alchemisten, het recept dat altijd mist
+  laag: 3
+  en: [philosopher's stone, elixir of life, alchemy, soma, amrita, cintamani]
+  nl: [Sterrensteen, Zegelinkt, wijdingsgoud, kristal, nieuw kristal, Myrrhen-zwam, prijs]
+  voorbeelden: [de steen der wijzen (Europese alchemie), het elixer van Ge Hong (Chinees), soma (Indiaas), de cintamani (boeddhistisch)]
+- id: hydra
+  naam: Het monster dat aangroeit wat je afhakt
+  kern: "voor elke afgehakte kop groeien er twee terug; alleen vuur stopt het"
+  thompson: B15.1
+  herkenning: de koppen die terugkomen, het vuur op de wond
+  laag: 6
+  en: [hydra, lernaean, yamata no orochi, vritra]
+  nl: [heelslijm, vleesmetaal, Oevrin, kweekbaarmoeders, groeit, Leegteworm, weefsel]
+  voorbeelden: [de Hydra van Lerna (Grieks), Yamata-no-Orochi (Japans), Vritra (Indiaas), de zevenkoppige draak (Europese sprookjes)]

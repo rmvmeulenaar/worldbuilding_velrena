@@ -14310,4 +14310,34 @@
 - **bron_handmatig:** 
 - **epistemiek:** voorstel (Z44, jaren uit simulatie tijd/verlies.py)
 <!-- /REC -->
+<!-- REC canon -->
+### GEB-Z45-losbandige-jaren · De Losbandige Jaren (802-810)
+- **code:** GEB-Z45-losbandige-jaren
+- **categorie:** Geschiedenis
+- **onderwerp:** De Losbandige Jaren (802-810)
+- **wat:** Tussen 802 en 810 viert Velmara de ja tot het pijn doet. Vier dingen vallen samen. De ja is nieuw: wie nooit zelf mocht kiezen, wil het elke nacht opnieuw doen (HAAK-B1-2-4). Het Lichtconvent van 806 verklaart geloften ongeldig, en de stallen gaan open (BESLUIT-Z6-WRIJ-077). Duizenden mannen die bezit waren, zijn ineens vrij en gewild. De gaven doven, en iedereen wil de laatste vonk voordat hij weg is (BESLUIT-Z12-2). Zonder Orde is er niemand die de Ontvangst nog regelt. Zo ontstaan feesten die dagen duren, huizen met vijf of zes volwassenen, en een markt voor wie nog vonk heeft. Het is uitbundig en het is niet onschuldig: wie gewend was te nemen, probeert dat nog, en waar dat gebeurt, is het een gelabeld donker thema. Na 810 blijft de vrijheid, en de roes trekt weg.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** BESLUIT-Z12-2;BESLUIT-Z6-WRIJ-077;HAAK-B1-2-4;BESLUIT-7;FASE-z44-ja
+- **verwijst_naar:** BESLUIT-Z12-2;BESLUIT-Z6-WRIJ-077;HAAK-B1-2-4;BESLUIT-7;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Tussen 802 en 810 viert Velmara de ja tot het pijn doet. Vier dingen vallen samen. De ja is nieuw: wie nooit zelf mocht kiezen, wil het elke nacht opnieuw doen (HAAK-B1-2-4). Het Lichtconvent van 806 verklaart geloften ongeldig, en de stallen gaan open (BESLUIT-Z6-WRIJ-077). Duizenden mannen die bezit waren, zijn ineens vrij en gewild. De gaven doven, en iedereen wil de laatste vonk voordat hij weg is (BESLUIT-Z12-2). Zonder Orde is er niemand die de Ontvangst nog regelt. Zo ontstaan feesten die dagen duren, huizen met vijf of zes volwassenen, en een markt voor wie nog vonk heeft. Het is uitbundig en het is niet onschuldig: wie gewend was te nemen, probeert dat nog, en waar dat gebeurt, is het een gelabeld donker thema. Na 810 blijft de vrijheid, en de roes trekt weg.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, gebeurtenis)
+<!-- /REC -->
 

@@ -46080,5 +46080,815 @@
 - **bron_handmatig:** 
 - **epistemiek:** voorstel (mytheplan M3, Z43)
 <!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z45-eenhoorn · De eenhoorn met de genezende hoorn
+- **code:** MYTHE-Z45-eenhoorn
+- **categorie:** Mythe
+- **onderwerp:** De eenhoorn met de genezende hoorn
+- **wat:** Een hoorn die gif zuivert, ontstond in Velmara in de stallen. Een melkos die zegelwater dronk, kreeg soms een enkele uitgroei van Sterrensteen-kristal op het voorhoofd, zoals de reuzenstieren door zegelwater te groot werden (DEG-stalreus). Geslepen tot poeder remde die hoorn koorts, en hij was meer waard dan de hele stal (KOE-markt). Zulke ossen werden zelden oud, want iedereen wilde de hoorn. De mythe maakt er een wit dier van dat niemand kan vangen. Na de Laatste Gloed groeit er geen kristal meer, en eeuwen later verkopen handelaars narwaltanden als eenhoornhoorn.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** DEG-stalreus;KOE-markt;BESLUIT-Z4-sterrensteen
+- **verwijst_naar:** DEG-stalreus;KOE-markt;BESLUIT-Z4-sterrensteen
+- **jaar:** 
+- **tijdperk:** 6 Markt
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een hoorn die gif zuivert, ontstond in Velmara in de stallen. Een melkos die zegelwater dronk, kreeg soms een enkele uitgroei van Sterrensteen-kristal op het voorhoofd, zoals de reuzenstieren door zegelwater te groot werden (DEG-stalreus). Geslepen tot poeder remde die hoorn koorts, en hij was meer waard dan de hele stal (KOE-markt). Zulke ossen werden zelden oud, want iedereen wilde de hoorn. De mythe maakt er een wit dier van dat niemand kan vangen. Na de Laatste Gloed groeit er geen kristal meer, en eeuwen later verkopen handelaars narwaltanden als eenhoornhoorn.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z45)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z45-griffioen · De griffioen die het goud bewaakt
+- **code:** MYTHE-Z45-griffioen
+- **categorie:** Mythe
+- **onderwerp:** De griffioen die het goud bewaakt
+- **wat:** De griffioen die goud in de bergen bewaakt, gaat terug op de kliffvogels uit wier bloed de vonkkoningen de Skerra maakten (VOLK-skerra). Die vogels bleven nestelen boven de mijnen waar de Dhurn de Sterrensteen hakten, en vielen iedereen aan die glinsterend gesteente droeg. Een Skerra-vorstin wordt gekroond op het eerste nest. Daarvan maakte de mythe een dier dat een schat bewaakt. Dat een griffioen een ruiter kan dragen, onthoudt dat de Skerra zelf vlogen. Er is ook een aardse laag: in de Gobi vonden reizigers schedels met snavels in goudrijk gebied, en zo krijgt het oude verhaal een nieuw bewijs.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** VOLK-skerra;D1-skerra-feest;VOLK-dhurn
+- **verwijst_naar:** VOLK-skerra;D1-skerra-feest;VOLK-dhurn
+- **jaar:** 
+- **tijdperk:** 2 Vonk
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De griffioen die goud in de bergen bewaakt, gaat terug op de kliffvogels uit wier bloed de vonkkoningen de Skerra maakten (VOLK-skerra). Die vogels bleven nestelen boven de mijnen waar de Dhurn de Sterrensteen hakten, en vielen iedereen aan die glinsterend gesteente droeg. Een Skerra-vorstin wordt gekroond op het eerste nest. Daarvan maakte de mythe een dier dat een schat bewaakt. Dat een griffioen een ruiter kan dragen, onthoudt dat de Skerra zelf vlogen. Er is ook een aardse laag: in de Gobi vonden reizigers schedels met snavels in goudrijk gebied, en zo krijgt het oude verhaal een nieuw bewijs.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z45)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z45-feniks · De vogel die verbrandt en herboren wordt
+- **code:** MYTHE-Z45-feniks
+- **categorie:** Mythe
+- **onderwerp:** De vogel die verbrandt en herboren wordt
+- **wat:** De feniks die verbrandt en uit zijn as opstaat, komt uit twee dingen die elkaar aan de grens raakten. Het ene zijn de kookkoppen van de Karrûk: vonkdragers die nooit meer kunnen ontladen en die in vuur ontploffen als ze sterven (DEG-kookkoppen). Het andere is de religie van de Skerra, waarin wie valt en zich vangt, herboren wordt. Een vliegend volk en een man die in vuur opgaat, worden bij het doorvertellen één vogel. De zin "wie valt, wordt herboren" bleef letterlijk staan. In de Tijd van de Ja ontploft niemand meer, en vanaf dan is de feniks een teken.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** DEG-kookkoppen;GAVE-Z37-vuur;VOLK-skerra
+- **verwijst_naar:** DEG-kookkoppen;GAVE-Z37-vuur;VOLK-skerra
+- **jaar:** 
+- **tijdperk:** 2 Vonk
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De feniks die verbrandt en uit zijn as opstaat, komt uit twee dingen die elkaar aan de grens raakten. Het ene zijn de kookkoppen van de Karrûk: vonkdragers die nooit meer kunnen ontladen en die in vuur ontploffen als ze sterven (DEG-kookkoppen). Het andere is de religie van de Skerra, waarin wie valt en zich vangt, herboren wordt. Een vliegend volk en een man die in vuur opgaat, worden bij het doorvertellen één vogel. De zin "wie valt, wordt herboren" bleef letterlijk staan. In de Tijd van de Ja ontploft niemand meer, en vanaf dan is de feniks een teken.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z45)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z45-kraken · Het zeemonster dat schepen naar beneden trekt
+- **code:** MYTHE-Z45-kraken
+- **categorie:** Mythe
+- **onderwerp:** Het zeemonster dat schepen naar beneden trekt
+- **wat:** De kraken die schepen naar beneden trekt, is een Leegteworm met een kluiskern in zijn maag. Zo'n worm werd sneller, maar hij leed pijn en werd waanzinnig (TECHNO-MIX-V4). Als zijn navigator stierf, bleef de worm dicht bij de schepen waarmee hij had gevaren, en trok ze in zijn pijn mee de diepte in. De mythe herinnert zich alleen de armen en het water. In de Barsten keren verwilderde wormen terug met iets anders in hun ruim (OORSPRONG-bio-8). Het eiland dat een rug blijkt te zijn, is een worm die aan de oppervlakte sliep.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** TECHNO-MIX-V4;OORSPRONG-bio-8;TECHNO-bio-schip
+- **verwijst_naar:** TECHNO-MIX-V4;OORSPRONG-bio-8;TECHNO-bio-schip
+- **jaar:** 
+- **tijdperk:** 7 Barsten
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De kraken die schepen naar beneden trekt, is een Leegteworm met een kluiskern in zijn maag. Zo'n worm werd sneller, maar hij leed pijn en werd waanzinnig (TECHNO-MIX-V4). Als zijn navigator stierf, bleef de worm dicht bij de schepen waarmee hij had gevaren, en trok ze in zijn pijn mee de diepte in. De mythe herinnert zich alleen de armen en het water. In de Barsten keren verwilderde wormen terug met iets anders in hun ruim (OORSPRONG-bio-8). Het eiland dat een rug blijkt te zijn, is een worm die aan de oppervlakte sliep.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z45)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z45-centaur · De ruiter die één is met zijn dier
+- **code:** MYTHE-Z45-centaur
+- **categorie:** Mythe
+- **onderwerp:** De ruiter die één is met zijn dier
+- **wat:** De kentauren van de Griekse bergen zijn de Karrûk zoals de dalen hen zagen. Het is een volk van clans dat sinds de landing vecht met lichaam en hoorn (PERS-Z4-karruk-0-2), over de Amberpas rijdt en in de strijd niet afstijgt. Voor wie hen van ver zag aankomen, waren ruiter en rijdier één lichaam. Dat de kentauren wild zijn op feesten, komt van de wedstrijden waarin Karrûk-vrouwen hun mannen kiezen. Chiron de wijze is de kampioen die het laatste bevel van Varnath weigerde en zo zijn clans redde (PERS-Z4-karruk-3-1). Het mengwezen is een beeld van de afstand, en het staat niet voor een paring.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** VOLK-karrûk-Z6-Z38;PERS-Z4-karruk-0-2;PERS-Z4-karruk-3-1
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;PERS-Z4-karruk-0-2;PERS-Z4-karruk-3-1
+- **jaar:** 
+- **tijdperk:** 4 Noodtoestand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De kentauren van de Griekse bergen zijn de Karrûk zoals de dalen hen zagen. Het is een volk van clans dat sinds de landing vecht met lichaam en hoorn (PERS-Z4-karruk-0-2), over de Amberpas rijdt en in de strijd niet afstijgt. Voor wie hen van ver zag aankomen, waren ruiter en rijdier één lichaam. Dat de kentauren wild zijn op feesten, komt van de wedstrijden waarin Karrûk-vrouwen hun mannen kiezen. Chiron de wijze is de kampioen die het laatste bevel van Varnath weigerde en zo zijn clans redde (PERS-Z4-karruk-3-1). Het mengwezen is een beeld van de afstand, en het staat niet voor een paring.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z45)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z45-orks · Het volk dat van nature slecht zou zijn
+- **code:** MYTHE-Z45-orks
+- **categorie:** Mythe
+- **onderwerp:** Het volk dat van nature slecht zou zijn
+- **wat:** In elk verhaal komen de soldaten van de vijand over de pas met een gebroken huid en zonder eigen naam. Dat beeld komt van de Karrûk, die Kharvos als stoottroep gebruikt (VOLK-karrûk-Z6-Z38), en van de schaduwhonden die levend in de zegelschaduw werden gelaten tot ze de Zegel als hitte zagen (NAV-schaduwhonden). Hun huid kookt en ze sterven jong. In de mythe is de horde slecht van nature. In 801 wil een deel van de Karrûk overlopen naar Velmara (GESCH-karrûk-6), maar dat hoort niet in het verhaal van de dalen. De schuld van wie hen zo maakte, kwam terecht bij wie zo gemaakt werd.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** VOLK-karrûk-Z6-Z38;GESCH-karrûk-6;NAV-schaduwhonden;STAD-kharvos-hoornburg
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;GESCH-karrûk-6;NAV-schaduwhonden;STAD-kharvos-hoornburg
+- **jaar:** 
+- **tijdperk:** 7 Barsten
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In elk verhaal komen de soldaten van de vijand over de pas met een gebroken huid en zonder eigen naam. Dat beeld komt van de Karrûk, die Kharvos als stoottroep gebruikt (VOLK-karrûk-Z6-Z38), en van de schaduwhonden die levend in de zegelschaduw werden gelaten tot ze de Zegel als hitte zagen (NAV-schaduwhonden). Hun huid kookt en ze sterven jong. In de mythe is de horde slecht van nature. In 801 wil een deel van de Karrûk overlopen naar Velmara (GESCH-karrûk-6), maar dat hoort niet in het verhaal van de dalen. De schuld van wie hen zo maakte, kwam terecht bij wie zo gemaakt werd.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z45)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z45-huisgeesten · De kleine helpers in huis die 's nachts werken
+- **code:** MYTHE-Z45-huisgeesten
+- **categorie:** Mythe
+- **onderwerp:** De kleine helpers in huis die 's nachts werken
+- **wat:** Een schaaltje honing bij de haard voor wie 's nachts het werk doet: in Velmara waren dat Kluwer-werksters. Na de Pest verzorgden zij de stallen en de zieken met honingwas (PERS-Z4-kluwer-6-2-Z5b). Ze werkten op geur, spraken in koor en vroegen geen loon, alleen een plek bij de korf (VOLK-kluwer). Wie hen kleren gaf, beledigde de korf, want een werkster heeft geen eigen ik. Daarom vertrekt in de folklore de brownie die kleren krijgt. Toen de korven in de Tijd der Volken uiteenvielen, bleven de gebruiken van de mensen bestaan: wie nu nog melk zet voor de kabouters, betaalt de Kluwers.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** VOLK-kluwer;PERS-Z4-kluwer-6-2-Z5b;FASE-markt
+- **verwijst_naar:** VOLK-kluwer;PERS-Z4-kluwer-6-2-Z5b;FASE-markt
+- **jaar:** 
+- **tijdperk:** 6 Markt
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een schaaltje honing bij de haard voor wie 's nachts het werk doet: in Velmara waren dat Kluwer-werksters. Na de Pest verzorgden zij de stallen en de zieken met honingwas (PERS-Z4-kluwer-6-2-Z5b). Ze werkten op geur, spraken in koor en vroegen geen loon, alleen een plek bij de korf (VOLK-kluwer). Wie hen kleren gaf, beledigde de korf, want een werkster heeft geen eigen ik. Daarom vertrekt in de folklore de brownie die kleren krijgt. Toen de korven in de Tijd der Volken uiteenvielen, bleven de gebruiken van de mensen bestaan: wie nu nog melk zet voor de kabouters, betaalt de Kluwers.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z45)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z45-tovenaar · De oude tovenaar met de staf
+- **code:** MYTHE-Z45-tovenaar
+- **categorie:** Mythe
+- **onderwerp:** De oude tovenaar met de staf
+- **wat:** De oude tovenaar met zijn staf en zijn woorden in een vergeten taal is wat er van de kluiswachters overbleef. In de Heldentijd kent nog maar een handvol mensen de woorden van de Makers waarmee een kluis opengaat (TAAL-dode-taal). Een paar dragen een staaf die vonken geleidt, zoals Orric er een droeg (MET-D1-vonk). Met een restje gave en de juiste klank laten ze licht uit een staf komen of een deur opengaan. Voor wie het zag, was dat toverkunst. Dat Merlijn verdwijnt nadat het werk gedaan is, klopt ook: de laatste kluiswachters gingen mee met Het Vertrek.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** MET-D1-vonk;RECHT-gavenrecht;TAAL-dode-taal;GENEES-heelsters
+- **verwijst_naar:** MET-D1-vonk;RECHT-gavenrecht;TAAL-dode-taal;GENEES-heelsters
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De oude tovenaar met zijn staf en zijn woorden in een vergeten taal is wat er van de kluiswachters overbleef. In de Heldentijd kent nog maar een handvol mensen de woorden van de Makers waarmee een kluis opengaat (TAAL-dode-taal). Een paar dragen een staaf die vonken geleidt, zoals Orric er een droeg (MET-D1-vonk). Met een restje gave en de juiste klank laten ze licht uit een staf komen of een deur opengaan. Voor wie het zag, was dat toverkunst. Dat Merlijn verdwijnt nadat het werk gedaan is, klopt ook: de laatste kluiswachters gingen mee met Het Vertrek.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z45)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z45-donkere-heer · De donkere heer die zijn volgelingen bindt
+- **code:** MYTHE-Z45-donkere-heer
+- **categorie:** Mythe
+- **onderwerp:** De donkere heer die zijn volgelingen bindt
+- **wat:** De donkere heer die zijn dienaren met bloed bindt, is Morvane-ir, de Bloedvorst van Lisk. Hij bindt krijgsvrouwen met zijn zaad en zijn bloedgave, houdt een harem van gebonden vrouwen (PER-morvane), en in zijn kerk heet zijn bloed sacrament (SEKTE-bloedkerk). Bij hem is dwang een gelabeld donker thema. Dat hij volgelingen hun wil afneemt, is precies wat de wereld na 801 niet meer verdraagt. Daarom werd hij in de mythe de vijand bij uitstek. Na de derde weg werkt zijn binding niet meer, maar de heldensagen laten hem steeds terugkomen. De donkere heer is geen persoon meer, maar het nee dat iemand wil afnemen.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** PER-morvane;RIT-bloedverbinding;SEKTE-bloedkerk;RIT-ontzegging-binding
+- **verwijst_naar:** PER-morvane;RIT-bloedverbinding;SEKTE-bloedkerk;RIT-ontzegging-binding
+- **jaar:** 
+- **tijdperk:** 7 Barsten
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De donkere heer die zijn dienaren met bloed bindt, is Morvane-ir, de Bloedvorst van Lisk. Hij bindt krijgsvrouwen met zijn zaad en zijn bloedgave, houdt een harem van gebonden vrouwen (PER-morvane), en in zijn kerk heet zijn bloed sacrament (SEKTE-bloedkerk). Bij hem is dwang een gelabeld donker thema. Dat hij volgelingen hun wil afneemt, is precies wat de wereld na 801 niet meer verdraagt. Daarom werd hij in de mythe de vijand bij uitstek. Na de derde weg werkt zijn binding niet meer, maar de heldensagen laten hem steeds terugkomen. De donkere heer is geen persoon meer, maar het nee dat iemand wil afnemen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z45)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z45-bindende-ring · De ring die bindt
+- **code:** MYTHE-Z45-bindende-ring
+- **categorie:** Mythe
+- **onderwerp:** De ring die bindt
+- **wat:** De ring die macht geeft maar bindt, komt uit de binding van de gaven-mannen. Wie meer dan drie keer per maand van dezelfde man ontvangt, raakt aan hem gebonden (RIT-ontzegging-binding). Een gebonden vrouw droeg een merk om haar ringvinger, zodat de Orde zag van wie ze was. In de taal van de straat heette dat "de ring", en die uitdrukking werd bij het doorvertellen een echt voorwerp. De rebellen met hun bittere Grijswortel wilden iedereen kunnen ontbinden (REBEL-grijswortel). Na 801 is ontbinden een recht. De gouden ring die je nu bij een huwelijk krijgt, is het omgekeerde: een binding die je zelf kiest.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** RIT-ontzegging-binding;REBEL-grijswortel;PER-morvane
+- **verwijst_naar:** RIT-ontzegging-binding;REBEL-grijswortel;PER-morvane
+- **jaar:** 
+- **tijdperk:** 6 Markt
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De ring die macht geeft maar bindt, komt uit de binding van de gaven-mannen. Wie meer dan drie keer per maand van dezelfde man ontvangt, raakt aan hem gebonden (RIT-ontzegging-binding). Een gebonden vrouw droeg een merk om haar ringvinger, zodat de Orde zag van wie ze was. In de taal van de straat heette dat "de ring", en die uitdrukking werd bij het doorvertellen een echt voorwerp. De rebellen met hun bittere Grijswortel wilden iedereen kunnen ontbinden (REBEL-grijswortel). Na 801 is ontbinden een recht. De gouden ring die je nu bij een huwelijk krijgt, is het omgekeerde: een binding die je zelf kiest.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z45)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z45-toverspiegel · De spiegel die toont wie je mist
+- **code:** MYTHE-Z45-toverspiegel
+- **categorie:** Mythe
+- **onderwerp:** De spiegel die toont wie je mist
+- **wat:** De spiegel die het gezicht van een gemiste geliefde laat zien, was in Velmara een persoon. In de spiegelnacht neemt een Ves-Lethi op verzoek de gedaante aan van een volwassene die iemand verloren heeft (SEKS-VOLK-ves-lethi-kern). Daar staat een prijs tegenover: wie te vaak wisselt, verliest zijn eigen gezicht, tot de huid in lagen van gedaanten afschilfert (LICH-r17-gezichtsrot). De mythe maakt van die persoon een voorwerp dat spreekt. Dat wie te lang in de spiegel kijkt zichzelf verliest, gold eerst voor de Ves-Lethi zelf en pas later voor wie keek.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** SEKS-VOLK-ves-lethi-kern;VOLK-ves-lethi-Z6;LICH-r17-gezichtsrot
+- **verwijst_naar:** SEKS-VOLK-ves-lethi-kern;VOLK-ves-lethi-Z6;LICH-r17-gezichtsrot
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De spiegel die het gezicht van een gemiste geliefde laat zien, was in Velmara een persoon. In de spiegelnacht neemt een Ves-Lethi op verzoek de gedaante aan van een volwassene die iemand verloren heeft (SEKS-VOLK-ves-lethi-kern). Daar staat een prijs tegenover: wie te vaak wisselt, verliest zijn eigen gezicht, tot de huid in lagen van gedaanten afschilfert (LICH-r17-gezichtsrot). De mythe maakt van die persoon een voorwerp dat spreekt. Dat wie te lang in de spiegel kijkt zichzelf verliest, gold eerst voor de Ves-Lethi zelf en pas later voor wie keek.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z45)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z45-wilde-jacht · De wilde jacht door de lucht
+- **code:** MYTHE-Z45-wilde-jacht
+- **categorie:** Mythe
+- **onderwerp:** De wilde jacht door de lucht
+- **wat:** De Wilde Jacht die in stormnachten over de bomen raast, zijn de Skerra in de Barsten. Als koeriers en luchtwacht vliegen zij lekmeldingen en registers in een paar uur over de Ysmer (VOLK-skerra), met registerkraaien in hun kielzog. In 801 is er elke nacht een lek, en dus een vlucht (GESCH-skerra-6). Wie ze zag, wist dat er iemand gezocht werd en dat de Stille Hand zou volgen. Een vlucht met een opdracht van de Orde werd in de mythe een stoet geesten waar je mee moet. Dat Wodan de jacht leidt, komt van de kraaien met de stem van een vrouw die niet van deze tijd is.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** VOLK-skerra;GESCH-skerra-6;BESLUIT-Z7-KRAAI
+- **verwijst_naar:** VOLK-skerra;GESCH-skerra-6;BESLUIT-Z7-KRAAI
+- **jaar:** 
+- **tijdperk:** 7 Barsten
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De Wilde Jacht die in stormnachten over de bomen raast, zijn de Skerra in de Barsten. Als koeriers en luchtwacht vliegen zij lekmeldingen en registers in een paar uur over de Ysmer (VOLK-skerra), met registerkraaien in hun kielzog. In 801 is er elke nacht een lek, en dus een vlucht (GESCH-skerra-6). Wie ze zag, wist dat er iemand gezocht werd en dat de Stille Hand zou volgen. Een vlucht met een opdracht van de Orde werd in de mythe een stoet geesten waar je mee moet. Dat Wodan de jacht leidt, komt van de kraaien met de stem van een vrouw die niet van deze tijd is.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z45)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z45-boomvolk · Het volk van bomen en mos
+- **code:** MYTHE-Z45-boomvolk
+- **categorie:** Mythe
+- **onderwerp:** Het volk van bomen en mos
+- **wat:** De dryaden en de Groene Man met mos in zijn baard zijn de Myrrhen. Na de Pest van 470 lieten stervenden op de Nevel-eilanden zich door veenzwam overgroeien om niet leeg te vallen (GESCH-myrrhen-1). Hun nazaten leven traag in vochtige veenhallen en delen hun dromen via het net (VOLK-myrrhen-Z6). Als de Orde hun bossen verbrandt, sterven zij met het bos. Daar komt de nimf vandaan die sterft als haar boom sterft. Een afspraak met hen gaat nooit over seks (BESLUIT-Z38-9), en daarom vragen de bosgeesten in de sprookjes altijd een naam of een jaar, nooit een lichaam.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** VOLK-myrrhen-Z6;GESCH-myrrhen-1;BESLUIT-Z38-9
+- **verwijst_naar:** VOLK-myrrhen-Z6;GESCH-myrrhen-1;BESLUIT-Z38-9
+- **jaar:** 
+- **tijdperk:** 6 Markt
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De dryaden en de Groene Man met mos in zijn baard zijn de Myrrhen. Na de Pest van 470 lieten stervenden op de Nevel-eilanden zich door veenzwam overgroeien om niet leeg te vallen (GESCH-myrrhen-1). Hun nazaten leven traag in vochtige veenhallen en delen hun dromen via het net (VOLK-myrrhen-Z6). Als de Orde hun bossen verbrandt, sterven zij met het bos. Daar komt de nimf vandaan die sterft als haar boom sterft. Een afspraak met hen gaat nooit over seks (BESLUIT-Z38-9), en daarom vragen de bosgeesten in de sprookjes altijd een naam of een jaar, nooit een lichaam.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z45)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z45-ondoden · De doden die blijven lopen
+- **code:** MYTHE-Z45-ondoden
+- **categorie:** Mythe
+- **onderwerp:** De doden die blijven lopen
+- **wat:** De draugr die uit zijn grafheuvel opstaat en een schat bewaakt, is een doodgezwamde. De veenzwam hield stervenden na de Pest in leven (GESCH-myrrhen-1), maar niet iedereen werd een Myrrhen met dromen en een net. Sommigen liepen verder zonder herinnering, want de zwam neemt geheugen of levensjaren (BESLUIT-Z12-9). Ze bleven bij hun graf, hun huis of hun schat, omdat dat het laatste was wat ze nog wisten. De Orde verbrandde hen. Daarom helpt in de mythe alleen vuur tegen de ondode, en daarom vergaat zijn lichaam niet.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** GESCH-myrrhen-1;OORSPRONG-bio-7;VOLK-myrrhen-Z6;BESLUIT-Z12-9
+- **verwijst_naar:** GESCH-myrrhen-1;OORSPRONG-bio-7;VOLK-myrrhen-Z6;BESLUIT-Z12-9
+- **jaar:** 
+- **tijdperk:** 6 Markt
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De draugr die uit zijn grafheuvel opstaat en een schat bewaakt, is een doodgezwamde. De veenzwam hield stervenden na de Pest in leven (GESCH-myrrhen-1), maar niet iedereen werd een Myrrhen met dromen en een net. Sommigen liepen verder zonder herinnering, want de zwam neemt geheugen of levensjaren (BESLUIT-Z12-9). Ze bleven bij hun graf, hun huis of hun schat, omdat dat het laatste was wat ze nog wisten. De Orde verbrandde hen. Daarom helpt in de mythe alleen vuur tegen de ondode, en daarom vergaat zijn lichaam niet.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z45)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z45-steen-der-wijzen · De steen der wijzen en het levenselixer
+- **code:** MYTHE-Z45-steen-der-wijzen
+- **categorie:** Mythe
+- **onderwerp:** De steen der wijzen en het levenselixer
+- **wat:** De steen der wijzen waar de alchemisten eeuwen naar zochten, is Sterrensteen. Alleen de Dhurn konden hem bewerken zonder te verbranden, en ze maakten er Zegelinkt, merkweefsel en wijdingsgoud van (VOLK-dhurn). Wijdingsgoud is het goud uit de steen, en daarvan komt de droom van lood dat goud wordt. Nieuw kristal maken vraagt een vlamboogoven van rond de 2000 graden, en die hitte kon niemand meer opwekken (BESLUIT-Z42-1). Precies die stap mist in elk alchemistisch recept. Het levenselixer is de Myrrhen-zwam: hij geneest, maar neemt herinneringen.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** VOLK-dhurn;BESLUIT-Z42-1;BESLUIT-Z12-9;TECHNO-REGEL-V4-Z42
+- **verwijst_naar:** VOLK-dhurn;BESLUIT-Z42-1;BESLUIT-Z12-9;TECHNO-REGEL-V4-Z42
+- **jaar:** 
+- **tijdperk:** 3 Brand
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De steen der wijzen waar de alchemisten eeuwen naar zochten, is Sterrensteen. Alleen de Dhurn konden hem bewerken zonder te verbranden, en ze maakten er Zegelinkt, merkweefsel en wijdingsgoud van (VOLK-dhurn). Wijdingsgoud is het goud uit de steen, en daarvan komt de droom van lood dat goud wordt. Nieuw kristal maken vraagt een vlamboogoven van rond de 2000 graden, en die hitte kon niemand meer opwekken (BESLUIT-Z42-1). Precies die stap mist in elk alchemistisch recept. Het levenselixer is de Myrrhen-zwam: hij geneest, maar neemt herinneringen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z45)
+<!-- /REC -->
+<!-- REC canon -->
+### MYTHE-Z45-hydra · Het monster dat aangroeit wat je afhakt
+- **code:** MYTHE-Z45-hydra
+- **categorie:** Mythe
+- **onderwerp:** Het monster dat aangroeit wat je afhakt
+- **wat:** De Hydra in het moeras van Lerna, die voor elke afgehakte kop twee nieuwe krijgt, is een kweekpoel die uit de hand liep. Hesk van Hal-Neth kweekte weefsel buiten de stallen met de heelslijm van de Oevrin (OORSPRONG-bio-4). Wat je ervan afsneed, groeide dubbel terug, en het hield pas op als je de wond met vuur dichtschroeide. Zo'n poel in de moerassen van de Groenmuil werd een monster met koppen. Herakles die met een fakkel de nekken dichtbrandt, doet precies wat de kweeksters moesten doen. Het moeras zelf verdween in de Grote Smelt onder zee.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** OORSPRONG-bio-4;TECHNO-VOLK-oevrin;TECHNO-MIX-V4
+- **verwijst_naar:** OORSPRONG-bio-4;TECHNO-VOLK-oevrin;TECHNO-MIX-V4
+- **jaar:** 
+- **tijdperk:** 6 Markt
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De Hydra in het moeras van Lerna, die voor elke afgehakte kop twee nieuwe krijgt, is een kweekpoel die uit de hand liep. Hesk van Hal-Neth kweekte weefsel buiten de stallen met de heelslijm van de Oevrin (OORSPRONG-bio-4). Wat je ervan afsneed, groeide dubbel terug, en het hield pas op als je de wond met vuur dichtschroeide. Zo'n poel in de moerassen van de Groenmuil werd een monster met koppen. Herakles die met een fakkel de nekken dichtbrandt, doet precies wat de kweeksters moesten doen. Het moeras zelf verdween in de Grote Smelt onder zee.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (mytheplan M3, Z45)
+<!-- /REC -->
+<!-- REC canon -->
+### EROS-Z45-haak-1 · De eerste nacht van de vrije stal
+- **code:** EROS-Z45-haak-1
+- **categorie:** Romantiek
+- **onderwerp:** De eerste nacht van de vrije stal
+- **wat:** Een man die twaalf jaar in een stalhuis heeft gewoond, mag voor het eerst zelf kiezen met wie hij de nacht doorbrengt, en hij weet niet hoe dat moet. Een vrouw die hem vroeger alleen op de lijst zag staan, vraagt het hem, en hij zegt nee, en dan ja, en het nee maakt het ja zwaarder. Alle betrokkenen volwassen; de scène draait om de vraag.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** GEB-Z45-losbandige-jaren;DAG-dag-man;BESLUIT-Z6-WRIJ-077
+- **verwijst_naar:** GEB-Z45-losbandige-jaren;DAG-dag-man;BESLUIT-Z6-WRIJ-077
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een man die twaalf jaar in een stalhuis heeft gewoond, mag voor het eerst zelf kiezen met wie hij de nacht doorbrengt, en hij weet niet hoe dat moet. Een vrouw die hem vroeger alleen op de lijst zag staan, vraagt het hem, en hij zegt nee, en dan ja, en het nee maakt het ja zwaarder. Alle betrokkenen volwassen; de scène draait om de vraag.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, erotische haak)
+<!-- /REC -->
+<!-- REC canon -->
+### EROS-Z45-haak-2 · Het feest van het laatste vuur
+- **code:** EROS-Z45-haak-2
+- **categorie:** Romantiek
+- **onderwerp:** Het feest van het laatste vuur
+- **wat:** In een dorp aan de Zoutkust heeft nog één man een vonk die een kaars aansteekt. Op het oogstfeest wil iedereen hem; hij besluit wie, en zij beslissen of ze dat willen. Een uitbundige, warme nacht met meer volwassenen, en in de ochtend de wetenschap dat dit de laatste keer is.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** GEB-Z45-losbandige-jaren;MAGIE-kracht-duur;KETEN-kruik-ontvangst
+- **verwijst_naar:** GEB-Z45-losbandige-jaren;MAGIE-kracht-duur;KETEN-kruik-ontvangst
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In een dorp aan de Zoutkust heeft nog één man een vonk die een kaars aansteekt. Op het oogstfeest wil iedereen hem; hij besluit wie, en zij beslissen of ze dat willen. Een uitbundige, warme nacht met meer volwassenen, en in de ochtend de wetenschap dat dit de laatste keer is.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, erotische haak)
+<!-- /REC -->
+<!-- REC canon -->
+### EROS-Z45-haak-3 · De laatste spiegelnacht
+- **code:** EROS-Z45-haak-3
+- **categorie:** Romantiek
+- **onderwerp:** De laatste spiegelnacht
+- **wat:** Een weduwe vraagt een Ves-Lethi om één nacht de gedaante van haar overleden man aan te nemen. De Ves-Lethi weet dat ze daarna misschien nooit meer wisselt, want haar lichaam houdt het niet meer vast. Allebei volwassen, allebei kiezend; het is tederheid en rouw in één bed.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** SEKS-VOLK-ves-lethi-kern;MYTHE-Z45-toverspiegel;VOLK-ves-lethi-Z6
+- **verwijst_naar:** SEKS-VOLK-ves-lethi-kern;MYTHE-Z45-toverspiegel;VOLK-ves-lethi-Z6
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een weduwe vraagt een Ves-Lethi om één nacht de gedaante van haar overleden man aan te nemen. De Ves-Lethi weet dat ze daarna misschien nooit meer wisselt, want haar lichaam houdt het niet meer vast. Allebei volwassen, allebei kiezend; het is tederheid en rouw in één bed.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, erotische haak)
+<!-- /REC -->
+<!-- REC canon -->
+### EROS-Z45-haak-4 · Het schip met drie kapiteins
+- **code:** EROS-Z45-haak-4
+- **categorie:** Romantiek
+- **onderwerp:** Het schip met drie kapiteins
+- **wat:** Op een Sael-mor-schip delen drie kapiteinsvrouwen al jaren dezelfde stuurman, en dat gaat goed tot een van hen hem alleen voor zichzelf wil. Jaloezie is voor hen een nieuw gevoel, en ze weten niet of ze het moeten verbieden of vieren. Volwassenen, humor, en een vloot die meekijkt.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** VOLK-sael-mor;RIJK-Z37-saelmor-humor
+- **verwijst_naar:** VOLK-sael-mor;RIJK-Z37-saelmor-humor
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Op een Sael-mor-schip delen drie kapiteinsvrouwen al jaren dezelfde stuurman, en dat gaat goed tot een van hen hem alleen voor zichzelf wil. Jaloezie is voor hen een nieuw gevoel, en ze weten niet of ze het moeten verbieden of vieren. Volwassenen, humor, en een vloot die meekijkt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, erotische haak)
+<!-- /REC -->
+<!-- REC canon -->
+### EROS-Z45-haak-5 · De laatste aanraking
+- **code:** EROS-Z45-haak-5
+- **categorie:** Romantiek
+- **onderwerp:** De laatste aanraking
+- **wat:** Een Aelthir weet dat ze over een jaar de aanraking kwijt is, zoals haar volk na de geur eerst de huid verliest. Ze kiest een mens om dat jaar mee door te brengen, en ze willen allebei alles nog één keer voelen. Volwassenen; zinnelijk, langzaam, met het einde in zicht.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** VOLK-aelthir-V5;D1-aelthir-ziekte;LOT-Z44-aelthir
+- **verwijst_naar:** VOLK-aelthir-V5;D1-aelthir-ziekte;LOT-Z44-aelthir
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een Aelthir weet dat ze over een jaar de aanraking kwijt is, zoals haar volk na de geur eerst de huid verliest. Ze kiest een mens om dat jaar mee door te brengen, en ze willen allebei alles nog één keer voelen. Volwassenen; zinnelijk, langzaam, met het einde in zicht.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, erotische haak)
+<!-- /REC -->
+<!-- REC canon -->
+### EROS-Z45-haak-6 · Drie gezellen, één deken
+- **code:** EROS-Z45-haak-6
+- **categorie:** Romantiek
+- **onderwerp:** Drie gezellen, één deken
+- **wat:** Een mensenvrouw, een Dhurn en een vrouw met Karrûk-bloed zijn op tocht naar de laatste kluis en delen in de bergen één deken. Wat begint als warmte, wordt een vraag die ze elkaar stellen, en een antwoord dat hun tocht verandert. Drie volwassenen, alles met een ja.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** VERHAAL-Z44-tijdperk-11;VOLK-dhurn;VOLK-karrûk-Z6-Z38
+- **verwijst_naar:** VERHAAL-Z44-tijdperk-11;VOLK-dhurn;VOLK-karrûk-Z6-Z38
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een mensenvrouw, een Dhurn en een vrouw met Karrûk-bloed zijn op tocht naar de laatste kluis en delen in de bergen één deken. Wat begint als warmte, wordt een vraag die ze elkaar stellen, en een antwoord dat hun tocht verandert. Drie volwassenen, alles met een ja.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, erotische haak)
+<!-- /REC -->
+<!-- REC canon -->
+### EROS-Z45-haak-7 · De nacht voor de lander
+- **code:** EROS-Z45-haak-7
+- **categorie:** Romantiek
+- **onderwerp:** De nacht voor de lander
+- **wat:** Een mens en de Aelthir die morgen met de lander vertrekt, hebben nog één nacht. Zij komt nooit terug, en voor haar staat de tijd daarna stil. Een erotische afscheidsscène tussen twee volwassenen, waarin de ochtend het grootste gewicht heeft.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** VERHAAL-Z44-tijdperk-12;TECHNO-metaal-schip-Z42
+- **verwijst_naar:** VERHAAL-Z44-tijdperk-12;TECHNO-metaal-schip-Z42
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een mens en de Aelthir die morgen met de lander vertrekt, hebben nog één nacht. Zij komt nooit terug, en voor haar staat de tijd daarna stil. Een erotische afscheidsscène tussen twee volwassenen, waarin de ochtend het grootste gewicht heeft.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, erotische haak)
+<!-- /REC -->
+<!-- REC canon -->
+### EROS-Z45-haak-8 · De kortste nacht
+- **code:** EROS-Z45-haak-8
+- **categorie:** Romantiek
+- **onderwerp:** De kortste nacht
+- **wat:** Bij het vuur van de kortste nacht kiest wie wil een of meer gezellen, zoals het altijd ging. Een jonge vrouw die er voor het eerst bij is, vraagt haar grootmoeder waarom. Die weet het niet meer, alleen dat je eerst vraagt. Volwassenen bij het vuur; een feest waarvan de herkomst vergeten is.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** FASE-z44-mensen;MYTHE-Z43-heilig-huwelijk
+- **verwijst_naar:** FASE-z44-mensen;MYTHE-Z43-heilig-huwelijk
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Bij het vuur van de kortste nacht kiest wie wil een of meer gezellen, zoals het altijd ging. Een jonge vrouw die er voor het eerst bij is, vraagt haar grootmoeder waarom. Die weet het niet meer, alleen dat je eerst vraagt. Volwassenen bij het vuur; een feest waarvan de herkomst vergeten is.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, erotische haak)
+<!-- /REC -->
+<!-- REC canon -->
+### EROS-Z45-haak-9 · Zang in het tij
+- **code:** EROS-Z45-haak-9
+- **categorie:** Romantiek
+- **onderwerp:** Zang in het tij
+- **wat:** Een mensenvrouw en een Oevrin-man houden samen een veer terwijl het water stijgt. Hun liefde kan niet zoals bij mensen, want zijn volk bevrucht buiten het lichaam en paart met zang. Wat ze samen vinden, is een verlangen dat zingt in plaats van aanraakt. Volwassenen; zinnelijk zonder dat het lichaam het werk doet.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** VOLK-oevrin;D1-oevrin-feest;VERHAAL-Z44-tijdperk-14
+- **verwijst_naar:** VOLK-oevrin;D1-oevrin-feest;VERHAAL-Z44-tijdperk-14
+- **jaar:** 
+- **tijdperk:** 14 De Grote Smelt (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een mensenvrouw en een Oevrin-man houden samen een veer terwijl het water stijgt. Hun liefde kan niet zoals bij mensen, want zijn volk bevrucht buiten het lichaam en paart met zang. Wat ze samen vinden, is een verlangen dat zingt in plaats van aanraakt. Volwassenen; zinnelijk zonder dat het lichaam het werk doet.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, erotische haak)
+<!-- /REC -->
+<!-- REC canon -->
+### EROS-Z45-haak-10 · Drie keer vragen
+- **code:** EROS-Z45-haak-10
+- **categorie:** Romantiek
+- **onderwerp:** Drie keer vragen
+- **wat:** Bij een huwelijk aan een nieuwe kust moet de bruidegom drie keer vragen en drie keer wachten, en de bruid mag drie keer weigeren. Een bruid weigert twee keer om hem te plagen en de derde keer echt, en het dorp weet niet wat het met een echt nee moet. Volwassenen; erotiek als spel van wachten.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** FASE-z44-gat;BESLUIT-Z12-2
+- **verwijst_naar:** FASE-z44-gat;BESLUIT-Z12-2
+- **jaar:** 
+- **tijdperk:** 15 Het Zwevende Gat (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Bij een huwelijk aan een nieuwe kust moet de bruidegom drie keer vragen en drie keer wachten, en de bruid mag drie keer weigeren. Een bruid weigert twee keer om hem te plagen en de derde keer echt, en het dorp weet niet wat het met een echt nee moet. Volwassenen; erotiek als spel van wachten.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, erotische haak)
+<!-- /REC -->
+<!-- REC canon -->
+### EROS-Z45-haak-11 · Een vonk in de stad
+- **code:** EROS-Z45-haak-11
+- **categorie:** Romantiek
+- **onderwerp:** Een vonk in de stad
+- **wat:** In een stad van nu ontdekt een man dat zijn aanraking een kaars kan aansteken, en een vrouw die hem ontmoet in een stadspark met een feeënring weet waarom: haar grootmoeder vertelde het. Urban fantasy met een erotische lijn tussen twee volwassenen, die ontdekken wat er van Velmara over is.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** VERHAAL-Z44-tijdperk-16;MYTHE-Z43-feeen;LOT-Z44-myrrhen
+- **verwijst_naar:** VERHAAL-Z44-tijdperk-16;MYTHE-Z43-feeen;LOT-Z44-myrrhen
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In een stad van nu ontdekt een man dat zijn aanraking een kaars kan aansteken, en een vrouw die hem ontmoet in een stadspark met een feeënring weet waarom: haar grootmoeder vertelde het. Urban fantasy met een erotische lijn tussen twee volwassenen, die ontdekken wat er van Velmara over is.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, erotische haak)
+<!-- /REC -->
 
 <!-- SECTIE: WRIJVINGEN -->
