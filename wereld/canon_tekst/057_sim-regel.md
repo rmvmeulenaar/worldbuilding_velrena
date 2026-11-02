@@ -713,5 +713,103 @@
 - **status:** voorlopig
 - **epistemiek:** aanname (motorontwerp Z42, bron WET-deelwet-recht;WET-wie-gewone-man;WET-erfrecht)
 <!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH2-macht · Een noodoplossing kan alleen doorgezet worden door wie minstens een tiende van de macht heeft; anders blijft de crisis onopgelost en komt ze 200 jaar niet terug.
+- **code:** GESCH2-macht
+- **module:** geschiedenis_z43
+- **omschrijving:** Een noodoplossing kan alleen doorgezet worden door wie minstens een tiende van de macht heeft; anders blijft de crisis onopgelost en komt ze 200 jaar niet terug.
+- **parameter:** macht_min
+- **waarde:** 0,10
+- **bron_code:** MACHT-twee-soorten-mannen;REGEL-regeringsvorm-Z12
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z43, bron MACHT-twee-soorten-mannen;REGEL-regeringsvorm-Z12)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH2-rijm · Een fase rijmt: ze deelt minstens één mechanisme met een eerdere fase (ook de fasen tot 801 uit fase_rijm) en verschilt op minstens 3 van 5 assen van de vorige; 3 of 4 assen krijgen voorrang.
+- **code:** GESCH2-rijm
+- **module:** geschiedenis_z43
+- **omschrijving:** Een fase rijmt: ze deelt minstens één mechanisme met een eerdere fase (ook de fasen tot 801 uit fase_rijm) en verschilt op minstens 3 van 5 assen van de vorige; 3 of 4 assen krijgen voorrang.
+- **parameter:** rijm
+- **waarde:** 1 mechanisme, 3 assen
+- **bron_code:** BESLUIT-Z36-4;FASE-noodtoestand-Z38
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z43, bron BESLUIT-Z36-4;FASE-noodtoestand-Z38)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH2-erfenis · Elke fase noemt de jongste eerdere fase of gebeurtenis die raakte aan wat haar crisis voedt; grote eenmalige gebeurtenissen werken 400 jaar door, andere 100.
+- **code:** GESCH2-erfenis
+- **module:** geschiedenis_z43
+- **omschrijving:** Elke fase noemt de jongste eerdere fase of gebeurtenis die raakte aan wat haar crisis voedt; grote eenmalige gebeurtenissen werken 400 jaar door, andere 100.
+- **parameter:** venster
+- **waarde:** 100 of 400 jaar
+- **bron_code:** ORIGIN-Z1-harrow;YSA-Z21-3
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z43, bron ORIGIN-Z1-harrow;YSA-Z21-3)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH2-gevolg · Het gevolg van een fase is het verschil in toestand en macht tussen vlak ervoor en 60 jaar erna.
+- **code:** GESCH2-gevolg
+- **module:** geschiedenis_z43
+- **omschrijving:** Het gevolg van een fase is het verschil in toestand en macht tussen vlak ervoor en 60 jaar erna.
+- **parameter:** gevolg
+- **waarde:** 60 jaar
+- **bron_code:** FASE-markt
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z43, bron FASE-markt)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH2-wetverval · Een wet vervalt door opheffing, door een voorwaarde (de verhouding), of als haar wetgever 60 jaar lang minder dan 6 procent van de macht heeft; na 200 jaar is een wet gewoonte en vervalt ze alleen nog door opheffing; een vervallen wet komt pas na 300 jaar terug.
+- **code:** GESCH2-wetverval
+- **module:** geschiedenis_z43
+- **omschrijving:** Een wet vervalt door opheffing, door een voorwaarde (de verhouding), of als haar wetgever 60 jaar lang minder dan 6 procent van de macht heeft; na 200 jaar is een wet gewoonte en vervalt ze alleen nog door opheffing; een vervallen wet komt pas na 300 jaar terug.
+- **parameter:** wet_verval
+- **waarde:** 0,06; 60 jaar; 200 jaar; 300 jaar
+- **bron_code:** WET-deelwet-recht;WET-wie-gewone-man
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z43, bron WET-deelwet-recht;WET-wie-gewone-man)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH2-elite · Edelen zakken ook weer af (sterfte, armoede, verval): drie procent van het overschot per 20 jaar.
+- **code:** GESCH2-elite
+- **module:** geschiedenis_z43
+- **omschrijving:** Edelen zakken ook weer af (sterfte, armoede, verval): drie procent van het overschot per 20 jaar.
+- **parameter:** afzakken
+- **waarde:** 0,03
+- **bron_code:** FASE-markt
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z43, bron FASE-markt)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH2-steden-kerk · De steden groeien met techniek en handel; de kerk groeit en krimpt met het geloof.
+- **code:** GESCH2-steden-kerk
+- **module:** geschiedenis_z43
+- **omschrijving:** De steden groeien met techniek en handel; de kerk groeit en krimpt met het geloof.
+- **parameter:** groei
+- **waarde:** 0,015 en 0,01
+- **bron_code:** REGEL-regeringsvorm-Z12
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z43, bron REGEL-regeringsvorm-Z12)
+<!-- /REC -->
 
 <!-- SECTIE: GEBEURTENIS_TYPE -->

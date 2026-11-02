@@ -887,5 +887,11 @@
 - **datum:** 2026-11-02
 - **wat:** Ronde Z42: geschiedenismotor na 801 (z42/geschiedenis.py). 17 motorregels (sim_regel GESCH-*), 19 gebeurtenissoorten (gesch_*), 1000 runs (Z42-GESCH-0001..1000), zes gekozen runs met alle details (fasen, gebeurtenissen, wetten, huizen, rustige tijden, toestand per eeuw, verhaal van 801, wezens), zes open keuzes (KEUZE-Z42-*). Alles simulatie of aanname; niets in de canon gezet. Uitleg: z42/LEESMIJ.md.
 <!-- /REC -->
+<!-- REC logboek -->
+### 149 · 2026-11-02
+- **id:** 149
+- **datum:** 2026-11-02
+- **wat:** Ronde Z43: de geschiedenis verklaart zichzelf (z43/geschiedenis.py, na review 1 van Z42). Nieuwe tabellen sim_fase, sim_wet, sim_huis (migratie 010) met views v_sim_keten, v_sim_wetboek, v_sim_stamboom en regels R-sim_oorzaak, R-sim_rijm, R-sim_wetgever, R-sim_huis. 7 motorregels GESCH2-*, 1000 runs Z43-GESCH-0001..1000 (dezelfde seeds als Z42), zes gekozen runs met alle details, vier open keuzes KEUZE-Z43-*. Alles simulatie of aanname; niets in de canon gezet.
+<!-- /REC -->
 
 <!-- SECTIE: ANKER -->

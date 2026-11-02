@@ -260,5 +260,14 @@
 - **bron_code:** GESCH-wezens
 - **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-wezens)
 <!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_onopgelost · Een crisis waarvoor niemand met genoeg macht een oplossing heeft die rijmt.
+- **code:** gesch_onopgelost
+- **module:** geschiedenis_z43
+- **omschrijving:** Een crisis waarvoor niemand met genoeg macht een oplossing heeft die rijmt.
+- **invariant:** komt 200 jaar niet terug
+- **bron_code:** GESCH2-macht
+- **epistemiek:** aanname (moduleontwerp Z43, bron GESCH2-macht)
+<!-- /REC -->
 
 <!-- SECTIE: SIM_RUN -->

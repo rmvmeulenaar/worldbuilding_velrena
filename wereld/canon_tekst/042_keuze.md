@@ -1611,5 +1611,57 @@
 - **bron:** r_Z42.py
 - **citaat:** Review 1 (2026-11-02): groeiende Orrim-steen is nog geen groeiende lading; de bodem is als canonafleiding niet bewezen.
 <!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z43-macht · Alleen wie macht heeft, kan een crisis oplossen
+- **code:** KEUZE-Z43-macht
+- **soort:** wereld
+- **onderwerp:** Alleen wie macht heeft, kan een crisis oplossen
+- **aanbeveling:** Bevestig dat een crisis onopgelost blijft als niemand met genoeg macht een passende oplossing heeft. Dat levert gemiddeld 7 crises per geschiedenis op waarin niemand kan ingrijpen: verhalen over machteloosheid.
+- **raakt:** GESCH2-macht
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z43.py
+- **citaat:** Review 1 (2026-11-02): waarom kan een artsengilde een wet uitvaardigen? Welke regering erkent die bevoegdheid?
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z43-rijm · Rijm is continuïteit én verandering
+- **code:** KEUZE-Z43-rijm
+- **soort:** wereld
+- **onderwerp:** Rijm is continuïteit én verandering
+- **aanbeveling:** Bevestig dat een fase een mechanisme deelt met een eerdere fase en op minstens 3 van 5 assen verschilt. Overweeg dezelfde eis voor fase_rijm tot 801 (R-rijm_assen kent nu alleen de verandering).
+- **raakt:** GESCH2-rijm;FASE-noodtoestand-Z38
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z43.py
+- **citaat:** Review 1 (2026-11-02): vijf van vijf assen anders is geen rijm maar een andere gebeurtenis.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z43-standen · Edelen zakken af, steden groeien met handel, de kerk met het geloof
+- **code:** KEUZE-Z43-standen
+- **soort:** wereld
+- **onderwerp:** Edelen zakken af, steden groeien met handel, de kerk met het geloof
+- **aanbeveling:** Bevestig deze drie aannames; zonder ze sluit de wereld zich eindeloos af en worden steden nooit sterk.
+- **raakt:** GESCH2-elite;GESCH2-steden-kerk
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z43.py
+- **citaat:** Gevonden bij het bouwen van Z43: zonder afzakken groeide het aantal edelen onbegrensd.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z43-referentie · Welke motor is de maat: Z42 of Z43?
+- **code:** KEUZE-Z43-referentie
+- **soort:** verhaal
+- **onderwerp:** Welke motor is de maat: Z42 of Z43?
+- **aanbeveling:** Gebruik Z43 als maat; Z42 blijft staan als eerste versie om tegen te vergelijken (dezelfde seeds).
+- **raakt:** GESCH2-rijm;GESCH2-macht
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z43.py
+- **citaat:** Rogier (2026-11-02): eerst de geschiedenis zichzelf laten verklaren, daarna de technologieboom.
+<!-- /REC -->
 
 <!-- SECTIE: VERHAAL_AS -->

@@ -428,5 +428,49 @@
 - **status:** actief
 - **niveau:** fout
 <!-- /REC -->
+<!-- REC regel -->
+### R-sim_oorzaak · Elke gesimuleerde fase heeft een oorzaak, een erfenis, een gevolg en een beslisser met minstens een tiende van de macht.
+- **code:** R-sim_oorzaak
+- **domein:** simulatie
+- **omschrijving:** Elke gesimuleerde fase heeft een oorzaak, een erfenis, een gevolg en een beslisser met minstens een tiende van de macht.
+- **sql_test:** select run_id||':'||van,'fase zonder oorzaak, erfenis, gevolg of macht' from sim_fase where oorzaak is null or erft_van is null or gevolg is null or actor_macht is null or actor_macht<0.10
+- **bron:** r_Z43.py (review 1 van Z42)
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-sim_rijm · Elke gesimuleerde fase deelt een mechanisme met een eerdere fase en verschilt op minstens 3 van 5 assen van de vorige.
+- **code:** R-sim_rijm
+- **domein:** simulatie
+- **omschrijving:** Elke gesimuleerde fase deelt een mechanisme met een eerdere fase en verschilt op minstens 3 van 5 assen van de vorige.
+- **sql_test:** select run_id||':'||van,'fase rijmt niet: '||coalesce(assen_anders,'?')||' assen anders, gedeeld mechanisme '||coalesce(gedeeld_mechanisme,'geen') from sim_fase where coalesce(assen_anders,0)<3 or gedeeld_mechanisme is null
+- **bron:** r_Z43.py (review 1 van Z42)
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-sim_wetgever · Elke gesimuleerde wet heeft een wetgever met minstens een tiende van de macht, een rechtsgebied en een handhaver; een vervallen wet zegt waardoor.
+- **code:** R-sim_wetgever
+- **domein:** simulatie
+- **omschrijving:** Elke gesimuleerde wet heeft een wetgever met minstens een tiende van de macht, een rechtsgebied en een handhaver; een vervallen wet zegt waardoor.
+- **sql_test:** select run_id||':'||wet||':'||van,'wet zonder wetgever met macht, rechtsgebied, handhaver of reden van verval' from sim_wet where wetgever is null or rechtsgebied is null or handhaver is null or coalesce(wetgever_macht,0)<0.10 or (tot is not null and vervalt_door is null)
+- **bron:** r_Z43.py (review 1 van Z42)
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-sim_huis · Elk gesimuleerd huis na 801 heeft een ouderhuis; elk huis dat heerst heeft een aanspraak.
+- **code:** R-sim_huis
+- **domein:** simulatie
+- **omschrijving:** Elk gesimuleerd huis na 801 heeft een ouderhuis; elk huis dat heerst heeft een aanspraak.
+- **sql_test:** select run_id||':'||huis||':'||coalesce(gezag_van,''),'huis zonder ouder of aanspraak' from sim_huis where (ouder is null and ontstaan>801) or (gezag_van is not null and aanspraak is null)
+- **bron:** r_Z43.py (review 1 van Z42)
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
 
 <!-- SECTIE: BOOG -->

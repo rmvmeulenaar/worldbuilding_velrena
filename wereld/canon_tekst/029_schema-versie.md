@@ -53,5 +53,11 @@
 - **naam:** z39_simulatie
 - **toegepast:** 2026-11-01
 <!-- /REC -->
+<!-- REC schema_versie -->
+### None · z43_keten
+- **versie:** 10
+- **naam:** z43_keten
+- **toegepast:** 2026-11-02
+<!-- /REC -->
 
 <!-- SECTIE: WIJZIGING -->

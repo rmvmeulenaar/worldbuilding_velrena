@@ -31533,5 +31533,16005 @@
 - **bron:** r_Z42.py
 - **epistemiek:** simulatie (Z42-GESCH-1000, seed 421000)
 <!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0001
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420001
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 176
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.204, "magie_eind": 0.204, "golven": 12, "assen": {"5": 3, "4": 4, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 2820, "macht_eind": {"staat": 0.282, "huizen": 0.052, "kerk": 0.004, "steden": 0.298, "dragers": 0.112, "buren": 0.229, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.173, "buren_honger": 1.13, "ev": 1.074, "aelthir": 0.339, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 1
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0001, seed 420001)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0002
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420002
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 171
+- **scores:** {"fasen": 14, "onopgelost": 6, "magie_min": 0.26, "magie_eind": 0.26, "golven": 6, "assen": {"5": 5, "4": 7, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2380, "macht_eind": {"staat": 0.281, "huizen": 0.057, "kerk": 0.005, "steden": 0.269, "dragers": 0.195, "buren": 0.146, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.158, "buren_honger": 0.939, "ev": 0.998, "aelthir": 0.682, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 1
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0002, seed 420002)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0003
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420003
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 187
+- **scores:** {"fasen": 12, "onopgelost": 12, "magie_min": 0.337, "magie_eind": 0.524, "golven": 11, "assen": {"5": 4, "3": 5, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 260, "macht_eind": {"staat": 0.252, "huizen": 0.05, "kerk": 0.004, "steden": 0.115, "dragers": 0.249, "buren": 0.29, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.203, "buren_honger": 1.42, "ev": 1.101, "aelthir": 0.256, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 1
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0003, seed 420003)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0004
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420004
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.304, "magie_eind": 0.304, "golven": 7, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1000, "macht_eind": {"staat": 0.335, "huizen": 0.06, "kerk": 0.005, "steden": 0.185, "dragers": 0.111, "buren": 0.281, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.179, "buren_honger": 0.998, "ev": 0.888, "aelthir": 0.784, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0004, seed 420004)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0005
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420005
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 184
+- **scores:** {"fasen": 15, "onopgelost": 10, "magie_min": 0.299, "magie_eind": 0.341, "golven": 11, "assen": {"5": 3, "4": 7, "3": 5}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 4, "wetten": 17, "rustige_jaren": 1840, "macht_eind": {"staat": 0.243, "huizen": 0.047, "kerk": 0.004, "steden": 0.19, "dragers": 0.263, "buren": 0.214, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.132, "buren_honger": 1.284, "ev": 1.27, "aelthir": 0.478, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 1
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0005, seed 420005)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0006
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420006
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 11, "magie_min": 0.34, "magie_eind": 0.34, "golven": 14, "assen": {"5": 2, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 1600, "macht_eind": {"staat": 0.297, "huizen": 0.053, "kerk": 0.005, "steden": 0.146, "dragers": 0.211, "buren": 0.268, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.148, "buren_honger": 1.202, "ev": 1.189, "aelthir": 0.684, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0006, seed 420006)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0007
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420007
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.269, "magie_eind": 0.269, "golven": 12, "assen": {"5": 3, "4": 5, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 14, "rustige_jaren": 2940, "macht_eind": {"staat": 0.346, "huizen": 0.066, "kerk": 0.006, "steden": 0.295, "dragers": 0.141, "buren": 0.119, "orrim": 0.009, "volk": 0.018}, "parameters": {"groei": 0.21, "buren_honger": 0.693, "ev": 0.903, "aelthir": 0.229, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0007, seed 420007)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0008
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420008
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 153
+- **scores:** {"fasen": 10, "onopgelost": 4, "magie_min": 0.318, "magie_eind": 0.503, "golven": 8, "assen": {"5": 3, "4": 6, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 2600, "macht_eind": {"staat": 0.318, "huizen": 0.057, "kerk": 0.005, "steden": 0.164, "dragers": 0.123, "buren": 0.311, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.16, "buren_honger": 1.117, "ev": 0.776, "aelthir": 0.38, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 1
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0008, seed 420008)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0009
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420009
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 5, "magie_min": 0.318, "magie_eind": 0.318, "golven": 7, "assen": {"5": 3, "4": 4, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 2760, "macht_eind": {"staat": 0.35, "huizen": 0.069, "kerk": 0.006, "steden": 0.221, "dragers": 0.246, "buren": 0.079, "orrim": 0.01, "volk": 0.019}, "parameters": {"groei": 0.149, "buren_honger": 0.547, "ev": 1.036, "aelthir": 0.432, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0009, seed 420009)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0010
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420010
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.33, "magie_eind": 0.33, "golven": 8, "assen": {"5": 5, "4": 3, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 1720, "macht_eind": {"staat": 0.322, "huizen": 0.059, "kerk": 0.005, "steden": 0.169, "dragers": 0.219, "buren": 0.202, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.183, "buren_honger": 0.926, "ev": 0.725, "aelthir": 0.66, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0010, seed 420010)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0011
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420011
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 10, "magie_min": 0.34, "magie_eind": 0.417, "golven": 11, "assen": {"5": 3, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 15, "rustige_jaren": 620, "macht_eind": {"staat": 0.304, "huizen": 0.11, "kerk": 0.005, "steden": 0.136, "dragers": 0.255, "buren": 0.138, "orrim": 0.034, "volk": 0.017}, "parameters": {"groei": 0.161, "buren_honger": 0.778, "ev": 1.291, "aelthir": 0.348, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0011, seed 420011)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0012
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420012
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.331, "magie_eind": 0.493, "golven": 12, "assen": {"5": 5, "4": 4, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 4, "wetten": 16, "rustige_jaren": 2540, "macht_eind": {"staat": 0.225, "huizen": 0.044, "kerk": 0.004, "steden": 0.16, "dragers": 0.282, "buren": 0.25, "orrim": 0.025, "volk": 0.011}, "parameters": {"groei": 0.162, "buren_honger": 1.391, "ev": 1.174, "aelthir": 0.597, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0012, seed 420012)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0013
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420013
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 180
+- **scores:** {"fasen": 9, "onopgelost": 8, "magie_min": 0.328, "magie_eind": 0.368, "golven": 13, "assen": {"5": 2, "4": 3, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 2080, "macht_eind": {"staat": 0.313, "huizen": 0.058, "kerk": 0.005, "steden": 0.179, "dragers": 0.274, "buren": 0.121, "orrim": 0.033, "volk": 0.016}, "parameters": {"groei": 0.123, "buren_honger": 0.705, "ev": 1.097, "aelthir": 0.44, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 1
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0013, seed 420013)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0014
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420014
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 19, "magie_min": 0.351, "magie_eind": 0.374, "golven": 16, "assen": {"5": 3, "3": 3, "4": 7}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 4, "wetten": 17, "rustige_jaren": 460, "macht_eind": {"staat": 0.219, "huizen": 0.06, "kerk": 0.036, "steden": 0.092, "dragers": 0.412, "buren": 0.145, "orrim": 0.024, "volk": 0.012}, "parameters": {"groei": 0.201, "buren_honger": 1.108, "ev": 1.164, "aelthir": 0.376, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0014, seed 420014)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0015
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420015
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 11, "magie_min": 0.34, "magie_eind": 0.381, "golven": 17, "assen": {"5": 3, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 660, "macht_eind": {"staat": 0.286, "huizen": 0.078, "kerk": 0.005, "steden": 0.139, "dragers": 0.241, "buren": 0.205, "orrim": 0.031, "volk": 0.016}, "parameters": {"groei": 0.212, "buren_honger": 0.842, "ev": 0.996, "aelthir": 0.747, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0015, seed 420015)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0016
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420016
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.33, "magie_eind": 0.33, "golven": 10, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 1800, "macht_eind": {"staat": 0.291, "huizen": 0.082, "kerk": 0.005, "steden": 0.182, "dragers": 0.213, "buren": 0.181, "orrim": 0.033, "volk": 0.013}, "parameters": {"groei": 0.165, "buren_honger": 1.044, "ev": 0.784, "aelthir": 0.628, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0016, seed 420016)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0017
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420017
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 11, "magie_min": 0.31, "magie_eind": 0.411, "golven": 12, "assen": {"5": 4, "4": 7, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 1080, "macht_eind": {"staat": 0.239, "huizen": 0.05, "kerk": 0.004, "steden": 0.176, "dragers": 0.223, "buren": 0.288, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.188, "buren_honger": 1.467, "ev": 1.155, "aelthir": 0.479, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0017, seed 420017)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0018
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420018
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 7, "magie_min": 0.342, "magie_eind": 0.345, "golven": 13, "assen": {"5": 5, "4": 6, "3": 2}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2700, "macht_eind": {"staat": 0.245, "huizen": 0.067, "kerk": 0.004, "steden": 0.159, "dragers": 0.207, "buren": 0.277, "orrim": 0.027, "volk": 0.015}, "parameters": {"groei": 0.213, "buren_honger": 1.425, "ev": 1.109, "aelthir": 0.572, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0018, seed 420018)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0019
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420019
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 9, "magie_min": 0.353, "magie_eind": 0.435, "golven": 15, "assen": {"5": 3, "3": 1, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 14, "rustige_jaren": 1700, "macht_eind": {"staat": 0.243, "huizen": 0.088, "kerk": 0.017, "steden": 0.097, "dragers": 0.297, "buren": 0.218, "orrim": 0.027, "volk": 0.013}, "parameters": {"groei": 0.217, "buren_honger": 1.198, "ev": 0.956, "aelthir": 0.715, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0019, seed 420019)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0020
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420020
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.344, "magie_eind": 0.493, "golven": 9, "assen": {"5": 5, "4": 5, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1800, "macht_eind": {"staat": 0.325, "huizen": 0.068, "kerk": 0.006, "steden": 0.162, "dragers": 0.329, "buren": 0.054, "orrim": 0.039, "volk": 0.018}, "parameters": {"groei": 0.205, "buren_honger": 0.521, "ev": 0.848, "aelthir": 0.426, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0020, seed 420020)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0021
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420021
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 5, "magie_min": 0.217, "magie_eind": 0.222, "golven": 9, "assen": {"5": 3, "4": 9, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2500, "macht_eind": {"staat": 0.223, "huizen": 0.049, "kerk": 0.004, "steden": 0.275, "dragers": 0.153, "buren": 0.256, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.16, "buren_honger": 1.401, "ev": 0.829, "aelthir": 0.734, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0021, seed 420021)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0022
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420022
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.27, "magie_eind": 0.27, "golven": 9, "assen": {"5": 3, "4": 5, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2560, "macht_eind": {"staat": 0.315, "huizen": 0.063, "kerk": 0.005, "steden": 0.277, "dragers": 0.163, "buren": 0.124, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.173, "buren_honger": 0.718, "ev": 1.052, "aelthir": 0.607, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0022, seed 420022)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0023
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420023
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 5, "magie_min": 0.283, "magie_eind": 0.283, "golven": 6, "assen": {"5": 7, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2720, "macht_eind": {"staat": 0.263, "huizen": 0.103, "kerk": 0.005, "steden": 0.29, "dragers": 0.119, "buren": 0.197, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.158, "buren_honger": 1.111, "ev": 0.761, "aelthir": 0.328, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0023, seed 420023)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0024
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420024
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.341, "magie_eind": 0.397, "golven": 11, "assen": {"5": 3, "4": 5, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1940, "macht_eind": {"staat": 0.281, "huizen": 0.053, "kerk": 0.005, "steden": 0.125, "dragers": 0.265, "buren": 0.229, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.183, "buren_honger": 1.12, "ev": 1.155, "aelthir": 0.707, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0024, seed 420024)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0025
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420025
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.348, "magie_eind": 0.348, "golven": 10, "assen": {"5": 3, "4": 6, "3": 1}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 1900, "macht_eind": {"staat": 0.26, "huizen": 0.071, "kerk": 0.004, "steden": 0.122, "dragers": 0.19, "buren": 0.333, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.199, "buren_honger": 1.48, "ev": 0.968, "aelthir": 0.278, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0025, seed 420025)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0026
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420026
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 8, "magie_min": 0.268, "magie_eind": 0.268, "golven": 15, "assen": {"5": 5, "3": 2, "4": 6}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 4, "wetten": 16, "rustige_jaren": 2260, "macht_eind": {"staat": 0.246, "huizen": 0.049, "kerk": 0.004, "steden": 0.22, "dragers": 0.312, "buren": 0.129, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.122, "buren_honger": 0.836, "ev": 0.792, "aelthir": 0.65, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0026, seed 420026)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0027
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420027
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 10, "magie_min": 0.345, "magie_eind": 0.39, "golven": 14, "assen": {"5": 4, "4": 2, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 940, "macht_eind": {"staat": 0.259, "huizen": 0.048, "kerk": 0.004, "steden": 0.123, "dragers": 0.224, "buren": 0.302, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.171, "buren_honger": 1.415, "ev": 0.981, "aelthir": 0.669, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0027, seed 420027)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0028
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420028
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 4, "magie_min": 0.193, "magie_eind": 0.193, "golven": 10, "assen": {"5": 3, "4": 4, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2960, "macht_eind": {"staat": 0.306, "huizen": 0.057, "kerk": 0.005, "steden": 0.333, "dragers": 0.097, "buren": 0.179, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.166, "buren_honger": 0.916, "ev": 0.864, "aelthir": 0.231, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0028, seed 420028)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0029
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420029
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 6
+- **scores:** {"fasen": 6, "onopgelost": 7, "magie_min": 0.35, "magie_eind": 0.37, "golven": 12, "assen": {"5": 3, "4": 2, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 2300, "macht_eind": {"staat": 0.267, "huizen": 0.049, "kerk": 0.004, "steden": 0.126, "dragers": 0.224, "buren": 0.311, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.175, "buren_honger": 1.415, "ev": 0.816, "aelthir": 0.454, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0029, seed 420029)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0030
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420030
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.341, "magie_eind": 0.393, "golven": 15, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1820, "macht_eind": {"staat": 0.346, "huizen": 0.062, "kerk": 0.005, "steden": 0.171, "dragers": 0.274, "buren": 0.118, "orrim": 0.009, "volk": 0.014}, "parameters": {"groei": 0.182, "buren_honger": 0.676, "ev": 0.861, "aelthir": 0.682, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0030, seed 420030)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0031
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420031
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 10, "magie_min": 0.338, "magie_eind": 0.338, "golven": 15, "assen": {"5": 3, "3": 3, "4": 3}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 1180, "macht_eind": {"staat": 0.297, "huizen": 0.054, "kerk": 0.005, "steden": 0.138, "dragers": 0.347, "buren": 0.114, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.173, "buren_honger": 0.565, "ev": 1.295, "aelthir": 0.206, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0031, seed 420031)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0032
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420032
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.347, "magie_eind": 0.684, "golven": 10, "assen": {"5": 3, "3": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 980, "macht_eind": {"staat": 0.26, "huizen": 0.072, "kerk": 0.004, "steden": 0.116, "dragers": 0.208, "buren": 0.299, "orrim": 0.029, "volk": 0.012}, "parameters": {"groei": 0.201, "buren_honger": 1.494, "ev": 0.874, "aelthir": 0.221, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0032, seed 420032)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0033
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420033
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 13, "magie_min": 0.334, "magie_eind": 0.334, "golven": 7, "assen": {"5": 6, "3": 3, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 1200, "macht_eind": {"staat": 0.232, "huizen": 0.053, "kerk": 0.005, "steden": 0.16, "dragers": 0.198, "buren": 0.308, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.193, "buren_honger": 1.492, "ev": 0.808, "aelthir": 0.352, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0033, seed 420033)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0034
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420034
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.306, "magie_eind": 0.306, "golven": 7, "assen": {"5": 3, "4": 5, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1740, "macht_eind": {"staat": 0.295, "huizen": 0.056, "kerk": 0.005, "steden": 0.164, "dragers": 0.16, "buren": 0.275, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.186, "buren_honger": 1.175, "ev": 0.76, "aelthir": 0.719, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0034, seed 420034)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0035
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420035
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 14, "magie_min": 0.343, "magie_eind": 0.349, "golven": 10, "assen": {"5": 5, "4": 7, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 1380, "macht_eind": {"staat": 0.228, "huizen": 0.067, "kerk": 0.004, "steden": 0.126, "dragers": 0.268, "buren": 0.268, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.148, "buren_honger": 1.466, "ev": 1.16, "aelthir": 0.658, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0035, seed 420035)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0036
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420036
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 8, "magie_min": 0.347, "magie_eind": 0.483, "golven": 12, "assen": {"5": 3, "4": 3, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 14, "rustige_jaren": 1520, "macht_eind": {"staat": 0.327, "huizen": 0.109, "kerk": 0.005, "steden": 0.128, "dragers": 0.234, "buren": 0.174, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.21, "buren_honger": 0.854, "ev": 0.86, "aelthir": 0.53, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0036, seed 420036)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0037
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420037
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 14, "magie_min": 0.327, "magie_eind": 0.353, "golven": 11, "assen": {"5": 2, "4": 5, "3": 7}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 4, "wetten": 17, "rustige_jaren": 660, "macht_eind": {"staat": 0.219, "huizen": 0.07, "kerk": 0.004, "steden": 0.143, "dragers": 0.251, "buren": 0.274, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.132, "buren_honger": 1.47, "ev": 1.235, "aelthir": 0.399, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0037, seed 420037)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0038
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420038
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 8, "magie_min": 0.33, "magie_eind": 0.343, "golven": 12, "assen": {"5": 5, "3": 4, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 3, "wetten": 17, "rustige_jaren": 1440, "macht_eind": {"staat": 0.22, "huizen": 0.05, "kerk": 0.004, "steden": 0.152, "dragers": 0.266, "buren": 0.266, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.208, "buren_honger": 1.419, "ev": 0.799, "aelthir": 0.477, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0038, seed 420038)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0039
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420039
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 4, "magie_min": 0.155, "magie_eind": 0.155, "golven": 16, "assen": {"5": 4, "4": 6, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2400, "macht_eind": {"staat": 0.266, "huizen": 0.051, "kerk": 0.004, "steden": 0.325, "dragers": 0.139, "buren": 0.197, "orrim": 0.007, "volk": 0.011}, "parameters": {"groei": 0.15, "buren_honger": 1.036, "ev": 1.232, "aelthir": 0.43, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0039, seed 420039)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0040
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420040
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 7, "magie_min": 0.21, "magie_eind": 0.21, "golven": 9, "assen": {"5": 4, "4": 7, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 2540, "macht_eind": {"staat": 0.264, "huizen": 0.051, "kerk": 0.004, "steden": 0.282, "dragers": 0.176, "buren": 0.2, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.174, "buren_honger": 1.172, "ev": 0.749, "aelthir": 0.7, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0040, seed 420040)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0041
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420041
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 15, "magie_min": 0.336, "magie_eind": 0.336, "golven": 12, "assen": {"5": 6, "4": 2, "3": 5}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 1340, "macht_eind": {"staat": 0.265, "huizen": 0.082, "kerk": 0.005, "steden": 0.13, "dragers": 0.345, "buren": 0.126, "orrim": 0.033, "volk": 0.014}, "parameters": {"groei": 0.133, "buren_honger": 0.852, "ev": 1.132, "aelthir": 0.558, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0041, seed 420041)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0042
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420042
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.18, "magie_eind": 0.18, "golven": 10, "assen": {"5": 3, "4": 4, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 13, "rustige_jaren": 2920, "macht_eind": {"staat": 0.264, "huizen": 0.05, "kerk": 0.004, "steden": 0.29, "dragers": 0.143, "buren": 0.229, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.12, "buren_honger": 1.28, "ev": 1.022, "aelthir": 0.689, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0042, seed 420042)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0043
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420043
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.34, "magie_eind": 0.342, "golven": 12, "assen": {"5": 2, "3": 5, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1120, "macht_eind": {"staat": 0.334, "huizen": 0.061, "kerk": 0.005, "steden": 0.147, "dragers": 0.315, "buren": 0.086, "orrim": 0.035, "volk": 0.017}, "parameters": {"groei": 0.179, "buren_honger": 0.624, "ev": 1.025, "aelthir": 0.512, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0043, seed 420043)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0044
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420044
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.203, "magie_eind": 0.203, "golven": 12, "assen": {"5": 3, "4": 5, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 2800, "macht_eind": {"staat": 0.239, "huizen": 0.048, "kerk": 0.004, "steden": 0.268, "dragers": 0.138, "buren": 0.283, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.135, "buren_honger": 1.48, "ev": 0.97, "aelthir": 0.68, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0044, seed 420044)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0045
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420045
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.292, "magie_eind": 0.479, "golven": 14, "assen": {"5": 6, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 2340, "macht_eind": {"staat": 0.277, "huizen": 0.052, "kerk": 0.004, "steden": 0.217, "dragers": 0.199, "buren": 0.208, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.195, "buren_honger": 1.073, "ev": 1.132, "aelthir": 0.76, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0045, seed 420045)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0046
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420046
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.342, "magie_eind": 0.531, "golven": 13, "assen": {"5": 2, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 2880, "macht_eind": {"staat": 0.33, "huizen": 0.062, "kerk": 0.005, "steden": 0.171, "dragers": 0.24, "buren": 0.167, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.139, "buren_honger": 0.662, "ev": 1.228, "aelthir": 0.321, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0046, seed 420046)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0047
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420047
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.352, "magie_eind": 0.352, "golven": 14, "assen": {"5": 2, "4": 6, "3": 3}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 840, "macht_eind": {"staat": 0.274, "huizen": 0.047, "kerk": 0.004, "steden": 0.122, "dragers": 0.242, "buren": 0.273, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.182, "buren_honger": 1.325, "ev": 0.868, "aelthir": 0.703, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0047, seed 420047)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0048
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420048
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.316, "magie_eind": 0.341, "golven": 11, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 16, "rustige_jaren": 1600, "macht_eind": {"staat": 0.327, "huizen": 0.061, "kerk": 0.005, "steden": 0.179, "dragers": 0.158, "buren": 0.246, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.19, "buren_honger": 1.025, "ev": 0.808, "aelthir": 0.481, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0048, seed 420048)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0049
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420049
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 8, "magie_min": 0.344, "magie_eind": 0.391, "golven": 14, "assen": {"5": 5, "4": 3, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1300, "macht_eind": {"staat": 0.29, "huizen": 0.055, "kerk": 0.005, "steden": 0.145, "dragers": 0.297, "buren": 0.188, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.209, "buren_honger": 0.787, "ev": 0.954, "aelthir": 0.262, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0049, seed 420049)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0050
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420050
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.337, "magie_eind": 0.451, "golven": 12, "assen": {"5": 3, "3": 5, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1920, "macht_eind": {"staat": 0.291, "huizen": 0.065, "kerk": 0.006, "steden": 0.177, "dragers": 0.299, "buren": 0.11, "orrim": 0.037, "volk": 0.015}, "parameters": {"groei": 0.124, "buren_honger": 0.668, "ev": 1.075, "aelthir": 0.732, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0050, seed 420050)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0051
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420051
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 12, "magie_min": 0.334, "magie_eind": 0.334, "golven": 10, "assen": {"5": 3, "3": 2, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 660, "macht_eind": {"staat": 0.266, "huizen": 0.05, "kerk": 0.004, "steden": 0.124, "dragers": 0.205, "buren": 0.331, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.168, "buren_honger": 1.328, "ev": 1.147, "aelthir": 0.207, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0051, seed 420051)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0052
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420052
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 8, "magie_min": 0.323, "magie_eind": 0.323, "golven": 13, "assen": {"5": 8, "4": 6, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 2500, "macht_eind": {"staat": 0.229, "huizen": 0.094, "kerk": 0.004, "steden": 0.189, "dragers": 0.282, "buren": 0.181, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.18, "buren_honger": 1.126, "ev": 1.297, "aelthir": 0.275, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0052, seed 420052)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0053
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420053
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 3, "magie_min": 0.341, "magie_eind": 0.494, "golven": 15, "assen": {"5": 4, "4": 4, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 3060, "macht_eind": {"staat": 0.343, "huizen": 0.092, "kerk": 0.005, "steden": 0.205, "dragers": 0.147, "buren": 0.183, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.137, "buren_honger": 0.832, "ev": 1.03, "aelthir": 0.421, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0053, seed 420053)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0054
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420054
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.34, "magie_eind": 0.356, "golven": 6, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 1, "wetten": 17, "rustige_jaren": 2260, "macht_eind": {"staat": 0.315, "huizen": 0.09, "kerk": 0.005, "steden": 0.144, "dragers": 0.189, "buren": 0.204, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.214, "buren_honger": 0.897, "ev": 0.742, "aelthir": 0.594, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0054, seed 420054)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0055
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420055
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 4, "magie_min": 0.298, "magie_eind": 0.355, "golven": 11, "assen": {"5": 3, "3": 2, "4": 7}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 2320, "macht_eind": {"staat": 0.256, "huizen": 0.051, "kerk": 0.004, "steden": 0.193, "dragers": 0.197, "buren": 0.279, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.155, "buren_honger": 1.375, "ev": 1.045, "aelthir": 0.659, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0055, seed 420055)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0056
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420056
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.343, "magie_eind": 0.343, "golven": 7, "assen": {"5": 4, "3": 5, "4": 4}, "rijmt_met_canon": 5, "erft_van_801": 2, "heersers": 3, "wetten": 16, "rustige_jaren": 2660, "macht_eind": {"staat": 0.264, "huizen": 0.057, "kerk": 0.005, "steden": 0.158, "dragers": 0.268, "buren": 0.224, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.212, "buren_honger": 1.287, "ev": 0.784, "aelthir": 0.456, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0056, seed 420056)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0057
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420057
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 8, "magie_min": 0.349, "magie_eind": 0.509, "golven": 13, "assen": {"5": 3, "4": 3, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2100, "macht_eind": {"staat": 0.32, "huizen": 0.061, "kerk": 0.005, "steden": 0.162, "dragers": 0.225, "buren": 0.202, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.159, "buren_honger": 0.914, "ev": 1.112, "aelthir": 0.261, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0057, seed 420057)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0058
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420058
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.192, "magie_eind": 0.25, "golven": 5, "assen": {"5": 2, "4": 5, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2800, "macht_eind": {"staat": 0.265, "huizen": 0.056, "kerk": 0.005, "steden": 0.336, "dragers": 0.103, "buren": 0.189, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.127, "buren_honger": 1.082, "ev": 0.742, "aelthir": 0.339, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0058, seed 420058)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0059
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420059
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.335, "magie_eind": 0.335, "golven": 13, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 1420, "macht_eind": {"staat": 0.288, "huizen": 0.085, "kerk": 0.005, "steden": 0.146, "dragers": 0.322, "buren": 0.105, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.131, "buren_honger": 0.508, "ev": 1.268, "aelthir": 0.68, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0059, seed 420059)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0060
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420060
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.296, "magie_eind": 0.296, "golven": 12, "assen": {"5": 2, "4": 9, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2720, "macht_eind": {"staat": 0.256, "huizen": 0.05, "kerk": 0.004, "steden": 0.179, "dragers": 0.192, "buren": 0.277, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.16, "buren_honger": 1.461, "ev": 0.802, "aelthir": 0.466, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0060, seed 420060)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0061
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420061
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 10, "magie_min": 0.331, "magie_eind": 0.372, "golven": 10, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 5, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 1800, "macht_eind": {"staat": 0.261, "huizen": 0.074, "kerk": 0.004, "steden": 0.155, "dragers": 0.201, "buren": 0.262, "orrim": 0.03, "volk": 0.012}, "parameters": {"groei": 0.136, "buren_honger": 1.36, "ev": 0.947, "aelthir": 0.386, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0061, seed 420061)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0062
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420062
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.25, "magie_eind": 0.386, "golven": 10, "assen": {"5": 5, "4": 5, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2880, "macht_eind": {"staat": 0.269, "huizen": 0.054, "kerk": 0.005, "steden": 0.267, "dragers": 0.199, "buren": 0.185, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.219, "buren_honger": 0.973, "ev": 1.12, "aelthir": 0.465, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0062, seed 420062)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0063
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420063
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.348, "magie_eind": 0.348, "golven": 14, "assen": {"5": 3, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1500, "macht_eind": {"staat": 0.261, "huizen": 0.071, "kerk": 0.016, "steden": 0.105, "dragers": 0.226, "buren": 0.28, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.214, "buren_honger": 1.352, "ev": 1.053, "aelthir": 0.733, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0063, seed 420063)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0064
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420064
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.133, "magie_eind": 0.133, "golven": 11, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 4, "wetten": 15, "rustige_jaren": 2640, "macht_eind": {"staat": 0.289, "huizen": 0.055, "kerk": 0.005, "steden": 0.394, "dragers": 0.156, "buren": 0.079, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.136, "buren_honger": 0.629, "ev": 1.15, "aelthir": 0.726, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0064, seed 420064)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0065
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420065
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.309, "magie_eind": 0.355, "golven": 11, "assen": {"5": 6, "4": 4, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 4, "wetten": 19, "rustige_jaren": 2320, "macht_eind": {"staat": 0.273, "huizen": 0.076, "kerk": 0.005, "steden": 0.261, "dragers": 0.297, "buren": 0.044, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.122, "buren_honger": 0.525, "ev": 0.854, "aelthir": 0.246, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0065, seed 420065)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0066
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420066
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.35, "magie_eind": 0.412, "golven": 12, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 1160, "macht_eind": {"staat": 0.304, "huizen": 0.081, "kerk": 0.005, "steden": 0.114, "dragers": 0.226, "buren": 0.248, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.215, "buren_honger": 0.946, "ev": 0.988, "aelthir": 0.794, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0066, seed 420066)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0067
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420067
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.308, "magie_eind": 0.403, "golven": 15, "assen": {"5": 3, "4": 5, "3": 5}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 2760, "macht_eind": {"staat": 0.274, "huizen": 0.078, "kerk": 0.005, "steden": 0.216, "dragers": 0.209, "buren": 0.174, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.172, "buren_honger": 1.053, "ev": 1.146, "aelthir": 0.221, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0067, seed 420067)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0068
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420068
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 9, "magie_min": 0.362, "magie_eind": 0.489, "golven": 14, "assen": {"5": 2, "4": 3, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1020, "macht_eind": {"staat": 0.272, "huizen": 0.074, "kerk": 0.004, "steden": 0.11, "dragers": 0.283, "buren": 0.213, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.191, "buren_honger": 1.073, "ev": 1.052, "aelthir": 0.751, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0068, seed 420068)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0069
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420069
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.34, "magie_eind": 0.341, "golven": 13, "assen": {"5": 4, "4": 6, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 1, "wetten": 16, "rustige_jaren": 2180, "macht_eind": {"staat": 0.322, "huizen": 0.084, "kerk": 0.005, "steden": 0.169, "dragers": 0.193, "buren": 0.203, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.133, "buren_honger": 0.933, "ev": 1.165, "aelthir": 0.773, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0069, seed 420069)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0070
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420070
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 8, "magie_min": 0.34, "magie_eind": 0.452, "golven": 9, "assen": {"5": 2, "4": 4, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2680, "macht_eind": {"staat": 0.314, "huizen": 0.085, "kerk": 0.005, "steden": 0.159, "dragers": 0.22, "buren": 0.193, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.196, "buren_honger": 0.757, "ev": 0.919, "aelthir": 0.499, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0070, seed 420070)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0071
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420071
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.338, "magie_eind": 0.588, "golven": 9, "assen": {"5": 3, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 1100, "macht_eind": {"staat": 0.31, "huizen": 0.08, "kerk": 0.005, "steden": 0.149, "dragers": 0.249, "buren": 0.16, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.121, "buren_honger": 0.831, "ev": 0.816, "aelthir": 0.631, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0071, seed 420071)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0072
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420072
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.263, "magie_eind": 0.263, "golven": 10, "assen": {"5": 5, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 13, "rustige_jaren": 3080, "macht_eind": {"staat": 0.273, "huizen": 0.055, "kerk": 0.005, "steden": 0.264, "dragers": 0.117, "buren": 0.265, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.197, "buren_honger": 1.303, "ev": 0.737, "aelthir": 0.216, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0072, seed 420072)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0073
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420073
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 10, "magie_min": 0.337, "magie_eind": 0.337, "golven": 8, "assen": {"5": 2, "4": 3, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 15, "rustige_jaren": 360, "macht_eind": {"staat": 0.312, "huizen": 0.078, "kerk": 0.005, "steden": 0.114, "dragers": 0.14, "buren": 0.305, "orrim": 0.031, "volk": 0.015}, "parameters": {"groei": 0.168, "buren_honger": 1.286, "ev": 0.953, "aelthir": 0.725, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0073, seed 420073)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0074
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420074
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.353, "magie_eind": 0.388, "golven": 16, "assen": {"5": 2, "4": 7, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 3, "wetten": 17, "rustige_jaren": 2260, "macht_eind": {"staat": 0.213, "huizen": 0.066, "kerk": 0.03, "steden": 0.085, "dragers": 0.362, "buren": 0.206, "orrim": 0.026, "volk": 0.012}, "parameters": {"groei": 0.211, "buren_honger": 1.15, "ev": 1.202, "aelthir": 0.559, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0074, seed 420074)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0075
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420075
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.335, "magie_eind": 0.444, "golven": 12, "assen": {"5": 5, "4": 4, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2780, "macht_eind": {"staat": 0.294, "huizen": 0.082, "kerk": 0.005, "steden": 0.18, "dragers": 0.286, "buren": 0.106, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.199, "buren_honger": 0.701, "ev": 1.007, "aelthir": 0.307, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0075, seed 420075)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0076
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420076
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.278, "magie_eind": 0.372, "golven": 14, "assen": {"5": 3, "4": 7, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2400, "macht_eind": {"staat": 0.271, "huizen": 0.053, "kerk": 0.005, "steden": 0.275, "dragers": 0.203, "buren": 0.173, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.183, "buren_honger": 0.946, "ev": 1.015, "aelthir": 0.648, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0076, seed 420076)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0077
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420077
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 4, "magie_min": 0.311, "magie_eind": 0.311, "golven": 11, "assen": {"5": 6, "3": 4, "4": 5}, "rijmt_met_canon": 2, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2200, "macht_eind": {"staat": 0.27, "huizen": 0.099, "kerk": 0.005, "steden": 0.236, "dragers": 0.236, "buren": 0.11, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.212, "buren_honger": 0.87, "ev": 0.863, "aelthir": 0.329, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0077, seed 420077)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0078
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420078
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 8, "magie_min": 0.348, "magie_eind": 0.348, "golven": 12, "assen": {"5": 2, "4": 7, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 3, "wetten": 17, "rustige_jaren": 1880, "macht_eind": {"staat": 0.256, "huizen": 0.047, "kerk": 0.004, "steden": 0.114, "dragers": 0.285, "buren": 0.276, "orrim": 0.007, "volk": 0.011}, "parameters": {"groei": 0.206, "buren_honger": 1.181, "ev": 1.196, "aelthir": 0.673, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0078, seed 420078)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0079
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420079
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 5, "magie_min": 0.295, "magie_eind": 0.404, "golven": 7, "assen": {"5": 3, "4": 3, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 2560, "macht_eind": {"staat": 0.371, "huizen": 0.071, "kerk": 0.006, "steden": 0.242, "dragers": 0.151, "buren": 0.131, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.124, "buren_honger": 0.668, "ev": 0.703, "aelthir": 0.62, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0079, seed 420079)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0080
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420080
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.197, "magie_eind": 0.197, "golven": 14, "assen": {"5": 3, "4": 9, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2520, "macht_eind": {"staat": 0.253, "huizen": 0.048, "kerk": 0.004, "steden": 0.288, "dragers": 0.192, "buren": 0.195, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.173, "buren_honger": 1.194, "ev": 1.076, "aelthir": 0.49, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0080, seed 420080)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0081
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420081
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.352, "magie_eind": 0.396, "golven": 10, "assen": {"5": 3, "3": 4, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 3, "heersers": 3, "wetten": 18, "rustige_jaren": 1900, "macht_eind": {"staat": 0.26, "huizen": 0.097, "kerk": 0.04, "steden": 0.107, "dragers": 0.315, "buren": 0.141, "orrim": 0.03, "volk": 0.011}, "parameters": {"groei": 0.138, "buren_honger": 0.788, "ev": 0.984, "aelthir": 0.636, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0081, seed 420081)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0082
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420082
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 4, "magie_min": 0.341, "magie_eind": 0.417, "golven": 15, "assen": {"5": 3, "3": 5, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 19, "rustige_jaren": 1620, "macht_eind": {"staat": 0.335, "huizen": 0.059, "kerk": 0.005, "steden": 0.158, "dragers": 0.243, "buren": 0.151, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.181, "buren_honger": 0.643, "ev": 1.162, "aelthir": 0.582, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0082, seed 420082)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0083
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420083
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 10, "magie_min": 0.347, "magie_eind": 0.347, "golven": 10, "assen": {"5": 6, "3": 2, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1180, "macht_eind": {"staat": 0.255, "huizen": 0.068, "kerk": 0.026, "steden": 0.105, "dragers": 0.204, "buren": 0.302, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.199, "buren_honger": 1.415, "ev": 1.195, "aelthir": 0.659, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0083, seed 420083)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0084
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420084
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 4, "magie_min": 0.335, "magie_eind": 0.417, "golven": 7, "assen": {"5": 3, "4": 6, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2260, "macht_eind": {"staat": 0.333, "huizen": 0.093, "kerk": 0.006, "steden": 0.187, "dragers": 0.196, "buren": 0.16, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.185, "buren_honger": 0.766, "ev": 0.709, "aelthir": 0.549, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0084, seed 420084)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0085
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420085
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.289, "magie_eind": 0.362, "golven": 14, "assen": {"5": 3, "4": 7, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2460, "macht_eind": {"staat": 0.293, "huizen": 0.056, "kerk": 0.005, "steden": 0.226, "dragers": 0.177, "buren": 0.195, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.208, "buren_honger": 1.101, "ev": 1.015, "aelthir": 0.775, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0085, seed 420085)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0086
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420086
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.216, "magie_eind": 0.216, "golven": 12, "assen": {"5": 3, "4": 8, "3": 1}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2920, "macht_eind": {"staat": 0.306, "huizen": 0.058, "kerk": 0.005, "steden": 0.327, "dragers": 0.115, "buren": 0.165, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.207, "buren_honger": 0.864, "ev": 1.207, "aelthir": 0.448, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0086, seed 420086)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0087
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420087
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 6, "magie_min": 0.311, "magie_eind": 0.413, "golven": 9, "assen": {"5": 5, "4": 5, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 4, "wetten": 18, "rustige_jaren": 2480, "macht_eind": {"staat": 0.274, "huizen": 0.052, "kerk": 0.004, "steden": 0.201, "dragers": 0.275, "buren": 0.148, "orrim": 0.03, "volk": 0.016}, "parameters": {"groei": 0.183, "buren_honger": 0.865, "ev": 1.29, "aelthir": 0.216, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0087, seed 420087)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0088
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420088
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 7, "magie_min": 0.131, "magie_eind": 0.131, "golven": 8, "assen": {"5": 5, "4": 8, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2360, "macht_eind": {"staat": 0.309, "huizen": 0.057, "kerk": 0.005, "steden": 0.443, "dragers": 0.033, "buren": 0.13, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.177, "buren_honger": 0.763, "ev": 1.011, "aelthir": 0.263, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0088, seed 420088)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0089
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420089
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 9, "magie_min": 0.329, "magie_eind": 0.329, "golven": 9, "assen": {"5": 2, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 2080, "macht_eind": {"staat": 0.297, "huizen": 0.059, "kerk": 0.005, "steden": 0.161, "dragers": 0.176, "buren": 0.279, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.138, "buren_honger": 1.007, "ev": 1.246, "aelthir": 0.512, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0089, seed 420089)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0090
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420090
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 4, "magie_min": 0.337, "magie_eind": 0.337, "golven": 12, "assen": {"5": 3, "4": 4, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2480, "macht_eind": {"staat": 0.304, "huizen": 0.083, "kerk": 0.007, "steden": 0.111, "dragers": 0.281, "buren": 0.191, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.133, "buren_honger": 0.94, "ev": 0.856, "aelthir": 0.365, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0090, seed 420090)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0091
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420091
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 8, "magie_min": 0.34, "magie_eind": 0.377, "golven": 16, "assen": {"5": 4, "4": 5, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 3, "wetten": 18, "rustige_jaren": 1680, "macht_eind": {"staat": 0.302, "huizen": 0.056, "kerk": 0.005, "steden": 0.149, "dragers": 0.31, "buren": 0.132, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.2, "buren_honger": 0.61, "ev": 1.167, "aelthir": 0.795, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0091, seed 420091)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0092
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420092
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.238, "magie_eind": 0.238, "golven": 8, "assen": {"5": 4, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 3180, "macht_eind": {"staat": 0.338, "huizen": 0.065, "kerk": 0.006, "steden": 0.335, "dragers": 0.102, "buren": 0.127, "orrim": 0.009, "volk": 0.018}, "parameters": {"groei": 0.215, "buren_honger": 0.714, "ev": 0.715, "aelthir": 0.405, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0092, seed 420092)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0093
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420093
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 13, "magie_min": 0.35, "magie_eind": 0.406, "golven": 17, "assen": {"5": 2, "3": 5, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 3, "wetten": 16, "rustige_jaren": 720, "macht_eind": {"staat": 0.218, "huizen": 0.04, "kerk": 0.025, "steden": 0.096, "dragers": 0.298, "buren": 0.289, "orrim": 0.023, "volk": 0.01}, "parameters": {"groei": 0.188, "buren_honger": 1.418, "ev": 1.176, "aelthir": 0.441, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0093, seed 420093)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0094
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420094
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.338, "magie_eind": 0.449, "golven": 9, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 1, "wetten": 17, "rustige_jaren": 1120, "macht_eind": {"staat": 0.271, "huizen": 0.073, "kerk": 0.004, "steden": 0.115, "dragers": 0.276, "buren": 0.219, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.196, "buren_honger": 1.074, "ev": 1.208, "aelthir": 0.601, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0094, seed 420094)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0095
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420095
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 6, "magie_min": 0.35, "magie_eind": 0.427, "golven": 13, "assen": {"5": 2, "4": 5, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 2000, "macht_eind": {"staat": 0.309, "huizen": 0.081, "kerk": 0.03, "steden": 0.103, "dragers": 0.314, "buren": 0.115, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.217, "buren_honger": 0.728, "ev": 0.924, "aelthir": 0.738, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0095, seed 420095)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0096
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420096
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.337, "magie_eind": 0.337, "golven": 5, "assen": {"5": 3, "3": 3, "4": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 2100, "macht_eind": {"staat": 0.268, "huizen": 0.073, "kerk": 0.004, "steden": 0.123, "dragers": 0.16, "buren": 0.33, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.169, "buren_honger": 1.475, "ev": 1.009, "aelthir": 0.662, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0096, seed 420096)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0097
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420097
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.163, "magie_eind": 0.163, "golven": 11, "assen": {"5": 4, "4": 6, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2940, "macht_eind": {"staat": 0.298, "huizen": 0.058, "kerk": 0.005, "steden": 0.348, "dragers": 0.173, "buren": 0.094, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.131, "buren_honger": 0.658, "ev": 1.082, "aelthir": 0.796, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0097, seed 420097)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0098
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420098
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.317, "magie_eind": 0.317, "golven": 10, "assen": {"5": 3, "4": 7, "3": 1}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2280, "macht_eind": {"staat": 0.271, "huizen": 0.077, "kerk": 0.005, "steden": 0.203, "dragers": 0.201, "buren": 0.221, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.179, "buren_honger": 1.093, "ev": 1.09, "aelthir": 0.688, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0098, seed 420098)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0099
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420099
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 6, "magie_min": 0.327, "magie_eind": 0.383, "golven": 18, "assen": {"5": 5, "4": 8, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 2200, "macht_eind": {"staat": 0.26, "huizen": 0.057, "kerk": 0.005, "steden": 0.22, "dragers": 0.293, "buren": 0.141, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.151, "buren_honger": 0.902, "ev": 1.059, "aelthir": 0.552, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0099, seed 420099)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0100
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420100
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 7, "magie_min": 0.128, "magie_eind": 0.128, "golven": 9, "assen": {"5": 5, "4": 9, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2260, "macht_eind": {"staat": 0.275, "huizen": 0.054, "kerk": 0.005, "steden": 0.396, "dragers": 0.163, "buren": 0.086, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.134, "buren_honger": 0.656, "ev": 1.055, "aelthir": 0.775, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0100, seed 420100)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0101
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420101
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 10, "magie_min": 0.347, "magie_eind": 0.393, "golven": 16, "assen": {"5": 2, "3": 3, "4": 6}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1420, "macht_eind": {"staat": 0.24, "huizen": 0.05, "kerk": 0.004, "steden": 0.154, "dragers": 0.256, "buren": 0.255, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.188, "buren_honger": 1.37, "ev": 1.256, "aelthir": 0.71, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0101, seed 420101)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0102
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420102
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.348, "magie_eind": 0.498, "golven": 9, "assen": {"5": 4, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 15, "rustige_jaren": 1960, "macht_eind": {"staat": 0.297, "huizen": 0.079, "kerk": 0.035, "steden": 0.108, "dragers": 0.214, "buren": 0.224, "orrim": 0.032, "volk": 0.011}, "parameters": {"groei": 0.2, "buren_honger": 1.096, "ev": 0.75, "aelthir": 0.208, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0102, seed 420102)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0103
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420103
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 6, "magie_min": 0.276, "magie_eind": 0.276, "golven": 11, "assen": {"5": 3, "3": 5, "4": 6}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2500, "macht_eind": {"staat": 0.286, "huizen": 0.058, "kerk": 0.005, "steden": 0.258, "dragers": 0.192, "buren": 0.152, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.213, "buren_honger": 0.943, "ev": 1.166, "aelthir": 0.736, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0103, seed 420103)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0104
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420104
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 8, "magie_min": 0.348, "magie_eind": 0.348, "golven": 10, "assen": {"5": 6, "4": 2, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 1320, "macht_eind": {"staat": 0.265, "huizen": 0.047, "kerk": 0.004, "steden": 0.125, "dragers": 0.223, "buren": 0.318, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.192, "buren_honger": 1.334, "ev": 0.913, "aelthir": 0.662, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0104, seed 420104)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0105
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420105
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.34, "magie_eind": 0.385, "golven": 9, "assen": {"5": 2, "4": 7, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 14, "rustige_jaren": 2540, "macht_eind": {"staat": 0.311, "huizen": 0.115, "kerk": 0.005, "steden": 0.154, "dragers": 0.177, "buren": 0.212, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.219, "buren_honger": 0.928, "ev": 1.053, "aelthir": 0.72, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0105, seed 420105)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0106
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420106
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 6
+- **scores:** {"fasen": 6, "onopgelost": 11, "magie_min": 0.364, "magie_eind": 0.61, "golven": 13, "assen": {"5": 2, "4": 1, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 1360, "macht_eind": {"staat": 0.259, "huizen": 0.067, "kerk": 0.019, "steden": 0.094, "dragers": 0.208, "buren": 0.314, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.169, "buren_honger": 1.329, "ev": 1.231, "aelthir": 0.452, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0106, seed 420106)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0107
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420107
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.302, "magie_eind": 0.302, "golven": 13, "assen": {"5": 4, "4": 7}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 1480, "macht_eind": {"staat": 0.359, "huizen": 0.063, "kerk": 0.005, "steden": 0.198, "dragers": 0.208, "buren": 0.142, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.167, "buren_honger": 0.588, "ev": 1.254, "aelthir": 0.565, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0107, seed 420107)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0108
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420108
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 8, "magie_min": 0.333, "magie_eind": 0.333, "golven": 11, "assen": {"5": 2, "4": 3, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2000, "macht_eind": {"staat": 0.299, "huizen": 0.056, "kerk": 0.005, "steden": 0.149, "dragers": 0.295, "buren": 0.149, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.124, "buren_honger": 0.843, "ev": 1.105, "aelthir": 0.696, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0108, seed 420108)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0109
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420109
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.35, "magie_eind": 0.372, "golven": 10, "assen": {"5": 3, "4": 3, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1980, "macht_eind": {"staat": 0.277, "huizen": 0.073, "kerk": 0.033, "steden": 0.1, "dragers": 0.211, "buren": 0.264, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.149, "buren_honger": 1.079, "ev": 0.924, "aelthir": 0.635, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0109, seed 420109)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0110
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420110
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 11, "magie_min": 0.332, "magie_eind": 0.332, "golven": 10, "assen": {"5": 3, "3": 5, "4": 8}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 4, "wetten": 18, "rustige_jaren": 2140, "macht_eind": {"staat": 0.252, "huizen": 0.054, "kerk": 0.005, "steden": 0.178, "dragers": 0.241, "buren": 0.225, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.194, "buren_honger": 1.205, "ev": 0.75, "aelthir": 0.312, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0110, seed 420110)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0111
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420111
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 6, "magie_min": 0.316, "magie_eind": 0.316, "golven": 10, "assen": {"5": 4, "4": 3, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 1960, "macht_eind": {"staat": 0.311, "huizen": 0.059, "kerk": 0.005, "steden": 0.197, "dragers": 0.204, "buren": 0.2, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.128, "buren_honger": 0.918, "ev": 0.876, "aelthir": 0.524, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0111, seed 420111)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0112
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420112
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.336, "magie_eind": 0.515, "golven": 14, "assen": {"5": 8, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 1560, "macht_eind": {"staat": 0.26, "huizen": 0.095, "kerk": 0.004, "steden": 0.172, "dragers": 0.205, "buren": 0.242, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.144, "buren_honger": 1.214, "ev": 1.015, "aelthir": 0.633, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0112, seed 420112)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0113
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420113
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.347, "magie_eind": 0.362, "golven": 12, "assen": {"5": 3, "3": 2, "4": 6}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 980, "macht_eind": {"staat": 0.273, "huizen": 0.052, "kerk": 0.004, "steden": 0.143, "dragers": 0.307, "buren": 0.199, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.199, "buren_honger": 0.991, "ev": 0.76, "aelthir": 0.52, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0113, seed 420113)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0114
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420114
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 5, "magie_min": 0.327, "magie_eind": 0.327, "golven": 9, "assen": {"5": 2, "4": 3, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 1540, "macht_eind": {"staat": 0.304, "huizen": 0.055, "kerk": 0.005, "steden": 0.162, "dragers": 0.181, "buren": 0.272, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.143, "buren_honger": 1.181, "ev": 0.715, "aelthir": 0.306, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0114, seed 420114)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0115
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420115
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 9, "magie_min": 0.328, "magie_eind": 0.423, "golven": 15, "assen": {"5": 5, "3": 5, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 1880, "macht_eind": {"staat": 0.247, "huizen": 0.077, "kerk": 0.005, "steden": 0.174, "dragers": 0.284, "buren": 0.169, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.14, "buren_honger": 1.028, "ev": 1.226, "aelthir": 0.611, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0115, seed 420115)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0116
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420116
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.344, "magie_eind": 0.344, "golven": 12, "assen": {"5": 2, "4": 7, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 820, "macht_eind": {"staat": 0.285, "huizen": 0.081, "kerk": 0.005, "steden": 0.132, "dragers": 0.203, "buren": 0.246, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.158, "buren_honger": 1.139, "ev": 0.848, "aelthir": 0.227, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0116, seed 420116)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0117
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420117
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.251, "magie_eind": 0.548, "golven": 10, "assen": {"5": 3, "4": 5, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 2460, "macht_eind": {"staat": 0.266, "huizen": 0.055, "kerk": 0.005, "steden": 0.257, "dragers": 0.158, "buren": 0.213, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.151, "buren_honger": 1.058, "ev": 0.793, "aelthir": 0.59, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0117, seed 420117)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0118
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420118
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.316, "magie_eind": 0.324, "golven": 11, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2040, "macht_eind": {"staat": 0.305, "huizen": 0.057, "kerk": 0.005, "steden": 0.173, "dragers": 0.235, "buren": 0.205, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.126, "buren_honger": 0.816, "ev": 1.058, "aelthir": 0.427, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0118, seed 420118)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0119
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420119
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.335, "magie_eind": 0.485, "golven": 11, "assen": {"5": 4, "3": 2, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 2060, "macht_eind": {"staat": 0.263, "huizen": 0.05, "kerk": 0.004, "steden": 0.131, "dragers": 0.241, "buren": 0.271, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.129, "buren_honger": 1.127, "ev": 0.914, "aelthir": 0.315, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0119, seed 420119)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0120
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420120
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.251, "magie_eind": 0.433, "golven": 12, "assen": {"5": 2, "4": 5, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 2500, "macht_eind": {"staat": 0.249, "huizen": 0.05, "kerk": 0.004, "steden": 0.246, "dragers": 0.17, "buren": 0.262, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.154, "buren_honger": 1.388, "ev": 1.014, "aelthir": 0.663, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0120, seed 420120)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0121
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420121
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.343, "magie_eind": 0.389, "golven": 13, "assen": {"5": 3, "4": 4, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 2060, "macht_eind": {"staat": 0.317, "huizen": 0.058, "kerk": 0.005, "steden": 0.157, "dragers": 0.267, "buren": 0.172, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.215, "buren_honger": 0.847, "ev": 1.07, "aelthir": 0.223, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0121, seed 420121)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0122
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420122
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 10, "magie_min": 0.348, "magie_eind": 0.497, "golven": 13, "assen": {"5": 4, "4": 5, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 1680, "macht_eind": {"staat": 0.259, "huizen": 0.068, "kerk": 0.044, "steden": 0.088, "dragers": 0.334, "buren": 0.189, "orrim": 0.007, "volk": 0.01}, "parameters": {"groei": 0.174, "buren_honger": 1.069, "ev": 1.015, "aelthir": 0.362, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0122, seed 420122)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0123
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420123
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.137, "magie_eind": 0.137, "golven": 6, "assen": {"5": 5, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2780, "macht_eind": {"staat": 0.296, "huizen": 0.079, "kerk": 0.005, "steden": 0.42, "dragers": 0.035, "buren": 0.143, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.129, "buren_honger": 0.816, "ev": 0.759, "aelthir": 0.744, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0123, seed 420123)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0124
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420124
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 4, "magie_min": 0.13, "magie_eind": 0.13, "golven": 6, "assen": {"5": 6, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2340, "macht_eind": {"staat": 0.28, "huizen": 0.056, "kerk": 0.005, "steden": 0.393, "dragers": 0.161, "buren": 0.082, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.127, "buren_honger": 0.633, "ev": 0.744, "aelthir": 0.749, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0124, seed 420124)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0125
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420125
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 9, "magie_min": 0.337, "magie_eind": 0.337, "golven": 7, "assen": {"5": 2, "4": 6, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 14, "rustige_jaren": 520, "macht_eind": {"staat": 0.279, "huizen": 0.096, "kerk": 0.004, "steden": 0.122, "dragers": 0.177, "buren": 0.302, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.18, "buren_honger": 1.334, "ev": 0.724, "aelthir": 0.576, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0125, seed 420125)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0126
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420126
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 6, "magie_min": 0.332, "magie_eind": 0.332, "golven": 6, "assen": {"5": 2, "3": 3, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 2140, "macht_eind": {"staat": 0.306, "huizen": 0.059, "kerk": 0.005, "steden": 0.152, "dragers": 0.177, "buren": 0.277, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.141, "buren_honger": 1.201, "ev": 0.778, "aelthir": 0.58, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0126, seed 420126)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0127
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420127
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.365, "magie_eind": 0.46, "golven": 15, "assen": {"5": 3, "4": 2, "3": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1460, "macht_eind": {"staat": 0.305, "huizen": 0.082, "kerk": 0.049, "steden": 0.105, "dragers": 0.277, "buren": 0.159, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.202, "buren_honger": 0.867, "ev": 1.273, "aelthir": 0.565, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0127, seed 420127)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0128
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420128
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 8, "magie_min": 0.291, "magie_eind": 0.291, "golven": 8, "assen": {"5": 7, "4": 6}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2160, "macht_eind": {"staat": 0.257, "huizen": 0.078, "kerk": 0.005, "steden": 0.273, "dragers": 0.133, "buren": 0.231, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.211, "buren_honger": 1.195, "ev": 1.161, "aelthir": 0.781, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0128, seed 420128)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0129
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420129
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 6, "magie_min": 0.334, "magie_eind": 0.334, "golven": 10, "assen": {"5": 2, "4": 3, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2100, "macht_eind": {"staat": 0.33, "huizen": 0.064, "kerk": 0.005, "steden": 0.168, "dragers": 0.274, "buren": 0.105, "orrim": 0.036, "volk": 0.017}, "parameters": {"groei": 0.173, "buren_honger": 0.632, "ev": 0.719, "aelthir": 0.454, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0129, seed 420129)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0130
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420130
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.335, "magie_eind": 0.335, "golven": 12, "assen": {"5": 3, "4": 5, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1020, "macht_eind": {"staat": 0.261, "huizen": 0.068, "kerk": 0.004, "steden": 0.126, "dragers": 0.251, "buren": 0.27, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.217, "buren_honger": 1.305, "ev": 1.165, "aelthir": 0.693, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0130, seed 420130)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0131
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420131
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 12, "magie_min": 0.337, "magie_eind": 0.398, "golven": 13, "assen": {"5": 2, "4": 5, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1000, "macht_eind": {"staat": 0.239, "huizen": 0.047, "kerk": 0.004, "steden": 0.119, "dragers": 0.254, "buren": 0.318, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.186, "buren_honger": 1.491, "ev": 0.906, "aelthir": 0.728, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0131, seed 420131)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0132
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420132
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 9, "magie_min": 0.33, "magie_eind": 0.519, "golven": 12, "assen": {"5": 6, "3": 5, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 1720, "macht_eind": {"staat": 0.235, "huizen": 0.05, "kerk": 0.004, "steden": 0.186, "dragers": 0.295, "buren": 0.188, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.152, "buren_honger": 1.136, "ev": 1.194, "aelthir": 0.754, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0132, seed 420132)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0133
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420133
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 9, "magie_min": 0.348, "magie_eind": 0.485, "golven": 14, "assen": {"5": 3, "4": 9, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 19, "rustige_jaren": 1880, "macht_eind": {"staat": 0.248, "huizen": 0.07, "kerk": 0.004, "steden": 0.172, "dragers": 0.232, "buren": 0.233, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.146, "buren_honger": 1.321, "ev": 1.225, "aelthir": 0.627, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0133, seed 420133)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0134
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420134
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 7, "magie_min": 0.17, "magie_eind": 0.198, "golven": 10, "assen": {"5": 3, "4": 8, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 2560, "macht_eind": {"staat": 0.31, "huizen": 0.063, "kerk": 0.005, "steden": 0.423, "dragers": 0.099, "buren": 0.072, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.206, "buren_honger": 0.577, "ev": 0.91, "aelthir": 0.621, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0134, seed 420134)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0135
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420135
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 3, "magie_min": 0.127, "magie_eind": 0.127, "golven": 8, "assen": {"5": 3, "4": 10, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 2700, "macht_eind": {"staat": 0.243, "huizen": 0.046, "kerk": 0.004, "steden": 0.345, "dragers": 0.124, "buren": 0.22, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.124, "buren_honger": 1.313, "ev": 0.867, "aelthir": 0.219, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0135, seed 420135)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0136
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420136
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 12, "magie_min": 0.338, "magie_eind": 0.417, "golven": 9, "assen": {"5": 3, "3": 5, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 880, "macht_eind": {"staat": 0.26, "huizen": 0.05, "kerk": 0.004, "steden": 0.13, "dragers": 0.242, "buren": 0.273, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.131, "buren_honger": 1.303, "ev": 1.183, "aelthir": 0.536, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0136, seed 420136)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0137
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420137
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.362, "magie_eind": 0.372, "golven": 11, "assen": {"5": 2, "3": 4, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 1300, "macht_eind": {"staat": 0.275, "huizen": 0.051, "kerk": 0.004, "steden": 0.13, "dragers": 0.26, "buren": 0.238, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.189, "buren_honger": 1.141, "ev": 0.946, "aelthir": 0.674, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0137, seed 420137)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0138
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420138
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 5, "magie_min": 0.275, "magie_eind": 0.275, "golven": 6, "assen": {"5": 2, "4": 6, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 2760, "macht_eind": {"staat": 0.331, "huizen": 0.064, "kerk": 0.005, "steden": 0.249, "dragers": 0.101, "buren": 0.225, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.128, "buren_honger": 0.8, "ev": 0.767, "aelthir": 0.574, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0138, seed 420138)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0139
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420139
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.193, "magie_eind": 0.354, "golven": 15, "assen": {"5": 2, "4": 7, "3": 3}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2740, "macht_eind": {"staat": 0.296, "huizen": 0.058, "kerk": 0.005, "steden": 0.359, "dragers": 0.166, "buren": 0.098, "orrim": 0.008, "volk": 0.01}, "parameters": {"groei": 0.131, "buren_honger": 0.669, "ev": 0.894, "aelthir": 0.64, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0139, seed 420139)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0140
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420140
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 2, "magie_min": 0.198, "magie_eind": 0.198, "golven": 10, "assen": {"5": 5, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 14, "rustige_jaren": 3180, "macht_eind": {"staat": 0.296, "huizen": 0.057, "kerk": 0.005, "steden": 0.32, "dragers": 0.065, "buren": 0.235, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.134, "buren_honger": 1.106, "ev": 0.796, "aelthir": 0.791, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0140, seed 420140)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0141
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420141
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.335, "magie_eind": 0.343, "golven": 10, "assen": {"5": 2, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 2380, "macht_eind": {"staat": 0.346, "huizen": 0.096, "kerk": 0.006, "steden": 0.195, "dragers": 0.249, "buren": 0.082, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.165, "buren_honger": 0.562, "ev": 1.132, "aelthir": 0.52, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0141, seed 420141)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0142
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420142
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.326, "magie_eind": 0.396, "golven": 13, "assen": {"5": 4, "4": 4, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 1560, "macht_eind": {"staat": 0.354, "huizen": 0.066, "kerk": 0.006, "steden": 0.204, "dragers": 0.189, "buren": 0.153, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.199, "buren_honger": 0.6, "ev": 0.875, "aelthir": 0.296, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0142, seed 420142)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0143
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420143
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.312, "magie_eind": 0.312, "golven": 15, "assen": {"5": 5, "3": 3, "4": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 2500, "macht_eind": {"staat": 0.25, "huizen": 0.068, "kerk": 0.004, "steden": 0.184, "dragers": 0.156, "buren": 0.299, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.137, "buren_honger": 1.402, "ev": 1.017, "aelthir": 0.435, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0143, seed 420143)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0144
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420144
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.338, "magie_eind": 0.363, "golven": 7, "assen": {"5": 3, "4": 8, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2180, "macht_eind": {"staat": 0.24, "huizen": 0.094, "kerk": 0.004, "steden": 0.162, "dragers": 0.202, "buren": 0.255, "orrim": 0.029, "volk": 0.014}, "parameters": {"groei": 0.136, "buren_honger": 1.351, "ev": 0.726, "aelthir": 0.572, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0144, seed 420144)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0145
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420145
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.339, "magie_eind": 0.422, "golven": 14, "assen": {"5": 3, "3": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1420, "macht_eind": {"staat": 0.284, "huizen": 0.103, "kerk": 0.005, "steden": 0.109, "dragers": 0.238, "buren": 0.216, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.213, "buren_honger": 1.05, "ev": 1.298, "aelthir": 0.263, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0145, seed 420145)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0146
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420146
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.219, "magie_eind": 0.219, "golven": 11, "assen": {"5": 4, "4": 4, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 14, "rustige_jaren": 2600, "macht_eind": {"staat": 0.284, "huizen": 0.059, "kerk": 0.005, "steden": 0.348, "dragers": 0.194, "buren": 0.084, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.164, "buren_honger": 0.625, "ev": 0.78, "aelthir": 0.355, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0146, seed 420146)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0147
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420147
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 10, "magie_min": 0.369, "magie_eind": 0.586, "golven": 14, "assen": {"5": 5, "4": 2, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 880, "macht_eind": {"staat": 0.286, "huizen": 0.073, "kerk": 0.004, "steden": 0.113, "dragers": 0.249, "buren": 0.254, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.183, "buren_honger": 1.038, "ev": 1.143, "aelthir": 0.328, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0147, seed 420147)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0148
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420148
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 10, "magie_min": 0.345, "magie_eind": 0.365, "golven": 16, "assen": {"5": 3, "3": 2, "4": 9}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 20, "rustige_jaren": 2000, "macht_eind": {"staat": 0.289, "huizen": 0.074, "kerk": 0.004, "steden": 0.191, "dragers": 0.243, "buren": 0.156, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.166, "buren_honger": 0.89, "ev": 1.244, "aelthir": 0.653, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0148, seed 420148)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0149
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420149
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.268, "magie_eind": 0.268, "golven": 9, "assen": {"5": 5, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2720, "macht_eind": {"staat": 0.325, "huizen": 0.095, "kerk": 0.006, "steden": 0.349, "dragers": 0.104, "buren": 0.093, "orrim": 0.009, "volk": 0.018}, "parameters": {"groei": 0.201, "buren_honger": 0.622, "ev": 1.136, "aelthir": 0.238, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0149, seed 420149)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0150
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420150
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 7, "magie_min": 0.328, "magie_eind": 0.328, "golven": 11, "assen": {"5": 4, "4": 6, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 4, "wetten": 18, "rustige_jaren": 2460, "macht_eind": {"staat": 0.258, "huizen": 0.071, "kerk": 0.004, "steden": 0.169, "dragers": 0.219, "buren": 0.26, "orrim": 0.007, "volk": 0.011}, "parameters": {"groei": 0.179, "buren_honger": 1.393, "ev": 0.808, "aelthir": 0.41, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0150, seed 420150)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0151
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420151
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 9, "magie_min": 0.351, "magie_eind": 0.352, "golven": 13, "assen": {"5": 3, "3": 1, "4": 10}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 19, "rustige_jaren": 1560, "macht_eind": {"staat": 0.329, "huizen": 0.102, "kerk": 0.032, "steden": 0.156, "dragers": 0.233, "buren": 0.119, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.219, "buren_honger": 0.667, "ev": 1.209, "aelthir": 0.666, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0151, seed 420151)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0152
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420152
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 9, "magie_min": 0.261, "magie_eind": 0.479, "golven": 8, "assen": {"5": 6, "3": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 1980, "macht_eind": {"staat": 0.258, "huizen": 0.054, "kerk": 0.005, "steden": 0.262, "dragers": 0.225, "buren": 0.15, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.198, "buren_honger": 0.975, "ev": 0.762, "aelthir": 0.397, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0152, seed 420152)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0153
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420153
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 4, "magie_min": 0.342, "magie_eind": 0.342, "golven": 11, "assen": {"5": 3, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 14, "rustige_jaren": 1580, "macht_eind": {"staat": 0.364, "huizen": 0.132, "kerk": 0.006, "steden": 0.172, "dragers": 0.101, "buren": 0.197, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.182, "buren_honger": 0.676, "ev": 0.921, "aelthir": 0.402, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0153, seed 420153)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0154
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420154
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.345, "magie_eind": 0.362, "golven": 8, "assen": {"5": 2, "3": 5, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1000, "macht_eind": {"staat": 0.269, "huizen": 0.075, "kerk": 0.004, "steden": 0.131, "dragers": 0.187, "buren": 0.291, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.197, "buren_honger": 1.329, "ev": 0.796, "aelthir": 0.741, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0154, seed 420154)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0155
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420155
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 8, "magie_min": 0.334, "magie_eind": 0.334, "golven": 8, "assen": {"5": 2, "3": 4, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 3, "wetten": 15, "rustige_jaren": 1880, "macht_eind": {"staat": 0.273, "huizen": 0.051, "kerk": 0.004, "steden": 0.132, "dragers": 0.226, "buren": 0.271, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.187, "buren_honger": 1.242, "ev": 0.939, "aelthir": 0.744, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0155, seed 420155)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0156
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420156
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.341, "magie_eind": 0.394, "golven": 13, "assen": {"5": 7, "4": 5, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 880, "macht_eind": {"staat": 0.251, "huizen": 0.072, "kerk": 0.004, "steden": 0.147, "dragers": 0.222, "buren": 0.263, "orrim": 0.029, "volk": 0.012}, "parameters": {"groei": 0.133, "buren_honger": 1.4, "ev": 1.026, "aelthir": 0.61, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0156, seed 420156)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0157
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420157
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.215, "magie_eind": 0.513, "golven": 11, "assen": {"5": 4, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 13, "rustige_jaren": 2620, "macht_eind": {"staat": 0.298, "huizen": 0.06, "kerk": 0.005, "steden": 0.322, "dragers": 0.18, "buren": 0.11, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.157, "buren_honger": 0.698, "ev": 0.883, "aelthir": 0.401, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0157, seed 420157)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0158
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420158
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.347, "magie_eind": 0.518, "golven": 10, "assen": {"5": 4, "3": 4, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 2820, "macht_eind": {"staat": 0.283, "huizen": 0.054, "kerk": 0.005, "steden": 0.14, "dragers": 0.286, "buren": 0.21, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.17, "buren_honger": 1.072, "ev": 0.986, "aelthir": 0.693, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0158, seed 420158)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0159
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420159
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.263, "magie_eind": 0.263, "golven": 16, "assen": {"5": 6, "4": 7}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 4, "wetten": 15, "rustige_jaren": 2880, "macht_eind": {"staat": 0.26, "huizen": 0.051, "kerk": 0.004, "steden": 0.277, "dragers": 0.169, "buren": 0.218, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.203, "buren_honger": 1.103, "ev": 1.188, "aelthir": 0.583, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0159, seed 420159)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0160
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420160
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 12, "magie_min": 0.349, "magie_eind": 0.689, "golven": 14, "assen": {"5": 3, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 17, "rustige_jaren": 420, "macht_eind": {"staat": 0.247, "huizen": 0.068, "kerk": 0.022, "steden": 0.101, "dragers": 0.293, "buren": 0.233, "orrim": 0.027, "volk": 0.01}, "parameters": {"groei": 0.208, "buren_honger": 1.318, "ev": 1.184, "aelthir": 0.681, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0160, seed 420160)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0161
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420161
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.371, "magie_eind": 0.371, "golven": 12, "assen": {"5": 6, "3": 1, "4": 2}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 4, "wetten": 15, "rustige_jaren": 2020, "macht_eind": {"staat": 0.278, "huizen": 0.051, "kerk": 0.004, "steden": 0.119, "dragers": 0.282, "buren": 0.245, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.217, "buren_honger": 1.163, "ev": 1.077, "aelthir": 0.615, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0161, seed 420161)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0162
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420162
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.355, "magie_eind": 0.422, "golven": 12, "assen": {"5": 2, "3": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 880, "macht_eind": {"staat": 0.269, "huizen": 0.048, "kerk": 0.004, "steden": 0.113, "dragers": 0.228, "buren": 0.297, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.167, "buren_honger": 1.434, "ev": 1.13, "aelthir": 0.443, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0162, seed 420162)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0163
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420163
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 3, "magie_min": 0.301, "magie_eind": 0.374, "golven": 11, "assen": {"5": 3, "4": 7, "3": 2}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2300, "macht_eind": {"staat": 0.345, "huizen": 0.095, "kerk": 0.006, "steden": 0.291, "dragers": 0.189, "buren": 0.05, "orrim": 0.009, "volk": 0.014}, "parameters": {"groei": 0.125, "buren_honger": 0.513, "ev": 1.073, "aelthir": 0.777, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0163, seed 420163)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0164
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420164
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 7, "magie_min": 0.126, "magie_eind": 0.126, "golven": 10, "assen": {"5": 4, "4": 8, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 2400, "macht_eind": {"staat": 0.279, "huizen": 0.052, "kerk": 0.004, "steden": 0.412, "dragers": 0.105, "buren": 0.126, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.155, "buren_honger": 0.913, "ev": 1.133, "aelthir": 0.663, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0164, seed 420164)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0165
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420165
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 5, "magie_min": 0.315, "magie_eind": 0.315, "golven": 10, "assen": {"5": 3, "4": 3, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2020, "macht_eind": {"staat": 0.31, "huizen": 0.054, "kerk": 0.005, "steden": 0.152, "dragers": 0.108, "buren": 0.351, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.195, "buren_honger": 1.3, "ev": 0.785, "aelthir": 0.64, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0165, seed 420165)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0166
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420166
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.339, "magie_eind": 0.394, "golven": 15, "assen": {"5": 5, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2100, "macht_eind": {"staat": 0.35, "huizen": 0.086, "kerk": 0.005, "steden": 0.148, "dragers": 0.248, "buren": 0.112, "orrim": 0.034, "volk": 0.017}, "parameters": {"groei": 0.144, "buren_honger": 0.525, "ev": 1.104, "aelthir": 0.745, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0166, seed 420166)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0167
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420167
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 7, "magie_min": 0.333, "magie_eind": 0.333, "golven": 12, "assen": {"5": 3, "4": 3, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 1680, "macht_eind": {"staat": 0.337, "huizen": 0.057, "kerk": 0.005, "steden": 0.163, "dragers": 0.098, "buren": 0.319, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.161, "buren_honger": 1.289, "ev": 0.816, "aelthir": 0.597, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0167, seed 420167)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0168
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420168
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 12, "magie_min": 0.341, "magie_eind": 0.341, "golven": 12, "assen": {"5": 3, "4": 3, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 1000, "macht_eind": {"staat": 0.26, "huizen": 0.045, "kerk": 0.004, "steden": 0.108, "dragers": 0.249, "buren": 0.298, "orrim": 0.026, "volk": 0.012}, "parameters": {"groei": 0.216, "buren_honger": 1.471, "ev": 0.964, "aelthir": 0.476, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0168, seed 420168)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0169
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420169
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 7, "magie_min": 0.342, "magie_eind": 0.457, "golven": 9, "assen": {"5": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 1640, "macht_eind": {"staat": 0.355, "huizen": 0.06, "kerk": 0.005, "steden": 0.174, "dragers": 0.172, "buren": 0.21, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.187, "buren_honger": 0.796, "ev": 1.191, "aelthir": 0.629, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0169, seed 420169)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0170
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420170
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 5, "magie_min": 0.328, "magie_eind": 0.328, "golven": 9, "assen": {"5": 2, "4": 6, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2420, "macht_eind": {"staat": 0.39, "huizen": 0.075, "kerk": 0.006, "steden": 0.225, "dragers": 0.161, "buren": 0.112, "orrim": 0.011, "volk": 0.02}, "parameters": {"groei": 0.218, "buren_honger": 0.607, "ev": 0.887, "aelthir": 0.685, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0170, seed 420170)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0171
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420171
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 8, "magie_min": 0.323, "magie_eind": 0.323, "golven": 9, "assen": {"5": 3, "3": 4, "4": 2}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 2, "wetten": 15, "rustige_jaren": 1140, "macht_eind": {"staat": 0.304, "huizen": 0.062, "kerk": 0.005, "steden": 0.155, "dragers": 0.214, "buren": 0.208, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.211, "buren_honger": 1.048, "ev": 0.799, "aelthir": 0.762, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0171, seed 420171)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0172
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420172
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.348, "magie_eind": 0.417, "golven": 14, "assen": {"5": 2, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 960, "macht_eind": {"staat": 0.308, "huizen": 0.105, "kerk": 0.005, "steden": 0.132, "dragers": 0.267, "buren": 0.136, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.161, "buren_honger": 0.758, "ev": 0.907, "aelthir": 0.571, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0172, seed 420172)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0173
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420173
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.333, "magie_eind": 0.333, "golven": 7, "assen": {"5": 3, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1180, "macht_eind": {"staat": 0.274, "huizen": 0.052, "kerk": 0.004, "steden": 0.13, "dragers": 0.187, "buren": 0.309, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.147, "buren_honger": 1.39, "ev": 0.986, "aelthir": 0.425, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0173, seed 420173)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0174
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420174
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.336, "magie_eind": 0.419, "golven": 11, "assen": {"5": 3, "3": 3, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 3, "heersers": 2, "wetten": 17, "rustige_jaren": 2060, "macht_eind": {"staat": 0.342, "huizen": 0.062, "kerk": 0.005, "steden": 0.152, "dragers": 0.309, "buren": 0.079, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.17, "buren_honger": 0.569, "ev": 0.957, "aelthir": 0.248, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0174, seed 420174)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0175
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420175
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 10, "magie_min": 0.369, "magie_eind": 0.377, "golven": 14, "assen": {"5": 1, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 1660, "macht_eind": {"staat": 0.278, "huizen": 0.068, "kerk": 0.033, "steden": 0.094, "dragers": 0.28, "buren": 0.231, "orrim": 0.007, "volk": 0.009}, "parameters": {"groei": 0.165, "buren_honger": 1.16, "ev": 1.241, "aelthir": 0.486, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0175, seed 420175)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0176
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420176
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 10, "magie_min": 0.359, "magie_eind": 0.387, "golven": 14, "assen": {"5": 3, "3": 2, "4": 9}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 1200, "macht_eind": {"staat": 0.303, "huizen": 0.12, "kerk": 0.006, "steden": 0.146, "dragers": 0.305, "buren": 0.064, "orrim": 0.037, "volk": 0.019}, "parameters": {"groei": 0.15, "buren_honger": 0.552, "ev": 1.19, "aelthir": 0.487, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0176, seed 420176)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0177
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420177
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 9, "magie_min": 0.347, "magie_eind": 0.347, "golven": 13, "assen": {"5": 7, "4": 5, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 20, "rustige_jaren": 1500, "macht_eind": {"staat": 0.334, "huizen": 0.089, "kerk": 0.005, "steden": 0.131, "dragers": 0.284, "buren": 0.107, "orrim": 0.035, "volk": 0.014}, "parameters": {"groei": 0.137, "buren_honger": 0.645, "ev": 1.199, "aelthir": 0.505, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0177, seed 420177)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0178
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420178
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.366, "magie_eind": 0.38, "golven": 16, "assen": {"5": 3, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 3, "heersers": 2, "wetten": 16, "rustige_jaren": 1420, "macht_eind": {"staat": 0.246, "huizen": 0.05, "kerk": 0.004, "steden": 0.117, "dragers": 0.299, "buren": 0.243, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.131, "buren_honger": 1.307, "ev": 0.81, "aelthir": 0.653, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0178, seed 420178)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0179
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420179
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.34, "magie_eind": 0.34, "golven": 13, "assen": {"5": 4, "3": 4, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 2620, "macht_eind": {"staat": 0.305, "huizen": 0.092, "kerk": 0.006, "steden": 0.151, "dragers": 0.258, "buren": 0.135, "orrim": 0.037, "volk": 0.016}, "parameters": {"groei": 0.185, "buren_honger": 0.735, "ev": 0.817, "aelthir": 0.796, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0179, seed 420179)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0180
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420180
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.358, "magie_eind": 0.539, "golven": 17, "assen": {"5": 4, "4": 6, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1540, "macht_eind": {"staat": 0.248, "huizen": 0.051, "kerk": 0.004, "steden": 0.164, "dragers": 0.328, "buren": 0.188, "orrim": 0.007, "volk": 0.011}, "parameters": {"groei": 0.196, "buren_honger": 1.136, "ev": 1.13, "aelthir": 0.383, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0180, seed 420180)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0181
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420181
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 12, "magie_min": 0.344, "magie_eind": 0.42, "golven": 7, "assen": {"5": 4, "4": 7, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1140, "macht_eind": {"staat": 0.24, "huizen": 0.072, "kerk": 0.004, "steden": 0.153, "dragers": 0.208, "buren": 0.281, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.213, "buren_honger": 1.442, "ev": 0.969, "aelthir": 0.225, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0181, seed 420181)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0182
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420182
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.356, "magie_eind": 0.379, "golven": 10, "assen": {"5": 2, "4": 7, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 15, "rustige_jaren": 1240, "macht_eind": {"staat": 0.327, "huizen": 0.089, "kerk": 0.043, "steden": 0.131, "dragers": 0.161, "buren": 0.202, "orrim": 0.036, "volk": 0.011}, "parameters": {"groei": 0.158, "buren_honger": 0.753, "ev": 0.897, "aelthir": 0.43, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0182, seed 420182)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0183
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420183
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.335, "magie_eind": 0.338, "golven": 9, "assen": {"5": 2, "4": 6, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2100, "macht_eind": {"staat": 0.28, "huizen": 0.056, "kerk": 0.005, "steden": 0.192, "dragers": 0.159, "buren": 0.262, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.212, "buren_honger": 1.324, "ev": 1.126, "aelthir": 0.57, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0183, seed 420183)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0184
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420184
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 3, "magie_min": 0.211, "magie_eind": 0.213, "golven": 10, "assen": {"5": 6, "4": 4, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 4, "wetten": 16, "rustige_jaren": 2780, "macht_eind": {"staat": 0.28, "huizen": 0.053, "kerk": 0.005, "steden": 0.307, "dragers": 0.237, "buren": 0.096, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.168, "buren_honger": 0.693, "ev": 1.114, "aelthir": 0.562, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0184, seed 420184)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0185
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420185
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 11, "magie_min": 0.356, "magie_eind": 0.614, "golven": 11, "assen": {"5": 2, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1780, "macht_eind": {"staat": 0.255, "huizen": 0.085, "kerk": 0.048, "steden": 0.083, "dragers": 0.197, "buren": 0.294, "orrim": 0.026, "volk": 0.011}, "parameters": {"groei": 0.133, "buren_honger": 1.423, "ev": 1.032, "aelthir": 0.686, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0185, seed 420185)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0186
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420186
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 11, "magie_min": 0.321, "magie_eind": 0.321, "golven": 9, "assen": {"5": 3, "4": 7, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 3, "wetten": 17, "rustige_jaren": 2280, "macht_eind": {"staat": 0.211, "huizen": 0.08, "kerk": 0.005, "steden": 0.201, "dragers": 0.248, "buren": 0.208, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.127, "buren_honger": 1.247, "ev": 1.009, "aelthir": 0.501, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0186, seed 420186)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0187
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420187
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 5, "magie_min": 0.339, "magie_eind": 0.694, "golven": 10, "assen": {"5": 3, "4": 3, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 2400, "macht_eind": {"staat": 0.294, "huizen": 0.057, "kerk": 0.005, "steden": 0.154, "dragers": 0.275, "buren": 0.192, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.184, "buren_honger": 0.923, "ev": 0.929, "aelthir": 0.474, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0187, seed 420187)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0188
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420188
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 4, "magie_min": 0.177, "magie_eind": 0.177, "golven": 10, "assen": {"5": 5, "4": 10}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2440, "macht_eind": {"staat": 0.311, "huizen": 0.055, "kerk": 0.005, "steden": 0.378, "dragers": 0.103, "buren": 0.125, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.205, "buren_honger": 0.769, "ev": 1.131, "aelthir": 0.496, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0188, seed 420188)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0189
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420189
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 9, "magie_min": 0.344, "magie_eind": 0.344, "golven": 11, "assen": {"5": 3, "4": 3, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 700, "macht_eind": {"staat": 0.273, "huizen": 0.047, "kerk": 0.004, "steden": 0.134, "dragers": 0.223, "buren": 0.297, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.135, "buren_honger": 1.403, "ev": 1.076, "aelthir": 0.584, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0189, seed 420189)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0190
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420190
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.136, "magie_eind": 0.345, "golven": 8, "assen": {"5": 1, "4": 9, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2700, "macht_eind": {"staat": 0.223, "huizen": 0.049, "kerk": 0.004, "steden": 0.352, "dragers": 0.112, "buren": 0.237, "orrim": 0.007, "volk": 0.015}, "parameters": {"groei": 0.139, "buren_honger": 1.315, "ev": 0.75, "aelthir": 0.299, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0190, seed 420190)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0191
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420191
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.236, "magie_eind": 0.236, "golven": 11, "assen": {"5": 7, "4": 4, "3": 2}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 4, "wetten": 16, "rustige_jaren": 2140, "macht_eind": {"staat": 0.249, "huizen": 0.05, "kerk": 0.004, "steden": 0.246, "dragers": 0.228, "buren": 0.203, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.132, "buren_honger": 1.111, "ev": 0.995, "aelthir": 0.621, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0191, seed 420191)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0192
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420192
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 9, "magie_min": 0.341, "magie_eind": 0.373, "golven": 12, "assen": {"5": 3, "3": 4, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 19, "rustige_jaren": 1300, "macht_eind": {"staat": 0.27, "huizen": 0.071, "kerk": 0.004, "steden": 0.118, "dragers": 0.332, "buren": 0.164, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.152, "buren_honger": 0.942, "ev": 1.191, "aelthir": 0.291, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0192, seed 420192)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0193
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420193
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 10, "magie_min": 0.358, "magie_eind": 0.358, "golven": 11, "assen": {"5": 3, "4": 6, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 1200, "macht_eind": {"staat": 0.264, "huizen": 0.068, "kerk": 0.06, "steden": 0.083, "dragers": 0.219, "buren": 0.266, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.192, "buren_honger": 1.343, "ev": 1.118, "aelthir": 0.709, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0193, seed 420193)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0194
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420194
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 8, "magie_min": 0.338, "magie_eind": 0.435, "golven": 10, "assen": {"5": 3, "4": 4, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2240, "macht_eind": {"staat": 0.268, "huizen": 0.049, "kerk": 0.004, "steden": 0.131, "dragers": 0.243, "buren": 0.285, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.131, "buren_honger": 1.337, "ev": 1.258, "aelthir": 0.359, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0194, seed 420194)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0195
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420195
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.335, "magie_eind": 0.335, "golven": 7, "assen": {"5": 4, "4": 4, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 3, "wetten": 15, "rustige_jaren": 1620, "macht_eind": {"staat": 0.289, "huizen": 0.055, "kerk": 0.005, "steden": 0.142, "dragers": 0.219, "buren": 0.269, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.137, "buren_honger": 1.325, "ev": 0.752, "aelthir": 0.691, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0195, seed 420195)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0196
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420196
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 8, "magie_min": 0.346, "magie_eind": 0.475, "golven": 13, "assen": {"5": 5, "4": 6, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 1060, "macht_eind": {"staat": 0.295, "huizen": 0.054, "kerk": 0.005, "steden": 0.154, "dragers": 0.346, "buren": 0.103, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.135, "buren_honger": 0.716, "ev": 0.96, "aelthir": 0.248, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0196, seed 420196)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0197
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420197
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.229, "magie_eind": 0.229, "golven": 9, "assen": {"5": 6, "4": 7}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2700, "macht_eind": {"staat": 0.325, "huizen": 0.115, "kerk": 0.005, "steden": 0.375, "dragers": 0.088, "buren": 0.067, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.124, "buren_honger": 0.567, "ev": 1.125, "aelthir": 0.607, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0197, seed 420197)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0198
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420198
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.337, "magie_eind": 0.396, "golven": 8, "assen": {"5": 2, "4": 8, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2200, "macht_eind": {"staat": 0.272, "huizen": 0.076, "kerk": 0.005, "steden": 0.161, "dragers": 0.16, "buren": 0.282, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.193, "buren_honger": 1.403, "ev": 0.741, "aelthir": 0.6, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0198, seed 420198)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0199
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420199
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 4, "magie_min": 0.231, "magie_eind": 0.231, "golven": 10, "assen": {"5": 6, "4": 4, "3": 2}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2900, "macht_eind": {"staat": 0.329, "huizen": 0.092, "kerk": 0.006, "steden": 0.355, "dragers": 0.11, "buren": 0.082, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.149, "buren_honger": 0.601, "ev": 0.709, "aelthir": 0.609, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0199, seed 420199)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0200
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420200
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 14, "magie_min": 0.347, "magie_eind": 0.347, "golven": 10, "assen": {"5": 3, "4": 2, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 820, "macht_eind": {"staat": 0.279, "huizen": 0.071, "kerk": 0.024, "steden": 0.102, "dragers": 0.142, "buren": 0.339, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.209, "buren_honger": 1.349, "ev": 1.125, "aelthir": 0.38, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0200, seed 420200)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0201
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420201
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 7, "magie_min": 0.328, "magie_eind": 0.328, "golven": 10, "assen": {"5": 3, "4": 4, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 14, "rustige_jaren": 2060, "macht_eind": {"staat": 0.315, "huizen": 0.09, "kerk": 0.005, "steden": 0.203, "dragers": 0.172, "buren": 0.188, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.146, "buren_honger": 0.896, "ev": 0.759, "aelthir": 0.66, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0201, seed 420201)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0202
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420202
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.234, "magie_eind": 0.234, "golven": 14, "assen": {"5": 4, "4": 7, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 2440, "macht_eind": {"staat": 0.266, "huizen": 0.047, "kerk": 0.004, "steden": 0.251, "dragers": 0.201, "buren": 0.193, "orrim": 0.027, "volk": 0.011}, "parameters": {"groei": 0.178, "buren_honger": 1.083, "ev": 1.157, "aelthir": 0.222, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0202, seed 420202)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0203
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420203
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.332, "magie_eind": 0.472, "golven": 12, "assen": {"5": 2, "4": 5, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 2300, "macht_eind": {"staat": 0.351, "huizen": 0.067, "kerk": 0.006, "steden": 0.167, "dragers": 0.297, "buren": 0.058, "orrim": 0.038, "volk": 0.017}, "parameters": {"groei": 0.189, "buren_honger": 0.53, "ev": 1.051, "aelthir": 0.326, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0203, seed 420203)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0204
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420204
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.337, "magie_eind": 0.337, "golven": 10, "assen": {"5": 3, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 980, "macht_eind": {"staat": 0.393, "huizen": 0.092, "kerk": 0.006, "steden": 0.132, "dragers": 0.193, "buren": 0.133, "orrim": 0.037, "volk": 0.016}, "parameters": {"groei": 0.192, "buren_honger": 0.732, "ev": 1.182, "aelthir": 0.675, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0204, seed 420204)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0205
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420205
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 11, "magie_min": 0.34, "magie_eind": 0.379, "golven": 11, "assen": {"5": 3, "4": 4, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 240, "macht_eind": {"staat": 0.263, "huizen": 0.048, "kerk": 0.004, "steden": 0.124, "dragers": 0.22, "buren": 0.321, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.195, "buren_honger": 1.469, "ev": 1.221, "aelthir": 0.405, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0205, seed 420205)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0206
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420206
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 6
+- **scores:** {"fasen": 6, "onopgelost": 6, "magie_min": 0.339, "magie_eind": 0.502, "golven": 13, "assen": {"5": 2, "4": 3, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 1500, "macht_eind": {"staat": 0.304, "huizen": 0.054, "kerk": 0.005, "steden": 0.14, "dragers": 0.208, "buren": 0.268, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.2, "buren_honger": 1.045, "ev": 1.114, "aelthir": 0.587, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0206, seed 420206)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0207
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420207
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.265, "magie_eind": 0.265, "golven": 12, "assen": {"5": 3, "4": 7, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 14, "rustige_jaren": 2540, "macht_eind": {"staat": 0.335, "huizen": 0.098, "kerk": 0.006, "steden": 0.359, "dragers": 0.127, "buren": 0.047, "orrim": 0.01, "volk": 0.019}, "parameters": {"groei": 0.168, "buren_honger": 0.5, "ev": 0.775, "aelthir": 0.338, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0207, seed 420207)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0208
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420208
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 3, "magie_min": 0.298, "magie_eind": 0.37, "golven": 10, "assen": {"5": 6, "4": 7}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2600, "macht_eind": {"staat": 0.29, "huizen": 0.086, "kerk": 0.005, "steden": 0.269, "dragers": 0.18, "buren": 0.146, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.207, "buren_honger": 0.799, "ev": 0.913, "aelthir": 0.497, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0208, seed 420208)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0209
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420209
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 10, "magie_min": 0.333, "magie_eind": 0.333, "golven": 14, "assen": {"5": 5, "4": 4, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1360, "macht_eind": {"staat": 0.289, "huizen": 0.056, "kerk": 0.005, "steden": 0.14, "dragers": 0.318, "buren": 0.146, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.2, "buren_honger": 0.796, "ev": 1.248, "aelthir": 0.454, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0209, seed 420209)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0210
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420210
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 9, "magie_min": 0.361, "magie_eind": 0.601, "golven": 13, "assen": {"5": 2, "3": 3, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1200, "macht_eind": {"staat": 0.267, "huizen": 0.049, "kerk": 0.004, "steden": 0.121, "dragers": 0.215, "buren": 0.304, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.161, "buren_honger": 1.437, "ev": 0.82, "aelthir": 0.632, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0210, seed 420210)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0211
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420211
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.239, "magie_eind": 0.239, "golven": 11, "assen": {"5": 2, "4": 9, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 2680, "macht_eind": {"staat": 0.316, "huizen": 0.062, "kerk": 0.005, "steden": 0.306, "dragers": 0.212, "buren": 0.048, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.142, "buren_honger": 0.516, "ev": 0.759, "aelthir": 0.526, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0211, seed 420211)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0212
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420212
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 12, "magie_min": 0.338, "magie_eind": 0.522, "golven": 11, "assen": {"5": 5, "3": 5, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 760, "macht_eind": {"staat": 0.216, "huizen": 0.051, "kerk": 0.004, "steden": 0.158, "dragers": 0.304, "buren": 0.225, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.186, "buren_honger": 1.412, "ev": 0.971, "aelthir": 0.562, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0212, seed 420212)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0213
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420213
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.337, "magie_eind": 0.337, "golven": 10, "assen": {"5": 2, "4": 6, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 1020, "macht_eind": {"staat": 0.28, "huizen": 0.075, "kerk": 0.005, "steden": 0.116, "dragers": 0.196, "buren": 0.285, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.166, "buren_honger": 1.323, "ev": 0.709, "aelthir": 0.635, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0213, seed 420213)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0214
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420214
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.281, "magie_eind": 0.281, "golven": 5, "assen": {"5": 4, "4": 6, "3": 1}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2680, "macht_eind": {"staat": 0.369, "huizen": 0.102, "kerk": 0.006, "steden": 0.326, "dragers": 0.051, "buren": 0.118, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.189, "buren_honger": 0.673, "ev": 0.702, "aelthir": 0.342, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0214, seed 420214)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0215
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420215
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.335, "magie_eind": 0.335, "golven": 10, "assen": {"5": 3, "4": 3, "3": 3}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1420, "macht_eind": {"staat": 0.303, "huizen": 0.077, "kerk": 0.005, "steden": 0.144, "dragers": 0.154, "buren": 0.292, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.19, "buren_honger": 1.118, "ev": 0.766, "aelthir": 0.676, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0215, seed 420215)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0216
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420216
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 13, "magie_min": 0.348, "magie_eind": 0.406, "golven": 16, "assen": {"5": 3, "3": 5, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 3, "heersers": 3, "wetten": 16, "rustige_jaren": 1380, "macht_eind": {"staat": 0.237, "huizen": 0.044, "kerk": 0.016, "steden": 0.096, "dragers": 0.315, "buren": 0.259, "orrim": 0.025, "volk": 0.008}, "parameters": {"groei": 0.156, "buren_honger": 1.38, "ev": 1.299, "aelthir": 0.602, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0216, seed 420216)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0217
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420217
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.342, "magie_eind": 0.342, "golven": 12, "assen": {"5": 3, "3": 2, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 2200, "macht_eind": {"staat": 0.376, "huizen": 0.102, "kerk": 0.006, "steden": 0.171, "dragers": 0.244, "buren": 0.072, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.151, "buren_honger": 0.557, "ev": 1.2, "aelthir": 0.693, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0217, seed 420217)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0218
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420218
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 10, "magie_min": 0.333, "magie_eind": 0.333, "golven": 10, "assen": {"5": 6, "4": 7, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 1780, "macht_eind": {"staat": 0.283, "huizen": 0.085, "kerk": 0.005, "steden": 0.169, "dragers": 0.282, "buren": 0.127, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.198, "buren_honger": 0.877, "ev": 1.226, "aelthir": 0.706, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0218, seed 420218)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0219
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420219
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 5, "magie_min": 0.335, "magie_eind": 0.389, "golven": 11, "assen": {"5": 2, "4": 2, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 1120, "macht_eind": {"staat": 0.301, "huizen": 0.059, "kerk": 0.005, "steden": 0.162, "dragers": 0.261, "buren": 0.188, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.146, "buren_honger": 0.889, "ev": 0.737, "aelthir": 0.472, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0219, seed 420219)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0220
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420220
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.35, "magie_eind": 0.413, "golven": 15, "assen": {"5": 2, "4": 6, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 20, "rustige_jaren": 700, "macht_eind": {"staat": 0.293, "huizen": 0.075, "kerk": 0.005, "steden": 0.121, "dragers": 0.225, "buren": 0.238, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.175, "buren_honger": 0.969, "ev": 1.169, "aelthir": 0.724, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0220, seed 420220)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0221
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420221
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.217, "magie_eind": 0.217, "golven": 10, "assen": {"5": 6, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2240, "macht_eind": {"staat": 0.311, "huizen": 0.06, "kerk": 0.005, "steden": 0.355, "dragers": 0.17, "buren": 0.074, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.173, "buren_honger": 0.595, "ev": 0.741, "aelthir": 0.217, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0221, seed 420221)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0222
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420222
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.3, "magie_eind": 0.449, "golven": 10, "assen": {"5": 5, "4": 4, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2440, "macht_eind": {"staat": 0.262, "huizen": 0.073, "kerk": 0.004, "steden": 0.222, "dragers": 0.138, "buren": 0.279, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.186, "buren_honger": 1.328, "ev": 1.037, "aelthir": 0.486, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0222, seed 420222)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0223
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420223
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 8, "magie_min": 0.323, "magie_eind": 0.376, "golven": 10, "assen": {"5": 2, "4": 7, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 1600, "macht_eind": {"staat": 0.246, "huizen": 0.069, "kerk": 0.004, "steden": 0.178, "dragers": 0.185, "buren": 0.299, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.142, "buren_honger": 1.39, "ev": 1.045, "aelthir": 0.607, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0223, seed 420223)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0224
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420224
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 11, "magie_min": 0.351, "magie_eind": 0.377, "golven": 8, "assen": {"5": 2, "3": 2, "4": 7}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 1300, "macht_eind": {"staat": 0.225, "huizen": 0.103, "kerk": 0.049, "steden": 0.101, "dragers": 0.324, "buren": 0.176, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.187, "buren_honger": 1.063, "ev": 0.723, "aelthir": 0.675, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0224, seed 420224)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0225
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420225
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.263, "magie_eind": 0.263, "golven": 9, "assen": {"5": 5, "4": 6, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 14, "rustige_jaren": 3160, "macht_eind": {"staat": 0.268, "huizen": 0.055, "kerk": 0.005, "steden": 0.254, "dragers": 0.103, "buren": 0.292, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.178, "buren_honger": 1.393, "ev": 0.989, "aelthir": 0.298, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0225, seed 420225)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0226
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420226
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.339, "magie_eind": 0.369, "golven": 16, "assen": {"5": 2, "4": 8, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2220, "macht_eind": {"staat": 0.277, "huizen": 0.083, "kerk": 0.005, "steden": 0.171, "dragers": 0.257, "buren": 0.185, "orrim": 0.008, "volk": 0.012}, "parameters": {"groei": 0.138, "buren_honger": 1.035, "ev": 1.153, "aelthir": 0.336, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0226, seed 420226)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0227
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420227
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 8, "magie_min": 0.347, "magie_eind": 0.347, "golven": 14, "assen": {"5": 1, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1660, "macht_eind": {"staat": 0.289, "huizen": 0.075, "kerk": 0.031, "steden": 0.097, "dragers": 0.271, "buren": 0.193, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.19, "buren_honger": 1.031, "ev": 0.861, "aelthir": 0.272, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0227, seed 420227)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0228
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420228
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 11, "magie_min": 0.351, "magie_eind": 0.369, "golven": 12, "assen": {"5": 2, "3": 5, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 860, "macht_eind": {"staat": 0.248, "huizen": 0.047, "kerk": 0.004, "steden": 0.115, "dragers": 0.222, "buren": 0.325, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.194, "buren_honger": 1.364, "ev": 1.237, "aelthir": 0.625, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0228, seed 420228)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0229
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420229
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.357, "magie_eind": 0.401, "golven": 15, "assen": {"5": 5, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 2360, "macht_eind": {"staat": 0.358, "huizen": 0.095, "kerk": 0.006, "steden": 0.137, "dragers": 0.237, "buren": 0.112, "orrim": 0.038, "volk": 0.018}, "parameters": {"groei": 0.199, "buren_honger": 0.638, "ev": 0.702, "aelthir": 0.263, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0229, seed 420229)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0230
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420230
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 6
+- **scores:** {"fasen": 6, "onopgelost": 11, "magie_min": 0.352, "magie_eind": 0.356, "golven": 12, "assen": {"5": 1, "4": 3, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 14, "rustige_jaren": 1120, "macht_eind": {"staat": 0.286, "huizen": 0.078, "kerk": 0.023, "steden": 0.103, "dragers": 0.273, "buren": 0.214, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.156, "buren_honger": 1.063, "ev": 0.777, "aelthir": 0.398, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0230, seed 420230)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0231
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420231
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.321, "magie_eind": 0.321, "golven": 11, "assen": {"5": 6, "4": 6}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2540, "macht_eind": {"staat": 0.298, "huizen": 0.116, "kerk": 0.005, "steden": 0.311, "dragers": 0.169, "buren": 0.073, "orrim": 0.009, "volk": 0.019}, "parameters": {"groei": 0.147, "buren_honger": 0.584, "ev": 1.131, "aelthir": 0.408, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0231, seed 420231)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0232
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420232
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.339, "magie_eind": 0.37, "golven": 10, "assen": {"5": 2, "4": 3, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 3, "wetten": 14, "rustige_jaren": 1580, "macht_eind": {"staat": 0.27, "huizen": 0.055, "kerk": 0.005, "steden": 0.14, "dragers": 0.298, "buren": 0.211, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.137, "buren_honger": 1.133, "ev": 1.182, "aelthir": 0.624, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0232, seed 420232)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0233
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420233
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 5, "magie_min": 0.194, "magie_eind": 0.194, "golven": 9, "assen": {"5": 5, "4": 7, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2400, "macht_eind": {"staat": 0.271, "huizen": 0.055, "kerk": 0.005, "steden": 0.329, "dragers": 0.11, "buren": 0.212, "orrim": 0.008, "volk": 0.012}, "parameters": {"groei": 0.215, "buren_honger": 1.152, "ev": 0.787, "aelthir": 0.658, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0233, seed 420233)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0234
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420234
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 8, "magie_min": 0.336, "magie_eind": 0.336, "golven": 15, "assen": {"5": 3, "4": 4, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1540, "macht_eind": {"staat": 0.319, "huizen": 0.057, "kerk": 0.005, "steden": 0.148, "dragers": 0.219, "buren": 0.204, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.151, "buren_honger": 0.813, "ev": 1.287, "aelthir": 0.728, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0234, seed 420234)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0235
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420235
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.169, "magie_eind": 0.169, "golven": 9, "assen": {"5": 4, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 2520, "macht_eind": {"staat": 0.291, "huizen": 0.056, "kerk": 0.005, "steden": 0.369, "dragers": 0.112, "buren": 0.146, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.193, "buren_honger": 0.824, "ev": 0.86, "aelthir": 0.678, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0235, seed 420235)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0236
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420236
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 11, "magie_min": 0.336, "magie_eind": 0.523, "golven": 12, "assen": {"5": 3, "3": 7, "4": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 1180, "macht_eind": {"staat": 0.275, "huizen": 0.047, "kerk": 0.004, "steden": 0.12, "dragers": 0.31, "buren": 0.205, "orrim": 0.027, "volk": 0.013}, "parameters": {"groei": 0.147, "buren_honger": 1.135, "ev": 1.064, "aelthir": 0.554, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0236, seed 420236)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0237
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420237
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.353, "magie_eind": 0.359, "golven": 11, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1400, "macht_eind": {"staat": 0.284, "huizen": 0.082, "kerk": 0.044, "steden": 0.114, "dragers": 0.303, "buren": 0.128, "orrim": 0.033, "volk": 0.012}, "parameters": {"groei": 0.157, "buren_honger": 0.73, "ev": 1.275, "aelthir": 0.559, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0237, seed 420237)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0238
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420238
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.326, "magie_eind": 0.431, "golven": 15, "assen": {"5": 5, "4": 5, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 2120, "macht_eind": {"staat": 0.304, "huizen": 0.078, "kerk": 0.005, "steden": 0.152, "dragers": 0.28, "buren": 0.159, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.188, "buren_honger": 0.844, "ev": 1.095, "aelthir": 0.707, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0238, seed 420238)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0239
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420239
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 7, "magie_min": 0.318, "magie_eind": 0.428, "golven": 9, "assen": {"5": 3, "4": 7, "3": 5}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 19, "rustige_jaren": 1220, "macht_eind": {"staat": 0.263, "huizen": 0.072, "kerk": 0.004, "steden": 0.185, "dragers": 0.209, "buren": 0.225, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.132, "buren_honger": 1.257, "ev": 1.201, "aelthir": 0.264, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0239, seed 420239)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0240
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420240
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.294, "magie_eind": 0.294, "golven": 11, "assen": {"5": 3, "4": 9, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2740, "macht_eind": {"staat": 0.269, "huizen": 0.075, "kerk": 0.004, "steden": 0.218, "dragers": 0.209, "buren": 0.205, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.123, "buren_honger": 1.176, "ev": 0.938, "aelthir": 0.4, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0240, seed 420240)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0241
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420241
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.328, "magie_eind": 0.328, "golven": 16, "assen": {"5": 2, "4": 5, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1620, "macht_eind": {"staat": 0.299, "huizen": 0.056, "kerk": 0.005, "steden": 0.16, "dragers": 0.374, "buren": 0.06, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.128, "buren_honger": 0.538, "ev": 0.984, "aelthir": 0.346, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0241, seed 420241)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0242
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420242
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 14, "magie_min": 0.338, "magie_eind": 0.338, "golven": 14, "assen": {"5": 2, "3": 2, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1180, "macht_eind": {"staat": 0.273, "huizen": 0.071, "kerk": 0.004, "steden": 0.109, "dragers": 0.276, "buren": 0.226, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.215, "buren_honger": 1.152, "ev": 1.247, "aelthir": 0.555, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0242, seed 420242)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0243
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420243
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 17, "onopgelost": 8, "magie_min": 0.262, "magie_eind": 0.262, "golven": 13, "assen": {"5": 6, "4": 6, "3": 5}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 19, "rustige_jaren": 2240, "macht_eind": {"staat": 0.242, "huizen": 0.077, "kerk": 0.005, "steden": 0.244, "dragers": 0.232, "buren": 0.155, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.158, "buren_honger": 0.997, "ev": 1.225, "aelthir": 0.794, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0243, seed 420243)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0244
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420244
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 11, "magie_min": 0.335, "magie_eind": 0.335, "golven": 11, "assen": {"5": 4, "3": 5, "4": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 4, "wetten": 16, "rustige_jaren": 1800, "macht_eind": {"staat": 0.264, "huizen": 0.058, "kerk": 0.005, "steden": 0.169, "dragers": 0.358, "buren": 0.097, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.135, "buren_honger": 0.793, "ev": 1.106, "aelthir": 0.585, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0244, seed 420244)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0245
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420245
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 4, "magie_min": 0.336, "magie_eind": 0.336, "golven": 8, "assen": {"5": 1, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 14, "rustige_jaren": 1660, "macht_eind": {"staat": 0.409, "huizen": 0.104, "kerk": 0.006, "steden": 0.182, "dragers": 0.197, "buren": 0.072, "orrim": 0.01, "volk": 0.019}, "parameters": {"groei": 0.21, "buren_honger": 0.523, "ev": 0.763, "aelthir": 0.772, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0245, seed 420245)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0246
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420246
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.34, "magie_eind": 0.34, "golven": 12, "assen": {"5": 2, "3": 4, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 1280, "macht_eind": {"staat": 0.275, "huizen": 0.05, "kerk": 0.004, "steden": 0.145, "dragers": 0.234, "buren": 0.252, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.137, "buren_honger": 1.06, "ev": 1.081, "aelthir": 0.693, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0246, seed 420246)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0247
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420247
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 13, "magie_min": 0.356, "magie_eind": 0.368, "golven": 16, "assen": {"5": 2, "4": 4, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1060, "macht_eind": {"staat": 0.278, "huizen": 0.071, "kerk": 0.004, "steden": 0.124, "dragers": 0.25, "buren": 0.253, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.193, "buren_honger": 1.058, "ev": 0.992, "aelthir": 0.419, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0247, seed 420247)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0248
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420248
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 6
+- **scores:** {"fasen": 6, "onopgelost": 9, "magie_min": 0.352, "magie_eind": 0.369, "golven": 11, "assen": {"5": 2, "4": 3, "3": 1}, "rijmt_met_canon": 1, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1440, "macht_eind": {"staat": 0.249, "huizen": 0.065, "kerk": 0.035, "steden": 0.087, "dragers": 0.227, "buren": 0.299, "orrim": 0.026, "volk": 0.012}, "parameters": {"groei": 0.203, "buren_honger": 1.312, "ev": 0.905, "aelthir": 0.282, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0248, seed 420248)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0249
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420249
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.335, "magie_eind": 0.335, "golven": 12, "assen": {"5": 1, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1940, "macht_eind": {"staat": 0.28, "huizen": 0.055, "kerk": 0.005, "steden": 0.152, "dragers": 0.236, "buren": 0.251, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.177, "buren_honger": 1.118, "ev": 0.947, "aelthir": 0.745, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0249, seed 420249)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0250
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420250
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 17, "onopgelost": 10, "magie_min": 0.34, "magie_eind": 0.415, "golven": 14, "assen": {"5": 5, "4": 9, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 21, "rustige_jaren": 1920, "macht_eind": {"staat": 0.24, "huizen": 0.067, "kerk": 0.004, "steden": 0.128, "dragers": 0.27, "buren": 0.252, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.21, "buren_honger": 1.415, "ev": 0.941, "aelthir": 0.544, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0250, seed 420250)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0251
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420251
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 7, "magie_min": 0.326, "magie_eind": 0.328, "golven": 9, "assen": {"5": 5, "4": 8, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 4, "wetten": 18, "rustige_jaren": 2320, "macht_eind": {"staat": 0.237, "huizen": 0.099, "kerk": 0.005, "steden": 0.256, "dragers": 0.221, "buren": 0.138, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.14, "buren_honger": 0.82, "ev": 0.849, "aelthir": 0.554, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0251, seed 420251)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0252
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420252
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 3, "magie_min": 0.233, "magie_eind": 0.233, "golven": 10, "assen": {"5": 6, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 2620, "macht_eind": {"staat": 0.278, "huizen": 0.075, "kerk": 0.005, "steden": 0.31, "dragers": 0.075, "buren": 0.236, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.219, "buren_honger": 1.242, "ev": 0.979, "aelthir": 0.318, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0252, seed 420252)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0253
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420253
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.337, "magie_eind": 0.337, "golven": 8, "assen": {"5": 2, "3": 4, "4": 5}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1580, "macht_eind": {"staat": 0.343, "huizen": 0.095, "kerk": 0.006, "steden": 0.163, "dragers": 0.237, "buren": 0.101, "orrim": 0.038, "volk": 0.017}, "parameters": {"groei": 0.219, "buren_honger": 0.643, "ev": 0.864, "aelthir": 0.234, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0253, seed 420253)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0254
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420254
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 3, "magie_min": 0.318, "magie_eind": 0.318, "golven": 11, "assen": {"5": 2, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 17, "rustige_jaren": 2500, "macht_eind": {"staat": 0.405, "huizen": 0.104, "kerk": 0.006, "steden": 0.182, "dragers": 0.166, "buren": 0.108, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.183, "buren_honger": 0.604, "ev": 0.712, "aelthir": 0.616, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0254, seed 420254)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0255
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420255
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 5, "magie_min": 0.33, "magie_eind": 0.33, "golven": 12, "assen": {"5": 3, "4": 9, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 19, "rustige_jaren": 1580, "macht_eind": {"staat": 0.267, "huizen": 0.074, "kerk": 0.004, "steden": 0.16, "dragers": 0.295, "buren": 0.158, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.125, "buren_honger": 0.92, "ev": 0.845, "aelthir": 0.631, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0255, seed 420255)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0256
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420256
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 13, "magie_min": 0.326, "magie_eind": 0.401, "golven": 13, "assen": {"5": 4, "3": 4, "4": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 1020, "macht_eind": {"staat": 0.22, "huizen": 0.048, "kerk": 0.004, "steden": 0.152, "dragers": 0.267, "buren": 0.271, "orrim": 0.027, "volk": 0.011}, "parameters": {"groei": 0.127, "buren_honger": 1.495, "ev": 1.203, "aelthir": 0.524, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0256, seed 420256)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0257
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420257
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.337, "magie_eind": 0.346, "golven": 10, "assen": {"5": 2, "3": 3, "4": 8}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 1520, "macht_eind": {"staat": 0.251, "huizen": 0.049, "kerk": 0.004, "steden": 0.17, "dragers": 0.218, "buren": 0.267, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.193, "buren_honger": 1.434, "ev": 1.029, "aelthir": 0.628, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0257, seed 420257)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0258
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420258
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.132, "magie_eind": 0.132, "golven": 8, "assen": {"5": 6, "4": 4, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 2760, "macht_eind": {"staat": 0.232, "huizen": 0.048, "kerk": 0.004, "steden": 0.327, "dragers": 0.11, "buren": 0.259, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.127, "buren_honger": 1.405, "ev": 0.871, "aelthir": 0.596, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0258, seed 420258)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0259
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420259
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 10, "magie_min": 0.348, "magie_eind": 0.348, "golven": 10, "assen": {"5": 2, "4": 8, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 1140, "macht_eind": {"staat": 0.271, "huizen": 0.072, "kerk": 0.047, "steden": 0.108, "dragers": 0.275, "buren": 0.186, "orrim": 0.029, "volk": 0.012}, "parameters": {"groei": 0.125, "buren_honger": 0.999, "ev": 1.175, "aelthir": 0.65, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0259, seed 420259)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0260
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420260
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 10, "magie_min": 0.343, "magie_eind": 0.348, "golven": 12, "assen": {"5": 4, "4": 7, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 600, "macht_eind": {"staat": 0.257, "huizen": 0.079, "kerk": 0.005, "steden": 0.129, "dragers": 0.293, "buren": 0.19, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.164, "buren_honger": 1.063, "ev": 1.225, "aelthir": 0.412, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0260, seed 420260)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0261
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420261
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.298, "magie_eind": 0.298, "golven": 9, "assen": {"5": 2, "4": 7, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 1540, "macht_eind": {"staat": 0.329, "huizen": 0.064, "kerk": 0.005, "steden": 0.208, "dragers": 0.2, "buren": 0.142, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.156, "buren_honger": 0.73, "ev": 0.892, "aelthir": 0.797, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0261, seed 420261)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0262
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420262
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.333, "magie_eind": 0.483, "golven": 10, "assen": {"5": 2, "4": 4, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1940, "macht_eind": {"staat": 0.324, "huizen": 0.057, "kerk": 0.005, "steden": 0.153, "dragers": 0.212, "buren": 0.201, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.218, "buren_honger": 0.803, "ev": 0.724, "aelthir": 0.343, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0262, seed 420262)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0263
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420263
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 8, "magie_min": 0.264, "magie_eind": 0.264, "golven": 14, "assen": {"5": 4, "4": 5, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 4, "wetten": 17, "rustige_jaren": 2380, "macht_eind": {"staat": 0.269, "huizen": 0.053, "kerk": 0.005, "steden": 0.231, "dragers": 0.221, "buren": 0.176, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.146, "buren_honger": 0.956, "ev": 1.226, "aelthir": 0.524, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0263, seed 420263)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0264
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420264
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 5, "magie_min": 0.32, "magie_eind": 0.349, "golven": 11, "assen": {"5": 3, "4": 1, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1800, "macht_eind": {"staat": 0.312, "huizen": 0.06, "kerk": 0.005, "steden": 0.175, "dragers": 0.18, "buren": 0.218, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.162, "buren_honger": 0.963, "ev": 0.721, "aelthir": 0.558, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0264, seed 420264)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0265
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420265
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 7, "magie_min": 0.318, "magie_eind": 0.465, "golven": 10, "assen": {"5": 2, "3": 3, "4": 9}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 1240, "macht_eind": {"staat": 0.243, "huizen": 0.049, "kerk": 0.004, "steden": 0.171, "dragers": 0.252, "buren": 0.24, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.167, "buren_honger": 1.353, "ev": 0.975, "aelthir": 0.747, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0265, seed 420265)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0266
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420266
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.338, "magie_eind": 0.338, "golven": 8, "assen": {"5": 3, "3": 3, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 2080, "macht_eind": {"staat": 0.292, "huizen": 0.082, "kerk": 0.005, "steden": 0.136, "dragers": 0.205, "buren": 0.232, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.219, "buren_honger": 1.068, "ev": 1.096, "aelthir": 0.71, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0266, seed 420266)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0267
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420267
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 5, "magie_min": 0.336, "magie_eind": 0.336, "golven": 12, "assen": {"5": 2, "4": 4, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 2300, "macht_eind": {"staat": 0.321, "huizen": 0.056, "kerk": 0.005, "steden": 0.151, "dragers": 0.111, "buren": 0.334, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.206, "buren_honger": 1.212, "ev": 0.786, "aelthir": 0.535, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0267, seed 420267)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0268
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420268
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 4, "magie_min": 0.326, "magie_eind": 0.326, "golven": 16, "assen": {"5": 6, "4": 7, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2820, "macht_eind": {"staat": 0.308, "huizen": 0.113, "kerk": 0.005, "steden": 0.231, "dragers": 0.262, "buren": 0.057, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.189, "buren_honger": 0.541, "ev": 1.01, "aelthir": 0.232, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0268, seed 420268)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0269
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420269
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 8, "magie_min": 0.331, "magie_eind": 0.331, "golven": 10, "assen": {"5": 5, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 1620, "macht_eind": {"staat": 0.325, "huizen": 0.064, "kerk": 0.006, "steden": 0.17, "dragers": 0.221, "buren": 0.188, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.195, "buren_honger": 0.844, "ev": 1.17, "aelthir": 0.692, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0269, seed 420269)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0270
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420270
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 6, "magie_min": 0.326, "magie_eind": 0.402, "golven": 11, "assen": {"5": 2, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 2540, "macht_eind": {"staat": 0.386, "huizen": 0.077, "kerk": 0.007, "steden": 0.238, "dragers": 0.176, "buren": 0.086, "orrim": 0.011, "volk": 0.02}, "parameters": {"groei": 0.136, "buren_honger": 0.543, "ev": 1.094, "aelthir": 0.367, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0270, seed 420270)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0271
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420271
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.34, "magie_eind": 0.34, "golven": 9, "assen": {"5": 3, "4": 5, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 17, "rustige_jaren": 2360, "macht_eind": {"staat": 0.385, "huizen": 0.105, "kerk": 0.006, "steden": 0.159, "dragers": 0.211, "buren": 0.074, "orrim": 0.042, "volk": 0.018}, "parameters": {"groei": 0.132, "buren_honger": 0.555, "ev": 0.832, "aelthir": 0.509, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0271, seed 420271)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0272
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420272
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 4, "magie_min": 0.243, "magie_eind": 0.243, "golven": 6, "assen": {"5": 4, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 13, "rustige_jaren": 2780, "macht_eind": {"staat": 0.304, "huizen": 0.064, "kerk": 0.005, "steden": 0.314, "dragers": 0.073, "buren": 0.213, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.152, "buren_honger": 1.073, "ev": 0.725, "aelthir": 0.701, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0272, seed 420272)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0273
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420273
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 10, "magie_min": 0.334, "magie_eind": 0.334, "golven": 12, "assen": {"5": 3, "4": 7, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 3, "wetten": 17, "rustige_jaren": 1200, "macht_eind": {"staat": 0.263, "huizen": 0.06, "kerk": 0.005, "steden": 0.163, "dragers": 0.265, "buren": 0.196, "orrim": 0.034, "volk": 0.014}, "parameters": {"groei": 0.147, "buren_honger": 1.064, "ev": 1.057, "aelthir": 0.47, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0273, seed 420273)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0274
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420274
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.357, "magie_eind": 0.416, "golven": 13, "assen": {"5": 4, "3": 2, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 0, "macht_eind": {"staat": 0.255, "huizen": 0.071, "kerk": 0.035, "steden": 0.103, "dragers": 0.29, "buren": 0.227, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.151, "buren_honger": 1.121, "ev": 0.881, "aelthir": 0.549, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0274, seed 420274)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0275
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420275
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.327, "magie_eind": 0.327, "golven": 11, "assen": {"5": 3, "4": 8, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 500, "macht_eind": {"staat": 0.289, "huizen": 0.05, "kerk": 0.004, "steden": 0.159, "dragers": 0.227, "buren": 0.23, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.13, "buren_honger": 1.13, "ev": 0.891, "aelthir": 0.691, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0275, seed 420275)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0276
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420276
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 5, "magie_min": 0.335, "magie_eind": 0.468, "golven": 12, "assen": {"5": 2, "4": 5, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2200, "macht_eind": {"staat": 0.332, "huizen": 0.061, "kerk": 0.005, "steden": 0.173, "dragers": 0.252, "buren": 0.153, "orrim": 0.009, "volk": 0.014}, "parameters": {"groei": 0.158, "buren_honger": 0.775, "ev": 0.955, "aelthir": 0.738, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0276, seed 420276)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0277
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420277
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 5, "magie_min": 0.316, "magie_eind": 0.316, "golven": 7, "assen": {"5": 8, "4": 4, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 2140, "macht_eind": {"staat": 0.338, "huizen": 0.064, "kerk": 0.005, "steden": 0.188, "dragers": 0.228, "buren": 0.149, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.154, "buren_honger": 0.604, "ev": 1.038, "aelthir": 0.741, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0277, seed 420277)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0278
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420278
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.337, "magie_eind": 0.337, "golven": 12, "assen": {"5": 2, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1940, "macht_eind": {"staat": 0.335, "huizen": 0.086, "kerk": 0.005, "steden": 0.158, "dragers": 0.258, "buren": 0.133, "orrim": 0.009, "volk": 0.018}, "parameters": {"groei": 0.142, "buren_honger": 0.725, "ev": 1.292, "aelthir": 0.588, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0278, seed 420278)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0279
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420279
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.276, "magie_eind": 0.276, "golven": 6, "assen": {"5": 4, "4": 6, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2220, "macht_eind": {"staat": 0.279, "huizen": 0.057, "kerk": 0.005, "steden": 0.247, "dragers": 0.155, "buren": 0.234, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.155, "buren_honger": 1.209, "ev": 0.857, "aelthir": 0.53, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0279, seed 420279)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0280
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420280
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.34, "magie_eind": 0.34, "golven": 12, "assen": {"5": 4, "3": 4, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1860, "macht_eind": {"staat": 0.307, "huizen": 0.085, "kerk": 0.005, "steden": 0.152, "dragers": 0.367, "buren": 0.061, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.137, "buren_honger": 0.557, "ev": 0.723, "aelthir": 0.7, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0280, seed 420280)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0281
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420281
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 10, "magie_min": 0.31, "magie_eind": 0.31, "golven": 11, "assen": {"5": 3, "4": 8, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 1480, "macht_eind": {"staat": 0.333, "huizen": 0.091, "kerk": 0.005, "steden": 0.201, "dragers": 0.219, "buren": 0.097, "orrim": 0.036, "volk": 0.017}, "parameters": {"groei": 0.211, "buren_honger": 0.641, "ev": 1.073, "aelthir": 0.347, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0281, seed 420281)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0282
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420282
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 11, "magie_min": 0.354, "magie_eind": 0.552, "golven": 16, "assen": {"5": 5, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 3, "wetten": 18, "rustige_jaren": 1700, "macht_eind": {"staat": 0.234, "huizen": 0.064, "kerk": 0.004, "steden": 0.115, "dragers": 0.27, "buren": 0.273, "orrim": 0.026, "volk": 0.014}, "parameters": {"groei": 0.192, "buren_honger": 1.45, "ev": 0.882, "aelthir": 0.76, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0282, seed 420282)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0283
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420283
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.345, "magie_eind": 0.425, "golven": 14, "assen": {"5": 4, "4": 5, "3": 4}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1780, "macht_eind": {"staat": 0.31, "huizen": 0.055, "kerk": 0.005, "steden": 0.15, "dragers": 0.261, "buren": 0.175, "orrim": 0.032, "volk": 0.012}, "parameters": {"groei": 0.175, "buren_honger": 0.743, "ev": 1.279, "aelthir": 0.476, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0283, seed 420283)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0284
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420284
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.228, "magie_eind": 0.228, "golven": 16, "assen": {"5": 3, "4": 7}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 14, "rustige_jaren": 3080, "macht_eind": {"staat": 0.258, "huizen": 0.051, "kerk": 0.004, "steden": 0.28, "dragers": 0.191, "buren": 0.195, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.184, "buren_honger": 1.019, "ev": 0.847, "aelthir": 0.749, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0284, seed 420284)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0285
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420285
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.339, "magie_eind": 0.354, "golven": 12, "assen": {"5": 3, "3": 4, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1600, "macht_eind": {"staat": 0.315, "huizen": 0.057, "kerk": 0.005, "steden": 0.145, "dragers": 0.275, "buren": 0.156, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.159, "buren_honger": 0.86, "ev": 1.203, "aelthir": 0.342, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0285, seed 420285)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0286
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420286
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 9, "magie_min": 0.338, "magie_eind": 0.352, "golven": 12, "assen": {"5": 3, "4": 2, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1460, "macht_eind": {"staat": 0.29, "huizen": 0.052, "kerk": 0.004, "steden": 0.135, "dragers": 0.216, "buren": 0.285, "orrim": 0.007, "volk": 0.011}, "parameters": {"groei": 0.216, "buren_honger": 1.124, "ev": 0.808, "aelthir": 0.459, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0286, seed 420286)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0287
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420287
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 7, "magie_min": 0.304, "magie_eind": 0.444, "golven": 15, "assen": {"5": 3, "4": 7, "3": 3}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 2000, "macht_eind": {"staat": 0.293, "huizen": 0.071, "kerk": 0.004, "steden": 0.224, "dragers": 0.186, "buren": 0.181, "orrim": 0.029, "volk": 0.012}, "parameters": {"groei": 0.202, "buren_honger": 0.993, "ev": 1.236, "aelthir": 0.206, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0287, seed 420287)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0288
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420288
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.143, "magie_eind": 0.143, "golven": 9, "assen": {"5": 3, "4": 9, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 4, "wetten": 17, "rustige_jaren": 2640, "macht_eind": {"staat": 0.303, "huizen": 0.055, "kerk": 0.005, "steden": 0.387, "dragers": 0.158, "buren": 0.069, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.206, "buren_honger": 0.593, "ev": 0.948, "aelthir": 0.301, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0288, seed 420288)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0289
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420289
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 7, "magie_min": 0.344, "magie_eind": 0.346, "golven": 13, "assen": {"5": 3, "4": 2, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 1580, "macht_eind": {"staat": 0.276, "huizen": 0.049, "kerk": 0.004, "steden": 0.139, "dragers": 0.233, "buren": 0.257, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.14, "buren_honger": 1.224, "ev": 0.972, "aelthir": 0.201, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0289, seed 420289)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0290
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420290
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.34, "magie_eind": 0.34, "golven": 12, "assen": {"5": 2, "4": 7, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 14, "rustige_jaren": 1620, "macht_eind": {"staat": 0.35, "huizen": 0.122, "kerk": 0.006, "steden": 0.141, "dragers": 0.178, "buren": 0.176, "orrim": 0.009, "volk": 0.018}, "parameters": {"groei": 0.128, "buren_honger": 0.836, "ev": 1.158, "aelthir": 0.745, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0290, seed 420290)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0291
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420291
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 9, "magie_min": 0.335, "magie_eind": 0.543, "golven": 15, "assen": {"5": 6, "4": 5, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1260, "macht_eind": {"staat": 0.258, "huizen": 0.051, "kerk": 0.004, "steden": 0.161, "dragers": 0.257, "buren": 0.225, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.183, "buren_honger": 1.252, "ev": 1.079, "aelthir": 0.613, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0291, seed 420291)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0292
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420292
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 7, "magie_min": 0.131, "magie_eind": 0.131, "golven": 10, "assen": {"5": 3, "4": 11, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 1960, "macht_eind": {"staat": 0.293, "huizen": 0.056, "kerk": 0.005, "steden": 0.42, "dragers": 0.113, "buren": 0.09, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.148, "buren_honger": 0.652, "ev": 1.064, "aelthir": 0.264, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0292, seed 420292)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0293
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420293
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.355, "magie_eind": 0.502, "golven": 13, "assen": {"5": 3, "3": 4, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1720, "macht_eind": {"staat": 0.315, "huizen": 0.06, "kerk": 0.005, "steden": 0.144, "dragers": 0.232, "buren": 0.192, "orrim": 0.034, "volk": 0.016}, "parameters": {"groei": 0.169, "buren_honger": 0.92, "ev": 1.216, "aelthir": 0.482, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0293, seed 420293)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0294
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420294
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.339, "magie_eind": 0.339, "golven": 12, "assen": {"5": 2, "3": 4, "4": 6}, "rijmt_met_canon": 1, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 1140, "macht_eind": {"staat": 0.284, "huizen": 0.052, "kerk": 0.004, "steden": 0.124, "dragers": 0.246, "buren": 0.245, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.215, "buren_honger": 1.207, "ev": 1.146, "aelthir": 0.524, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0294, seed 420294)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0295
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420295
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 10, "magie_min": 0.35, "magie_eind": 0.35, "golven": 16, "assen": {"5": 5, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 16, "rustige_jaren": 1420, "macht_eind": {"staat": 0.253, "huizen": 0.045, "kerk": 0.004, "steden": 0.108, "dragers": 0.256, "buren": 0.297, "orrim": 0.026, "volk": 0.011}, "parameters": {"groei": 0.2, "buren_honger": 1.461, "ev": 1.289, "aelthir": 0.312, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0295, seed 420295)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0296
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420296
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 8, "magie_min": 0.355, "magie_eind": 0.691, "golven": 10, "assen": {"5": 2, "3": 4, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 3, "wetten": 16, "rustige_jaren": 1880, "macht_eind": {"staat": 0.287, "huizen": 0.055, "kerk": 0.049, "steden": 0.109, "dragers": 0.36, "buren": 0.094, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.214, "buren_honger": 0.677, "ev": 1.006, "aelthir": 0.692, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0296, seed 420296)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0297
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420297
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 10, "magie_min": 0.362, "magie_eind": 0.375, "golven": 14, "assen": {"5": 6, "3": 6, "4": 3}, "rijmt_met_canon": 1, "erft_van_801": 1, "heersers": 1, "wetten": 18, "rustige_jaren": 920, "macht_eind": {"staat": 0.268, "huizen": 0.05, "kerk": 0.004, "steden": 0.12, "dragers": 0.314, "buren": 0.204, "orrim": 0.029, "volk": 0.011}, "parameters": {"groei": 0.177, "buren_honger": 1.077, "ev": 1.233, "aelthir": 0.595, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0297, seed 420297)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0298
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420298
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.315, "magie_eind": 0.362, "golven": 7, "assen": {"5": 2, "3": 4, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 760, "macht_eind": {"staat": 0.31, "huizen": 0.054, "kerk": 0.005, "steden": 0.156, "dragers": 0.117, "buren": 0.314, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.16, "buren_honger": 1.378, "ev": 0.901, "aelthir": 0.664, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0298, seed 420298)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0299
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420299
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 3, "magie_min": 0.332, "magie_eind": 0.332, "golven": 13, "assen": {"5": 3, "3": 4, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 2500, "macht_eind": {"staat": 0.297, "huizen": 0.059, "kerk": 0.005, "steden": 0.165, "dragers": 0.305, "buren": 0.121, "orrim": 0.034, "volk": 0.014}, "parameters": {"groei": 0.146, "buren_honger": 0.553, "ev": 1.002, "aelthir": 0.233, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0299, seed 420299)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0300
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420300
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 6, "magie_min": 0.207, "magie_eind": 0.207, "golven": 15, "assen": {"5": 5, "4": 6, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 2340, "macht_eind": {"staat": 0.282, "huizen": 0.054, "kerk": 0.005, "steden": 0.314, "dragers": 0.186, "buren": 0.115, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.146, "buren_honger": 0.743, "ev": 1.234, "aelthir": 0.717, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0300, seed 420300)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0301
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420301
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.335, "magie_eind": 0.335, "golven": 15, "assen": {"5": 2, "3": 5, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 1100, "macht_eind": {"staat": 0.25, "huizen": 0.059, "kerk": 0.005, "steden": 0.138, "dragers": 0.365, "buren": 0.134, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.165, "buren_honger": 0.762, "ev": 1.073, "aelthir": 0.392, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0301, seed 420301)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0302
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420302
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.335, "magie_eind": 0.335, "golven": 11, "assen": {"5": 3, "3": 3, "4": 7}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1220, "macht_eind": {"staat": 0.286, "huizen": 0.068, "kerk": 0.006, "steden": 0.173, "dragers": 0.3, "buren": 0.112, "orrim": 0.039, "volk": 0.017}, "parameters": {"groei": 0.212, "buren_honger": 0.673, "ev": 0.979, "aelthir": 0.415, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0302, seed 420302)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0303
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420303
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 9, "magie_min": 0.343, "magie_eind": 0.344, "golven": 10, "assen": {"5": 3, "3": 5, "4": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1840, "macht_eind": {"staat": 0.266, "huizen": 0.056, "kerk": 0.005, "steden": 0.138, "dragers": 0.206, "buren": 0.285, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.196, "buren_honger": 1.284, "ev": 0.915, "aelthir": 0.204, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0303, seed 420303)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0304
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420304
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 4, "magie_min": 0.207, "magie_eind": 0.208, "golven": 13, "assen": {"5": 2, "4": 7, "3": 6}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 2680, "macht_eind": {"staat": 0.291, "huizen": 0.055, "kerk": 0.005, "steden": 0.337, "dragers": 0.19, "buren": 0.076, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.156, "buren_honger": 0.616, "ev": 1.214, "aelthir": 0.705, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0304, seed 420304)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0305
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420305
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 5, "magie_min": 0.183, "magie_eind": 0.183, "golven": 12, "assen": {"5": 4, "4": 7, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 4, "wetten": 17, "rustige_jaren": 2700, "macht_eind": {"staat": 0.271, "huizen": 0.052, "kerk": 0.004, "steden": 0.317, "dragers": 0.208, "buren": 0.104, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.138, "buren_honger": 0.725, "ev": 1.211, "aelthir": 0.623, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0305, seed 420305)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0306
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420306
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 10, "magie_min": 0.343, "magie_eind": 0.434, "golven": 16, "assen": {"5": 2, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 15, "rustige_jaren": 480, "macht_eind": {"staat": 0.281, "huizen": 0.054, "kerk": 0.005, "steden": 0.117, "dragers": 0.286, "buren": 0.214, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.211, "buren_honger": 1.053, "ev": 1.076, "aelthir": 0.701, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0306, seed 420306)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0307
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420307
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 17, "onopgelost": 10, "magie_min": 0.258, "magie_eind": 0.258, "golven": 14, "assen": {"5": 2, "4": 11, "3": 4}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 4, "wetten": 18, "rustige_jaren": 2080, "macht_eind": {"staat": 0.228, "huizen": 0.072, "kerk": 0.004, "steden": 0.244, "dragers": 0.238, "buren": 0.174, "orrim": 0.029, "volk": 0.011}, "parameters": {"groei": 0.126, "buren_honger": 1.107, "ev": 1.244, "aelthir": 0.26, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0307, seed 420307)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0308
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420308
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.332, "magie_eind": 0.39, "golven": 9, "assen": {"5": 3, "4": 4, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 1720, "macht_eind": {"staat": 0.34, "huizen": 0.09, "kerk": 0.005, "steden": 0.137, "dragers": 0.188, "buren": 0.187, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.212, "buren_honger": 0.885, "ev": 0.895, "aelthir": 0.737, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0308, seed 420308)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0309
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420309
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.347, "magie_eind": 0.347, "golven": 10, "assen": {"5": 4, "4": 4, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1880, "macht_eind": {"staat": 0.317, "huizen": 0.109, "kerk": 0.01, "steden": 0.109, "dragers": 0.243, "buren": 0.164, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.152, "buren_honger": 0.859, "ev": 0.874, "aelthir": 0.644, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0309, seed 420309)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0310
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420310
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.299, "magie_eind": 0.305, "golven": 10, "assen": {"5": 4, "4": 8}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2880, "macht_eind": {"staat": 0.296, "huizen": 0.082, "kerk": 0.005, "steden": 0.263, "dragers": 0.106, "buren": 0.225, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.184, "buren_honger": 1.067, "ev": 0.803, "aelthir": 0.564, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0310, seed 420310)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0311
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420311
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.338, "magie_eind": 0.637, "golven": 9, "assen": {"5": 5, "4": 2, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 1360, "macht_eind": {"staat": 0.307, "huizen": 0.081, "kerk": 0.005, "steden": 0.121, "dragers": 0.155, "buren": 0.285, "orrim": 0.033, "volk": 0.014}, "parameters": {"groei": 0.171, "buren_honger": 1.189, "ev": 0.724, "aelthir": 0.628, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0311, seed 420311)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0312
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420312
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.358, "magie_eind": 0.474, "golven": 15, "assen": {"5": 5, "4": 5, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 1, "wetten": 17, "rustige_jaren": 1720, "macht_eind": {"staat": 0.304, "huizen": 0.111, "kerk": 0.005, "steden": 0.109, "dragers": 0.291, "buren": 0.156, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.197, "buren_honger": 0.648, "ev": 1.272, "aelthir": 0.58, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0312, seed 420312)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0313
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420313
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 8, "magie_min": 0.339, "magie_eind": 0.339, "golven": 10, "assen": {"5": 2, "4": 4, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 1340, "macht_eind": {"staat": 0.32, "huizen": 0.087, "kerk": 0.005, "steden": 0.143, "dragers": 0.278, "buren": 0.117, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.187, "buren_honger": 0.535, "ev": 0.95, "aelthir": 0.393, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0313, seed 420313)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0314
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420314
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.294, "magie_eind": 0.294, "golven": 11, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 1860, "macht_eind": {"staat": 0.24, "huizen": 0.049, "kerk": 0.004, "steden": 0.19, "dragers": 0.201, "buren": 0.274, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.162, "buren_honger": 1.382, "ev": 1.025, "aelthir": 0.716, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0314, seed 420314)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0315
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420315
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 3, "magie_min": 0.332, "magie_eind": 0.358, "golven": 7, "assen": {"5": 3, "4": 3, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 13, "rustige_jaren": 1880, "macht_eind": {"staat": 0.418, "huizen": 0.072, "kerk": 0.006, "steden": 0.241, "dragers": 0.113, "buren": 0.12, "orrim": 0.01, "volk": 0.019}, "parameters": {"groei": 0.154, "buren_honger": 0.635, "ev": 0.729, "aelthir": 0.774, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0315, seed 420315)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0316
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420316
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 11, "magie_min": 0.338, "magie_eind": 0.338, "golven": 18, "assen": {"5": 2, "4": 6, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 3, "wetten": 17, "rustige_jaren": 1580, "macht_eind": {"staat": 0.296, "huizen": 0.056, "kerk": 0.005, "steden": 0.144, "dragers": 0.389, "buren": 0.064, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.182, "buren_honger": 0.55, "ev": 1.297, "aelthir": 0.595, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0316, seed 420316)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0317
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420317
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.31, "magie_eind": 0.31, "golven": 7, "assen": {"5": 6, "4": 7}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2280, "macht_eind": {"staat": 0.264, "huizen": 0.1, "kerk": 0.005, "steden": 0.233, "dragers": 0.123, "buren": 0.254, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.193, "buren_honger": 1.341, "ev": 0.782, "aelthir": 0.689, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0317, seed 420317)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0318
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420318
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.33, "magie_eind": 0.33, "golven": 13, "assen": {"5": 5, "3": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 1720, "macht_eind": {"staat": 0.321, "huizen": 0.089, "kerk": 0.005, "steden": 0.162, "dragers": 0.312, "buren": 0.059, "orrim": 0.036, "volk": 0.015}, "parameters": {"groei": 0.146, "buren_honger": 0.545, "ev": 0.825, "aelthir": 0.741, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0318, seed 420318)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0319
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420319
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.336, "magie_eind": 0.336, "golven": 11, "assen": {"5": 2, "3": 4, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 1540, "macht_eind": {"staat": 0.274, "huizen": 0.082, "kerk": 0.005, "steden": 0.146, "dragers": 0.27, "buren": 0.178, "orrim": 0.033, "volk": 0.014}, "parameters": {"groei": 0.131, "buren_honger": 1.008, "ev": 0.712, "aelthir": 0.362, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0319, seed 420319)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0320
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420320
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 9, "magie_min": 0.342, "magie_eind": 0.364, "golven": 16, "assen": {"5": 2, "4": 9, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 19, "rustige_jaren": 880, "macht_eind": {"staat": 0.301, "huizen": 0.081, "kerk": 0.005, "steden": 0.132, "dragers": 0.333, "buren": 0.102, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.164, "buren_honger": 0.656, "ev": 0.873, "aelthir": 0.633, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0320, seed 420320)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0321
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420321
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.322, "magie_eind": 0.332, "golven": 11, "assen": {"5": 3, "4": 3, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2360, "macht_eind": {"staat": 0.322, "huizen": 0.058, "kerk": 0.005, "steden": 0.167, "dragers": 0.181, "buren": 0.244, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.147, "buren_honger": 1.063, "ev": 0.714, "aelthir": 0.446, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0321, seed 420321)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0322
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420322
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.252, "magie_eind": 0.252, "golven": 11, "assen": {"5": 4, "3": 5, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 14, "rustige_jaren": 2700, "macht_eind": {"staat": 0.256, "huizen": 0.05, "kerk": 0.004, "steden": 0.232, "dragers": 0.177, "buren": 0.239, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.145, "buren_honger": 1.338, "ev": 0.775, "aelthir": 0.256, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0322, seed 420322)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0323
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420323
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.31, "magie_eind": 0.31, "golven": 9, "assen": {"5": 1, "3": 3, "4": 7}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 2340, "macht_eind": {"staat": 0.32, "huizen": 0.068, "kerk": 0.006, "steden": 0.189, "dragers": 0.185, "buren": 0.175, "orrim": 0.039, "volk": 0.018}, "parameters": {"groei": 0.195, "buren_honger": 0.817, "ev": 0.889, "aelthir": 0.23, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0323, seed 420323)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0324
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420324
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.192, "magie_eind": 0.198, "golven": 13, "assen": {"5": 6, "4": 6, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2480, "macht_eind": {"staat": 0.225, "huizen": 0.044, "kerk": 0.004, "steden": 0.267, "dragers": 0.213, "buren": 0.228, "orrim": 0.006, "volk": 0.012}, "parameters": {"groei": 0.127, "buren_honger": 1.41, "ev": 1.149, "aelthir": 0.554, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0324, seed 420324)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0325
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420325
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 16, "magie_min": 0.358, "magie_eind": 0.459, "golven": 19, "assen": {"5": 2, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 3, "heersers": 3, "wetten": 16, "rustige_jaren": 860, "macht_eind": {"staat": 0.242, "huizen": 0.045, "kerk": 0.045, "steden": 0.096, "dragers": 0.363, "buren": 0.192, "orrim": 0.006, "volk": 0.011}, "parameters": {"groei": 0.149, "buren_honger": 1.1, "ev": 1.286, "aelthir": 0.682, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0325, seed 420325)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0326
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420326
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 7, "magie_min": 0.35, "magie_eind": 0.457, "golven": 14, "assen": {"5": 3, "4": 2, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 15, "rustige_jaren": 1140, "macht_eind": {"staat": 0.332, "huizen": 0.111, "kerk": 0.005, "steden": 0.124, "dragers": 0.197, "buren": 0.18, "orrim": 0.034, "volk": 0.016}, "parameters": {"groei": 0.206, "buren_honger": 0.716, "ev": 1.194, "aelthir": 0.59, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0326, seed 420326)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0327
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420327
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 11, "magie_min": 0.361, "magie_eind": 0.379, "golven": 10, "assen": {"5": 3, "3": 3, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1140, "macht_eind": {"staat": 0.262, "huizen": 0.049, "kerk": 0.004, "steden": 0.116, "dragers": 0.189, "buren": 0.339, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.218, "buren_honger": 1.366, "ev": 1.055, "aelthir": 0.73, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0327, seed 420327)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0328
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420328
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 4, "magie_min": 0.305, "magie_eind": 0.328, "golven": 13, "assen": {"5": 4, "4": 5, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2940, "macht_eind": {"staat": 0.247, "huizen": 0.069, "kerk": 0.004, "steden": 0.198, "dragers": 0.187, "buren": 0.275, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.133, "buren_honger": 1.437, "ev": 0.794, "aelthir": 0.759, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0328, seed 420328)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0329
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420329
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.186, "magie_eind": 0.257, "golven": 15, "assen": {"5": 3, "4": 6, "3": 3}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2820, "macht_eind": {"staat": 0.307, "huizen": 0.055, "kerk": 0.005, "steden": 0.329, "dragers": 0.219, "buren": 0.039, "orrim": 0.031, "volk": 0.016}, "parameters": {"groei": 0.16, "buren_honger": 0.506, "ev": 1.08, "aelthir": 0.707, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0329, seed 420329)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0330
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420330
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.199, "magie_eind": 0.199, "golven": 11, "assen": {"5": 4, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 14, "rustige_jaren": 3100, "macht_eind": {"staat": 0.323, "huizen": 0.059, "kerk": 0.005, "steden": 0.335, "dragers": 0.117, "buren": 0.137, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.172, "buren_honger": 0.788, "ev": 1.105, "aelthir": 0.211, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0330, seed 420330)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0331
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420331
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.335, "magie_eind": 0.335, "golven": 8, "assen": {"5": 2, "4": 6, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 2080, "macht_eind": {"staat": 0.3, "huizen": 0.052, "kerk": 0.004, "steden": 0.131, "dragers": 0.261, "buren": 0.232, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.216, "buren_honger": 0.956, "ev": 1.012, "aelthir": 0.477, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0331, seed 420331)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0332
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420332
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 8, "magie_min": 0.178, "magie_eind": 0.186, "golven": 12, "assen": {"5": 3, "4": 6, "3": 1}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 4, "wetten": 16, "rustige_jaren": 2620, "macht_eind": {"staat": 0.221, "huizen": 0.048, "kerk": 0.004, "steden": 0.294, "dragers": 0.15, "buren": 0.264, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.121, "buren_honger": 1.49, "ev": 0.735, "aelthir": 0.571, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0332, seed 420332)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0333
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420333
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 12, "magie_min": 0.345, "magie_eind": 0.372, "golven": 14, "assen": {"5": 2, "4": 8, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 4, "wetten": 17, "rustige_jaren": 1000, "macht_eind": {"staat": 0.226, "huizen": 0.059, "kerk": 0.004, "steden": 0.113, "dragers": 0.307, "buren": 0.258, "orrim": 0.024, "volk": 0.011}, "parameters": {"groei": 0.217, "buren_honger": 1.483, "ev": 1.287, "aelthir": 0.704, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0333, seed 420333)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0334
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420334
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.327, "magie_eind": 0.327, "golven": 10, "assen": {"5": 4, "4": 4, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 1580, "macht_eind": {"staat": 0.331, "huizen": 0.059, "kerk": 0.005, "steden": 0.177, "dragers": 0.194, "buren": 0.21, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.121, "buren_honger": 0.98, "ev": 1.07, "aelthir": 0.46, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0334, seed 420334)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0335
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420335
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 10, "magie_min": 0.324, "magie_eind": 0.328, "golven": 9, "assen": {"5": 3, "4": 5, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 1420, "macht_eind": {"staat": 0.273, "huizen": 0.072, "kerk": 0.004, "steden": 0.157, "dragers": 0.188, "buren": 0.284, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.157, "buren_honger": 1.493, "ev": 0.914, "aelthir": 0.397, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0335, seed 420335)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0336
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420336
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.344, "magie_eind": 0.42, "golven": 3, "assen": {"5": 5, "3": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 18, "rustige_jaren": 1500, "macht_eind": {"staat": 0.328, "huizen": 0.066, "kerk": 0.006, "steden": 0.169, "dragers": 0.179, "buren": 0.198, "orrim": 0.038, "volk": 0.016}, "parameters": {"groei": 0.218, "buren_honger": 0.897, "ev": 0.857, "aelthir": 0.685, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0336, seed 420336)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0337
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420337
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.339, "magie_eind": 0.524, "golven": 13, "assen": {"5": 5, "3": 5, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1860, "macht_eind": {"staat": 0.303, "huizen": 0.056, "kerk": 0.005, "steden": 0.139, "dragers": 0.319, "buren": 0.133, "orrim": 0.032, "volk": 0.013}, "parameters": {"groei": 0.131, "buren_honger": 0.785, "ev": 0.943, "aelthir": 0.385, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0337, seed 420337)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0338
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420338
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.318, "magie_eind": 0.504, "golven": 12, "assen": {"5": 4, "4": 5, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 1100, "macht_eind": {"staat": 0.313, "huizen": 0.055, "kerk": 0.005, "steden": 0.15, "dragers": 0.196, "buren": 0.235, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.199, "buren_honger": 0.927, "ev": 0.73, "aelthir": 0.498, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0338, seed 420338)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0339
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420339
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 10, "magie_min": 0.349, "magie_eind": 0.427, "golven": 14, "assen": {"5": 3, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 600, "macht_eind": {"staat": 0.252, "huizen": 0.064, "kerk": 0.044, "steden": 0.081, "dragers": 0.262, "buren": 0.261, "orrim": 0.026, "volk": 0.012}, "parameters": {"groei": 0.186, "buren_honger": 1.377, "ev": 1.276, "aelthir": 0.639, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0339, seed 420339)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0340
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420340
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.159, "magie_eind": 0.159, "golven": 9, "assen": {"5": 4, "4": 6, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2580, "macht_eind": {"staat": 0.249, "huizen": 0.05, "kerk": 0.004, "steden": 0.309, "dragers": 0.093, "buren": 0.273, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.127, "buren_honger": 1.27, "ev": 0.955, "aelthir": 0.658, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0340, seed 420340)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0341
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420341
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 12, "magie_min": 0.337, "magie_eind": 0.351, "golven": 13, "assen": {"5": 6, "4": 7, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 4, "wetten": 18, "rustige_jaren": 1540, "macht_eind": {"staat": 0.231, "huizen": 0.051, "kerk": 0.004, "steden": 0.191, "dragers": 0.309, "buren": 0.171, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.125, "buren_honger": 1.049, "ev": 1.099, "aelthir": 0.559, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0341, seed 420341)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0342
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420342
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.345, "magie_eind": 0.345, "golven": 12, "assen": {"5": 4, "4": 7, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 1200, "macht_eind": {"staat": 0.344, "huizen": 0.122, "kerk": 0.009, "steden": 0.154, "dragers": 0.168, "buren": 0.147, "orrim": 0.037, "volk": 0.018}, "parameters": {"groei": 0.186, "buren_honger": 0.588, "ev": 1.161, "aelthir": 0.623, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0342, seed 420342)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0343
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420343
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 6, "magie_min": 0.329, "magie_eind": 0.329, "golven": 10, "assen": {"5": 2, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1840, "macht_eind": {"staat": 0.37, "huizen": 0.069, "kerk": 0.006, "steden": 0.194, "dragers": 0.147, "buren": 0.188, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.187, "buren_honger": 0.813, "ev": 1.027, "aelthir": 0.214, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0343, seed 420343)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0344
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420344
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 10, "magie_min": 0.348, "magie_eind": 0.46, "golven": 6, "assen": {"5": 2, "4": 3, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 1, "wetten": 16, "rustige_jaren": 1200, "macht_eind": {"staat": 0.268, "huizen": 0.094, "kerk": 0.025, "steden": 0.097, "dragers": 0.152, "buren": 0.322, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.138, "buren_honger": 1.419, "ev": 0.862, "aelthir": 0.486, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0344, seed 420344)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0345
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420345
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 3, "magie_min": 0.337, "magie_eind": 0.414, "golven": 11, "assen": {"5": 5, "4": 4, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 1, "wetten": 17, "rustige_jaren": 2520, "macht_eind": {"staat": 0.368, "huizen": 0.09, "kerk": 0.005, "steden": 0.165, "dragers": 0.189, "buren": 0.131, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.205, "buren_honger": 0.703, "ev": 0.968, "aelthir": 0.754, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0345, seed 420345)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0346
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420346
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.271, "magie_eind": 0.271, "golven": 12, "assen": {"5": 2, "4": 7, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 2400, "macht_eind": {"staat": 0.255, "huizen": 0.049, "kerk": 0.004, "steden": 0.214, "dragers": 0.14, "buren": 0.319, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.188, "buren_honger": 1.449, "ev": 1.056, "aelthir": 0.768, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0346, seed 420346)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0347
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420347
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.372, "magie_eind": 0.689, "golven": 12, "assen": {"5": 4, "3": 4, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1180, "macht_eind": {"staat": 0.253, "huizen": 0.047, "kerk": 0.004, "steden": 0.11, "dragers": 0.28, "buren": 0.268, "orrim": 0.027, "volk": 0.011}, "parameters": {"groei": 0.194, "buren_honger": 1.348, "ev": 1.101, "aelthir": 0.532, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0347, seed 420347)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0348
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420348
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.362, "magie_eind": 0.41, "golven": 14, "assen": {"5": 1, "4": 7, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 1, "wetten": 14, "rustige_jaren": 2320, "macht_eind": {"staat": 0.23, "huizen": 0.102, "kerk": 0.02, "steden": 0.084, "dragers": 0.255, "buren": 0.272, "orrim": 0.026, "volk": 0.01}, "parameters": {"groei": 0.134, "buren_honger": 1.381, "ev": 0.883, "aelthir": 0.732, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0348, seed 420348)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0349
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420349
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.273, "magie_eind": 0.273, "golven": 10, "assen": {"5": 4, "4": 5, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 2860, "macht_eind": {"staat": 0.247, "huizen": 0.073, "kerk": 0.004, "steden": 0.234, "dragers": 0.138, "buren": 0.283, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.135, "buren_honger": 1.486, "ev": 0.843, "aelthir": 0.707, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0349, seed 420349)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0350
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420350
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.328, "magie_eind": 0.478, "golven": 9, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 2200, "macht_eind": {"staat": 0.29, "huizen": 0.055, "kerk": 0.005, "steden": 0.155, "dragers": 0.213, "buren": 0.238, "orrim": 0.032, "volk": 0.013}, "parameters": {"groei": 0.145, "buren_honger": 1.076, "ev": 0.903, "aelthir": 0.597, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0350, seed 420350)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0351
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420351
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.343, "magie_eind": 0.343, "golven": 10, "assen": {"5": 3, "4": 7, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 1420, "macht_eind": {"staat": 0.305, "huizen": 0.089, "kerk": 0.005, "steden": 0.131, "dragers": 0.242, "buren": 0.178, "orrim": 0.036, "volk": 0.014}, "parameters": {"groei": 0.121, "buren_honger": 0.866, "ev": 0.769, "aelthir": 0.219, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0351, seed 420351)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0352
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420352
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 4, "magie_min": 0.331, "magie_eind": 0.331, "golven": 13, "assen": {"5": 5, "4": 8, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 4, "wetten": 18, "rustige_jaren": 2700, "macht_eind": {"staat": 0.256, "huizen": 0.054, "kerk": 0.005, "steden": 0.206, "dragers": 0.391, "buren": 0.044, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.162, "buren_honger": 0.523, "ev": 1.237, "aelthir": 0.645, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0352, seed 420352)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0353
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420353
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 11, "magie_min": 0.334, "magie_eind": 0.334, "golven": 12, "assen": {"5": 3, "4": 5, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1240, "macht_eind": {"staat": 0.304, "huizen": 0.053, "kerk": 0.005, "steden": 0.136, "dragers": 0.24, "buren": 0.22, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.205, "buren_honger": 1.055, "ev": 1.111, "aelthir": 0.221, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0353, seed 420353)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0354
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420354
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 7, "magie_min": 0.262, "magie_eind": 0.284, "golven": 14, "assen": {"5": 7, "3": 2, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 2220, "macht_eind": {"staat": 0.256, "huizen": 0.047, "kerk": 0.004, "steden": 0.226, "dragers": 0.264, "buren": 0.163, "orrim": 0.027, "volk": 0.013}, "parameters": {"groei": 0.183, "buren_honger": 0.971, "ev": 1.033, "aelthir": 0.232, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0354, seed 420354)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0355
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420355
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.343, "magie_eind": 0.393, "golven": 11, "assen": {"5": 3, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 640, "macht_eind": {"staat": 0.3, "huizen": 0.054, "kerk": 0.005, "steden": 0.145, "dragers": 0.238, "buren": 0.214, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.204, "buren_honger": 0.878, "ev": 1.261, "aelthir": 0.677, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0355, seed 420355)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0356
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420356
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.358, "magie_eind": 0.358, "golven": 13, "assen": {"5": 3, "4": 4, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 16, "rustige_jaren": 740, "macht_eind": {"staat": 0.259, "huizen": 0.072, "kerk": 0.028, "steden": 0.094, "dragers": 0.331, "buren": 0.176, "orrim": 0.029, "volk": 0.011}, "parameters": {"groei": 0.127, "buren_honger": 0.995, "ev": 1.293, "aelthir": 0.728, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0356, seed 420356)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0357
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420357
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 8, "magie_min": 0.338, "magie_eind": 0.338, "golven": 8, "assen": {"5": 3, "4": 5, "3": 1}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 1000, "macht_eind": {"staat": 0.329, "huizen": 0.088, "kerk": 0.005, "steden": 0.149, "dragers": 0.14, "buren": 0.264, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.202, "buren_honger": 0.931, "ev": 0.931, "aelthir": 0.317, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0357, seed 420357)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0358
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420358
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 7, "magie_min": 0.351, "magie_eind": 0.351, "golven": 10, "assen": {"5": 2, "3": 4, "4": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1700, "macht_eind": {"staat": 0.275, "huizen": 0.052, "kerk": 0.004, "steden": 0.122, "dragers": 0.209, "buren": 0.293, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.216, "buren_honger": 1.325, "ev": 0.743, "aelthir": 0.721, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0358, seed 420358)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0359
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420359
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.338, "magie_eind": 0.338, "golven": 14, "assen": {"5": 2, "3": 4, "4": 7}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 1060, "macht_eind": {"staat": 0.266, "huizen": 0.101, "kerk": 0.005, "steden": 0.156, "dragers": 0.28, "buren": 0.145, "orrim": 0.031, "volk": 0.015}, "parameters": {"groei": 0.158, "buren_honger": 0.958, "ev": 1.158, "aelthir": 0.637, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0359, seed 420359)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0360
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420360
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.349, "magie_eind": 0.349, "golven": 8, "assen": {"5": 4, "3": 4, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 1580, "macht_eind": {"staat": 0.313, "huizen": 0.086, "kerk": 0.005, "steden": 0.148, "dragers": 0.276, "buren": 0.122, "orrim": 0.035, "volk": 0.015}, "parameters": {"groei": 0.191, "buren_honger": 0.737, "ev": 0.729, "aelthir": 0.748, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0360, seed 420360)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0361
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420361
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.241, "magie_eind": 0.241, "golven": 11, "assen": {"5": 4, "4": 4, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2640, "macht_eind": {"staat": 0.248, "huizen": 0.046, "kerk": 0.004, "steden": 0.227, "dragers": 0.159, "buren": 0.276, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.121, "buren_honger": 1.429, "ev": 1.014, "aelthir": 0.75, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0361, seed 420361)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0362
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420362
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.341, "magie_eind": 0.385, "golven": 10, "assen": {"5": 2, "3": 6, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1800, "macht_eind": {"staat": 0.303, "huizen": 0.057, "kerk": 0.005, "steden": 0.144, "dragers": 0.244, "buren": 0.199, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.166, "buren_honger": 0.98, "ev": 1.021, "aelthir": 0.754, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0362, seed 420362)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0363
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420363
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 5, "magie_min": 0.243, "magie_eind": 0.28, "golven": 5, "assen": {"5": 5, "4": 6, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2960, "macht_eind": {"staat": 0.251, "huizen": 0.051, "kerk": 0.004, "steden": 0.262, "dragers": 0.124, "buren": 0.266, "orrim": 0.029, "volk": 0.012}, "parameters": {"groei": 0.146, "buren_honger": 1.38, "ev": 0.763, "aelthir": 0.708, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0363, seed 420363)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0364
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420364
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.235, "magie_eind": 0.235, "golven": 9, "assen": {"5": 6, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 2820, "macht_eind": {"staat": 0.278, "huizen": 0.053, "kerk": 0.005, "steden": 0.281, "dragers": 0.174, "buren": 0.165, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.214, "buren_honger": 0.908, "ev": 0.949, "aelthir": 0.24, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0364, seed 420364)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0365
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420365
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 3, "magie_min": 0.258, "magie_eind": 0.258, "golven": 13, "assen": {"5": 3, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 13, "rustige_jaren": 2820, "macht_eind": {"staat": 0.359, "huizen": 0.066, "kerk": 0.006, "steden": 0.345, "dragers": 0.085, "buren": 0.112, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.22, "buren_honger": 0.673, "ev": 1.049, "aelthir": 0.641, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0365, seed 420365)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0366
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420366
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.229, "magie_eind": 0.229, "golven": 12, "assen": {"5": 5, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 14, "rustige_jaren": 2340, "macht_eind": {"staat": 0.295, "huizen": 0.059, "kerk": 0.005, "steden": 0.304, "dragers": 0.185, "buren": 0.128, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.207, "buren_honger": 0.757, "ev": 1.107, "aelthir": 0.306, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0366, seed 420366)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0367
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420367
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.341, "magie_eind": 0.341, "golven": 8, "assen": {"5": 3, "4": 6, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 1700, "macht_eind": {"staat": 0.408, "huizen": 0.098, "kerk": 0.006, "steden": 0.154, "dragers": 0.197, "buren": 0.077, "orrim": 0.039, "volk": 0.02}, "parameters": {"groei": 0.201, "buren_honger": 0.572, "ev": 0.779, "aelthir": 0.676, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0367, seed 420367)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0368
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420368
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 8, "magie_min": 0.291, "magie_eind": 0.309, "golven": 16, "assen": {"5": 4, "3": 6, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 1780, "macht_eind": {"staat": 0.23, "huizen": 0.046, "kerk": 0.004, "steden": 0.179, "dragers": 0.321, "buren": 0.184, "orrim": 0.026, "volk": 0.01}, "parameters": {"groei": 0.131, "buren_honger": 1.184, "ev": 1.291, "aelthir": 0.775, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0368, seed 420368)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0369
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420369
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 5, "magie_min": 0.359, "magie_eind": 0.359, "golven": 9, "assen": {"5": 3, "4": 4, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1440, "macht_eind": {"staat": 0.276, "huizen": 0.098, "kerk": 0.044, "steden": 0.106, "dragers": 0.21, "buren": 0.225, "orrim": 0.03, "volk": 0.012}, "parameters": {"groei": 0.154, "buren_honger": 1.132, "ev": 1.04, "aelthir": 0.749, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0369, seed 420369)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0370
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420370
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.32, "magie_eind": 0.32, "golven": 11, "assen": {"5": 4, "4": 4, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2020, "macht_eind": {"staat": 0.318, "huizen": 0.067, "kerk": 0.006, "steden": 0.179, "dragers": 0.298, "buren": 0.078, "orrim": 0.038, "volk": 0.017}, "parameters": {"groei": 0.168, "buren_honger": 0.55, "ev": 1.078, "aelthir": 0.284, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0370, seed 420370)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0371
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420371
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 7, "magie_min": 0.306, "magie_eind": 0.387, "golven": 13, "assen": {"5": 4, "4": 8, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 1420, "macht_eind": {"staat": 0.308, "huizen": 0.083, "kerk": 0.005, "steden": 0.195, "dragers": 0.292, "buren": 0.069, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.2, "buren_honger": 0.587, "ev": 1.055, "aelthir": 0.506, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0371, seed 420371)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0372
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420372
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 11, "magie_min": 0.338, "magie_eind": 0.524, "golven": 13, "assen": {"5": 2, "3": 8, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 3, "heersers": 3, "wetten": 18, "rustige_jaren": 1540, "macht_eind": {"staat": 0.23, "huizen": 0.046, "kerk": 0.004, "steden": 0.11, "dragers": 0.331, "buren": 0.24, "orrim": 0.026, "volk": 0.013}, "parameters": {"groei": 0.18, "buren_honger": 1.223, "ev": 1.09, "aelthir": 0.292, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0372, seed 420372)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0373
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420373
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 5, "magie_min": 0.329, "magie_eind": 0.516, "golven": 8, "assen": {"5": 3, "4": 3, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2280, "macht_eind": {"staat": 0.375, "huizen": 0.068, "kerk": 0.006, "steden": 0.193, "dragers": 0.213, "buren": 0.119, "orrim": 0.01, "volk": 0.016}, "parameters": {"groei": 0.167, "buren_honger": 0.505, "ev": 0.814, "aelthir": 0.228, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0373, seed 420373)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0374
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420374
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.332, "magie_eind": 0.332, "golven": 5, "assen": {"5": 2, "4": 5, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1060, "macht_eind": {"staat": 0.293, "huizen": 0.058, "kerk": 0.005, "steden": 0.152, "dragers": 0.173, "buren": 0.272, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.206, "buren_honger": 1.23, "ev": 0.814, "aelthir": 0.573, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0374, seed 420374)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0375
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420375
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 5, "magie_min": 0.336, "magie_eind": 0.336, "golven": 13, "assen": {"5": 3, "4": 9, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 1660, "macht_eind": {"staat": 0.335, "huizen": 0.06, "kerk": 0.005, "steden": 0.181, "dragers": 0.265, "buren": 0.105, "orrim": 0.034, "volk": 0.014}, "parameters": {"groei": 0.146, "buren_honger": 0.65, "ev": 1.27, "aelthir": 0.475, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0375, seed 420375)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0376
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420376
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.331, "magie_eind": 0.34, "golven": 13, "assen": {"5": 3, "3": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1800, "macht_eind": {"staat": 0.316, "huizen": 0.057, "kerk": 0.005, "steden": 0.15, "dragers": 0.189, "buren": 0.236, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.173, "buren_honger": 1.073, "ev": 0.959, "aelthir": 0.376, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0376, seed 420376)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0377
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420377
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.322, "magie_eind": 0.431, "golven": 12, "assen": {"5": 5, "4": 4, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 1240, "macht_eind": {"staat": 0.311, "huizen": 0.06, "kerk": 0.005, "steden": 0.17, "dragers": 0.341, "buren": 0.063, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.162, "buren_honger": 0.534, "ev": 1.242, "aelthir": 0.604, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0377, seed 420377)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0378
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420378
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.345, "magie_eind": 0.352, "golven": 11, "assen": {"5": 3, "3": 5, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1660, "macht_eind": {"staat": 0.305, "huizen": 0.057, "kerk": 0.005, "steden": 0.147, "dragers": 0.278, "buren": 0.16, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.154, "buren_honger": 0.872, "ev": 1.104, "aelthir": 0.409, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0378, seed 420378)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0379
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420379
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 11, "magie_min": 0.347, "magie_eind": 0.347, "golven": 12, "assen": {"5": 3, "3": 5, "4": 2}, "rijmt_met_canon": 2, "erft_van_801": 3, "heersers": 4, "wetten": 16, "rustige_jaren": 1220, "macht_eind": {"staat": 0.218, "huizen": 0.042, "kerk": 0.024, "steden": 0.099, "dragers": 0.328, "buren": 0.253, "orrim": 0.024, "volk": 0.012}, "parameters": {"groei": 0.147, "buren_honger": 1.367, "ev": 0.852, "aelthir": 0.726, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0379, seed 420379)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0380
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420380
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 8, "magie_min": 0.339, "magie_eind": 0.442, "golven": 9, "assen": {"5": 4, "3": 2, "4": 7}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 1, "wetten": 17, "rustige_jaren": 1020, "macht_eind": {"staat": 0.26, "huizen": 0.079, "kerk": 0.005, "steden": 0.125, "dragers": 0.276, "buren": 0.21, "orrim": 0.032, "volk": 0.013}, "parameters": {"groei": 0.147, "buren_honger": 1.139, "ev": 1.174, "aelthir": 0.537, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0380, seed 420380)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0381
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420381
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.343, "magie_eind": 0.49, "golven": 11, "assen": {"5": 3, "3": 4, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 2580, "macht_eind": {"staat": 0.353, "huizen": 0.098, "kerk": 0.006, "steden": 0.193, "dragers": 0.244, "buren": 0.048, "orrim": 0.039, "volk": 0.019}, "parameters": {"groei": 0.145, "buren_honger": 0.503, "ev": 1.084, "aelthir": 0.456, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0381, seed 420381)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0382
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420382
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.344, "magie_eind": 0.359, "golven": 13, "assen": {"5": 3, "4": 5, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 2300, "macht_eind": {"staat": 0.251, "huizen": 0.052, "kerk": 0.004, "steden": 0.177, "dragers": 0.222, "buren": 0.272, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.208, "buren_honger": 1.429, "ev": 0.984, "aelthir": 0.639, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0382, seed 420382)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0383
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420383
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.347, "magie_eind": 0.347, "golven": 11, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 0, "heersers": 1, "wetten": 17, "rustige_jaren": 1420, "macht_eind": {"staat": 0.262, "huizen": 0.068, "kerk": 0.026, "steden": 0.101, "dragers": 0.198, "buren": 0.306, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.191, "buren_honger": 1.497, "ev": 1.182, "aelthir": 0.777, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0383, seed 420383)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0384
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420384
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 5, "magie_min": 0.252, "magie_eind": 0.285, "golven": 11, "assen": {"5": 5, "4": 6, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2540, "macht_eind": {"staat": 0.232, "huizen": 0.048, "kerk": 0.004, "steden": 0.244, "dragers": 0.158, "buren": 0.274, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.146, "buren_honger": 1.483, "ev": 0.978, "aelthir": 0.55, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0384, seed 420384)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0385
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420385
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.283, "magie_eind": 0.283, "golven": 10, "assen": {"5": 5, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2560, "macht_eind": {"staat": 0.257, "huizen": 0.052, "kerk": 0.004, "steden": 0.227, "dragers": 0.147, "buren": 0.269, "orrim": 0.029, "volk": 0.014}, "parameters": {"groei": 0.18, "buren_honger": 1.382, "ev": 0.812, "aelthir": 0.489, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0385, seed 420385)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0386
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420386
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 4, "magie_min": 0.337, "magie_eind": 0.337, "golven": 12, "assen": {"5": 2, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 1380, "macht_eind": {"staat": 0.311, "huizen": 0.084, "kerk": 0.005, "steden": 0.14, "dragers": 0.176, "buren": 0.235, "orrim": 0.034, "volk": 0.016}, "parameters": {"groei": 0.171, "buren_honger": 1.094, "ev": 0.902, "aelthir": 0.605, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0386, seed 420386)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0387
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420387
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.307, "magie_eind": 0.436, "golven": 15, "assen": {"5": 4, "4": 4, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2000, "macht_eind": {"staat": 0.275, "huizen": 0.055, "kerk": 0.005, "steden": 0.222, "dragers": 0.269, "buren": 0.128, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.182, "buren_honger": 0.902, "ev": 1.065, "aelthir": 0.464, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0387, seed 420387)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0388
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420388
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 9, "magie_min": 0.345, "magie_eind": 0.406, "golven": 16, "assen": {"5": 2, "3": 5, "4": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1280, "macht_eind": {"staat": 0.287, "huizen": 0.051, "kerk": 0.004, "steden": 0.121, "dragers": 0.268, "buren": 0.227, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.156, "buren_honger": 1.161, "ev": 0.797, "aelthir": 0.333, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0388, seed 420388)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0389
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420389
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 9, "magie_min": 0.335, "magie_eind": 0.335, "golven": 13, "assen": {"5": 3, "4": 6, "3": 3}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 1180, "macht_eind": {"staat": 0.3, "huizen": 0.082, "kerk": 0.005, "steden": 0.154, "dragers": 0.172, "buren": 0.24, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.142, "buren_honger": 1.216, "ev": 1.158, "aelthir": 0.56, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0389, seed 420389)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0390
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420390
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 10, "magie_min": 0.308, "magie_eind": 0.308, "golven": 10, "assen": {"5": 5, "3": 5, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 1940, "macht_eind": {"staat": 0.255, "huizen": 0.057, "kerk": 0.005, "steden": 0.21, "dragers": 0.243, "buren": 0.183, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.173, "buren_honger": 1.063, "ev": 1.221, "aelthir": 0.508, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0390, seed 420390)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0391
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420391
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 12, "magie_min": 0.337, "magie_eind": 0.337, "golven": 12, "assen": {"5": 3, "3": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1020, "macht_eind": {"staat": 0.285, "huizen": 0.09, "kerk": 0.005, "steden": 0.124, "dragers": 0.342, "buren": 0.102, "orrim": 0.036, "volk": 0.015}, "parameters": {"groei": 0.196, "buren_honger": 0.663, "ev": 1.281, "aelthir": 0.505, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0391, seed 420391)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0392
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420392
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 10, "magie_min": 0.341, "magie_eind": 0.341, "golven": 7, "assen": {"5": 1, "3": 2, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 14, "rustige_jaren": 1500, "macht_eind": {"staat": 0.287, "huizen": 0.08, "kerk": 0.005, "steden": 0.124, "dragers": 0.184, "buren": 0.298, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.217, "buren_honger": 1.299, "ev": 0.916, "aelthir": 0.439, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0392, seed 420392)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0393
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420393
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 10, "magie_min": 0.361, "magie_eind": 0.366, "golven": 11, "assen": {"5": 5, "3": 2, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 1, "wetten": 17, "rustige_jaren": 1840, "macht_eind": {"staat": 0.299, "huizen": 0.081, "kerk": 0.054, "steden": 0.117, "dragers": 0.275, "buren": 0.127, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.171, "buren_honger": 0.762, "ev": 1.086, "aelthir": 0.339, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0393, seed 420393)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0394
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420394
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 3, "magie_min": 0.344, "magie_eind": 0.344, "golven": 10, "assen": {"5": 1, "3": 4, "4": 7}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 1980, "macht_eind": {"staat": 0.343, "huizen": 0.065, "kerk": 0.006, "steden": 0.161, "dragers": 0.224, "buren": 0.145, "orrim": 0.037, "volk": 0.018}, "parameters": {"groei": 0.21, "buren_honger": 0.764, "ev": 0.808, "aelthir": 0.377, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0394, seed 420394)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0395
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420395
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.337, "magie_eind": 0.337, "golven": 9, "assen": {"5": 2, "3": 4, "4": 7}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 1800, "macht_eind": {"staat": 0.305, "huizen": 0.117, "kerk": 0.005, "steden": 0.155, "dragers": 0.278, "buren": 0.089, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.218, "buren_honger": 0.625, "ev": 1.124, "aelthir": 0.729, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0395, seed 420395)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0396
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420396
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.134, "magie_eind": 0.136, "golven": 9, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 3020, "macht_eind": {"staat": 0.237, "huizen": 0.049, "kerk": 0.004, "steden": 0.355, "dragers": 0.125, "buren": 0.209, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.129, "buren_honger": 1.253, "ev": 0.879, "aelthir": 0.733, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0396, seed 420396)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0397
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420397
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.282, "magie_eind": 0.282, "golven": 9, "assen": {"5": 2, "4": 10, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2500, "macht_eind": {"staat": 0.281, "huizen": 0.055, "kerk": 0.005, "steden": 0.217, "dragers": 0.213, "buren": 0.183, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.199, "buren_honger": 1.075, "ev": 1.213, "aelthir": 0.323, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0397, seed 420397)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0398
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420398
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 8, "magie_min": 0.357, "magie_eind": 0.464, "golven": 13, "assen": {"5": 2, "4": 5, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 900, "macht_eind": {"staat": 0.29, "huizen": 0.085, "kerk": 0.049, "steden": 0.116, "dragers": 0.272, "buren": 0.164, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.196, "buren_honger": 0.875, "ev": 0.915, "aelthir": 0.716, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0398, seed 420398)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0399
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420399
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.334, "magie_eind": 0.578, "golven": 8, "assen": {"5": 2, "4": 5, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1800, "macht_eind": {"staat": 0.272, "huizen": 0.072, "kerk": 0.004, "steden": 0.14, "dragers": 0.166, "buren": 0.302, "orrim": 0.029, "volk": 0.015}, "parameters": {"groei": 0.123, "buren_honger": 1.354, "ev": 0.738, "aelthir": 0.481, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0399, seed 420399)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0400
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420400
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 6, "magie_min": 0.343, "magie_eind": 0.532, "golven": 15, "assen": {"5": 5, "3": 5, "4": 6}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 20, "rustige_jaren": 1280, "macht_eind": {"staat": 0.261, "huizen": 0.052, "kerk": 0.004, "steden": 0.128, "dragers": 0.375, "buren": 0.137, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.182, "buren_honger": 0.84, "ev": 1.121, "aelthir": 0.476, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0400, seed 420400)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0401
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420401
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.258, "magie_eind": 0.258, "golven": 14, "assen": {"5": 3, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 14, "rustige_jaren": 2300, "macht_eind": {"staat": 0.247, "huizen": 0.048, "kerk": 0.004, "steden": 0.217, "dragers": 0.221, "buren": 0.242, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.127, "buren_honger": 1.256, "ev": 0.834, "aelthir": 0.57, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0401, seed 420401)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0402
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420402
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.354, "magie_eind": 0.371, "golven": 11, "assen": {"5": 2, "4": 6, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 14, "rustige_jaren": 1020, "macht_eind": {"staat": 0.249, "huizen": 0.09, "kerk": 0.032, "steden": 0.089, "dragers": 0.242, "buren": 0.282, "orrim": 0.007, "volk": 0.01}, "parameters": {"groei": 0.131, "buren_honger": 1.366, "ev": 0.884, "aelthir": 0.381, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0402, seed 420402)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0403
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420403
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 6, "magie_min": 0.336, "magie_eind": 0.448, "golven": 12, "assen": {"5": 3, "4": 2, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1980, "macht_eind": {"staat": 0.3, "huizen": 0.076, "kerk": 0.005, "steden": 0.142, "dragers": 0.129, "buren": 0.326, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.19, "buren_honger": 1.376, "ev": 0.701, "aelthir": 0.227, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0403, seed 420403)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0404
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420404
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 13, "magie_min": 0.35, "magie_eind": 0.35, "golven": 11, "assen": {"5": 2, "4": 7, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1220, "macht_eind": {"staat": 0.273, "huizen": 0.089, "kerk": 0.058, "steden": 0.114, "dragers": 0.337, "buren": 0.104, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.182, "buren_honger": 0.798, "ev": 1.025, "aelthir": 0.753, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0404, seed 420404)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0405
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420405
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.27, "magie_eind": 0.27, "golven": 15, "assen": {"5": 3, "4": 8, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2440, "macht_eind": {"staat": 0.258, "huizen": 0.077, "kerk": 0.005, "steden": 0.288, "dragers": 0.217, "buren": 0.133, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.192, "buren_honger": 0.804, "ev": 1.267, "aelthir": 0.735, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0405, seed 420405)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0406
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420406
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 8, "magie_min": 0.266, "magie_eind": 0.266, "golven": 12, "assen": {"5": 2, "4": 7, "3": 5}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 4, "wetten": 18, "rustige_jaren": 1840, "macht_eind": {"staat": 0.246, "huizen": 0.047, "kerk": 0.004, "steden": 0.214, "dragers": 0.242, "buren": 0.208, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.138, "buren_honger": 1.25, "ev": 0.903, "aelthir": 0.49, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0406, seed 420406)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0407
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420407
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 7, "magie_min": 0.335, "magie_eind": 0.335, "golven": 9, "assen": {"5": 2, "4": 8, "3": 3}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 1980, "macht_eind": {"staat": 0.266, "huizen": 0.077, "kerk": 0.005, "steden": 0.151, "dragers": 0.215, "buren": 0.242, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.129, "buren_honger": 1.262, "ev": 0.748, "aelthir": 0.591, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0407, seed 420407)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0408
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420408
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.346, "magie_eind": 0.346, "golven": 16, "assen": {"5": 2, "3": 4, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 1200, "macht_eind": {"staat": 0.26, "huizen": 0.049, "kerk": 0.004, "steden": 0.125, "dragers": 0.259, "buren": 0.263, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.156, "buren_honger": 1.25, "ev": 1.185, "aelthir": 0.272, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0408, seed 420408)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0409
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420409
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 10, "magie_min": 0.39, "magie_eind": 0.409, "golven": 18, "assen": {"5": 2, "4": 6}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 1100, "macht_eind": {"staat": 0.254, "huizen": 0.066, "kerk": 0.037, "steden": 0.086, "dragers": 0.279, "buren": 0.259, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.176, "buren_honger": 1.342, "ev": 1.229, "aelthir": 0.365, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0409, seed 420409)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0410
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420410
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.34, "magie_eind": 0.443, "golven": 14, "assen": {"5": 4, "4": 3, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 17, "rustige_jaren": 1420, "macht_eind": {"staat": 0.318, "huizen": 0.086, "kerk": 0.005, "steden": 0.123, "dragers": 0.206, "buren": 0.212, "orrim": 0.034, "volk": 0.016}, "parameters": {"groei": 0.16, "buren_honger": 1.08, "ev": 0.76, "aelthir": 0.712, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0410, seed 420410)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0411
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420411
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.366, "magie_eind": 0.399, "golven": 13, "assen": {"5": 5, "3": 1, "4": 6}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 1880, "macht_eind": {"staat": 0.261, "huizen": 0.068, "kerk": 0.043, "steden": 0.091, "dragers": 0.286, "buren": 0.213, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.168, "buren_honger": 1.139, "ev": 1.061, "aelthir": 0.4, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0411, seed 420411)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0412
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420412
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 7, "magie_min": 0.132, "magie_eind": 0.132, "golven": 8, "assen": {"5": 3, "4": 10, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2460, "macht_eind": {"staat": 0.307, "huizen": 0.057, "kerk": 0.005, "steden": 0.419, "dragers": 0.139, "buren": 0.05, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.149, "buren_honger": 0.531, "ev": 0.889, "aelthir": 0.441, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0412, seed 420412)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0413
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420413
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 10, "magie_min": 0.35, "magie_eind": 0.35, "golven": 8, "assen": {"5": 2, "4": 7, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 1380, "macht_eind": {"staat": 0.265, "huizen": 0.074, "kerk": 0.004, "steden": 0.128, "dragers": 0.191, "buren": 0.295, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.199, "buren_honger": 1.475, "ev": 0.781, "aelthir": 0.368, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0413, seed 420413)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0414
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420414
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.363, "magie_eind": 0.363, "golven": 10, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 1460, "macht_eind": {"staat": 0.262, "huizen": 0.069, "kerk": 0.037, "steden": 0.101, "dragers": 0.24, "buren": 0.252, "orrim": 0.027, "volk": 0.011}, "parameters": {"groei": 0.164, "buren_honger": 1.234, "ev": 0.707, "aelthir": 0.707, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0414, seed 420414)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0415
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420415
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.336, "magie_eind": 0.336, "golven": 7, "assen": {"5": 4, "4": 7, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 4, "wetten": 17, "rustige_jaren": 2220, "macht_eind": {"staat": 0.282, "huizen": 0.059, "kerk": 0.005, "steden": 0.202, "dragers": 0.253, "buren": 0.149, "orrim": 0.034, "volk": 0.016}, "parameters": {"groei": 0.213, "buren_honger": 0.94, "ev": 0.781, "aelthir": 0.293, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0415, seed 420415)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0416
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420416
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 12, "magie_min": 0.336, "magie_eind": 0.336, "golven": 13, "assen": {"5": 3, "4": 3, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1640, "macht_eind": {"staat": 0.276, "huizen": 0.071, "kerk": 0.004, "steden": 0.129, "dragers": 0.228, "buren": 0.272, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.157, "buren_honger": 1.121, "ev": 1.096, "aelthir": 0.283, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0416, seed 420416)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0417
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420417
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 4, "magie_min": 0.22, "magie_eind": 0.22, "golven": 11, "assen": {"5": 2, "4": 8, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 3040, "macht_eind": {"staat": 0.311, "huizen": 0.058, "kerk": 0.005, "steden": 0.335, "dragers": 0.192, "buren": 0.073, "orrim": 0.008, "volk": 0.018}, "parameters": {"groei": 0.175, "buren_honger": 0.594, "ev": 0.96, "aelthir": 0.672, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0417, seed 420417)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0418
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420418
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 3, "magie_min": 0.336, "magie_eind": 0.336, "golven": 7, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 2660, "macht_eind": {"staat": 0.363, "huizen": 0.102, "kerk": 0.006, "steden": 0.153, "dragers": 0.234, "buren": 0.084, "orrim": 0.041, "volk": 0.018}, "parameters": {"groei": 0.125, "buren_honger": 0.583, "ev": 0.895, "aelthir": 0.496, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0418, seed 420418)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0419
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420419
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.183, "magie_eind": 0.183, "golven": 7, "assen": {"5": 4, "4": 8, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 2700, "macht_eind": {"staat": 0.266, "huizen": 0.074, "kerk": 0.004, "steden": 0.327, "dragers": 0.059, "buren": 0.249, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.13, "buren_honger": 1.301, "ev": 1.127, "aelthir": 0.28, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0419, seed 420419)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0420
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420420
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 3, "magie_min": 0.338, "magie_eind": 0.338, "golven": 15, "assen": {"5": 4, "3": 3, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1300, "macht_eind": {"staat": 0.297, "huizen": 0.054, "kerk": 0.005, "steden": 0.167, "dragers": 0.291, "buren": 0.141, "orrim": 0.031, "volk": 0.015}, "parameters": {"groei": 0.12, "buren_honger": 0.655, "ev": 1.196, "aelthir": 0.361, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0420, seed 420420)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0421
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420421
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 10, "magie_min": 0.335, "magie_eind": 0.335, "golven": 13, "assen": {"5": 2, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1200, "macht_eind": {"staat": 0.282, "huizen": 0.051, "kerk": 0.004, "steden": 0.128, "dragers": 0.202, "buren": 0.313, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.164, "buren_honger": 1.389, "ev": 0.798, "aelthir": 0.594, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0421, seed 420421)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0422
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420422
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 15, "magie_min": 0.354, "magie_eind": 0.354, "golven": 19, "assen": {"5": 5, "4": 6, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 660, "macht_eind": {"staat": 0.239, "huizen": 0.067, "kerk": 0.061, "steden": 0.078, "dragers": 0.376, "buren": 0.14, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.206, "buren_honger": 0.885, "ev": 1.282, "aelthir": 0.239, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0422, seed 420422)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0423
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420423
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 11, "magie_min": 0.346, "magie_eind": 0.458, "golven": 15, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 600, "macht_eind": {"staat": 0.225, "huizen": 0.063, "kerk": 0.004, "steden": 0.125, "dragers": 0.278, "buren": 0.269, "orrim": 0.025, "volk": 0.011}, "parameters": {"groei": 0.123, "buren_honger": 1.429, "ev": 1.175, "aelthir": 0.216, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0423, seed 420423)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0424
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420424
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.357, "magie_eind": 0.504, "golven": 16, "assen": {"5": 5, "3": 3, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 1780, "macht_eind": {"staat": 0.291, "huizen": 0.051, "kerk": 0.016, "steden": 0.119, "dragers": 0.33, "buren": 0.175, "orrim": 0.007, "volk": 0.01}, "parameters": {"groei": 0.162, "buren_honger": 0.958, "ev": 1.253, "aelthir": 0.327, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0424, seed 420424)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0425
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420425
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 9, "magie_min": 0.304, "magie_eind": 0.641, "golven": 10, "assen": {"5": 4, "3": 3, "4": 7}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 1620, "macht_eind": {"staat": 0.253, "huizen": 0.069, "kerk": 0.004, "steden": 0.16, "dragers": 0.208, "buren": 0.267, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.137, "buren_honger": 1.451, "ev": 1.127, "aelthir": 0.491, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0425, seed 420425)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0426
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420426
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 8, "magie_min": 0.343, "magie_eind": 0.424, "golven": 12, "assen": {"5": 5, "4": 3, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 1420, "macht_eind": {"staat": 0.258, "huizen": 0.07, "kerk": 0.004, "steden": 0.11, "dragers": 0.258, "buren": 0.26, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.206, "buren_honger": 1.304, "ev": 0.953, "aelthir": 0.602, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0426, seed 420426)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0427
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420427
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 5, "magie_min": 0.272, "magie_eind": 0.335, "golven": 13, "assen": {"5": 8, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2660, "macht_eind": {"staat": 0.253, "huizen": 0.057, "kerk": 0.005, "steden": 0.298, "dragers": 0.285, "buren": 0.054, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.199, "buren_honger": 0.545, "ev": 1.107, "aelthir": 0.479, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0427, seed 420427)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0428
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420428
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.335, "magie_eind": 0.335, "golven": 11, "assen": {"5": 2, "3": 3, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 2180, "macht_eind": {"staat": 0.314, "huizen": 0.085, "kerk": 0.005, "steden": 0.153, "dragers": 0.308, "buren": 0.087, "orrim": 0.034, "volk": 0.014}, "parameters": {"groei": 0.157, "buren_honger": 0.6, "ev": 1.169, "aelthir": 0.264, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0428, seed 420428)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0429
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420429
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.353, "magie_eind": 0.484, "golven": 10, "assen": {"5": 4, "4": 4, "3": 1}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 1440, "macht_eind": {"staat": 0.295, "huizen": 0.076, "kerk": 0.005, "steden": 0.121, "dragers": 0.174, "buren": 0.308, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.177, "buren_honger": 1.182, "ev": 0.813, "aelthir": 0.486, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0429, seed 420429)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0430
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420430
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 4, "magie_min": 0.271, "magie_eind": 0.271, "golven": 11, "assen": {"5": 5, "4": 5, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2720, "macht_eind": {"staat": 0.258, "huizen": 0.079, "kerk": 0.005, "steden": 0.251, "dragers": 0.173, "buren": 0.188, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.176, "buren_honger": 1.088, "ev": 0.747, "aelthir": 0.222, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0430, seed 420430)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0431
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420431
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.341, "magie_eind": 0.347, "golven": 9, "assen": {"5": 2, "4": 5, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 2120, "macht_eind": {"staat": 0.351, "huizen": 0.099, "kerk": 0.006, "steden": 0.146, "dragers": 0.199, "buren": 0.142, "orrim": 0.04, "volk": 0.018}, "parameters": {"groei": 0.125, "buren_honger": 0.744, "ev": 0.911, "aelthir": 0.644, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0431, seed 420431)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0432
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420432
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.36, "magie_eind": 0.403, "golven": 16, "assen": {"5": 4, "4": 4, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 19, "rustige_jaren": 1280, "macht_eind": {"staat": 0.271, "huizen": 0.052, "kerk": 0.004, "steden": 0.131, "dragers": 0.311, "buren": 0.187, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.17, "buren_honger": 0.999, "ev": 1.031, "aelthir": 0.363, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0432, seed 420432)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0433
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420433
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 4, "magie_min": 0.337, "magie_eind": 0.403, "golven": 8, "assen": {"5": 2, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 2220, "macht_eind": {"staat": 0.4, "huizen": 0.073, "kerk": 0.006, "steden": 0.229, "dragers": 0.178, "buren": 0.084, "orrim": 0.01, "volk": 0.019}, "parameters": {"groei": 0.194, "buren_honger": 0.547, "ev": 0.726, "aelthir": 0.271, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0433, seed 420433)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0434
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420434
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 11, "magie_min": 0.336, "magie_eind": 0.419, "golven": 8, "assen": {"5": 2, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1440, "macht_eind": {"staat": 0.287, "huizen": 0.052, "kerk": 0.004, "steden": 0.128, "dragers": 0.231, "buren": 0.255, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.159, "buren_honger": 1.241, "ev": 0.878, "aelthir": 0.399, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0434, seed 420434)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0435
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420435
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.282, "magie_eind": 0.282, "golven": 11, "assen": {"5": 3, "4": 6, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 2100, "macht_eind": {"staat": 0.228, "huizen": 0.05, "kerk": 0.004, "steden": 0.208, "dragers": 0.193, "buren": 0.275, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.144, "buren_honger": 1.45, "ev": 0.762, "aelthir": 0.581, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0435, seed 420435)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0436
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420436
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.33, "magie_eind": 0.33, "golven": 10, "assen": {"5": 4, "4": 7, "3": 1}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 2160, "macht_eind": {"staat": 0.327, "huizen": 0.085, "kerk": 0.005, "steden": 0.17, "dragers": 0.145, "buren": 0.245, "orrim": 0.009, "volk": 0.014}, "parameters": {"groei": 0.144, "buren_honger": 0.897, "ev": 0.786, "aelthir": 0.543, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0436, seed 420436)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0437
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420437
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 10, "magie_min": 0.339, "magie_eind": 0.415, "golven": 17, "assen": {"5": 3, "3": 3, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 960, "macht_eind": {"staat": 0.266, "huizen": 0.049, "kerk": 0.004, "steden": 0.119, "dragers": 0.251, "buren": 0.27, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.213, "buren_honger": 1.279, "ev": 1.037, "aelthir": 0.407, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0437, seed 420437)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0438
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420438
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 5, "magie_min": 0.342, "magie_eind": 0.36, "golven": 12, "assen": {"5": 3, "3": 3, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 14, "rustige_jaren": 2280, "macht_eind": {"staat": 0.315, "huizen": 0.061, "kerk": 0.005, "steden": 0.17, "dragers": 0.278, "buren": 0.147, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.154, "buren_honger": 0.615, "ev": 1.108, "aelthir": 0.205, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0438, seed 420438)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0439
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420439
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 4, "magie_min": 0.241, "magie_eind": 0.389, "golven": 8, "assen": {"5": 6, "4": 4, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 2900, "macht_eind": {"staat": 0.237, "huizen": 0.051, "kerk": 0.004, "steden": 0.246, "dragers": 0.168, "buren": 0.273, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.139, "buren_honger": 1.419, "ev": 0.754, "aelthir": 0.568, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0439, seed 420439)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0440
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420440
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 10, "magie_min": 0.337, "magie_eind": 0.442, "golven": 12, "assen": {"5": 3, "3": 5, "4": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 780, "macht_eind": {"staat": 0.256, "huizen": 0.049, "kerk": 0.004, "steden": 0.118, "dragers": 0.247, "buren": 0.284, "orrim": 0.028, "volk": 0.014}, "parameters": {"groei": 0.206, "buren_honger": 1.382, "ev": 0.895, "aelthir": 0.465, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0440, seed 420440)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0441
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420441
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.352, "magie_eind": 0.401, "golven": 11, "assen": {"5": 3, "3": 4, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1640, "macht_eind": {"staat": 0.351, "huizen": 0.093, "kerk": 0.006, "steden": 0.166, "dragers": 0.28, "buren": 0.049, "orrim": 0.037, "volk": 0.017}, "parameters": {"groei": 0.182, "buren_honger": 0.511, "ev": 1.3, "aelthir": 0.481, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0441, seed 420441)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0442
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420442
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.148, "magie_eind": 0.285, "golven": 11, "assen": {"5": 4, "4": 7, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2380, "macht_eind": {"staat": 0.241, "huizen": 0.051, "kerk": 0.004, "steden": 0.336, "dragers": 0.131, "buren": 0.216, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.144, "buren_honger": 1.241, "ev": 0.928, "aelthir": 0.378, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0442, seed 420442)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0443
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420443
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.325, "magie_eind": 0.325, "golven": 12, "assen": {"5": 2, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 1380, "macht_eind": {"staat": 0.296, "huizen": 0.051, "kerk": 0.004, "steden": 0.151, "dragers": 0.188, "buren": 0.29, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.145, "buren_honger": 1.168, "ev": 0.867, "aelthir": 0.769, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0443, seed 420443)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0444
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420444
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.351, "magie_eind": 0.351, "golven": 16, "assen": {"5": 4, "4": 6, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 1860, "macht_eind": {"staat": 0.297, "huizen": 0.074, "kerk": 0.032, "steden": 0.096, "dragers": 0.364, "buren": 0.093, "orrim": 0.03, "volk": 0.015}, "parameters": {"groei": 0.189, "buren_honger": 0.685, "ev": 1.269, "aelthir": 0.677, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0444, seed 420444)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0445
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420445
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 9, "magie_min": 0.284, "magie_eind": 0.306, "golven": 15, "assen": {"5": 5, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 1740, "macht_eind": {"staat": 0.213, "huizen": 0.048, "kerk": 0.004, "steden": 0.202, "dragers": 0.276, "buren": 0.217, "orrim": 0.028, "volk": 0.011}, "parameters": {"groei": 0.126, "buren_honger": 1.276, "ev": 1.269, "aelthir": 0.393, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0445, seed 420445)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0446
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420446
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 4, "magie_min": 0.321, "magie_eind": 0.321, "golven": 8, "assen": {"5": 3, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 2040, "macht_eind": {"staat": 0.406, "huizen": 0.076, "kerk": 0.007, "steden": 0.241, "dragers": 0.131, "buren": 0.106, "orrim": 0.011, "volk": 0.021}, "parameters": {"groei": 0.163, "buren_honger": 0.589, "ev": 0.724, "aelthir": 0.502, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0446, seed 420446)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0447
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420447
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 17, "onopgelost": 4, "magie_min": 0.32, "magie_eind": 0.32, "golven": 11, "assen": {"5": 4, "3": 4, "4": 9}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 2320, "macht_eind": {"staat": 0.323, "huizen": 0.057, "kerk": 0.005, "steden": 0.173, "dragers": 0.325, "buren": 0.072, "orrim": 0.032, "volk": 0.013}, "parameters": {"groei": 0.144, "buren_honger": 0.568, "ev": 0.978, "aelthir": 0.2, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0447, seed 420447)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0448
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420448
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 6
+- **scores:** {"fasen": 6, "onopgelost": 12, "magie_min": 0.348, "magie_eind": 0.348, "golven": 14, "assen": {"5": 1, "4": 3, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 960, "macht_eind": {"staat": 0.282, "huizen": 0.068, "kerk": 0.017, "steden": 0.096, "dragers": 0.178, "buren": 0.319, "orrim": 0.027, "volk": 0.013}, "parameters": {"groei": 0.193, "buren_honger": 1.471, "ev": 0.928, "aelthir": 0.257, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0448, seed 420448)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0449
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420449
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.363, "magie_eind": 0.376, "golven": 15, "assen": {"5": 3, "3": 2, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 3, "wetten": 16, "rustige_jaren": 1240, "macht_eind": {"staat": 0.275, "huizen": 0.049, "kerk": 0.004, "steden": 0.129, "dragers": 0.281, "buren": 0.243, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.137, "buren_honger": 1.182, "ev": 0.96, "aelthir": 0.251, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0449, seed 420449)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0450
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420450
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 18, "onopgelost": 12, "magie_min": 0.131, "magie_eind": 0.131, "golven": 9, "assen": {"5": 5, "4": 9, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 0, "heersers": 4, "wetten": 17, "rustige_jaren": 1760, "macht_eind": {"staat": 0.272, "huizen": 0.057, "kerk": 0.005, "steden": 0.432, "dragers": 0.138, "buren": 0.075, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.147, "buren_honger": 0.608, "ev": 1.022, "aelthir": 0.535, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0450, seed 420450)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0451
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420451
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.357, "magie_eind": 0.422, "golven": 8, "assen": {"5": 2, "3": 2, "4": 7}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1820, "macht_eind": {"staat": 0.245, "huizen": 0.047, "kerk": 0.034, "steden": 0.109, "dragers": 0.243, "buren": 0.281, "orrim": 0.027, "volk": 0.014}, "parameters": {"groei": 0.183, "buren_honger": 1.391, "ev": 0.758, "aelthir": 0.76, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0451, seed 420451)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0452
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420452
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.344, "magie_eind": 0.346, "golven": 13, "assen": {"5": 3, "4": 3, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2440, "macht_eind": {"staat": 0.364, "huizen": 0.063, "kerk": 0.005, "steden": 0.172, "dragers": 0.215, "buren": 0.128, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.216, "buren_honger": 0.554, "ev": 1.025, "aelthir": 0.271, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0452, seed 420452)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0453
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420453
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.347, "magie_eind": 0.347, "golven": 11, "assen": {"5": 1, "4": 7, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 1860, "macht_eind": {"staat": 0.218, "huizen": 0.058, "kerk": 0.04, "steden": 0.077, "dragers": 0.321, "buren": 0.253, "orrim": 0.023, "volk": 0.01}, "parameters": {"groei": 0.177, "buren_honger": 1.466, "ev": 1.048, "aelthir": 0.229, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0453, seed 420453)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0454
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420454
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 4, "magie_min": 0.15, "magie_eind": 0.15, "golven": 4, "assen": {"5": 4, "4": 4, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 2600, "macht_eind": {"staat": 0.265, "huizen": 0.053, "kerk": 0.005, "steden": 0.336, "dragers": 0.106, "buren": 0.193, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.121, "buren_honger": 1.005, "ev": 0.893, "aelthir": 0.412, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0454, seed 420454)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0455
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420455
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.356, "magie_eind": 0.356, "golven": 10, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 1240, "macht_eind": {"staat": 0.347, "huizen": 0.088, "kerk": 0.005, "steden": 0.131, "dragers": 0.292, "buren": 0.086, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.152, "buren_honger": 0.588, "ev": 0.981, "aelthir": 0.437, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0455, seed 420455)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0456
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420456
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.232, "magie_eind": 0.364, "golven": 9, "assen": {"5": 3, "4": 8, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2740, "macht_eind": {"staat": 0.26, "huizen": 0.054, "kerk": 0.005, "steden": 0.279, "dragers": 0.146, "buren": 0.234, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.149, "buren_honger": 1.262, "ev": 1.025, "aelthir": 0.719, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0456, seed 420456)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0457
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420457
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 10, "magie_min": 0.349, "magie_eind": 0.421, "golven": 15, "assen": {"5": 1, "4": 5, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1220, "macht_eind": {"staat": 0.266, "huizen": 0.064, "kerk": 0.031, "steden": 0.086, "dragers": 0.23, "buren": 0.288, "orrim": 0.026, "volk": 0.01}, "parameters": {"groei": 0.206, "buren_honger": 1.431, "ev": 1.186, "aelthir": 0.754, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0457, seed 420457)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0458
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420458
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 10, "magie_min": 0.363, "magie_eind": 0.449, "golven": 14, "assen": {"5": 2, "3": 3, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 2, "wetten": 15, "rustige_jaren": 1740, "macht_eind": {"staat": 0.254, "huizen": 0.047, "kerk": 0.044, "steden": 0.1, "dragers": 0.322, "buren": 0.213, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.196, "buren_honger": 1.16, "ev": 1.16, "aelthir": 0.667, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0458, seed 420458)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0459
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420459
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.339, "magie_eind": 0.347, "golven": 17, "assen": {"5": 2, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1920, "macht_eind": {"staat": 0.314, "huizen": 0.054, "kerk": 0.005, "steden": 0.145, "dragers": 0.263, "buren": 0.197, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.19, "buren_honger": 0.82, "ev": 0.786, "aelthir": 0.567, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0459, seed 420459)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0460
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420460
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.33, "magie_eind": 0.468, "golven": 8, "assen": {"5": 2, "3": 2, "4": 6}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1100, "macht_eind": {"staat": 0.342, "huizen": 0.062, "kerk": 0.005, "steden": 0.182, "dragers": 0.24, "buren": 0.143, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.182, "buren_honger": 0.597, "ev": 0.969, "aelthir": 0.668, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0460, seed 420460)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0461
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420461
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.344, "magie_eind": 0.428, "golven": 11, "assen": {"5": 6, "3": 3, "4": 3}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 1, "wetten": 18, "rustige_jaren": 840, "macht_eind": {"staat": 0.287, "huizen": 0.051, "kerk": 0.004, "steden": 0.13, "dragers": 0.268, "buren": 0.219, "orrim": 0.029, "volk": 0.012}, "parameters": {"groei": 0.123, "buren_honger": 1.113, "ev": 1.102, "aelthir": 0.52, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0461, seed 420461)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0462
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420462
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.322, "magie_eind": 0.322, "golven": 8, "assen": {"5": 3, "3": 4, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1420, "macht_eind": {"staat": 0.338, "huizen": 0.066, "kerk": 0.006, "steden": 0.171, "dragers": 0.228, "buren": 0.135, "orrim": 0.038, "volk": 0.017}, "parameters": {"groei": 0.208, "buren_honger": 0.741, "ev": 0.734, "aelthir": 0.37, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0462, seed 420462)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0463
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420463
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 4, "magie_min": 0.208, "magie_eind": 0.208, "golven": 11, "assen": {"5": 2, "4": 6, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 14, "rustige_jaren": 3200, "macht_eind": {"staat": 0.292, "huizen": 0.055, "kerk": 0.005, "steden": 0.304, "dragers": 0.158, "buren": 0.161, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.127, "buren_honger": 0.873, "ev": 0.766, "aelthir": 0.484, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0463, seed 420463)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0464
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420464
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 5, "magie_min": 0.262, "magie_eind": 0.269, "golven": 11, "assen": {"5": 6, "4": 7, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 2680, "macht_eind": {"staat": 0.296, "huizen": 0.08, "kerk": 0.005, "steden": 0.299, "dragers": 0.135, "buren": 0.162, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.199, "buren_honger": 0.998, "ev": 0.998, "aelthir": 0.46, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0464, seed 420464)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0465
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420465
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.33, "magie_eind": 0.33, "golven": 14, "assen": {"5": 3, "4": 6, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 2380, "macht_eind": {"staat": 0.375, "huizen": 0.104, "kerk": 0.006, "steden": 0.221, "dragers": 0.187, "buren": 0.079, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.144, "buren_honger": 0.538, "ev": 0.955, "aelthir": 0.431, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0465, seed 420465)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0466
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420466
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.32, "magie_eind": 0.32, "golven": 10, "assen": {"5": 2, "4": 6, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1980, "macht_eind": {"staat": 0.265, "huizen": 0.049, "kerk": 0.004, "steden": 0.165, "dragers": 0.195, "buren": 0.28, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.191, "buren_honger": 1.378, "ev": 0.95, "aelthir": 0.517, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0466, seed 420466)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0467
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420467
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.326, "magie_eind": 0.326, "golven": 13, "assen": {"5": 4, "4": 4, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 3, "wetten": 15, "rustige_jaren": 2600, "macht_eind": {"staat": 0.271, "huizen": 0.052, "kerk": 0.004, "steden": 0.194, "dragers": 0.283, "buren": 0.153, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.169, "buren_honger": 0.982, "ev": 0.773, "aelthir": 0.344, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0467, seed 420467)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0468
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420468
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 6, "magie_min": 0.163, "magie_eind": 0.195, "golven": 14, "assen": {"5": 3, "4": 10, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 2520, "macht_eind": {"staat": 0.277, "huizen": 0.054, "kerk": 0.005, "steden": 0.36, "dragers": 0.17, "buren": 0.117, "orrim": 0.008, "volk": 0.01}, "parameters": {"groei": 0.139, "buren_honger": 0.871, "ev": 1.122, "aelthir": 0.281, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0468, seed 420468)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0469
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420469
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 10, "magie_min": 0.354, "magie_eind": 0.369, "golven": 11, "assen": {"5": 2, "3": 4, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1180, "macht_eind": {"staat": 0.285, "huizen": 0.054, "kerk": 0.005, "steden": 0.12, "dragers": 0.231, "buren": 0.261, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.204, "buren_honger": 1.223, "ev": 0.84, "aelthir": 0.454, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0469, seed 420469)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0470
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420470
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.24, "magie_eind": 0.24, "golven": 9, "assen": {"5": 4, "4": 8, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 14, "rustige_jaren": 2780, "macht_eind": {"staat": 0.262, "huizen": 0.049, "kerk": 0.004, "steden": 0.24, "dragers": 0.168, "buren": 0.257, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.194, "buren_honger": 1.415, "ev": 0.82, "aelthir": 0.237, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0470, seed 420470)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0471
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420471
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.145, "magie_eind": 0.145, "golven": 11, "assen": {"5": 3, "4": 6, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2840, "macht_eind": {"staat": 0.273, "huizen": 0.055, "kerk": 0.005, "steden": 0.38, "dragers": 0.135, "buren": 0.129, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.203, "buren_honger": 0.774, "ev": 0.756, "aelthir": 0.778, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0471, seed 420471)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0472
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420472
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.338, "magie_eind": 0.59, "golven": 11, "assen": {"5": 3, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1260, "macht_eind": {"staat": 0.345, "huizen": 0.098, "kerk": 0.006, "steden": 0.146, "dragers": 0.264, "buren": 0.085, "orrim": 0.039, "volk": 0.018}, "parameters": {"groei": 0.133, "buren_honger": 0.597, "ev": 1.105, "aelthir": 0.793, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0472, seed 420472)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0473
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420473
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 8, "magie_min": 0.34, "magie_eind": 0.364, "golven": 9, "assen": {"5": 5, "4": 1, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1520, "macht_eind": {"staat": 0.302, "huizen": 0.08, "kerk": 0.005, "steden": 0.115, "dragers": 0.145, "buren": 0.331, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.165, "buren_honger": 1.34, "ev": 0.701, "aelthir": 0.663, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0473, seed 420473)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0474
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420474
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.339, "magie_eind": 0.339, "golven": 11, "assen": {"5": 4, "4": 4, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1380, "macht_eind": {"staat": 0.32, "huizen": 0.06, "kerk": 0.005, "steden": 0.158, "dragers": 0.179, "buren": 0.229, "orrim": 0.034, "volk": 0.016}, "parameters": {"groei": 0.213, "buren_honger": 0.852, "ev": 0.813, "aelthir": 0.616, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0474, seed 420474)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0475
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420475
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.312, "magie_eind": 0.312, "golven": 12, "assen": {"5": 2, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1300, "macht_eind": {"staat": 0.31, "huizen": 0.058, "kerk": 0.005, "steden": 0.164, "dragers": 0.215, "buren": 0.202, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.154, "buren_honger": 0.939, "ev": 0.947, "aelthir": 0.335, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0475, seed 420475)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0476
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420476
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.328, "magie_eind": 0.383, "golven": 11, "assen": {"5": 2, "3": 4, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 2280, "macht_eind": {"staat": 0.378, "huizen": 0.069, "kerk": 0.006, "steden": 0.21, "dragers": 0.198, "buren": 0.082, "orrim": 0.04, "volk": 0.018}, "parameters": {"groei": 0.176, "buren_honger": 0.584, "ev": 0.722, "aelthir": 0.387, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0476, seed 420476)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0477
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420477
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.243, "magie_eind": 0.268, "golven": 12, "assen": {"5": 4, "4": 4, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 2860, "macht_eind": {"staat": 0.312, "huizen": 0.058, "kerk": 0.005, "steden": 0.304, "dragers": 0.092, "buren": 0.206, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.169, "buren_honger": 0.991, "ev": 1.164, "aelthir": 0.431, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0477, seed 420477)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0478
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420478
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 14, "magie_min": 0.297, "magie_eind": 0.297, "golven": 10, "assen": {"5": 2, "4": 8, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 1220, "macht_eind": {"staat": 0.253, "huizen": 0.074, "kerk": 0.004, "steden": 0.186, "dragers": 0.23, "buren": 0.209, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.147, "buren_honger": 1.058, "ev": 0.827, "aelthir": 0.524, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0478, seed 420478)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0479
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420479
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.334, "magie_eind": 0.383, "golven": 16, "assen": {"5": 2, "4": 6, "3": 3}, "rijmt_met_canon": 1, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1840, "macht_eind": {"staat": 0.298, "huizen": 0.056, "kerk": 0.005, "steden": 0.144, "dragers": 0.294, "buren": 0.155, "orrim": 0.032, "volk": 0.016}, "parameters": {"groei": 0.22, "buren_honger": 0.865, "ev": 1.126, "aelthir": 0.752, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0479, seed 420479)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0480
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420480
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 14, "magie_min": 0.334, "magie_eind": 0.334, "golven": 12, "assen": {"5": 2, "4": 7, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 780, "macht_eind": {"staat": 0.233, "huizen": 0.088, "kerk": 0.004, "steden": 0.14, "dragers": 0.236, "buren": 0.261, "orrim": 0.027, "volk": 0.011}, "parameters": {"groei": 0.12, "buren_honger": 1.449, "ev": 1.105, "aelthir": 0.563, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0480, seed 420480)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0481
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420481
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 6, "magie_min": 0.337, "magie_eind": 0.337, "golven": 10, "assen": {"5": 2, "4": 3, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 15, "rustige_jaren": 820, "macht_eind": {"staat": 0.33, "huizen": 0.087, "kerk": 0.005, "steden": 0.143, "dragers": 0.138, "buren": 0.246, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.191, "buren_honger": 1.035, "ev": 0.847, "aelthir": 0.629, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0481, seed 420481)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0482
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420482
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.334, "magie_eind": 0.334, "golven": 6, "assen": {"5": 2, "3": 4, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 820, "macht_eind": {"staat": 0.299, "huizen": 0.058, "kerk": 0.005, "steden": 0.143, "dragers": 0.19, "buren": 0.257, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.199, "buren_honger": 1.145, "ev": 0.759, "aelthir": 0.215, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0482, seed 420482)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0483
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420483
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.331, "magie_eind": 0.331, "golven": 12, "assen": {"5": 5, "3": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1800, "macht_eind": {"staat": 0.285, "huizen": 0.053, "kerk": 0.005, "steden": 0.145, "dragers": 0.205, "buren": 0.264, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.198, "buren_honger": 1.185, "ev": 1.26, "aelthir": 0.735, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0483, seed 420483)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0484
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420484
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 3, "magie_min": 0.132, "magie_eind": 0.132, "golven": 11, "assen": {"5": 2, "4": 9, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 4, "wetten": 18, "rustige_jaren": 2800, "macht_eind": {"staat": 0.302, "huizen": 0.055, "kerk": 0.005, "steden": 0.442, "dragers": 0.102, "buren": 0.072, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.131, "buren_honger": 0.608, "ev": 1.02, "aelthir": 0.652, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0484, seed 420484)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0485
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420485
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 11, "magie_min": 0.341, "magie_eind": 0.385, "golven": 14, "assen": {"5": 2, "3": 5, "4": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 820, "macht_eind": {"staat": 0.247, "huizen": 0.046, "kerk": 0.004, "steden": 0.105, "dragers": 0.323, "buren": 0.236, "orrim": 0.026, "volk": 0.012}, "parameters": {"groei": 0.214, "buren_honger": 1.272, "ev": 0.883, "aelthir": 0.611, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0485, seed 420485)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0486
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420486
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 11, "magie_min": 0.346, "magie_eind": 0.413, "golven": 12, "assen": {"5": 2, "3": 7, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 3, "wetten": 17, "rustige_jaren": 960, "macht_eind": {"staat": 0.327, "huizen": 0.071, "kerk": 0.006, "steden": 0.167, "dragers": 0.262, "buren": 0.109, "orrim": 0.04, "volk": 0.018}, "parameters": {"groei": 0.201, "buren_honger": 0.741, "ev": 1.087, "aelthir": 0.641, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0486, seed 420486)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0487
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420487
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.186, "magie_eind": 0.186, "golven": 12, "assen": {"5": 3, "4": 7, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2800, "macht_eind": {"staat": 0.282, "huizen": 0.051, "kerk": 0.004, "steden": 0.302, "dragers": 0.168, "buren": 0.173, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.148, "buren_honger": 0.961, "ev": 0.825, "aelthir": 0.668, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0487, seed 420487)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0488
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420488
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.252, "magie_eind": 0.353, "golven": 6, "assen": {"5": 3, "4": 9, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2960, "macht_eind": {"staat": 0.302, "huizen": 0.085, "kerk": 0.005, "steden": 0.303, "dragers": 0.093, "buren": 0.188, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.183, "buren_honger": 0.918, "ev": 0.845, "aelthir": 0.462, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0488, seed 420488)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0489
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420489
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.266, "magie_eind": 0.266, "golven": 9, "assen": {"5": 7, "4": 4, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2460, "macht_eind": {"staat": 0.272, "huizen": 0.081, "kerk": 0.005, "steden": 0.273, "dragers": 0.17, "buren": 0.176, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.15, "buren_honger": 1.058, "ev": 1.279, "aelthir": 0.435, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0489, seed 420489)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0490
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420490
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.34, "magie_eind": 0.525, "golven": 10, "assen": {"5": 3, "3": 3, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1300, "macht_eind": {"staat": 0.287, "huizen": 0.057, "kerk": 0.005, "steden": 0.143, "dragers": 0.285, "buren": 0.174, "orrim": 0.033, "volk": 0.016}, "parameters": {"groei": 0.166, "buren_honger": 0.914, "ev": 0.966, "aelthir": 0.502, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0490, seed 420490)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0491
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420491
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 10, "magie_min": 0.31, "magie_eind": 0.31, "golven": 13, "assen": {"5": 6, "3": 3, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 1140, "macht_eind": {"staat": 0.252, "huizen": 0.057, "kerk": 0.005, "steden": 0.173, "dragers": 0.278, "buren": 0.186, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.2, "buren_honger": 1.076, "ev": 1.232, "aelthir": 0.518, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0491, seed 420491)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0492
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420492
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.342, "magie_eind": 0.355, "golven": 7, "assen": {"5": 5, "3": 2, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 2440, "macht_eind": {"staat": 0.33, "huizen": 0.114, "kerk": 0.005, "steden": 0.167, "dragers": 0.158, "buren": 0.203, "orrim": 0.009, "volk": 0.014}, "parameters": {"groei": 0.201, "buren_honger": 0.956, "ev": 0.914, "aelthir": 0.528, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0492, seed 420492)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0493
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420493
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.301, "magie_eind": 0.301, "golven": 12, "assen": {"5": 3, "4": 6, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2100, "macht_eind": {"staat": 0.267, "huizen": 0.054, "kerk": 0.005, "steden": 0.216, "dragers": 0.202, "buren": 0.211, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.164, "buren_honger": 1.163, "ev": 1.104, "aelthir": 0.485, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0493, seed 420493)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0494
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420494
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 8, "magie_min": 0.144, "magie_eind": 0.152, "golven": 9, "assen": {"5": 4, "4": 7, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2540, "macht_eind": {"staat": 0.278, "huizen": 0.059, "kerk": 0.005, "steden": 0.43, "dragers": 0.117, "buren": 0.088, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.211, "buren_honger": 0.637, "ev": 1.087, "aelthir": 0.567, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0494, seed 420494)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0495
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420495
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.339, "magie_eind": 0.362, "golven": 8, "assen": {"5": 2, "3": 5, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1560, "macht_eind": {"staat": 0.313, "huizen": 0.084, "kerk": 0.005, "steden": 0.149, "dragers": 0.211, "buren": 0.187, "orrim": 0.034, "volk": 0.017}, "parameters": {"groei": 0.205, "buren_honger": 0.935, "ev": 0.785, "aelthir": 0.464, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0495, seed 420495)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0496
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420496
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 6, "magie_min": 0.322, "magie_eind": 0.432, "golven": 14, "assen": {"5": 5, "4": 9, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 19, "rustige_jaren": 2220, "macht_eind": {"staat": 0.283, "huizen": 0.08, "kerk": 0.005, "steden": 0.184, "dragers": 0.254, "buren": 0.146, "orrim": 0.032, "volk": 0.017}, "parameters": {"groei": 0.185, "buren_honger": 0.84, "ev": 1.112, "aelthir": 0.321, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0496, seed 420496)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0497
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420497
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 5, "magie_min": 0.145, "magie_eind": 0.145, "golven": 14, "assen": {"5": 3, "4": 7, "3": 5}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 1960, "macht_eind": {"staat": 0.267, "huizen": 0.056, "kerk": 0.005, "steden": 0.366, "dragers": 0.225, "buren": 0.04, "orrim": 0.032, "volk": 0.01}, "parameters": {"groei": 0.146, "buren_honger": 0.503, "ev": 1.079, "aelthir": 0.79, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0497, seed 420497)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0498
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420498
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 8, "magie_min": 0.328, "magie_eind": 0.515, "golven": 8, "assen": {"5": 2, "4": 5, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 2560, "macht_eind": {"staat": 0.294, "huizen": 0.057, "kerk": 0.005, "steden": 0.166, "dragers": 0.172, "buren": 0.282, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.124, "buren_honger": 1.174, "ev": 1.15, "aelthir": 0.509, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0498, seed 420498)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0499
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420499
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.348, "magie_eind": 0.348, "golven": 12, "assen": {"5": 3, "4": 7, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 2020, "macht_eind": {"staat": 0.338, "huizen": 0.115, "kerk": 0.005, "steden": 0.156, "dragers": 0.302, "buren": 0.058, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.2, "buren_honger": 0.512, "ev": 0.95, "aelthir": 0.269, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0499, seed 420499)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0500
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420500
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 10, "magie_min": 0.35, "magie_eind": 0.48, "golven": 12, "assen": {"5": 2, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 15, "rustige_jaren": 740, "macht_eind": {"staat": 0.263, "huizen": 0.052, "kerk": 0.004, "steden": 0.115, "dragers": 0.243, "buren": 0.28, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.198, "buren_honger": 1.295, "ev": 1.116, "aelthir": 0.303, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0500, seed 420500)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0501
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420501
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.163, "magie_eind": 0.163, "golven": 12, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 14, "rustige_jaren": 2900, "macht_eind": {"staat": 0.245, "huizen": 0.051, "kerk": 0.004, "steden": 0.323, "dragers": 0.176, "buren": 0.18, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.138, "buren_honger": 1.095, "ev": 1.253, "aelthir": 0.464, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0501, seed 420501)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0502
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420502
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 10, "magie_min": 0.361, "magie_eind": 0.429, "golven": 13, "assen": {"5": 3, "4": 5, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1960, "macht_eind": {"staat": 0.266, "huizen": 0.045, "kerk": 0.004, "steden": 0.115, "dragers": 0.251, "buren": 0.283, "orrim": 0.026, "volk": 0.01}, "parameters": {"groei": 0.152, "buren_honger": 1.446, "ev": 1.07, "aelthir": 0.3, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0502, seed 420502)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0503
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420503
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 6, "magie_min": 0.237, "magie_eind": 0.237, "golven": 11, "assen": {"5": 4, "4": 8, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2400, "macht_eind": {"staat": 0.277, "huizen": 0.052, "kerk": 0.004, "steden": 0.272, "dragers": 0.157, "buren": 0.193, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.178, "buren_honger": 1.131, "ev": 0.916, "aelthir": 0.486, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0503, seed 420503)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0504
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420504
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 3, "magie_min": 0.328, "magie_eind": 0.379, "golven": 9, "assen": {"5": 3, "4": 6, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 14, "rustige_jaren": 3040, "macht_eind": {"staat": 0.352, "huizen": 0.104, "kerk": 0.006, "steden": 0.257, "dragers": 0.176, "buren": 0.076, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.153, "buren_honger": 0.561, "ev": 0.781, "aelthir": 0.635, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0504, seed 420504)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0505
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420505
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 19
+- **scores:** {"fasen": 19, "onopgelost": 10, "magie_min": 0.221, "magie_eind": 0.298, "golven": 17, "assen": {"5": 4, "4": 7, "3": 8}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 1920, "macht_eind": {"staat": 0.227, "huizen": 0.053, "kerk": 0.005, "steden": 0.287, "dragers": 0.266, "buren": 0.12, "orrim": 0.03, "volk": 0.012}, "parameters": {"groei": 0.183, "buren_honger": 0.899, "ev": 1.199, "aelthir": 0.613, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0505, seed 420505)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0506
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420506
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 10, "magie_min": 0.328, "magie_eind": 0.41, "golven": 10, "assen": {"5": 3, "4": 6, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 1640, "macht_eind": {"staat": 0.223, "huizen": 0.048, "kerk": 0.004, "steden": 0.143, "dragers": 0.296, "buren": 0.246, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.14, "buren_honger": 1.384, "ev": 1.055, "aelthir": 0.437, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0506, seed 420506)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0507
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420507
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 9, "magie_min": 0.329, "magie_eind": 0.329, "golven": 9, "assen": {"5": 2, "3": 5, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 1120, "macht_eind": {"staat": 0.297, "huizen": 0.084, "kerk": 0.005, "steden": 0.138, "dragers": 0.301, "buren": 0.126, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.189, "buren_honger": 0.756, "ev": 0.804, "aelthir": 0.795, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0507, seed 420507)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0508
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420508
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.339, "magie_eind": 0.345, "golven": 5, "assen": {"5": 5, "3": 5, "4": 1}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1220, "macht_eind": {"staat": 0.258, "huizen": 0.051, "kerk": 0.004, "steden": 0.123, "dragers": 0.204, "buren": 0.317, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.188, "buren_honger": 1.391, "ev": 0.764, "aelthir": 0.303, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0508, seed 420508)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0509
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420509
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 10, "magie_min": 0.337, "magie_eind": 0.337, "golven": 13, "assen": {"5": 3, "4": 3, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 1820, "macht_eind": {"staat": 0.244, "huizen": 0.045, "kerk": 0.004, "steden": 0.112, "dragers": 0.29, "buren": 0.268, "orrim": 0.026, "volk": 0.011}, "parameters": {"groei": 0.196, "buren_honger": 1.347, "ev": 0.78, "aelthir": 0.268, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0509, seed 420509)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0510
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420510
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 10, "magie_min": 0.355, "magie_eind": 0.355, "golven": 16, "assen": {"5": 1, "4": 6, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 700, "macht_eind": {"staat": 0.268, "huizen": 0.067, "kerk": 0.032, "steden": 0.102, "dragers": 0.202, "buren": 0.29, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.191, "buren_honger": 1.381, "ev": 1.148, "aelthir": 0.334, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0510, seed 420510)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0511
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420511
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 10, "magie_min": 0.349, "magie_eind": 0.349, "golven": 11, "assen": {"5": 2, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 1560, "macht_eind": {"staat": 0.261, "huizen": 0.087, "kerk": 0.03, "steden": 0.092, "dragers": 0.175, "buren": 0.316, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.215, "buren_honger": 1.476, "ev": 0.948, "aelthir": 0.366, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0511, seed 420511)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0512
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420512
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 11, "magie_min": 0.336, "magie_eind": 0.521, "golven": 13, "assen": {"5": 4, "3": 6, "4": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 1300, "macht_eind": {"staat": 0.231, "huizen": 0.049, "kerk": 0.004, "steden": 0.15, "dragers": 0.303, "buren": 0.221, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.155, "buren_honger": 1.289, "ev": 1.255, "aelthir": 0.709, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0512, seed 420512)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0513
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420513
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 6, "magie_min": 0.254, "magie_eind": 0.254, "golven": 11, "assen": {"5": 4, "4": 6, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 4, "wetten": 17, "rustige_jaren": 2160, "macht_eind": {"staat": 0.308, "huizen": 0.061, "kerk": 0.005, "steden": 0.296, "dragers": 0.209, "buren": 0.071, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.142, "buren_honger": 0.582, "ev": 1.256, "aelthir": 0.336, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0513, seed 420513)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0514
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420514
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.324, "magie_eind": 0.424, "golven": 11, "assen": {"5": 4, "4": 8}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1440, "macht_eind": {"staat": 0.31, "huizen": 0.057, "kerk": 0.005, "steden": 0.15, "dragers": 0.205, "buren": 0.225, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.201, "buren_honger": 0.867, "ev": 0.948, "aelthir": 0.644, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0514, seed 420514)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0515
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420515
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.34, "magie_eind": 0.34, "golven": 13, "assen": {"5": 5, "4": 5, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 1320, "macht_eind": {"staat": 0.272, "huizen": 0.075, "kerk": 0.005, "steden": 0.128, "dragers": 0.316, "buren": 0.161, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.164, "buren_honger": 0.723, "ev": 1.142, "aelthir": 0.27, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0515, seed 420515)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0516
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420516
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 13, "magie_min": 0.352, "magie_eind": 0.426, "golven": 17, "assen": {"5": 2, "3": 3, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 2, "wetten": 14, "rustige_jaren": 160, "macht_eind": {"staat": 0.218, "huizen": 0.051, "kerk": 0.039, "steden": 0.101, "dragers": 0.379, "buren": 0.169, "orrim": 0.029, "volk": 0.014}, "parameters": {"groei": 0.214, "buren_honger": 1.089, "ev": 0.989, "aelthir": 0.799, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0516, seed 420516)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0517
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420517
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 10, "magie_min": 0.354, "magie_eind": 0.364, "golven": 14, "assen": {"5": 2, "4": 6, "3": 6}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 19, "rustige_jaren": 880, "macht_eind": {"staat": 0.267, "huizen": 0.076, "kerk": 0.005, "steden": 0.109, "dragers": 0.268, "buren": 0.236, "orrim": 0.031, "volk": 0.01}, "parameters": {"groei": 0.122, "buren_honger": 1.151, "ev": 1.058, "aelthir": 0.368, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0517, seed 420517)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0518
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420518
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.271, "magie_eind": 0.271, "golven": 11, "assen": {"5": 4, "4": 7, "3": 2}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 4, "wetten": 16, "rustige_jaren": 2420, "macht_eind": {"staat": 0.308, "huizen": 0.065, "kerk": 0.006, "steden": 0.279, "dragers": 0.232, "buren": 0.085, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.202, "buren_honger": 0.606, "ev": 0.982, "aelthir": 0.787, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0518, seed 420518)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0519
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420519
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.187, "magie_eind": 0.187, "golven": 10, "assen": {"5": 5, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 14, "rustige_jaren": 3340, "macht_eind": {"staat": 0.29, "huizen": 0.058, "kerk": 0.005, "steden": 0.342, "dragers": 0.217, "buren": 0.064, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.141, "buren_honger": 0.571, "ev": 0.837, "aelthir": 0.443, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0519, seed 420519)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0520
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420520
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 8, "magie_min": 0.27, "magie_eind": 0.346, "golven": 12, "assen": {"5": 3, "4": 5, "3": 5}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2440, "macht_eind": {"staat": 0.265, "huizen": 0.055, "kerk": 0.005, "steden": 0.262, "dragers": 0.213, "buren": 0.154, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.159, "buren_honger": 0.977, "ev": 1.025, "aelthir": 0.325, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0520, seed 420520)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0521
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420521
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 7, "magie_min": 0.336, "magie_eind": 0.336, "golven": 11, "assen": {"5": 3, "3": 3, "4": 7}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 2580, "macht_eind": {"staat": 0.299, "huizen": 0.061, "kerk": 0.005, "steden": 0.153, "dragers": 0.322, "buren": 0.109, "orrim": 0.035, "volk": 0.017}, "parameters": {"groei": 0.165, "buren_honger": 0.69, "ev": 1.253, "aelthir": 0.752, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0521, seed 420521)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0522
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420522
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.341, "magie_eind": 0.536, "golven": 12, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 1160, "macht_eind": {"staat": 0.283, "huizen": 0.074, "kerk": 0.004, "steden": 0.118, "dragers": 0.243, "buren": 0.235, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.17, "buren_honger": 0.974, "ev": 1.12, "aelthir": 0.367, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0522, seed 420522)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0523
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420523
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 6, "magie_min": 0.184, "magie_eind": 0.184, "golven": 7, "assen": {"5": 6, "4": 8}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 4, "wetten": 16, "rustige_jaren": 2740, "macht_eind": {"staat": 0.282, "huizen": 0.055, "kerk": 0.005, "steden": 0.345, "dragers": 0.149, "buren": 0.147, "orrim": 0.008, "volk": 0.01}, "parameters": {"groei": 0.204, "buren_honger": 0.96, "ev": 1.052, "aelthir": 0.694, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0523, seed 420523)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0524
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420524
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 7, "magie_min": 0.35, "magie_eind": 0.35, "golven": 14, "assen": {"5": 1, "4": 5, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1220, "macht_eind": {"staat": 0.275, "huizen": 0.098, "kerk": 0.035, "steden": 0.099, "dragers": 0.211, "buren": 0.239, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.162, "buren_honger": 1.165, "ev": 0.942, "aelthir": 0.389, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0524, seed 420524)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0525
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420525
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 11, "magie_min": 0.358, "magie_eind": 0.358, "golven": 16, "assen": {"5": 3, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 1, "wetten": 14, "rustige_jaren": 1140, "macht_eind": {"staat": 0.276, "huizen": 0.091, "kerk": 0.004, "steden": 0.104, "dragers": 0.202, "buren": 0.303, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.16, "buren_honger": 1.248, "ev": 1.216, "aelthir": 0.438, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0525, seed 420525)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0526
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420526
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.21, "magie_eind": 0.497, "golven": 9, "assen": {"5": 2, "4": 7, "3": 1}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2860, "macht_eind": {"staat": 0.271, "huizen": 0.051, "kerk": 0.004, "steden": 0.283, "dragers": 0.168, "buren": 0.202, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.12, "buren_honger": 1.062, "ev": 0.84, "aelthir": 0.41, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0526, seed 420526)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0527
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420527
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.349, "magie_eind": 0.46, "golven": 12, "assen": {"5": 4, "3": 3, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1100, "macht_eind": {"staat": 0.242, "huizen": 0.063, "kerk": 0.037, "steden": 0.094, "dragers": 0.311, "buren": 0.235, "orrim": 0.006, "volk": 0.011}, "parameters": {"groei": 0.168, "buren_honger": 1.309, "ev": 1.299, "aelthir": 0.768, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0527, seed 420527)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0528
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420528
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.318, "magie_eind": 0.318, "golven": 11, "assen": {"5": 4, "4": 8, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 19, "rustige_jaren": 1560, "macht_eind": {"staat": 0.298, "huizen": 0.081, "kerk": 0.005, "steden": 0.151, "dragers": 0.169, "buren": 0.249, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.121, "buren_honger": 1.164, "ev": 0.935, "aelthir": 0.589, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0528, seed 420528)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0529
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420529
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.332, "magie_eind": 0.332, "golven": 11, "assen": {"5": 2, "4": 6, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1820, "macht_eind": {"staat": 0.289, "huizen": 0.055, "kerk": 0.005, "steden": 0.151, "dragers": 0.22, "buren": 0.259, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.211, "buren_honger": 1.141, "ev": 0.887, "aelthir": 0.614, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0529, seed 420529)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0530
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420530
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 14, "magie_min": 0.359, "magie_eind": 0.373, "golven": 20, "assen": {"5": 3, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 3, "heersers": 2, "wetten": 16, "rustige_jaren": 800, "macht_eind": {"staat": 0.216, "huizen": 0.064, "kerk": 0.034, "steden": 0.082, "dragers": 0.366, "buren": 0.203, "orrim": 0.026, "volk": 0.008}, "parameters": {"groei": 0.196, "buren_honger": 1.252, "ev": 1.055, "aelthir": 0.747, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0530, seed 420530)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0531
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420531
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 9, "magie_min": 0.339, "magie_eind": 0.339, "golven": 9, "assen": {"5": 1, "4": 4, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 780, "macht_eind": {"staat": 0.319, "huizen": 0.081, "kerk": 0.005, "steden": 0.115, "dragers": 0.203, "buren": 0.229, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.184, "buren_honger": 1.058, "ev": 0.957, "aelthir": 0.684, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0531, seed 420531)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0532
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420532
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.336, "magie_eind": 0.336, "golven": 10, "assen": {"5": 6, "4": 5, "3": 1}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1460, "macht_eind": {"staat": 0.314, "huizen": 0.086, "kerk": 0.005, "steden": 0.175, "dragers": 0.225, "buren": 0.17, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.161, "buren_honger": 0.826, "ev": 0.779, "aelthir": 0.777, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0532, seed 420532)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0533
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420533
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 6, "magie_min": 0.341, "magie_eind": 0.48, "golven": 10, "assen": {"5": 6, "4": 4, "3": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 20, "rustige_jaren": 1000, "macht_eind": {"staat": 0.296, "huizen": 0.077, "kerk": 0.005, "steden": 0.133, "dragers": 0.292, "buren": 0.154, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.189, "buren_honger": 0.88, "ev": 0.941, "aelthir": 0.737, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0533, seed 420533)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0534
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420534
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 5, "magie_min": 0.228, "magie_eind": 0.228, "golven": 11, "assen": {"5": 4, "4": 7, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2600, "macht_eind": {"staat": 0.28, "huizen": 0.074, "kerk": 0.004, "steden": 0.297, "dragers": 0.103, "buren": 0.221, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.187, "buren_honger": 1.229, "ev": 0.83, "aelthir": 0.487, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0534, seed 420534)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0535
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420535
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 7, "magie_min": 0.311, "magie_eind": 0.311, "golven": 10, "assen": {"5": 5, "4": 7, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1340, "macht_eind": {"staat": 0.336, "huizen": 0.093, "kerk": 0.006, "steden": 0.189, "dragers": 0.242, "buren": 0.109, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.164, "buren_honger": 0.636, "ev": 0.852, "aelthir": 0.306, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0535, seed 420535)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0536
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420536
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.339, "magie_eind": 0.422, "golven": 10, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 1080, "macht_eind": {"staat": 0.337, "huizen": 0.092, "kerk": 0.005, "steden": 0.139, "dragers": 0.257, "buren": 0.117, "orrim": 0.037, "volk": 0.018}, "parameters": {"groei": 0.208, "buren_honger": 0.517, "ev": 0.967, "aelthir": 0.496, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0536, seed 420536)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0537
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420537
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 13, "magie_min": 0.338, "magie_eind": 0.457, "golven": 14, "assen": {"5": 4, "4": 4, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 18, "rustige_jaren": 620, "macht_eind": {"staat": 0.271, "huizen": 0.05, "kerk": 0.004, "steden": 0.133, "dragers": 0.206, "buren": 0.297, "orrim": 0.028, "volk": 0.011}, "parameters": {"groei": 0.184, "buren_honger": 1.209, "ev": 1.231, "aelthir": 0.761, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0537, seed 420537)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0538
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420538
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.179, "magie_eind": 0.179, "golven": 10, "assen": {"5": 3, "4": 6, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 2680, "macht_eind": {"staat": 0.258, "huizen": 0.049, "kerk": 0.004, "steden": 0.286, "dragers": 0.099, "buren": 0.283, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.126, "buren_honger": 1.454, "ev": 0.785, "aelthir": 0.778, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0538, seed 420538)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0539
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420539
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 5, "magie_min": 0.334, "magie_eind": 0.334, "golven": 11, "assen": {"5": 2, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 2560, "macht_eind": {"staat": 0.323, "huizen": 0.058, "kerk": 0.005, "steden": 0.155, "dragers": 0.208, "buren": 0.226, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.168, "buren_honger": 1.004, "ev": 0.959, "aelthir": 0.505, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0539, seed 420539)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0540
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420540
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.323, "magie_eind": 0.323, "golven": 10, "assen": {"5": 1, "4": 9, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 19, "rustige_jaren": 1420, "macht_eind": {"staat": 0.319, "huizen": 0.065, "kerk": 0.006, "steden": 0.191, "dragers": 0.231, "buren": 0.136, "orrim": 0.037, "volk": 0.016}, "parameters": {"groei": 0.207, "buren_honger": 0.564, "ev": 1.204, "aelthir": 0.354, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0540, seed 420540)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0541
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420541
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.358, "magie_eind": 0.381, "golven": 11, "assen": {"5": 4, "3": 3, "4": 3}, "rijmt_met_canon": 1, "erft_van_801": 2, "heersers": 3, "wetten": 15, "rustige_jaren": 1040, "macht_eind": {"staat": 0.237, "huizen": 0.046, "kerk": 0.032, "steden": 0.099, "dragers": 0.26, "buren": 0.288, "orrim": 0.026, "volk": 0.012}, "parameters": {"groei": 0.189, "buren_honger": 1.465, "ev": 1.156, "aelthir": 0.31, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0541, seed 420541)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0542
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420542
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.343, "magie_eind": 0.643, "golven": 15, "assen": {"5": 4, "3": 2, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1640, "macht_eind": {"staat": 0.282, "huizen": 0.048, "kerk": 0.004, "steden": 0.123, "dragers": 0.242, "buren": 0.261, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.186, "buren_honger": 1.114, "ev": 1.188, "aelthir": 0.524, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0542, seed 420542)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0543
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420543
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.326, "magie_eind": 0.326, "golven": 11, "assen": {"5": 3, "4": 4, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 1, "wetten": 15, "rustige_jaren": 2320, "macht_eind": {"staat": 0.316, "huizen": 0.107, "kerk": 0.005, "steden": 0.142, "dragers": 0.107, "buren": 0.299, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.214, "buren_honger": 1.218, "ev": 0.811, "aelthir": 0.563, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0543, seed 420543)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0544
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420544
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 13, "magie_min": 0.352, "magie_eind": 0.363, "golven": 15, "assen": {"5": 4, "4": 3, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 820, "macht_eind": {"staat": 0.242, "huizen": 0.045, "kerk": 0.004, "steden": 0.11, "dragers": 0.277, "buren": 0.284, "orrim": 0.026, "volk": 0.011}, "parameters": {"groei": 0.163, "buren_honger": 1.405, "ev": 1.263, "aelthir": 0.333, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0544, seed 420544)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0545
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420545
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.308, "magie_eind": 0.308, "golven": 10, "assen": {"5": 4, "4": 6, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2440, "macht_eind": {"staat": 0.324, "huizen": 0.094, "kerk": 0.006, "steden": 0.245, "dragers": 0.141, "buren": 0.136, "orrim": 0.038, "volk": 0.017}, "parameters": {"groei": 0.171, "buren_honger": 0.831, "ev": 0.937, "aelthir": 0.614, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0545, seed 420545)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0546
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420546
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.331, "magie_eind": 0.442, "golven": 11, "assen": {"5": 3, "4": 7, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1740, "macht_eind": {"staat": 0.347, "huizen": 0.088, "kerk": 0.005, "steden": 0.182, "dragers": 0.22, "buren": 0.107, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.154, "buren_honger": 0.646, "ev": 1.006, "aelthir": 0.291, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0546, seed 420546)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0547
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420547
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 5, "magie_min": 0.357, "magie_eind": 0.381, "golven": 13, "assen": {"5": 2, "4": 4, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 1640, "macht_eind": {"staat": 0.284, "huizen": 0.073, "kerk": 0.039, "steden": 0.1, "dragers": 0.263, "buren": 0.22, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.159, "buren_honger": 1.115, "ev": 1.115, "aelthir": 0.305, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0547, seed 420547)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0548
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420548
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.335, "magie_eind": 0.446, "golven": 12, "assen": {"5": 4, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1260, "macht_eind": {"staat": 0.291, "huizen": 0.074, "kerk": 0.004, "steden": 0.141, "dragers": 0.268, "buren": 0.201, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.135, "buren_honger": 1.052, "ev": 1.018, "aelthir": 0.263, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0548, seed 420548)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0549
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420549
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.339, "magie_eind": 0.397, "golven": 10, "assen": {"5": 2, "4": 7, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 1220, "macht_eind": {"staat": 0.361, "huizen": 0.099, "kerk": 0.006, "steden": 0.131, "dragers": 0.207, "buren": 0.139, "orrim": 0.04, "volk": 0.018}, "parameters": {"groei": 0.181, "buren_honger": 0.722, "ev": 1.203, "aelthir": 0.519, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0549, seed 420549)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0550
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420550
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 8, "magie_min": 0.265, "magie_eind": 0.265, "golven": 15, "assen": {"5": 3, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 13, "rustige_jaren": 2400, "macht_eind": {"staat": 0.253, "huizen": 0.05, "kerk": 0.004, "steden": 0.23, "dragers": 0.143, "buren": 0.299, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.143, "buren_honger": 1.348, "ev": 0.858, "aelthir": 0.697, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0550, seed 420550)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0551
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420551
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 9, "magie_min": 0.351, "magie_eind": 0.456, "golven": 11, "assen": {"5": 6, "3": 3, "4": 6}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 860, "macht_eind": {"staat": 0.264, "huizen": 0.048, "kerk": 0.004, "steden": 0.115, "dragers": 0.318, "buren": 0.211, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.182, "buren_honger": 1.117, "ev": 1.22, "aelthir": 0.313, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0551, seed 420551)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0552
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420552
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.33, "magie_eind": 0.33, "golven": 7, "assen": {"5": 3, "4": 3, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1600, "macht_eind": {"staat": 0.384, "huizen": 0.069, "kerk": 0.006, "steden": 0.179, "dragers": 0.157, "buren": 0.149, "orrim": 0.039, "volk": 0.018}, "parameters": {"groei": 0.19, "buren_honger": 0.756, "ev": 0.775, "aelthir": 0.325, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0552, seed 420552)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0553
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420553
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 9, "magie_min": 0.347, "magie_eind": 0.347, "golven": 10, "assen": {"5": 1, "4": 3, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 1620, "macht_eind": {"staat": 0.269, "huizen": 0.069, "kerk": 0.022, "steden": 0.094, "dragers": 0.236, "buren": 0.27, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.142, "buren_honger": 1.344, "ev": 1.224, "aelthir": 0.22, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0553, seed 420553)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0554
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420554
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.345, "magie_eind": 0.511, "golven": 9, "assen": {"5": 3, "4": 8, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 2340, "macht_eind": {"staat": 0.28, "huizen": 0.078, "kerk": 0.005, "steden": 0.149, "dragers": 0.242, "buren": 0.202, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.185, "buren_honger": 1.126, "ev": 0.834, "aelthir": 0.347, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0554, seed 420554)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0555
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420555
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.335, "magie_eind": 0.357, "golven": 10, "assen": {"5": 5, "4": 4, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2700, "macht_eind": {"staat": 0.314, "huizen": 0.056, "kerk": 0.005, "steden": 0.153, "dragers": 0.159, "buren": 0.291, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.18, "buren_honger": 1.083, "ev": 0.906, "aelthir": 0.757, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0555, seed 420555)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0556
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420556
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 5, "magie_min": 0.125, "magie_eind": 0.125, "golven": 7, "assen": {"5": 8, "4": 5, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2580, "macht_eind": {"staat": 0.248, "huizen": 0.047, "kerk": 0.004, "steden": 0.377, "dragers": 0.127, "buren": 0.158, "orrim": 0.027, "volk": 0.013}, "parameters": {"groei": 0.14, "buren_honger": 1.074, "ev": 1.104, "aelthir": 0.377, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0556, seed 420556)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0557
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420557
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 4, "magie_min": 0.136, "magie_eind": 0.136, "golven": 11, "assen": {"5": 2, "4": 9, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 0, "heersers": 4, "wetten": 18, "rustige_jaren": 2820, "macht_eind": {"staat": 0.291, "huizen": 0.055, "kerk": 0.005, "steden": 0.404, "dragers": 0.157, "buren": 0.043, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.143, "buren_honger": 0.517, "ev": 0.78, "aelthir": 0.701, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0557, seed 420557)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0558
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420558
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 8, "magie_min": 0.355, "magie_eind": 0.369, "golven": 14, "assen": {"5": 2, "4": 6, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 1720, "macht_eind": {"staat": 0.342, "huizen": 0.066, "kerk": 0.006, "steden": 0.177, "dragers": 0.236, "buren": 0.149, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.179, "buren_honger": 0.589, "ev": 0.756, "aelthir": 0.794, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0558, seed 420558)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0559
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420559
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 8, "magie_min": 0.314, "magie_eind": 0.314, "golven": 12, "assen": {"5": 3, "4": 7, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 1520, "macht_eind": {"staat": 0.266, "huizen": 0.053, "kerk": 0.005, "steden": 0.166, "dragers": 0.205, "buren": 0.262, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.212, "buren_honger": 1.373, "ev": 1.255, "aelthir": 0.407, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0559, seed 420559)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0560
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420560
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 17, "onopgelost": 15, "magie_min": 0.313, "magie_eind": 0.313, "golven": 15, "assen": {"5": 5, "4": 7, "3": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 3, "wetten": 19, "rustige_jaren": 1400, "macht_eind": {"staat": 0.248, "huizen": 0.073, "kerk": 0.004, "steden": 0.147, "dragers": 0.198, "buren": 0.287, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.166, "buren_honger": 1.457, "ev": 0.902, "aelthir": 0.438, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0560, seed 420560)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0561
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420561
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 8, "magie_min": 0.336, "magie_eind": 0.336, "golven": 7, "assen": {"5": 3, "4": 4, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 1, "wetten": 15, "rustige_jaren": 1260, "macht_eind": {"staat": 0.329, "huizen": 0.084, "kerk": 0.005, "steden": 0.135, "dragers": 0.135, "buren": 0.289, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.122, "buren_honger": 1.173, "ev": 0.806, "aelthir": 0.312, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0561, seed 420561)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0562
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420562
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 3, "magie_min": 0.33, "magie_eind": 0.33, "golven": 12, "assen": {"5": 4, "4": 4, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 1060, "macht_eind": {"staat": 0.31, "huizen": 0.082, "kerk": 0.005, "steden": 0.143, "dragers": 0.165, "buren": 0.273, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.183, "buren_honger": 1.004, "ev": 0.8, "aelthir": 0.38, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0562, seed 420562)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0563
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420563
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.345, "magie_eind": 0.345, "golven": 9, "assen": {"5": 3, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1080, "macht_eind": {"staat": 0.275, "huizen": 0.075, "kerk": 0.004, "steden": 0.116, "dragers": 0.186, "buren": 0.299, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.158, "buren_honger": 1.468, "ev": 0.845, "aelthir": 0.508, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0563, seed 420563)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0564
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420564
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 2, "magie_min": 0.256, "magie_eind": 0.256, "golven": 10, "assen": {"5": 3, "4": 7, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 3240, "macht_eind": {"staat": 0.277, "huizen": 0.079, "kerk": 0.005, "steden": 0.256, "dragers": 0.126, "buren": 0.235, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.133, "buren_honger": 1.141, "ev": 0.843, "aelthir": 0.606, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0564, seed 420564)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0565
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420565
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 6, "magie_min": 0.36, "magie_eind": 0.365, "golven": 13, "assen": {"5": 8, "3": 5, "4": 2}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 19, "rustige_jaren": 1420, "macht_eind": {"staat": 0.317, "huizen": 0.065, "kerk": 0.006, "steden": 0.152, "dragers": 0.343, "buren": 0.064, "orrim": 0.037, "volk": 0.017}, "parameters": {"groei": 0.217, "buren_honger": 0.553, "ev": 1.007, "aelthir": 0.702, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0565, seed 420565)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0566
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420566
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 7, "magie_min": 0.172, "magie_eind": 0.172, "golven": 12, "assen": {"5": 7, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 2600, "macht_eind": {"staat": 0.241, "huizen": 0.05, "kerk": 0.004, "steden": 0.324, "dragers": 0.224, "buren": 0.114, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.134, "buren_honger": 0.766, "ev": 1.198, "aelthir": 0.359, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0566, seed 420566)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0567
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420567
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 10, "magie_min": 0.35, "magie_eind": 0.363, "golven": 11, "assen": {"5": 2, "4": 5, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1260, "macht_eind": {"staat": 0.328, "huizen": 0.081, "kerk": 0.005, "steden": 0.109, "dragers": 0.276, "buren": 0.178, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.21, "buren_honger": 0.737, "ev": 1.239, "aelthir": 0.74, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0567, seed 420567)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0568
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420568
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 8, "magie_min": 0.339, "magie_eind": 0.416, "golven": 10, "assen": {"5": 4, "3": 4, "4": 7}, "rijmt_met_canon": 4, "erft_van_801": 3, "heersers": 1, "wetten": 18, "rustige_jaren": 1760, "macht_eind": {"staat": 0.273, "huizen": 0.081, "kerk": 0.005, "steden": 0.145, "dragers": 0.317, "buren": 0.131, "orrim": 0.033, "volk": 0.016}, "parameters": {"groei": 0.14, "buren_honger": 0.87, "ev": 1.108, "aelthir": 0.791, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0568, seed 420568)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0569
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420569
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.314, "magie_eind": 0.314, "golven": 11, "assen": {"5": 2, "4": 4, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1520, "macht_eind": {"staat": 0.374, "huizen": 0.066, "kerk": 0.006, "steden": 0.183, "dragers": 0.253, "buren": 0.065, "orrim": 0.038, "volk": 0.016}, "parameters": {"groei": 0.184, "buren_honger": 0.553, "ev": 0.845, "aelthir": 0.622, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0569, seed 420569)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0570
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420570
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 7, "magie_min": 0.361, "magie_eind": 0.414, "golven": 11, "assen": {"5": 5, "4": 7, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 20, "rustige_jaren": 2320, "macht_eind": {"staat": 0.275, "huizen": 0.074, "kerk": 0.004, "steden": 0.128, "dragers": 0.251, "buren": 0.225, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.189, "buren_honger": 1.082, "ev": 0.996, "aelthir": 0.373, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0570, seed 420570)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0571
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420571
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.339, "magie_eind": 0.366, "golven": 10, "assen": {"5": 5, "3": 4, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1760, "macht_eind": {"staat": 0.379, "huizen": 0.069, "kerk": 0.006, "steden": 0.186, "dragers": 0.235, "buren": 0.07, "orrim": 0.039, "volk": 0.017}, "parameters": {"groei": 0.135, "buren_honger": 0.558, "ev": 0.769, "aelthir": 0.475, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0571, seed 420571)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0572
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420572
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 6, "magie_min": 0.355, "magie_eind": 0.355, "golven": 12, "assen": {"5": 5, "4": 5, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 1340, "macht_eind": {"staat": 0.298, "huizen": 0.072, "kerk": 0.043, "steden": 0.11, "dragers": 0.294, "buren": 0.143, "orrim": 0.029, "volk": 0.011}, "parameters": {"groei": 0.191, "buren_honger": 0.69, "ev": 1.001, "aelthir": 0.303, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0572, seed 420572)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0573
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420573
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 13, "magie_min": 0.342, "magie_eind": 0.382, "golven": 13, "assen": {"5": 5, "4": 2, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 400, "macht_eind": {"staat": 0.297, "huizen": 0.076, "kerk": 0.005, "steden": 0.118, "dragers": 0.313, "buren": 0.147, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.22, "buren_honger": 0.672, "ev": 1.292, "aelthir": 0.56, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0573, seed 420573)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0574
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420574
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 8, "magie_min": 0.34, "magie_eind": 0.416, "golven": 10, "assen": {"5": 2, "4": 4, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1620, "macht_eind": {"staat": 0.346, "huizen": 0.064, "kerk": 0.005, "steden": 0.169, "dragers": 0.172, "buren": 0.218, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.211, "buren_honger": 0.787, "ev": 0.763, "aelthir": 0.625, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0574, seed 420574)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0575
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420575
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 10, "magie_min": 0.333, "magie_eind": 0.337, "golven": 15, "assen": {"5": 4, "4": 9, "3": 2}, "rijmt_met_canon": 5, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 880, "macht_eind": {"staat": 0.258, "huizen": 0.123, "kerk": 0.005, "steden": 0.151, "dragers": 0.199, "buren": 0.222, "orrim": 0.031, "volk": 0.012}, "parameters": {"groei": 0.159, "buren_honger": 1.179, "ev": 1.102, "aelthir": 0.425, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0575, seed 420575)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0576
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420576
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.325, "magie_eind": 0.325, "golven": 10, "assen": {"5": 3, "3": 4, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 2, "wetten": 15, "rustige_jaren": 2540, "macht_eind": {"staat": 0.315, "huizen": 0.06, "kerk": 0.005, "steden": 0.177, "dragers": 0.248, "buren": 0.146, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.121, "buren_honger": 0.813, "ev": 1.088, "aelthir": 0.303, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0576, seed 420576)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0577
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420577
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.146, "magie_eind": 0.146, "golven": 12, "assen": {"5": 4, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 4, "wetten": 17, "rustige_jaren": 2660, "macht_eind": {"staat": 0.239, "huizen": 0.051, "kerk": 0.004, "steden": 0.327, "dragers": 0.188, "buren": 0.15, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.16, "buren_honger": 1.025, "ev": 1.175, "aelthir": 0.767, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0577, seed 420577)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0578
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420578
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.311, "magie_eind": 0.311, "golven": 10, "assen": {"5": 4, "3": 3, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 2500, "macht_eind": {"staat": 0.289, "huizen": 0.06, "kerk": 0.005, "steden": 0.182, "dragers": 0.241, "buren": 0.173, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.215, "buren_honger": 0.994, "ev": 1.077, "aelthir": 0.282, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0578, seed 420578)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0579
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420579
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 12, "magie_min": 0.337, "magie_eind": 0.337, "golven": 12, "assen": {"5": 2, "4": 7, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 19, "rustige_jaren": 1500, "macht_eind": {"staat": 0.286, "huizen": 0.073, "kerk": 0.004, "steden": 0.12, "dragers": 0.345, "buren": 0.128, "orrim": 0.029, "volk": 0.014}, "parameters": {"groei": 0.204, "buren_honger": 0.813, "ev": 1.147, "aelthir": 0.524, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0579, seed 420579)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0580
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420580
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 6, "magie_min": 0.325, "magie_eind": 0.38, "golven": 8, "assen": {"5": 3, "4": 4, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2240, "macht_eind": {"staat": 0.341, "huizen": 0.064, "kerk": 0.005, "steden": 0.194, "dragers": 0.174, "buren": 0.197, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.122, "buren_honger": 0.725, "ev": 0.706, "aelthir": 0.443, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0580, seed 420580)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0581
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420581
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 11, "magie_min": 0.358, "magie_eind": 0.508, "golven": 15, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 880, "macht_eind": {"staat": 0.243, "huizen": 0.083, "kerk": 0.04, "steden": 0.09, "dragers": 0.229, "buren": 0.279, "orrim": 0.025, "volk": 0.011}, "parameters": {"groei": 0.216, "buren_honger": 1.399, "ev": 1.214, "aelthir": 0.744, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0581, seed 420581)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0582
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420582
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.336, "magie_eind": 0.336, "golven": 9, "assen": {"5": 5, "4": 4, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 1780, "macht_eind": {"staat": 0.309, "huizen": 0.092, "kerk": 0.005, "steden": 0.148, "dragers": 0.302, "buren": 0.09, "orrim": 0.037, "volk": 0.016}, "parameters": {"groei": 0.2, "buren_honger": 0.715, "ev": 0.942, "aelthir": 0.259, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0582, seed 420582)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0583
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420583
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 4, "magie_min": 0.359, "magie_eind": 0.632, "golven": 12, "assen": {"5": 3, "4": 9, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 19, "rustige_jaren": 1120, "macht_eind": {"staat": 0.297, "huizen": 0.049, "kerk": 0.009, "steden": 0.136, "dragers": 0.272, "buren": 0.196, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.199, "buren_honger": 0.881, "ev": 1.259, "aelthir": 0.743, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0583, seed 420583)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0584
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420584
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.355, "magie_eind": 0.379, "golven": 11, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 1, "wetten": 17, "rustige_jaren": 540, "macht_eind": {"staat": 0.278, "huizen": 0.077, "kerk": 0.055, "steden": 0.098, "dragers": 0.276, "buren": 0.171, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.122, "buren_honger": 0.928, "ev": 0.945, "aelthir": 0.637, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0584, seed 420584)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0585
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420585
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 10, "magie_min": 0.356, "magie_eind": 0.417, "golven": 17, "assen": {"5": 3, "3": 5, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 760, "macht_eind": {"staat": 0.246, "huizen": 0.067, "kerk": 0.033, "steden": 0.099, "dragers": 0.452, "buren": 0.064, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.215, "buren_honger": 0.617, "ev": 1.218, "aelthir": 0.353, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0585, seed 420585)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0586
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420586
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 4, "magie_min": 0.331, "magie_eind": 0.331, "golven": 9, "assen": {"5": 3, "4": 5, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 2300, "macht_eind": {"staat": 0.331, "huizen": 0.065, "kerk": 0.006, "steden": 0.201, "dragers": 0.167, "buren": 0.204, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.209, "buren_honger": 0.882, "ev": 0.833, "aelthir": 0.214, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0586, seed 420586)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0587
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420587
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 8, "magie_min": 0.336, "magie_eind": 0.336, "golven": 16, "assen": {"5": 2, "3": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 16, "rustige_jaren": 2060, "macht_eind": {"staat": 0.362, "huizen": 0.068, "kerk": 0.006, "steden": 0.165, "dragers": 0.291, "buren": 0.054, "orrim": 0.039, "volk": 0.016}, "parameters": {"groei": 0.164, "buren_honger": 0.518, "ev": 1.068, "aelthir": 0.691, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0587, seed 420587)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0588
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420588
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.328, "magie_eind": 0.477, "golven": 11, "assen": {"5": 4, "4": 8, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 2720, "macht_eind": {"staat": 0.302, "huizen": 0.089, "kerk": 0.005, "steden": 0.205, "dragers": 0.249, "buren": 0.097, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.2, "buren_honger": 0.657, "ev": 1.103, "aelthir": 0.279, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0588, seed 420588)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0589
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420589
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 13, "magie_min": 0.35, "magie_eind": 0.42, "golven": 14, "assen": {"5": 3, "3": 6, "4": 1}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1120, "macht_eind": {"staat": 0.251, "huizen": 0.051, "kerk": 0.004, "steden": 0.108, "dragers": 0.309, "buren": 0.234, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.158, "buren_honger": 1.247, "ev": 1.121, "aelthir": 0.523, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0589, seed 420589)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0590
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420590
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.338, "magie_eind": 0.338, "golven": 9, "assen": {"5": 2, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 15, "rustige_jaren": 1740, "macht_eind": {"staat": 0.314, "huizen": 0.116, "kerk": 0.005, "steden": 0.136, "dragers": 0.206, "buren": 0.171, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.161, "buren_honger": 0.67, "ev": 0.708, "aelthir": 0.706, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0590, seed 420590)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0591
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420591
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.34, "magie_eind": 0.34, "golven": 14, "assen": {"5": 2, "4": 6, "3": 3}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 1440, "macht_eind": {"staat": 0.279, "huizen": 0.053, "kerk": 0.005, "steden": 0.164, "dragers": 0.235, "buren": 0.22, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.216, "buren_honger": 1.213, "ev": 1.028, "aelthir": 0.601, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0591, seed 420591)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0592
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420592
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.333, "magie_eind": 0.361, "golven": 11, "assen": {"5": 2, "3": 5, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 4, "wetten": 15, "rustige_jaren": 1920, "macht_eind": {"staat": 0.245, "huizen": 0.05, "kerk": 0.004, "steden": 0.152, "dragers": 0.242, "buren": 0.265, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.186, "buren_honger": 1.394, "ev": 0.974, "aelthir": 0.773, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0592, seed 420592)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0593
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420593
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 4, "magie_min": 0.356, "magie_eind": 0.415, "golven": 15, "assen": {"5": 4, "4": 1, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 14, "rustige_jaren": 1720, "macht_eind": {"staat": 0.307, "huizen": 0.079, "kerk": 0.035, "steden": 0.108, "dragers": 0.166, "buren": 0.286, "orrim": 0.008, "volk": 0.011}, "parameters": {"groei": 0.165, "buren_honger": 1.22, "ev": 1.038, "aelthir": 0.229, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0593, seed 420593)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0594
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420594
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 3, "magie_min": 0.348, "magie_eind": 0.429, "golven": 11, "assen": {"5": 5, "3": 4, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 20, "rustige_jaren": 1840, "macht_eind": {"staat": 0.285, "huizen": 0.054, "kerk": 0.005, "steden": 0.142, "dragers": 0.27, "buren": 0.2, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.163, "buren_honger": 1.023, "ev": 1.083, "aelthir": 0.353, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0594, seed 420594)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0595
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420595
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.333, "magie_eind": 0.393, "golven": 11, "assen": {"5": 3, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1840, "macht_eind": {"staat": 0.337, "huizen": 0.061, "kerk": 0.005, "steden": 0.16, "dragers": 0.246, "buren": 0.139, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.141, "buren_honger": 0.771, "ev": 1.048, "aelthir": 0.263, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0595, seed 420595)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0596
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420596
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 5, "magie_min": 0.352, "magie_eind": 0.474, "golven": 15, "assen": {"5": 7, "3": 6, "4": 2}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 4, "wetten": 16, "rustige_jaren": 1420, "macht_eind": {"staat": 0.26, "huizen": 0.049, "kerk": 0.017, "steden": 0.119, "dragers": 0.428, "buren": 0.085, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.186, "buren_honger": 0.68, "ev": 1.234, "aelthir": 0.31, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0596, seed 420596)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0597
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420597
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.315, "magie_eind": 0.651, "golven": 9, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1800, "macht_eind": {"staat": 0.321, "huizen": 0.06, "kerk": 0.005, "steden": 0.173, "dragers": 0.231, "buren": 0.162, "orrim": 0.034, "volk": 0.013}, "parameters": {"groei": 0.175, "buren_honger": 0.664, "ev": 1.034, "aelthir": 0.641, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0597, seed 420597)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0598
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420598
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.326, "magie_eind": 0.385, "golven": 7, "assen": {"5": 4, "3": 5, "4": 3}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 3, "wetten": 17, "rustige_jaren": 2360, "macht_eind": {"staat": 0.316, "huizen": 0.073, "kerk": 0.006, "steden": 0.251, "dragers": 0.239, "buren": 0.086, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.133, "buren_honger": 0.67, "ev": 0.889, "aelthir": 0.746, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0598, seed 420598)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0599
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420599
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.331, "magie_eind": 0.331, "golven": 13, "assen": {"5": 2, "4": 5, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 1620, "macht_eind": {"staat": 0.314, "huizen": 0.086, "kerk": 0.005, "steden": 0.143, "dragers": 0.171, "buren": 0.232, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.151, "buren_honger": 1.04, "ev": 1.155, "aelthir": 0.419, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0599, seed 420599)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0600
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420600
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 10, "magie_min": 0.299, "magie_eind": 0.355, "golven": 17, "assen": {"5": 2, "4": 8, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1700, "macht_eind": {"staat": 0.24, "huizen": 0.047, "kerk": 0.004, "steden": 0.169, "dragers": 0.236, "buren": 0.264, "orrim": 0.027, "volk": 0.014}, "parameters": {"groei": 0.185, "buren_honger": 1.478, "ev": 1.266, "aelthir": 0.338, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0600, seed 420600)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0601
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420601
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 5
+- **scores:** {"fasen": 5, "onopgelost": 10, "magie_min": 0.348, "magie_eind": 0.432, "golven": 11, "assen": {"5": 1, "4": 3, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 13, "rustige_jaren": 1260, "macht_eind": {"staat": 0.26, "huizen": 0.068, "kerk": 0.018, "steden": 0.095, "dragers": 0.231, "buren": 0.288, "orrim": 0.027, "volk": 0.014}, "parameters": {"groei": 0.151, "buren_honger": 1.404, "ev": 1.039, "aelthir": 0.517, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0601, seed 420601)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0602
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420602
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.331, "magie_eind": 0.592, "golven": 12, "assen": {"5": 2, "4": 3, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 2000, "macht_eind": {"staat": 0.325, "huizen": 0.059, "kerk": 0.005, "steden": 0.163, "dragers": 0.322, "buren": 0.076, "orrim": 0.034, "volk": 0.014}, "parameters": {"groei": 0.13, "buren_honger": 0.571, "ev": 1.285, "aelthir": 0.463, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0602, seed 420602)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0603
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420603
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 15, "magie_min": 0.336, "magie_eind": 0.336, "golven": 13, "assen": {"5": 4, "3": 6, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 780, "macht_eind": {"staat": 0.281, "huizen": 0.079, "kerk": 0.005, "steden": 0.14, "dragers": 0.251, "buren": 0.197, "orrim": 0.031, "volk": 0.015}, "parameters": {"groei": 0.186, "buren_honger": 1.126, "ev": 1.232, "aelthir": 0.3, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0603, seed 420603)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0604
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420604
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.331, "magie_eind": 0.331, "golven": 11, "assen": {"5": 1, "4": 8, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 740, "macht_eind": {"staat": 0.348, "huizen": 0.089, "kerk": 0.005, "steden": 0.178, "dragers": 0.142, "buren": 0.213, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.151, "buren_honger": 0.93, "ev": 0.899, "aelthir": 0.292, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0604, seed 420604)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0605
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420605
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.299, "magie_eind": 0.309, "golven": 12, "assen": {"5": 2, "4": 6, "3": 5}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2280, "macht_eind": {"staat": 0.233, "huizen": 0.047, "kerk": 0.004, "steden": 0.194, "dragers": 0.215, "buren": 0.265, "orrim": 0.027, "volk": 0.016}, "parameters": {"groei": 0.136, "buren_honger": 1.453, "ev": 0.871, "aelthir": 0.358, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0605, seed 420605)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0606
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420606
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.172, "magie_eind": 0.172, "golven": 10, "assen": {"5": 4, "4": 7, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2940, "macht_eind": {"staat": 0.291, "huizen": 0.055, "kerk": 0.005, "steden": 0.342, "dragers": 0.148, "buren": 0.139, "orrim": 0.008, "volk": 0.012}, "parameters": {"groei": 0.168, "buren_honger": 0.812, "ev": 1.036, "aelthir": 0.704, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0606, seed 420606)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0607
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420607
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 8, "magie_min": 0.193, "magie_eind": 0.193, "golven": 7, "assen": {"5": 3, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 14, "rustige_jaren": 2500, "macht_eind": {"staat": 0.278, "huizen": 0.056, "kerk": 0.005, "steden": 0.317, "dragers": 0.103, "buren": 0.22, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.134, "buren_honger": 1.048, "ev": 0.923, "aelthir": 0.75, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0607, seed 420607)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0608
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420608
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.299, "magie_eind": 0.299, "golven": 9, "assen": {"5": 5, "4": 3, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2980, "macht_eind": {"staat": 0.319, "huizen": 0.083, "kerk": 0.005, "steden": 0.255, "dragers": 0.157, "buren": 0.156, "orrim": 0.008, "volk": 0.017}, "parameters": {"groei": 0.214, "buren_honger": 0.844, "ev": 0.751, "aelthir": 0.623, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0608, seed 420608)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0609
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420609
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 10, "magie_min": 0.252, "magie_eind": 0.346, "golven": 17, "assen": {"5": 4, "4": 7, "3": 5}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 1940, "macht_eind": {"staat": 0.246, "huizen": 0.045, "kerk": 0.004, "steden": 0.213, "dragers": 0.261, "buren": 0.196, "orrim": 0.025, "volk": 0.01}, "parameters": {"groei": 0.125, "buren_honger": 1.245, "ev": 1.267, "aelthir": 0.558, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0609, seed 420609)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0610
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420610
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 11, "magie_min": 0.341, "magie_eind": 0.48, "golven": 12, "assen": {"5": 3, "3": 5, "4": 2}, "rijmt_met_canon": 2, "erft_van_801": 3, "heersers": 2, "wetten": 15, "rustige_jaren": 600, "macht_eind": {"staat": 0.243, "huizen": 0.054, "kerk": 0.005, "steden": 0.11, "dragers": 0.239, "buren": 0.304, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.192, "buren_honger": 1.431, "ev": 0.735, "aelthir": 0.573, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0610, seed 420610)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0611
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420611
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.313, "magie_eind": 0.313, "golven": 5, "assen": {"5": 3, "3": 4, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 2100, "macht_eind": {"staat": 0.343, "huizen": 0.061, "kerk": 0.005, "steden": 0.177, "dragers": 0.2, "buren": 0.162, "orrim": 0.035, "volk": 0.017}, "parameters": {"groei": 0.167, "buren_honger": 0.801, "ev": 0.708, "aelthir": 0.202, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0611, seed 420611)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0612
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420612
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.231, "magie_eind": 0.231, "golven": 9, "assen": {"5": 5, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 3020, "macht_eind": {"staat": 0.256, "huizen": 0.058, "kerk": 0.005, "steden": 0.277, "dragers": 0.167, "buren": 0.211, "orrim": 0.008, "volk": 0.018}, "parameters": {"groei": 0.123, "buren_honger": 1.092, "ev": 0.809, "aelthir": 0.21, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0612, seed 420612)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0613
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420613
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 6, "magie_min": 0.331, "magie_eind": 0.331, "golven": 14, "assen": {"5": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 2420, "macht_eind": {"staat": 0.329, "huizen": 0.056, "kerk": 0.005, "steden": 0.16, "dragers": 0.193, "buren": 0.236, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.167, "buren_honger": 1.056, "ev": 1.043, "aelthir": 0.345, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0613, seed 420613)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0614
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420614
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.225, "magie_eind": 0.386, "golven": 11, "assen": {"5": 7, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 4, "wetten": 15, "rustige_jaren": 2680, "macht_eind": {"staat": 0.257, "huizen": 0.052, "kerk": 0.004, "steden": 0.295, "dragers": 0.187, "buren": 0.183, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.124, "buren_honger": 1.123, "ev": 0.847, "aelthir": 0.765, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0614, seed 420614)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0615
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420615
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.342, "magie_eind": 0.342, "golven": 12, "assen": {"5": 4, "4": 5, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1320, "macht_eind": {"staat": 0.307, "huizen": 0.078, "kerk": 0.005, "steden": 0.11, "dragers": 0.296, "buren": 0.162, "orrim": 0.031, "volk": 0.011}, "parameters": {"groei": 0.204, "buren_honger": 0.853, "ev": 0.901, "aelthir": 0.668, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0615, seed 420615)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0616
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420616
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 4, "magie_min": 0.369, "magie_eind": 0.404, "golven": 13, "assen": {"5": 5, "3": 7, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 3, "wetten": 18, "rustige_jaren": 1860, "macht_eind": {"staat": 0.293, "huizen": 0.056, "kerk": 0.005, "steden": 0.139, "dragers": 0.311, "buren": 0.149, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.168, "buren_honger": 0.835, "ev": 0.958, "aelthir": 0.445, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0616, seed 420616)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0617
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420617
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.335, "magie_eind": 0.335, "golven": 9, "assen": {"5": 3, "3": 4, "4": 2}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 3, "wetten": 15, "rustige_jaren": 1800, "macht_eind": {"staat": 0.286, "huizen": 0.051, "kerk": 0.004, "steden": 0.127, "dragers": 0.285, "buren": 0.203, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.196, "buren_honger": 0.876, "ev": 0.812, "aelthir": 0.208, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0617, seed 420617)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0618
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420618
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.33, "magie_eind": 0.33, "golven": 11, "assen": {"5": 3, "3": 4, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1700, "macht_eind": {"staat": 0.337, "huizen": 0.064, "kerk": 0.005, "steden": 0.167, "dragers": 0.309, "buren": 0.089, "orrim": 0.009, "volk": 0.018}, "parameters": {"groei": 0.126, "buren_honger": 0.625, "ev": 1.163, "aelthir": 0.724, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0618, seed 420618)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0619
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420619
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.355, "magie_eind": 0.435, "golven": 9, "assen": {"5": 1, "4": 5, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 1140, "macht_eind": {"staat": 0.259, "huizen": 0.071, "kerk": 0.021, "steden": 0.099, "dragers": 0.3, "buren": 0.21, "orrim": 0.029, "volk": 0.011}, "parameters": {"groei": 0.193, "buren_honger": 1.13, "ev": 0.925, "aelthir": 0.539, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0619, seed 420619)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0620
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420620
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 3, "magie_min": 0.359, "magie_eind": 0.416, "golven": 11, "assen": {"5": 4, "3": 3, "4": 7}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 2120, "macht_eind": {"staat": 0.337, "huizen": 0.06, "kerk": 0.012, "steden": 0.158, "dragers": 0.281, "buren": 0.103, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.213, "buren_honger": 0.502, "ev": 0.793, "aelthir": 0.246, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0620, seed 420620)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0621
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420621
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 4, "magie_min": 0.334, "magie_eind": 0.34, "golven": 10, "assen": {"5": 3, "4": 4, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2440, "macht_eind": {"staat": 0.369, "huizen": 0.07, "kerk": 0.006, "steden": 0.203, "dragers": 0.17, "buren": 0.124, "orrim": 0.04, "volk": 0.018}, "parameters": {"groei": 0.165, "buren_honger": 0.509, "ev": 0.783, "aelthir": 0.644, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0621, seed 420621)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0622
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420622
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 6, "magie_min": 0.341, "magie_eind": 0.39, "golven": 11, "assen": {"5": 2, "4": 9, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 1740, "macht_eind": {"staat": 0.326, "huizen": 0.14, "kerk": 0.005, "steden": 0.132, "dragers": 0.237, "buren": 0.109, "orrim": 0.035, "volk": 0.015}, "parameters": {"groei": 0.17, "buren_honger": 0.512, "ev": 0.872, "aelthir": 0.492, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0622, seed 420622)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0623
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420623
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.332, "magie_eind": 0.332, "golven": 13, "assen": {"5": 3, "3": 2, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 2080, "macht_eind": {"staat": 0.334, "huizen": 0.062, "kerk": 0.005, "steden": 0.157, "dragers": 0.292, "buren": 0.124, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.163, "buren_honger": 0.721, "ev": 1.219, "aelthir": 0.404, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0623, seed 420623)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0624
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420624
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.217, "magie_eind": 0.217, "golven": 7, "assen": {"5": 4, "4": 7, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2680, "macht_eind": {"staat": 0.238, "huizen": 0.051, "kerk": 0.004, "steden": 0.289, "dragers": 0.138, "buren": 0.259, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.213, "buren_honger": 1.487, "ev": 0.885, "aelthir": 0.774, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0624, seed 420624)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0625
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420625
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 3, "magie_min": 0.343, "magie_eind": 0.346, "golven": 12, "assen": {"5": 4, "3": 2, "4": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 2640, "macht_eind": {"staat": 0.297, "huizen": 0.055, "kerk": 0.005, "steden": 0.131, "dragers": 0.188, "buren": 0.303, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.146, "buren_honger": 1.344, "ev": 0.778, "aelthir": 0.491, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0625, seed 420625)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0626
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420626
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 13, "magie_min": 0.348, "magie_eind": 0.432, "golven": 13, "assen": {"5": 1, "4": 6, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 1, "wetten": 13, "rustige_jaren": 780, "macht_eind": {"staat": 0.277, "huizen": 0.097, "kerk": 0.025, "steden": 0.094, "dragers": 0.298, "buren": 0.167, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.197, "buren_honger": 0.878, "ev": 1.21, "aelthir": 0.553, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0626, seed 420626)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0627
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420627
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 12, "magie_min": 0.35, "magie_eind": 0.35, "golven": 12, "assen": {"5": 4, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 17, "rustige_jaren": 1460, "macht_eind": {"staat": 0.27, "huizen": 0.073, "kerk": 0.058, "steden": 0.093, "dragers": 0.352, "buren": 0.111, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.164, "buren_honger": 0.754, "ev": 1.276, "aelthir": 0.372, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0627, seed 420627)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0628
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420628
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.301, "magie_eind": 0.301, "golven": 11, "assen": {"5": 5, "4": 5, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 4, "wetten": 16, "rustige_jaren": 2720, "macht_eind": {"staat": 0.314, "huizen": 0.085, "kerk": 0.005, "steden": 0.258, "dragers": 0.239, "buren": 0.075, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.159, "buren_honger": 0.595, "ev": 0.919, "aelthir": 0.608, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0628, seed 420628)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0629
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420629
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 15, "magie_min": 0.337, "magie_eind": 0.337, "golven": 12, "assen": {"5": 2, "4": 4, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1040, "macht_eind": {"staat": 0.266, "huizen": 0.071, "kerk": 0.004, "steden": 0.111, "dragers": 0.292, "buren": 0.215, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.121, "buren_honger": 1.076, "ev": 1.177, "aelthir": 0.516, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0629, seed 420629)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0630
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420630
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.265, "magie_eind": 0.596, "golven": 12, "assen": {"5": 2, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 2600, "macht_eind": {"staat": 0.245, "huizen": 0.051, "kerk": 0.004, "steden": 0.24, "dragers": 0.154, "buren": 0.284, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.188, "buren_honger": 1.421, "ev": 0.963, "aelthir": 0.765, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0630, seed 420630)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0631
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420631
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 9, "magie_min": 0.245, "magie_eind": 0.313, "golven": 12, "assen": {"5": 5, "3": 4, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 4, "wetten": 17, "rustige_jaren": 2240, "macht_eind": {"staat": 0.245, "huizen": 0.053, "kerk": 0.005, "steden": 0.293, "dragers": 0.256, "buren": 0.127, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.193, "buren_honger": 0.918, "ev": 1.186, "aelthir": 0.461, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0631, seed 420631)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0632
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420632
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 7, "magie_min": 0.339, "magie_eind": 0.339, "golven": 9, "assen": {"5": 3, "4": 4, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 1, "wetten": 15, "rustige_jaren": 780, "macht_eind": {"staat": 0.321, "huizen": 0.084, "kerk": 0.005, "steden": 0.127, "dragers": 0.201, "buren": 0.238, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.209, "buren_honger": 1.032, "ev": 0.889, "aelthir": 0.736, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0632, seed 420632)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0633
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420633
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 11, "magie_min": 0.337, "magie_eind": 0.349, "golven": 14, "assen": {"5": 4, "4": 3, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1620, "macht_eind": {"staat": 0.268, "huizen": 0.045, "kerk": 0.004, "steden": 0.12, "dragers": 0.227, "buren": 0.296, "orrim": 0.026, "volk": 0.013}, "parameters": {"groei": 0.149, "buren_honger": 1.3, "ev": 1.221, "aelthir": 0.352, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0633, seed 420633)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0634
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420634
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.337, "magie_eind": 0.337, "golven": 12, "assen": {"5": 3, "3": 2, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 820, "macht_eind": {"staat": 0.262, "huizen": 0.067, "kerk": 0.004, "steden": 0.118, "dragers": 0.188, "buren": 0.322, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.18, "buren_honger": 1.356, "ev": 0.704, "aelthir": 0.379, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0634, seed 420634)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0635
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420635
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 5
+- **scores:** {"fasen": 5, "onopgelost": 7, "magie_min": 0.313, "magie_eind": 0.313, "golven": 7, "assen": {"5": 3, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 13, "rustige_jaren": 1980, "macht_eind": {"staat": 0.327, "huizen": 0.06, "kerk": 0.005, "steden": 0.173, "dragers": 0.086, "buren": 0.321, "orrim": 0.009, "volk": 0.019}, "parameters": {"groei": 0.156, "buren_honger": 1.247, "ev": 0.737, "aelthir": 0.529, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0635, seed 420635)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0636
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420636
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.283, "magie_eind": 0.285, "golven": 14, "assen": {"5": 4, "3": 4, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2720, "macht_eind": {"staat": 0.241, "huizen": 0.051, "kerk": 0.004, "steden": 0.208, "dragers": 0.234, "buren": 0.241, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.133, "buren_honger": 1.313, "ev": 1.185, "aelthir": 0.685, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0636, seed 420636)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0637
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420637
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.359, "magie_eind": 0.361, "golven": 10, "assen": {"5": 4, "4": 4, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 1, "wetten": 17, "rustige_jaren": 1300, "macht_eind": {"staat": 0.318, "huizen": 0.081, "kerk": 0.017, "steden": 0.132, "dragers": 0.211, "buren": 0.195, "orrim": 0.032, "volk": 0.013}, "parameters": {"groei": 0.14, "buren_honger": 0.785, "ev": 0.766, "aelthir": 0.231, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0637, seed 420637)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0638
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420638
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.293, "magie_eind": 0.32, "golven": 10, "assen": {"5": 4, "4": 5, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2980, "macht_eind": {"staat": 0.273, "huizen": 0.053, "kerk": 0.005, "steden": 0.236, "dragers": 0.166, "buren": 0.224, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.179, "buren_honger": 1.228, "ev": 0.793, "aelthir": 0.762, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0638, seed 420638)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0639
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420639
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 6
+- **scores:** {"fasen": 6, "onopgelost": 8, "magie_min": 0.343, "magie_eind": 0.347, "golven": 9, "assen": {"5": 2, "4": 2, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 2380, "macht_eind": {"staat": 0.309, "huizen": 0.055, "kerk": 0.005, "steden": 0.16, "dragers": 0.188, "buren": 0.263, "orrim": 0.008, "volk": 0.012}, "parameters": {"groei": 0.131, "buren_honger": 1.155, "ev": 0.895, "aelthir": 0.351, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0639, seed 420639)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0640
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420640
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.333, "magie_eind": 0.333, "golven": 11, "assen": {"5": 2, "3": 3, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 1500, "macht_eind": {"staat": 0.316, "huizen": 0.061, "kerk": 0.005, "steden": 0.151, "dragers": 0.199, "buren": 0.244, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.182, "buren_honger": 1.077, "ev": 1.264, "aelthir": 0.776, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0640, seed 420640)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0641
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420641
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 5, "magie_min": 0.306, "magie_eind": 0.306, "golven": 8, "assen": {"5": 3, "4": 2, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 2560, "macht_eind": {"staat": 0.313, "huizen": 0.056, "kerk": 0.005, "steden": 0.17, "dragers": 0.119, "buren": 0.316, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.12, "buren_honger": 1.164, "ev": 0.906, "aelthir": 0.7, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0641, seed 420641)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0642
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420642
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 13, "magie_min": 0.357, "magie_eind": 0.541, "golven": 17, "assen": {"5": 4, "3": 1, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 3, "heersers": 1, "wetten": 17, "rustige_jaren": 780, "macht_eind": {"staat": 0.245, "huizen": 0.071, "kerk": 0.051, "steden": 0.09, "dragers": 0.298, "buren": 0.201, "orrim": 0.028, "volk": 0.015}, "parameters": {"groei": 0.218, "buren_honger": 1.028, "ev": 1.234, "aelthir": 0.368, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0642, seed 420642)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0643
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420643
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 3, "magie_min": 0.229, "magie_eind": 0.315, "golven": 12, "assen": {"5": 3, "4": 11, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 20, "rustige_jaren": 2700, "macht_eind": {"staat": 0.275, "huizen": 0.069, "kerk": 0.004, "steden": 0.296, "dragers": 0.159, "buren": 0.153, "orrim": 0.028, "volk": 0.017}, "parameters": {"groei": 0.134, "buren_honger": 0.915, "ev": 1.225, "aelthir": 0.392, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0643, seed 420643)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0644
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420644
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 12, "magie_min": 0.347, "magie_eind": 0.347, "golven": 10, "assen": {"5": 4, "3": 4, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 160, "macht_eind": {"staat": 0.255, "huizen": 0.05, "kerk": 0.032, "steden": 0.109, "dragers": 0.342, "buren": 0.173, "orrim": 0.029, "volk": 0.01}, "parameters": {"groei": 0.206, "buren_honger": 0.975, "ev": 1.007, "aelthir": 0.713, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0644, seed 420644)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0645
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420645
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.224, "magie_eind": 0.224, "golven": 13, "assen": {"5": 6, "4": 5, "3": 2}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 2800, "macht_eind": {"staat": 0.314, "huizen": 0.057, "kerk": 0.005, "steden": 0.322, "dragers": 0.205, "buren": 0.073, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.189, "buren_honger": 0.599, "ev": 1.119, "aelthir": 0.765, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0645, seed 420645)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0646
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420646
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 5, "magie_min": 0.337, "magie_eind": 0.337, "golven": 8, "assen": {"5": 3, "4": 3, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 3260, "macht_eind": {"staat": 0.308, "huizen": 0.057, "kerk": 0.005, "steden": 0.147, "dragers": 0.131, "buren": 0.329, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.205, "buren_honger": 1.316, "ev": 0.755, "aelthir": 0.8, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0646, seed 420646)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0647
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420647
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 7, "magie_min": 0.35, "magie_eind": 0.35, "golven": 16, "assen": {"5": 7, "4": 8, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 2020, "macht_eind": {"staat": 0.328, "huizen": 0.138, "kerk": 0.02, "steden": 0.117, "dragers": 0.241, "buren": 0.134, "orrim": 0.009, "volk": 0.013}, "parameters": {"groei": 0.194, "buren_honger": 0.583, "ev": 1.204, "aelthir": 0.627, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0647, seed 420647)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0648
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420648
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 10, "magie_min": 0.337, "magie_eind": 0.376, "golven": 16, "assen": {"5": 5, "3": 4, "4": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 640, "macht_eind": {"staat": 0.252, "huizen": 0.047, "kerk": 0.004, "steden": 0.129, "dragers": 0.295, "buren": 0.233, "orrim": 0.027, "volk": 0.013}, "parameters": {"groei": 0.129, "buren_honger": 1.245, "ev": 1.21, "aelthir": 0.27, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0648, seed 420648)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0649
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420649
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 3, "magie_min": 0.239, "magie_eind": 0.239, "golven": 13, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2600, "macht_eind": {"staat": 0.246, "huizen": 0.047, "kerk": 0.004, "steden": 0.238, "dragers": 0.148, "buren": 0.278, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.129, "buren_honger": 1.425, "ev": 0.924, "aelthir": 0.681, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0649, seed 420649)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0650
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420650
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 6, "magie_min": 0.331, "magie_eind": 0.342, "golven": 4, "assen": {"5": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 2100, "macht_eind": {"staat": 0.378, "huizen": 0.074, "kerk": 0.006, "steden": 0.225, "dragers": 0.105, "buren": 0.182, "orrim": 0.011, "volk": 0.019}, "parameters": {"groei": 0.197, "buren_honger": 0.77, "ev": 0.784, "aelthir": 0.461, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0650, seed 420650)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0651
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420651
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 6, "magie_min": 0.339, "magie_eind": 0.362, "golven": 13, "assen": {"5": 4, "4": 3, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2280, "macht_eind": {"staat": 0.306, "huizen": 0.081, "kerk": 0.005, "steden": 0.148, "dragers": 0.252, "buren": 0.181, "orrim": 0.008, "volk": 0.019}, "parameters": {"groei": 0.189, "buren_honger": 0.743, "ev": 0.832, "aelthir": 0.234, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0651, seed 420651)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0652
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420652
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 3, "magie_min": 0.177, "magie_eind": 0.177, "golven": 6, "assen": {"5": 4, "4": 4, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 2980, "macht_eind": {"staat": 0.332, "huizen": 0.062, "kerk": 0.005, "steden": 0.372, "dragers": 0.125, "buren": 0.051, "orrim": 0.036, "volk": 0.017}, "parameters": {"groei": 0.142, "buren_honger": 0.523, "ev": 0.71, "aelthir": 0.692, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0652, seed 420652)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0653
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420653
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 11, "magie_min": 0.333, "magie_eind": 0.333, "golven": 17, "assen": {"5": 4, "3": 2, "4": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 700, "macht_eind": {"staat": 0.258, "huizen": 0.047, "kerk": 0.004, "steden": 0.122, "dragers": 0.295, "buren": 0.236, "orrim": 0.027, "volk": 0.011}, "parameters": {"groei": 0.167, "buren_honger": 1.198, "ev": 0.968, "aelthir": 0.697, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0653, seed 420653)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0654
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420654
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 7, "magie_min": 0.316, "magie_eind": 0.391, "golven": 12, "assen": {"5": 6, "4": 8, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 19, "rustige_jaren": 2020, "macht_eind": {"staat": 0.294, "huizen": 0.084, "kerk": 0.005, "steden": 0.195, "dragers": 0.242, "buren": 0.132, "orrim": 0.033, "volk": 0.014}, "parameters": {"groei": 0.163, "buren_honger": 0.769, "ev": 1.041, "aelthir": 0.487, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0654, seed 420654)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0655
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420655
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 6, "magie_min": 0.259, "magie_eind": 0.259, "golven": 8, "assen": {"5": 3, "4": 8, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 2360, "macht_eind": {"staat": 0.266, "huizen": 0.053, "kerk": 0.005, "steden": 0.231, "dragers": 0.174, "buren": 0.227, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.153, "buren_honger": 1.265, "ev": 0.868, "aelthir": 0.585, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0655, seed 420655)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0656
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420656
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.337, "magie_eind": 0.337, "golven": 7, "assen": {"5": 3, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2260, "macht_eind": {"staat": 0.341, "huizen": 0.094, "kerk": 0.006, "steden": 0.155, "dragers": 0.245, "buren": 0.132, "orrim": 0.009, "volk": 0.019}, "parameters": {"groei": 0.209, "buren_honger": 0.72, "ev": 0.944, "aelthir": 0.658, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0656, seed 420656)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0657
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420657
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.287, "magie_eind": 0.287, "golven": 12, "assen": {"5": 2, "4": 7, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 1740, "macht_eind": {"staat": 0.239, "huizen": 0.048, "kerk": 0.004, "steden": 0.202, "dragers": 0.18, "buren": 0.287, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.134, "buren_honger": 1.499, "ev": 1.14, "aelthir": 0.695, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0657, seed 420657)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0658
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420658
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.328, "magie_eind": 0.408, "golven": 13, "assen": {"5": 3, "3": 3, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2560, "macht_eind": {"staat": 0.337, "huizen": 0.096, "kerk": 0.006, "steden": 0.167, "dragers": 0.298, "buren": 0.07, "orrim": 0.01, "volk": 0.015}, "parameters": {"groei": 0.139, "buren_honger": 0.56, "ev": 0.863, "aelthir": 0.353, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0658, seed 420658)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0659
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420659
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.347, "magie_eind": 0.362, "golven": 11, "assen": {"5": 4, "3": 1, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 2100, "macht_eind": {"staat": 0.277, "huizen": 0.1, "kerk": 0.005, "steden": 0.142, "dragers": 0.23, "buren": 0.201, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.142, "buren_honger": 1.057, "ev": 1.23, "aelthir": 0.27, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0659, seed 420659)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0660
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420660
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 6, "magie_min": 0.266, "magie_eind": 0.266, "golven": 12, "assen": {"5": 5, "3": 2, "4": 7}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2180, "macht_eind": {"staat": 0.253, "huizen": 0.052, "kerk": 0.004, "steden": 0.234, "dragers": 0.14, "buren": 0.274, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.179, "buren_honger": 1.41, "ev": 0.897, "aelthir": 0.362, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0660, seed 420660)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0661
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420661
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 7, "magie_min": 0.14, "magie_eind": 0.274, "golven": 9, "assen": {"5": 4, "4": 6, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2580, "macht_eind": {"staat": 0.309, "huizen": 0.055, "kerk": 0.005, "steden": 0.391, "dragers": 0.047, "buren": 0.173, "orrim": 0.008, "volk": 0.012}, "parameters": {"groei": 0.131, "buren_honger": 0.916, "ev": 1.253, "aelthir": 0.404, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0661, seed 420661)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0662
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420662
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.34, "magie_eind": 0.34, "golven": 9, "assen": {"5": 2, "3": 2, "4": 7}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 1, "wetten": 15, "rustige_jaren": 2600, "macht_eind": {"staat": 0.363, "huizen": 0.099, "kerk": 0.006, "steden": 0.165, "dragers": 0.287, "buren": 0.052, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.153, "buren_honger": 0.51, "ev": 1.099, "aelthir": 0.503, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0662, seed 420662)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0663
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420663
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.33, "magie_eind": 0.334, "golven": 8, "assen": {"5": 4, "4": 9}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2200, "macht_eind": {"staat": 0.264, "huizen": 0.05, "kerk": 0.004, "steden": 0.186, "dragers": 0.201, "buren": 0.254, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.217, "buren_honger": 1.26, "ev": 0.866, "aelthir": 0.373, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0663, seed 420663)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0664
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420664
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 8, "magie_min": 0.334, "magie_eind": 0.334, "golven": 13, "assen": {"5": 2, "3": 5, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 1900, "macht_eind": {"staat": 0.303, "huizen": 0.059, "kerk": 0.005, "steden": 0.145, "dragers": 0.336, "buren": 0.102, "orrim": 0.034, "volk": 0.016}, "parameters": {"groei": 0.127, "buren_honger": 0.677, "ev": 1.079, "aelthir": 0.546, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0664, seed 420664)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0665
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420665
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.3, "magie_eind": 0.305, "golven": 13, "assen": {"5": 2, "4": 7, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 14, "rustige_jaren": 2940, "macht_eind": {"staat": 0.287, "huizen": 0.058, "kerk": 0.005, "steden": 0.252, "dragers": 0.166, "buren": 0.208, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.2, "buren_honger": 1.117, "ev": 0.717, "aelthir": 0.637, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0665, seed 420665)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0666
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420666
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 8, "magie_min": 0.124, "magie_eind": 0.124, "golven": 7, "assen": {"5": 5, "4": 8, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2340, "macht_eind": {"staat": 0.258, "huizen": 0.049, "kerk": 0.004, "steden": 0.407, "dragers": 0.056, "buren": 0.205, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.14, "buren_honger": 1.211, "ev": 0.774, "aelthir": 0.777, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0666, seed 420666)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0667
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420667
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 9, "magie_min": 0.353, "magie_eind": 0.353, "golven": 15, "assen": {"5": 4, "3": 4, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 980, "macht_eind": {"staat": 0.261, "huizen": 0.047, "kerk": 0.034, "steden": 0.112, "dragers": 0.27, "buren": 0.239, "orrim": 0.027, "volk": 0.01}, "parameters": {"groei": 0.148, "buren_honger": 1.248, "ev": 1.217, "aelthir": 0.76, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0667, seed 420667)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0668
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420668
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 4, "magie_min": 0.315, "magie_eind": 0.315, "golven": 7, "assen": {"5": 5, "4": 3, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2000, "macht_eind": {"staat": 0.332, "huizen": 0.059, "kerk": 0.005, "steden": 0.167, "dragers": 0.143, "buren": 0.271, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.192, "buren_honger": 1.126, "ev": 1.127, "aelthir": 0.251, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0668, seed 420668)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0669
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420669
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 4, "magie_min": 0.157, "magie_eind": 0.157, "golven": 9, "assen": {"5": 4, "4": 5, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 2980, "macht_eind": {"staat": 0.302, "huizen": 0.062, "kerk": 0.005, "steden": 0.387, "dragers": 0.115, "buren": 0.104, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.124, "buren_honger": 0.76, "ev": 0.789, "aelthir": 0.445, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0669, seed 420669)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0670
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420670
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.336, "magie_eind": 0.336, "golven": 10, "assen": {"5": 2, "3": 5, "4": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1460, "macht_eind": {"staat": 0.336, "huizen": 0.062, "kerk": 0.005, "steden": 0.15, "dragers": 0.266, "buren": 0.13, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.201, "buren_honger": 0.737, "ev": 0.866, "aelthir": 0.573, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0670, seed 420670)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0671
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420671
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.321, "magie_eind": 0.321, "golven": 8, "assen": {"5": 3, "3": 5, "4": 2}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 700, "macht_eind": {"staat": 0.26, "huizen": 0.053, "kerk": 0.005, "steden": 0.133, "dragers": 0.183, "buren": 0.323, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.189, "buren_honger": 1.367, "ev": 0.968, "aelthir": 0.543, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0671, seed 420671)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0672
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420672
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 4, "magie_min": 0.34, "magie_eind": 0.34, "golven": 6, "assen": {"5": 3, "4": 6, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 2240, "macht_eind": {"staat": 0.344, "huizen": 0.094, "kerk": 0.006, "steden": 0.183, "dragers": 0.151, "buren": 0.195, "orrim": 0.009, "volk": 0.018}, "parameters": {"groei": 0.162, "buren_honger": 0.894, "ev": 0.722, "aelthir": 0.798, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0672, seed 420672)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0673
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420673
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 8, "magie_min": 0.347, "magie_eind": 0.618, "golven": 11, "assen": {"5": 4, "3": 2, "4": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 580, "macht_eind": {"staat": 0.292, "huizen": 0.05, "kerk": 0.004, "steden": 0.129, "dragers": 0.266, "buren": 0.218, "orrim": 0.029, "volk": 0.012}, "parameters": {"groei": 0.216, "buren_honger": 0.935, "ev": 0.998, "aelthir": 0.394, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0673, seed 420673)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0674
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420674
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 11, "magie_min": 0.348, "magie_eind": 0.348, "golven": 13, "assen": {"5": 6, "4": 4, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 1920, "macht_eind": {"staat": 0.234, "huizen": 0.053, "kerk": 0.005, "steden": 0.174, "dragers": 0.275, "buren": 0.214, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.202, "buren_honger": 1.192, "ev": 1.292, "aelthir": 0.306, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0674, seed 420674)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0675
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420675
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.34, "magie_eind": 0.48, "golven": 12, "assen": {"5": 3, "4": 3, "3": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 780, "macht_eind": {"staat": 0.316, "huizen": 0.117, "kerk": 0.005, "steden": 0.114, "dragers": 0.26, "buren": 0.136, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.145, "buren_honger": 0.844, "ev": 1.047, "aelthir": 0.251, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0675, seed 420675)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0676
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420676
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 12, "magie_min": 0.346, "magie_eind": 0.48, "golven": 10, "assen": {"5": 2, "3": 3, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1060, "macht_eind": {"staat": 0.286, "huizen": 0.053, "kerk": 0.005, "steden": 0.138, "dragers": 0.257, "buren": 0.217, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.219, "buren_honger": 1.039, "ev": 1.075, "aelthir": 0.465, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0676, seed 420676)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0677
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420677
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 11, "magie_min": 0.334, "magie_eind": 0.334, "golven": 13, "assen": {"5": 4, "3": 5, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 19, "rustige_jaren": 2080, "macht_eind": {"staat": 0.299, "huizen": 0.059, "kerk": 0.005, "steden": 0.136, "dragers": 0.354, "buren": 0.093, "orrim": 0.034, "volk": 0.02}, "parameters": {"groei": 0.206, "buren_honger": 0.654, "ev": 1.183, "aelthir": 0.246, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0677, seed 420677)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0678
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420678
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.142, "magie_eind": 0.142, "golven": 8, "assen": {"5": 5, "4": 4, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2960, "macht_eind": {"staat": 0.289, "huizen": 0.057, "kerk": 0.005, "steden": 0.378, "dragers": 0.137, "buren": 0.085, "orrim": 0.032, "volk": 0.017}, "parameters": {"groei": 0.148, "buren_honger": 0.638, "ev": 0.749, "aelthir": 0.723, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0678, seed 420678)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0679
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420679
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 5, "magie_min": 0.344, "magie_eind": 0.344, "golven": 11, "assen": {"5": 3, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 14, "rustige_jaren": 2160, "macht_eind": {"staat": 0.33, "huizen": 0.091, "kerk": 0.005, "steden": 0.159, "dragers": 0.235, "buren": 0.154, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.141, "buren_honger": 0.793, "ev": 0.846, "aelthir": 0.383, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0679, seed 420679)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0680
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420680
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.334, "magie_eind": 0.364, "golven": 8, "assen": {"5": 3, "3": 3, "4": 7}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 1, "wetten": 16, "rustige_jaren": 1580, "macht_eind": {"staat": 0.268, "huizen": 0.054, "kerk": 0.005, "steden": 0.145, "dragers": 0.176, "buren": 0.307, "orrim": 0.031, "volk": 0.016}, "parameters": {"groei": 0.14, "buren_honger": 1.325, "ev": 1.129, "aelthir": 0.773, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0680, seed 420680)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0681
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420681
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.345, "magie_eind": 0.529, "golven": 9, "assen": {"5": 2, "4": 6, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 2480, "macht_eind": {"staat": 0.376, "huizen": 0.099, "kerk": 0.006, "steden": 0.207, "dragers": 0.178, "buren": 0.107, "orrim": 0.01, "volk": 0.017}, "parameters": {"groei": 0.182, "buren_honger": 0.615, "ev": 0.942, "aelthir": 0.351, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0681, seed 420681)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0682
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420682
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 3, "magie_min": 0.302, "magie_eind": 0.302, "golven": 13, "assen": {"5": 4, "4": 7, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 3080, "macht_eind": {"staat": 0.288, "huizen": 0.078, "kerk": 0.005, "steden": 0.252, "dragers": 0.172, "buren": 0.183, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.185, "buren_honger": 0.952, "ev": 0.775, "aelthir": 0.347, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0682, seed 420682)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0683
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420683
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.36, "magie_eind": 0.495, "golven": 10, "assen": {"5": 5, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 1840, "macht_eind": {"staat": 0.316, "huizen": 0.082, "kerk": 0.005, "steden": 0.13, "dragers": 0.261, "buren": 0.159, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.214, "buren_honger": 0.676, "ev": 0.869, "aelthir": 0.211, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0683, seed 420683)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0684
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420684
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 12, "magie_min": 0.353, "magie_eind": 0.403, "golven": 17, "assen": {"5": 2, "4": 4, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 3, "heersers": 1, "wetten": 15, "rustige_jaren": 1940, "macht_eind": {"staat": 0.254, "huizen": 0.044, "kerk": 0.024, "steden": 0.095, "dragers": 0.247, "buren": 0.299, "orrim": 0.025, "volk": 0.011}, "parameters": {"groei": 0.171, "buren_honger": 1.482, "ev": 0.925, "aelthir": 0.764, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0684, seed 420684)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0685
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420685
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 13, "magie_min": 0.332, "magie_eind": 0.506, "golven": 15, "assen": {"5": 4, "4": 5, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 1240, "macht_eind": {"staat": 0.239, "huizen": 0.049, "kerk": 0.004, "steden": 0.156, "dragers": 0.337, "buren": 0.173, "orrim": 0.028, "volk": 0.014}, "parameters": {"groei": 0.159, "buren_honger": 1.111, "ev": 1.217, "aelthir": 0.297, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0685, seed 420685)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0686
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420686
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 3, "magie_min": 0.332, "magie_eind": 0.332, "golven": 9, "assen": {"5": 4, "4": 7}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2180, "macht_eind": {"staat": 0.368, "huizen": 0.066, "kerk": 0.006, "steden": 0.2, "dragers": 0.262, "buren": 0.072, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.22, "buren_honger": 0.54, "ev": 0.757, "aelthir": 0.535, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0686, seed 420686)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0687
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420687
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 8, "magie_min": 0.352, "magie_eind": 0.37, "golven": 11, "assen": {"5": 5, "4": 3, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 1, "wetten": 15, "rustige_jaren": 1240, "macht_eind": {"staat": 0.228, "huizen": 0.066, "kerk": 0.038, "steden": 0.096, "dragers": 0.252, "buren": 0.282, "orrim": 0.026, "volk": 0.012}, "parameters": {"groei": 0.13, "buren_honger": 1.377, "ev": 1.089, "aelthir": 0.589, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0687, seed 420687)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0688
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420688
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.336, "magie_eind": 0.485, "golven": 11, "assen": {"5": 3, "3": 5, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 1260, "macht_eind": {"staat": 0.25, "huizen": 0.047, "kerk": 0.004, "steden": 0.114, "dragers": 0.266, "buren": 0.281, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.168, "buren_honger": 1.413, "ev": 0.772, "aelthir": 0.608, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0688, seed 420688)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0689
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420689
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.33, "magie_eind": 0.33, "golven": 8, "assen": {"5": 5, "4": 5, "3": 1}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 2180, "macht_eind": {"staat": 0.346, "huizen": 0.094, "kerk": 0.006, "steden": 0.185, "dragers": 0.198, "buren": 0.144, "orrim": 0.009, "volk": 0.018}, "parameters": {"groei": 0.149, "buren_honger": 0.721, "ev": 0.7, "aelthir": 0.266, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0689, seed 420689)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0690
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420690
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 11, "magie_min": 0.336, "magie_eind": 0.336, "golven": 16, "assen": {"5": 4, "3": 2, "4": 7}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1140, "macht_eind": {"staat": 0.24, "huizen": 0.047, "kerk": 0.004, "steden": 0.141, "dragers": 0.305, "buren": 0.243, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.154, "buren_honger": 1.403, "ev": 1.294, "aelthir": 0.771, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0690, seed 420690)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0691
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420691
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 9, "magie_min": 0.344, "magie_eind": 0.344, "golven": 15, "assen": {"5": 3, "3": 3, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 14, "rustige_jaren": 1800, "macht_eind": {"staat": 0.265, "huizen": 0.059, "kerk": 0.005, "steden": 0.192, "dragers": 0.356, "buren": 0.098, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.151, "buren_honger": 0.752, "ev": 1.14, "aelthir": 0.433, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0691, seed 420691)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0692
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420692
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 8, "magie_min": 0.339, "magie_eind": 0.651, "golven": 12, "assen": {"5": 2, "4": 4, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1520, "macht_eind": {"staat": 0.33, "huizen": 0.058, "kerk": 0.005, "steden": 0.157, "dragers": 0.267, "buren": 0.16, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.157, "buren_honger": 0.671, "ev": 1.145, "aelthir": 0.575, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0692, seed 420692)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0693
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420693
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.318, "magie_eind": 0.318, "golven": 9, "assen": {"5": 2, "3": 5, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 2060, "macht_eind": {"staat": 0.307, "huizen": 0.062, "kerk": 0.005, "steden": 0.17, "dragers": 0.23, "buren": 0.175, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.16, "buren_honger": 0.96, "ev": 0.811, "aelthir": 0.251, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0693, seed 420693)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0694
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420694
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 2, "magie_min": 0.316, "magie_eind": 0.316, "golven": 6, "assen": {"5": 3, "4": 7, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 0, "heersers": 1, "wetten": 17, "rustige_jaren": 1980, "macht_eind": {"staat": 0.382, "huizen": 0.109, "kerk": 0.007, "steden": 0.185, "dragers": 0.164, "buren": 0.123, "orrim": 0.011, "volk": 0.019}, "parameters": {"groei": 0.162, "buren_honger": 0.656, "ev": 0.704, "aelthir": 0.567, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0694, seed 420694)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0695
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420695
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.338, "magie_eind": 0.338, "golven": 9, "assen": {"5": 2, "4": 7, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 1220, "macht_eind": {"staat": 0.33, "huizen": 0.083, "kerk": 0.005, "steden": 0.15, "dragers": 0.225, "buren": 0.157, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.182, "buren_honger": 0.663, "ev": 1.04, "aelthir": 0.251, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0695, seed 420695)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0696
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420696
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 6, "magie_min": 0.356, "magie_eind": 0.371, "golven": 13, "assen": {"5": 4, "3": 5, "4": 6}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 19, "rustige_jaren": 1840, "macht_eind": {"staat": 0.246, "huizen": 0.048, "kerk": 0.004, "steden": 0.156, "dragers": 0.305, "buren": 0.201, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.206, "buren_honger": 1.216, "ev": 0.903, "aelthir": 0.385, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0696, seed 420696)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0697
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420697
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 10, "magie_min": 0.332, "magie_eind": 0.332, "golven": 10, "assen": {"5": 2, "3": 3, "4": 8}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 1580, "macht_eind": {"staat": 0.246, "huizen": 0.072, "kerk": 0.004, "steden": 0.147, "dragers": 0.26, "buren": 0.228, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.138, "buren_honger": 1.297, "ev": 0.962, "aelthir": 0.248, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0697, seed 420697)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0698
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420698
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 6
+- **scores:** {"fasen": 6, "onopgelost": 11, "magie_min": 0.348, "magie_eind": 0.411, "golven": 12, "assen": {"5": 2, "4": 3, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1680, "macht_eind": {"staat": 0.266, "huizen": 0.066, "kerk": 0.019, "steden": 0.102, "dragers": 0.212, "buren": 0.316, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.185, "buren_honger": 1.493, "ev": 0.815, "aelthir": 0.585, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0698, seed 420698)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0699
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420699
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.335, "magie_eind": 0.375, "golven": 15, "assen": {"5": 5, "3": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 4, "wetten": 16, "rustige_jaren": 2220, "macht_eind": {"staat": 0.232, "huizen": 0.048, "kerk": 0.004, "steden": 0.134, "dragers": 0.304, "buren": 0.259, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.184, "buren_honger": 1.412, "ev": 0.963, "aelthir": 0.48, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0699, seed 420699)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0700
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420700
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.346, "magie_eind": 0.346, "golven": 9, "assen": {"5": 6, "3": 4, "4": 3}, "rijmt_met_canon": 4, "erft_van_801": 3, "heersers": 2, "wetten": 18, "rustige_jaren": 1740, "macht_eind": {"staat": 0.28, "huizen": 0.081, "kerk": 0.005, "steden": 0.139, "dragers": 0.178, "buren": 0.294, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.153, "buren_honger": 1.377, "ev": 0.897, "aelthir": 0.51, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0700, seed 420700)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0701
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420701
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.356, "magie_eind": 0.384, "golven": 19, "assen": {"5": 2, "4": 6, "3": 5}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 3, "wetten": 18, "rustige_jaren": 2100, "macht_eind": {"staat": 0.283, "huizen": 0.076, "kerk": 0.03, "steden": 0.102, "dragers": 0.367, "buren": 0.098, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.128, "buren_honger": 0.693, "ev": 1.155, "aelthir": 0.38, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0701, seed 420701)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0702
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420702
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 5, "magie_min": 0.315, "magie_eind": 0.315, "golven": 10, "assen": {"5": 4, "4": 3, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2500, "macht_eind": {"staat": 0.319, "huizen": 0.058, "kerk": 0.005, "steden": 0.164, "dragers": 0.265, "buren": 0.165, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.159, "buren_honger": 0.833, "ev": 0.987, "aelthir": 0.609, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0702, seed 420702)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0703
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420703
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 11, "magie_min": 0.322, "magie_eind": 0.363, "golven": 10, "assen": {"5": 2, "4": 5, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1520, "macht_eind": {"staat": 0.283, "huizen": 0.05, "kerk": 0.004, "steden": 0.137, "dragers": 0.228, "buren": 0.277, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.16, "buren_honger": 1.138, "ev": 1.136, "aelthir": 0.531, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0703, seed 420703)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0704
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420704
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.348, "magie_eind": 0.348, "golven": 15, "assen": {"5": 5, "4": 5, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 4, "heersers": 1, "wetten": 18, "rustige_jaren": 1320, "macht_eind": {"staat": 0.276, "huizen": 0.067, "kerk": 0.006, "steden": 0.157, "dragers": 0.352, "buren": 0.088, "orrim": 0.038, "volk": 0.017}, "parameters": {"groei": 0.142, "buren_honger": 0.713, "ev": 0.971, "aelthir": 0.275, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0704, seed 420704)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0705
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420705
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 12, "magie_min": 0.336, "magie_eind": 0.475, "golven": 10, "assen": {"5": 3, "3": 4, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 700, "macht_eind": {"staat": 0.234, "huizen": 0.046, "kerk": 0.004, "steden": 0.111, "dragers": 0.289, "buren": 0.277, "orrim": 0.026, "volk": 0.012}, "parameters": {"groei": 0.148, "buren_honger": 1.402, "ev": 1.082, "aelthir": 0.445, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0705, seed 420705)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0706
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420706
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 5, "magie_min": 0.222, "magie_eind": 0.222, "golven": 12, "assen": {"5": 4, "4": 6, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2400, "macht_eind": {"staat": 0.296, "huizen": 0.058, "kerk": 0.005, "steden": 0.306, "dragers": 0.099, "buren": 0.214, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.162, "buren_honger": 1.013, "ev": 1.041, "aelthir": 0.229, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0706, seed 420706)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0707
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420707
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 7, "magie_min": 0.347, "magie_eind": 0.347, "golven": 6, "assen": {"5": 3, "4": 3, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 14, "rustige_jaren": 1640, "macht_eind": {"staat": 0.327, "huizen": 0.113, "kerk": 0.005, "steden": 0.122, "dragers": 0.113, "buren": 0.296, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.137, "buren_honger": 1.2, "ev": 0.794, "aelthir": 0.271, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0707, seed 420707)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0708
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420708
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.339, "magie_eind": 0.451, "golven": 8, "assen": {"5": 3, "4": 7, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1560, "macht_eind": {"staat": 0.261, "huizen": 0.09, "kerk": 0.004, "steden": 0.118, "dragers": 0.283, "buren": 0.204, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.163, "buren_honger": 1.124, "ev": 1.09, "aelthir": 0.758, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0708, seed 420708)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0709
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420709
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 10, "magie_min": 0.375, "magie_eind": 0.545, "golven": 18, "assen": {"5": 4, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 16, "rustige_jaren": 1460, "macht_eind": {"staat": 0.219, "huizen": 0.058, "kerk": 0.038, "steden": 0.076, "dragers": 0.348, "buren": 0.227, "orrim": 0.023, "volk": 0.01}, "parameters": {"groei": 0.192, "buren_honger": 1.327, "ev": 1.266, "aelthir": 0.414, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0709, seed 420709)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0710
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420710
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 4, "magie_min": 0.333, "magie_eind": 0.377, "golven": 11, "assen": {"5": 4, "4": 4, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1760, "macht_eind": {"staat": 0.311, "huizen": 0.057, "kerk": 0.005, "steden": 0.153, "dragers": 0.221, "buren": 0.229, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.201, "buren_honger": 1.024, "ev": 0.933, "aelthir": 0.237, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0710, seed 420710)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0711
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420711
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 10, "magie_min": 0.342, "magie_eind": 0.361, "golven": 13, "assen": {"5": 5, "3": 2, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1520, "macht_eind": {"staat": 0.283, "huizen": 0.051, "kerk": 0.004, "steden": 0.125, "dragers": 0.296, "buren": 0.199, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.167, "buren_honger": 0.871, "ev": 1.238, "aelthir": 0.551, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0711, seed 420711)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0712
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420712
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.339, "magie_eind": 0.352, "golven": 10, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1940, "macht_eind": {"staat": 0.343, "huizen": 0.087, "kerk": 0.005, "steden": 0.171, "dragers": 0.225, "buren": 0.146, "orrim": 0.009, "volk": 0.014}, "parameters": {"groei": 0.18, "buren_honger": 0.615, "ev": 0.758, "aelthir": 0.526, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0712, seed 420712)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0713
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420713
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 7, "magie_min": 0.35, "magie_eind": 0.35, "golven": 10, "assen": {"5": 2, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1360, "macht_eind": {"staat": 0.271, "huizen": 0.071, "kerk": 0.051, "steden": 0.093, "dragers": 0.214, "buren": 0.263, "orrim": 0.028, "volk": 0.009}, "parameters": {"groei": 0.138, "buren_honger": 1.283, "ev": 0.993, "aelthir": 0.501, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0713, seed 420713)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0714
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420714
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 7, "magie_min": 0.356, "magie_eind": 0.366, "golven": 13, "assen": {"5": 2, "4": 5, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1680, "macht_eind": {"staat": 0.298, "huizen": 0.077, "kerk": 0.005, "steden": 0.141, "dragers": 0.217, "buren": 0.24, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.175, "buren_honger": 1.096, "ev": 0.935, "aelthir": 0.649, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0714, seed 420714)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0715
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420715
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 7, "magie_min": 0.332, "magie_eind": 0.525, "golven": 7, "assen": {"5": 4, "4": 2, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1380, "macht_eind": {"staat": 0.342, "huizen": 0.063, "kerk": 0.005, "steden": 0.186, "dragers": 0.081, "buren": 0.296, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.146, "buren_honger": 0.994, "ev": 0.768, "aelthir": 0.204, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0715, seed 420715)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0716
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420716
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 4, "magie_min": 0.334, "magie_eind": 0.336, "golven": 9, "assen": {"5": 3, "4": 7, "3": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 2340, "macht_eind": {"staat": 0.355, "huizen": 0.065, "kerk": 0.006, "steden": 0.186, "dragers": 0.251, "buren": 0.081, "orrim": 0.037, "volk": 0.019}, "parameters": {"groei": 0.187, "buren_honger": 0.565, "ev": 0.908, "aelthir": 0.205, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0716, seed 420716)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0717
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420717
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 8, "magie_min": 0.348, "magie_eind": 0.46, "golven": 15, "assen": {"5": 2, "4": 5, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1640, "macht_eind": {"staat": 0.26, "huizen": 0.071, "kerk": 0.03, "steden": 0.087, "dragers": 0.282, "buren": 0.252, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.133, "buren_honger": 1.24, "ev": 1.178, "aelthir": 0.796, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0717, seed 420717)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0718
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420718
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 11, "magie_min": 0.327, "magie_eind": 0.327, "golven": 15, "assen": {"5": 2, "4": 8, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 20, "rustige_jaren": 1460, "macht_eind": {"staat": 0.339, "huizen": 0.083, "kerk": 0.005, "steden": 0.146, "dragers": 0.267, "buren": 0.11, "orrim": 0.033, "volk": 0.016}, "parameters": {"groei": 0.204, "buren_honger": 0.529, "ev": 1.245, "aelthir": 0.495, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0718, seed 420718)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0719
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420719
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.244, "magie_eind": 0.391, "golven": 8, "assen": {"5": 3, "4": 9, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2960, "macht_eind": {"staat": 0.257, "huizen": 0.05, "kerk": 0.004, "steden": 0.229, "dragers": 0.172, "buren": 0.267, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.132, "buren_honger": 1.408, "ev": 0.724, "aelthir": 0.512, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0719, seed 420719)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0720
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420720
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.322, "magie_eind": 0.322, "golven": 13, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 1, "wetten": 15, "rustige_jaren": 1200, "macht_eind": {"staat": 0.348, "huizen": 0.115, "kerk": 0.005, "steden": 0.158, "dragers": 0.212, "buren": 0.137, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.206, "buren_honger": 0.727, "ev": 0.973, "aelthir": 0.597, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0720, seed 420720)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0721
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420721
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 15, "magie_min": 0.342, "magie_eind": 0.48, "golven": 17, "assen": {"5": 4, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 640, "macht_eind": {"staat": 0.28, "huizen": 0.071, "kerk": 0.004, "steden": 0.112, "dragers": 0.299, "buren": 0.214, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.197, "buren_honger": 1.114, "ev": 1.032, "aelthir": 0.721, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0721, seed 420721)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0722
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420722
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 6, "magie_min": 0.367, "magie_eind": 0.424, "golven": 15, "assen": {"5": 4, "4": 8, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 20, "rustige_jaren": 1820, "macht_eind": {"staat": 0.317, "huizen": 0.077, "kerk": 0.015, "steden": 0.133, "dragers": 0.333, "buren": 0.08, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.217, "buren_honger": 0.636, "ev": 1.258, "aelthir": 0.722, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0722, seed 420722)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0723
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420723
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 13, "magie_min": 0.342, "magie_eind": 0.371, "golven": 13, "assen": {"5": 2, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 1200, "macht_eind": {"staat": 0.286, "huizen": 0.055, "kerk": 0.005, "steden": 0.115, "dragers": 0.269, "buren": 0.248, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.209, "buren_honger": 1.134, "ev": 1.296, "aelthir": 0.344, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0723, seed 420723)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0724
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420724
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 10, "magie_min": 0.336, "magie_eind": 0.515, "golven": 10, "assen": {"5": 2, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 1000, "macht_eind": {"staat": 0.261, "huizen": 0.048, "kerk": 0.004, "steden": 0.137, "dragers": 0.248, "buren": 0.262, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.148, "buren_honger": 1.262, "ev": 0.738, "aelthir": 0.218, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0724, seed 420724)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0725
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420725
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 10, "magie_min": 0.353, "magie_eind": 0.355, "golven": 14, "assen": {"5": 3, "4": 6, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 1400, "macht_eind": {"staat": 0.288, "huizen": 0.098, "kerk": 0.06, "steden": 0.096, "dragers": 0.3, "buren": 0.114, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.128, "buren_honger": 0.719, "ev": 1.166, "aelthir": 0.61, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0725, seed 420725)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0726
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420726
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.339, "magie_eind": 0.339, "golven": 16, "assen": {"5": 4, "4": 2, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1580, "macht_eind": {"staat": 0.254, "huizen": 0.047, "kerk": 0.004, "steden": 0.117, "dragers": 0.279, "buren": 0.26, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.162, "buren_honger": 1.147, "ev": 0.93, "aelthir": 0.665, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0726, seed 420726)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0727
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420727
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.259, "magie_eind": 0.259, "golven": 9, "assen": {"5": 4, "3": 4, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 3, "wetten": 15, "rustige_jaren": 2480, "macht_eind": {"staat": 0.282, "huizen": 0.062, "kerk": 0.005, "steden": 0.264, "dragers": 0.284, "buren": 0.076, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.121, "buren_honger": 0.68, "ev": 1.135, "aelthir": 0.781, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0727, seed 420727)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0728
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420728
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 12, "magie_min": 0.345, "magie_eind": 0.345, "golven": 14, "assen": {"5": 3, "3": 5, "4": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 1280, "macht_eind": {"staat": 0.217, "huizen": 0.043, "kerk": 0.012, "steden": 0.102, "dragers": 0.31, "buren": 0.28, "orrim": 0.025, "volk": 0.011}, "parameters": {"groei": 0.142, "buren_honger": 1.486, "ev": 1.181, "aelthir": 0.688, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0728, seed 420728)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0729
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420729
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 4, "magie_min": 0.323, "magie_eind": 0.326, "golven": 12, "assen": {"5": 2, "3": 5, "4": 7}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 2800, "macht_eind": {"staat": 0.318, "huizen": 0.058, "kerk": 0.005, "steden": 0.156, "dragers": 0.324, "buren": 0.091, "orrim": 0.033, "volk": 0.016}, "parameters": {"groei": 0.147, "buren_honger": 0.648, "ev": 0.969, "aelthir": 0.279, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0729, seed 420729)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0730
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420730
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.341, "magie_eind": 0.356, "golven": 10, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1920, "macht_eind": {"staat": 0.301, "huizen": 0.064, "kerk": 0.005, "steden": 0.157, "dragers": 0.283, "buren": 0.163, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.214, "buren_honger": 0.838, "ev": 0.841, "aelthir": 0.256, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0730, seed 420730)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0731
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420731
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.225, "magie_eind": 0.225, "golven": 8, "assen": {"5": 4, "4": 7, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2100, "macht_eind": {"staat": 0.225, "huizen": 0.054, "kerk": 0.005, "steden": 0.286, "dragers": 0.171, "buren": 0.216, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.121, "buren_honger": 1.171, "ev": 0.953, "aelthir": 0.416, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0731, seed 420731)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0732
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420732
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 13, "magie_min": 0.339, "magie_eind": 0.339, "golven": 10, "assen": {"5": 3, "4": 4, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 520, "macht_eind": {"staat": 0.271, "huizen": 0.048, "kerk": 0.004, "steden": 0.121, "dragers": 0.172, "buren": 0.364, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.205, "buren_honger": 1.475, "ev": 1.16, "aelthir": 0.618, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0732, seed 420732)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0733
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420733
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 8, "magie_min": 0.339, "magie_eind": 0.347, "golven": 13, "assen": {"5": 2, "3": 4, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1100, "macht_eind": {"staat": 0.313, "huizen": 0.057, "kerk": 0.005, "steden": 0.151, "dragers": 0.287, "buren": 0.14, "orrim": 0.033, "volk": 0.014}, "parameters": {"groei": 0.164, "buren_honger": 0.62, "ev": 1.255, "aelthir": 0.28, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0733, seed 420733)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0734
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420734
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 16, "magie_min": 0.339, "magie_eind": 0.4, "golven": 14, "assen": {"5": 2, "3": 5, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 3, "wetten": 15, "rustige_jaren": 1080, "macht_eind": {"staat": 0.208, "huizen": 0.052, "kerk": 0.004, "steden": 0.134, "dragers": 0.304, "buren": 0.255, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.172, "buren_honger": 1.472, "ev": 1.227, "aelthir": 0.452, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0734, seed 420734)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0735
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420735
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 3, "magie_min": 0.328, "magie_eind": 0.328, "golven": 9, "assen": {"5": 3, "4": 9, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 3040, "macht_eind": {"staat": 0.352, "huizen": 0.125, "kerk": 0.006, "steden": 0.244, "dragers": 0.135, "buren": 0.111, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.219, "buren_honger": 0.664, "ev": 0.719, "aelthir": 0.634, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0735, seed 420735)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0736
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420736
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 13, "magie_min": 0.32, "magie_eind": 0.42, "golven": 16, "assen": {"5": 3, "4": 6, "3": 5}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 4, "wetten": 17, "rustige_jaren": 1680, "macht_eind": {"staat": 0.233, "huizen": 0.07, "kerk": 0.004, "steden": 0.146, "dragers": 0.265, "buren": 0.242, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.179, "buren_honger": 1.364, "ev": 0.945, "aelthir": 0.262, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0736, seed 420736)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0737
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420737
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 4
+- **scores:** {"fasen": 4, "onopgelost": 5, "magie_min": 0.36, "magie_eind": 0.362, "golven": 10, "assen": {"5": 2, "4": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 13, "rustige_jaren": 1320, "macht_eind": {"staat": 0.283, "huizen": 0.077, "kerk": 0.043, "steden": 0.1, "dragers": 0.161, "buren": 0.315, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.13, "buren_honger": 1.379, "ev": 0.709, "aelthir": 0.624, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0737, seed 420737)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0738
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420738
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 7, "magie_min": 0.348, "magie_eind": 0.497, "golven": 14, "assen": {"5": 6, "4": 2, "3": 5}, "rijmt_met_canon": 3, "erft_van_801": 3, "heersers": 2, "wetten": 18, "rustige_jaren": 1460, "macht_eind": {"staat": 0.267, "huizen": 0.05, "kerk": 0.004, "steden": 0.123, "dragers": 0.3, "buren": 0.236, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.164, "buren_honger": 1.142, "ev": 1.113, "aelthir": 0.531, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0738, seed 420738)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0739
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420739
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 8, "magie_min": 0.215, "magie_eind": 0.381, "golven": 15, "assen": {"5": 5, "4": 9, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 2000, "macht_eind": {"staat": 0.23, "huizen": 0.046, "kerk": 0.004, "steden": 0.248, "dragers": 0.265, "buren": 0.168, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.129, "buren_honger": 1.119, "ev": 1.201, "aelthir": 0.659, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0739, seed 420739)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0740
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420740
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.247, "magie_eind": 0.247, "golven": 9, "assen": {"5": 5, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 4, "wetten": 14, "rustige_jaren": 2820, "macht_eind": {"staat": 0.306, "huizen": 0.061, "kerk": 0.005, "steden": 0.3, "dragers": 0.165, "buren": 0.138, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.199, "buren_honger": 0.776, "ev": 0.981, "aelthir": 0.437, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0740, seed 420740)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0741
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420741
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 12, "magie_min": 0.34, "magie_eind": 0.637, "golven": 11, "assen": {"5": 3, "3": 5, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 740, "macht_eind": {"staat": 0.258, "huizen": 0.048, "kerk": 0.004, "steden": 0.116, "dragers": 0.298, "buren": 0.236, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.199, "buren_honger": 1.319, "ev": 1.012, "aelthir": 0.484, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0741, seed 420741)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0742
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420742
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 10, "magie_min": 0.215, "magie_eind": 0.215, "golven": 9, "assen": {"5": 4, "4": 8, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 4, "wetten": 17, "rustige_jaren": 1660, "macht_eind": {"staat": 0.274, "huizen": 0.055, "kerk": 0.005, "steden": 0.308, "dragers": 0.149, "buren": 0.166, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.168, "buren_honger": 0.893, "ev": 0.714, "aelthir": 0.204, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0742, seed 420742)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0743
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420743
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 13, "magie_min": 0.355, "magie_eind": 0.355, "golven": 10, "assen": {"5": 3, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 560, "macht_eind": {"staat": 0.287, "huizen": 0.08, "kerk": 0.045, "steden": 0.105, "dragers": 0.249, "buren": 0.187, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.131, "buren_honger": 0.956, "ev": 1.006, "aelthir": 0.616, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0743, seed 420743)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0744
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420744
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.302, "magie_eind": 0.302, "golven": 13, "assen": {"5": 4, "4": 8, "3": 1}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2520, "macht_eind": {"staat": 0.317, "huizen": 0.061, "kerk": 0.005, "steden": 0.262, "dragers": 0.253, "buren": 0.077, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.209, "buren_honger": 0.597, "ev": 0.952, "aelthir": 0.209, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0744, seed 420744)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0745
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420745
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.351, "magie_eind": 0.351, "golven": 11, "assen": {"5": 1, "4": 6, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 1700, "macht_eind": {"staat": 0.303, "huizen": 0.078, "kerk": 0.044, "steden": 0.118, "dragers": 0.194, "buren": 0.218, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.161, "buren_honger": 1.025, "ev": 0.71, "aelthir": 0.563, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0745, seed 420745)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0746
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420746
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 9, "magie_min": 0.349, "magie_eind": 0.349, "golven": 14, "assen": {"5": 2, "4": 4, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1040, "macht_eind": {"staat": 0.281, "huizen": 0.079, "kerk": 0.005, "steden": 0.109, "dragers": 0.222, "buren": 0.259, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.202, "buren_honger": 1.135, "ev": 0.976, "aelthir": 0.484, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0746, seed 420746)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0747
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420747
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.349, "magie_eind": 0.381, "golven": 17, "assen": {"5": 3, "4": 6, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1740, "macht_eind": {"staat": 0.274, "huizen": 0.073, "kerk": 0.032, "steden": 0.1, "dragers": 0.263, "buren": 0.215, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.157, "buren_honger": 1.101, "ev": 1.102, "aelthir": 0.231, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0747, seed 420747)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0748
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420748
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 8, "magie_min": 0.35, "magie_eind": 0.35, "golven": 13, "assen": {"5": 2, "3": 2, "4": 6}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 1560, "macht_eind": {"staat": 0.269, "huizen": 0.072, "kerk": 0.043, "steden": 0.106, "dragers": 0.224, "buren": 0.244, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.132, "buren_honger": 1.213, "ev": 0.895, "aelthir": 0.795, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0748, seed 420748)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0749
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420749
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.31, "magie_eind": 0.31, "golven": 11, "assen": {"5": 3, "3": 3, "4": 7}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 2200, "macht_eind": {"staat": 0.284, "huizen": 0.056, "kerk": 0.005, "steden": 0.21, "dragers": 0.303, "buren": 0.095, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.204, "buren_honger": 0.758, "ev": 1.134, "aelthir": 0.683, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0749, seed 420749)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0750
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420750
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.348, "magie_eind": 0.453, "golven": 13, "assen": {"5": 3, "4": 7, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1800, "macht_eind": {"staat": 0.283, "huizen": 0.092, "kerk": 0.057, "steden": 0.095, "dragers": 0.277, "buren": 0.154, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.178, "buren_honger": 0.732, "ev": 1.21, "aelthir": 0.243, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0750, seed 420750)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0751
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420751
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.162, "magie_eind": 0.162, "golven": 14, "assen": {"5": 3, "4": 7, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 2480, "macht_eind": {"staat": 0.258, "huizen": 0.052, "kerk": 0.004, "steden": 0.331, "dragers": 0.172, "buren": 0.16, "orrim": 0.007, "volk": 0.015}, "parameters": {"groei": 0.141, "buren_honger": 0.9, "ev": 0.966, "aelthir": 0.799, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0751, seed 420751)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0752
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420752
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.314, "magie_eind": 0.368, "golven": 15, "assen": {"5": 2, "4": 8, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1620, "macht_eind": {"staat": 0.318, "huizen": 0.056, "kerk": 0.005, "steden": 0.161, "dragers": 0.232, "buren": 0.181, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.207, "buren_honger": 0.896, "ev": 0.808, "aelthir": 0.639, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0752, seed 420752)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0753
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420753
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 3, "magie_min": 0.32, "magie_eind": 0.327, "golven": 9, "assen": {"5": 3, "3": 5, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 2120, "macht_eind": {"staat": 0.333, "huizen": 0.064, "kerk": 0.005, "steden": 0.177, "dragers": 0.254, "buren": 0.114, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.153, "buren_honger": 0.695, "ev": 0.747, "aelthir": 0.215, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0753, seed 420753)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0754
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420754
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 3, "magie_min": 0.276, "magie_eind": 0.424, "golven": 8, "assen": {"5": 3, "4": 8, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 2400, "macht_eind": {"staat": 0.27, "huizen": 0.053, "kerk": 0.005, "steden": 0.237, "dragers": 0.174, "buren": 0.218, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.185, "buren_honger": 1.104, "ev": 1.248, "aelthir": 0.211, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0754, seed 420754)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0755
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420755
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 7, "magie_min": 0.335, "magie_eind": 0.335, "golven": 10, "assen": {"5": 4, "4": 7, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 4, "wetten": 17, "rustige_jaren": 2420, "macht_eind": {"staat": 0.232, "huizen": 0.047, "kerk": 0.004, "steden": 0.163, "dragers": 0.237, "buren": 0.278, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.199, "buren_honger": 1.416, "ev": 0.959, "aelthir": 0.752, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0755, seed 420755)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0756
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420756
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 4, "magie_min": 0.35, "magie_eind": 0.35, "golven": 10, "assen": {"5": 2, "4": 8, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 2600, "macht_eind": {"staat": 0.321, "huizen": 0.087, "kerk": 0.041, "steden": 0.126, "dragers": 0.279, "buren": 0.096, "orrim": 0.035, "volk": 0.015}, "parameters": {"groei": 0.147, "buren_honger": 0.651, "ev": 0.874, "aelthir": 0.205, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0756, seed 420756)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0757
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420757
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 7, "magie_min": 0.297, "magie_eind": 0.297, "golven": 8, "assen": {"5": 6, "4": 7, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2060, "macht_eind": {"staat": 0.252, "huizen": 0.075, "kerk": 0.004, "steden": 0.224, "dragers": 0.165, "buren": 0.236, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.201, "buren_honger": 1.261, "ev": 1.086, "aelthir": 0.237, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0757, seed 420757)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0758
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420758
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 10, "magie_min": 0.35, "magie_eind": 0.395, "golven": 16, "assen": {"5": 2, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 3, "wetten": 17, "rustige_jaren": 1180, "macht_eind": {"staat": 0.262, "huizen": 0.047, "kerk": 0.04, "steden": 0.11, "dragers": 0.332, "buren": 0.176, "orrim": 0.027, "volk": 0.007}, "parameters": {"groei": 0.195, "buren_honger": 0.845, "ev": 1.064, "aelthir": 0.229, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0758, seed 420758)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0759
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420759
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 17, "magie_min": 0.352, "magie_eind": 0.43, "golven": 12, "assen": {"5": 2, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 440, "macht_eind": {"staat": 0.306, "huizen": 0.073, "kerk": 0.004, "steden": 0.107, "dragers": 0.293, "buren": 0.174, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.157, "buren_honger": 0.782, "ev": 1.276, "aelthir": 0.522, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0759, seed 420759)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0760
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420760
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 10, "magie_min": 0.258, "magie_eind": 0.258, "golven": 11, "assen": {"5": 3, "4": 6, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 15, "rustige_jaren": 2200, "macht_eind": {"staat": 0.251, "huizen": 0.054, "kerk": 0.005, "steden": 0.232, "dragers": 0.191, "buren": 0.223, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.138, "buren_honger": 1.186, "ev": 0.982, "aelthir": 0.336, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0760, seed 420760)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0761
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420761
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 10, "magie_min": 0.339, "magie_eind": 0.371, "golven": 12, "assen": {"5": 2, "3": 5, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 18, "rustige_jaren": 1040, "macht_eind": {"staat": 0.245, "huizen": 0.072, "kerk": 0.004, "steden": 0.116, "dragers": 0.216, "buren": 0.305, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.206, "buren_honger": 1.458, "ev": 1.099, "aelthir": 0.438, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0761, seed 420761)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0762
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420762
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.218, "magie_eind": 0.218, "golven": 9, "assen": {"5": 5, "4": 3, "3": 3}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2540, "macht_eind": {"staat": 0.257, "huizen": 0.052, "kerk": 0.004, "steden": 0.281, "dragers": 0.105, "buren": 0.28, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.158, "buren_honger": 1.388, "ev": 0.937, "aelthir": 0.247, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0762, seed 420762)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0763
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420763
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.343, "magie_eind": 0.41, "golven": 12, "assen": {"5": 2, "4": 4, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 460, "macht_eind": {"staat": 0.309, "huizen": 0.086, "kerk": 0.005, "steden": 0.139, "dragers": 0.171, "buren": 0.241, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.193, "buren_honger": 1.092, "ev": 0.955, "aelthir": 0.428, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0763, seed 420763)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0764
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420764
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 2, "magie_min": 0.31, "magie_eind": 0.31, "golven": 16, "assen": {"5": 4, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1520, "macht_eind": {"staat": 0.296, "huizen": 0.056, "kerk": 0.005, "steden": 0.166, "dragers": 0.273, "buren": 0.184, "orrim": 0.008, "volk": 0.012}, "parameters": {"groei": 0.125, "buren_honger": 0.902, "ev": 0.82, "aelthir": 0.541, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0764, seed 420764)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0765
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420765
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.327, "magie_eind": 0.327, "golven": 13, "assen": {"5": 3, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 980, "macht_eind": {"staat": 0.291, "huizen": 0.057, "kerk": 0.005, "steden": 0.161, "dragers": 0.291, "buren": 0.15, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.149, "buren_honger": 0.656, "ev": 0.921, "aelthir": 0.354, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0765, seed 420765)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0766
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420766
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 3, "magie_min": 0.33, "magie_eind": 0.339, "golven": 12, "assen": {"5": 2, "4": 3, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 14, "rustige_jaren": 2180, "macht_eind": {"staat": 0.376, "huizen": 0.099, "kerk": 0.006, "steden": 0.182, "dragers": 0.168, "buren": 0.141, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.217, "buren_honger": 0.554, "ev": 0.768, "aelthir": 0.283, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0766, seed 420766)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0767
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420767
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 11, "magie_min": 0.346, "magie_eind": 0.416, "golven": 14, "assen": {"5": 4, "3": 4, "4": 6}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 1100, "macht_eind": {"staat": 0.218, "huizen": 0.049, "kerk": 0.004, "steden": 0.168, "dragers": 0.295, "buren": 0.225, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.149, "buren_honger": 1.317, "ev": 1.069, "aelthir": 0.607, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0767, seed 420767)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0768
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420768
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.266, "magie_eind": 0.266, "golven": 12, "assen": {"5": 4, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 14, "rustige_jaren": 2060, "macht_eind": {"staat": 0.246, "huizen": 0.059, "kerk": 0.005, "steden": 0.282, "dragers": 0.185, "buren": 0.198, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.186, "buren_honger": 1.053, "ev": 1.043, "aelthir": 0.301, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0768, seed 420768)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0769
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420769
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.335, "magie_eind": 0.374, "golven": 13, "assen": {"5": 2, "4": 6, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 4, "wetten": 16, "rustige_jaren": 2420, "macht_eind": {"staat": 0.253, "huizen": 0.048, "kerk": 0.004, "steden": 0.156, "dragers": 0.204, "buren": 0.295, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.17, "buren_honger": 1.477, "ev": 0.999, "aelthir": 0.227, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0769, seed 420769)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0770
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420770
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 9, "magie_min": 0.287, "magie_eind": 0.312, "golven": 17, "assen": {"5": 3, "4": 5, "3": 6}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 1920, "macht_eind": {"staat": 0.233, "huizen": 0.05, "kerk": 0.004, "steden": 0.201, "dragers": 0.338, "buren": 0.131, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.162, "buren_honger": 0.952, "ev": 0.882, "aelthir": 0.572, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0770, seed 420770)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0771
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420771
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 4, "magie_min": 0.338, "magie_eind": 0.449, "golven": 9, "assen": {"5": 5, "4": 3, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2740, "macht_eind": {"staat": 0.315, "huizen": 0.055, "kerk": 0.005, "steden": 0.145, "dragers": 0.173, "buren": 0.286, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.187, "buren_honger": 1.08, "ev": 0.892, "aelthir": 0.737, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0771, seed 420771)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0772
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420772
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 8, "magie_min": 0.348, "magie_eind": 0.455, "golven": 16, "assen": {"5": 4, "4": 4, "3": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 19, "rustige_jaren": 1360, "macht_eind": {"staat": 0.3, "huizen": 0.083, "kerk": 0.005, "steden": 0.127, "dragers": 0.264, "buren": 0.173, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.211, "buren_honger": 0.712, "ev": 0.808, "aelthir": 0.396, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0772, seed 420772)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0773
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420773
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 3, "magie_min": 0.138, "magie_eind": 0.138, "golven": 8, "assen": {"5": 6, "4": 8}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2720, "macht_eind": {"staat": 0.303, "huizen": 0.058, "kerk": 0.005, "steden": 0.398, "dragers": 0.05, "buren": 0.163, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.133, "buren_honger": 0.869, "ev": 0.834, "aelthir": 0.528, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0773, seed 420773)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0774
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420774
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 11, "magie_min": 0.317, "magie_eind": 0.389, "golven": 15, "assen": {"5": 2, "4": 4, "3": 5}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 1580, "macht_eind": {"staat": 0.23, "huizen": 0.048, "kerk": 0.004, "steden": 0.147, "dragers": 0.315, "buren": 0.219, "orrim": 0.027, "volk": 0.011}, "parameters": {"groei": 0.197, "buren_honger": 1.296, "ev": 0.826, "aelthir": 0.51, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0774, seed 420774)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0775
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420775
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.353, "magie_eind": 0.363, "golven": 11, "assen": {"5": 5, "4": 3, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 16, "rustige_jaren": 1660, "macht_eind": {"staat": 0.321, "huizen": 0.109, "kerk": 0.06, "steden": 0.104, "dragers": 0.244, "buren": 0.114, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.219, "buren_honger": 0.712, "ev": 0.895, "aelthir": 0.422, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0775, seed 420775)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0776
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420776
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.324, "magie_eind": 0.324, "golven": 9, "assen": {"5": 5, "4": 5, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 3100, "macht_eind": {"staat": 0.309, "huizen": 0.065, "kerk": 0.006, "steden": 0.235, "dragers": 0.224, "buren": 0.133, "orrim": 0.009, "volk": 0.018}, "parameters": {"groei": 0.147, "buren_honger": 0.859, "ev": 0.716, "aelthir": 0.571, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0776, seed 420776)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0777
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420777
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 13, "magie_min": 0.35, "magie_eind": 0.532, "golven": 9, "assen": {"5": 3, "4": 2, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 280, "macht_eind": {"staat": 0.297, "huizen": 0.079, "kerk": 0.005, "steden": 0.115, "dragers": 0.238, "buren": 0.222, "orrim": 0.032, "volk": 0.012}, "parameters": {"groei": 0.159, "buren_honger": 0.882, "ev": 1.274, "aelthir": 0.68, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0777, seed 420777)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0778
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420778
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 11, "magie_min": 0.361, "magie_eind": 0.364, "golven": 15, "assen": {"5": 2, "4": 4, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 900, "macht_eind": {"staat": 0.279, "huizen": 0.094, "kerk": 0.019, "steden": 0.098, "dragers": 0.225, "buren": 0.243, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.162, "buren_honger": 1.156, "ev": 1.207, "aelthir": 0.695, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0778, seed 420778)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0779
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420779
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.335, "magie_eind": 0.67, "golven": 10, "assen": {"5": 2, "3": 3, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2320, "macht_eind": {"staat": 0.32, "huizen": 0.057, "kerk": 0.005, "steden": 0.161, "dragers": 0.296, "buren": 0.114, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.144, "buren_honger": 0.544, "ev": 0.907, "aelthir": 0.791, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0779, seed 420779)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0780
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420780
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.331, "magie_eind": 0.331, "golven": 9, "assen": {"5": 2, "3": 4, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1600, "macht_eind": {"staat": 0.393, "huizen": 0.08, "kerk": 0.007, "steden": 0.207, "dragers": 0.172, "buren": 0.075, "orrim": 0.046, "volk": 0.02}, "parameters": {"groei": 0.185, "buren_honger": 0.541, "ev": 1.087, "aelthir": 0.286, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0780, seed 420780)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0781
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420781
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.334, "magie_eind": 0.391, "golven": 12, "assen": {"5": 4, "3": 3, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 1420, "macht_eind": {"staat": 0.347, "huizen": 0.062, "kerk": 0.005, "steden": 0.161, "dragers": 0.212, "buren": 0.189, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.16, "buren_honger": 0.905, "ev": 1.127, "aelthir": 0.298, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0781, seed 420781)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0782
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420782
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.356, "magie_eind": 0.469, "golven": 13, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 440, "macht_eind": {"staat": 0.29, "huizen": 0.076, "kerk": 0.005, "steden": 0.116, "dragers": 0.281, "buren": 0.188, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.175, "buren_honger": 1.002, "ev": 1.203, "aelthir": 0.525, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0782, seed 420782)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0783
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420783
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 8, "magie_min": 0.337, "magie_eind": 0.337, "golven": 8, "assen": {"5": 2, "4": 5, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 1, "wetten": 16, "rustige_jaren": 1340, "macht_eind": {"staat": 0.32, "huizen": 0.091, "kerk": 0.005, "steden": 0.155, "dragers": 0.181, "buren": 0.195, "orrim": 0.036, "volk": 0.017}, "parameters": {"groei": 0.199, "buren_honger": 0.857, "ev": 0.817, "aelthir": 0.405, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0783, seed 420783)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0784
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420784
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 3, "magie_min": 0.305, "magie_eind": 0.474, "golven": 18, "assen": {"5": 5, "4": 8, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 19, "rustige_jaren": 2300, "macht_eind": {"staat": 0.281, "huizen": 0.053, "kerk": 0.005, "steden": 0.229, "dragers": 0.228, "buren": 0.182, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.214, "buren_honger": 0.969, "ev": 1.282, "aelthir": 0.266, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0784, seed 420784)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0785
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420785
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.34, "magie_eind": 0.34, "golven": 16, "assen": {"5": 5, "4": 5, "3": 1}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1740, "macht_eind": {"staat": 0.284, "huizen": 0.077, "kerk": 0.005, "steden": 0.147, "dragers": 0.192, "buren": 0.274, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.133, "buren_honger": 1.063, "ev": 1.017, "aelthir": 0.384, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0785, seed 420785)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0786
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420786
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 7, "magie_min": 0.354, "magie_eind": 0.37, "golven": 13, "assen": {"5": 3, "4": 7, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 4, "wetten": 16, "rustige_jaren": 1240, "macht_eind": {"staat": 0.249, "huizen": 0.066, "kerk": 0.038, "steden": 0.087, "dragers": 0.325, "buren": 0.197, "orrim": 0.027, "volk": 0.011}, "parameters": {"groei": 0.196, "buren_honger": 1.096, "ev": 1.238, "aelthir": 0.283, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0786, seed 420786)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0787
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420787
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 14, "magie_min": 0.355, "magie_eind": 0.541, "golven": 11, "assen": {"5": 3, "3": 4, "4": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 780, "macht_eind": {"staat": 0.245, "huizen": 0.068, "kerk": 0.027, "steden": 0.105, "dragers": 0.299, "buren": 0.217, "orrim": 0.027, "volk": 0.013}, "parameters": {"groei": 0.14, "buren_honger": 1.167, "ev": 1.11, "aelthir": 0.718, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0787, seed 420787)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0788
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420788
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 13, "magie_min": 0.35, "magie_eind": 0.35, "golven": 9, "assen": {"5": 1, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 280, "macht_eind": {"staat": 0.259, "huizen": 0.075, "kerk": 0.027, "steden": 0.095, "dragers": 0.232, "buren": 0.269, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.199, "buren_honger": 1.268, "ev": 1.094, "aelthir": 0.373, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0788, seed 420788)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0789
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420789
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 10, "magie_min": 0.347, "magie_eind": 0.347, "golven": 10, "assen": {"5": 2, "4": 5, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 1, "wetten": 15, "rustige_jaren": 1340, "macht_eind": {"staat": 0.27, "huizen": 0.092, "kerk": 0.064, "steden": 0.081, "dragers": 0.296, "buren": 0.181, "orrim": 0.007, "volk": 0.009}, "parameters": {"groei": 0.12, "buren_honger": 1.004, "ev": 1.107, "aelthir": 0.365, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0789, seed 420789)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0790
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420790
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.339, "magie_eind": 0.355, "golven": 9, "assen": {"5": 3, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1300, "macht_eind": {"staat": 0.298, "huizen": 0.078, "kerk": 0.005, "steden": 0.147, "dragers": 0.279, "buren": 0.172, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.215, "buren_honger": 0.885, "ev": 1.266, "aelthir": 0.523, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0790, seed 420790)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0791
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420791
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 7, "magie_min": 0.338, "magie_eind": 0.338, "golven": 14, "assen": {"5": 2, "3": 4, "4": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1380, "macht_eind": {"staat": 0.293, "huizen": 0.055, "kerk": 0.005, "steden": 0.143, "dragers": 0.211, "buren": 0.247, "orrim": 0.031, "volk": 0.015}, "parameters": {"groei": 0.121, "buren_honger": 1.154, "ev": 1.031, "aelthir": 0.26, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0791, seed 420791)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0792
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420792
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 9, "magie_min": 0.347, "magie_eind": 0.347, "golven": 13, "assen": {"5": 3, "3": 4, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 3, "heersers": 3, "wetten": 17, "rustige_jaren": 1400, "macht_eind": {"staat": 0.259, "huizen": 0.053, "kerk": 0.005, "steden": 0.124, "dragers": 0.413, "buren": 0.127, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.204, "buren_honger": 0.739, "ev": 1.177, "aelthir": 0.313, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0792, seed 420792)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0793
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420793
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 5, "magie_min": 0.337, "magie_eind": 0.337, "golven": 11, "assen": {"5": 6, "3": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 1700, "macht_eind": {"staat": 0.294, "huizen": 0.064, "kerk": 0.006, "steden": 0.167, "dragers": 0.349, "buren": 0.068, "orrim": 0.037, "volk": 0.016}, "parameters": {"groei": 0.177, "buren_honger": 0.566, "ev": 1.069, "aelthir": 0.783, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0793, seed 420793)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0794
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420794
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 8, "magie_min": 0.342, "magie_eind": 0.344, "golven": 14, "assen": {"5": 3, "3": 5, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1460, "macht_eind": {"staat": 0.316, "huizen": 0.062, "kerk": 0.005, "steden": 0.155, "dragers": 0.326, "buren": 0.085, "orrim": 0.035, "volk": 0.015}, "parameters": {"groei": 0.191, "buren_honger": 0.62, "ev": 0.972, "aelthir": 0.547, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0794, seed 420794)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0795
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420795
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.352, "magie_eind": 0.499, "golven": 13, "assen": {"5": 3, "3": 3, "4": 5}, "rijmt_met_canon": 5, "erft_van_801": 2, "heersers": 3, "wetten": 16, "rustige_jaren": 2560, "macht_eind": {"staat": 0.271, "huizen": 0.054, "kerk": 0.005, "steden": 0.161, "dragers": 0.294, "buren": 0.194, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.153, "buren_honger": 1.102, "ev": 0.912, "aelthir": 0.722, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0795, seed 420795)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0796
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420796
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 12, "magie_min": 0.336, "magie_eind": 0.336, "golven": 13, "assen": {"5": 4, "3": 3, "4": 5}, "rijmt_met_canon": 5, "erft_van_801": 2, "heersers": 3, "wetten": 16, "rustige_jaren": 1460, "macht_eind": {"staat": 0.258, "huizen": 0.055, "kerk": 0.005, "steden": 0.147, "dragers": 0.301, "buren": 0.212, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.195, "buren_honger": 1.17, "ev": 1.295, "aelthir": 0.234, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0796, seed 420796)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0797
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420797
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.176, "magie_eind": 0.176, "golven": 14, "assen": {"5": 4, "4": 7, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 2160, "macht_eind": {"staat": 0.29, "huizen": 0.054, "kerk": 0.005, "steden": 0.343, "dragers": 0.201, "buren": 0.062, "orrim": 0.031, "volk": 0.015}, "parameters": {"groei": 0.16, "buren_honger": 0.579, "ev": 0.982, "aelthir": 0.391, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0797, seed 420797)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0798
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420798
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.36, "magie_eind": 0.414, "golven": 14, "assen": {"5": 2, "4": 4, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1480, "macht_eind": {"staat": 0.312, "huizen": 0.059, "kerk": 0.005, "steden": 0.153, "dragers": 0.246, "buren": 0.175, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.207, "buren_honger": 0.886, "ev": 1.188, "aelthir": 0.344, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0798, seed 420798)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0799
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420799
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 4, "magie_min": 0.338, "magie_eind": 0.367, "golven": 6, "assen": {"5": 2, "4": 6, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1820, "macht_eind": {"staat": 0.296, "huizen": 0.077, "kerk": 0.005, "steden": 0.148, "dragers": 0.084, "buren": 0.369, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.213, "buren_honger": 1.358, "ev": 0.815, "aelthir": 0.31, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0799, seed 420799)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0800
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420800
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 10, "magie_min": 0.328, "magie_eind": 0.538, "golven": 11, "assen": {"5": 5, "4": 5, "3": 3}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 1520, "macht_eind": {"staat": 0.217, "huizen": 0.05, "kerk": 0.004, "steden": 0.165, "dragers": 0.267, "buren": 0.278, "orrim": 0.007, "volk": 0.01}, "parameters": {"groei": 0.129, "buren_honger": 1.46, "ev": 1.289, "aelthir": 0.748, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0800, seed 420800)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0801
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420801
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 8, "magie_min": 0.134, "magie_eind": 0.134, "golven": 10, "assen": {"5": 4, "4": 7, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2220, "macht_eind": {"staat": 0.295, "huizen": 0.057, "kerk": 0.005, "steden": 0.412, "dragers": 0.065, "buren": 0.146, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.126, "buren_honger": 0.826, "ev": 0.704, "aelthir": 0.589, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0801, seed 420801)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0802
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420802
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 6, "magie_min": 0.243, "magie_eind": 0.377, "golven": 11, "assen": {"5": 3, "3": 4, "4": 7}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 2540, "macht_eind": {"staat": 0.255, "huizen": 0.055, "kerk": 0.005, "steden": 0.278, "dragers": 0.22, "buren": 0.142, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.133, "buren_honger": 0.917, "ev": 1.14, "aelthir": 0.227, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0802, seed 420802)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0803
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420803
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.338, "magie_eind": 0.338, "golven": 9, "assen": {"5": 2, "3": 5, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1320, "macht_eind": {"staat": 0.259, "huizen": 0.052, "kerk": 0.004, "steden": 0.129, "dragers": 0.172, "buren": 0.34, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.18, "buren_honger": 1.455, "ev": 0.778, "aelthir": 0.297, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0803, seed 420803)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0804
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420804
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.332, "magie_eind": 0.434, "golven": 9, "assen": {"5": 4, "4": 3, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1420, "macht_eind": {"staat": 0.309, "huizen": 0.064, "kerk": 0.005, "steden": 0.183, "dragers": 0.192, "buren": 0.221, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.154, "buren_honger": 0.788, "ev": 0.829, "aelthir": 0.394, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0804, seed 420804)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0805
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420805
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 6, "magie_min": 0.348, "magie_eind": 0.402, "golven": 12, "assen": {"5": 3, "4": 4, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 840, "macht_eind": {"staat": 0.309, "huizen": 0.079, "kerk": 0.005, "steden": 0.16, "dragers": 0.222, "buren": 0.204, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.155, "buren_honger": 0.971, "ev": 0.88, "aelthir": 0.775, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0805, seed 420805)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0806
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420806
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.307, "magie_eind": 0.307, "golven": 12, "assen": {"5": 5, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2080, "macht_eind": {"staat": 0.239, "huizen": 0.046, "kerk": 0.004, "steden": 0.17, "dragers": 0.25, "buren": 0.253, "orrim": 0.026, "volk": 0.012}, "parameters": {"groei": 0.166, "buren_honger": 1.472, "ev": 0.955, "aelthir": 0.383, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0806, seed 420806)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0807
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420807
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 5, "magie_min": 0.339, "magie_eind": 0.377, "golven": 9, "assen": {"5": 4, "3": 3, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1260, "macht_eind": {"staat": 0.323, "huizen": 0.057, "kerk": 0.005, "steden": 0.144, "dragers": 0.219, "buren": 0.205, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.189, "buren_honger": 1.001, "ev": 1.057, "aelthir": 0.673, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0807, seed 420807)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0808
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420808
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 7, "magie_min": 0.304, "magie_eind": 0.457, "golven": 10, "assen": {"5": 6, "3": 4, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2320, "macht_eind": {"staat": 0.269, "huizen": 0.057, "kerk": 0.005, "steden": 0.225, "dragers": 0.26, "buren": 0.138, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.186, "buren_honger": 0.927, "ev": 0.715, "aelthir": 0.303, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0808, seed 420808)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0809
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420809
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.321, "magie_eind": 0.47, "golven": 13, "assen": {"5": 4, "4": 7, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2280, "macht_eind": {"staat": 0.284, "huizen": 0.076, "kerk": 0.005, "steden": 0.196, "dragers": 0.26, "buren": 0.135, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.219, "buren_honger": 0.818, "ev": 1.001, "aelthir": 0.266, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0809, seed 420809)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0810
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420810
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 9, "magie_min": 0.353, "magie_eind": 0.472, "golven": 11, "assen": {"5": 2, "4": 6, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 2160, "macht_eind": {"staat": 0.263, "huizen": 0.097, "kerk": 0.031, "steden": 0.099, "dragers": 0.217, "buren": 0.25, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.13, "buren_honger": 1.154, "ev": 0.999, "aelthir": 0.44, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0810, seed 420810)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0811
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420811
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.343, "magie_eind": 0.349, "golven": 11, "assen": {"5": 2, "3": 5, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2140, "macht_eind": {"staat": 0.317, "huizen": 0.062, "kerk": 0.005, "steden": 0.15, "dragers": 0.283, "buren": 0.131, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.214, "buren_honger": 0.741, "ev": 1.234, "aelthir": 0.726, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0811, seed 420811)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0812
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420812
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 9, "magie_min": 0.353, "magie_eind": 0.424, "golven": 10, "assen": {"5": 3, "4": 3, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 1940, "macht_eind": {"staat": 0.27, "huizen": 0.067, "kerk": 0.018, "steden": 0.101, "dragers": 0.268, "buren": 0.239, "orrim": 0.027, "volk": 0.011}, "parameters": {"groei": 0.157, "buren_honger": 1.063, "ev": 1.074, "aelthir": 0.718, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0812, seed 420812)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0813
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420813
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.322, "magie_eind": 0.322, "golven": 10, "assen": {"5": 2, "3": 5, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 560, "macht_eind": {"staat": 0.304, "huizen": 0.056, "kerk": 0.005, "steden": 0.141, "dragers": 0.223, "buren": 0.225, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.173, "buren_honger": 1.061, "ev": 0.779, "aelthir": 0.481, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0813, seed 420813)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0814
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420814
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.359, "magie_eind": 0.571, "golven": 10, "assen": {"5": 7, "4": 4, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 1360, "macht_eind": {"staat": 0.265, "huizen": 0.083, "kerk": 0.005, "steden": 0.14, "dragers": 0.292, "buren": 0.167, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.148, "buren_honger": 0.996, "ev": 0.878, "aelthir": 0.646, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0814, seed 420814)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0815
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420815
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.275, "magie_eind": 0.275, "golven": 7, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 14, "rustige_jaren": 2720, "macht_eind": {"staat": 0.304, "huizen": 0.086, "kerk": 0.005, "steden": 0.273, "dragers": 0.12, "buren": 0.186, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.161, "buren_honger": 1.037, "ev": 0.708, "aelthir": 0.589, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0815, seed 420815)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0816
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420816
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.294, "magie_eind": 0.294, "golven": 6, "assen": {"5": 5, "3": 3, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2440, "macht_eind": {"staat": 0.265, "huizen": 0.056, "kerk": 0.005, "steden": 0.234, "dragers": 0.143, "buren": 0.252, "orrim": 0.032, "volk": 0.015}, "parameters": {"groei": 0.146, "buren_honger": 1.292, "ev": 0.745, "aelthir": 0.322, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0816, seed 420816)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0817
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420817
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 7, "magie_min": 0.347, "magie_eind": 0.394, "golven": 11, "assen": {"5": 4, "3": 2, "4": 2}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 1, "wetten": 15, "rustige_jaren": 1520, "macht_eind": {"staat": 0.268, "huizen": 0.049, "kerk": 0.004, "steden": 0.118, "dragers": 0.238, "buren": 0.303, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.139, "buren_honger": 1.426, "ev": 1.095, "aelthir": 0.696, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0817, seed 420817)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0818
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420818
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 5, "magie_min": 0.285, "magie_eind": 0.297, "golven": 14, "assen": {"5": 2, "4": 8, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 2660, "macht_eind": {"staat": 0.238, "huizen": 0.049, "kerk": 0.004, "steden": 0.21, "dragers": 0.224, "buren": 0.234, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.126, "buren_honger": 1.334, "ev": 0.89, "aelthir": 0.498, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0818, seed 420818)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0819
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420819
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.34, "magie_eind": 0.527, "golven": 10, "assen": {"5": 5, "4": 5, "3": 2}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 4, "wetten": 18, "rustige_jaren": 2100, "macht_eind": {"staat": 0.263, "huizen": 0.073, "kerk": 0.006, "steden": 0.11, "dragers": 0.247, "buren": 0.259, "orrim": 0.029, "volk": 0.014}, "parameters": {"groei": 0.183, "buren_honger": 1.368, "ev": 0.783, "aelthir": 0.336, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0819, seed 420819)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0820
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420820
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 11, "magie_min": 0.343, "magie_eind": 0.378, "golven": 12, "assen": {"5": 4, "3": 4, "4": 6}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 4, "wetten": 16, "rustige_jaren": 1780, "macht_eind": {"staat": 0.227, "huizen": 0.052, "kerk": 0.004, "steden": 0.142, "dragers": 0.341, "buren": 0.191, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.166, "buren_honger": 1.126, "ev": 0.887, "aelthir": 0.368, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0820, seed 420820)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0821
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420821
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.345, "magie_eind": 0.366, "golven": 10, "assen": {"5": 2, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 1680, "macht_eind": {"staat": 0.34, "huizen": 0.111, "kerk": 0.005, "steden": 0.13, "dragers": 0.223, "buren": 0.14, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.21, "buren_honger": 0.603, "ev": 0.841, "aelthir": 0.269, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0821, seed 420821)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0822
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420822
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 4, "magie_min": 0.302, "magie_eind": 0.302, "golven": 13, "assen": {"5": 5, "4": 4, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 2860, "macht_eind": {"staat": 0.352, "huizen": 0.069, "kerk": 0.006, "steden": 0.258, "dragers": 0.167, "buren": 0.12, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.132, "buren_honger": 0.648, "ev": 0.727, "aelthir": 0.687, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0822, seed 420822)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0823
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420823
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.348, "magie_eind": 0.348, "golven": 7, "assen": {"5": 4, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 16, "rustige_jaren": 1700, "macht_eind": {"staat": 0.342, "huizen": 0.099, "kerk": 0.006, "steden": 0.167, "dragers": 0.179, "buren": 0.149, "orrim": 0.04, "volk": 0.018}, "parameters": {"groei": 0.199, "buren_honger": 0.695, "ev": 0.874, "aelthir": 0.373, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0823, seed 420823)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0824
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420824
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.364, "magie_eind": 0.37, "golven": 12, "assen": {"5": 2, "4": 5, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1980, "macht_eind": {"staat": 0.245, "huizen": 0.065, "kerk": 0.031, "steden": 0.099, "dragers": 0.227, "buren": 0.299, "orrim": 0.026, "volk": 0.009}, "parameters": {"groei": 0.146, "buren_honger": 1.461, "ev": 1.123, "aelthir": 0.654, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0824, seed 420824)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0825
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420825
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 11, "magie_min": 0.357, "magie_eind": 0.373, "golven": 20, "assen": {"5": 5, "3": 5, "4": 2}, "rijmt_met_canon": 2, "erft_van_801": 3, "heersers": 4, "wetten": 17, "rustige_jaren": 1700, "macht_eind": {"staat": 0.254, "huizen": 0.048, "kerk": 0.004, "steden": 0.11, "dragers": 0.404, "buren": 0.162, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.216, "buren_honger": 0.777, "ev": 0.934, "aelthir": 0.217, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0825, seed 420825)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0826
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420826
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.319, "magie_eind": 0.346, "golven": 12, "assen": {"5": 5, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2200, "macht_eind": {"staat": 0.292, "huizen": 0.052, "kerk": 0.004, "steden": 0.148, "dragers": 0.2, "buren": 0.262, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.15, "buren_honger": 1.058, "ev": 1.007, "aelthir": 0.539, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0826, seed 420826)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0827
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420827
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.214, "magie_eind": 0.218, "golven": 11, "assen": {"5": 3, "4": 7, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2800, "macht_eind": {"staat": 0.262, "huizen": 0.055, "kerk": 0.005, "steden": 0.322, "dragers": 0.125, "buren": 0.208, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.22, "buren_honger": 1.161, "ev": 1.16, "aelthir": 0.658, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0827, seed 420827)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0828
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420828
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 7, "magie_min": 0.349, "magie_eind": 0.421, "golven": 12, "assen": {"5": 3, "3": 5, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 19, "rustige_jaren": 2040, "macht_eind": {"staat": 0.313, "huizen": 0.095, "kerk": 0.006, "steden": 0.156, "dragers": 0.256, "buren": 0.121, "orrim": 0.038, "volk": 0.016}, "parameters": {"groei": 0.204, "buren_honger": 0.792, "ev": 0.703, "aelthir": 0.717, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0828, seed 420828)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0829
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420829
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 7, "magie_min": 0.34, "magie_eind": 0.349, "golven": 14, "assen": {"5": 3, "4": 2, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1860, "macht_eind": {"staat": 0.328, "huizen": 0.057, "kerk": 0.005, "steden": 0.149, "dragers": 0.229, "buren": 0.184, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.195, "buren_honger": 0.749, "ev": 1.192, "aelthir": 0.319, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0829, seed 420829)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0830
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420830
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.342, "magie_eind": 0.393, "golven": 11, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2520, "macht_eind": {"staat": 0.331, "huizen": 0.06, "kerk": 0.005, "steden": 0.167, "dragers": 0.25, "buren": 0.163, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.123, "buren_honger": 0.841, "ev": 0.861, "aelthir": 0.25, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0830, seed 420830)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0831
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420831
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 3, "magie_min": 0.252, "magie_eind": 0.252, "golven": 13, "assen": {"5": 2, "4": 11, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 19, "rustige_jaren": 2680, "macht_eind": {"staat": 0.295, "huizen": 0.056, "kerk": 0.005, "steden": 0.283, "dragers": 0.257, "buren": 0.059, "orrim": 0.032, "volk": 0.012}, "parameters": {"groei": 0.161, "buren_honger": 0.562, "ev": 0.729, "aelthir": 0.763, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0831, seed 420831)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0832
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420832
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 10, "magie_min": 0.338, "magie_eind": 0.399, "golven": 9, "assen": {"5": 2, "3": 4, "4": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 740, "macht_eind": {"staat": 0.262, "huizen": 0.049, "kerk": 0.004, "steden": 0.119, "dragers": 0.215, "buren": 0.311, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.154, "buren_honger": 1.455, "ev": 0.839, "aelthir": 0.56, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0832, seed 420832)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0833
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420833
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 15, "magie_min": 0.34, "magie_eind": 0.351, "golven": 17, "assen": {"5": 3, "3": 6, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 3, "heersers": 3, "wetten": 18, "rustige_jaren": 1020, "macht_eind": {"staat": 0.265, "huizen": 0.05, "kerk": 0.004, "steden": 0.121, "dragers": 0.385, "buren": 0.133, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.163, "buren_honger": 0.851, "ev": 1.265, "aelthir": 0.681, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0833, seed 420833)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0834
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420834
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.338, "magie_eind": 0.63, "golven": 12, "assen": {"5": 2, "4": 3, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 1060, "macht_eind": {"staat": 0.345, "huizen": 0.094, "kerk": 0.006, "steden": 0.156, "dragers": 0.217, "buren": 0.128, "orrim": 0.038, "volk": 0.017}, "parameters": {"groei": 0.149, "buren_honger": 0.536, "ev": 0.904, "aelthir": 0.5, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0834, seed 420834)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0835
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420835
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 11, "magie_min": 0.318, "magie_eind": 0.318, "golven": 15, "assen": {"5": 2, "4": 6, "3": 5}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 5, "wetten": 16, "rustige_jaren": 1340, "macht_eind": {"staat": 0.216, "huizen": 0.043, "kerk": 0.004, "steden": 0.165, "dragers": 0.36, "buren": 0.176, "orrim": 0.024, "volk": 0.012}, "parameters": {"groei": 0.17, "buren_honger": 1.09, "ev": 1.189, "aelthir": 0.728, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0835, seed 420835)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0836
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420836
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 8, "magie_min": 0.331, "magie_eind": 0.385, "golven": 11, "assen": {"5": 3, "4": 6, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2400, "macht_eind": {"staat": 0.268, "huizen": 0.059, "kerk": 0.005, "steden": 0.198, "dragers": 0.244, "buren": 0.18, "orrim": 0.034, "volk": 0.013}, "parameters": {"groei": 0.205, "buren_honger": 1.033, "ev": 0.714, "aelthir": 0.451, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0836, seed 420836)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0837
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420837
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.325, "magie_eind": 0.325, "golven": 13, "assen": {"5": 5, "4": 4, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1800, "macht_eind": {"staat": 0.262, "huizen": 0.052, "kerk": 0.004, "steden": 0.143, "dragers": 0.265, "buren": 0.255, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.138, "buren_honger": 1.181, "ev": 1.191, "aelthir": 0.461, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0837, seed 420837)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0838
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420838
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.308, "magie_eind": 0.308, "golven": 16, "assen": {"5": 4, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 1840, "macht_eind": {"staat": 0.277, "huizen": 0.075, "kerk": 0.004, "steden": 0.19, "dragers": 0.24, "buren": 0.171, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.162, "buren_honger": 0.96, "ev": 1.281, "aelthir": 0.374, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0838, seed 420838)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0839
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420839
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 11, "magie_min": 0.358, "magie_eind": 0.376, "golven": 15, "assen": {"5": 5, "4": 3, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 17, "rustige_jaren": 1300, "macht_eind": {"staat": 0.295, "huizen": 0.087, "kerk": 0.033, "steden": 0.109, "dragers": 0.303, "buren": 0.122, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.217, "buren_honger": 0.728, "ev": 0.935, "aelthir": 0.478, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0839, seed 420839)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0840
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420840
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.286, "magie_eind": 0.286, "golven": 14, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2160, "macht_eind": {"staat": 0.251, "huizen": 0.047, "kerk": 0.004, "steden": 0.19, "dragers": 0.261, "buren": 0.208, "orrim": 0.027, "volk": 0.013}, "parameters": {"groei": 0.197, "buren_honger": 1.255, "ev": 0.944, "aelthir": 0.6, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0840, seed 420840)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0841
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420841
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.348, "magie_eind": 0.348, "golven": 12, "assen": {"5": 3, "4": 7, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 980, "macht_eind": {"staat": 0.248, "huizen": 0.063, "kerk": 0.048, "steden": 0.081, "dragers": 0.273, "buren": 0.251, "orrim": 0.025, "volk": 0.011}, "parameters": {"groei": 0.171, "buren_honger": 1.339, "ev": 1.127, "aelthir": 0.339, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0841, seed 420841)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0842
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420842
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.32, "magie_eind": 0.32, "golven": 11, "assen": {"5": 2, "4": 6, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1300, "macht_eind": {"staat": 0.282, "huizen": 0.054, "kerk": 0.005, "steden": 0.167, "dragers": 0.193, "buren": 0.279, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.12, "buren_honger": 1.217, "ev": 0.884, "aelthir": 0.768, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0842, seed 420842)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0843
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420843
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 14, "magie_min": 0.337, "magie_eind": 0.42, "golven": 8, "assen": {"5": 2, "4": 8, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 760, "macht_eind": {"staat": 0.249, "huizen": 0.074, "kerk": 0.004, "steden": 0.131, "dragers": 0.236, "buren": 0.263, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.218, "buren_honger": 1.371, "ev": 1.071, "aelthir": 0.592, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0843, seed 420843)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0844
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420844
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 9, "magie_min": 0.282, "magie_eind": 0.282, "golven": 9, "assen": {"5": 3, "4": 8, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2340, "macht_eind": {"staat": 0.265, "huizen": 0.077, "kerk": 0.005, "steden": 0.259, "dragers": 0.132, "buren": 0.241, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.147, "buren_honger": 1.278, "ev": 0.719, "aelthir": 0.652, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0844, seed 420844)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0845
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420845
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.25, "magie_eind": 0.451, "golven": 9, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 2940, "macht_eind": {"staat": 0.318, "huizen": 0.063, "kerk": 0.005, "steden": 0.33, "dragers": 0.179, "buren": 0.052, "orrim": 0.036, "volk": 0.017}, "parameters": {"groei": 0.213, "buren_honger": 0.525, "ev": 0.729, "aelthir": 0.316, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0845, seed 420845)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0846
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420846
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.286, "magie_eind": 0.286, "golven": 12, "assen": {"5": 4, "4": 3, "3": 5}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 4, "wetten": 17, "rustige_jaren": 2220, "macht_eind": {"staat": 0.249, "huizen": 0.049, "kerk": 0.004, "steden": 0.206, "dragers": 0.254, "buren": 0.195, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.16, "buren_honger": 1.066, "ev": 0.828, "aelthir": 0.229, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0846, seed 420846)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0847
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420847
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.354, "magie_eind": 0.363, "golven": 14, "assen": {"5": 2, "4": 8, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1360, "macht_eind": {"staat": 0.264, "huizen": 0.093, "kerk": 0.057, "steden": 0.086, "dragers": 0.28, "buren": 0.177, "orrim": 0.029, "volk": 0.014}, "parameters": {"groei": 0.147, "buren_honger": 0.987, "ev": 1.278, "aelthir": 0.384, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0847, seed 420847)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0848
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420848
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.335, "magie_eind": 0.335, "golven": 10, "assen": {"5": 2, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 1140, "macht_eind": {"staat": 0.275, "huizen": 0.053, "kerk": 0.005, "steden": 0.149, "dragers": 0.183, "buren": 0.317, "orrim": 0.008, "volk": 0.011}, "parameters": {"groei": 0.148, "buren_honger": 1.346, "ev": 0.772, "aelthir": 0.778, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0848, seed 420848)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0849
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420849
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 3, "magie_min": 0.215, "magie_eind": 0.215, "golven": 10, "assen": {"5": 4, "4": 6, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 2940, "macht_eind": {"staat": 0.24, "huizen": 0.066, "kerk": 0.004, "steden": 0.276, "dragers": 0.14, "buren": 0.255, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.122, "buren_honger": 1.412, "ev": 1.209, "aelthir": 0.471, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0849, seed 420849)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0850
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420850
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 7, "magie_min": 0.331, "magie_eind": 0.331, "golven": 10, "assen": {"5": 2, "4": 5, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1840, "macht_eind": {"staat": 0.328, "huizen": 0.059, "kerk": 0.005, "steden": 0.155, "dragers": 0.27, "buren": 0.16, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.133, "buren_honger": 0.845, "ev": 0.9, "aelthir": 0.688, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0850, seed 420850)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0851
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420851
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 8, "magie_min": 0.335, "magie_eind": 0.475, "golven": 10, "assen": {"5": 2, "3": 4, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 560, "macht_eind": {"staat": 0.276, "huizen": 0.055, "kerk": 0.005, "steden": 0.133, "dragers": 0.242, "buren": 0.244, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.15, "buren_honger": 1.151, "ev": 1.099, "aelthir": 0.353, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0851, seed 420851)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0852
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420852
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.256, "magie_eind": 0.256, "golven": 13, "assen": {"5": 2, "4": 7, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2660, "macht_eind": {"staat": 0.226, "huizen": 0.05, "kerk": 0.004, "steden": 0.222, "dragers": 0.257, "buren": 0.198, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.145, "buren_honger": 1.197, "ev": 0.888, "aelthir": 0.241, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0852, seed 420852)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0853
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420853
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.337, "magie_eind": 0.337, "golven": 12, "assen": {"5": 3, "4": 4, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 17, "rustige_jaren": 2200, "macht_eind": {"staat": 0.359, "huizen": 0.088, "kerk": 0.005, "steden": 0.148, "dragers": 0.175, "buren": 0.175, "orrim": 0.035, "volk": 0.015}, "parameters": {"groei": 0.158, "buren_honger": 0.691, "ev": 0.88, "aelthir": 0.732, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0853, seed 420853)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0854
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420854
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.323, "magie_eind": 0.472, "golven": 13, "assen": {"5": 2, "3": 6, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 1700, "macht_eind": {"staat": 0.275, "huizen": 0.053, "kerk": 0.005, "steden": 0.131, "dragers": 0.203, "buren": 0.291, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.15, "buren_honger": 1.338, "ev": 1.181, "aelthir": 0.252, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0854, seed 420854)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0855
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420855
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.343, "magie_eind": 0.424, "golven": 11, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 2340, "macht_eind": {"staat": 0.325, "huizen": 0.122, "kerk": 0.006, "steden": 0.14, "dragers": 0.29, "buren": 0.063, "orrim": 0.037, "volk": 0.017}, "parameters": {"groei": 0.21, "buren_honger": 0.548, "ev": 0.774, "aelthir": 0.508, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0855, seed 420855)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0856
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420856
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.362, "magie_eind": 0.397, "golven": 15, "assen": {"5": 4, "4": 5, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 2100, "macht_eind": {"staat": 0.253, "huizen": 0.09, "kerk": 0.03, "steden": 0.085, "dragers": 0.319, "buren": 0.184, "orrim": 0.028, "volk": 0.011}, "parameters": {"groei": 0.15, "buren_honger": 1.042, "ev": 0.988, "aelthir": 0.343, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0856, seed 420856)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0857
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420857
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 9, "magie_min": 0.359, "magie_eind": 0.376, "golven": 18, "assen": {"5": 3, "3": 4, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 1, "wetten": 18, "rustige_jaren": 1640, "macht_eind": {"staat": 0.274, "huizen": 0.076, "kerk": 0.005, "steden": 0.126, "dragers": 0.279, "buren": 0.197, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.148, "buren_honger": 1.02, "ev": 1.14, "aelthir": 0.719, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0857, seed 420857)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0858
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420858
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 5, "magie_min": 0.144, "magie_eind": 0.144, "golven": 11, "assen": {"5": 5, "4": 7, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 2640, "macht_eind": {"staat": 0.249, "huizen": 0.049, "kerk": 0.004, "steden": 0.312, "dragers": 0.132, "buren": 0.215, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.127, "buren_honger": 1.136, "ev": 1.144, "aelthir": 0.602, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0858, seed 420858)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0859
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420859
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 5, "magie_min": 0.147, "magie_eind": 0.147, "golven": 11, "assen": {"5": 4, "4": 10, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 2600, "macht_eind": {"staat": 0.255, "huizen": 0.055, "kerk": 0.005, "steden": 0.42, "dragers": 0.166, "buren": 0.076, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.15, "buren_honger": 0.616, "ev": 1.047, "aelthir": 0.512, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0859, seed 420859)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0860
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420860
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.336, "magie_eind": 0.379, "golven": 15, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 1700, "macht_eind": {"staat": 0.251, "huizen": 0.076, "kerk": 0.005, "steden": 0.157, "dragers": 0.283, "buren": 0.182, "orrim": 0.031, "volk": 0.015}, "parameters": {"groei": 0.125, "buren_honger": 1.1, "ev": 0.707, "aelthir": 0.243, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0860, seed 420860)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0861
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420861
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.345, "magie_eind": 0.412, "golven": 14, "assen": {"5": 2, "3": 4, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 1300, "macht_eind": {"staat": 0.281, "huizen": 0.103, "kerk": 0.005, "steden": 0.131, "dragers": 0.253, "buren": 0.181, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.136, "buren_honger": 0.947, "ev": 1.043, "aelthir": 0.599, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0861, seed 420861)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0862
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420862
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 14, "magie_min": 0.338, "magie_eind": 0.338, "golven": 15, "assen": {"5": 3, "4": 5, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 900, "macht_eind": {"staat": 0.266, "huizen": 0.049, "kerk": 0.004, "steden": 0.114, "dragers": 0.243, "buren": 0.285, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.163, "buren_honger": 1.386, "ev": 1.041, "aelthir": 0.307, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0862, seed 420862)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0863
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420863
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 8, "magie_min": 0.349, "magie_eind": 0.349, "golven": 10, "assen": {"5": 2, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1120, "macht_eind": {"staat": 0.288, "huizen": 0.076, "kerk": 0.005, "steden": 0.109, "dragers": 0.236, "buren": 0.245, "orrim": 0.03, "volk": 0.012}, "parameters": {"groei": 0.208, "buren_honger": 1.158, "ev": 0.984, "aelthir": 0.394, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0863, seed 420863)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0864
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420864
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.343, "magie_eind": 0.343, "golven": 11, "assen": {"5": 2, "3": 4, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1020, "macht_eind": {"staat": 0.291, "huizen": 0.078, "kerk": 0.005, "steden": 0.124, "dragers": 0.179, "buren": 0.278, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.163, "buren_honger": 1.21, "ev": 0.713, "aelthir": 0.719, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0864, seed 420864)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0865
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420865
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.333, "magie_eind": 0.333, "golven": 11, "assen": {"5": 7, "3": 2, "4": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1300, "macht_eind": {"staat": 0.286, "huizen": 0.051, "kerk": 0.004, "steden": 0.127, "dragers": 0.312, "buren": 0.177, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.202, "buren_honger": 0.796, "ev": 1.141, "aelthir": 0.512, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0865, seed 420865)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0866
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420866
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.35, "magie_eind": 0.475, "golven": 14, "assen": {"5": 3, "3": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 1240, "macht_eind": {"staat": 0.267, "huizen": 0.074, "kerk": 0.004, "steden": 0.128, "dragers": 0.267, "buren": 0.215, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.182, "buren_honger": 1.047, "ev": 1.285, "aelthir": 0.564, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0866, seed 420866)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0867
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420867
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 6, "magie_min": 0.336, "magie_eind": 0.345, "golven": 8, "assen": {"5": 2, "4": 3, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 2360, "macht_eind": {"staat": 0.366, "huizen": 0.074, "kerk": 0.006, "steden": 0.221, "dragers": 0.148, "buren": 0.153, "orrim": 0.011, "volk": 0.021}, "parameters": {"groei": 0.172, "buren_honger": 0.701, "ev": 0.782, "aelthir": 0.4, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0867, seed 420867)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0868
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420868
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 10, "magie_min": 0.351, "magie_eind": 0.537, "golven": 14, "assen": {"5": 1, "4": 6}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 13, "rustige_jaren": 800, "macht_eind": {"staat": 0.256, "huizen": 0.092, "kerk": 0.027, "steden": 0.089, "dragers": 0.234, "buren": 0.26, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.207, "buren_honger": 1.236, "ev": 0.956, "aelthir": 0.26, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0868, seed 420868)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0869
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420869
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 8, "magie_min": 0.343, "magie_eind": 0.343, "golven": 15, "assen": {"5": 4, "4": 3, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 1420, "macht_eind": {"staat": 0.258, "huizen": 0.076, "kerk": 0.005, "steden": 0.137, "dragers": 0.264, "buren": 0.239, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.131, "buren_honger": 1.259, "ev": 0.927, "aelthir": 0.755, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0869, seed 420869)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0870
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420870
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.333, "magie_eind": 0.536, "golven": 11, "assen": {"5": 3, "4": 6, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 18, "rustige_jaren": 1560, "macht_eind": {"staat": 0.318, "huizen": 0.062, "kerk": 0.005, "steden": 0.163, "dragers": 0.295, "buren": 0.103, "orrim": 0.036, "volk": 0.018}, "parameters": {"groei": 0.153, "buren_honger": 0.661, "ev": 1.109, "aelthir": 0.379, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0870, seed 420870)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0871
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420871
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 5, "magie_min": 0.149, "magie_eind": 0.149, "golven": 10, "assen": {"5": 7, "4": 8}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 2800, "macht_eind": {"staat": 0.287, "huizen": 0.063, "kerk": 0.005, "steden": 0.411, "dragers": 0.161, "buren": 0.045, "orrim": 0.009, "volk": 0.019}, "parameters": {"groei": 0.163, "buren_honger": 0.506, "ev": 1.073, "aelthir": 0.55, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0871, seed 420871)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0872
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420872
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 5, "magie_min": 0.141, "magie_eind": 0.141, "golven": 10, "assen": {"5": 5, "4": 9, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2580, "macht_eind": {"staat": 0.287, "huizen": 0.056, "kerk": 0.005, "steden": 0.418, "dragers": 0.168, "buren": 0.043, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.21, "buren_honger": 0.514, "ev": 0.91, "aelthir": 0.523, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0872, seed 420872)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0873
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420873
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 13, "magie_min": 0.337, "magie_eind": 0.337, "golven": 14, "assen": {"5": 1, "3": 4, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 2, "wetten": 15, "rustige_jaren": 1420, "macht_eind": {"staat": 0.251, "huizen": 0.047, "kerk": 0.004, "steden": 0.11, "dragers": 0.294, "buren": 0.256, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.169, "buren_honger": 1.359, "ev": 1.052, "aelthir": 0.711, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0873, seed 420873)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0874
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420874
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 6
+- **scores:** {"fasen": 6, "onopgelost": 12, "magie_min": 0.348, "magie_eind": 0.348, "golven": 9, "assen": {"5": 1, "4": 3, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 1400, "macht_eind": {"staat": 0.272, "huizen": 0.07, "kerk": 0.02, "steden": 0.1, "dragers": 0.147, "buren": 0.351, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.137, "buren_honger": 1.408, "ev": 0.917, "aelthir": 0.604, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0874, seed 420874)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0875
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420875
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 8, "magie_min": 0.323, "magie_eind": 0.332, "golven": 9, "assen": {"5": 2, "3": 7, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 2280, "macht_eind": {"staat": 0.299, "huizen": 0.055, "kerk": 0.005, "steden": 0.147, "dragers": 0.33, "buren": 0.121, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.191, "buren_honger": 0.753, "ev": 1.099, "aelthir": 0.729, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0875, seed 420875)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0876
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420876
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 21
+- **scores:** {"fasen": 21, "onopgelost": 10, "magie_min": 0.13, "magie_eind": 0.208, "golven": 14, "assen": {"5": 8, "4": 10, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 19, "rustige_jaren": 1560, "macht_eind": {"staat": 0.226, "huizen": 0.047, "kerk": 0.004, "steden": 0.366, "dragers": 0.23, "buren": 0.108, "orrim": 0.007, "volk": 0.011}, "parameters": {"groei": 0.18, "buren_honger": 0.874, "ev": 1.251, "aelthir": 0.558, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0876, seed 420876)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0877
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420877
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 19
+- **scores:** {"fasen": 19, "onopgelost": 5, "magie_min": 0.157, "magie_eind": 0.157, "golven": 11, "assen": {"5": 5, "4": 9, "3": 5}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 2660, "macht_eind": {"staat": 0.286, "huizen": 0.057, "kerk": 0.005, "steden": 0.382, "dragers": 0.155, "buren": 0.091, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.178, "buren_honger": 0.652, "ev": 0.823, "aelthir": 0.239, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0877, seed 420877)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0878
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420878
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 7, "magie_min": 0.342, "magie_eind": 0.466, "golven": 14, "assen": {"5": 4, "3": 5, "4": 6}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 20, "rustige_jaren": 1360, "macht_eind": {"staat": 0.265, "huizen": 0.098, "kerk": 0.005, "steden": 0.14, "dragers": 0.392, "buren": 0.056, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.122, "buren_honger": 0.567, "ev": 1.212, "aelthir": 0.707, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0878, seed 420878)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0879
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420879
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 5, "magie_min": 0.335, "magie_eind": 0.439, "golven": 9, "assen": {"5": 2, "4": 3, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 2520, "macht_eind": {"staat": 0.362, "huizen": 0.071, "kerk": 0.006, "steden": 0.184, "dragers": 0.183, "buren": 0.135, "orrim": 0.041, "volk": 0.018}, "parameters": {"groei": 0.159, "buren_honger": 0.674, "ev": 0.725, "aelthir": 0.24, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0879, seed 420879)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0880
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420880
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 12, "magie_min": 0.348, "magie_eind": 0.348, "golven": 7, "assen": {"5": 5, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 2, "wetten": 15, "rustige_jaren": 1320, "macht_eind": {"staat": 0.266, "huizen": 0.048, "kerk": 0.037, "steden": 0.12, "dragers": 0.26, "buren": 0.255, "orrim": 0.007, "volk": 0.007}, "parameters": {"groei": 0.195, "buren_honger": 1.099, "ev": 1.273, "aelthir": 0.299, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0880, seed 420880)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0881
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420881
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 4, "magie_min": 0.338, "magie_eind": 0.478, "golven": 7, "assen": {"5": 3, "4": 7, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 1940, "macht_eind": {"staat": 0.301, "huizen": 0.109, "kerk": 0.005, "steden": 0.117, "dragers": 0.167, "buren": 0.256, "orrim": 0.033, "volk": 0.011}, "parameters": {"groei": 0.128, "buren_honger": 1.119, "ev": 0.872, "aelthir": 0.724, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0881, seed 420881)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0882
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420882
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 4, "magie_min": 0.331, "magie_eind": 0.346, "golven": 14, "assen": {"5": 2, "3": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1760, "macht_eind": {"staat": 0.298, "huizen": 0.058, "kerk": 0.005, "steden": 0.176, "dragers": 0.317, "buren": 0.097, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.186, "buren_honger": 0.635, "ev": 0.962, "aelthir": 0.299, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0882, seed 420882)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0883
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420883
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 7, "magie_min": 0.358, "magie_eind": 0.586, "golven": 15, "assen": {"5": 5, "3": 4, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 20, "rustige_jaren": 1060, "macht_eind": {"staat": 0.249, "huizen": 0.067, "kerk": 0.004, "steden": 0.119, "dragers": 0.328, "buren": 0.196, "orrim": 0.027, "volk": 0.011}, "parameters": {"groei": 0.153, "buren_honger": 1.053, "ev": 1.16, "aelthir": 0.695, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0883, seed 420883)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0884
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420884
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.338, "magie_eind": 0.338, "golven": 13, "assen": {"5": 2, "3": 5, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 940, "macht_eind": {"staat": 0.274, "huizen": 0.055, "kerk": 0.005, "steden": 0.132, "dragers": 0.265, "buren": 0.227, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.183, "buren_honger": 1.087, "ev": 1.118, "aelthir": 0.298, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0884, seed 420884)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0885
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420885
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 7, "magie_min": 0.332, "magie_eind": 0.332, "golven": 7, "assen": {"5": 2, "4": 2, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1600, "macht_eind": {"staat": 0.325, "huizen": 0.055, "kerk": 0.005, "steden": 0.151, "dragers": 0.141, "buren": 0.301, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.186, "buren_honger": 1.274, "ev": 0.754, "aelthir": 0.486, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0885, seed 420885)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0886
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420886
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.343, "magie_eind": 0.359, "golven": 8, "assen": {"5": 2, "4": 4, "3": 4}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1480, "macht_eind": {"staat": 0.282, "huizen": 0.05, "kerk": 0.004, "steden": 0.13, "dragers": 0.251, "buren": 0.241, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.194, "buren_honger": 1.017, "ev": 0.82, "aelthir": 0.636, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0886, seed 420886)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0887
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420887
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 7, "magie_min": 0.349, "magie_eind": 0.349, "golven": 13, "assen": {"5": 2, "4": 5, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 2420, "macht_eind": {"staat": 0.292, "huizen": 0.074, "kerk": 0.043, "steden": 0.098, "dragers": 0.288, "buren": 0.163, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.212, "buren_honger": 0.913, "ev": 0.935, "aelthir": 0.512, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0887, seed 420887)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0888
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420888
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.336, "magie_eind": 0.336, "golven": 9, "assen": {"5": 3, "4": 5, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1400, "macht_eind": {"staat": 0.321, "huizen": 0.061, "kerk": 0.005, "steden": 0.161, "dragers": 0.271, "buren": 0.157, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.217, "buren_honger": 0.642, "ev": 0.817, "aelthir": 0.576, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0888, seed 420888)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0889
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420889
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 14, "magie_min": 0.359, "magie_eind": 0.48, "golven": 11, "assen": {"5": 6, "4": 6, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 1020, "macht_eind": {"staat": 0.253, "huizen": 0.078, "kerk": 0.005, "steden": 0.116, "dragers": 0.242, "buren": 0.286, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.135, "buren_honger": 1.405, "ev": 1.197, "aelthir": 0.448, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0889, seed 420889)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0890
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420890
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 4, "magie_min": 0.317, "magie_eind": 0.317, "golven": 6, "assen": {"5": 3, "3": 4, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 16, "rustige_jaren": 2120, "macht_eind": {"staat": 0.311, "huizen": 0.058, "kerk": 0.005, "steden": 0.159, "dragers": 0.15, "buren": 0.267, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.148, "buren_honger": 1.269, "ev": 1.237, "aelthir": 0.74, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0890, seed 420890)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0891
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420891
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.336, "magie_eind": 0.336, "golven": 8, "assen": {"5": 2, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1220, "macht_eind": {"staat": 0.333, "huizen": 0.09, "kerk": 0.005, "steden": 0.148, "dragers": 0.197, "buren": 0.174, "orrim": 0.036, "volk": 0.017}, "parameters": {"groei": 0.134, "buren_honger": 0.858, "ev": 0.742, "aelthir": 0.609, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0891, seed 420891)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0892
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420892
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 8, "magie_min": 0.339, "magie_eind": 0.421, "golven": 11, "assen": {"5": 5, "4": 8, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 1540, "macht_eind": {"staat": 0.286, "huizen": 0.087, "kerk": 0.005, "steden": 0.186, "dragers": 0.321, "buren": 0.066, "orrim": 0.035, "volk": 0.015}, "parameters": {"groei": 0.163, "buren_honger": 0.567, "ev": 1.101, "aelthir": 0.755, "filter": 0.037}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0892, seed 420892)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0893
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420893
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 9, "magie_min": 0.35, "magie_eind": 0.35, "golven": 12, "assen": {"5": 3, "4": 2, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 15, "rustige_jaren": 360, "macht_eind": {"staat": 0.264, "huizen": 0.071, "kerk": 0.004, "steden": 0.114, "dragers": 0.177, "buren": 0.328, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.195, "buren_honger": 1.495, "ev": 0.879, "aelthir": 0.516, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0893, seed 420893)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0894
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420894
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.312, "magie_eind": 0.312, "golven": 14, "assen": {"5": 4, "4": 5, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 17, "rustige_jaren": 2800, "macht_eind": {"staat": 0.37, "huizen": 0.063, "kerk": 0.005, "steden": 0.184, "dragers": 0.269, "buren": 0.083, "orrim": 0.009, "volk": 0.017}, "parameters": {"groei": 0.206, "buren_honger": 0.577, "ev": 1.111, "aelthir": 0.536, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0894, seed 420894)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0895
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420895
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 5, "magie_min": 0.32, "magie_eind": 0.32, "golven": 15, "assen": {"5": 5, "4": 8, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 20, "rustige_jaren": 2200, "macht_eind": {"staat": 0.257, "huizen": 0.071, "kerk": 0.004, "steden": 0.194, "dragers": 0.213, "buren": 0.218, "orrim": 0.028, "volk": 0.014}, "parameters": {"groei": 0.212, "buren_honger": 1.259, "ev": 0.962, "aelthir": 0.637, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0895, seed 420895)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0896
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420896
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.322, "magie_eind": 0.455, "golven": 7, "assen": {"5": 3, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1340, "macht_eind": {"staat": 0.287, "huizen": 0.053, "kerk": 0.005, "steden": 0.173, "dragers": 0.168, "buren": 0.294, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.146, "buren_honger": 1.131, "ev": 0.744, "aelthir": 0.311, "filter": 0.055}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0896, seed 420896)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0897
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420897
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.266, "magie_eind": 0.266, "golven": 12, "assen": {"5": 5, "4": 7, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 2420, "macht_eind": {"staat": 0.27, "huizen": 0.072, "kerk": 0.004, "steden": 0.261, "dragers": 0.207, "buren": 0.165, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.137, "buren_honger": 0.948, "ev": 1.2, "aelthir": 0.637, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0897, seed 420897)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0898
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420898
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 14, "magie_min": 0.347, "magie_eind": 0.445, "golven": 12, "assen": {"5": 3, "4": 2, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 940, "macht_eind": {"staat": 0.269, "huizen": 0.049, "kerk": 0.004, "steden": 0.124, "dragers": 0.261, "buren": 0.252, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.204, "buren_honger": 1.062, "ev": 1.247, "aelthir": 0.296, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0898, seed 420898)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0899
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420899
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.339, "magie_eind": 0.396, "golven": 8, "assen": {"5": 3, "3": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 1620, "macht_eind": {"staat": 0.327, "huizen": 0.089, "kerk": 0.005, "steden": 0.148, "dragers": 0.232, "buren": 0.174, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.212, "buren_honger": 0.853, "ev": 0.716, "aelthir": 0.487, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0899, seed 420899)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0900
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420900
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.347, "magie_eind": 0.347, "golven": 10, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1580, "macht_eind": {"staat": 0.275, "huizen": 0.07, "kerk": 0.032, "steden": 0.098, "dragers": 0.288, "buren": 0.199, "orrim": 0.028, "volk": 0.011}, "parameters": {"groei": 0.157, "buren_honger": 1.072, "ev": 1.15, "aelthir": 0.316, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0900, seed 420900)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0901
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420901
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.265, "magie_eind": 0.312, "golven": 14, "assen": {"5": 4, "4": 8, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 2900, "macht_eind": {"staat": 0.247, "huizen": 0.064, "kerk": 0.004, "steden": 0.236, "dragers": 0.27, "buren": 0.161, "orrim": 0.006, "volk": 0.012}, "parameters": {"groei": 0.129, "buren_honger": 1.113, "ev": 1.113, "aelthir": 0.76, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0901, seed 420901)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0902
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420902
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 5, "magie_min": 0.349, "magie_eind": 0.349, "golven": 10, "assen": {"5": 5, "3": 2, "4": 7}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 920, "macht_eind": {"staat": 0.31, "huizen": 0.084, "kerk": 0.018, "steden": 0.139, "dragers": 0.27, "buren": 0.133, "orrim": 0.034, "volk": 0.012}, "parameters": {"groei": 0.169, "buren_honger": 0.777, "ev": 0.92, "aelthir": 0.374, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0902, seed 420902)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0903
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420903
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 6, "magie_min": 0.334, "magie_eind": 0.334, "golven": 10, "assen": {"5": 3, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1700, "macht_eind": {"staat": 0.385, "huizen": 0.068, "kerk": 0.006, "steden": 0.193, "dragers": 0.213, "buren": 0.108, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.165, "buren_honger": 0.624, "ev": 0.761, "aelthir": 0.791, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0903, seed 420903)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0904
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420904
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.265, "magie_eind": 0.269, "golven": 15, "assen": {"5": 3, "4": 5, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2740, "macht_eind": {"staat": 0.315, "huizen": 0.061, "kerk": 0.005, "steden": 0.314, "dragers": 0.209, "buren": 0.043, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.197, "buren_honger": 0.504, "ev": 0.807, "aelthir": 0.705, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0904, seed 420904)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0905
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420905
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 14, "magie_min": 0.369, "magie_eind": 0.551, "golven": 18, "assen": {"5": 2, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 840, "macht_eind": {"staat": 0.265, "huizen": 0.066, "kerk": 0.038, "steden": 0.094, "dragers": 0.299, "buren": 0.199, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.2, "buren_honger": 0.927, "ev": 1.3, "aelthir": 0.342, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0905, seed 420905)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0906
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420906
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.343, "magie_eind": 0.382, "golven": 14, "assen": {"5": 4, "3": 4, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 3, "wetten": 17, "rustige_jaren": 1980, "macht_eind": {"staat": 0.274, "huizen": 0.053, "kerk": 0.005, "steden": 0.129, "dragers": 0.38, "buren": 0.117, "orrim": 0.03, "volk": 0.013}, "parameters": {"groei": 0.212, "buren_honger": 0.58, "ev": 1.081, "aelthir": 0.351, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0906, seed 420906)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0907
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420907
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.346, "magie_eind": 0.485, "golven": 9, "assen": {"5": 4, "3": 5, "4": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 2140, "macht_eind": {"staat": 0.326, "huizen": 0.09, "kerk": 0.005, "steden": 0.158, "dragers": 0.287, "buren": 0.083, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.131, "buren_honger": 0.612, "ev": 1.242, "aelthir": 0.79, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0907, seed 420907)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0908
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420908
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 8, "magie_min": 0.352, "magie_eind": 0.407, "golven": 9, "assen": {"5": 3, "3": 3, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 1, "wetten": 17, "rustige_jaren": 1460, "macht_eind": {"staat": 0.286, "huizen": 0.078, "kerk": 0.005, "steden": 0.126, "dragers": 0.226, "buren": 0.235, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.151, "buren_honger": 1.108, "ev": 0.757, "aelthir": 0.675, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0908, seed 420908)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0909
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420909
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 14, "magie_min": 0.347, "magie_eind": 0.347, "golven": 15, "assen": {"5": 4, "3": 6, "4": 5}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 1280, "macht_eind": {"staat": 0.26, "huizen": 0.078, "kerk": 0.057, "steden": 0.107, "dragers": 0.374, "buren": 0.083, "orrim": 0.031, "volk": 0.011}, "parameters": {"groei": 0.14, "buren_honger": 0.642, "ev": 1.274, "aelthir": 0.546, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0909, seed 420909)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0910
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420910
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.346, "magie_eind": 0.719, "golven": 11, "assen": {"5": 6, "3": 3, "4": 2}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 740, "macht_eind": {"staat": 0.261, "huizen": 0.048, "kerk": 0.004, "steden": 0.11, "dragers": 0.299, "buren": 0.24, "orrim": 0.027, "volk": 0.011}, "parameters": {"groei": 0.183, "buren_honger": 1.255, "ev": 1.152, "aelthir": 0.456, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0910, seed 420910)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0911
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420911
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.325, "magie_eind": 0.325, "golven": 10, "assen": {"5": 3, "3": 3, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 2800, "macht_eind": {"staat": 0.301, "huizen": 0.081, "kerk": 0.005, "steden": 0.137, "dragers": 0.258, "buren": 0.195, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.179, "buren_honger": 0.964, "ev": 0.816, "aelthir": 0.343, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0911, seed 420911)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0912
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420912
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 7, "magie_min": 0.34, "magie_eind": 0.34, "golven": 8, "assen": {"5": 3, "4": 3, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 1, "wetten": 15, "rustige_jaren": 1120, "macht_eind": {"staat": 0.337, "huizen": 0.094, "kerk": 0.006, "steden": 0.141, "dragers": 0.122, "buren": 0.246, "orrim": 0.038, "volk": 0.016}, "parameters": {"groei": 0.139, "buren_honger": 1.112, "ev": 0.776, "aelthir": 0.343, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0912, seed 420912)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0913
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420913
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 4, "magie_min": 0.291, "magie_eind": 0.291, "golven": 13, "assen": {"5": 5, "4": 6, "3": 3}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 2680, "macht_eind": {"staat": 0.308, "huizen": 0.056, "kerk": 0.005, "steden": 0.239, "dragers": 0.25, "buren": 0.093, "orrim": 0.032, "volk": 0.016}, "parameters": {"groei": 0.172, "buren_honger": 0.663, "ev": 1.106, "aelthir": 0.605, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0913, seed 420913)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0914
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420914
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.281, "magie_eind": 0.281, "golven": 12, "assen": {"5": 5, "4": 8}, "rijmt_met_canon": 2, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2500, "macht_eind": {"staat": 0.265, "huizen": 0.076, "kerk": 0.005, "steden": 0.234, "dragers": 0.122, "buren": 0.275, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.139, "buren_honger": 1.411, "ev": 1.168, "aelthir": 0.752, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0914, seed 420914)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0915
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420915
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.302, "magie_eind": 0.46, "golven": 13, "assen": {"5": 3, "4": 6, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 3000, "macht_eind": {"staat": 0.285, "huizen": 0.053, "kerk": 0.005, "steden": 0.223, "dragers": 0.252, "buren": 0.138, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.165, "buren_honger": 0.835, "ev": 1.273, "aelthir": 0.514, "filter": 0.025}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0915, seed 420915)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0916
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420916
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 7, "magie_min": 0.358, "magie_eind": 0.386, "golven": 16, "assen": {"5": 3, "3": 2, "4": 2}, "rijmt_met_canon": 2, "erft_van_801": 3, "heersers": 2, "wetten": 14, "rustige_jaren": 1400, "macht_eind": {"staat": 0.22, "huizen": 0.046, "kerk": 0.033, "steden": 0.102, "dragers": 0.275, "buren": 0.305, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.187, "buren_honger": 1.478, "ev": 1.278, "aelthir": 0.252, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0916, seed 420916)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0917
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420917
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 6, "magie_min": 0.307, "magie_eind": 0.307, "golven": 9, "assen": {"5": 4, "4": 4, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 2380, "macht_eind": {"staat": 0.218, "huizen": 0.049, "kerk": 0.004, "steden": 0.205, "dragers": 0.225, "buren": 0.281, "orrim": 0.007, "volk": 0.011}, "parameters": {"groei": 0.214, "buren_honger": 1.45, "ev": 1.193, "aelthir": 0.204, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0917, seed 420917)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0918
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420918
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 3, "magie_min": 0.339, "magie_eind": 0.339, "golven": 9, "assen": {"5": 4, "4": 5, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 1460, "macht_eind": {"staat": 0.3, "huizen": 0.079, "kerk": 0.005, "steden": 0.153, "dragers": 0.173, "buren": 0.244, "orrim": 0.031, "volk": 0.015}, "parameters": {"groei": 0.165, "buren_honger": 1.095, "ev": 0.87, "aelthir": 0.388, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0918, seed 420918)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0919
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420919
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 18, "onopgelost": 7, "magie_min": 0.352, "magie_eind": 0.352, "golven": 11, "assen": {"5": 6, "4": 9, "3": 3}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 4, "wetten": 19, "rustige_jaren": 1740, "macht_eind": {"staat": 0.237, "huizen": 0.068, "kerk": 0.004, "steden": 0.144, "dragers": 0.278, "buren": 0.231, "orrim": 0.027, "volk": 0.011}, "parameters": {"groei": 0.165, "buren_honger": 1.325, "ev": 0.846, "aelthir": 0.655, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0919, seed 420919)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0920
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420920
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 12, "magie_min": 0.355, "magie_eind": 0.494, "golven": 13, "assen": {"5": 2, "4": 6, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 3, "wetten": 17, "rustige_jaren": 680, "macht_eind": {"staat": 0.26, "huizen": 0.066, "kerk": 0.033, "steden": 0.083, "dragers": 0.29, "buren": 0.231, "orrim": 0.026, "volk": 0.011}, "parameters": {"groei": 0.127, "buren_honger": 1.245, "ev": 1.284, "aelthir": 0.43, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0920, seed 420920)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0921
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420921
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 8, "magie_min": 0.334, "magie_eind": 0.334, "golven": 12, "assen": {"5": 3, "4": 3, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 1700, "macht_eind": {"staat": 0.306, "huizen": 0.057, "kerk": 0.005, "steden": 0.146, "dragers": 0.211, "buren": 0.252, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.178, "buren_honger": 1.096, "ev": 1.125, "aelthir": 0.722, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0921, seed 420921)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0922
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420922
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 4, "magie_min": 0.236, "magie_eind": 0.265, "golven": 7, "assen": {"5": 3, "4": 6, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 2820, "macht_eind": {"staat": 0.329, "huizen": 0.066, "kerk": 0.006, "steden": 0.36, "dragers": 0.161, "buren": 0.051, "orrim": 0.009, "volk": 0.018}, "parameters": {"groei": 0.186, "buren_honger": 0.513, "ev": 0.809, "aelthir": 0.41, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0922, seed 420922)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0923
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420923
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.317, "magie_eind": 0.317, "golven": 11, "assen": {"5": 1, "4": 7, "3": 3}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2380, "macht_eind": {"staat": 0.36, "huizen": 0.099, "kerk": 0.006, "steden": 0.232, "dragers": 0.159, "buren": 0.086, "orrim": 0.04, "volk": 0.018}, "parameters": {"groei": 0.199, "buren_honger": 0.593, "ev": 1.007, "aelthir": 0.411, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0923, seed 420923)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0924
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420924
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.344, "magie_eind": 0.37, "golven": 11, "assen": {"5": 2, "4": 5, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 4, "wetten": 16, "rustige_jaren": 1760, "macht_eind": {"staat": 0.254, "huizen": 0.053, "kerk": 0.005, "steden": 0.167, "dragers": 0.289, "buren": 0.188, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.181, "buren_honger": 1.014, "ev": 0.844, "aelthir": 0.351, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0924, seed 420924)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0925
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420925
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 12, "magie_min": 0.361, "magie_eind": 0.384, "golven": 15, "assen": {"5": 3, "4": 5, "3": 5}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 18, "rustige_jaren": 1420, "macht_eind": {"staat": 0.319, "huizen": 0.083, "kerk": 0.072, "steden": 0.103, "dragers": 0.283, "buren": 0.093, "orrim": 0.033, "volk": 0.014}, "parameters": {"groei": 0.143, "buren_honger": 0.66, "ev": 1.233, "aelthir": 0.271, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0925, seed 420925)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0926
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420926
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 7, "magie_min": 0.336, "magie_eind": 0.336, "golven": 12, "assen": {"5": 5, "4": 6, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 18, "rustige_jaren": 2200, "macht_eind": {"staat": 0.267, "huizen": 0.073, "kerk": 0.004, "steden": 0.147, "dragers": 0.227, "buren": 0.24, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.142, "buren_honger": 1.295, "ev": 1.011, "aelthir": 0.538, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0926, seed 420926)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0927
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420927
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 12, "magie_min": 0.355, "magie_eind": 0.434, "golven": 13, "assen": {"5": 2, "4": 5, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 3, "wetten": 16, "rustige_jaren": 1280, "macht_eind": {"staat": 0.248, "huizen": 0.065, "kerk": 0.015, "steden": 0.096, "dragers": 0.253, "buren": 0.285, "orrim": 0.026, "volk": 0.011}, "parameters": {"groei": 0.135, "buren_honger": 1.257, "ev": 0.896, "aelthir": 0.59, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0927, seed 420927)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0928
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420928
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 13, "magie_min": 0.347, "magie_eind": 0.409, "golven": 13, "assen": {"5": 4, "4": 7, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 19, "rustige_jaren": 880, "macht_eind": {"staat": 0.305, "huizen": 0.091, "kerk": 0.005, "steden": 0.14, "dragers": 0.219, "buren": 0.188, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.196, "buren_honger": 0.983, "ev": 1.06, "aelthir": 0.503, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0928, seed 420928)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0929
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420929
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.351, "magie_eind": 0.351, "golven": 9, "assen": {"5": 3, "4": 5, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 19, "rustige_jaren": 1400, "macht_eind": {"staat": 0.274, "huizen": 0.072, "kerk": 0.004, "steden": 0.118, "dragers": 0.231, "buren": 0.258, "orrim": 0.029, "volk": 0.014}, "parameters": {"groei": 0.184, "buren_honger": 1.066, "ev": 0.763, "aelthir": 0.432, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0929, seed 420929)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0930
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420930
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 8, "magie_min": 0.368, "magie_eind": 0.516, "golven": 18, "assen": {"5": 3, "4": 6, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 2020, "macht_eind": {"staat": 0.344, "huizen": 0.085, "kerk": 0.048, "steden": 0.12, "dragers": 0.296, "buren": 0.058, "orrim": 0.034, "volk": 0.015}, "parameters": {"groei": 0.129, "buren_honger": 0.519, "ev": 1.22, "aelthir": 0.535, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0930, seed 420930)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0931
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420931
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.336, "magie_eind": 0.336, "golven": 11, "assen": {"5": 5, "4": 4, "3": 1}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 1160, "macht_eind": {"staat": 0.306, "huizen": 0.078, "kerk": 0.005, "steden": 0.134, "dragers": 0.243, "buren": 0.212, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.135, "buren_honger": 1.001, "ev": 0.99, "aelthir": 0.374, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0931, seed 420931)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0932
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420932
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.296, "magie_eind": 0.444, "golven": 6, "assen": {"5": 4, "4": 6, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 4, "wetten": 15, "rustige_jaren": 2360, "macht_eind": {"staat": 0.295, "huizen": 0.062, "kerk": 0.005, "steden": 0.252, "dragers": 0.239, "buren": 0.095, "orrim": 0.035, "volk": 0.017}, "parameters": {"groei": 0.166, "buren_honger": 0.652, "ev": 0.747, "aelthir": 0.75, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0932, seed 420932)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0933
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420933
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.327, "magie_eind": 0.331, "golven": 12, "assen": {"5": 5, "4": 3, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 1880, "macht_eind": {"staat": 0.238, "huizen": 0.048, "kerk": 0.004, "steden": 0.167, "dragers": 0.212, "buren": 0.292, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.205, "buren_honger": 1.457, "ev": 0.81, "aelthir": 0.507, "filter": 0.043}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0933, seed 420933)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0934
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420934
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 2, "magie_min": 0.356, "magie_eind": 0.452, "golven": 9, "assen": {"5": 7, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1940, "macht_eind": {"staat": 0.275, "huizen": 0.054, "kerk": 0.005, "steden": 0.133, "dragers": 0.223, "buren": 0.266, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.197, "buren_honger": 1.225, "ev": 0.842, "aelthir": 0.703, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0934, seed 420934)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0935
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420935
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 4, "magie_min": 0.35, "magie_eind": 0.359, "golven": 9, "assen": {"5": 2, "4": 5, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 2280, "macht_eind": {"staat": 0.303, "huizen": 0.08, "kerk": 0.035, "steden": 0.105, "dragers": 0.233, "buren": 0.197, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.175, "buren_honger": 0.983, "ev": 1.07, "aelthir": 0.236, "filter": 0.032}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0935, seed 420935)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0936
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420936
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.279, "magie_eind": 0.279, "golven": 6, "assen": {"5": 5, "4": 5, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 2380, "macht_eind": {"staat": 0.26, "huizen": 0.053, "kerk": 0.005, "steden": 0.216, "dragers": 0.159, "buren": 0.288, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.122, "buren_honger": 1.433, "ev": 0.879, "aelthir": 0.795, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0936, seed 420936)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0937
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420937
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 7
+- **scores:** {"fasen": 7, "onopgelost": 9, "magie_min": 0.351, "magie_eind": 0.506, "golven": 14, "assen": {"5": 2, "4": 2, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 1420, "macht_eind": {"staat": 0.295, "huizen": 0.077, "kerk": 0.005, "steden": 0.107, "dragers": 0.216, "buren": 0.253, "orrim": 0.031, "volk": 0.016}, "parameters": {"groei": 0.171, "buren_honger": 1.196, "ev": 1.032, "aelthir": 0.378, "filter": 0.05}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0937, seed 420937)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0938
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420938
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 10, "magie_min": 0.342, "magie_eind": 0.342, "golven": 13, "assen": {"5": 2, "3": 4, "4": 6}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 19, "rustige_jaren": 860, "macht_eind": {"staat": 0.269, "huizen": 0.05, "kerk": 0.004, "steden": 0.122, "dragers": 0.238, "buren": 0.278, "orrim": 0.029, "volk": 0.01}, "parameters": {"groei": 0.197, "buren_honger": 1.342, "ev": 1.206, "aelthir": 0.233, "filter": 0.059}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0938, seed 420938)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0939
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420939
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 7, "magie_min": 0.198, "magie_eind": 0.372, "golven": 12, "assen": {"5": 4, "4": 9, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2520, "macht_eind": {"staat": 0.223, "huizen": 0.046, "kerk": 0.004, "steden": 0.268, "dragers": 0.183, "buren": 0.257, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.179, "buren_honger": 1.48, "ev": 1.006, "aelthir": 0.361, "filter": 0.058}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0939, seed 420939)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0940
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420940
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.329, "magie_eind": 0.329, "golven": 7, "assen": {"5": 3, "4": 7, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 2060, "macht_eind": {"staat": 0.322, "huizen": 0.092, "kerk": 0.006, "steden": 0.179, "dragers": 0.276, "buren": 0.101, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.13, "buren_honger": 0.654, "ev": 0.907, "aelthir": 0.362, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0940, seed 420940)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0941
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420941
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 9, "magie_min": 0.356, "magie_eind": 0.432, "golven": 12, "assen": {"5": 4, "3": 4, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 3, "wetten": 15, "rustige_jaren": 1640, "macht_eind": {"staat": 0.256, "huizen": 0.046, "kerk": 0.023, "steden": 0.102, "dragers": 0.302, "buren": 0.233, "orrim": 0.026, "volk": 0.012}, "parameters": {"groei": 0.213, "buren_honger": 1.269, "ev": 1.253, "aelthir": 0.721, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0941, seed 420941)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0942
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420942
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 7, "magie_min": 0.303, "magie_eind": 0.488, "golven": 11, "assen": {"5": 3, "4": 4, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 2480, "macht_eind": {"staat": 0.25, "huizen": 0.05, "kerk": 0.004, "steden": 0.198, "dragers": 0.179, "buren": 0.277, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.163, "buren_honger": 1.433, "ev": 0.971, "aelthir": 0.214, "filter": 0.039}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0942, seed 420942)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0943
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420943
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 4, "magie_min": 0.301, "magie_eind": 0.301, "golven": 12, "assen": {"5": 4, "4": 4, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 2080, "macht_eind": {"staat": 0.312, "huizen": 0.058, "kerk": 0.005, "steden": 0.195, "dragers": 0.308, "buren": 0.099, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.121, "buren_honger": 0.64, "ev": 0.887, "aelthir": 0.596, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0943, seed 420943)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0944
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420944
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.318, "magie_eind": 0.318, "golven": 13, "assen": {"5": 3, "4": 3, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 1500, "macht_eind": {"staat": 0.27, "huizen": 0.078, "kerk": 0.005, "steden": 0.158, "dragers": 0.186, "buren": 0.258, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.172, "buren_honger": 1.314, "ev": 0.855, "aelthir": 0.664, "filter": 0.052}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0944, seed 420944)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0945
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420945
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 8, "magie_min": 0.34, "magie_eind": 0.34, "golven": 9, "assen": {"5": 6, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 1, "wetten": 18, "rustige_jaren": 560, "macht_eind": {"staat": 0.297, "huizen": 0.085, "kerk": 0.005, "steden": 0.137, "dragers": 0.221, "buren": 0.205, "orrim": 0.034, "volk": 0.016}, "parameters": {"groei": 0.189, "buren_honger": 0.93, "ev": 0.762, "aelthir": 0.788, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0945, seed 420945)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0946
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420946
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 18
+- **scores:** {"fasen": 18, "onopgelost": 4, "magie_min": 0.296, "magie_eind": 0.296, "golven": 14, "assen": {"5": 6, "4": 9, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 20, "rustige_jaren": 2120, "macht_eind": {"staat": 0.23, "huizen": 0.083, "kerk": 0.004, "steden": 0.218, "dragers": 0.235, "buren": 0.193, "orrim": 0.025, "volk": 0.012}, "parameters": {"groei": 0.146, "buren_honger": 1.234, "ev": 0.819, "aelthir": 0.503, "filter": 0.045}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0946, seed 420946)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0947
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420947
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 12, "magie_min": 0.356, "magie_eind": 0.534, "golven": 10, "assen": {"5": 2, "3": 3, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 880, "macht_eind": {"staat": 0.265, "huizen": 0.048, "kerk": 0.004, "steden": 0.109, "dragers": 0.221, "buren": 0.313, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.21, "buren_honger": 1.295, "ev": 0.828, "aelthir": 0.34, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0947, seed 420947)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0948
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420948
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 17
+- **scores:** {"fasen": 17, "onopgelost": 8, "magie_min": 0.124, "magie_eind": 0.124, "golven": 11, "assen": {"5": 4, "4": 10, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 2040, "macht_eind": {"staat": 0.241, "huizen": 0.06, "kerk": 0.005, "steden": 0.481, "dragers": 0.077, "buren": 0.111, "orrim": 0.009, "volk": 0.016}, "parameters": {"groei": 0.122, "buren_honger": 0.695, "ev": 1.251, "aelthir": 0.649, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0948, seed 420948)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0949
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420949
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 10, "magie_min": 0.342, "magie_eind": 0.457, "golven": 7, "assen": {"5": 2, "3": 4, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 1680, "macht_eind": {"staat": 0.261, "huizen": 0.051, "kerk": 0.004, "steden": 0.118, "dragers": 0.311, "buren": 0.233, "orrim": 0.007, "volk": 0.014}, "parameters": {"groei": 0.216, "buren_honger": 1.156, "ev": 0.743, "aelthir": 0.78, "filter": 0.06}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0949, seed 420949)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0950
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420950
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.139, "magie_eind": 0.139, "golven": 10, "assen": {"5": 3, "4": 6, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2540, "macht_eind": {"staat": 0.325, "huizen": 0.061, "kerk": 0.005, "steden": 0.409, "dragers": 0.113, "buren": 0.063, "orrim": 0.009, "volk": 0.014}, "parameters": {"groei": 0.121, "buren_honger": 0.562, "ev": 1.083, "aelthir": 0.231, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0950, seed 420950)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0951
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420951
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 10, "magie_min": 0.362, "magie_eind": 0.39, "golven": 15, "assen": {"5": 4, "4": 6, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 3, "wetten": 18, "rustige_jaren": 1160, "macht_eind": {"staat": 0.227, "huizen": 0.078, "kerk": 0.042, "steden": 0.076, "dragers": 0.295, "buren": 0.247, "orrim": 0.024, "volk": 0.011}, "parameters": {"groei": 0.139, "buren_honger": 1.422, "ev": 1.27, "aelthir": 0.283, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0951, seed 420951)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0952
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420952
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 15, "magie_min": 0.35, "magie_eind": 0.35, "golven": 17, "assen": {"5": 5, "4": 4, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1700, "macht_eind": {"staat": 0.264, "huizen": 0.066, "kerk": 0.004, "steden": 0.112, "dragers": 0.251, "buren": 0.284, "orrim": 0.007, "volk": 0.012}, "parameters": {"groei": 0.197, "buren_honger": 1.24, "ev": 1.255, "aelthir": 0.579, "filter": 0.022}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0952, seed 420952)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0953
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420953
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 10, "magie_min": 0.353, "magie_eind": 0.353, "golven": 9, "assen": {"5": 3, "4": 3, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 900, "macht_eind": {"staat": 0.276, "huizen": 0.073, "kerk": 0.039, "steden": 0.1, "dragers": 0.235, "buren": 0.256, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.204, "buren_honger": 1.27, "ev": 0.903, "aelthir": 0.404, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0953, seed 420953)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0954
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420954
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 3, "magie_min": 0.195, "magie_eind": 0.195, "golven": 9, "assen": {"5": 4, "4": 4, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 3200, "macht_eind": {"staat": 0.288, "huizen": 0.059, "kerk": 0.005, "steden": 0.346, "dragers": 0.118, "buren": 0.161, "orrim": 0.008, "volk": 0.014}, "parameters": {"groei": 0.154, "buren_honger": 0.848, "ev": 0.727, "aelthir": 0.263, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0954, seed 420954)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0955
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420955
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 10, "magie_min": 0.335, "magie_eind": 0.335, "golven": 10, "assen": {"5": 2, "3": 4, "4": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 1360, "macht_eind": {"staat": 0.297, "huizen": 0.064, "kerk": 0.006, "steden": 0.155, "dragers": 0.267, "buren": 0.157, "orrim": 0.037, "volk": 0.016}, "parameters": {"groei": 0.152, "buren_honger": 0.8, "ev": 0.841, "aelthir": 0.691, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0955, seed 420955)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0956
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420956
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.188, "magie_eind": 0.22, "golven": 10, "assen": {"5": 1, "4": 10, "3": 1}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 2620, "macht_eind": {"staat": 0.254, "huizen": 0.049, "kerk": 0.004, "steden": 0.298, "dragers": 0.162, "buren": 0.212, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.157, "buren_honger": 1.21, "ev": 1.079, "aelthir": 0.605, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0956, seed 420956)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0957
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420957
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 12, "magie_min": 0.343, "magie_eind": 0.381, "golven": 16, "assen": {"5": 5, "4": 6, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 2, "wetten": 19, "rustige_jaren": 660, "macht_eind": {"staat": 0.25, "huizen": 0.068, "kerk": 0.004, "steden": 0.112, "dragers": 0.288, "buren": 0.244, "orrim": 0.027, "volk": 0.007}, "parameters": {"groei": 0.189, "buren_honger": 1.267, "ev": 1.255, "aelthir": 0.725, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0957, seed 420957)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0958
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420958
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.341, "magie_eind": 0.341, "golven": 14, "assen": {"5": 4, "3": 4, "4": 2}, "rijmt_met_canon": 2, "erft_van_801": 3, "heersers": 2, "wetten": 19, "rustige_jaren": 1900, "macht_eind": {"staat": 0.282, "huizen": 0.05, "kerk": 0.004, "steden": 0.115, "dragers": 0.236, "buren": 0.271, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.213, "buren_honger": 1.115, "ev": 1.274, "aelthir": 0.441, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0958, seed 420958)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0959
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420959
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.144, "magie_eind": 0.144, "golven": 13, "assen": {"5": 5, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 2640, "macht_eind": {"staat": 0.294, "huizen": 0.058, "kerk": 0.005, "steden": 0.397, "dragers": 0.149, "buren": 0.08, "orrim": 0.008, "volk": 0.008}, "parameters": {"groei": 0.133, "buren_honger": 0.71, "ev": 0.737, "aelthir": 0.682, "filter": 0.02}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0959, seed 420959)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0960
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420960
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 10, "magie_min": 0.324, "magie_eind": 0.324, "golven": 6, "assen": {"5": 4, "4": 7}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 15, "rustige_jaren": 1740, "macht_eind": {"staat": 0.262, "huizen": 0.057, "kerk": 0.005, "steden": 0.173, "dragers": 0.171, "buren": 0.287, "orrim": 0.033, "volk": 0.013}, "parameters": {"groei": 0.207, "buren_honger": 1.365, "ev": 0.992, "aelthir": 0.329, "filter": 0.023}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0960, seed 420960)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0961
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420961
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 9, "magie_min": 0.337, "magie_eind": 0.525, "golven": 10, "assen": {"5": 5, "4": 3, "3": 1}, "rijmt_met_canon": 5, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 1400, "macht_eind": {"staat": 0.307, "huizen": 0.079, "kerk": 0.005, "steden": 0.123, "dragers": 0.15, "buren": 0.313, "orrim": 0.008, "volk": 0.015}, "parameters": {"groei": 0.193, "buren_honger": 1.16, "ev": 0.733, "aelthir": 0.428, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0961, seed 420961)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0962
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420962
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.323, "magie_eind": 0.366, "golven": 10, "assen": {"5": 2, "4": 7, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 2320, "macht_eind": {"staat": 0.404, "huizen": 0.109, "kerk": 0.007, "steden": 0.239, "dragers": 0.12, "buren": 0.089, "orrim": 0.011, "volk": 0.021}, "parameters": {"groei": 0.182, "buren_honger": 0.552, "ev": 0.989, "aelthir": 0.73, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0962, seed 420962)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0963
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420963
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 13, "magie_min": 0.313, "magie_eind": 0.313, "golven": 15, "assen": {"5": 3, "4": 5, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 17, "rustige_jaren": 1140, "macht_eind": {"staat": 0.255, "huizen": 0.049, "kerk": 0.004, "steden": 0.154, "dragers": 0.272, "buren": 0.228, "orrim": 0.028, "volk": 0.011}, "parameters": {"groei": 0.158, "buren_honger": 1.308, "ev": 1.257, "aelthir": 0.249, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0963, seed 420963)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0964
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420964
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 7, "magie_min": 0.346, "magie_eind": 0.35, "golven": 11, "assen": {"5": 2, "3": 4, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1380, "macht_eind": {"staat": 0.339, "huizen": 0.09, "kerk": 0.005, "steden": 0.167, "dragers": 0.235, "buren": 0.11, "orrim": 0.036, "volk": 0.016}, "parameters": {"groei": 0.172, "buren_honger": 0.505, "ev": 0.909, "aelthir": 0.528, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0964, seed 420964)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0965
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420965
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.34, "magie_eind": 0.34, "golven": 12, "assen": {"5": 3, "3": 6, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 17, "rustige_jaren": 1540, "macht_eind": {"staat": 0.283, "huizen": 0.053, "kerk": 0.005, "steden": 0.136, "dragers": 0.244, "buren": 0.236, "orrim": 0.031, "volk": 0.012}, "parameters": {"groei": 0.169, "buren_honger": 1.155, "ev": 1.289, "aelthir": 0.537, "filter": 0.042}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0965, seed 420965)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0966
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420966
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.342, "magie_eind": 0.347, "golven": 7, "assen": {"5": 3, "3": 6, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 840, "macht_eind": {"staat": 0.282, "huizen": 0.079, "kerk": 0.005, "steden": 0.127, "dragers": 0.277, "buren": 0.184, "orrim": 0.032, "volk": 0.014}, "parameters": {"groei": 0.182, "buren_honger": 0.959, "ev": 0.921, "aelthir": 0.381, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0966, seed 420966)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0967
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420967
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 11, "magie_min": 0.344, "magie_eind": 0.344, "golven": 9, "assen": {"5": 3, "3": 3, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 400, "macht_eind": {"staat": 0.262, "huizen": 0.05, "kerk": 0.004, "steden": 0.12, "dragers": 0.224, "buren": 0.299, "orrim": 0.029, "volk": 0.012}, "parameters": {"groei": 0.2, "buren_honger": 1.432, "ev": 0.848, "aelthir": 0.757, "filter": 0.036}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0967, seed 420967)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0968
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420968
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 11, "magie_min": 0.348, "magie_eind": 0.49, "golven": 15, "assen": {"5": 2, "4": 8, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 2, "heersers": 2, "wetten": 17, "rustige_jaren": 1880, "macht_eind": {"staat": 0.23, "huizen": 0.082, "kerk": 0.029, "steden": 0.081, "dragers": 0.277, "buren": 0.266, "orrim": 0.025, "volk": 0.011}, "parameters": {"groei": 0.174, "buren_honger": 1.398, "ev": 1.115, "aelthir": 0.634, "filter": 0.046}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0968, seed 420968)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0969
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420969
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 11, "magie_min": 0.348, "magie_eind": 0.354, "golven": 15, "assen": {"5": 4, "4": 6, "3": 4}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 740, "macht_eind": {"staat": 0.249, "huizen": 0.067, "kerk": 0.004, "steden": 0.116, "dragers": 0.331, "buren": 0.194, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.177, "buren_honger": 1.195, "ev": 1.052, "aelthir": 0.759, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0969, seed 420969)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0970
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420970
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 9, "magie_min": 0.354, "magie_eind": 0.424, "golven": 14, "assen": {"5": 3, "3": 3, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 1280, "macht_eind": {"staat": 0.243, "huizen": 0.05, "kerk": 0.004, "steden": 0.138, "dragers": 0.289, "buren": 0.253, "orrim": 0.007, "volk": 0.016}, "parameters": {"groei": 0.21, "buren_honger": 1.398, "ev": 1.119, "aelthir": 0.653, "filter": 0.04}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0970, seed 420970)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0971
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420971
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.334, "magie_eind": 0.358, "golven": 14, "assen": {"5": 4, "4": 6, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 1960, "macht_eind": {"staat": 0.262, "huizen": 0.053, "kerk": 0.005, "steden": 0.166, "dragers": 0.286, "buren": 0.208, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.2, "buren_honger": 1.169, "ev": 0.978, "aelthir": 0.244, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0971, seed 420971)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0972
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420972
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 10, "magie_min": 0.364, "magie_eind": 0.448, "golven": 14, "assen": {"5": 4, "4": 4, "3": 4}, "rijmt_met_canon": 5, "erft_van_801": 2, "heersers": 3, "wetten": 18, "rustige_jaren": 1120, "macht_eind": {"staat": 0.254, "huizen": 0.071, "kerk": 0.004, "steden": 0.112, "dragers": 0.265, "buren": 0.253, "orrim": 0.029, "volk": 0.013}, "parameters": {"groei": 0.159, "buren_honger": 1.365, "ev": 1.088, "aelthir": 0.31, "filter": 0.031}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0972, seed 420972)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0973
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420973
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 5, "magie_min": 0.125, "magie_eind": 0.158, "golven": 9, "assen": {"5": 6, "4": 4, "3": 3}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 2700, "macht_eind": {"staat": 0.294, "huizen": 0.056, "kerk": 0.005, "steden": 0.459, "dragers": 0.08, "buren": 0.083, "orrim": 0.008, "volk": 0.016}, "parameters": {"groei": 0.15, "buren_honger": 0.64, "ev": 1.07, "aelthir": 0.614, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0973, seed 420973)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0974
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420974
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 19, "magie_min": 0.349, "magie_eind": 0.455, "golven": 8, "assen": {"5": 3, "4": 4, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 1300, "macht_eind": {"staat": 0.25, "huizen": 0.07, "kerk": 0.016, "steden": 0.102, "dragers": 0.266, "buren": 0.255, "orrim": 0.028, "volk": 0.012}, "parameters": {"groei": 0.171, "buren_honger": 1.399, "ev": 1.261, "aelthir": 0.233, "filter": 0.044}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0974, seed 420974)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0975
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420975
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 6, "magie_min": 0.294, "magie_eind": 0.294, "golven": 13, "assen": {"5": 4, "4": 7, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 4, "wetten": 17, "rustige_jaren": 1700, "macht_eind": {"staat": 0.27, "huizen": 0.048, "kerk": 0.004, "steden": 0.2, "dragers": 0.249, "buren": 0.185, "orrim": 0.028, "volk": 0.015}, "parameters": {"groei": 0.16, "buren_honger": 1.041, "ev": 0.777, "aelthir": 0.748, "filter": 0.034}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0975, seed 420975)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0976
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420976
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.306, "magie_eind": 0.306, "golven": 10, "assen": {"5": 6, "3": 2, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 17, "rustige_jaren": 1460, "macht_eind": {"staat": 0.27, "huizen": 0.054, "kerk": 0.005, "steden": 0.2, "dragers": 0.272, "buren": 0.154, "orrim": 0.031, "volk": 0.013}, "parameters": {"groei": 0.169, "buren_honger": 0.865, "ev": 1.238, "aelthir": 0.318, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0976, seed 420976)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0977
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420977
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 12, "magie_min": 0.351, "magie_eind": 0.356, "golven": 11, "assen": {"5": 2, "4": 4, "3": 2}, "rijmt_met_canon": 2, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 1540, "macht_eind": {"staat": 0.265, "huizen": 0.088, "kerk": 0.014, "steden": 0.1, "dragers": 0.237, "buren": 0.257, "orrim": 0.027, "volk": 0.012}, "parameters": {"groei": 0.138, "buren_honger": 1.313, "ev": 0.852, "aelthir": 0.638, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0977, seed 420977)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0978
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420978
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 6, "magie_min": 0.332, "magie_eind": 0.332, "golven": 11, "assen": {"5": 4, "3": 4, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 2300, "macht_eind": {"staat": 0.345, "huizen": 0.07, "kerk": 0.006, "steden": 0.175, "dragers": 0.28, "buren": 0.066, "orrim": 0.04, "volk": 0.018}, "parameters": {"groei": 0.132, "buren_honger": 0.545, "ev": 1.127, "aelthir": 0.643, "filter": 0.029}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0978, seed 420978)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0979
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420979
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 4, "magie_min": 0.346, "magie_eind": 0.384, "golven": 12, "assen": {"5": 4, "3": 3, "4": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 16, "rustige_jaren": 2400, "macht_eind": {"staat": 0.334, "huizen": 0.065, "kerk": 0.006, "steden": 0.164, "dragers": 0.261, "buren": 0.117, "orrim": 0.037, "volk": 0.016}, "parameters": {"groei": 0.15, "buren_honger": 0.688, "ev": 0.843, "aelthir": 0.508, "filter": 0.038}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0979, seed 420979)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0980
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420980
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 11, "magie_min": 0.31, "magie_eind": 0.31, "golven": 11, "assen": {"5": 2, "4": 5, "3": 3}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 3, "wetten": 16, "rustige_jaren": 1080, "macht_eind": {"staat": 0.241, "huizen": 0.069, "kerk": 0.004, "steden": 0.156, "dragers": 0.192, "buren": 0.297, "orrim": 0.027, "volk": 0.014}, "parameters": {"groei": 0.167, "buren_honger": 1.39, "ev": 0.92, "aelthir": 0.344, "filter": 0.057}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0980, seed 420980)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0981
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420981
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 7, "magie_min": 0.335, "magie_eind": 0.335, "golven": 12, "assen": {"5": 3, "4": 4, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 1, "wetten": 15, "rustige_jaren": 940, "macht_eind": {"staat": 0.282, "huizen": 0.053, "kerk": 0.005, "steden": 0.135, "dragers": 0.219, "buren": 0.263, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.214, "buren_honger": 1.188, "ev": 0.899, "aelthir": 0.681, "filter": 0.053}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0981, seed 420981)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0982
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420982
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 14, "magie_min": 0.335, "magie_eind": 0.335, "golven": 13, "assen": {"5": 3, "4": 6, "3": 2}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1580, "macht_eind": {"staat": 0.259, "huizen": 0.072, "kerk": 0.004, "steden": 0.144, "dragers": 0.201, "buren": 0.279, "orrim": 0.029, "volk": 0.012}, "parameters": {"groei": 0.219, "buren_honger": 1.433, "ev": 1.239, "aelthir": 0.295, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0982, seed 420982)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0983
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420983
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 4, "magie_min": 0.328, "magie_eind": 0.365, "golven": 12, "assen": {"5": 2, "4": 6, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 13, "rustige_jaren": 2480, "macht_eind": {"staat": 0.345, "huizen": 0.063, "kerk": 0.005, "steden": 0.226, "dragers": 0.208, "buren": 0.129, "orrim": 0.009, "volk": 0.015}, "parameters": {"groei": 0.12, "buren_honger": 0.697, "ev": 1.012, "aelthir": 0.794, "filter": 0.033}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0983, seed 420983)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0984
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420984
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 5, "magie_min": 0.34, "magie_eind": 0.451, "golven": 11, "assen": {"5": 4, "4": 5, "3": 2}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 1, "wetten": 16, "rustige_jaren": 2200, "macht_eind": {"staat": 0.334, "huizen": 0.115, "kerk": 0.005, "steden": 0.141, "dragers": 0.31, "buren": 0.043, "orrim": 0.035, "volk": 0.016}, "parameters": {"groei": 0.213, "buren_honger": 0.502, "ev": 1.016, "aelthir": 0.588, "filter": 0.051}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0984, seed 420984)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0985
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420985
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 16
+- **scores:** {"fasen": 16, "onopgelost": 5, "magie_min": 0.166, "magie_eind": 0.166, "golven": 9, "assen": {"5": 6, "4": 8, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 3, "wetten": 18, "rustige_jaren": 2560, "macht_eind": {"staat": 0.264, "huizen": 0.054, "kerk": 0.005, "steden": 0.323, "dragers": 0.161, "buren": 0.15, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.124, "buren_honger": 0.859, "ev": 0.958, "aelthir": 0.218, "filter": 0.049}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0985, seed 420985)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0986
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420986
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 11, "magie_min": 0.337, "magie_eind": 0.337, "golven": 10, "assen": {"5": 2, "4": 7, "3": 2}, "rijmt_met_canon": 4, "erft_van_801": 2, "heersers": 3, "wetten": 18, "rustige_jaren": 1120, "macht_eind": {"staat": 0.275, "huizen": 0.069, "kerk": 0.004, "steden": 0.119, "dragers": 0.215, "buren": 0.278, "orrim": 0.028, "volk": 0.013}, "parameters": {"groei": 0.181, "buren_honger": 1.311, "ev": 0.882, "aelthir": 0.374, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0986, seed 420986)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0987
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420987
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.352, "magie_eind": 0.524, "golven": 10, "assen": {"5": 4, "3": 4, "4": 4}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 18, "rustige_jaren": 1480, "macht_eind": {"staat": 0.31, "huizen": 0.091, "kerk": 0.005, "steden": 0.158, "dragers": 0.32, "buren": 0.064, "orrim": 0.037, "volk": 0.014}, "parameters": {"groei": 0.131, "buren_honger": 0.552, "ev": 1.182, "aelthir": 0.532, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0987, seed 420987)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0988
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420988
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 5, "magie_min": 0.341, "magie_eind": 0.532, "golven": 11, "assen": {"5": 3, "4": 5}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 2, "wetten": 15, "rustige_jaren": 1700, "macht_eind": {"staat": 0.343, "huizen": 0.096, "kerk": 0.006, "steden": 0.15, "dragers": 0.249, "buren": 0.13, "orrim": 0.01, "volk": 0.016}, "parameters": {"groei": 0.181, "buren_honger": 0.68, "ev": 0.753, "aelthir": 0.767, "filter": 0.024}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0988, seed 420988)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0989
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420989
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 8
+- **scores:** {"fasen": 8, "onopgelost": 4, "magie_min": 0.319, "magie_eind": 0.319, "golven": 5, "assen": {"5": 2, "4": 6}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 2, "wetten": 14, "rustige_jaren": 3160, "macht_eind": {"staat": 0.375, "huizen": 0.07, "kerk": 0.006, "steden": 0.223, "dragers": 0.129, "buren": 0.168, "orrim": 0.01, "volk": 0.018}, "parameters": {"groei": 0.152, "buren_honger": 0.759, "ev": 0.725, "aelthir": 0.592, "filter": 0.028}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0989, seed 420989)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0990
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420990
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 13
+- **scores:** {"fasen": 13, "onopgelost": 9, "magie_min": 0.363, "magie_eind": 0.422, "golven": 13, "assen": {"5": 5, "4": 7, "3": 1}, "rijmt_met_canon": 5, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 1140, "macht_eind": {"staat": 0.269, "huizen": 0.074, "kerk": 0.004, "steden": 0.116, "dragers": 0.25, "buren": 0.264, "orrim": 0.007, "volk": 0.015}, "parameters": {"groei": 0.147, "buren_honger": 1.379, "ev": 1.28, "aelthir": 0.652, "filter": 0.048}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0990, seed 420990)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0991
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420991
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 9
+- **scores:** {"fasen": 9, "onopgelost": 9, "magie_min": 0.359, "magie_eind": 0.426, "golven": 12, "assen": {"5": 4, "4": 4, "3": 1}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 15, "rustige_jaren": 1020, "macht_eind": {"staat": 0.262, "huizen": 0.07, "kerk": 0.046, "steden": 0.093, "dragers": 0.246, "buren": 0.265, "orrim": 0.007, "volk": 0.011}, "parameters": {"groei": 0.154, "buren_honger": 1.295, "ev": 0.899, "aelthir": 0.769, "filter": 0.021}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0991, seed 420991)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0992
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420992
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 5, "magie_min": 0.326, "magie_eind": 0.339, "golven": 15, "assen": {"5": 3, "4": 6, "3": 3}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 3, "wetten": 18, "rustige_jaren": 1760, "macht_eind": {"staat": 0.293, "huizen": 0.053, "kerk": 0.005, "steden": 0.146, "dragers": 0.252, "buren": 0.207, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.172, "buren_honger": 0.86, "ev": 0.989, "aelthir": 0.494, "filter": 0.054}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0992, seed 420992)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0993
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420993
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 10, "magie_min": 0.339, "magie_eind": 0.339, "golven": 8, "assen": {"5": 4, "3": 4, "4": 7}, "rijmt_met_canon": 5, "erft_van_801": 2, "heersers": 2, "wetten": 16, "rustige_jaren": 1580, "macht_eind": {"staat": 0.223, "huizen": 0.05, "kerk": 0.004, "steden": 0.147, "dragers": 0.308, "buren": 0.247, "orrim": 0.007, "volk": 0.013}, "parameters": {"groei": 0.177, "buren_honger": 1.454, "ev": 1.258, "aelthir": 0.322, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0993, seed 420993)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0994
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420994
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 15
+- **scores:** {"fasen": 15, "onopgelost": 9, "magie_min": 0.324, "magie_eind": 0.324, "golven": 9, "assen": {"5": 5, "3": 4, "4": 6}, "rijmt_met_canon": 4, "erft_van_801": 1, "heersers": 3, "wetten": 17, "rustige_jaren": 1940, "macht_eind": {"staat": 0.284, "huizen": 0.059, "kerk": 0.005, "steden": 0.195, "dragers": 0.326, "buren": 0.083, "orrim": 0.033, "volk": 0.015}, "parameters": {"groei": 0.18, "buren_honger": 0.708, "ev": 1.26, "aelthir": 0.288, "filter": 0.041}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0994, seed 420994)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0995
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420995
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 11
+- **scores:** {"fasen": 11, "onopgelost": 12, "magie_min": 0.328, "magie_eind": 0.466, "golven": 14, "assen": {"5": 3, "3": 6, "4": 2}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 16, "rustige_jaren": 1040, "macht_eind": {"staat": 0.254, "huizen": 0.046, "kerk": 0.004, "steden": 0.115, "dragers": 0.257, "buren": 0.287, "orrim": 0.026, "volk": 0.011}, "parameters": {"groei": 0.133, "buren_honger": 1.433, "ev": 0.828, "aelthir": 0.662, "filter": 0.035}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0995, seed 420995)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0996
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420996
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 12
+- **scores:** {"fasen": 12, "onopgelost": 7, "magie_min": 0.33, "magie_eind": 0.337, "golven": 9, "assen": {"5": 5, "4": 6, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 15, "rustige_jaren": 1740, "macht_eind": {"staat": 0.265, "huizen": 0.055, "kerk": 0.005, "steden": 0.2, "dragers": 0.261, "buren": 0.17, "orrim": 0.032, "volk": 0.013}, "parameters": {"groei": 0.172, "buren_honger": 0.928, "ev": 1.003, "aelthir": 0.398, "filter": 0.027}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0996, seed 420996)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0997
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420997
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 6, "magie_min": 0.257, "magie_eind": 0.301, "golven": 14, "assen": {"5": 3, "4": 3, "3": 4}, "rijmt_met_canon": 3, "erft_van_801": 0, "heersers": 3, "wetten": 16, "rustige_jaren": 2620, "macht_eind": {"staat": 0.249, "huizen": 0.046, "kerk": 0.004, "steden": 0.226, "dragers": 0.241, "buren": 0.196, "orrim": 0.026, "volk": 0.012}, "parameters": {"groei": 0.154, "buren_honger": 1.109, "ev": 1.178, "aelthir": 0.34, "filter": 0.047}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0997, seed 420997)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0998
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420998
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 4, "magie_min": 0.338, "magie_eind": 0.492, "golven": 9, "assen": {"5": 6, "4": 4}, "rijmt_met_canon": 2, "erft_van_801": 1, "heersers": 1, "wetten": 14, "rustige_jaren": 2100, "macht_eind": {"staat": 0.321, "huizen": 0.058, "kerk": 0.005, "steden": 0.159, "dragers": 0.184, "buren": 0.251, "orrim": 0.008, "volk": 0.013}, "parameters": {"groei": 0.181, "buren_honger": 1.116, "ev": 0.806, "aelthir": 0.557, "filter": 0.026}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0998, seed 420998)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-0999
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 420999
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 10
+- **scores:** {"fasen": 10, "onopgelost": 13, "magie_min": 0.344, "magie_eind": 0.447, "golven": 15, "assen": {"5": 4, "4": 5, "3": 1}, "rijmt_met_canon": 3, "erft_van_801": 1, "heersers": 2, "wetten": 17, "rustige_jaren": 1140, "macht_eind": {"staat": 0.298, "huizen": 0.076, "kerk": 0.005, "steden": 0.119, "dragers": 0.212, "buren": 0.247, "orrim": 0.03, "volk": 0.014}, "parameters": {"groei": 0.209, "buren_honger": 0.992, "ev": 1.005, "aelthir": 0.683, "filter": 0.056}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-0999, seed 420999)
+<!-- /REC -->
+<!-- REC sim_run -->
+### None · None
+- **run_id:** Z43-GESCH-1000
+- **module:** geschiedenis_z43
+- **fase_nr:** 9
+- **seed:** 421000
+- **geldig:** 1
+- **reden:** 
+- **n_gebeurtenis:** 14
+- **scores:** {"fasen": 14, "onopgelost": 11, "magie_min": 0.357, "magie_eind": 0.407, "golven": 13, "assen": {"5": 6, "3": 3, "4": 5}, "rijmt_met_canon": 4, "erft_van_801": 0, "heersers": 2, "wetten": 16, "rustige_jaren": 940, "macht_eind": {"staat": 0.274, "huizen": 0.078, "kerk": 0.005, "steden": 0.152, "dragers": 0.234, "buren": 0.213, "orrim": 0.031, "volk": 0.014}, "parameters": {"groei": 0.182, "buren_honger": 1.18, "ev": 1.281, "aelthir": 0.33, "filter": 0.03}}
+- **pareto_rang:** 
+- **gewogen:** 
+- **gekozen:** 0
+- **bron:** r_Z43.py
+- **epistemiek:** simulatie (Z43-GESCH-1000, seed 421000)
+<!-- /REC -->
 
 <!-- SECTIE: SIM_GEBEURTENIS -->
