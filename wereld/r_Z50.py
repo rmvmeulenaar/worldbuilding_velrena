@@ -108,6 +108,7 @@ def voeg_pad(p, bron):
     c.execute(f"insert into verhaal_profiel({','.join(cols)}) values({','.join('?' * len(cols))})", v); S['pad_nieuw'] += 1
     wijz(code, 'toegevoegd', 'verhaal_profiel', None, 'voorlopig')
 def stap_paden():
+    alle = []
     for k in 'ABC':
         pad = f'z50/paden_{k}.yaml'
         if not os.path.exists(pad): print('ontbreekt', pad); continue
@@ -117,6 +118,15 @@ def stap_paden():
         for p in d['personen']:
             p = dict(p); p.setdefault('geslacht', next((x['hp']['geslacht'] for x in d['paden'] if x['persoon'] == p['code']), 'v'))
             voeg_persoon(p, int(p.get('tijdperk') or tf.get(p['code'], 9)))
+        alle.append((k, d))
+    for k, d in alle:  # tweede ronde: links tussen personen, nu ze allemaal bestaan
+        for p in d['personen']:
+            r = c.execute('select verwijst_naar from canon where code=?', (p['code'],)).fetchone()
+            if not r: continue
+            refs = [lev(x) for x in (p.get('afstamming') or []) + (p.get('verbonden_met') or []) if bestaat(x)]
+            nw = ';'.join(dict.fromkeys((r[0] or '').split(';') + refs))
+            if nw != r[0]: c.execute('update canon set verwijst_naar=?,hangt_samen_met=? where code=?', (nw, nw, p['code']))
+    for k, d in alle:
         for x in d['paden']: voeg_pad(x, f'schrijver {k} (Z50)')
     toets('paden')
 
