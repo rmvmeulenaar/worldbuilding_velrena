@@ -881,5 +881,11 @@
 - **datum:** 2026-11-01
 - **wat:** Ronde Z34: geen sjablonen. Herhaling gemeten (z34/meet.py), sjabloonfamilies vastgelegd (sjabloon_familie/sjabloon_lid, v_sjabloon), 952 catalogusrijen als ideeënbank gemarkeerd zonder tekstwijziging, 4 regels (R-sjabloon_nieuw, R-herhaling_categorie, R-boog_uniek, R-personage_fout_uniek), bogen en personages elk een eigen vorm/fout (BESLUIT-Z34-1..4, VERHAAL-Z34-*). Niets verwijderd; Kern en roman niet aangeraakt.
 <!-- /REC -->
+<!-- REC logboek -->
+### 148 · 2026-11-02
+- **id:** 148
+- **datum:** 2026-11-02
+- **wat:** Ronde Z42: geschiedenismotor na 801 (z42/geschiedenis.py). 17 motorregels (sim_regel GESCH-*), 19 gebeurtenissoorten (gesch_*), 1000 runs (Z42-GESCH-0001..1000), zes gekozen runs met alle details (fasen, gebeurtenissen, wetten, huizen, rustige tijden, toestand per eeuw, verhaal van 801, wezens), zes open keuzes (KEUZE-Z42-*). Alles simulatie of aanname; niets in de canon gezet. Uitleg: z42/LEESMIJ.md.
+<!-- /REC -->
 
 <!-- SECTIE: ANKER -->

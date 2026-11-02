@@ -1494,5 +1494,109 @@
 - **bron:** r_Z40.py
 - **citaat:** De bouwer had geen credits; de architect bouwde Z40 en keurde het zelf. Dat breekt de regel 'één bouwt, de ander toetst'.
 <!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-bodem · De magie verdwijnt nooit: de Orrim zijn de bodem
+- **code:** KEUZE-Z42-bodem
+- **soort:** wereld
+- **onderwerp:** De magie verdwijnt nooit: de Orrim zijn de bodem
+- **aanbeveling:** Bevestig dat de magie na 801 nooit nul wordt omdat Orrim-steen blijft groeien, of kies een andere bron voor de bodem.
+- **raakt:** GESCH-bodem;D1-orrim-dood;VOLK-orrim
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Rogier (2026-11-02): de magie moet op een bepaald niveau blijven, golvend, en nooit verdwijnen.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-golf · De magie golft met gesloten en open tijden
+- **code:** KEUZE-Z42-golf
+- **soort:** wereld
+- **onderwerp:** De magie golft met gesloten en open tijden
+- **aanbeveling:** Bevestig dat gesloten dragerlijnen de magie laten oplaaien en handel en steden haar verdunnen.
+- **raakt:** GESCH-golf;ORIGIN-10-Z36
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Rogier (2026-11-02): golvend, en het komt in fasen terug.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-verhouding · Na 801 verslapt de filter langzaam
+- **code:** KEUZE-Z42-verhouding
+- **soort:** wereld
+- **onderwerp:** Na 801 verslapt de filter langzaam
+- **aanbeveling:** Bevestig dat de verhouding over eeuwen naar de helft schuift en dat de Deelwet en de rechteloosheid van gewone mannen daardoor vervallen.
+- **raakt:** GESCH-filter;GESCH-wetten;ORIGIN-10-Z36;WET-deelwet-recht
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Rogier (2026-11-02): die verhouding moeten we beter krijgen, en mensen moeten gaven gewoon kunnen doorgeven.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-tijden · De tijden na 801 als simulatie of als canon
+- **code:** KEUZE-Z42-tijden
+- **soort:** verhaal
+- **onderwerp:** De tijden na 801 als simulatie of als canon
+- **aanbeveling:** Laat de 1000 geschiedenissen en de zes gekozen runs eerst door een ander nakijken; kies daarna welke run of welke tijden canon worden.
+- **raakt:** GESCH-rijm;GESCH-spiraal
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Rogier (2026-11-02): als het goed is, gaan we het als canon inzetten; de test is dat een ander de database nakijkt.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-rust · Rustige tijden horen bij de geschiedenis
+- **code:** KEUZE-Z42-rust
+- **soort:** verhaal
+- **onderwerp:** Rustige tijden horen bij de geschiedenis
+- **aanbeveling:** Bevestig dat eeuwen zonder crisis een eigen soort tijd zijn, met verhalen op de schaal van huis en dorp.
+- **raakt:** GESCH-rust
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Rogier (2026-11-02): soms is dat zo; je kan ook in rustige tijden mooie verhalen vertellen.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-mythe · Het verhaal van 801 verbastert per eeuw
+- **code:** KEUZE-Z42-mythe
+- **soort:** verhaal
+- **onderwerp:** Het verhaal van 801 verbastert per eeuw
+- **aanbeveling:** Bevestig de reeks van trouw naar kinderrijm en de twee takken (heilige of heks) naar wie vertelt.
+- **raakt:** GESCH-verhaal801;BESLUIT-Z18b-2
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Rogier (2026-11-02): over vele generaties worden het andere dingen, en dat is leuk.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-sleutelbreuk · Wanneer brak de instemmingssleutel?
+- **code:** KEUZE-Z42-sleutelbreuk
+- **soort:** wrijving
+- **onderwerp:** Wanneer brak de instemmingssleutel?
+- **aanbeveling:** Kies één jaar: bij de landing (-1240, HAAK-Z17-zegel-6, vastgesteld) of bij de val van de Sterrensteen (-480, ORIGIN-9 en ORIGIN-WAAROM-9, voorlopig). De motor na 801 hangt er niet van af, de magie vóór 0 wel.
+- **raakt:** HAAK-Z17-zegel-6;ORIGIN-9;ORIGIN-WAAROM-9
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Gevonden bij het lezen voor Z42: twee rijen noemen een ander jaar voor dezelfde breuk.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-vesanath · Ves-Anath ontruimd in 603 of in 610?
+- **code:** KEUZE-Z42-vesanath
+- **soort:** wrijving
+- **onderwerp:** Ves-Anath ontruimd in 603 of in 610?
+- **aanbeveling:** Kies één jaar. GEB-ves-anath-ontruimd zegt 603, ZINT-Z4-tijdperk-11-b zegt 610.
+- **raakt:** GEB-ves-anath-ontruimd;ZINT-Z4-tijdperk-11-b
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Gevonden bij het lezen voor Z42.
+<!-- /REC -->
 
 <!-- SECTIE: VERHAAL_AS -->

@@ -475,5 +475,243 @@
 - **status:** voorlopig
 - **epistemiek:** aanname (parameter gekozen in Z40; bron GEB-pest-340)
 <!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-filter · Na 801 verslapt de X-filter: het aandeel jongens schuift per 20 jaar met een vaste fractie naar de helft; het aantal dragers blijft gelijk, dus een steeds kleiner deel van de mannen kan lading dragen.
+- **code:** GESCH-filter
+- **module:** geschiedenis
+- **omschrijving:** Na 801 verslapt de X-filter: het aandeel jongens schuift per 20 jaar met een vaste fractie naar de helft; het aantal dragers blijft gelijk, dus een steeds kleiner deel van de mannen kan lading dragen.
+- **parameter:** filter
+- **waarde:** 0,02 tot 0,06 per stap (per run getrokken)
+- **bron_code:** ORIGIN-10-Z36;BESLUIT-Z36-4
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron ORIGIN-10-Z36;BESLUIT-Z36-4)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-bodem · De magie heeft een bodem: Orrim sterven niet maar verstenen tot groeve, in hun lichaam groeit Sterrensteen, en wat er gemijnd wordt houdt de lading in de wereld.
+- **code:** GESCH-bodem
+- **module:** geschiedenis
+- **omschrijving:** De magie heeft een bodem: Orrim sterven niet maar verstenen tot groeve, in hun lichaam groeit Sterrensteen, en wat er gemijnd wordt houdt de lading in de wereld.
+- **parameter:** bodem
+- **waarde:** 0,12 plus mijnopbrengst
+- **bron_code:** D1-orrim-dood;VOLK-orrim;D1-orrim-geld
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron D1-orrim-dood;VOLK-orrim;D1-orrim-geld)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-golf · De magie golft met de edelen: sluiten de dragerlijnen zich af, dan komt de lading samen; opent de wereld zich door handel en steden, dan verdunt ze.
+- **code:** GESCH-golf
+- **module:** geschiedenis
+- **omschrijving:** De magie golft met de edelen: sluiten de dragerlijnen zich af, dan komt de lading samen; opent de wereld zich door handel en steden, dan verdunt ze.
+- **parameter:** golf
+- **waarde:** 0,55 maal concentratie
+- **bron_code:** ORIGIN-10-Z36;GAVE-Z37-ja
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron ORIGIN-10-Z36;GAVE-Z37-ja)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-piek · Vondsten laten de magie kort oplaaien: de negen cellen van Hesta, de reservekern van de Harrow, splinters Sterrensteen. Een piek dooft met een kwart per stap.
+- **code:** GESCH-piek
+- **module:** geschiedenis
+- **omschrijving:** Vondsten laten de magie kort oplaaien: de negen cellen van Hesta, de reservekern van de Harrow, splinters Sterrensteen. Een piek dooft met een kwart per stap.
+- **parameter:** puls
+- **waarde:** 0,2 tot 0,5
+- **bron_code:** YSA-Z21-3;ORIGIN-Z1-harrow;ORIGIN-8
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron YSA-Z21-3;ORIGIN-Z1-harrow;ORIGIN-8)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-verdunning · Over de eeuwen verdunt de geërfde lading omdat niets haar voedt zoals het Zegel deed; de golf wordt kleiner maar nooit nul.
+- **code:** GESCH-verdunning
+- **module:** geschiedenis
+- **omschrijving:** Over de eeuwen verdunt de geërfde lading omdat niets haar voedt zoals het Zegel deed; de golf wordt kleiner maar nooit nul.
+- **parameter:** verdun
+- **waarde:** 0,35 + 0,65·e^(-(jaar-801)/1500)
+- **bron_code:** BESLUIT-2;BESLUIT-Z36-4
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron BESLUIT-2;BESLUIT-Z36-4)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-bevolking · Bevolking groeit tot het voedsel op is; techniek en dragers op de akkers verhogen het voedsel; honger is druk boven 93 procent.
+- **code:** GESCH-bevolking
+- **module:** geschiedenis
+- **omschrijving:** Bevolking groeit tot het voedsel op is; techniek en dragers op de akkers verhogen het voedsel; honger is druk boven 93 procent.
+- **parameter:** groei
+- **waarde:** 0,12 tot 0,22 per stap
+- **bron_code:** FASE-overvloed
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron FASE-overvloed)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-elite · Edelen groeien in aantal als het volk goedkoop is; te veel edelen en een lege kas geven een strijd om posities (golf van eeuwen).
+- **code:** GESCH-elite
+- **module:** geschiedenis
+- **omschrijving:** Edelen groeien in aantal als het volk goedkoop is; te veel edelen en een lege kas geven een strijd om posities (golf van eeuwen).
+- **parameter:** elite
+- **waarde:** drempel 1,4
+- **bron_code:** FASE-markt
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron FASE-markt)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-staat · De staat leeft van belasting naar bevolking en geloof en betaalt de edelen; zakt de kas onder 0,12, dan is ze blut.
+- **code:** GESCH-staat
+- **module:** geschiedenis
+- **omschrijving:** De staat leeft van belasting naar bevolking en geloof en betaalt de edelen; zakt de kas onder 0,12, dan is ze blut.
+- **parameter:** kas
+- **waarde:** drempel 0,12
+- **bron_code:** FASE-barsten
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron FASE-barsten)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-buren · Kharvos wordt elke stap hongeriger; is het sterker dan kas maal bevolking maal lading, dan valt het aan.
+- **code:** GESCH-buren
+- **module:** geschiedenis
+- **omschrijving:** Kharvos wordt elke stap hongeriger; is het sterker dan kas maal bevolking maal lading, dan valt het aan.
+- **parameter:** buren
+- **waarde:** 0,5 tot 1,5 honger
+- **bron_code:** REG-kharvos-B1;ORIGIN-Z1-harrow
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron REG-kharvos-B1;ORIGIN-Z1-harrow)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-techniek · Techniek groeit in rust en openheid en trager waar magie het werk doet; bij vijf drempels komt een uitvinding.
+- **code:** GESCH-techniek
+- **module:** geschiedenis
+- **omschrijving:** Techniek groeit in rust en openheid en trager waar magie het werk doet; bij vijf drempels komt een uitvinding.
+- **parameter:** techniek
+- **waarde:** drempels 0,2 0,35 0,5 0,65 0,8
+- **bron_code:** ORIGIN-4;ORIGIN-2
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron ORIGIN-4;ORIGIN-2)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-geloof · Geloof groeit met de macht van de kerk en slijt met de techniek; onder 0,38 wankelt het.
+- **code:** GESCH-geloof
+- **module:** geschiedenis
+- **omschrijving:** Geloof groeit met de macht van de kerk en slijt met de techniek; onder 0,38 wankelt het.
+- **parameter:** geloof
+- **waarde:** drempel 0,38
+- **bron_code:** REGEL-seksuele-normen
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron REGEL-seksuele-normen)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-verhaal801 · Het verhaal van 801 wordt per stap minder trouw verteld; sneller als kerk, huizen of dragers vertellen, trager met het geheugen van de Aelthir en met techniek; kerk en huizen maken er een heilige van, dragers en buren een heks.
+- **code:** GESCH-verhaal801
+- **module:** geschiedenis
+- **omschrijving:** Het verhaal van 801 wordt per stap minder trouw verteld; sneller als kerk, huizen of dragers vertellen, trager met het geheugen van de Aelthir en met techniek; kerk en huizen maken er een heilige van, dragers en buren een heks.
+- **parameter:** trouw
+- **waarde:** start 0,6
+- **bron_code:** BESLUIT-Z36-4;BESLUIT-Z18b-2;VOLK-aelthir-V5
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron BESLUIT-Z36-4;BESLUIT-Z18b-2;VOLK-aelthir-V5)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-wezens · Lading die wordt doorgegeven aan wie haar niet kan dragen, maakt nachtvlerken; de omweg werkt op slapers. Wezenlijnen schuiven van slachtoffer naar groep, volk, monster en sprookje; afzondering versnelt dat.
+- **code:** GESCH-wezens
+- **module:** geschiedenis
+- **omschrijving:** Lading die wordt doorgegeven aan wie haar niet kan dragen, maakt nachtvlerken; de omweg werkt op slapers. Wezenlijnen schuiven van slachtoffer naar groep, volk, monster en sprookje; afzondering versnelt dat.
+- **parameter:** nacht
+- **waarde:** 0,12 maal magie maal openheid maal niet-dragers
+- **bron_code:** ORIGIN-WAAROM-9;NAV-wormwording-B1;BESLUIT-Z6-WRIJ-065
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron ORIGIN-WAAROM-9;NAV-wormwording-B1;BESLUIT-Z6-WRIJ-065)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-rijm · Een noodoplossing moet op minstens 3 van 5 assen (beslisser, betaler, vervalst, ontdekt, schaal) verschillen van de vorige fase, zoals R-rijm_assen voor fase_rijm.
+- **code:** GESCH-rijm
+- **module:** geschiedenis
+- **omschrijving:** Een noodoplossing moet op minstens 3 van 5 assen (beslisser, betaler, vervalst, ontdekt, schaal) verschillen van de vorige fase, zoals R-rijm_assen voor fase_rijm.
+- **parameter:** rijm
+- **waarde:** 3 van 5
+- **bron_code:** BESLUIT-Z36-4
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron BESLUIT-Z36-4)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-spiraal · Een noodoplossing komt pas na 600 jaar terug; uitvindingen, vondsten, het kleine zegel en het Orrim-recht maar één keer.
+- **code:** GESCH-spiraal
+- **module:** geschiedenis
+- **omschrijving:** Een noodoplossing komt pas na 600 jaar terug; uitvindingen, vondsten, het kleine zegel en het Orrim-recht maar één keer.
+- **parameter:** spiraal
+- **waarde:** 600 jaar
+- **bron_code:** BESLUIT-Z36-4
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron BESLUIT-Z36-4)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-rust · Twee eeuwen zonder crisis is een rustige tijd: verhalen op de schaal van huis en dorp.
+- **code:** GESCH-rust
+- **module:** geschiedenis
+- **omschrijving:** Twee eeuwen zonder crisis is een rustige tijd: verhalen op de schaal van huis en dorp.
+- **parameter:** rust
+- **waarde:** 200 jaar
+- **bron_code:** FASE-overvloed
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron FASE-overvloed)
+<!-- /REC -->
+<!-- REC sim_regel -->
+### GESCH-wetten · Wetten volgen de verhouding: boven 12 procent jongens vervalt de Deelwet, boven 25 procent krijgen mannen bezit, boven 40 procent erven zonen en dochters gelijk. Andere wetten komen en gaan met de noodoplossingen.
+- **code:** GESCH-wetten
+- **module:** geschiedenis
+- **omschrijving:** Wetten volgen de verhouding: boven 12 procent jongens vervalt de Deelwet, boven 25 procent krijgen mannen bezit, boven 40 procent erven zonen en dochters gelijk. Andere wetten komen en gaan met de noodoplossingen.
+- **parameter:** wet
+- **waarde:** 0,12 0,25 0,40
+- **bron_code:** WET-deelwet-recht;WET-wie-gewone-man;WET-erfrecht
+- **aanname:** 1
+- **actief_van:** 801
+- **actief_tot:** 
+- **status:** voorlopig
+- **epistemiek:** aanname (motorontwerp Z42, bron WET-deelwet-recht;WET-wie-gewone-man;WET-erfrecht)
+<!-- /REC -->
 
 <!-- SECTIE: GEBEURTENIS_TYPE -->

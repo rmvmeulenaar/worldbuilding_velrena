@@ -89,5 +89,176 @@
 - **bron_code:** GEB-r10-pest-qesh
 - **epistemiek:** aanname (moduleontwerp Z40, bron GEB-r10-pest-qesh)
 <!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_crisis_honger · Crisis (honger): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **code:** gesch_crisis_honger
+- **module:** geschiedenis
+- **omschrijving:** Crisis (honger): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **invariant:** rijmt op >=3 assen met de vorige fase
+- **bron_code:** GESCH-bevolking
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-bevolking)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_crisis_elitestrijd · Crisis (elitestrijd): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **code:** gesch_crisis_elitestrijd
+- **module:** geschiedenis
+- **omschrijving:** Crisis (elitestrijd): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **invariant:** rijmt op >=3 assen met de vorige fase
+- **bron_code:** GESCH-elite
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-elite)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_crisis_bankroet · Crisis (bankroet): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **code:** gesch_crisis_bankroet
+- **module:** geschiedenis
+- **omschrijving:** Crisis (bankroet): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **invariant:** rijmt op >=3 assen met de vorige fase
+- **bron_code:** GESCH-staat
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-staat)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_crisis_invasie · Crisis (invasie): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **code:** gesch_crisis_invasie
+- **module:** geschiedenis
+- **omschrijving:** Crisis (invasie): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **invariant:** rijmt op >=3 assen met de vorige fase
+- **bron_code:** GESCH-buren
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-buren)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_crisis_epidemie · Crisis (epidemie): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **code:** gesch_crisis_epidemie
+- **module:** geschiedenis
+- **omschrijving:** Crisis (epidemie): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **invariant:** rijmt op >=3 assen met de vorige fase
+- **bron_code:** GESCH-bevolking
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-bevolking)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_crisis_uitvinding · Crisis (uitvinding): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **code:** gesch_crisis_uitvinding
+- **module:** geschiedenis
+- **omschrijving:** Crisis (uitvinding): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **invariant:** rijmt op >=3 assen met de vorige fase
+- **bron_code:** GESCH-techniek
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-techniek)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_crisis_geloof · Crisis (geloof): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **code:** gesch_crisis_geloof
+- **module:** geschiedenis
+- **omschrijving:** Crisis (geloof): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **invariant:** rijmt op >=3 assen met de vorige fase
+- **bron_code:** GESCH-geloof
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-geloof)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_crisis_opleving · Crisis (opleving): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **code:** gesch_crisis_opleving
+- **module:** geschiedenis
+- **omschrijving:** Crisis (opleving): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **invariant:** rijmt op >=3 assen met de vorige fase
+- **bron_code:** GESCH-golf
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-golf)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_crisis_orrim · Crisis (orrim): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **code:** gesch_crisis_orrim
+- **module:** geschiedenis
+- **omschrijving:** Crisis (orrim): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **invariant:** rijmt op >=3 assen met de vorige fase
+- **bron_code:** GESCH-bodem
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-bodem)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_crisis_wezens · Crisis (wezens): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **code:** gesch_crisis_wezens
+- **module:** geschiedenis
+- **omschrijving:** Crisis (wezens): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **invariant:** rijmt op >=3 assen met de vorige fase
+- **bron_code:** GESCH-wezens
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-wezens)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_crisis_vondst · Crisis (vondst): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **code:** gesch_crisis_vondst
+- **module:** geschiedenis
+- **omschrijving:** Crisis (vondst): de druk passeert de drempel en de machtigste partij kiest een noodoplossing.
+- **invariant:** rijmt op >=3 assen met de vorige fase
+- **bron_code:** GESCH-techniek
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-techniek)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_gebeurtenis · Een toevallige gebeurtenis (vondst, klimaat, schimmel, trek, archief).
+- **code:** gesch_gebeurtenis
+- **module:** geschiedenis
+- **omschrijving:** Een toevallige gebeurtenis (vondst, klimaat, schimmel, trek, archief).
+- **invariant:** staat in GEBEURTENIS van z42/geschiedenis.py
+- **bron_code:** GESCH-piek
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-piek)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_wet_in · Een wet gaat in.
+- **code:** gesch_wet_in
+- **module:** geschiedenis
+- **omschrijving:** Een wet gaat in.
+- **invariant:** een wet gaat pas uit als ze in is
+- **bron_code:** GESCH-wetten
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-wetten)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_wet_uit · Een wet vervalt.
+- **code:** gesch_wet_uit
+- **module:** geschiedenis
+- **omschrijving:** Een wet vervalt.
+- **invariant:** alleen een geldende wet kan vervallen
+- **bron_code:** GESCH-wetten
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-wetten)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_huis · Een huis ontstaat (met ouderhuis), gaat heersen of valt.
+- **code:** gesch_huis
+- **module:** geschiedenis
+- **omschrijving:** Een huis ontstaat (met ouderhuis), gaat heersen of valt.
+- **invariant:** elk nieuw huis heeft een ouder
+- **bron_code:** GESCH-elite
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-elite)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_rust · Een rustige tijd van minstens 200 jaar.
+- **code:** gesch_rust
+- **module:** geschiedenis
+- **omschrijving:** Een rustige tijd van minstens 200 jaar.
+- **invariant:** geen crisis binnen de periode
+- **bron_code:** GESCH-rust
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-rust)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_toestand · Toestand van de wereld per eeuw: magie, techniek, verhouding, geloof, macht.
+- **code:** gesch_toestand
+- **module:** geschiedenis
+- **omschrijving:** Toestand van de wereld per eeuw: magie, techniek, verhouding, geloof, macht.
+- **invariant:** magie > 0
+- **bron_code:** GESCH-bodem
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-bodem)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_versie801 · Hoe het verhaal van 801 vanaf dit jaar verteld wordt.
+- **code:** gesch_versie801
+- **module:** geschiedenis
+- **omschrijving:** Hoe het verhaal van 801 vanaf dit jaar verteld wordt.
+- **invariant:** trouw daalt behalve na een vondst
+- **bron_code:** GESCH-verhaal801
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-verhaal801)
+<!-- /REC -->
+<!-- REC tech_gebeurtenistype -->
+### gesch_wezen · Een wezenlijn schuift een stadium op.
+- **code:** gesch_wezen
+- **module:** geschiedenis
+- **omschrijving:** Een wezenlijn schuift een stadium op.
+- **invariant:** stadium daalt nooit
+- **bron_code:** GESCH-wezens
+- **epistemiek:** aanname (moduleontwerp Z42, bron GESCH-wezens)
+<!-- /REC -->
 
 <!-- SECTIE: SIM_RUN -->
