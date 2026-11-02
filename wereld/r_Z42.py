@@ -35,7 +35,7 @@ REGELS = [
  ('GESCH-techniek', 'Techniek groeit in rust en openheid en trager waar magie het werk doet; bij vijf drempels komt een uitvinding.', 'techniek', 'drempels 0,2 0,35 0,5 0,65 0,8', 'ORIGIN-4;ORIGIN-2'),
  ('GESCH-geloof', 'Geloof groeit met de macht van de kerk en slijt met de techniek; onder 0,38 wankelt het.', 'geloof', 'drempel 0,38', 'REGEL-seksuele-normen'),
  ('GESCH-verhaal801', 'Het verhaal van 801 wordt per stap minder trouw verteld; sneller als kerk, huizen of dragers vertellen, trager met het geheugen van de Aelthir en met techniek; kerk en huizen maken er een heilige van, dragers en buren een heks.', 'trouw', 'start 0,6', 'BESLUIT-Z36-4;BESLUIT-Z18b-2;VOLK-aelthir-V5'),
- ('GESCH-wezens', 'Lading die wordt doorgegeven aan wie haar niet kan dragen, maakt nachtvlerken; de omweg werkt op slapers. Wezenlijnen schuiven van slachtoffer naar groep, volk, monster en sprookje; afzondering versnelt dat.', 'nacht', '0,12 maal magie maal openheid maal niet-dragers', 'ORIGIN-WAAROM-9;NAV-wormwording-B1;BESLUIT-Z6-WRIJ-065'),
+ ('GESCH-wezens', 'Lading die wordt doorgegeven aan wie haar niet kan dragen, maakt nachtvlerken; de omweg werkt op slapers. Een nachtvlerk ontlaadt via huidcontact op de borst van een slaper (YSA-Z18-1); dat is horror en nooit seks, want een slaper kan niet instemmen (harde lijn). Wezenlijnen schuiven van slachtoffer naar groep, volk, monster en sprookje; afzondering versnelt dat.', 'nacht', '0,12 maal magie maal openheid maal niet-dragers', 'ORIGIN-WAAROM-9;NAV-wormwording-B1;BESLUIT-Z6-WRIJ-065'),
  ('GESCH-rijm', 'Een noodoplossing moet op minstens 3 van 5 assen (beslisser, betaler, vervalst, ontdekt, schaal) verschillen van de vorige fase, zoals R-rijm_assen voor fase_rijm.', 'rijm', '3 van 5', 'BESLUIT-Z36-4'),
  ('GESCH-spiraal', 'Een noodoplossing komt pas na 600 jaar terug; uitvindingen, vondsten, het kleine zegel en het Orrim-recht maar één keer.', 'spiraal', '600 jaar', 'BESLUIT-Z36-4'),
  ('GESCH-rust', 'Twee eeuwen zonder crisis is een rustige tijd: verhalen op de schaal van huis en dorp.', 'rust', '200 jaar', 'FASE-overvloed'),
@@ -135,6 +135,8 @@ KEUZES = [
   'Rogier (2026-11-02): soms is dat zo; je kan ook in rustige tijden mooie verhalen vertellen.'),
  ('KEUZE-Z42-mythe', 'verhaal', 'Het verhaal van 801 verbastert per eeuw', 'Bevestig de reeks van trouw naar kinderrijm en de twee takken (heilige of heks) naar wie vertelt.', 'GESCH-verhaal801;BESLUIT-Z18b-2',
   'Rogier (2026-11-02): over vele generaties worden het andere dingen, en dat is leuk.'),
+ ('KEUZE-Z42-bodem-bron', 'wereld', 'Waar komt de bodem van de magie vandaan: steen of vonkcellen?', 'Verplaats de bodem van de Orrim-steen naar de vonkcellen: levende, erfelijke cellen die verdunnen maar niet uitsterven zolang er dragerlijnen zijn (YSA-Z18-1, ORIGIN-10-Z36). De Sterrensteen wordt dan versterker en lezer (ORIGIN-5), en groeit alleen uit mineralen bij Orrim-voortplanting (VOLK-orrim).', 'YSA-Z18-1;ORIGIN-10-Z36;ORIGIN-5;VOLK-orrim;D1-orrim-dood',
+  'Review 1 (2026-11-02): groeiende Orrim-steen is nog geen groeiende lading; de bodem is als canonafleiding niet bewezen.'),
  ('KEUZE-Z42-sleutelbreuk', 'wrijving', 'Wanneer brak de instemmingssleutel?', 'Kies één jaar: bij de landing (-1240, HAAK-Z17-zegel-6, vastgesteld) of bij de val van de Sterrensteen (-480, ORIGIN-9 en ORIGIN-WAAROM-9, voorlopig). De motor na 801 hangt er niet van af, de magie vóór 0 wel.', 'HAAK-Z17-zegel-6;ORIGIN-9;ORIGIN-WAAROM-9',
   'Gevonden bij het lezen voor Z42: twee rijen noemen een ander jaar voor dezelfde breuk.'),
  ('KEUZE-Z42-vesanath', 'wrijving', 'Ves-Anath ontruimd in 603 of in 610?', 'Kies één jaar. GEB-ves-anath-ontruimd zegt 603, ZINT-Z4-tijdperk-11-b zegt 610.', 'GEB-ves-anath-ontruimd;ZINT-Z4-tijdperk-11-b',
@@ -144,6 +146,18 @@ for code, soort, ond, aanb, raakt, citaat in KEUZES:
     bestaat(raakt.replace('GESCH-bodem','').replace('GESCH-golf','').replace('GESCH-filter','').replace('GESCH-wetten','').replace('GESCH-rijm','').replace('GESCH-spiraal','').replace('GESCH-rust','').replace('GESCH-verhaal801',''))
     S['keuze'] += c.execute('insert or ignore into keuze(code,soort,onderwerp,aanbeveling,raakt,status,bron,citaat) values(?,?,?,?,?,?,?,?)',
         (code, soort, ond, aanb, raakt, 'open', 'r_Z42.py', citaat)).rowcount
+
+# ---------- 5 veiligheid na review (2026-11-02): rijen die al bestonden bijwerken ----------
+def wijz(code, veld, oud, nieuw):
+    S['wijziging'] += c.execute('insert or ignore into wijziging(ronde,code,soort,veld,oud,nieuw,datum,bron) values(?,?,?,?,?,?,?,?)',
+        (RD, code, 'gewijzigd', veld, oud, nieuw, DT, 'r_Z42.py')).rowcount
+nieuw = dict((x[0], x[1]) for x in REGELS)['GESCH-wezens']
+oud = c.execute("select omschrijving from sim_regel where code='GESCH-wezens'").fetchone()[0]
+if oud != nieuw:
+    c.execute("update sim_regel set omschrijving=? where code='GESCH-wezens'", (nieuw,)); wijz('GESCH-wezens', 'sim_regel.omschrijving (harde lijn expliciet)', oud, nieuw)
+zp = G.WET['smeden'][1]
+for i, d in c.execute("select id,detail from sim_gebeurtenis where module=? and doel='W-zegelplicht' and detail!=?", (MOD, zp)).fetchall():
+    c.execute('update sim_gebeurtenis set detail=? where id=?', (zp, i)); wijz(f'sim_gebeurtenis:{i}', 'detail (harde lijn expliciet)', d, zp)
 if not c.execute("select 1 from logboek where wat like 'Ronde Z42:%'").fetchone():
     c.execute('insert into logboek(datum,wat) values(?,?)', (DT, 'Ronde Z42: geschiedenismotor na 801 (z42/geschiedenis.py). 17 motorregels (sim_regel GESCH-*), 19 gebeurtenissoorten (gesch_*), 1000 runs (Z42-GESCH-0001..1000), zes gekozen runs met alle details (fasen, gebeurtenissen, wetten, huizen, rustige tijden, toestand per eeuw, verhaal van 801, wezens), acht open keuzes (KEUZE-Z42-*, waarvan twee wrijvingen in de bestaande canon). Alles simulatie of aanname; niets in de canon gezet. Uitleg: z42/LEESMIJ.md.')); S['logboek'] += 1
 afgeleid.bouw(c); c.commit()

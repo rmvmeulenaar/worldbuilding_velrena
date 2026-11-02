@@ -644,10 +644,10 @@
 - **epistemiek:** aanname (motorontwerp Z42, bron BESLUIT-Z36-4;BESLUIT-Z18b-2;VOLK-aelthir-V5)
 <!-- /REC -->
 <!-- REC sim_regel -->
-### GESCH-wezens · Lading die wordt doorgegeven aan wie haar niet kan dragen, maakt nachtvlerken; de omweg werkt op slapers. Wezenlijnen schuiven van slachtoffer naar groep, volk, monster en sprookje; afzondering versnelt dat.
+### GESCH-wezens · Lading die wordt doorgegeven aan wie haar niet kan dragen, maakt nachtvlerken; de omweg werkt op slapers. Een nachtvlerk ontlaadt via huidcontact op de borst van een slaper (YSA-Z18-1); dat is horror en nooit seks, want een slaper kan niet instemmen (harde lijn). Wezenlijnen schuiven van slachtoffer naar groep, volk, monster en sprookje; afzondering versnelt dat.
 - **code:** GESCH-wezens
 - **module:** geschiedenis
-- **omschrijving:** Lading die wordt doorgegeven aan wie haar niet kan dragen, maakt nachtvlerken; de omweg werkt op slapers. Wezenlijnen schuiven van slachtoffer naar groep, volk, monster en sprookje; afzondering versnelt dat.
+- **omschrijving:** Lading die wordt doorgegeven aan wie haar niet kan dragen, maakt nachtvlerken; de omweg werkt op slapers. Een nachtvlerk ontlaadt via huidcontact op de borst van een slaper (YSA-Z18-1); dat is horror en nooit seks, want een slaper kan niet instemmen (harde lijn). Wezenlijnen schuiven van slachtoffer naar groep, volk, monster en sprookje; afzondering versnelt dat.
 - **parameter:** nacht
 - **waarde:** 0,12 maal magie maal openheid maal niet-dragers
 - **bron_code:** ORIGIN-WAAROM-9;NAV-wormwording-B1;BESLUIT-Z6-WRIJ-065

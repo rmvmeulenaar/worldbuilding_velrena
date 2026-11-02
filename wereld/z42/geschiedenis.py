@@ -12,7 +12,34 @@ AXES = ['beslisser','betaler','vervalst','ontdekt','schaal']
 def O(i, naam, beslisser, betaler, vervalst, ontdekt, schaal, blijvend, **eff):
     return dict(id=i, naam=naam, beslisser=beslisser, betaler=betaler, vervalst=vervalst, ontdekt=ontdekt, schaal=schaal, blijvend=blijvend, eff=eff)
 
-WET = {'graanwet': ('W-graanwet', 'De graanwet: de oogst gaat eerst naar de schuren van de kroon', []), 'kloostermaal': ('W-kloosterhorig', 'Wie van het klooster eet, staat ingeschreven bij het klooster', []), 'ambtsadel': ('W-ambtsadel', 'Titels zijn ambten en kunnen gekocht worden', []), 'verbanning': ('W-zonenbanning', 'Tweede zonen van edelen mogen het rijk niet in', []), 'dragerstoernooi': ('W-toernooirecht', 'Rang onder dragers wordt beslecht in het toernooi', []), 'munt': ('W-muntrecht', 'Belasting en schuld worden in munt betaald, niet in zaad', ['WET-erfrecht']), 'steenmunt': ('W-steendekking', 'De munt is gedekt door Orrim-steen', []), 'bankiers': ('W-schuldrecht', 'Staatsschuld is verhandelbaar', []), 'verdedigingsbond': ('W-pasbond', 'De vorsten van de bond leveren elk een leger aan de pas', []), 'schimmelmuren': ('W-ringrecht', 'Wie besmet is, woont in de buitenring', []), 'brandritueel': ('W-lijkbrand', 'De doden worden verbrand', []), 'artsengilde': ('W-artsenrecht', 'Alleen het artsengilde mag lijken openen', []), 'nieuwkerk': ('W-jarecht', 'Niemand mag ja zeggen namens een ander lichaam', ['WET-wie-gewone-man', 'WET-deelwet-recht']), 'ketterjacht': ('W-ketterwet', 'Twijfel aan de kerk is een misdaad', []), 'ongeloof': ('W-vrijgeloof', 'Geloof is een eigen zaak', ['W-ketterwet']), 'dragerskoningen': ('W-ladingkroon', 'De kroon gaat naar de sterkste drager', ['W-gaveverbod']), 'gaveverbod': ('W-gaveverbod', 'Een gave gebruiken is verboden', ['WET-wie-gaven-man', 'RECHT-gavenrecht', 'W-ladingkroon']), 'smeden': ('W-zegelplicht', 'Wie het kleine zegel dient, laat zich binden', []), 'lijnhuwelijk': ('W-lijnwet', 'Dragers trouwen alleen met dragers', []), 'orrimrecht': ('W-orrimdoden', 'De Orrim houden hun doden; mijnen in een groeve is grafroof', ['W-orrimfok', 'WET-wie-vreemd-volk']), 'orrimfok': ('W-orrimfok', 'De Orrim zijn fokbezit van de mijnhuizen', ['W-orrimdoden']), 'jachtorde': ('W-jachtrecht', 'Wie een wezen doodt, krijgt het land waar het leefde', []), 'grensverdrag': ('W-wezengrens', 'Het wezenvolk heeft een eigen land achter een heilige grens', ['W-jachtrecht']), 'nachtwet': ('W-nachtwet', 'Niemand slaapt alleen; een open raam na zonsondergang wordt beboet', []), 'censuur': ('W-boekverbod', 'Boeken over het schip zijn verboden', []), 'erkenning': ('W-schipwaar', 'Het schip is erkend als geschiedenis', ['W-boekverbod'])}
+WET = {
+    'graanwet': ('W-graanwet', 'De graanwet: de oogst gaat eerst naar de schuren van de kroon', []),
+    'kloostermaal': ('W-kloosterhorig', 'Wie van het klooster eet, staat ingeschreven bij het klooster', []),
+    'ambtsadel': ('W-ambtsadel', 'Titels zijn ambten en kunnen gekocht worden', []),
+    'verbanning': ('W-zonenbanning', 'Tweede zonen van edelen mogen het rijk niet in', []),
+    'dragerstoernooi': ('W-toernooirecht', 'Rang onder dragers wordt beslecht in het toernooi', []),
+    'munt': ('W-muntrecht', 'Belasting en schuld worden in munt betaald, niet in zaad', ['WET-erfrecht']),
+    'steenmunt': ('W-steendekking', 'De munt is gedekt door Orrim-steen', []),
+    'bankiers': ('W-schuldrecht', 'Staatsschuld is verhandelbaar', []),
+    'verdedigingsbond': ('W-pasbond', 'De vorsten van de bond leveren elk een leger aan de pas', []),
+    'schimmelmuren': ('W-ringrecht', 'Wie besmet is, woont in de buitenring', []),
+    'brandritueel': ('W-lijkbrand', 'De doden worden verbrand', []),
+    'artsengilde': ('W-artsenrecht', 'Alleen het artsengilde mag lijken openen', []),
+    'nieuwkerk': ('W-jarecht', 'Niemand mag ja zeggen namens een ander lichaam', ['WET-wie-gewone-man', 'WET-deelwet-recht']),
+    'ketterjacht': ('W-ketterwet', 'Twijfel aan de kerk is een misdaad', []),
+    'ongeloof': ('W-vrijgeloof', 'Geloof is een eigen zaak', ['W-ketterwet']),
+    'dragerskoningen': ('W-ladingkroon', 'De kroon gaat naar de sterkste drager', ['W-gaveverbod']),
+    'gaveverbod': ('W-gaveverbod', 'Een gave gebruiken is verboden', ['WET-wie-gaven-man', 'RECHT-gavenrecht', 'W-ladingkroon']),
+    'smeden': ('W-zegelplicht', 'Wie het kleine zegel dient, laat zich in de steen binden, zoals de Dochters in jaar 0 (donker thema; geen seksuele rite)', []),
+    'lijnhuwelijk': ('W-lijnwet', 'Dragers trouwen alleen met dragers', []),
+    'orrimrecht': ('W-orrimdoden', 'De Orrim houden hun doden; mijnen in een groeve is grafroof', ['W-orrimgroeve', 'WET-wie-vreemd-volk']),
+    'orrimgroeve': ('W-orrimgroeve', 'Orrim mogen hun groeve niet verlaten; hun doden zijn mijnbezit (donker thema: gevangenschap, niet-seksueel)', ['W-orrimdoden']),
+    'jachtorde': ('W-jachtrecht', 'Wie een wezen doodt, krijgt het land waar het leefde', []),
+    'grensverdrag': ('W-wezengrens', 'Het wezenvolk heeft een eigen land achter een heilige grens', ['W-jachtrecht']),
+    'nachtwet': ('W-nachtwet', 'Niemand slaapt alleen; een open raam na zonsondergang wordt beboet', []),
+    'censuur': ('W-boekverbod', 'Boeken over het schip zijn verboden', []),
+    'erkenning': ('W-schipwaar', 'Het schip is erkend als geschiedenis', ['W-boekverbod']),
+}
 MENU = {
  'honger': [
   O('graanwet','De graanwet: de staat koopt de oogst op','de kroon','de boeren','hoeveel er in de schuren lag','deels','rijk','Brood is politiek; wie de schuren heeft, heeft het land.', S=-.1, F=.05, L=.05),
@@ -64,7 +91,7 @@ MENU = {
  'orrim': [
   O('orrimopstand','De opstand van de groeven','de Orrim','de mijnwerkers','dat de Orrim ooit mensen waren','ja','regio','De groeven zingen terug; steen is niet meer gratis.', mijn=-.3, orrim=.1, S=-.1),
   O('orrimrecht','De Orrim krijgen het recht op hun doden','een raad van vrouwen','de mijnhuizen','hoeveel er al gemijnd was','ja','rijk','Een volk mag zijn doden houden; wie een groeve roeft, is een grafrover.', mijn=-.25, L=.05),
-  O('orrimfok','De Orrim worden gefokt','de mijnhuizen','de Orrim','dat het mensen zijn','nee','rijk','Een volk is een mijn geworden.', mijn=.3, orrim=.15, M=.1),
+  O('orrimgroeve','De Orrim worden in de groeven vastgehouden','de mijnhuizen','de Orrim','dat het een volk is en geen groeve','nee','rijk','Een volk is een mijn geworden.', mijn=.3, orrim=.15, M=.1),
  ],
  'wezens': [
   O('jachtorde','Een jachtorde wordt gesticht','het jagersgilde','het vervormde volk','dat de wezens mensen waren','nee','regio','Er bestaan monsters, officieel; wie ze doodt, krijgt land.', isolatie=.5),

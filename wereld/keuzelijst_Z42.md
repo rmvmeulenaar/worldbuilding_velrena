@@ -1,6 +1,6 @@
 # Keuzelijst Z42: alleen open beslissingen
 
-Alles uit Z42 is simulatie of aanname tot Rogier hier beslist. Uitleg van de motor: `z42/LEESMIJ.md`.
+Alles uit Z42 is simulatie of aanname tot Rogier hier beslist. Uitleg van de motor: `z42/LEESMIJ.md`. Eerste review: `z42/REVIEW_1.md`.
 
 ## KEUZE-Z42-bodem: De magie verdwijnt nooit: de Orrim zijn de bodem
 
@@ -65,3 +65,11 @@ Raakt: HAAK-Z17-zegel-6, ORIGIN-9, ORIGIN-WAAROM-9
 **Aanbeveling:** Kies één jaar. GEB-ves-anath-ontruimd zegt 603, ZINT-Z4-tijdperk-11-b zegt 610.
 
 Raakt: GEB-ves-anath-ontruimd, ZINT-Z4-tijdperk-11-b
+
+## KEUZE-Z42-bodem-bron: Waar komt de bodem van de magie vandaan: steen of vonkcellen?
+
+> Review 1 (2026-11-02): groeiende Orrim-steen is nog geen groeiende lading; de bodem is als canonafleiding niet bewezen.
+
+**Aanbeveling:** Verplaats de bodem van de Orrim-steen naar de vonkcellen: levende, erfelijke cellen die verdunnen maar niet uitsterven zolang er dragerlijnen zijn (YSA-Z18-1, ORIGIN-10-Z36). De Sterrensteen wordt dan versterker en lezer (ORIGIN-5), en groeit alleen uit mineralen bij Orrim-voortplanting (VOLK-orrim).
+
+Raakt: YSA-Z18-1, ORIGIN-10-Z36, ORIGIN-5, VOLK-orrim, D1-orrim-dood

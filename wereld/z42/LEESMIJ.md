@@ -1,6 +1,6 @@
 # Z42 · De geschiedenismotor na 801
 
-**Status: simulatie en aanname. Niets hiervan is canon.** Rogier beslist via de open keuzes `KEUZE-Z42-*` (tabel `keuze`, en `keuzelijst_Z42.md`). Pas een BESLUIT-rij van Rogier zet iets in de canon.
+**Status: simulatie en aanname. Niets hiervan is canon.** Lees ook `REVIEW_1.md` (eerste nakijkronde en wat daarop is aangepast) en `NAKIJKVRAGEN.md` (de opdracht voor een nakijker). Rogier beslist via de open keuzes `KEUZE-Z42-*` (tabel `keuze`, en `keuzelijst_Z42.md`). Pas een BESLUIT-rij van Rogier zet iets in de canon.
 
 ## Waarom dit bestaat
 
@@ -62,7 +62,7 @@ De exacte formules staan in `z42/geschiedenis.py`. Alle getallen zijn aannames (
   - `gesch_toestand`: per eeuw de hele toestand als JSON (magie, bodem, techniek, aandeel jongens, honger, kas, edelen, geloof, openheid, Orrim, beschaving, tijd, heerser, aantal wetten, machtsverdeling).
   - `gesch_versie801`: vanaf welk jaar het verhaal van 801 anders verteld wordt, en hoe.
   - `gesch_wezen`: een wezenlijn schuift een stadium op (slachtoffer, groep, volk, monster, sprookje), met `canon_code` naar de bron van die lijn.
-- `keuze`: acht open keuzes `KEUZE-Z42-*`.
+- `keuze`: negen open keuzes `KEUZE-Z42-*` (de negende, `KEUZE-Z42-bodem-bron`, komt uit review 1).
 - `logboek`: één regel voor Z42.
 
 In de tekst staat dit in `canon_tekst/057_sim-regel.md`, `059_tech-gebeurtenistype.md`, `060_sim-run.md`, `062_sim-gebeurtenis.md` (en de vervolgdelen) en `042_keuze.md`.

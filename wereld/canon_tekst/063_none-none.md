@@ -67927,7 +67927,7 @@
 - **actor:** wie de fragmenten heeft
 - **doel:** W-zegelplicht
 - **plek_code:** -
-- **detail:** Wie het kleine zegel dient, laat zich binden
+- **detail:** Wie het kleine zegel dient, laat zich in de steen binden, zoals de Dochters in jaar 0 (donker thema; geen seksuele rite)
 - **canon_code:** 
 - **status:** voorlopig
 - **epistemiek:** simulatie (Z42-GESCH-0001, seed 420001)
@@ -71079,7 +71079,7 @@
 - **actor:** wie de fragmenten heeft
 - **doel:** W-zegelplicht
 - **plek_code:** -
-- **detail:** Wie het kleine zegel dient, laat zich binden
+- **detail:** Wie het kleine zegel dient, laat zich in de steen binden, zoals de Dochters in jaar 0 (donker thema; geen seksuele rite)
 - **canon_code:** 
 - **status:** voorlopig
 - **epistemiek:** simulatie (Z42-GESCH-0002, seed 420002)
@@ -83255,7 +83255,7 @@
 - **actor:** wie de fragmenten heeft
 - **doel:** W-zegelplicht
 - **plek_code:** -
-- **detail:** Wie het kleine zegel dient, laat zich binden
+- **detail:** Wie het kleine zegel dient, laat zich in de steen binden, zoals de Dochters in jaar 0 (donker thema; geen seksuele rite)
 - **canon_code:** 
 - **status:** voorlopig
 - **epistemiek:** simulatie (Z42-GESCH-0013, seed 420013)

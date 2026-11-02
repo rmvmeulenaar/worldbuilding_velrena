@@ -1598,5 +1598,18 @@
 - **bron:** r_Z42.py
 - **citaat:** Gevonden bij het lezen voor Z42.
 <!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-bodem-bron · Waar komt de bodem van de magie vandaan: steen of vonkcellen?
+- **code:** KEUZE-Z42-bodem-bron
+- **soort:** wereld
+- **onderwerp:** Waar komt de bodem van de magie vandaan: steen of vonkcellen?
+- **aanbeveling:** Verplaats de bodem van de Orrim-steen naar de vonkcellen: levende, erfelijke cellen die verdunnen maar niet uitsterven zolang er dragerlijnen zijn (YSA-Z18-1, ORIGIN-10-Z36). De Sterrensteen wordt dan versterker en lezer (ORIGIN-5), en groeit alleen uit mineralen bij Orrim-voortplanting (VOLK-orrim).
+- **raakt:** YSA-Z18-1;ORIGIN-10-Z36;ORIGIN-5;VOLK-orrim;D1-orrim-dood
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Review 1 (2026-11-02): groeiende Orrim-steen is nog geen groeiende lading; de bodem is als canonafleiding niet bewezen.
+<!-- /REC -->
 
 <!-- SECTIE: VERHAAL_AS -->
