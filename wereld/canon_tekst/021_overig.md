@@ -47640,5 +47640,545 @@
 - **bron_handmatig:** 
 - **epistemiek:** voorstel (Z46, verrijking genre actie)
 <!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-gave-9 · Gaveglas
+- **code:** DRAGER-Z48-gave-9
+- **categorie:** Drager
+- **onderwerp:** Gaveglas
+- **wat:** De laatste gaven-mannen laden zegelglas met hun vonk, en dat glas houdt een warmte vast die op de huid tintelt zoals een Ontvangst. Geliefden dragen het in een kettinkje of leggen het onder het bed. Het geeft geen kracht meer, alleen het gevoel ervan, en elke nacht wordt het iets kouder; wie eraan gewend raakt, voelt zonder glas minder. Na een paar generaties is gaveglas gewoon mooi glas.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** LOT-Z44-gaven-mannen;TECHNO-MIX-V4;MAGIE-kracht-duur;FASE-z44-ja
+- **verwijst_naar:** LOT-Z44-gaven-mannen;TECHNO-MIX-V4;MAGIE-kracht-duur;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De laatste gaven-mannen laden zegelglas met hun vonk, en dat glas houdt een warmte vast die op de huid tintelt zoals een Ontvangst. Geliefden dragen het in een kettinkje of leggen het onder het bed. Het geeft geen kracht meer, alleen het gevoel ervan, en elke nacht wordt het iets kouder; wie eraan gewend raakt, voelt zonder glas minder. Na een paar generaties is gaveglas gewoon mooi glas.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-gave-11 · Sporenroes als vonk
+- **code:** DRAGER-Z48-gave-11
+- **categorie:** Drager
+- **onderwerp:** Sporenroes als vonk
+- **wat:** Als het gaveglas koud is, nemen de Myrrhen-sporen het over: ingeademd maken ze alles intenser, zoals de vonk vroeger deed, en een nuchtere getuige waakt. Het is geen kracht van de Makers maar van de zwam, die geen ja nodig heeft om te groeien maar wel een ja om gedeeld te worden. De prijs zijn dagen van naweeën en soms een herinnering die wegvalt.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** LOT-Z44-gaven-mannen;VOOR-sporenroes;KINK-Z8-55;VOLK-myrrhen-Z6;FASE-z44-helden
+- **verwijst_naar:** LOT-Z44-gaven-mannen;VOOR-sporenroes;KINK-Z8-55;VOLK-myrrhen-Z6;FASE-z44-helden
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Als het gaveglas koud is, nemen de Myrrhen-sporen het over: ingeademd maken ze alles intenser, zoals de vonk vroeger deed, en een nuchtere getuige waakt. Het is geen kracht van de Makers maar van de zwam, die geen ja nodig heeft om te groeien maar wel een ja om gedeeld te worden. De prijs zijn dagen van naweeën en soms een herinnering die wegvalt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-ontvangst-9 · De Vrije Ontvangst
+- **code:** DRAGER-Z48-ontvangst-9
+- **categorie:** Drager
+- **onderwerp:** De Vrije Ontvangst
+- **wat:** In de oude Ontvangstzalen houden volwassenen na het vertrek van de Orde hun eigen Ontvangsten, met lampen in plaats van zegellicht en een gekozen hoedster in plaats van een priesteres. Wat ooit plicht was, wordt een feest waarvoor je je opgeeft. Het verliest zijn heiligheid en zijn kracht, en de zalen worden te groot voor het aantal dat nog komt.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** LOT-Z44-zegellicht;KETEN-kruik-ontvangst;RIT-nacht-duizend-lampen;GEB-Z45-losbandige-jaren;FASE-z44-ja
+- **verwijst_naar:** LOT-Z44-zegellicht;KETEN-kruik-ontvangst;RIT-nacht-duizend-lampen;GEB-Z45-losbandige-jaren;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In de oude Ontvangstzalen houden volwassenen na het vertrek van de Orde hun eigen Ontvangsten, met lampen in plaats van zegellicht en een gekozen hoedster in plaats van een priesteres. Wat ooit plicht was, wordt een feest waarvoor je je opgeeft. Het verliest zijn heiligheid en zijn kracht, en de zalen worden te groot voor het aantal dat nog komt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-ontvangst-13 · De vuurnacht
+- **code:** DRAGER-Z48-ontvangst-13
+- **categorie:** Drager
+- **onderwerp:** De vuurnacht
+- **wat:** Op het droge plat erft het vuur van de kortste nacht wat de Ontvangst was: kiezen, gekozen worden, een of meer gezellen, onder de sterren. Er is geen tempel en geen kracht, alleen de gewoonte. Wie vraagt waarom, krijgt een verhaal over een vrouw met een lamp. Het vuur blijft tot in onze tijd, en niemand weet nog wat het verving.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** LOT-Z44-zegellicht;VOOR-Z46-vuurnacht;EROS-Z45-haak-8;FASE-z44-mensen
+- **verwijst_naar:** LOT-Z44-zegellicht;VOOR-Z46-vuurnacht;EROS-Z45-haak-8;FASE-z44-mensen
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Op het droge plat erft het vuur van de kortste nacht wat de Ontvangst was: kiezen, gekozen worden, een of meer gezellen, onder de sterren. Er is geen tempel en geen kracht, alleen de gewoonte. Wie vraagt waarom, krijgt een verhaal over een vrouw met een lamp. Het vuur blijft tot in onze tijd, en niemand weet nog wat het verving.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-stal-9 · De Huizen van Spel
+- **code:** DRAGER-Z48-stal-9
+- **categorie:** Drager
+- **onderwerp:** De Huizen van Spel
+- **wat:** Oud-stalmeesteressen en vrijgekomen mannen openen na het Lichtconvent huizen waar de oude rollen worden gespeeld: veiling, halsband, register en rotatie, maar met contract, sjerp-signalen en een woord dat alles stopt. Wie er komt, kiest de rol die vroeger een lot was. De prijs is dat sommigen niet meer weten of ze spelen of herhalen; de huizen houden daarom een hoedster aan de deur.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** GEB-Z45-losbandige-jaren;RIT-gemaskerde-veiling;RIT-halsbandwissel;KINK-sjerp-signalen;FASE-z44-ja
+- **verwijst_naar:** GEB-Z45-losbandige-jaren;RIT-gemaskerde-veiling;RIT-halsbandwissel;KINK-sjerp-signalen;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Oud-stalmeesteressen en vrijgekomen mannen openen na het Lichtconvent huizen waar de oude rollen worden gespeeld: veiling, halsband, register en rotatie, maar met contract, sjerp-signalen en een woord dat alles stopt. Wie er komt, kiest de rol die vroeger een lot was. De prijs is dat sommigen niet meer weten of ze spelen of herhalen; de huizen houden daarom een hoedster aan de deur.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-stal-13 · Het oogstspel
+- **code:** DRAGER-Z48-stal-13
+- **categorie:** Drager
+- **onderwerp:** Het oogstspel
+- **wat:** Bij de oogst verkoopt een dorp op het plat één nacht van wie zichzelf wil aanbieden, gemaskerd, zoals in Brakhaven. De opbrengst gaat naar de gemeenschap. Het is een spel geworden waarin het oude bezit alleen nog een maskerade is, en het verdwijnt pas als de laatste zaaiers vergeten zijn waarom het begon.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** GEB-Z45-losbandige-jaren;RIT-gemaskerde-veiling;FASE-z44-mensen
+- **verwijst_naar:** GEB-Z45-losbandige-jaren;RIT-gemaskerde-veiling;FASE-z44-mensen
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Bij de oogst verkoopt een dorp op het plat één nacht van wie zichzelf wil aanbieden, gemaskerd, zoals in Brakhaven. De opbrengst gaat naar de gemeenschap. Het is een spel geworden waarin het oude bezit alleen nog een maskerade is, en het verdwijnt pas als de laatste zaaiers vergeten zijn waarom het begon.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-vleugel-10 · De zweefhuid
+- **code:** DRAGER-Z48-vleugel-10
+- **categorie:** Drager
+- **onderwerp:** De zweefhuid
+- **wat:** Families met Skerra-bloed bewaren de vleugelhuid van hun moeders en grootmoeders als zweefhuid. Met zo'n huid gespannen tussen armen en lichaam springen twee volwassenen van de klif en vangen elkaar op in de val, zoals hun voorouders paarden in vrije val. Het is gevaarlijker dan ooit, want de huid draagt maar half; elk jaar komen er minder terug. Het eindigt met de laatste huid.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** LOT-Z44-skerra;VOLK-skerra;SEKS-VOLK-skerra-kern;FASE-z44-volken
+- **verwijst_naar:** LOT-Z44-skerra;VOLK-skerra;SEKS-VOLK-skerra-kern;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Families met Skerra-bloed bewaren de vleugelhuid van hun moeders en grootmoeders als zweefhuid. Met zo'n huid gespannen tussen armen en lichaam springen twee volwassenen van de klif en vangen elkaar op in de val, zoals hun voorouders paarden in vrije val. Het is gevaarlijker dan ooit, want de huid draagt maar half; elk jaar komen er minder terug. Het eindigt met de laatste huid.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-vleugel-13 · Het klifspringfeest
+- **code:** DRAGER-Z48-vleugel-13
+- **categorie:** Drager
+- **onderwerp:** Het klifspringfeest
+- **wat:** Aan kusten met diep water springen geliefden in de zomer samen van de klif, hand in hand, en wie boven water komt, kust. Er zijn geen huiden meer, alleen het water dat hen opvangt. Het is het laatste dat er van de Val over is, en het blijft een feest tot in onze tijd.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** LOT-Z44-skerra;VOLK-skerra;FASE-z44-mensen
+- **verwijst_naar:** LOT-Z44-skerra;VOLK-skerra;FASE-z44-mensen
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Aan kusten met diep water springen geliefden in de zomer samen van de klif, hand in hand, en wie boven water komt, kust. Er zijn geen huiden meer, alleen het water dat hen opvangt. Het is het laatste dat er van de Val over is, en het blijft een feest tot in onze tijd.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-vorm-10 · Het wisselbloed
+- **code:** DRAGER-Z48-vorm-10
+- **categorie:** Drager
+- **onderwerp:** Het wisselbloed
+- **wat:** Nazaten van Ves-Lethi en mensen wisselen niet meer van gezicht, maar bij volle maan soms nog van geslacht, een nacht of twee, en dan terug. Voor een geliefde die het weet, is dat een gave; voor een dorp dat het niet weet, een vloek. Daar komt de man vandaan die bij volle maan iets anders wordt. Het slijt per generatie, tot er alleen een gevoel van onrust bij volle maan overblijft.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** LOT-Z44-ves-lethi;VOLK-ves-lethi-Z6;MYTHE-Z43-gedaantewisselaar;FASE-z44-volken
+- **verwijst_naar:** LOT-Z44-ves-lethi;VOLK-ves-lethi-Z6;MYTHE-Z43-gedaantewisselaar;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Nazaten van Ves-Lethi en mensen wisselen niet meer van gezicht, maar bij volle maan soms nog van geslacht, een nacht of twee, en dan terug. Voor een geliefde die het weet, is dat een gave; voor een dorp dat het niet weet, een vloek. Daar komt de man vandaan die bij volle maan iets anders wordt. Het slijt per generatie, tot er alleen een gevoel van onrust bij volle maan overblijft.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-vorm-13 · De sporenspiegel
+- **code:** DRAGER-Z48-vorm-13
+- **categorie:** Drager
+- **onderwerp:** De sporenspiegel
+- **wat:** Met een kleine dosis Myrrhen-sporen ziet een geliefde in de ander wie ze verlangt, een gedaante die niet echt verandert maar wel zo voelt. Het is de spiegelnacht zonder Ves-Lethi. De prijs is dezelfde als vroeger: wie het te vaak doet, weet niet meer welk gezicht van de ander echt is.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** LOT-Z44-ves-lethi;VOOR-sporenroes;RIT-spiegelnacht;FASE-z44-mensen
+- **verwijst_naar:** LOT-Z44-ves-lethi;VOOR-sporenroes;RIT-spiegelnacht;FASE-z44-mensen
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Met een kleine dosis Myrrhen-sporen ziet een geliefde in de ander wie ze verlangt, een gedaante die niet echt verandert maar wel zo voelt. Het is de spiegelnacht zonder Ves-Lethi. De prijs is dezelfde als vroeger: wie het te vaak doet, weet niet meer welk gezicht van de ander echt is.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-korf-10 · De wasnacht
+- **code:** DRAGER-Z48-korf-10
+- **categorie:** Drager
+- **onderwerp:** De wasnacht
+- **wat:** Als de korven uiteenvallen, blijft de honingwas. Verwarmd in een kleine kamer geeft hij een geur waarin een groep volwassenen elkaars genot half voelt, zoals vroeger in de korfgeur. Het is zwakker en korter, en de was raakt op omdat er geen Broedmoeder meer is. Wat blijft, zijn kaarsen van bijenwas in slaapkamers, en niemand weet waarom ze zo ruiken.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** LOT-Z44-kluwers;VOLK-kluwer;SEKS-VOLK-kluwer-kern;FASE-z44-volken
+- **verwijst_naar:** LOT-Z44-kluwers;VOLK-kluwer;SEKS-VOLK-kluwer-kern;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Als de korven uiteenvallen, blijft de honingwas. Verwarmd in een kleine kamer geeft hij een geur waarin een groep volwassenen elkaars genot half voelt, zoals vroeger in de korfgeur. Het is zwakker en korter, en de was raakt op omdat er geen Broedmoeder meer is. Wat blijft, zijn kaarsen van bijenwas in slaapkamers, en niemand weet waarom ze zo ruiken.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-geheugen-10 · Geheugenruil in de ring
+- **code:** DRAGER-Z48-geheugen-10
+- **categorie:** Drager
+- **onderwerp:** Geheugenruil in de ring
+- **wat:** Twee geliefden die in een feeënring gaan liggen, laten het net van de Myrrhen hen lezen en proeven elkaars herinneringen, zoals Aelthir dat met de Nacht van de Rekening deden. Het net geeft het terug in flarden. De prijs is dat iets van jezelf in de ander blijft en iets in het net, en wie te vaak gaat, vergeet eerst geur, dan aanraking.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** LOT-Z44-aelthir;FEE-Z37-myrrhen-ringen;RIT-volk-aelthir;FASE-z44-volken
+- **verwijst_naar:** LOT-Z44-aelthir;FEE-Z37-myrrhen-ringen;RIT-volk-aelthir;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Twee geliefden die in een feeënring gaan liggen, laten het net van de Myrrhen hen lezen en proeven elkaars herinneringen, zoals Aelthir dat met de Nacht van de Rekening deden. Het net geeft het terug in flarden. De prijs is dat iets van jezelf in de ander blijft en iets in het net, en wie te vaak gaat, vergeet eerst geur, dan aanraking.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-zoem-10 · Zingend ijzer
+- **code:** DRAGER-Z48-zoem-10
+- **categorie:** Drager
+- **onderwerp:** Zingend ijzer
+- **wat:** Smeden met Dhurn-bloed leren ijzer zo te slaan dat het zoemt als je het aantikt, zoals de stenen van vroeger zoemden. Tegen de huid gelegd, gaat het tot in de botten. Het is gewone kunst, geen magie, en het werkt alleen zolang de smid de toon kent. Met de laatste smeden verdwijnt de toon, en het ijzer zwijgt.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** LOT-Z44-dhurn;GEB-Z42-eerste-ijzer;KINK-Z8-15;FASE-z44-volken
+- **verwijst_naar:** LOT-Z44-dhurn;GEB-Z42-eerste-ijzer;KINK-Z8-15;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Smeden met Dhurn-bloed leren ijzer zo te slaan dat het zoemt als je het aantikt, zoals de stenen van vroeger zoemden. Tegen de huid gelegd, gaat het tot in de botten. Het is gewone kunst, geen magie, en het werkt alleen zolang de smid de toon kent. Met de laatste smeden verdwijnt de toon, en het ijzer zwijgt.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-maat-10 · Het reuzenbloed
+- **code:** DRAGER-Z48-maat-10
+- **categorie:** Drager
+- **onderwerp:** Het reuzenbloed
+- **wat:** Er zijn families waarin elke paar generaties iemand geboren wordt die veel te groot is, met zware botten en handen als schoppen, en daar wordt gefluisterd over een Tharn-overgrootmoeder. Een volwassene met reuzenbloed wordt begeerd en gevreesd; maatverschil wordt een fantasie met een echte drager. Het zijn er steeds minder, en het laatste geraamte wordt een reus in een sage.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** LOT-Z44-tharn;VOLK-tharn;UIT-VOLK-tharn;FASE-z44-volken
+- **verwijst_naar:** LOT-Z44-tharn;VOLK-tharn;UIT-VOLK-tharn;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Er zijn families waarin elke paar generaties iemand geboren wordt die veel te groot is, met zware botten en handen als schoppen, en daar wordt gefluisterd over een Tharn-overgrootmoeder. Een volwassene met reuzenbloed wordt begeerd en gevreesd; maatverschil wordt een fantasie met een echte drager. Het zijn er steeds minder, en het laatste geraamte wordt een reus in een sage.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-steen-10 · De beeldnacht
+- **code:** DRAGER-Z48-steen-10
+- **categorie:** Drager
+- **onderwerp:** De beeldnacht
+- **wat:** Gemalen Orrim-stof in een warm bad maakt de huid voor een paar uur stijf en koel, zodat een volwassene stil ligt als een beeld terwijl de ander haar aanraakt, met een hoedster die het bad weer verwarmt. De stof raakt op, want de Orrim groeien niet meer. Daarna doen mensen het met klei en koud water, en dat is geen steen maar wel het spel.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** LOT-Z44-orrim;VOLK-orrim;RIT-volk-orrim;FASE-z44-volken
+- **verwijst_naar:** LOT-Z44-orrim;VOLK-orrim;RIT-volk-orrim;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Gemalen Orrim-stof in een warm bad maakt de huid voor een paar uur stijf en koel, zodat een volwassene stil ligt als een beeld terwijl de ander haar aanraakt, met een hoedster die het bad weer verwarmt. De stof raakt op, want de Orrim groeien niet meer. Daarna doen mensen het met klei en koud water, en dat is geen steen maar wel het spel.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-zee-11 · Het havenbloed
+- **code:** DRAGER-Z48-zee-11
+- **categorie:** Drager
+- **onderwerp:** Het havenbloed
+- **wat:** In kustfamilies met Sael-mor-bloed hebben sommigen nog kieuwachtige spleten die bij springtij branden. Ze vieren de springtijnacht in het water, ver uit de kust, en voor een geliefde van het land is dat de nacht om mee te gaan. Het is gevaarlijk en het is mooi, en met elke generatie hebben minder mensen de spleten.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** LOT-Z44-sael-mor;VOLK-sael-mor;RIT-volk-saelmor;FASE-z44-helden
+- **verwijst_naar:** LOT-Z44-sael-mor;VOLK-sael-mor;RIT-volk-saelmor;FASE-z44-helden
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In kustfamilies met Sael-mor-bloed hebben sommigen nog kieuwachtige spleten die bij springtij branden. Ze vieren de springtijnacht in het water, ver uit de kust, en voor een geliefde van het land is dat de nacht om mee te gaan. Het is gevaarlijk en het is mooi, en met elke generatie hebben minder mensen de spleten.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-zang-14 · De zangpoelen
+- **code:** DRAGER-Z48-zang-14
+- **categorie:** Drager
+- **onderwerp:** De zangpoelen
+- **wat:** Als het slik onder zee verdwijnt, blijven er mensen die met de Oevrin zongen. Ze houden zangpoelen aan de nieuwe kust, waar geliefden bij laag tij in het water staan en zingen zonder elkaar aan te raken, tot het verlangen het werk doet. Het blijft bestaan als lied, lang nadat niemand meer weet waarvoor.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** LOT-Z44-oevrin;VOOR-Z46-zang-zonder-aanraking;EROS-Z45-haak-9;FASE-z44-smelt
+- **verwijst_naar:** LOT-Z44-oevrin;VOOR-Z46-zang-zonder-aanraking;EROS-Z45-haak-9;FASE-z44-smelt
+- **jaar:** 
+- **tijdperk:** 14 De Grote Smelt (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Als het slik onder zee verdwijnt, blijven er mensen die met de Oevrin zongen. Ze houden zangpoelen aan de nieuwe kust, waar geliefden bij laag tij in het water staan en zingen zonder elkaar aan te raken, tot het verlangen het werk doet. Het blijft bestaan als lied, lang nadat niemand meer weet waarvoor.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
+<!-- REC canon -->
+### DRAGER-Z48-storm-10 · Het vuurkampgevecht
+- **code:** DRAGER-Z48-storm-10
+- **categorie:** Drager
+- **onderwerp:** Het vuurkampgevecht
+- **wat:** De Karrûk vechten na het jaarlijkse gevecht nog steeds bij het vuur en eindigen samen in de tenten, ook zonder vonk die ontladen moet. Wat een noodzaak was, is een feest van zweet, roet en kiezen. De religie van de Storm verdwijnt; het gevecht en de nacht erna blijven, tot het een spel is op de bruiloften van hun nazaten.
+- **waarom:** Ronde Z48: drager die een fantasie in een later tijdperk mogelijk maakt (architectuur/DRAGERS.md); geschreven vanuit de bronrijen
+- **status:** voorlopig
+- **ronde:** 77
+- **hangt_samen_met:** LOT-Z44-karruk-storm;RIT-volk-karruk;VOLK-karrûk-Z6-Z38;FASE-z44-volken
+- **verwijst_naar:** LOT-Z44-karruk-storm;RIT-volk-karruk;VOLK-karrûk-Z6-Z38;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De Karrûk vechten na het jaarlijkse gevecht nog steeds bij het vuur en eindigen samen in de tenten, ook zonder vonk die ontladen moet. Wat een noodzaak was, is een feest van zweet, roet en kiezen. De religie van de Storm verdwijnt; het gevecht en de nacht erna blijven, tot het een spel is op de bruiloften van hun nazaten.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z48, drager)
+<!-- /REC -->
 
 <!-- SECTIE: WRIJVINGEN -->

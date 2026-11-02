@@ -305,7 +305,9 @@ def fantasie_tijd(c):
   - status per fase: echt (voor het verlies), zeldzaam (in het tijdperk van het verlies), daarna 'spel' (macht of instituut weg; rollenspel
     tussen volwassenen) of 'onmogelijk' (een lichaam of volk dat er niet meer is). Rijen met 'niet-seksueel' tellen niet mee."""
   import re as _re
-  for t in ('fantasie_kern','fantasie_status'): c.execute(f'drop table if exists {t}')
+  for t in ('fantasie_kern','fantasie_status','drager','drager_bron'): c.execute(f'drop table if exists {t}')
+  c.execute('create table drager(code text primary key, behoefte text, fase integer)')
+  c.execute('create table drager_bron(drager text, bron text, bron_fase integer, primary key(drager,bron))')
   c.execute('create table fantasie_kern(code text primary key, naam text, afh text, soort text, verleden_fase integer, verlies_fase integer)')
   c.execute('create table fantasie_status(code text, fase integer, status text, primary key(code,fase))')
   LICHAAM={'skerra','ves-lethi','kluwers','aelthir','dhurn','tharn','orrim','sael-mor','oevrin','myrrhen','vathren','grauwen','reuzenstieren','leegtewormen'}
@@ -313,6 +315,16 @@ def fantasie_tijd(c):
   lab=dict(c.execute('select label,fase from tijdperk_label').fetchall()); fase_code=dict(c.execute('select code,fase from tijdas').fetchall())
   tp=dict(c.execute("select code,tijdperk from canon where status in ('vastgesteld','voorlopig')").fetchall())
   ORDE=['echt','zeldzaam','spel','onmogelijk']
+  levend={r[0] for r in c.execute("select code from canon where status in ('vastgesteld','voorlopig')")}
+  DR={}  # Z48: dragers = DRAGER-*-rijen; behoefte = eerste link naar LOT-Z44-/GEB-Z45-losbandige-jaren; bron = overige levende links (geen FASE)
+  for code,verw,tpd in c.execute("select code,coalesce(verwijst_naar,''),tijdperk from canon where code like 'DRAGER-%' and status in ('vastgesteld','voorlopig')").fetchall():
+    refs=[x.strip() for x in verw.split(';') if x.strip()]
+    beh=next((x for x in refs if x.startswith('LOT-Z44-') or x=='GEB-Z45-losbandige-jaren'),None); fd=lab.get(tpd)
+    c.execute('insert into drager values(?,?,?)',(code,beh,fd))
+    for b in refs:
+      if b==beh or b.startswith('FASE-') or b not in levend: continue
+      c.execute('insert or ignore into drager_bron values(?,?,?)',(code,b,lab.get(tp.get(b))))
+    if beh and fd is not None: DR.setdefault(beh,[]).append(fd)
   for code,ond,feit,verw in c.execute("""select code,onderwerp,feit,coalesce(verwijst_naar,'') from canon where status in ('vastgesteld','voorlopig')
       and (code like 'VOOR-%' or code like 'KINK-%' or code like 'RIT-%') and categorie in ('Voorkeuren','Kinks en situaties','Extreme rituelen','Rituelen')""").fetchall():
     if 'niet-seksueel' in (feit or ''): continue
@@ -332,6 +344,7 @@ def fantasie_tijd(c):
       verlies.append(fv); s='lichaam' if n in LICHAAM else 'macht'; soorten.add(s)
       for f in range(9,17):
         k='echt' if f<fv else ('zeldzaam' if f==fv else ('onmogelijk' if s=='lichaam' else 'spel'))
+        if k!='echt' and any(d<=f for d in DR.get(a,[])): k='echt'
         if ORDE.index(k)>ORDE.index(st[f]): st[f]=k
     c.execute('insert into fantasie_kern values(?,?,?,?,?,?)',(code,ond,';'.join(anker),','.join(sorted(soorten)),min(vf) if vf else None,min(verlies) if verlies else None))
     for f,k in st.items(): c.execute('insert into fantasie_status values(?,?,?)',(code,f,k))

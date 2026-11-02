@@ -129,8 +129,8 @@
 - **waarom:** Volgt uit wereldregel: Gunstbrieven en de Grote Wachtrij. Alle deelnemers volwassen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Gunstbrieven en de Grote Wachtrij
-- **verwijst_naar:** ECO-geld;MACHT-gaven-mannen;REG-saelith;STAD-saelith
+- **hangt_samen_met:** Gunstbrieven en de Grote Wachtrij;LOT-Z44-gaven-mannen;GEB-Z45-losbandige-jaren;FASE-ontvangst
+- **verwijst_naar:** ECO-geld;MACHT-gaven-mannen;REG-saelith;STAD-saelith;LOT-Z44-gaven-mannen;GEB-Z45-losbandige-jaren;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -159,8 +159,8 @@
 - **waarom:** Volgt uit wereldregel: Prijzen van mannen en zaad; Huis Varenne. Alle deelnemers volwassen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Prijzen van mannen en zaad; Huis Varenne
-- **verwijst_naar:** ECO-prijzen-mannen-zaad;HUI-varenne;MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;REG-rosse;REG-saelith;REG-zoutkust;STAD-saelith;STAD-brakhaven;STAD-qesh
+- **hangt_samen_met:** Prijzen van mannen en zaad; Huis Varenne;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** ECO-prijzen-mannen-zaad;HUI-varenne;MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;REG-rosse;REG-saelith;REG-zoutkust;STAD-saelith;STAD-brakhaven;STAD-qesh;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -189,8 +189,8 @@
 - **waarom:** Volgt uit wereldregel: Zaad 5x kracht, 8-12 uur; Leger. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Zaad 5x kracht, 8-12 uur; Leger
-- **verwijst_naar:** MACHT-leger;REG-hoogvrouwe;REG-kharvos-B1;STAD-kaldrun
+- **hangt_samen_met:** Zaad 5x kracht, 8-12 uur; Leger;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** MACHT-leger;REG-hoogvrouwe;REG-kharvos-B1;STAD-kaldrun;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -219,8 +219,8 @@
 - **waarom:** Volgt uit wereldregel: Leegte; verslaving. Alle deelnemers volwassen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Leegte; verslaving
-- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-kracht-duur;MAGIE-verslaving;PER-morvane
+- **hangt_samen_met:** Leegte; verslaving;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-kracht-duur;MAGIE-verslaving;PER-morvane;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -249,8 +249,8 @@
 - **waarom:** Volgt uit wereldregel: Verslaving en tegenmiddelen. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Verslaving en tegenmiddelen
-- **verwijst_naar:** MAGIE-verslaving;REG-groenmuil;REG-saelith;STAD-lisk
+- **hangt_samen_met:** Verslaving en tegenmiddelen;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** MAGIE-verslaving;REG-groenmuil;REG-saelith;STAD-lisk;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -279,8 +279,8 @@
 - **waarom:** Volgt uit wereldregel: Prijs van de gave. Alle deelnemers volwassen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Prijs van de gave
-- **verwijst_naar:** MACHT-gaven-mannen
+- **hangt_samen_met:** Prijs van de gave;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** MACHT-gaven-mannen;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -309,8 +309,8 @@
 - **waarom:** Volgt uit wereldregel: Duel-traditie in het gebergte. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Duel-traditie in het gebergte
-- **verwijst_naar:** REG-hoogvrouwe
+- **hangt_samen_met:** Duel-traditie in het gebergte;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-hoogvrouwe;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -339,8 +339,8 @@
 - **waarom:** Volgt uit wereldregel: Ambergaard-collectieven. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Ambergaard-collectieven
-- **verwijst_naar:** REG-ambergaard
+- **hangt_samen_met:** Ambergaard-collectieven;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** REG-ambergaard;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -369,8 +369,8 @@
 - **waarom:** Volgt uit wereldregel: Gewone mannen als melkkoe. Alle deelnemers volwassen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Gewone mannen als melkkoe
-- **verwijst_naar:** HUI-varenne;MACHT-gewone-mannen;REG-ambergaard
+- **hangt_samen_met:** Gewone mannen als melkkoe;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** HUI-varenne;MACHT-gewone-mannen;REG-ambergaard;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -399,8 +399,8 @@
 - **waarom:** Volgt uit wereldregel: De Ontvangst. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** De Ontvangst
-- **verwijst_naar:** REG-saelith;RITE-ontvangst;STAD-saelith
+- **hangt_samen_met:** De Ontvangst;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** REG-saelith;RITE-ontvangst;STAD-saelith;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -429,8 +429,8 @@
 - **waarom:** Volgt uit wereldregel: Feesten; Verwantschapstaboe. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Feesten; Verwantschapstaboe
-- **verwijst_naar:** ORDE-orde;REG-groenmuil;REGEL-verwantschapstaboe;RITE-feesten
+- **hangt_samen_met:** Feesten; Verwantschapstaboe;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** ORDE-orde;REG-groenmuil;REGEL-verwantschapstaboe;RITE-feesten;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -459,8 +459,8 @@
 - **waarom:** Volgt uit wereldregel: Kleding. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Kleding
-- **verwijst_naar:** CUL-kleding;MODE-vrouwen-basis
+- **hangt_samen_met:** Kleding;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** CUL-kleding;MODE-vrouwen-basis;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -489,8 +489,8 @@
 - **waarom:** Volgt uit wereldregel: Zonvorstendom. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Zonvorstendom
-- **verwijst_naar:** ORDE-orde;REG-rosse;STAD-qesh
+- **hangt_samen_met:** Zonvorstendom;LOT-Z44-ishvar;FASE-markt
+- **verwijst_naar:** ORDE-orde;REG-rosse;STAD-qesh;LOT-Z44-ishvar;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -519,8 +519,8 @@
 - **waarom:** Volgt uit wereldregel: Zwarte markt. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Zwarte markt
-- **verwijst_naar:** REG-zoutkust;STAD-brakhaven
+- **hangt_samen_met:** Zwarte markt;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-zoutkust;STAD-brakhaven;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -549,8 +549,8 @@
 - **waarom:** Volgt uit wereldregel: Kharvos. Alle deelnemers volwassen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar REG-kharvos-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Kharvos
-- **verwijst_naar:** REG-kharvos-B1
+- **hangt_samen_met:** Kharvos;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** REG-kharvos-B1;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -579,8 +579,8 @@
 - **waarom:** Volgt uit wereldregel: Stille Zusterschappen. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Stille Zusterschappen
-- **verwijst_naar:** REG-stille
+- **hangt_samen_met:** Stille Zusterschappen;LOT-Z44-ishvar;FASE-ontvangst
+- **verwijst_naar:** REG-stille;LOT-Z44-ishvar;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -609,8 +609,8 @@
 - **waarom:** Volgt uit wereldregel: Tempelplicht en zegel. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Tempelplicht en zegel
-- **verwijst_naar:** BESLUIT-Z30-2
+- **hangt_samen_met:** Tempelplicht en zegel;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** BESLUIT-Z30-2;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -639,8 +639,8 @@
 - **waarom:** Volgt uit wereldregel: Feesten. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Feesten
-- **verwijst_naar:** REG-saelith;RITE-feesten;STAD-saelith
+- **hangt_samen_met:** Feesten;LOT-Z44-ishvar;FASE-ontvangst
+- **verwijst_naar:** REG-saelith;RITE-feesten;STAD-saelith;LOT-Z44-ishvar;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -669,8 +669,8 @@
 - **waarom:** Volgt uit wereldregel: Kracht en duur van zaad. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Kracht en duur van zaad
-- **verwijst_naar:** MAGIE-kracht-duur
+- **hangt_samen_met:** Kracht en duur van zaad;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** MAGIE-kracht-duur;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -699,8 +699,8 @@
 - **waarom:** Volgt uit wereldregel: Ontvangst; Gezondheid. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Ontvangst; Gezondheid
-- **verwijst_naar:** RIT-ontvangst;MAGIE-kracht-duur;CUL-zwangerschap-anticonceptie-onvruchtbaarheid
+- **hangt_samen_met:** Ontvangst; Gezondheid;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** RIT-ontvangst;MAGIE-kracht-duur;CUL-zwangerschap-anticonceptie-onvruchtbaarheid;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -729,8 +729,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** Orde; Saelith; Magie
-- **verwijst_naar:** ECO-geld;BESLUIT-Z30-2;MACHT-gaven-mannen;ORDE-orde;REG-saelith;SFEER-zegellicht;VOOR-exhibitionisme;VOOR-voyeurisme;VOOR-ritueel;TECHNO-gave
+- **hangt_samen_met:** Orde; Saelith; Magie;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** ECO-geld;BESLUIT-Z30-2;MACHT-gaven-mannen;ORDE-orde;REG-saelith;SFEER-zegellicht;VOOR-exhibitionisme;VOOR-voyeurisme;VOOR-ritueel;TECHNO-gave;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -759,8 +759,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** De Inwijding; Wat jongens meemaken; Teo
-- **verwijst_naar:** CUL-wat-jongens-meemaken;MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;PER-gewone-mannen;REGEL-registers-merken;RITE-inwijding;VOOR-ritueel;TECHNO-gave;TECHNO-zegelsteen
+- **hangt_samen_met:** De Inwijding; Wat jongens meemaken; Teo;LOT-Z44-zegellicht;GEB-Z45-losbandige-jaren;LOT-Z44-gaven-mannen;FASE-ontvangst
+- **verwijst_naar:** CUL-wat-jongens-meemaken;MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;PER-gewone-mannen;REGEL-registers-merken;RITE-inwijding;VOOR-ritueel;TECHNO-gave;TECHNO-zegelsteen;LOT-Z44-zegellicht;GEB-Z45-losbandige-jaren;LOT-Z44-gaven-mannen;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -789,8 +789,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;MAGIE-kracht-duur;REG-kharvos-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** Leger; Huis Kaldra; Kharvos
-- **verwijst_naar:** HUI-kaldra-Z6;MACHT-gaven-mannen;MACHT-leger;MAGIE-kracht-duur;REG-hoogvrouwe;REG-kharvos-B1;VOOR-groep;VOOR-uithouding;STAD-kaldrun;TECHNO-gave
+- **hangt_samen_met:** Leger; Huis Kaldra; Kharvos;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** HUI-kaldra-Z6;MACHT-gaven-mannen;MACHT-leger;MAGIE-kracht-duur;REG-hoogvrouwe;REG-kharvos-B1;VOOR-groep;VOOR-uithouding;STAD-kaldrun;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -819,8 +819,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** Zaadbeurs; Huis Varenne; Prijzen
-- **verwijst_naar:** ECO-geld;ECO-prijzen-mannen-zaad;HUI-varenne;MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;REG-rosse;REG-saelith;REG-zoutkust;VOOR-dominante-vrouw;VOOR-veiling;STAD-saelith;STAD-brakhaven;STAD-qesh;TECHNO-gave
+- **hangt_samen_met:** Zaadbeurs; Huis Varenne; Prijzen;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** ECO-geld;ECO-prijzen-mannen-zaad;HUI-varenne;MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;REG-rosse;REG-saelith;REG-zoutkust;VOOR-dominante-vrouw;VOOR-veiling;STAD-saelith;STAD-brakhaven;STAD-qesh;TECHNO-gave;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -849,8 +849,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** Groenmuil; Verwantschapstaboe
-- **verwijst_naar:** BESLUIT-Z30-2;ORDE-orde;REG-groenmuil;REGEL-registers-merken;REGEL-verwantschapstaboe;VOOR-anoniem
+- **hangt_samen_met:** Groenmuil; Verwantschapstaboe;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** BESLUIT-Z30-2;ORDE-orde;REG-groenmuil;REGEL-registers-merken;REGEL-verwantschapstaboe;VOOR-anoniem;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -879,8 +879,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** Verslaving; Morvane-ir
-- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-verslaving;PER-morvane;REG-saelith;WET-wie-weigert;VOOR-ontzegging;VOOR-binding;VOOR-dominante-man;STAD-lisk;TECHNO-gave
+- **hangt_samen_met:** Verslaving; Morvane-ir;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-verslaving;PER-morvane;REG-saelith;WET-wie-weigert;VOOR-ontzegging;VOOR-binding;VOOR-dominante-man;STAD-lisk;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -909,8 +909,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** Gewone mannen; Bram; Ambergaard
-- **verwijst_naar:** BESLUIT-Z30-2;HUI-varenne;MACHT-gewone-mannen;PER-gewone-mannen;REG-ambergaard;VOOR-dominante-vrouw;VOOR-melken;VOOR-onderdanige-man;TECHNO-bio
+- **hangt_samen_met:** Gewone mannen; Bram; Ambergaard;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** BESLUIT-Z30-2;HUI-varenne;MACHT-gewone-mannen;PER-gewone-mannen;REG-ambergaard;VOOR-dominante-vrouw;VOOR-melken;VOOR-onderdanige-man;TECHNO-bio;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -939,8 +939,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** Gunstbrieven; Wie weigert
-- **verwijst_naar:** ECO-geld;MACHT-gaven-mannen;WET-wie-weigert;VOOR-teder;TECHNO-gave
+- **hangt_samen_met:** Gunstbrieven; Wie weigert;LOT-Z44-gaven-mannen;FASE-ontvangst
+- **verwijst_naar:** ECO-geld;MACHT-gaven-mannen;WET-wie-weigert;VOOR-teder;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -969,8 +969,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** Gezin en wonen; Gezondheid
-- **verwijst_naar:** CUL-gezin-wonen;MAGIE-kracht-duur;VOOR-vrouwenliefde
+- **hangt_samen_met:** Gezin en wonen; Gezondheid;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** CUL-gezin-wonen;MAGIE-kracht-duur;VOOR-vrouwenliefde;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -999,8 +999,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht.
 - **status:** voorlopig
 - **ronde:** 4
-- **hangt_samen_met:** Duel om de man; Huis Kaldra
-- **verwijst_naar:** HUI-kaldra-Z6;KINK-duel-man;MODE-vrouwen-basis;REG-hoogvrouwe;REG-rosse;WET-wie-weigert;VOOR-voyeurisme;VOOR-competitie;STAD-kaldrun;STAD-qesh
+- **hangt_samen_met:** Duel om de man; Huis Kaldra;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** HUI-kaldra-Z6;KINK-duel-man;MODE-vrouwen-basis;REG-hoogvrouwe;REG-rosse;WET-wie-weigert;VOOR-voyeurisme;VOOR-competitie;STAD-kaldrun;STAD-qesh;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1029,8 +1029,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** Gewone mannen; Kharvos
-- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gewone-mannen;MODE-vrouwen-basis;REG-kharvos-B1;VOOR-rolwissel
+- **hangt_samen_met:** Gewone mannen; Kharvos;GEB-Z45-losbandige-jaren;FASE-noodtoestand-Z38
+- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gewone-mannen;MODE-vrouwen-basis;REG-kharvos-B1;VOOR-rolwissel;GEB-Z45-losbandige-jaren;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1059,8 +1059,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** Wetten; Rechtspraak
-- **verwijst_naar:** MAGIE-kracht-duur;ORDE-orde;VOOR-ontzegging;VOOR-vernedering
+- **hangt_samen_met:** Wetten; Rechtspraak;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** MAGIE-kracht-duur;ORDE-orde;VOOR-ontzegging;VOOR-vernedering;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1149,8 +1149,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht.
 - **status:** voorlopig
 - **ronde:** 4
-- **hangt_samen_met:** Cultuur
-- **verwijst_naar:** CUL-gezin-wonen;RIT-stille-kind;VOOR-vrouwenliefde;VOOR-afscheid
+- **hangt_samen_met:** Cultuur;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** CUL-gezin-wonen;RIT-stille-kind;VOOR-vrouwenliefde;VOOR-afscheid;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1179,8 +1179,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** Economie; Huis Varenne
-- **verwijst_naar:** ECO-wat-wordt-verhandeld;BESLUIT-Z30-2;HUI-varenne;SFEER-zegellicht;VOOR-melken;VOOR-handel
+- **hangt_samen_met:** Economie; Huis Varenne;GEB-Z45-losbandige-jaren;LOT-Z44-zegellicht;FASE-markt
+- **verwijst_naar:** ECO-wat-wordt-verhandeld;BESLUIT-Z30-2;HUI-varenne;SFEER-zegellicht;VOOR-melken;VOOR-handel;GEB-Z45-losbandige-jaren;LOT-Z44-zegellicht;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1239,8 +1239,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht.
 - **status:** voorlopig
 - **ronde:** 4
-- **hangt_samen_met:** Queeste; Regio’s
-- **verwijst_naar:** MODE-vrouwen-basis;QST-doel-reden-gevaar;QST-queeste;WET-wie-weigert;VOOR-reiziger
+- **hangt_samen_met:** Queeste; Regio’s;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** MODE-vrouwen-basis;QST-doel-reden-gevaar;QST-queeste;WET-wie-weigert;VOOR-reiziger;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1269,8 +1269,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** HET GEHEIM; Orde; Queeste
-- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gaven-mannen;ORDE-orde;QST-doel-reden-gevaar;QST-queeste;REG-saelith;SFEER-zegellicht;VOOR-groep;STAD-saelith;TECHNO-gave;TECHNO-zegelsteen
+- **hangt_samen_met:** HET GEHEIM; Orde; Queeste;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;LOT-Z44-sterrensteen;FASE-ontvangst
+- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gaven-mannen;ORDE-orde;QST-doel-reden-gevaar;QST-queeste;REG-saelith;SFEER-zegellicht;VOOR-groep;STAD-saelith;TECHNO-gave;TECHNO-zegelsteen;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;LOT-Z44-sterrensteen;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1299,8 +1299,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** Feesten; Saelith
-- **verwijst_naar:** BESLUIT-Z30-2;REG-saelith;RITE-feesten;SFEER-zegellicht;WET-wie-weigert;VOOR-groep;STAD-saelith
+- **hangt_samen_met:** Feesten; Saelith;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** BESLUIT-Z30-2;REG-saelith;RITE-feesten;SFEER-zegellicht;WET-wie-weigert;VOOR-groep;STAD-saelith;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1329,8 +1329,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht.
 - **status:** voorlopig
 - **ronde:** 4
-- **hangt_samen_met:** Ambergaard; Bram
-- **verwijst_naar:** ORDE-orde;PER-gewone-mannen;REG-ambergaard;VOOR-voyeurisme
+- **hangt_samen_met:** Ambergaard; Bram;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** ORDE-orde;PER-gewone-mannen;REG-ambergaard;VOOR-voyeurisme;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1389,8 +1389,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 5
-- **hangt_samen_met:** Grote Wachtrij; Liora
-- **verwijst_naar:** MACHT-gaven-mannen;ORDE-orde;PER-liora-Z6-Z32;REG-saelith;RIT-kinkschaal;VOOR-overgave;VOOR-ontzegging;VOOR-bondage;STAD-saelith;TECHNO-gave
+- **hangt_samen_met:** Grote Wachtrij; Liora;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** MACHT-gaven-mannen;ORDE-orde;PER-liora-Z6-Z32;REG-saelith;RIT-kinkschaal;VOOR-overgave;VOOR-ontzegging;VOOR-bondage;STAD-saelith;TECHNO-gave;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1419,8 +1419,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;PER-aeron), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 5
-- **hangt_samen_met:** Aeron-as (zacht), Khaled-Ir (prijs)
-- **verwijst_naar:** CUL-kleding;MACHT-gaven-mannen;MAGIE-verslaving;MODE-vrouwen-basis;PER-aeron;PER-khaled;RIT-kinkschaal;VOOR-overgave;TECHNO-gave
+- **hangt_samen_met:** Aeron-as (zacht), Khaled-Ir (prijs);LOT-Z44-gaven-mannen;FASE-noodtoestand-Z38
+- **verwijst_naar:** CUL-kleding;MACHT-gaven-mannen;MAGIE-verslaving;MODE-vrouwen-basis;PER-aeron;PER-khaled;RIT-kinkschaal;VOOR-overgave;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1449,8 +1449,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 5
-- **hangt_samen_met:** Morvane-ir; Lisk; Verslaving
-- **verwijst_naar:** BESLUIT-Z30-2;MAGIE-kracht-duur;MAGIE-verslaving;PER-morvane;REG-saelith;RIT-kinkschaal;VOOR-pijn-genot;VOOR-bloed;VOOR-binding;STAD-lisk;TECHNO-bio
+- **hangt_samen_met:** Morvane-ir; Lisk; Verslaving;LOT-Z44-gaven-mannen;FASE-barsten
+- **verwijst_naar:** BESLUIT-Z30-2;MAGIE-kracht-duur;MAGIE-verslaving;PER-morvane;REG-saelith;RIT-kinkschaal;VOOR-pijn-genot;VOOR-bloed;VOOR-binding;STAD-lisk;TECHNO-bio;LOT-Z44-gaven-mannen;FASE-barsten
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1479,8 +1479,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld.
 - **status:** voorlopig
 - **ronde:** 5
-- **hangt_samen_met:** Badhuizen; Maanzalving
-- **verwijst_naar:** REG-saelith;RIT-kinkschaal;VOOR-anoniem;VOOR-vrouwenliefde;STAD-saelith
+- **hangt_samen_met:** Badhuizen; Maanzalving;LOT-Z44-ishvar;FASE-ontvangst
+- **verwijst_naar:** REG-saelith;RIT-kinkschaal;VOOR-anoniem;VOOR-vrouwenliefde;STAD-saelith;LOT-Z44-ishvar;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1509,8 +1509,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;MACHT-gewone-mannen;MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 5
-- **hangt_samen_met:** Huis Varenne; Kracht en duur
-- **verwijst_naar:** HUI-varenne;MACHT-gaven-mannen;MACHT-gewone-mannen;MAGIE-kracht-duur;RIT-kinkschaal;VOOR-groep;VOOR-overvloed;VOOR-uithouding;TECHNO-bio;TECHNO-gave
+- **hangt_samen_met:** Huis Varenne; Kracht en duur;LOT-Z44-gaven-mannen;FASE-ontvangst
+- **verwijst_naar:** HUI-varenne;MACHT-gaven-mannen;MACHT-gewone-mannen;MAGIE-kracht-duur;RIT-kinkschaal;VOOR-groep;VOOR-overvloed;VOOR-uithouding;TECHNO-bio;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1539,8 +1539,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 5
-- **hangt_samen_met:** Leegte; Grijswortel
-- **verwijst_naar:** CUL-gezin-wonen;MAGIE-kracht-duur;MAGIE-verslaving;RIT-kinkschaal;VOOR-ontzegging;VOOR-bondage
+- **hangt_samen_met:** Leegte; Grijswortel;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** CUL-gezin-wonen;MAGIE-kracht-duur;MAGIE-verslaving;RIT-kinkschaal;VOOR-ontzegging;VOOR-bondage;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1569,8 +1569,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld.
 - **status:** voorlopig
 - **ronde:** 5
-- **hangt_samen_met:** Boeterite; Tribunaal
-- **verwijst_naar:** ORDE-orde;RIT-boeterite;RIT-kinkschaal;RIT-tribunaal-drie;VOOR-exhibitionisme;VOOR-vernedering
+- **hangt_samen_met:** Boeterite; Tribunaal;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** ORDE-orde;RIT-boeterite;RIT-kinkschaal;RIT-tribunaal-drie;VOOR-exhibitionisme;VOOR-vernedering;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1599,8 +1599,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 5
-- **hangt_samen_met:** Rolwisseling; Bram
-- **verwijst_naar:** CUL-gezin-wonen;BESLUIT-Z30-2;MACHT-gewone-mannen;MODE-vrouwen-basis;PER-gewone-mannen;RIT-kinkschaal;RIT-rolwisseling;VOOR-rolwissel
+- **hangt_samen_met:** Rolwisseling; Bram;GEB-Z45-losbandige-jaren;FASE-noodtoestand-Z38
+- **verwijst_naar:** CUL-gezin-wonen;BESLUIT-Z30-2;MACHT-gewone-mannen;MODE-vrouwen-basis;PER-gewone-mannen;RIT-kinkschaal;RIT-rolwisseling;VOOR-rolwissel;GEB-Z45-losbandige-jaren;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1629,8 +1629,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld.
 - **status:** voorlopig
 - **ronde:** 5
-- **hangt_samen_met:** Khaled-Ir; Qesh
-- **verwijst_naar:** PER-khaled;REG-rosse;RIT-kinkschaal;VOOR-pijn-genot;VOOR-dominante-man;VOOR-harem;STAD-qesh;TECHNO-gave
+- **hangt_samen_met:** Khaled-Ir; Qesh;LOT-Z44-gaven-mannen;FASE-markt
+- **verwijst_naar:** PER-khaled;REG-rosse;RIT-kinkschaal;VOOR-pijn-genot;VOOR-dominante-man;VOOR-harem;STAD-qesh;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1659,8 +1659,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar PER-aeron), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 5
-- **hangt_samen_met:** Aeron-as; Ontlading na magie; Liora
-- **verwijst_naar:** KINK-ontlading-na-magie;PER-aeron;PER-liora-Z6-Z32;RIT-kinkschaal;VOOR-dominante-man;VOOR-ontlading;TECHNO-gave
+- **hangt_samen_met:** Aeron-as; Ontlading na magie; Liora;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** KINK-ontlading-na-magie;PER-aeron;PER-liora-Z6-Z32;RIT-kinkschaal;VOOR-dominante-man;VOOR-ontlading;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1689,8 +1689,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 5
-- **hangt_samen_met:** Zegelvoeding; HET GEHEIM
-- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gaven-mannen;MAGIE-kracht-duur;ORDE-orde;REG-saelith;HAAK-PER-thriller
+- **hangt_samen_met:** Zegelvoeding; HET GEHEIM;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;LOT-Z44-sterrensteen;FASE-barsten
+- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gaven-mannen;MAGIE-kracht-duur;ORDE-orde;REG-saelith;HAAK-PER-thriller;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;LOT-Z44-sterrensteen;FASE-barsten
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1719,8 +1719,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld.
 - **status:** voorlopig
 - **ronde:** 5
-- **hangt_samen_met:** Huis Mirre; Sef
-- **verwijst_naar:** HUI-mirre;REG-zoutkust;RIT-kinkschaal;VOOR-exhibitionisme;VOOR-anoniem;VOOR-veiling;STAD-brakhaven;STAD-isla-mirre
+- **hangt_samen_met:** Huis Mirre; Sef;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** HUI-mirre;REG-zoutkust;RIT-kinkschaal;VOOR-exhibitionisme;VOOR-anoniem;VOOR-veiling;STAD-brakhaven;STAD-isla-mirre;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1749,8 +1749,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 5
-- **hangt_samen_met:** Duel om de man; Huis Kaldra
-- **verwijst_naar:** HUI-kaldra-Z6;KINK-duel-man;MACHT-gaven-mannen;RIT-kinkschaal;VOOR-pijn-genot;VOOR-competitie;VOOR-uithouding;STAD-ijsgraf;TECHNO-gave
+- **hangt_samen_met:** Duel om de man; Huis Kaldra;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** HUI-kaldra-Z6;KINK-duel-man;MACHT-gaven-mannen;RIT-kinkschaal;VOOR-pijn-genot;VOOR-competitie;VOOR-uithouding;STAD-ijsgraf;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1779,8 +1779,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 5
-- **hangt_samen_met:** Gewone mannen; Bram
-- **verwijst_naar:** MACHT-gewone-mannen;PER-gewone-mannen;REG-ambergaard;REG-saelith;RIT-kinkschaal;VOOR-dominante-vrouw;VOOR-onderdanige-man;STAD-saelith
+- **hangt_samen_met:** Gewone mannen; Bram;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** MACHT-gewone-mannen;PER-gewone-mannen;REG-ambergaard;REG-saelith;RIT-kinkschaal;VOOR-dominante-vrouw;VOOR-onderdanige-man;STAD-saelith;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1809,8 +1809,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;REG-kharvos-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 5
-- **hangt_samen_met:** Kharvos; Drask
-- **verwijst_naar:** BESLUIT-Z30-2;REG-kharvos-B1;RIT-kinkschaal;WET-wie-weigert;VOOR-gevangenschap
+- **hangt_samen_met:** Kharvos; Drask;LOT-Z44-ishvar;FASE-barsten
+- **verwijst_naar:** BESLUIT-Z30-2;REG-kharvos-B1;RIT-kinkschaal;WET-wie-weigert;VOOR-gevangenschap;LOT-Z44-ishvar;FASE-barsten
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1839,8 +1839,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 5
-- **hangt_samen_met:** Groenmuil; Magie
-- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-verslaving;REG-groenmuil;RIT-kinkschaal;VOOR-teder;VOOR-geest;STAD-tuaro;TECHNO-gave
+- **hangt_samen_met:** Groenmuil; Magie;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-verslaving;REG-groenmuil;RIT-kinkschaal;VOOR-teder;VOOR-geest;STAD-tuaro;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1869,8 +1869,8 @@
 - **waarom:** Laat Rogier per scène de intensiteit kiezen.
 - **status:** voorlopig
 - **ronde:** 5
-- **hangt_samen_met:** Rituelen; Extreme rituelen
-- **verwijst_naar:** BESLUIT-Z30-2;KINK-nacht-duizend-lampen;KINK-strijdontvangst;KINK-zwijgende-rit;MAGIE-kracht-duur;MAGIE-verslaving;MODE-vrouwen-basis;REG-kharvos-B1;RIT-boeterite;RIT-ontzegging-binding;RIT-rolwisseling;RIT-veiling;TECHNO-bio;TECHNO-gave
+- **hangt_samen_met:** Rituelen; Extreme rituelen;LOT-Z44-ishvar;FASE-ontvangst
+- **verwijst_naar:** BESLUIT-Z30-2;KINK-nacht-duizend-lampen;KINK-strijdontvangst;KINK-zwijgende-rit;MAGIE-kracht-duur;MAGIE-verslaving;MODE-vrouwen-basis;REG-kharvos-B1;RIT-boeterite;RIT-ontzegging-binding;RIT-rolwisseling;RIT-veiling;TECHNO-bio;TECHNO-gave;LOT-Z44-ishvar;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3039,8 +3039,8 @@
 - **waarom:** Vult een gat in de levenscyclus of in het systeem (ronde 7). [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gewone-mannen;MAGIE-kracht-duur;ORDE-doel-geloof), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 7
-- **hangt_samen_met:** Hechting en liefde; Gezin en wonen
-- **verwijst_naar:** CUL-gezin-wonen;MACHT-gewone-mannen;MAGIE-kracht-duur;ORDE-doel-geloof;RIT-kinkschaal;VOOR-teder;VOOR-verboden
+- **hangt_samen_met:** Hechting en liefde; Gezin en wonen;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** CUL-gezin-wonen;MACHT-gewone-mannen;MAGIE-kracht-duur;ORDE-doel-geloof;RIT-kinkschaal;VOOR-teder;VOOR-verboden;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3099,8 +3099,8 @@
 - **waarom:** Vult een gat in de levenscyclus of in het systeem (ronde 7).
 - **status:** voorlopig
 - **ronde:** 7
-- **hangt_samen_met:** Duel om een Man; Huizen
-- **verwijst_naar:** RIT-kinkschaal;VOOR-vernedering
+- **hangt_samen_met:** Duel om een Man; Huizen;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** RIT-kinkschaal;VOOR-vernedering;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3189,8 +3189,8 @@
 - **waarom:** Vult een gat in de levenscyclus of in het systeem (ronde 7). [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 7
-- **hangt_samen_met:** Gewone mannen; Bram
-- **verwijst_naar:** CUL-gezin-wonen;MACHT-gewone-mannen;PER-gewone-mannen;REGEL-registers-merken;RIT-kinkschaal;VOOR-onderdanige-man;VOOR-afscheid
+- **hangt_samen_met:** Gewone mannen; Bram;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** CUL-gezin-wonen;MACHT-gewone-mannen;PER-gewone-mannen;REGEL-registers-merken;RIT-kinkschaal;VOOR-onderdanige-man;VOOR-afscheid;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3219,8 +3219,8 @@
 - **waarom:** Vult een gat in de levenscyclus of in het systeem (ronde 7). [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 7
-- **hangt_samen_met:** HET GEHEIM; Zegelvoeding
-- **verwijst_naar:** BESLUIT-Z30-2;RIT-kinkschaal;SFEER-zegellicht;VOOR-groep;VOOR-ritueel;TECHNO-zegelsteen
+- **hangt_samen_met:** HET GEHEIM; Zegelvoeding;LOT-Z44-zegellicht;LOT-Z44-sterrensteen;FASE-ontvangst
+- **verwijst_naar:** BESLUIT-Z30-2;RIT-kinkschaal;SFEER-zegellicht;VOOR-groep;VOOR-ritueel;TECHNO-zegelsteen;LOT-Z44-zegellicht;LOT-Z44-sterrensteen;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4749,8 +4749,8 @@
 - **waarom:** Ronde 17: ritueel per volk [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar SEKS-VOLK-aelthir-kern;VOLK-aelthir-V5), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-aelthir-kern;VOLK-aelthir
-- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOLK-aelthir-V5
+- **hangt_samen_met:** SEKS-VOLK-aelthir-kern;VOLK-aelthir;LOT-Z44-aelthir;FASE-voortijd
+- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOLK-aelthir-V5;LOT-Z44-aelthir;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4779,8 +4779,8 @@
 - **waarom:** Ronde 17: ritueel per volk [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar SEKS-VOLK-karruk-kern), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-karruk-kern;VOLK-karrûk
-- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOLK-karrûk-Z6-Z38;TECHNO-gave
+- **hangt_samen_met:** SEKS-VOLK-karruk-kern;VOLK-karrûk;LOT-Z44-karruk-storm;FASE-brand-Z38
+- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOLK-karrûk-Z6-Z38;TECHNO-gave;LOT-Z44-karruk-storm;FASE-brand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4809,8 +4809,8 @@
 - **waarom:** Ronde 17: ritueel per volk [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-dhurn), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-dhurn-kern;VOLK-dhurn
-- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOLK-dhurn
+- **hangt_samen_met:** SEKS-VOLK-dhurn-kern;VOLK-dhurn;LOT-Z44-dhurn;FASE-vonk
+- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOLK-dhurn;LOT-Z44-dhurn;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4839,8 +4839,8 @@
 - **waarom:** Ronde 17: ritueel per volk [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar SEKS-VOLK-saelmor-kern;VOLK-sael-mor), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-saelmor-kern;VOLK-sael-mor
-- **verwijst_naar:** SEKS-VOLK-saelmor-kern;VOLK-sael-mor
+- **hangt_samen_met:** SEKS-VOLK-saelmor-kern;VOLK-sael-mor;LOT-Z44-sael-mor;FASE-brand-Z38
+- **verwijst_naar:** SEKS-VOLK-saelmor-kern;VOLK-sael-mor;LOT-Z44-sael-mor;FASE-brand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4869,8 +4869,8 @@
 - **waarom:** Ronde 17: ritueel per volk [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-grauwen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-grauwen-kern;VOLK-grauwen
-- **verwijst_naar:** SEKS-VOLK-grauwen-kern;VOLK-grauwen
+- **hangt_samen_met:** SEKS-VOLK-grauwen-kern;VOLK-grauwen;LOT-Z44-grauwen;FASE-noodtoestand-Z38
+- **verwijst_naar:** SEKS-VOLK-grauwen-kern;VOLK-grauwen;LOT-Z44-grauwen;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4899,8 +4899,8 @@
 - **waarom:** Ronde 17: ritueel per volk [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-ishvar), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-ishvar-kern;VOLK-ishvar
-- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOLK-ishvar
+- **hangt_samen_met:** SEKS-VOLK-ishvar-kern;VOLK-ishvar;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOLK-ishvar;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4929,8 +4929,8 @@
 - **waarom:** Ronde 17: ritueel per volk
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-vathren-kern;VOLK-vathren
-- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOLK-vathren-Z6
+- **hangt_samen_met:** SEKS-VOLK-vathren-kern;VOLK-vathren;LOT-Z44-vathren;FASE-noodtoestand-Z38
+- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOLK-vathren-Z6;LOT-Z44-vathren;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4959,8 +4959,8 @@
 - **waarom:** Ronde 17: ritueel per volk
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-kluwer-kern;VOLK-kluwer
-- **verwijst_naar:** SEKS-VOLK-kluwer-kern;VOLK-kluwer
+- **hangt_samen_met:** SEKS-VOLK-kluwer-kern;VOLK-kluwer;LOT-Z44-kluwers;FASE-brand-Z38
+- **verwijst_naar:** SEKS-VOLK-kluwer-kern;VOLK-kluwer;LOT-Z44-kluwers;FASE-brand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4989,8 +4989,8 @@
 - **waarom:** Ronde 17: ritueel per volk
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-myrrhen-kern;VOLK-myrrhen
-- **verwijst_naar:** SEKS-VOLK-myrrhen-kern;VOLK-myrrhen-Z6
+- **hangt_samen_met:** SEKS-VOLK-myrrhen-kern;VOLK-myrrhen;LOT-Z44-myrrhen;FASE-markt
+- **verwijst_naar:** SEKS-VOLK-myrrhen-kern;VOLK-myrrhen-Z6;LOT-Z44-myrrhen;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -5019,8 +5019,8 @@
 - **waarom:** Ronde 17: ritueel per volk
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-oevrin-kern;VOLK-oevrin
-- **verwijst_naar:** SEKS-VOLK-oevrin-kern;VOLK-oevrin
+- **hangt_samen_met:** SEKS-VOLK-oevrin-kern;VOLK-oevrin;LOT-Z44-oevrin;FASE-voortijd
+- **verwijst_naar:** SEKS-VOLK-oevrin-kern;VOLK-oevrin;LOT-Z44-oevrin;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -5049,8 +5049,8 @@
 - **waarom:** Ronde 17: ritueel per volk
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-tharn-kern;VOLK-tharn
-- **verwijst_naar:** SEKS-VOLK-tharn-kern;VOLK-tharn
+- **hangt_samen_met:** SEKS-VOLK-tharn-kern;VOLK-tharn;LOT-Z44-tharn;FASE-voortijd
+- **verwijst_naar:** SEKS-VOLK-tharn-kern;VOLK-tharn;LOT-Z44-tharn;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -5079,8 +5079,8 @@
 - **waarom:** Ronde 17: ritueel per volk
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-orrim-kern;VOLK-orrim
-- **verwijst_naar:** SEKS-VOLK-orrim-kern;VOLK-orrim
+- **hangt_samen_met:** SEKS-VOLK-orrim-kern;VOLK-orrim;LOT-Z44-orrim;FASE-overvloed
+- **verwijst_naar:** SEKS-VOLK-orrim-kern;VOLK-orrim;LOT-Z44-orrim;FASE-overvloed
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -5109,8 +5109,8 @@
 - **waarom:** Ronde 17: ritueel per volk
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-skerra-kern;VOLK-skerra
-- **verwijst_naar:** SEKS-VOLK-skerra-kern;VOLK-skerra
+- **hangt_samen_met:** SEKS-VOLK-skerra-kern;VOLK-skerra;LOT-Z44-skerra;FASE-vonk
+- **verwijst_naar:** SEKS-VOLK-skerra-kern;VOLK-skerra;LOT-Z44-skerra;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -5139,8 +5139,8 @@
 - **waarom:** Ronde 17: ritueel per volk
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-ves-lethi-kern;VOLK-ves-lethi
-- **verwijst_naar:** SEKS-VOLK-ves-lethi-kern;VOLK-ves-lethi-Z6
+- **hangt_samen_met:** SEKS-VOLK-ves-lethi-kern;VOLK-ves-lethi;LOT-Z44-ves-lethi;FASE-brand-Z38
+- **verwijst_naar:** SEKS-VOLK-ves-lethi-kern;VOLK-ves-lethi-Z6;LOT-Z44-ves-lethi;FASE-brand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -10449,8 +10449,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-myrrhen;EROS-STOP-Z7-myrrhen;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-myrrhen-Z6;EROS-STOP-Z7-myrrhen;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-myrrhen;EROS-STOP-Z7-myrrhen;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-myrrhen-Z6;EROS-STOP-Z7-myrrhen;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10479,8 +10479,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7;VOLK-ishvar), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-ishvar;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-ishvar;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-ishvar;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** VOLK-ishvar;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10509,8 +10509,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7
-- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7
+- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10539,8 +10539,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** BODY-Z8-31;EROS-GRENZEN-Z7
-- **verwijst_naar:** BODY-Z8-31-L10;EROS-GRENZEN-Z7
+- **hangt_samen_met:** BODY-Z8-31;EROS-GRENZEN-Z7;LOT-Z44-leegtewormen;FASE-overvloed
+- **verwijst_naar:** BODY-Z8-31-L10;EROS-GRENZEN-Z7;LOT-Z44-leegtewormen;FASE-overvloed
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10569,8 +10569,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** BODY-Z8-45;EROS-GRENZEN-Z7
-- **verwijst_naar:** BODY-Z8-45-L10;EROS-GRENZEN-Z7
+- **hangt_samen_met:** BODY-Z8-45;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** BODY-Z8-45-L10;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10599,8 +10599,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7;VOLK-dhurn), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-dhurn;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-dhurn;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-dhurn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-dhurn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10629,8 +10629,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10659,8 +10659,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** KINK-Z8-5;EROS-GRENZEN-Z7
-- **verwijst_naar:** KINK-Z8-5;EROS-GRENZEN-Z7
+- **hangt_samen_met:** KINK-Z8-5;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** KINK-Z8-5;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10689,8 +10689,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10719,8 +10719,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7;VOLK-aelthir-V5), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-aelthir;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-aelthir-V5;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-aelthir;EROS-GRENZEN-Z7;LOT-Z44-aelthir;FASE-voortijd
+- **verwijst_naar:** VOLK-aelthir-V5;EROS-GRENZEN-Z7;LOT-Z44-aelthir;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10749,8 +10749,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** KINK-Z8-5;EROS-GRENZEN-Z7
-- **verwijst_naar:** KINK-Z8-5;EROS-GRENZEN-Z7
+- **hangt_samen_met:** KINK-Z8-5;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** KINK-Z8-5;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10779,8 +10779,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BESLUIT-Z7-JORRIT;EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** EROS-STOP-Z7-mensen-zoutkust;BESLUIT-Z7-JORRIT;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-STOP-Z7-mensen-zoutkust;BESLUIT-Z7-JORRIT;EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-STOP-Z7-mensen-zoutkust;BESLUIT-Z7-JORRIT;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-STOP-Z7-mensen-zoutkust;BESLUIT-Z7-JORRIT;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10809,8 +10809,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** REG-zoutkust;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-zoutkust;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10839,8 +10839,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7
-- **verwijst_naar:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7
+- **hangt_samen_met:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7;LOT-Z44-sterrensteen;LOT-Z44-gaven-mannen;FASE-noodtoestand-Z38
+- **verwijst_naar:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7;LOT-Z44-sterrensteen;LOT-Z44-gaven-mannen;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10869,8 +10869,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7;VOLK-dhurn), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-dhurn;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-dhurn;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-dhurn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-dhurn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10899,8 +10899,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10929,8 +10929,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10959,8 +10959,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-karrûk;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-karrûk-Z6-Z38;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-karrûk;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10989,8 +10989,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11019,8 +11019,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11049,8 +11049,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7
-- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7
+- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11079,8 +11079,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11109,8 +11109,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7;REG-kharvos;REG-kharvos-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** REG-kharvos;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-kharvos-B1;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-kharvos;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-kharvos-B1;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11139,8 +11139,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** VERLEID-Z8-27;EROS-GRENZEN-Z7
-- **verwijst_naar:** VERLEID-Z8-27-L10;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VERLEID-Z8-27;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VERLEID-Z8-27-L10;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11169,8 +11169,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11199,8 +11199,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-oevrin;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-oevrin;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-oevrin;EROS-GRENZEN-Z7;LOT-Z44-oevrin;FASE-voortijd
+- **verwijst_naar:** VOLK-oevrin;EROS-GRENZEN-Z7;LOT-Z44-oevrin;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11229,8 +11229,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-myrrhen;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-myrrhen-Z6;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-myrrhen;EROS-GRENZEN-Z7;LOT-Z44-myrrhen;FASE-markt
+- **verwijst_naar:** VOLK-myrrhen-Z6;EROS-GRENZEN-Z7;LOT-Z44-myrrhen;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11259,8 +11259,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11289,8 +11289,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7
-- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7
+- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11319,8 +11319,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11349,8 +11349,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** BODY-Z8-46;EROS-GRENZEN-Z7
-- **verwijst_naar:** BODY-Z8-46-L10;EROS-GRENZEN-Z7
+- **hangt_samen_met:** BODY-Z8-46;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** BODY-Z8-46-L10;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11379,8 +11379,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** EROS-RAUW-Z7-1;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-RAUW-Z7-1;EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-RAUW-Z7-1;EROS-GRENZEN-Z7;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** EROS-RAUW-Z7-1;EROS-GRENZEN-Z7;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11409,8 +11409,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** REG-zoutkust;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-zoutkust;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11439,8 +11439,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11469,8 +11469,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** BODY-Z8-38;EROS-GRENZEN-Z7
-- **verwijst_naar:** BODY-Z8-38-L10;EROS-GRENZEN-Z7
+- **hangt_samen_met:** BODY-Z8-38;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** BODY-Z8-38-L10;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11499,8 +11499,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** BODY-Z8-36;EROS-GRENZEN-Z7
-- **verwijst_naar:** BODY-Z8-36-L10;EROS-GRENZEN-Z7
+- **hangt_samen_met:** BODY-Z8-36;EROS-GRENZEN-Z7;LOT-Z44-leegtewormen;FASE-overvloed
+- **verwijst_naar:** BODY-Z8-36-L10;EROS-GRENZEN-Z7;LOT-Z44-leegtewormen;FASE-overvloed
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11529,8 +11529,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** BODY-Z8-47;EROS-GRENZEN-Z7
-- **verwijst_naar:** BODY-Z8-47-L10;EROS-GRENZEN-Z7
+- **hangt_samen_met:** BODY-Z8-47;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** BODY-Z8-47-L10;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11559,8 +11559,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11589,8 +11589,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** GOD-ysa;EROS-GRENZEN-Z7
-- **verwijst_naar:** GOD-ysa;EROS-GRENZEN-Z7
+- **hangt_samen_met:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11619,8 +11619,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** REG-zoutkust;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-zoutkust;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11649,8 +11649,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11709,8 +11709,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11739,8 +11739,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** LICH-vonkkoorts;EROS-GRENZEN-Z7
-- **verwijst_naar:** LICH-vonkkoorts;EROS-GRENZEN-Z7
+- **hangt_samen_met:** LICH-vonkkoorts;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** LICH-vonkkoorts;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11769,8 +11769,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** TECH-REGEL;EROS-GRENZEN-Z7
-- **verwijst_naar:** TECH-REGEL;EROS-GRENZEN-Z7
+- **hangt_samen_met:** TECH-REGEL;EROS-GRENZEN-Z7;LOT-Z44-sterrensteen;FASE-brand-Z38
+- **verwijst_naar:** TECH-REGEL;EROS-GRENZEN-Z7;LOT-Z44-sterrensteen;FASE-brand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11799,8 +11799,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7;EROS-GRENZEN-Z7
-- **verwijst_naar:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7
+- **hangt_samen_met:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7;EROS-GRENZEN-Z7;LOT-Z44-sterrensteen;FASE-noodtoestand-Z38
+- **verwijst_naar:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7;LOT-Z44-sterrensteen;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11829,8 +11829,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** EROS-RAUW-Z7-3;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-RAUW-Z7-3;EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-RAUW-Z7-3;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-RAUW-Z7-3;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11859,8 +11859,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11889,8 +11889,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11919,8 +11919,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11949,8 +11949,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-karrûk;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-karrûk-Z6-Z38;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-karrûk;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11979,8 +11979,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-skerra;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-skerra;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-skerra;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-skerra;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12009,8 +12009,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-vathren;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-vathren-Z6;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-vathren;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-vathren-Z6;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12039,8 +12039,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-tharn;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-tharn;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-tharn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-tharn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12069,8 +12069,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-myrrhen;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-myrrhen-Z6;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-myrrhen;EROS-GRENZEN-Z7;LOT-Z44-myrrhen;FASE-markt
+- **verwijst_naar:** VOLK-myrrhen-Z6;EROS-GRENZEN-Z7;LOT-Z44-myrrhen;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12099,8 +12099,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7
-- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7
+- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12129,8 +12129,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** GOD-ysa;EROS-GRENZEN-Z7
-- **verwijst_naar:** GOD-ysa;EROS-GRENZEN-Z7
+- **hangt_samen_met:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12159,8 +12159,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12189,8 +12189,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** GOD-ysa;EROS-GRENZEN-Z7
-- **verwijst_naar:** GOD-ysa;EROS-GRENZEN-Z7
+- **hangt_samen_met:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-overvloed
+- **verwijst_naar:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-overvloed
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12219,8 +12219,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -16749,8 +16749,8 @@
 - **waarom:** Ronde Z10: overzicht kinknetwerk
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-1;BODY-Z8-1;EROS-RAUW-Z7-1;BEST-orde-hoofd
-- **verwijst_naar:** KINK-Z8-1;BODY-Z8-1;EROS-RAUW-Z7-1;BEST-orde-hoofd
+- **hangt_samen_met:** KINK-Z8-1;BODY-Z8-1;EROS-RAUW-Z7-1;BEST-orde-hoofd;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** KINK-Z8-1;BODY-Z8-1;EROS-RAUW-Z7-1;BEST-orde-hoofd;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -17319,8 +17319,8 @@
 - **waarom:** Ronde Z10: bijgeschreven versie van KINK-Z8-42 (optimalisatie) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7;VOLK-aelthir-V5), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-42;VOLK-aelthir;EROS-GRENZEN-Z7;KINKFUNC-Z10-42
-- **verwijst_naar:** KINK-Z8-42-L10;VOLK-aelthir-V5;EROS-GRENZEN-Z7;KINKFUNC-Z10-42
+- **hangt_samen_met:** KINK-Z8-42;VOLK-aelthir;EROS-GRENZEN-Z7;KINKFUNC-Z10-42;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** KINK-Z8-42-L10;VOLK-aelthir-V5;EROS-GRENZEN-Z7;KINKFUNC-Z10-42;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 

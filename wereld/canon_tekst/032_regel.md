@@ -439,5 +439,49 @@
 - **status:** actief
 - **niveau:** signaal
 <!-- /REC -->
+<!-- REC regel -->
+### R-fantasie_zonder_toekomst · Een erotische fantasie (VOOR-, KINK-, RIT-) zonder link naar een LOT-Z44-rij of GEB-Z45-losbandige-jaren: haar toekomst na 801 is onbekend.
+- **code:** R-fantasie_zonder_toekomst
+- **domein:** tijd
+- **omschrijving:** Een erotische fantasie (VOOR-, KINK-, RIT-) zonder link naar een LOT-Z44-rij of GEB-Z45-losbandige-jaren: haar toekomst na 801 is onbekend.
+- **sql_test:** select code,'fantasie zonder toekomst: '||coalesce(naam,'') from fantasie_kern where afh is null
+- **bron:** Z47 (afgeleid_motor.fantasie_tijd)
+- **goedgekeurd_door:** architect Z47 (signaal)
+- **status:** actief
+- **niveau:** signaal
+<!-- /REC -->
+<!-- REC regel -->
+### R-drager_bron · Een drager zonder levende bronrij naast haar behoefte en fase (DRAGERS.md criterium 1).
+- **code:** R-drager_bron
+- **domein:** tijd
+- **omschrijving:** Een drager zonder levende bronrij naast haar behoefte en fase (DRAGERS.md criterium 1).
+- **sql_test:** select d.code,'drager zonder bron' from drager d where not exists (select 1 from drager_bron b where b.drager=d.code) or d.behoefte is null
+- **bron:** Z48 (architectuur/DRAGERS.md)
+- **goedgekeurd_door:** architect Z48 (fout)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-drager_tijd · Een drager bestaat eerder dan haar bron (DRAGERS.md criterium 2).
+- **code:** R-drager_tijd
+- **domein:** tijd
+- **omschrijving:** Een drager bestaat eerder dan haar bron (DRAGERS.md criterium 2).
+- **sql_test:** select b.drager,'drager in fase '||d.fase||' vóór bron '||b.bron||' (fase '||b.bron_fase||')' from drager_bron b join drager d on d.code=b.drager where b.bron_fase is not null and d.fase is not null and d.fase<b.bron_fase
+- **bron:** Z48 (architectuur/DRAGERS.md)
+- **goedgekeurd_door:** architect Z48 (fout)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-fantasie_onmogelijk · Een erotische fantasie is in een tijdperk onmogelijk: zoek een drager (DRAGERS.md criterium 9).
+- **code:** R-fantasie_onmogelijk
+- **domein:** tijd
+- **omschrijving:** Een erotische fantasie is in een tijdperk onmogelijk: zoek een drager (DRAGERS.md criterium 9).
+- **sql_test:** select code,'onmogelijk in fase '||fase from fantasie_status where status='onmogelijk'
+- **bron:** Z48 (architectuur/DRAGERS.md)
+- **goedgekeurd_door:** architect Z48 (signaal)
+- **status:** actief
+- **niveau:** signaal
+<!-- /REC -->
 
 <!-- SECTIE: BOOG -->

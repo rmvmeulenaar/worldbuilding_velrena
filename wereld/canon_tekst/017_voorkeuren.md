@@ -9,8 +9,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-uitverkorenen;RIT-overdracht;RIT-ketenwake;PER-liora;PER-khaled
-- **verwijst_naar:** GEB-uitverkorenen-210-Z6;RIT-overdracht;RIT-ketenwake;PER-liora-Z6-Z32;HAAK-V5-zegel-2
+- **hangt_samen_met:** GEB-uitverkorenen;RIT-overdracht;RIT-ketenwake;PER-liora;PER-khaled;LOT-Z44-ishvar;FASE-ontvangst
+- **verwijst_naar:** GEB-uitverkorenen-210-Z6;RIT-overdracht;RIT-ketenwake;PER-liora-Z6-Z32;HAAK-V5-zegel-2;LOT-Z44-ishvar;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -39,8 +39,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-deelwet;RIT-melkrite;RIT-kettingstoet;RIT-veiling;HUI-varenne
-- **verwijst_naar:** GEB-deelwet-40;RIT-melkrite;RIT-kettingstoet;RIT-veiling;HUI-varenne;HAAK-B1-5-4
+- **hangt_samen_met:** GEB-deelwet;RIT-melkrite;RIT-kettingstoet;RIT-veiling;HUI-varenne;GEB-Z45-losbandige-jaren;FASE-noodtoestand-Z38
+- **verwijst_naar:** GEB-deelwet-40;RIT-melkrite;RIT-kettingstoet;RIT-veiling;HUI-varenne;HAAK-B1-5-4;GEB-Z45-losbandige-jaren;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -69,8 +69,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-melkstallen;RIT-melkrite;RIT-zaadcontract;REG-ambergaard;PER-gewone-mannen
-- **verwijst_naar:** GEB-pest-340;RIT-melkrite;RIT-zaadcontract;REG-ambergaard;PER-gewone-mannen
+- **hangt_samen_met:** GEB-melkstallen;RIT-melkrite;RIT-zaadcontract;REG-ambergaard;PER-gewone-mannen;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** GEB-pest-340;RIT-melkrite;RIT-zaadcontract;REG-ambergaard;PER-gewone-mannen;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -99,8 +99,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-ketenwake-ontstaat;RIT-ketenwake;RIT-leegtewake;RIT-ontzegging-binding;RIT-boeterite
-- **verwijst_naar:** GEB-pest-340;RIT-ketenwake;RIT-leegtewake;RIT-ontzegging-binding;RIT-boeterite;HAAK-techno-gave-3
+- **hangt_samen_met:** GEB-ketenwake-ontstaat;RIT-ketenwake;RIT-leegtewake;RIT-ontzegging-binding;RIT-boeterite;LOT-Z44-ishvar;FASE-markt
+- **verwijst_naar:** GEB-pest-340;RIT-ketenwake;RIT-leegtewake;RIT-ontzegging-binding;RIT-boeterite;HAAK-techno-gave-3;LOT-Z44-ishvar;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -129,8 +129,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-ketenwake-ontstaat;RIT-ketenwake;RIT-leegtewake;RIT-zegelbinding
-- **verwijst_naar:** GEB-pest-340;RIT-ketenwake;RIT-leegtewake;RIT-zegelbinding
+- **hangt_samen_met:** GEB-ketenwake-ontstaat;RIT-ketenwake;RIT-leegtewake;RIT-zegelbinding;LOT-Z44-ishvar;FASE-markt
+- **verwijst_naar:** GEB-pest-340;RIT-ketenwake;RIT-leegtewake;RIT-zegelbinding;LOT-Z44-ishvar;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -159,8 +159,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-eerste-ontvangst;RIT-ontvangst;RIT-schandpodium;RIT-gemaskerde-veiling;SFEER-tempels-verleidingspaleizen
-- **verwijst_naar:** GEB-eerste-zegellicht;RIT-ontvangst;RIT-schandpodium;RIT-gemaskerde-veiling;SFEER-tempels-verleidingspaleizen
+- **hangt_samen_met:** GEB-eerste-ontvangst;RIT-ontvangst;RIT-schandpodium;RIT-gemaskerde-veiling;SFEER-tempels-verleidingspaleizen;LOT-Z44-ishvar;FASE-ontvangst
+- **verwijst_naar:** GEB-eerste-zegellicht;RIT-ontvangst;RIT-schandpodium;RIT-gemaskerde-veiling;SFEER-tempels-verleidingspaleizen;LOT-Z44-ishvar;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -189,8 +189,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-eerste-ontvangst;RIT-ontvangst;RIT-duel-man;RIT-oogstbed
-- **verwijst_naar:** GEB-eerste-zegellicht;RIT-ontvangst;RIT-duel-man;RIT-oogstbed
+- **hangt_samen_met:** GEB-eerste-ontvangst;RIT-ontvangst;RIT-duel-man;RIT-oogstbed;LOT-Z44-ishvar;FASE-ontvangst
+- **verwijst_naar:** GEB-eerste-zegellicht;RIT-ontvangst;RIT-duel-man;RIT-oogstbed;LOT-Z44-ishvar;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 2
@@ -219,8 +219,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-deelwet;RIT-zevenvoudige-ontvangst;RIT-strijdontvangst;RIT-nacht-duizend-lampen;RIT-zegelnacht-volk;RIT-zegelvoeding
-- **verwijst_naar:** GEB-deelwet-40;RIT-zevenvoudige-ontvangst;RIT-strijdontvangst;RIT-nacht-duizend-lampen;RIT-zegelnacht-volk;RIT-zegelvoeding;HAAK-B1-1-2
+- **hangt_samen_met:** GEB-deelwet;RIT-zevenvoudige-ontvangst;RIT-strijdontvangst;RIT-nacht-duizend-lampen;RIT-zegelnacht-volk;RIT-zegelvoeding;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** GEB-deelwet-40;RIT-zevenvoudige-ontvangst;RIT-strijdontvangst;RIT-nacht-duizend-lampen;RIT-zegelnacht-volk;RIT-zegelvoeding;HAAK-B1-1-2;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -249,8 +249,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 8
-- **hangt_samen_met:** GEB-zaad-ontdekking;RIT-zevenvoudige-ontvangst;MAGIE-kracht-duur
-- **verwijst_naar:** GEB-zaadkracht-ontdekt;RIT-zevenvoudige-ontvangst;MAGIE-kracht-duur
+- **hangt_samen_met:** GEB-zaad-ontdekking;RIT-zevenvoudige-ontvangst;MAGIE-kracht-duur;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** GEB-zaadkracht-ontdekt;RIT-zevenvoudige-ontvangst;MAGIE-kracht-duur;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -279,8 +279,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-schisma-stilte;RIT-zwijgende-rit;RIT-doorgang-duizend-handen;RIT-gemaskerde-veiling
-- **verwijst_naar:** GEB-stille-schisma;RIT-zwijgende-rit;RIT-doorgang-duizend-handen;RIT-gemaskerde-veiling
+- **hangt_samen_met:** GEB-schisma-stilte;RIT-zwijgende-rit;RIT-doorgang-duizend-handen;RIT-gemaskerde-veiling;LOT-Z44-ishvar;FASE-ontvangst
+- **verwijst_naar:** GEB-stille-schisma;RIT-zwijgende-rit;RIT-doorgang-duizend-handen;RIT-gemaskerde-veiling;LOT-Z44-ishvar;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -309,8 +309,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-vonkpest;RIT-vuurgloed;RIT-gletsjerproef;RIT-bloedverbinding;PER-khaled
-- **verwijst_naar:** GEB-vonkkoorts;RIT-vuurgloed;RIT-gletsjerproef;RIT-bloedverbinding;PER-khaled
+- **hangt_samen_met:** GEB-vonkpest;RIT-vuurgloed;RIT-gletsjerproef;RIT-bloedverbinding;PER-khaled;LOT-Z44-ishvar;FASE-vonk
+- **verwijst_naar:** GEB-vonkkoorts;RIT-vuurgloed;RIT-gletsjerproef;RIT-bloedverbinding;PER-khaled;LOT-Z44-ishvar;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -339,8 +339,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-bloednacht-lisk;RIT-bloedverbinding;PER-morvane;REG-saelith
-- **verwijst_naar:** GEB-bloednacht-788;RIT-bloedverbinding;PER-morvane;REG-saelith;STAD-saelith
+- **hangt_samen_met:** GEB-bloednacht-lisk;RIT-bloedverbinding;PER-morvane;REG-saelith;LOT-Z44-ishvar;FASE-barsten
+- **verwijst_naar:** GEB-bloednacht-788;RIT-bloedverbinding;PER-morvane;REG-saelith;STAD-saelith;LOT-Z44-ishvar;FASE-barsten
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -369,8 +369,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-uitverkorenen;RIT-ontzegging-binding;RIT-bloedverbinding;MAGIE-verslaving;PER-morvane
-- **verwijst_naar:** GEB-uitverkorenen-210-Z6;RIT-ontzegging-binding;RIT-bloedverbinding;MAGIE-verslaving;PER-morvane;HAAK-Z1-derdeweg-3
+- **hangt_samen_met:** GEB-uitverkorenen;RIT-ontzegging-binding;RIT-bloedverbinding;MAGIE-verslaving;PER-morvane;LOT-Z44-gaven-mannen;FASE-ontvangst
+- **verwijst_naar:** GEB-uitverkorenen-210-Z6;RIT-ontzegging-binding;RIT-bloedverbinding;MAGIE-verslaving;PER-morvane;HAAK-Z1-derdeweg-3;LOT-Z44-gaven-mannen;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -399,8 +399,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar PER-aeron), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 8
-- **hangt_samen_met:** GEB-zusters-heelsters;RIT-tweegelofte;RIT-gunstnacht;RIT-spiegelnacht;RIT-melkzegen;PER-aeron;PER-liora
-- **verwijst_naar:** GEB-zusterburcht;RIT-tweegelofte;RIT-gunstnacht;RIT-spiegelnacht;RIT-melkzegen;PER-aeron;HAAK-techno-gave-3
+- **hangt_samen_met:** GEB-zusters-heelsters;RIT-tweegelofte;RIT-gunstnacht;RIT-spiegelnacht;RIT-melkzegen;PER-aeron;PER-liora;LOT-Z44-ishvar;FASE-overvloed
+- **verwijst_naar:** GEB-zusterburcht;RIT-tweegelofte;RIT-gunstnacht;RIT-spiegelnacht;RIT-melkzegen;PER-aeron;HAAK-techno-gave-3;LOT-Z44-ishvar;FASE-overvloed
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 1
@@ -429,8 +429,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-zustersburcht;RIT-maanzalving;RIT-laatste-bed;RIT-doorgang-duizend-handen;REG-stille;PER-bondgenoten
-- **verwijst_naar:** GEB-zusterburcht;RIT-maanzalving;RIT-laatste-bed;RIT-doorgang-duizend-handen;REG-stille;PER-bondgenoten;HAAK-REG-hoogvrouwe
+- **hangt_samen_met:** GEB-zustersburcht;RIT-maanzalving;RIT-laatste-bed;RIT-doorgang-duizend-handen;REG-stille;PER-bondgenoten;LOT-Z44-ishvar;FASE-overvloed
+- **verwijst_naar:** GEB-zusterburcht;RIT-maanzalving;RIT-laatste-bed;RIT-doorgang-duizend-handen;REG-stille;PER-bondgenoten;HAAK-REG-hoogvrouwe;LOT-Z44-ishvar;FASE-overvloed
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 2
@@ -459,8 +459,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-deelwet;RIT-rolwisseling;RIT-halsbandwissel;PER-gewone-mannen
-- **verwijst_naar:** GEB-deelwet-40;RIT-rolwisseling;RIT-halsbandwissel;PER-gewone-mannen
+- **hangt_samen_met:** GEB-deelwet;RIT-rolwisseling;RIT-halsbandwissel;PER-gewone-mannen;GEB-Z45-losbandige-jaren;FASE-noodtoestand-Z38
+- **verwijst_naar:** GEB-deelwet-40;RIT-rolwisseling;RIT-halsbandwissel;PER-gewone-mannen;GEB-Z45-losbandige-jaren;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -489,8 +489,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-grote-pest;RIT-melkrite;RIT-kettingstoet;RIT-halsbandoverdracht;PER-gewone-mannen
-- **verwijst_naar:** GEB-pest-340;RIT-melkrite;RIT-kettingstoet;RIT-halsbandoverdracht;PER-gewone-mannen
+- **hangt_samen_met:** GEB-grote-pest;RIT-melkrite;RIT-kettingstoet;RIT-halsbandoverdracht;PER-gewone-mannen;LOT-Z44-ishvar;FASE-markt
+- **verwijst_naar:** GEB-pest-340;RIT-melkrite;RIT-kettingstoet;RIT-halsbandoverdracht;PER-gewone-mannen;LOT-Z44-ishvar;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -519,8 +519,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-vonkkoningen;RIT-vuurgloed;RIT-stormontlading;RIT-ontzegging-binding;PER-morvane;PER-khaled
-- **verwijst_naar:** FASE-vonk;RIT-vuurgloed;RIT-stormontlading;RIT-ontzegging-binding;PER-morvane;PER-khaled;HAAK-REG-stille
+- **hangt_samen_met:** GEB-vonkkoningen;RIT-vuurgloed;RIT-stormontlading;RIT-ontzegging-binding;PER-morvane;PER-khaled;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** FASE-vonk;RIT-vuurgloed;RIT-stormontlading;RIT-ontzegging-binding;PER-morvane;PER-khaled;HAAK-REG-stille;LOT-Z44-gaven-mannen
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -549,8 +549,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-kaldra-eed;RIT-duel-man;RIT-gletsjerproef;HUI-kaldra
-- **verwijst_naar:** FASE-markt;RIT-duel-man;RIT-gletsjerproef;HUI-kaldra-Z6
+- **hangt_samen_met:** GEB-kaldra-eed;RIT-duel-man;RIT-gletsjerproef;HUI-kaldra;LOT-Z44-ishvar;FASE-markt
+- **verwijst_naar:** FASE-markt;RIT-duel-man;RIT-gletsjerproef;HUI-kaldra-Z6;LOT-Z44-ishvar
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -579,8 +579,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-zaadbeurs;RIT-veiling;RIT-gemaskerde-veiling;HUI-varenne;HUI-mirre
-- **verwijst_naar:** GEB-zaadbeurs-455;RIT-veiling;RIT-gemaskerde-veiling;HUI-varenne;HUI-mirre
+- **hangt_samen_met:** GEB-zaadbeurs;RIT-veiling;RIT-gemaskerde-veiling;HUI-varenne;HUI-mirre;LOT-Z44-ishvar;FASE-markt
+- **verwijst_naar:** GEB-zaadbeurs-455;RIT-veiling;RIT-gemaskerde-veiling;HUI-varenne;HUI-mirre;LOT-Z44-ishvar;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -609,8 +609,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-zonvorstendom;KINK-harem-gunst;RIT-vuurgloed;HUI-qesh;PER-khaled
-- **verwijst_naar:** GEB-qesh-512;KINK-harem-gunst;RIT-vuurgloed;HUI-qesh-Z6;PER-khaled;STAD-qesh
+- **hangt_samen_met:** GEB-zonvorstendom;KINK-harem-gunst;RIT-vuurgloed;HUI-qesh;PER-khaled;LOT-Z44-ishvar;FASE-markt
+- **verwijst_naar:** GEB-qesh-512;KINK-harem-gunst;RIT-vuurgloed;HUI-qesh-Z6;PER-khaled;STAD-qesh;LOT-Z44-ishvar;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -639,8 +639,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-orde-sticht;RIT-ontvangst;RIT-wijding;RIT-pelgrimszalving;RIT-zegelnacht-volk;ORDE-orde
-- **verwijst_naar:** GEB-orde-90;RIT-ontvangst;RIT-wijding;RIT-pelgrimszalving;RIT-zegelnacht-volk;ORDE-orde;HAAK-B1-3-2
+- **hangt_samen_met:** GEB-orde-sticht;RIT-ontvangst;RIT-wijding;RIT-pelgrimszalving;RIT-zegelnacht-volk;ORDE-orde;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** GEB-orde-90;RIT-ontvangst;RIT-wijding;RIT-pelgrimszalving;RIT-zegelnacht-volk;ORDE-orde;HAAK-B1-3-2;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 2
@@ -669,8 +669,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-orde-sticht;RIT-schandpodium;RIT-boeterite;RIT-verzoening
-- **verwijst_naar:** GEB-orde-90;RIT-schandpodium;RIT-boeterite;RIT-verzoening
+- **hangt_samen_met:** GEB-orde-sticht;RIT-schandpodium;RIT-boeterite;RIT-verzoening;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** GEB-orde-90;RIT-schandpodium;RIT-boeterite;RIT-verzoening;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -699,8 +699,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-ketenwake-ontstaat;RIT-gletsjerproef;RIT-zevenvoudige-ontvangst;RIT-strijdontvangst
-- **verwijst_naar:** GEB-pest-340;RIT-gletsjerproef;RIT-zevenvoudige-ontvangst;RIT-strijdontvangst
+- **hangt_samen_met:** GEB-ketenwake-ontstaat;RIT-gletsjerproef;RIT-zevenvoudige-ontvangst;RIT-strijdontvangst;LOT-Z44-ishvar;FASE-markt
+- **verwijst_naar:** GEB-pest-340;RIT-gletsjerproef;RIT-zevenvoudige-ontvangst;RIT-strijdontvangst;LOT-Z44-ishvar;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -729,8 +729,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-eerste-vonk;RIT-spiegelnacht;REG-groenmuil
-- **verwijst_naar:** GEB-orric-vonk;RIT-spiegelnacht;REG-groenmuil;SEKS-VOLK-aelthir-koelen;HAAK-B1-3-3
+- **hangt_samen_met:** GEB-eerste-vonk;RIT-spiegelnacht;REG-groenmuil;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** GEB-orric-vonk;RIT-spiegelnacht;REG-groenmuil;SEKS-VOLK-aelthir-koelen;HAAK-B1-3-3;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -759,8 +759,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar PER-aeron), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 8
-- **hangt_samen_met:** GEB-vonkpest;RIT-stormontlading;KINK-ontlading-na-magie;PER-aeron
-- **verwijst_naar:** GEB-vonkkoorts;RIT-stormontlading;KINK-ontlading-na-magie;PER-aeron
+- **hangt_samen_met:** GEB-vonkpest;RIT-stormontlading;KINK-ontlading-na-magie;PER-aeron;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** GEB-vonkkoorts;RIT-stormontlading;KINK-ontlading-na-magie;PER-aeron;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -789,8 +789,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-rotatiewet;RIT-reizigersgroet;RIT-pelgrimszalving;QST-etappes-queeste
-- **verwijst_naar:** FASE-markt;RIT-reizigersgroet;RIT-pelgrimszalving;QST-etappes-queeste
+- **hangt_samen_met:** GEB-rotatiewet;RIT-reizigersgroet;RIT-pelgrimszalving;QST-etappes-queeste;LOT-Z44-ishvar;FASE-markt
+- **verwijst_naar:** FASE-markt;RIT-reizigersgroet;RIT-pelgrimszalving;QST-etappes-queeste;LOT-Z44-ishvar
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 2
@@ -819,8 +819,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-mirre-vrijhaven;KINK-verboden-toegang;REG-zoutkust;RIT-tweegelofte
-- **verwijst_naar:** FASE-markt;KINK-verboden-toegang;REG-zoutkust;RIT-tweegelofte;GEB-r10-eilanden-weigering;HAAK-B1-5-1
+- **hangt_samen_met:** GEB-mirre-vrijhaven;KINK-verboden-toegang;REG-zoutkust;RIT-tweegelofte;LOT-Z44-zegellicht;FASE-markt
+- **verwijst_naar:** FASE-markt;KINK-verboden-toegang;REG-zoutkust;RIT-tweegelofte;GEB-r10-eilanden-weigering;HAAK-B1-5-1;LOT-Z44-zegellicht
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -849,8 +849,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-orde-sticht;RIT-zilverwake;RIT-pelgrimszalving;RIT-tribunaal-drie
-- **verwijst_naar:** GEB-orde-90;RIT-zilverwake;RIT-pelgrimszalving;RIT-tribunaal-drie
+- **hangt_samen_met:** GEB-orde-sticht;RIT-zilverwake;RIT-pelgrimszalving;RIT-tribunaal-drie;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** GEB-orde-90;RIT-zilverwake;RIT-pelgrimszalving;RIT-tribunaal-drie;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 2
@@ -879,8 +879,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-deelwet;MODE-per-regio;RIT-melkzegen;RIT-stille-kind;RIT-geboortelied
-- **verwijst_naar:** GEB-deelwet-40;MODE-per-regio;RIT-melkzegen;RIT-stille-kind;RIT-geboortelied
+- **hangt_samen_met:** GEB-deelwet;MODE-per-regio;RIT-melkzegen;RIT-stille-kind;RIT-geboortelied;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** GEB-deelwet-40;MODE-per-regio;RIT-melkzegen;RIT-stille-kind;RIT-geboortelied;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 1
@@ -909,8 +909,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen.
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-grote-pest;RIT-laatste-bed;RIT-afscheid-uitverkorene;RIT-halsbandoverdracht
-- **verwijst_naar:** GEB-pest-340;RIT-laatste-bed;RIT-afscheid-uitverkorene;RIT-halsbandoverdracht
+- **hangt_samen_met:** GEB-grote-pest;RIT-laatste-bed;RIT-afscheid-uitverkorene;RIT-halsbandoverdracht;LOT-Z44-ishvar;FASE-markt
+- **verwijst_naar:** GEB-pest-340;RIT-laatste-bed;RIT-afscheid-uitverkorene;RIT-halsbandoverdracht;LOT-Z44-ishvar;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 2
@@ -939,8 +939,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 8
-- **hangt_samen_met:** GEB-zaadbeurs;RIT-zaadcontract;RIT-tribunaal-drie;KINK-betalen-met-lichaam
-- **verwijst_naar:** GEB-zaadbeurs-455;RIT-zaadcontract;RIT-tribunaal-drie;KINK-betalen-met-lichaam;HAAK-Z17-zegel-6
+- **hangt_samen_met:** GEB-zaadbeurs;RIT-zaadcontract;RIT-tribunaal-drie;KINK-betalen-met-lichaam;LOT-Z44-ishvar;FASE-markt
+- **verwijst_naar:** GEB-zaadbeurs-455;RIT-zaadcontract;RIT-tribunaal-drie;KINK-betalen-met-lichaam;HAAK-Z17-zegel-6;LOT-Z44-ishvar;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 2
@@ -969,8 +969,8 @@
 - **waarom:** Voorkeurenlaag: veel manieren om seksuele voorkeuren in de wereld te plaatsen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar REG-kharvos-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 8
-- **hangt_samen_met:** GEB-kharvos-inval;RIT-kharvosrite;REG-kharvos
-- **verwijst_naar:** GEB-kharvos-720;RIT-kharvosrite;REG-kharvos-B1
+- **hangt_samen_met:** GEB-kharvos-inval;RIT-kharvosrite;REG-kharvos;LOT-Z44-ishvar;FASE-barsten
+- **verwijst_naar:** GEB-kharvos-720;RIT-kharvosrite;REG-kharvos-B1;LOT-Z44-ishvar;FASE-barsten
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -999,8 +999,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-kluwer;VOLK-myrrhen;VOLK-orrim
-- **verwijst_naar:** VOLK-kluwer;VOLK-myrrhen-Z6;VOLK-orrim
+- **hangt_samen_met:** VOLK-kluwer;VOLK-myrrhen;VOLK-orrim;LOT-Z44-myrrhen;FASE-markt
+- **verwijst_naar:** VOLK-kluwer;VOLK-myrrhen-Z6;VOLK-orrim;LOT-Z44-myrrhen;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1029,8 +1029,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-kluwer;VOLK-myrrhen
-- **verwijst_naar:** VOLK-kluwer;VOLK-myrrhen-Z6
+- **hangt_samen_met:** VOLK-kluwer;VOLK-myrrhen;LOT-Z44-kluwers;FASE-brand-Z38
+- **verwijst_naar:** VOLK-kluwer;VOLK-myrrhen-Z6;LOT-Z44-kluwers;FASE-brand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1059,8 +1059,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-myrrhen
-- **verwijst_naar:** VOLK-myrrhen-Z6
+- **hangt_samen_met:** VOLK-myrrhen;LOT-Z44-myrrhen;FASE-markt
+- **verwijst_naar:** VOLK-myrrhen-Z6;LOT-Z44-myrrhen;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1089,8 +1089,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-myrrhen;VOLK-orrim
-- **verwijst_naar:** VOLK-myrrhen-Z6;VOLK-orrim
+- **hangt_samen_met:** VOLK-myrrhen;VOLK-orrim;LOT-Z44-myrrhen;FASE-markt
+- **verwijst_naar:** VOLK-myrrhen-Z6;VOLK-orrim;LOT-Z44-myrrhen;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1119,8 +1119,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-oevrin
-- **verwijst_naar:** VOLK-oevrin
+- **hangt_samen_met:** VOLK-oevrin;LOT-Z44-oevrin;FASE-voortijd
+- **verwijst_naar:** VOLK-oevrin;LOT-Z44-oevrin;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -1149,8 +1149,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-oevrin
-- **verwijst_naar:** VOLK-oevrin
+- **hangt_samen_met:** VOLK-oevrin;LOT-Z44-oevrin;FASE-voortijd
+- **verwijst_naar:** VOLK-oevrin;LOT-Z44-oevrin;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -1179,8 +1179,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-oevrin;VOLK-skerra
-- **verwijst_naar:** VOLK-oevrin;VOLK-skerra
+- **hangt_samen_met:** VOLK-oevrin;VOLK-skerra;LOT-Z44-oevrin;FASE-voortijd
+- **verwijst_naar:** VOLK-oevrin;VOLK-skerra;LOT-Z44-oevrin;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1209,8 +1209,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-tharn
-- **verwijst_naar:** VOLK-tharn
+- **hangt_samen_met:** VOLK-tharn;LOT-Z44-tharn;FASE-voortijd
+- **verwijst_naar:** VOLK-tharn;LOT-Z44-tharn;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1239,8 +1239,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-tharn;VOLK-orrim
-- **verwijst_naar:** VOLK-tharn;VOLK-orrim
+- **hangt_samen_met:** VOLK-tharn;VOLK-orrim;LOT-Z44-tharn;FASE-voortijd
+- **verwijst_naar:** VOLK-tharn;VOLK-orrim;LOT-Z44-tharn;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1269,8 +1269,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-orrim
-- **verwijst_naar:** VOLK-orrim
+- **hangt_samen_met:** VOLK-orrim;LOT-Z44-orrim;FASE-overvloed
+- **verwijst_naar:** VOLK-orrim;LOT-Z44-orrim;FASE-overvloed
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1299,8 +1299,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-orrim
-- **verwijst_naar:** VOLK-orrim
+- **hangt_samen_met:** VOLK-orrim;LOT-Z44-orrim;FASE-overvloed
+- **verwijst_naar:** VOLK-orrim;LOT-Z44-orrim;FASE-overvloed
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1329,8 +1329,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-skerra
-- **verwijst_naar:** VOLK-skerra
+- **hangt_samen_met:** VOLK-skerra;LOT-Z44-skerra;FASE-vonk
+- **verwijst_naar:** VOLK-skerra;LOT-Z44-skerra;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1359,8 +1359,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-skerra
-- **verwijst_naar:** VOLK-skerra
+- **hangt_samen_met:** VOLK-skerra;LOT-Z44-skerra;FASE-vonk
+- **verwijst_naar:** VOLK-skerra;LOT-Z44-skerra;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -1389,8 +1389,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-ves-lethi
-- **verwijst_naar:** VOLK-ves-lethi-Z6
+- **hangt_samen_met:** VOLK-ves-lethi;LOT-Z44-ves-lethi;FASE-brand-Z38
+- **verwijst_naar:** VOLK-ves-lethi-Z6;LOT-Z44-ves-lethi;FASE-brand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1419,8 +1419,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-ves-lethi
-- **verwijst_naar:** VOLK-ves-lethi-Z6
+- **hangt_samen_met:** VOLK-ves-lethi;LOT-Z44-ves-lethi;FASE-brand-Z38
+- **verwijst_naar:** VOLK-ves-lethi-Z6;LOT-Z44-ves-lethi;FASE-brand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1449,8 +1449,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar REGEL-walgingsschaal), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** REGEL-walgingsschaal;LICH-r17-rotklier
-- **verwijst_naar:** REGEL-walgingsschaal-Z6;LICH-r17-rotklier
+- **hangt_samen_met:** REGEL-walgingsschaal;LICH-r17-rotklier;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REGEL-walgingsschaal-Z6;LICH-r17-rotklier;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1479,8 +1479,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar LIJN-overzicht;NAV-wormwording), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** NAV-wormwording
-- **verwijst_naar:** LIJN-overzicht
+- **hangt_samen_met:** NAV-wormwording;LOT-Z44-leegtewormen;FASE-noodtoestand-Z38
+- **verwijst_naar:** LIJN-overzicht;LOT-Z44-leegtewormen;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1509,8 +1509,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-karrûk;VOLK-skerra
-- **verwijst_naar:** VOLK-karrûk-Z6-Z38;VOLK-skerra
+- **hangt_samen_met:** VOLK-karrûk;VOLK-skerra;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;VOLK-skerra;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1539,8 +1539,8 @@
 - **waarom:** Ronde 17: nieuwe extreme voorkeur bij de volken
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-kluwer;VOLK-oevrin
-- **verwijst_naar:** VOLK-kluwer;VOLK-oevrin
+- **hangt_samen_met:** VOLK-kluwer;VOLK-oevrin;LOT-Z44-oevrin;FASE-voortijd
+- **verwijst_naar:** VOLK-kluwer;VOLK-oevrin;LOT-Z44-oevrin;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -3429,8 +3429,8 @@
 - **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
 - **status:** voorlopig
 - **ronde:** 75
-- **hangt_samen_met:** GEB-Z45-losbandige-jaren;HAAK-B1-2-4
-- **verwijst_naar:** GEB-Z45-losbandige-jaren;HAAK-B1-2-4
+- **hangt_samen_met:** GEB-Z45-losbandige-jaren;HAAK-B1-2-4;LOT-Z44-ishvar;FASE-z44-ja
+- **verwijst_naar:** GEB-Z45-losbandige-jaren;HAAK-B1-2-4;LOT-Z44-ishvar;FASE-z44-ja
 - **jaar:** 
 - **tijdperk:** 9 Tijd van de Ja (na 801)
 - **intensiteit:** 
@@ -3459,8 +3459,8 @@
 - **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
 - **status:** voorlopig
 - **ronde:** 75
-- **hangt_samen_met:** GEB-Z45-losbandige-jaren;MAGIE-kracht-duur
-- **verwijst_naar:** GEB-Z45-losbandige-jaren;MAGIE-kracht-duur
+- **hangt_samen_met:** GEB-Z45-losbandige-jaren;MAGIE-kracht-duur;LOT-Z44-gaven-mannen;FASE-z44-ja
+- **verwijst_naar:** GEB-Z45-losbandige-jaren;MAGIE-kracht-duur;LOT-Z44-gaven-mannen;FASE-z44-ja
 - **jaar:** 
 - **tijdperk:** 9 Tijd van de Ja (na 801)
 - **intensiteit:** 
@@ -3489,8 +3489,8 @@
 - **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
 - **status:** voorlopig
 - **ronde:** 75
-- **hangt_samen_met:** FASE-z44-volken;VOOR-dominante-vrouw
-- **verwijst_naar:** FASE-z44-volken;VOOR-dominante-vrouw
+- **hangt_samen_met:** FASE-z44-volken;VOOR-dominante-vrouw;LOT-Z44-ishvar
+- **verwijst_naar:** FASE-z44-volken;VOOR-dominante-vrouw;LOT-Z44-ishvar
 - **jaar:** 
 - **tijdperk:** 10 Tijd der Volken (na 801)
 - **intensiteit:** 
@@ -3519,8 +3519,8 @@
 - **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
 - **status:** voorlopig
 - **ronde:** 75
-- **hangt_samen_met:** FASE-z44-helden;D1-aelthir-ziekte
-- **verwijst_naar:** FASE-z44-helden;D1-aelthir-ziekte
+- **hangt_samen_met:** FASE-z44-helden;D1-aelthir-ziekte;LOT-Z44-aelthir
+- **verwijst_naar:** FASE-z44-helden;D1-aelthir-ziekte;LOT-Z44-aelthir
 - **jaar:** 
 - **tijdperk:** 11 Heldentijd (na 801)
 - **intensiteit:** 
@@ -3549,8 +3549,8 @@
 - **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
 - **status:** voorlopig
 - **ronde:** 75
-- **hangt_samen_met:** FASE-z44-mensen;EROS-Z45-haak-8
-- **verwijst_naar:** FASE-z44-mensen;EROS-Z45-haak-8
+- **hangt_samen_met:** FASE-z44-mensen;EROS-Z45-haak-8;LOT-Z44-ishvar
+- **verwijst_naar:** FASE-z44-mensen;EROS-Z45-haak-8;LOT-Z44-ishvar
 - **jaar:** 
 - **tijdperk:** 13 Tijd der Mensen (na 801)
 - **intensiteit:** 
@@ -3579,8 +3579,8 @@
 - **waarom:** Ronde Z46: verrijking van lege genrecellen en fantasieën na 801 (opdracht van Rogier 2026-11-02; gaten uit tijd/fantasie.py)
 - **status:** voorlopig
 - **ronde:** 75
-- **hangt_samen_met:** FASE-z44-smelt;D1-oevrin-feest
-- **verwijst_naar:** FASE-z44-smelt;D1-oevrin-feest
+- **hangt_samen_met:** FASE-z44-smelt;D1-oevrin-feest;LOT-Z44-oevrin
+- **verwijst_naar:** FASE-z44-smelt;D1-oevrin-feest;LOT-Z44-oevrin
 - **jaar:** 
 - **tijdperk:** 14 De Grote Smelt (na 801)
 - **intensiteit:** 
