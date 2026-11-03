@@ -2796,4 +2796,4 @@
 - **epistemiek:** aanname (architect is in Z40 ook bouwer: niet onafhankelijk)
 <!-- /REC -->
 
-<!-- SECTIE: UITBREIDINGSREGELS -->
+<!-- SECTIE: SIM_FASE -->

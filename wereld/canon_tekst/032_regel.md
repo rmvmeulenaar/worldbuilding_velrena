@@ -428,5 +428,104 @@
 - **status:** actief
 - **niveau:** fout
 <!-- /REC -->
+<!-- REC regel -->
+### R-sim_oorzaak · Elke gesimuleerde fase heeft een oorzaak, een erfenis, een gevolg en een beslisser met minstens een tiende van de macht.
+- **code:** R-sim_oorzaak
+- **domein:** simulatie
+- **omschrijving:** Elke gesimuleerde fase heeft een oorzaak, een erfenis, een gevolg en een beslisser met minstens een tiende van de macht.
+- **sql_test:** select run_id||':'||van,'fase zonder oorzaak, erfenis, gevolg of macht' from sim_fase where oorzaak is null or erft_van is null or gevolg is null or actor_macht is null or actor_macht<0.10
+- **bron:** r_Z43.py (review 1 van Z42)
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-sim_rijm · Elke gesimuleerde fase deelt een mechanisme met een eerdere fase en verschilt op minstens 3 van 5 assen van de vorige.
+- **code:** R-sim_rijm
+- **domein:** simulatie
+- **omschrijving:** Elke gesimuleerde fase deelt een mechanisme met een eerdere fase en verschilt op minstens 3 van 5 assen van de vorige.
+- **sql_test:** select run_id||':'||van,'fase rijmt niet: '||coalesce(assen_anders,'?')||' assen anders, gedeeld mechanisme '||coalesce(gedeeld_mechanisme,'geen') from sim_fase where coalesce(assen_anders,0)<3 or gedeeld_mechanisme is null
+- **bron:** r_Z43.py (review 1 van Z42)
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-sim_wetgever · Elke gesimuleerde wet heeft een wetgever met minstens een tiende van de macht, een rechtsgebied en een handhaver; een vervallen wet zegt waardoor.
+- **code:** R-sim_wetgever
+- **domein:** simulatie
+- **omschrijving:** Elke gesimuleerde wet heeft een wetgever met minstens een tiende van de macht, een rechtsgebied en een handhaver; een vervallen wet zegt waardoor.
+- **sql_test:** select run_id||':'||wet||':'||van,'wet zonder wetgever met macht, rechtsgebied, handhaver of reden van verval' from sim_wet where wetgever is null or rechtsgebied is null or handhaver is null or coalesce(wetgever_macht,0)<0.10 or (tot is not null and vervalt_door is null)
+- **bron:** r_Z43.py (review 1 van Z42)
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-sim_huis · Elk gesimuleerd huis na 801 heeft een ouderhuis; elk huis dat heerst heeft een aanspraak.
+- **code:** R-sim_huis
+- **domein:** simulatie
+- **omschrijving:** Elk gesimuleerd huis na 801 heeft een ouderhuis; elk huis dat heerst heeft een aanspraak.
+- **sql_test:** select run_id||':'||huis||':'||coalesce(gezag_van,''),'huis zonder ouder of aanspraak' from sim_huis where (ouder is null and ontstaan>801) or (gezag_van is not null and aanspraak is null)
+- **bron:** r_Z43.py (review 1 van Z42)
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-tech_boom · Elke mogelijke knoop van de technologieboom heeft materiaal, noodzaak, uitvinder, gevolg, prijs en een bron, en haar vereisten bestaan in de boom; elke onmogelijke of onnodige knoop heeft een reden.
+- **code:** R-tech_boom
+- **domein:** simulatie
+- **omschrijving:** Elke mogelijke knoop van de technologieboom heeft materiaal, noodzaak, uitvinder, gevolg, prijs en een bron, en haar vereisten bestaan in de boom; elke onmogelijke of onnodige knoop heeft een reden.
+- **sql_test:** select code,'knoop onvolledig of vereiste bestaat niet' from tech_knoop k where (status='mogelijk' and (materiaal is null or noodzaak is null or uitvinder is null or gevolg is null or prijs is null or bron is null)) or (status!='mogelijk' and reden is null) union select k.code,'vereiste '||v.value||' bestaat niet' from tech_knoop k, json_each('["'||replace(replace(coalesce(k.vereist,''),'|',';'),';','","')||'"]') v where v.value!='' and v.value not in (select code from tech_knoop)
+- **bron:** r_Z44.py (review 1 van Z42, blok H)
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-sim_uitvinding · Elke gesimuleerde uitvinding is een mogelijke knoop, komt na al haar vereisten in dezelfde run, en heeft een uitvinder met minstens 5 procent macht, een noodzaak en een gevolg.
+- **code:** R-sim_uitvinding
+- **domein:** simulatie
+- **omschrijving:** Elke gesimuleerde uitvinding is een mogelijke knoop, komt na al haar vereisten in dezelfde run, en heeft een uitvinder met minstens 5 procent macht, een noodzaak en een gevolg.
+- **sql_test:** select u.run_id||':'||u.knoop,'uitvinding zonder geldige knoop, uitvinder, noodzaak of gevolg' from sim_uitvinding u where u.knoop not in (select code from tech_knoop where status='mogelijk') or coalesce(u.uitvinder_macht,0)<0.05 or u.noodzaak is null or u.gevolg is null union select u.run_id||':'||u.knoop,'uitvinding vóór haar vereiste '||j.key from sim_uitvinding u, json_each(u.vereist_met) j where j.value>=u.jaar or not exists(select 1 from sim_uitvinding v where v.run_id=u.run_id and v.knoop=j.key and v.jaar=j.value)
+- **bron:** r_Z44.py (review 1 van Z42, blok H)
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-tech_gebruik · Elke mogelijke knoop zegt waar ze voor gebruikt wordt, door wie, waar ze in onze wereld op lijkt, in welk tijdperk en of ze magisch is.
+- **code:** R-tech_gebruik
+- **domein:** simulatie
+- **omschrijving:** Elke mogelijke knoop zegt waar ze voor gebruikt wordt, door wie, waar ze in onze wereld op lijkt, in welk tijdperk en of ze magisch is.
+- **sql_test:** select code,'knoop zonder gebruik, voor wie, aards equivalent, tijdperk of soort' from tech_knoop where status='mogelijk' and (gebruik is null or voor_wie is null or aards is null or tijdperk is null or soort is null)
+- **bron:** r_Z45.py (Rogier 2026-11-02: meetbaar effect, gebruik, gewone tijd)
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-sim_effect · Elke gesimuleerde uitvinding van Z45 heeft een meetbaar gevolg (toestand of macht) en de druk van haar probleem bij de uitvinding en 100 jaar later.
+- **code:** R-sim_effect
+- **domein:** simulatie
+- **omschrijving:** Elke gesimuleerde uitvinding van Z45 heeft een meetbaar gevolg (toestand of macht) en de druk van haar probleem bij de uitvinding en 100 jaar later.
+- **sql_test:** select run_id||':'||knoop,'uitvinding zonder meetbaar gevolg of meting van haar probleem' from sim_uitvinding where module='geschiedenis_z45' and (druk_voor is null or druk_na is null or (json_extract(gevolg,'$.toestand')='{}' and json_extract(gevolg,'$.macht')='{}'))
+- **bron:** r_Z45.py (Rogier 2026-11-02: meetbaar effect, gebruik, gewone tijd)
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-sim_convergentie · Signaal: minder dan 80 procent van de Z45-geschiedenissen bereikt Het Gewone vóór 5000.
+- **code:** R-sim_convergentie
+- **domein:** simulatie
+- **omschrijving:** Signaal: minder dan 80 procent van de Z45-geschiedenissen bereikt Het Gewone vóór 5000.
+- **sql_test:** select 'geschiedenis_z45','maar '||round(100.0*sum(json_extract(scores,'$.gewoon') is not null)/count(*))||'% bereikt Het Gewone' from sim_run where module='geschiedenis_z45' group by module having 1.0*sum(json_extract(scores,'$.gewoon') is not null)/count(*)<0.8
+- **bron:** r_Z45.py
+- **goedgekeurd_door:** architect, in opdracht van Rogier (2026-11-02)
+- **status:** actief
+- **niveau:** signaal
+<!-- /REC -->
 
 <!-- SECTIE: BOOG -->

@@ -881,5 +881,29 @@
 - **datum:** 2026-11-01
 - **wat:** Ronde Z34: geen sjablonen. Herhaling gemeten (z34/meet.py), sjabloonfamilies vastgelegd (sjabloon_familie/sjabloon_lid, v_sjabloon), 952 catalogusrijen als ideeënbank gemarkeerd zonder tekstwijziging, 4 regels (R-sjabloon_nieuw, R-herhaling_categorie, R-boog_uniek, R-personage_fout_uniek), bogen en personages elk een eigen vorm/fout (BESLUIT-Z34-1..4, VERHAAL-Z34-*). Niets verwijderd; Kern en roman niet aangeraakt.
 <!-- /REC -->
+<!-- REC logboek -->
+### 148 · 2026-11-02
+- **id:** 148
+- **datum:** 2026-11-02
+- **wat:** Ronde Z42: geschiedenismotor na 801 (z42/geschiedenis.py). 17 motorregels (sim_regel GESCH-*), 19 gebeurtenissoorten (gesch_*), 1000 runs (Z42-GESCH-0001..1000), zes gekozen runs met alle details (fasen, gebeurtenissen, wetten, huizen, rustige tijden, toestand per eeuw, verhaal van 801, wezens), zes open keuzes (KEUZE-Z42-*). Alles simulatie of aanname; niets in de canon gezet. Uitleg: z42/LEESMIJ.md.
+<!-- /REC -->
+<!-- REC logboek -->
+### 149 · 2026-11-02
+- **id:** 149
+- **datum:** 2026-11-02
+- **wat:** Ronde Z43: de geschiedenis verklaart zichzelf (z43/geschiedenis.py, na review 1 van Z42). Nieuwe tabellen sim_fase, sim_wet, sim_huis (migratie 010) met views v_sim_keten, v_sim_wetboek, v_sim_stamboom en regels R-sim_oorzaak, R-sim_rijm, R-sim_wetgever, R-sim_huis. 7 motorregels GESCH2-*, 1000 runs Z43-GESCH-0001..1000 (dezelfde seeds als Z42), zes gekozen runs met alle details, vier open keuzes KEUZE-Z43-*. Alles simulatie of aanname; niets in de canon gezet.
+<!-- /REC -->
+<!-- REC logboek -->
+### 150 · 2026-11-02
+- **id:** 150
+- **datum:** 2026-11-02
+- **wat:** Ronde Z44: de technologieboom (z44/boom.py, z44/geschiedenis.py). Nieuwe tabellen tech_knoop (17 mogelijke en 7 onmogelijke of onnodige technieken, elk met canonbron) en sim_uitvinding (migratie 011), views v_tech_boom en v_sim_uitvinding, regels R-tech_boom en R-sim_uitvinding. 5 motorregels GESCH3-*, 1000 runs Z44-GESCH-0001..1000 (dezelfde seeds als Z42 en Z43), zes gekozen runs met alle details, vier open keuzes KEUZE-Z44-*. Alles voorstel of simulatie; niets in de canon gezet.
+<!-- /REC -->
+<!-- REC logboek -->
+### 151 · 2026-11-02
+- **id:** 151
+- **datum:** 2026-11-02
+- **wat:** Ronde Z45: gebruik, gewone uitvindingen, kennis en verspreiding (z45/boom.py, z45/geschiedenis.py). 11 gewone knopen met Velmara-voorganger en Kharvos-brug; gebruik, aards equivalent, tijdperk en soort bij alle knopen (migratie 012); correctie op Z44 (stoom en kruit mogelijk, kolen open). Regels R-tech_gebruik, R-sim_effect, R-sim_convergentie (signaal); R-tech_boom kent nu A|B. 5 motorregels GESCH4-*, 1000 runs Z45-GESCH-0001..1000, zes gekozen runs met alle details, vijf open keuzes KEUZE-Z45-*. Alles voorstel of simulatie.
+<!-- /REC -->
 
 <!-- SECTIE: ANKER -->

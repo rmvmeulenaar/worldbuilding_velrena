@@ -1494,5 +1494,291 @@
 - **bron:** r_Z40.py
 - **citaat:** De bouwer had geen credits; de architect bouwde Z40 en keurde het zelf. Dat breekt de regel 'één bouwt, de ander toetst'.
 <!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-bodem · De magie verdwijnt nooit: de Orrim zijn de bodem
+- **code:** KEUZE-Z42-bodem
+- **soort:** wereld
+- **onderwerp:** De magie verdwijnt nooit: de Orrim zijn de bodem
+- **aanbeveling:** Bevestig dat de magie na 801 nooit nul wordt omdat Orrim-steen blijft groeien, of kies een andere bron voor de bodem.
+- **raakt:** GESCH-bodem;D1-orrim-dood;VOLK-orrim
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Rogier (2026-11-02): de magie moet op een bepaald niveau blijven, golvend, en nooit verdwijnen.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-golf · De magie golft met gesloten en open tijden
+- **code:** KEUZE-Z42-golf
+- **soort:** wereld
+- **onderwerp:** De magie golft met gesloten en open tijden
+- **aanbeveling:** Bevestig dat gesloten dragerlijnen de magie laten oplaaien en handel en steden haar verdunnen.
+- **raakt:** GESCH-golf;ORIGIN-10-Z36
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Rogier (2026-11-02): golvend, en het komt in fasen terug.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-verhouding · Na 801 verslapt de filter langzaam
+- **code:** KEUZE-Z42-verhouding
+- **soort:** wereld
+- **onderwerp:** Na 801 verslapt de filter langzaam
+- **aanbeveling:** Bevestig dat de verhouding over eeuwen naar de helft schuift en dat de Deelwet en de rechteloosheid van gewone mannen daardoor vervallen.
+- **raakt:** GESCH-filter;GESCH-wetten;ORIGIN-10-Z36;WET-deelwet-recht
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Rogier (2026-11-02): die verhouding moeten we beter krijgen, en mensen moeten gaven gewoon kunnen doorgeven.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-tijden · De tijden na 801 als simulatie of als canon
+- **code:** KEUZE-Z42-tijden
+- **soort:** verhaal
+- **onderwerp:** De tijden na 801 als simulatie of als canon
+- **aanbeveling:** Laat de 1000 geschiedenissen en de zes gekozen runs eerst door een ander nakijken; kies daarna welke run of welke tijden canon worden.
+- **raakt:** GESCH-rijm;GESCH-spiraal
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Rogier (2026-11-02): als het goed is, gaan we het als canon inzetten; de test is dat een ander de database nakijkt.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-rust · Rustige tijden horen bij de geschiedenis
+- **code:** KEUZE-Z42-rust
+- **soort:** verhaal
+- **onderwerp:** Rustige tijden horen bij de geschiedenis
+- **aanbeveling:** Bevestig dat eeuwen zonder crisis een eigen soort tijd zijn, met verhalen op de schaal van huis en dorp.
+- **raakt:** GESCH-rust
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Rogier (2026-11-02): soms is dat zo; je kan ook in rustige tijden mooie verhalen vertellen.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-mythe · Het verhaal van 801 verbastert per eeuw
+- **code:** KEUZE-Z42-mythe
+- **soort:** verhaal
+- **onderwerp:** Het verhaal van 801 verbastert per eeuw
+- **aanbeveling:** Bevestig de reeks van trouw naar kinderrijm en de twee takken (heilige of heks) naar wie vertelt.
+- **raakt:** GESCH-verhaal801;BESLUIT-Z18b-2
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Rogier (2026-11-02): over vele generaties worden het andere dingen, en dat is leuk.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-sleutelbreuk · Wanneer brak de instemmingssleutel?
+- **code:** KEUZE-Z42-sleutelbreuk
+- **soort:** wrijving
+- **onderwerp:** Wanneer brak de instemmingssleutel?
+- **aanbeveling:** Kies één jaar: bij de landing (-1240, HAAK-Z17-zegel-6, vastgesteld) of bij de val van de Sterrensteen (-480, ORIGIN-9 en ORIGIN-WAAROM-9, voorlopig). De motor na 801 hangt er niet van af, de magie vóór 0 wel.
+- **raakt:** HAAK-Z17-zegel-6;ORIGIN-9;ORIGIN-WAAROM-9
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Gevonden bij het lezen voor Z42: twee rijen noemen een ander jaar voor dezelfde breuk.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-vesanath · Ves-Anath ontruimd in 603 of in 610?
+- **code:** KEUZE-Z42-vesanath
+- **soort:** wrijving
+- **onderwerp:** Ves-Anath ontruimd in 603 of in 610?
+- **aanbeveling:** Kies één jaar. GEB-ves-anath-ontruimd zegt 603, ZINT-Z4-tijdperk-11-b zegt 610.
+- **raakt:** GEB-ves-anath-ontruimd;ZINT-Z4-tijdperk-11-b
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Gevonden bij het lezen voor Z42.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z42-bodem-bron · Waar komt de bodem van de magie vandaan: steen of vonkcellen?
+- **code:** KEUZE-Z42-bodem-bron
+- **soort:** wereld
+- **onderwerp:** Waar komt de bodem van de magie vandaan: steen of vonkcellen?
+- **aanbeveling:** Verplaats de bodem van de Orrim-steen naar de vonkcellen: levende, erfelijke cellen die verdunnen maar niet uitsterven zolang er dragerlijnen zijn (YSA-Z18-1, ORIGIN-10-Z36). De Sterrensteen wordt dan versterker en lezer (ORIGIN-5), en groeit alleen uit mineralen bij Orrim-voortplanting (VOLK-orrim).
+- **raakt:** YSA-Z18-1;ORIGIN-10-Z36;ORIGIN-5;VOLK-orrim;D1-orrim-dood
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z42.py
+- **citaat:** Review 1 (2026-11-02): groeiende Orrim-steen is nog geen groeiende lading; de bodem is als canonafleiding niet bewezen.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z43-macht · Alleen wie macht heeft, kan een crisis oplossen
+- **code:** KEUZE-Z43-macht
+- **soort:** wereld
+- **onderwerp:** Alleen wie macht heeft, kan een crisis oplossen
+- **aanbeveling:** Bevestig dat een crisis onopgelost blijft als niemand met genoeg macht een passende oplossing heeft. Dat levert gemiddeld 7 crises per geschiedenis op waarin niemand kan ingrijpen: verhalen over machteloosheid.
+- **raakt:** GESCH2-macht
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z43.py
+- **citaat:** Review 1 (2026-11-02): waarom kan een artsengilde een wet uitvaardigen? Welke regering erkent die bevoegdheid?
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z43-rijm · Rijm is continuïteit én verandering
+- **code:** KEUZE-Z43-rijm
+- **soort:** wereld
+- **onderwerp:** Rijm is continuïteit én verandering
+- **aanbeveling:** Bevestig dat een fase een mechanisme deelt met een eerdere fase en op minstens 3 van 5 assen verschilt. Overweeg dezelfde eis voor fase_rijm tot 801 (R-rijm_assen kent nu alleen de verandering).
+- **raakt:** GESCH2-rijm;FASE-noodtoestand-Z38
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z43.py
+- **citaat:** Review 1 (2026-11-02): vijf van vijf assen anders is geen rijm maar een andere gebeurtenis.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z43-standen · Edelen zakken af, steden groeien met handel, de kerk met het geloof
+- **code:** KEUZE-Z43-standen
+- **soort:** wereld
+- **onderwerp:** Edelen zakken af, steden groeien met handel, de kerk met het geloof
+- **aanbeveling:** Bevestig deze drie aannames; zonder ze sluit de wereld zich eindeloos af en worden steden nooit sterk.
+- **raakt:** GESCH2-elite;GESCH2-steden-kerk
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z43.py
+- **citaat:** Gevonden bij het bouwen van Z43: zonder afzakken groeide het aantal edelen onbegrensd.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z43-referentie · Welke motor is de maat: Z42 of Z43?
+- **code:** KEUZE-Z43-referentie
+- **soort:** verhaal
+- **onderwerp:** Welke motor is de maat: Z42 of Z43?
+- **aanbeveling:** Gebruik Z43 als maat; Z42 blijft staan als eerste versie om tegen te vergelijken (dezelfde seeds).
+- **raakt:** GESCH2-rijm;GESCH2-macht
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z43.py
+- **citaat:** Rogier (2026-11-02): eerst de geschiedenis zichzelf laten verklaren, daarna de technologieboom.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z44-boom · De technologieboom van Velmara na 801
+- **code:** KEUZE-Z44-boom
+- **soort:** wereld
+- **onderwerp:** De technologieboom van Velmara na 801
+- **aanbeveling:** Bevestig de 17 knopen (tech_knoop, status mogelijk) of schrap en voeg toe. Elke knoop komt uit TECHNO-bio, -gave, -zegelsteen, -metaal of TECHNO-MIX-V4.
+- **raakt:** TECHNO-REGEL-V4;TECHNO-MIX-V4
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Rogier (2026-11-02): ja, begin met de technologieboom. Review 1: laat de boom vanuit Velmara ontstaan, niet uit de aardse reeks ijzer, stoom, elektriciteit.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z44-onmogelijk · Wat Velmara niet uitvindt
+- **code:** KEUZE-Z44-onmogelijk
+- **soort:** wereld
+- **onderwerp:** Wat Velmara niet uitvindt
+- **aanbeveling:** Bevestig de zeven onmogelijke of onnodige technieken (stoom, kolen, staal, kruit, stroomnet, rekenmachines, nieuwe kernen) met hun reden uit de canon.
+- **raakt:** ORIGIN-2;YSA-Z17-6;ORIGIN-7
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Review 1, vraag 27: welke technologieën zijn onmogelijk, onnodig of onaantrekkelijk, juist doordat de wereld andere mogelijkheden heeft?
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z44-nood · Nood maakt vindingrijk
+- **code:** KEUZE-Z44-nood
+- **soort:** wereld
+- **onderwerp:** Nood maakt vindingrijk
+- **aanbeveling:** Bevestig dat een uitvinding waar een crisis om vroeg veel waarschijnlijker is. Daardoor verschilt de volgorde van uitvinden per geschiedenis (278 verschillende volgordes in 300 runs).
+- **raakt:** GESCH3-nood
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Review 1: meet de verschillen tussen runs causaal, niet cosmetisch.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z44-staat · Edelen kosten de staat geld
+- **code:** KEUZE-Z44-staat
+- **soort:** wereld
+- **onderwerp:** Edelen kosten de staat geld
+- **aanbeveling:** Bevestig dat het aantal edelen de kas uitput. Zonder die regel komt een strijd om posities bijna nooit voor.
+- **raakt:** GESCH3-staat;FASE-markt
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Gevonden bij het bouwen van Z44: met extra voedsel uit de kweekakkers verdween de strijd van te veel edelen.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z45-kharvos · Kharvos is de brug naar gewone techniek
+- **code:** KEUZE-Z45-kharvos
+- **soort:** wereld
+- **onderwerp:** Kharvos is de brug naar gewone techniek
+- **aanbeveling:** Bevestig dat smeden, raderwerk en koper via Kharvos binnenkomen (handel, oorlog, spionage), omdat de Harrow voor machines koos.
+- **raakt:** BESLUIT-3;REG-kharvos-B1;ORIGIN-Z1-harrow
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Rogier (2026-11-02): yes, maar het moet passend zijn bij de nieuwe uitvindingen.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z45-gewoon · De wereld groeit naar een gewone tijd
+- **code:** KEUZE-Z45-gewoon
+- **soort:** wereld
+- **onderwerp:** De wereld groeit naar een gewone tijd
+- **aanbeveling:** Bevestig de eis dat minstens 80 procent van de geschiedenissen vóór 5000 Het Gewone bereikt (stoom, drukpers, elektriciteit, vaccin en spoor). Nu: 87 procent, gemiddeld rond 3661.
+- **raakt:** TECH-GESCH-12-V4
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Rogier (2026-11-02): het moet na een tijdje wel grosso modo naar de normale tijd evolueren, en niet te raar zijn.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z45-tempo · Uitvinden gaat traag tot de kennis groeit
+- **code:** KEUZE-Z45-tempo
+- **soort:** wereld
+- **onderwerp:** Uitvinden gaat traag tot de kennis groeit
+- **aanbeveling:** Bevestig het patroon: rond 0,27 grote uitvinding per eeuw in de eerste zeven eeuwen na 801, rond 1 per eeuw vlak voor Het Gewone.
+- **raakt:** TECH-GESCH-11
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Rogier (2026-11-02): in de middeleeuwen ging innovatie heel langzaam; kijk wat de patronen zijn.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z45-effect · Elke uitvinding lost iets op en verschuift macht
+- **code:** KEUZE-Z45-effect
+- **soort:** wereld
+- **onderwerp:** Elke uitvinding lost iets op en verschuift macht
+- **aanbeveling:** Bevestig dat een uitvinding wordt gemeten op het probleem waarvoor ze kwam. Nu: 99 procent heeft een meetbaar gevolg, 84 procent geeft de uitvinder meer macht, en waar het probleem speelde is het 100 jaar later in 63 procent kleiner.
+- **raakt:** TECHNO-REGEL-V4
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Rogier (2026-11-02): de uitvinding moet een meetbaar effect hebben, problemen oplossen en het verhaal voortstuwen of machtsbalansen verbeteren.
+<!-- /REC -->
+<!-- REC keuze -->
+### KEUZE-Z45-kolen · Heeft Velmara steenkool?
+- **code:** KEUZE-Z45-kolen
+- **soort:** wrijving
+- **onderwerp:** Heeft Velmara steenkool?
+- **aanbeveling:** Beslis of er steenkool is. De canon zegt alleen dat er geen brandstof is voor de scheepskernen (ORIGIN-2). Zonder kolen draait stoom op hout, en dat kapt de wouden van de Aelthir.
+- **raakt:** ORIGIN-2;PLEK-Z4-nm-5-Z5b
+- **impact:** 
+- **draagkracht:** 
+- **status:** open
+- **bron:** r_Z44.py
+- **citaat:** Correctie Z45: in Z44 las de architect ORIGIN-2 te ruim.
+<!-- /REC -->
 
 <!-- SECTIE: VERHAAL_AS -->
