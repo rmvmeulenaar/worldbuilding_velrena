@@ -1,0 +1,853 @@
+# Verhaalpaden werklijst A (tijdperk 0 tot 4), ronde Z52, toon vlees en bloed (architectuur/TOON_VLEES_EN_BLOED.md).
+# Alles voorstel (ideeenbank); Rogier beslist. toon = nummers van de gehaalde criteria; gewichten = romance, erotiek, horror,
+# suspense, actie, intrige, komedie, tragiek.
+paden:
+- fase: 0 Voortijd
+  fantasieen:
+  - VOOR-reiziger-Z50
+  - VOOR-groep-Z50
+  drager: null
+  positie: betaler
+  genre: horror
+  schaal: dorp
+  volk: grauwen
+  vorm: lichaam als verteller
+  afloop: werkt
+  hp:
+    band: 36-50
+    leeftijd: 41
+    geslacht: v
+  gewichten:
+  - 1
+  - 4
+  - 5
+  - 3
+  - 0
+  - 2
+  - 0
+  - 4
+  kern:
+  - FASE-voortijd
+  - ORIGIN-7
+  - YSA-Z21-8
+  - PERS-Z4-grauwen-0-2
+  - VOLK-grauwen
+  persoon: PERS-Z4-grauwen-0-1
+  toon:
+  - 1
+  - 2
+  - 3
+  - 7
+  premisse: 'Haar waarschuwing over kleine bevolkingen ligt in een logboek dat sinds het schriftverbod niemand meer opent, dus draagt de genetica
+    van de Ysa haar in haar eigen buik het veen in. De slapeloze kolonist en zijn dertig volgelingen trouwen alleen onderling; zij biedt vers
+    bloed in ruil voor een plaats aan het vuur, en kiest drie mannen met natte huid en veenrook in hun haar. Haar lichaam vertelt: de misselijkheid,
+    de zwelling, de eerste schop. Haar dochter wordt gezond geboren. De zeven baby''s die daarna in de groep komen, hebben grijze huid en vergroeide
+    vingers, en zij weet waarom.'
+- fase: 0 Voortijd
+  fantasieen:
+  - KINK-Z8-52-Z50
+  - KINK-Z8-53-Z50
+  drager: null
+  positie: vervalser
+  genre: romance
+  schaal: stad
+  volk: skerra
+  vorm: rechtszaak
+  afloop: blijft verborgen
+  hp:
+    band: 26-35
+    leeftijd: 31
+    geslacht: v
+  gewichten:
+  - 4
+  - 4
+  - 2
+  - 3
+  - 1
+  - 4
+  - 1
+  - 2
+  kern:
+  - FASE-voortijd
+  - YSA-Z20-18
+  - PER-v4-hesta-kael
+  - VOLK-skerra
+  - PLEK-Z4-nm-1-Z5b
+  persoon: PERS-Z4-skerra-0-2-Z5b
+  toon:
+  - 1
+  - 2
+  - 4
+  - 7
+  premisse: 'Op voorstel van Hesta Kael beveelt de grondraad de terugdraaikuur: de holle botten van de verkenners moeten weer zwaar worden, want
+    wie vliegt, kijkt ''s nachts op de nederzetting neer. De arts van de verkenners meet elk geraamte, noteert gewichten die niet bestaan en moet
+    zich in vier zittingen verantwoorden. Daartussen ligt ze op de klif met Daan, een verkenner van vierendertig, en voelt zijn ribben kraken
+    als ze hem te hard vasthoudt; hij bijt in haar schouder om niet te schreeuwen. Ze liegt elke zitting beter. De kuur komt er nooit, en het
+    eerste nest heeft geen naam.'
+- fase: 0 Voortijd
+  fantasieen:
+  - VOOR-voyeurisme-Z50
+  - VOOR-handel-Z50
+  drager: null
+  positie: beslisser
+  genre: thriller
+  schaal: dorp
+  volk: dhurn
+  vorm: kasboek
+  afloop: komt uit
+  hp:
+    band: 51+
+    leeftijd: 52
+    geslacht: v
+  gewichten:
+  - 1
+  - 4
+  - 4
+  - 4
+  - 0
+  - 4
+  - 0
+  - 4
+  kern:
+  - FASE-voortijd
+  - ORIGIN-WAAROM-10
+  - PER-v4-corran-velt
+  - YSA-Z21-6
+  - VOLK-dhurn
+  persoon: PERS-Z4-dhurn-0-2-Z38
+  toon:
+  - 1
+  - 2
+  - 3
+  - 5
+  - 8
+  premisse: Hoog in Hoogvrouwe mag het volk van Corran nog schrijven, en zijn zuster houdt het rantsoenboek bij. Wie in de warme schacht naast
+    het lekkende krachtblok uit de landers bij elkaar slaapt, krijgt dubbel brood; zij kiest de mannen en vrouwen met de dikste huid en kijkt
+    vanaf de ladder toe. De vrouwen braken, de mannen verliezen hun haar in plukken op het stro. In haar tweede kolom staan de doden, netjes,
+    met hun uren bij het blok. Na twaalf winters worden er handen geboren die niet branden. Dan vindt Corran die tweede kolom en leest hem voor
+    bij het vuur.
+- fase: 0 Voortijd
+  fantasieen:
+  - VOOR-handel-Z50
+  - KINK-Z8-58-Z50
+  drager: null
+  positie: profiteur
+  genre: komedie
+  schaal: huis
+  volk: mens
+  vorm: jij-vorm
+  afloop: werkt
+  hp:
+    band: 26-35
+    leeftijd: 32
+    geslacht: v
+  gewichten:
+  - 1
+  - 4
+  - 0
+  - 2
+  - 0
+  - 5
+  - 5
+  - 1
+  kern:
+  - FASE-voortijd
+  - YSA-Z20-12
+  - YSA-Z21-8
+  - ORIGIN-7
+  persoon: PER-Z52-a-marit-kolde
+  toon:
+  - 1
+  - 3
+  - 4
+  - 6
+  - 7
+  premisse: 'Sinds de raad het schrift verbood, is Marit Kolde het geheugen van de nederzetting, want bij de latrines van Sabe Mehr praat iedereen.
+    Ze weet wie met wie in de rietkraag ligt, wie rantsoen onder zijn bed spaart en welk raadslid op de plank huilt. Die kennis ruilt ze: een
+    kom bonen voor een naam, een nacht in haar hut voor een besluit dat nog niet is uitgesproken. Raadsleden komen bij haar horen wat ze vorige
+    week zelf besloten. Als er twee haar tegelijk willen omkopen, laat ze ze opbieden tot de stank haar niets meer doet.'
+- fase: 1 Overvloed
+  fantasieen:
+  - VOOR-vrouwenliefde-Z50
+  - VOOR-harem-Z50
+  drager: null
+  positie: ontdekker
+  genre: intrige
+  schaal: huis
+  volk: mens
+  vorm: dagboek
+  afloop: blijft verborgen
+  hp:
+    band: 26-35
+    leeftijd: 28
+    geslacht: v
+  gewichten:
+  - 2
+  - 4
+  - 1
+  - 3
+  - 0
+  - 5
+  - 1
+  - 2
+  kern:
+  - FASE-overvloed
+  - GEB-haremwet-ardemar
+  - GEB-r10-ardemar-val
+  - PLEK-Z2-ambergaard-6
+  - VERHAAL-fase1-c-Z35
+  - PER-f1-lenne
+  persoon: PER-f1-merel
+  toon:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 7
+  premisse: 'Merel, tweede vrouw van Ardemar III, kauwt munt tegen de verveling en houdt een dagboek bij van alles wat de harem verzwijgt. Zelf
+    blijft ze leeg door de kruiden die ze elke maand door haar wijn roert. Met Lenne, de gifmengster van de prins, deelt ze ''s middags het bed
+    achter de tralies, en voor elke middag krijgt Lenne een bladzijde. Dan telt Merel de vroedvrouwen die ''s nachts komen: twaalf bevallingen,
+    nul zonen in de annalen. De Zusters schrijven jongens in als dochters. Ze schrijft het op en naait het boek in de voering van haar mantel.'
+- fase: 1 Overvloed
+  fantasieen:
+  - VOOR-pijn-genot-Z50
+  - VOOR-afscheid-Z50
+  drager: null
+  positie: profiteur
+  genre: thriller
+  schaal: dorp
+  volk: dhurn
+  vorm: lijst die krimpt
+  afloop: werkt
+  hp:
+    band: 26-35
+    leeftijd: 30
+    geslacht: v
+  gewichten:
+  - 3
+  - 4
+  - 4
+  - 4
+  - 1
+  - 4
+  - 0
+  - 4
+  kern:
+  - FASE-overvloed
+  - GEB-r10-steenkoorts
+  - GEB-Z17-sterrensteen-inslag
+  - PLEK-dhurn-baden
+  - PLEK-Z4-hoog-1
+  persoon: PER-f1-dhurn-garra
+  toon:
+  - 1
+  - 2
+  - 3
+  - 5
+  - 8
+  premisse: 'Onder de groeve van Hoogvrouwe loopt een ader Sterrensteen die alleen de Dhurn kennen, en Garra Steenvoeler laat haar uithakken door
+    vijf mannen die niet meer naar boven gaan. Wie het steen te lang vasthoudt, krijgt steenkoorts: blaren in de handpalmen, dromen die doorpraten
+    na het ontwaken. Garra betaalt met stof en met haar eigen lichaam in de mijnbaden, waar de koorts hun huid zo heet maakt dat het water sist.
+    Haar lijst begint met vijf namen. Elke maand streept ze er een door en metselt zijn gang dicht. De laatste naam is van de man van wie ze houdt.'
+- fase: 1 Overvloed
+  fantasieen:
+  - VOOR-bloed-Z50
+  - VOOR-teder-Z50
+  drager: null
+  positie: betaler
+  genre: horror
+  schaal: huis
+  volk: mens
+  vorm: brieven
+  afloop: keert om
+  hp:
+    band: 26-35
+    leeftijd: 27
+    geslacht: v
+  gewichten:
+  - 3
+  - 5
+  - 5
+  - 3
+  - 0
+  - 4
+  - 0
+  - 4
+  kern:
+  - FASE-overvloed
+  - GEB-zusterburcht
+  - GEB-r10-bloedkunde
+  - PLEK-Z4-nm-7-Z5b
+  persoon: PER-f1-ildra
+  toon:
+  - 1
+  - 2
+  - 4
+  - 5
+  premisse: In de Zusterburcht van Ves-Anath snijdt Ildra Steenzuster haar duim open boven een splinter Sterrensteen, en die gloeit als ze aan
+    Wenne denkt. Wenne, uit de keuken, laat zich ook snijden, eerst uit nieuwsgierigheid, dan uit liefde. Ze vrijen met het steen tussen hun buiken,
+    en het licht schijnt door hun huid. Ildra beschrijft elke proef in brieven aan de oudste Zuster, die terugschrijft dat zulke lust zonde is
+    en om meer bloed vraagt. Wenne wordt grauw, haar tandvlees wijkt, haar haar blijft in de kam. Op het kapittel leest de oudste de brieven voor
+    als aanklacht en noemt de vondst de hare.
+- fase: 1 Overvloed
+  fantasieen:
+  - VOOR-verboden-Z50
+  - VOOR-handel-Z50
+  drager: null
+  positie: vervalser
+  genre: komedie
+  schaal: stad
+  volk: mens
+  vorm: documenten
+  afloop: keert om
+  hp:
+    band: 26-35
+    leeftijd: 28
+    geslacht: m
+  gewichten:
+  - 2
+  - 4
+  - 1
+  - 2
+  - 0
+  - 4
+  - 5
+  - 2
+  kern:
+  - FASE-overvloed
+  - GEB-haremwet-ardemar
+  - GEB-r10-oogstnacht
+  - GEB-r10-zoutopstand
+  - VERHAAL-fase1-Z36
+  persoon: PER-f1-korvin-Z32
+  toon:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 6
+  premisse: 'Na de Haremwet van Ardemar III int Korvin aan de Zoutkust de kuisheidsboete: drie zilverstukken per onwettige nacht, te betalen na
+    de Oogstnacht. De kroon is failliet, en binnen twee jaar brengt de boete meer op dan het zout. Korvin vervalst de aanslagen: hij zet ze op
+    naam van verdronken vissers, int de helft bij de levenden en steekt een kwart in zijn laars. Op Oogstnacht ligt hij zelf met een zoutwerkster
+    in de pannen, gepekeld tot de knieën, en beboet zichzelf twee keer. Saelith ziet de cijfers, verdubbelt het tarief en eist voortaan ook van
+    de doden betaling.'
+- fase: 2 Vonk
+  fantasieen:
+  - VOOR-voyeurisme-Z50
+  - VOOR-ontlading-Z50
+  drager: null
+  positie: beslisser
+  genre: intrige
+  schaal: rijk
+  volk: mens
+  vorm: kamerspel
+  afloop: faalt
+  hp:
+    band: 26-35
+    leeftijd: 31
+    geslacht: m
+  gewichten:
+  - 1
+  - 4
+  - 3
+  - 4
+  - 2
+  - 5
+  - 1
+  - 3
+  kern:
+  - FASE-vonk
+  - GEB-vonkkoorts
+  - GEB-r10-ontladingsplicht
+  - GEB-zaadkracht-ontdekt
+  persoon: PER-f2-vonkkoning-hagar
+  toon:
+  - 1
+  - 2
+  - 3
+  - 5
+  - 7
+  premisse: Hagar de Vurige wil de kust als eigen rijk en heeft daarvoor een erfgenaam nodig, maar zijn zaad maakt vrouwen sterk en nooit zwanger.
+    Hij laat een visser van tweeëntwintig, met een vonk te zwak om te binden, naar zijn koningin Ysolt brengen. Ysolt zegt ja, want ze wil regentes
+    worden. Hagar kijkt toe vanachter het wandkleed, en er komt rook uit zijn mond. Na drie nachten is Ysolt zwanger en weet de visser te veel.
+    Hagar wil hem laten verdwijnen, maar zijn vonk slaat over, en de kamer waar hij het bevel geeft, brandt met hem erin.
+- fase: 2 Vonk
+  fantasieen:
+  - KINK-Z8-29-Z50
+  - VOOR-overvloed-Z50
+  drager: null
+  positie: vervalser
+  genre: komedie
+  schaal: huis
+  volk: mens
+  vorm: rondes
+  afloop: blijft verborgen
+  hp:
+    band: 26-35
+    leeftijd: 26
+    geslacht: m
+  gewichten:
+  - 2
+  - 4
+  - 1
+  - 2
+  - 1
+  - 4
+  - 5
+  - 1
+  kern:
+  - FASE-vonk
+  - GEB-r10-zaadkruiken
+  - VERHAAL-fase2-b-Z35
+  - GEB-r10-eerste-strijdnacht
+  persoon: PER-f2-melkknecht-bas
+  toon:
+  - 1
+  - 3
+  - 4
+  - 6
+  - 8
+  premisse: 'In de kelders van het hof van Saelith vult Bas Kruikvuller de zaadkruiken voor het leger: twaalf uur kracht per kruik, belooft het
+    zegel. Hij weet dat de inhoud na een middag dood is en dat de vonkdragers de bestelling nooit halen. Dus vult hij aan, elke ronde anders:
+    rijstwater, eiwit, en wat hij en Fenke van de keuken op de graanzakken samen maken, lachend, de grendel erop. De generaals zegenen de kruiken,
+    en de soldaten vechten precies even slecht als eerst. Alleen een kapitein die er drie tegelijk nam, komt terug zonder ogen, en Bas giet die
+    week niets bij.'
+- fase: 2 Vonk
+  fantasieen:
+  - VOOR-binding-Z50
+  - VOOR-vrouwenliefde-Z50
+  drager: null
+  positie: liefde tussen posities
+  genre: romance
+  schaal: huis
+  volk: mens
+  vorm: twee stemmen
+  afloop: werkt
+  hp:
+    band: 36-50
+    leeftijd: 43
+    geslacht: v
+  gewichten:
+  - 5
+  - 5
+  - 4
+  - 2
+  - 1
+  - 2
+  - 0
+  - 3
+  kern:
+  - FASE-vonk
+  - GEB-r10-grijswortel
+  - GEB-r10-zaadhonger
+  - VERHAAL-fase2-a-Z35
+  - PER-f2-roel
+  persoon: PER-f2-hanne
+  toon:
+  - 1
+  - 3
+  - 5
+  - 7
+  - 8
+  premisse: 'Zeventien jaar na haar eerste strijdnacht steelt Hanne Strijdvrouw Grijswortel uit de legervoorraad, voor twaalf gebonden krijgsvrouwen
+    die niet meer slapen zonder een man met vonk. In een visserskeet zweten ze negen dagen: koorts, krampen, een honger die als zand onder de
+    huid schuurt. Mette, een officier van eenendertig, houdt het alleen vol met Hannes handen op haar buik. Twee stemmen vertellen de negende
+    nacht, als het trillen stopt: Mette, die voor het eerst iets wil zonder dat het moet, en Hanne, wier man thuis zijn vonk in slaap zingt. Het
+    leger hangt de diefstal aan een ander.'
+- fase: 2 Vonk
+  fantasieen:
+  - VOOR-ontlading-Z50
+  - VOOR-pijn-genot-Z50
+  drager: null
+  positie: profiteur
+  genre: horror
+  schaal: stad
+  volk: vathren
+  vorm: aftellen
+  afloop: faalt
+  hp:
+    band: 18-25
+    leeftijd: 22
+    geslacht: v
+  gewichten:
+  - 1
+  - 4
+  - 5
+  - 4
+  - 1
+  - 3
+  - 1
+  - 4
+  kern:
+  - FASE-vonk
+  - GEB-vonkkoorts
+  - GEB-r10-vonkmarkt
+  - GEB-r10-ontladingsplicht
+  - VOLK-vathren-Z6
+  persoon: PER-f2-vathren-oll
+  toon:
+  - 1
+  - 2
+  - 3
+  - 5
+  - 8
+  premisse: 'Oll Hartluisteraar hoort in de koortszalen van Saelith wanneer een vonkdrager gaat branden: zijn hart slaat dan dubbel, als hagel
+    op een dak. Ze telt af, honderd slagen, veertig, tien. Die telling verkoopt ze aan de handelaarsters van de vonkmarkt, die met de man zelf
+    een prijs afspreken voor zijn laatste nacht, want een laatste ontlading is de heetste. Van haar deel koopt ze Grijswortel voor gebonden krijgsvrouwen.
+    Op een avond telt ze verkeerd, omdat ze de honger van de klant voelt als haar eigen. De man brandt een uur te vroeg, en de vrouw naast hem
+    brandt mee.'
+- fase: 3 Brand
+  fantasieen:
+  - VOOR-handel-Z50
+  - VOOR-afscheid-Z50
+  drager: null
+  positie: profiteur
+  genre: komedie
+  schaal: dorp
+  volk: mens
+  vorm: rondes
+  afloop: keert om
+  hp:
+    band: 36-50
+    leeftijd: 39
+    geslacht: m
+  gewichten:
+  - 1
+  - 4
+  - 4
+  - 2
+  - 1
+  - 3
+  - 5
+  - 3
+  kern:
+  - FASE-brand-Z38
+  - GEB-r10-varnath-dood
+  - GEB-r10-brandvelden
+  - PER-f3-koning-orlas
+  persoon: PER-f3-lijkenpikker-tobbe
+  toon:
+  - 1
+  - 2
+  - 3
+  - 5
+  - 6
+  - 8
+  premisse: Tobbe Askruier ruimt lijken op de brandvelden van Ambergaard, tandeloos en zwart van het roet, en elke ochtend loopt hij dezelfde
+    ronde. Na de dood van Varnath vindt hij diens ring in de as. Hij verkoopt hem aan een koopman uit Saelith, een tweede aan een officier van
+    Orlas, en een derde aan de weduwe Imke, die er een nacht voor geeft omdat ze de hand wil voelen die het ding van de moordenaar van haar dorp
+    droeg. Elke ronde liggen er minder doden en staan er meer kopers. Bij de vijfde ring wacht de koopman hem op met een mes.
+- fase: 3 Brand
+  fantasieen:
+  - VOOR-binding-Z50
+  - VOOR-gevangenschap-Z50
+  drager: null
+  positie: betaler
+  genre: intrige
+  schaal: huis
+  volk: mens
+  vorm: realtime
+  afloop: faalt
+  hp:
+    band: 26-35
+    leeftijd: 29
+    geslacht: v
+  gewichten:
+  - 1
+  - 2
+  - 4
+  - 5
+  - 2
+  - 5
+  - 0
+  - 4
+  kern:
+  - FASE-brand-Z38
+  - GEB-r10-varnath-dood
+  - VERHAAL-fase3-b-Z35
+  - PER-f3-dessa
+  - GEB-r10-kruisverbond
+  persoon: PER-f3-spionne-rhea
+  toon:
+  - 1
+  - 2
+  - 5
+  - 7
+  - 8
+  premisse: 'Rhea Liedloze, spionne van een koning uit het kruisverbond, laat zich met een tatoeage achter het oor als gebonden vrouw in het kamp
+    van Varnath brengen. Om te overtuigen moet ze echt ontvangen, en zijn zaad bindt haar: een gelabeld donker thema, verteld als verlies van
+    eigen wil, nooit als lust. In realtime volgen we haar laatste nacht. De andere vrouwen namen negen dagen Grijswortel en wachten op het teken.
+    Rhea gooide haar wortel in de latrine, want ze weet niet meer of ze hem dood wil. Dan zingen de vrouwen het kamplied, Rhea kent de woorden
+    niet, en Dessa ziet het.'
+- fase: 3 Brand
+  fantasieen:
+  - VOOR-vrouwenliefde-Z50
+  - VOOR-afscheid-Z50
+  drager: null
+  positie: toeschouwer
+  genre: horror
+  schaal: huis
+  volk: mens
+  vorm: getuigenverslag
+  afloop: blijft verborgen
+  hp:
+    band: 26-35
+    leeftijd: 29
+    geslacht: v
+  gewichten:
+  - 4
+  - 4
+  - 5
+  - 2
+  - 0
+  - 4
+  - 0
+  - 5
+  kern:
+  - FASE-brand-Z38
+  - GEB-dochteroffer
+  - VERHAAL-fase3-c-Z35
+  - GEB-r10-raad-der-moeders
+  - PER-f3-anath
+  - PLEK-LICH-ves-anath
+  persoon: PER-f3-tegenstemster-ivi
+  toon:
+  - 1
+  - 2
+  - 4
+  - 5
+  - 8
+  premisse: Ivi stemde tegen het Zegel en verloor, zeven tegen vijf; het briefje met de echte telling zit in haar zoom. Als straf wordt ze wasster
+    van de Honderd. In de nacht voor het Offer ligt ze nog één keer bij Ammelie, de zesendertigste, en kust de littekens van de proefsneden op
+    haar armen. Daarna wast ze haar elke dag. Ze ziet de huid dun worden als papier, de ogen dof als oud tin, en hoort de stem die met negenennegentig
+    andere tegelijk spreekt. Ivi's getuigenverslag houdt op bij de veertigste dag, en eeuwenlang weet alleen het Zoutklooster dat het bestaat.
+- fase: 3 Brand
+  fantasieen:
+  - VOOR-handel-Z50
+  - VOOR-reiziger-Z50
+  drager: null
+  positie: vervalser
+  genre: survival
+  schaal: dorp
+  volk: mens
+  vorm: lijst die krimpt
+  afloop: komt uit
+  hp:
+    band: 26-35
+    leeftijd: 30
+    geslacht: v
+  gewichten:
+  - 2
+  - 4
+  - 2
+  - 4
+  - 3
+  - 5
+  - 2
+  - 3
+  kern:
+  - FASE-brand-Z38
+  - GEB-r10-hongerjaar
+  - GEB-r10-brandvelden
+  - PER-f3-koning-orlas
+  - VERHAAL-fase3-a-Z35
+  persoon: PER-f3-boerin-geesje
+  toon:
+  - 1
+  - 2
+  - 3
+  - 5
+  - 7
+  - 8
+  premisse: 'In het jaar zonder brood verkocht Geesje Asboerin haar man aan een vonkleger voor twee zakken rogge; dat vertelt ze aan niemand.
+    Nu weet ze waar onder een afgebrande hoeve een graankelder ligt. Ze verkoopt de plek aan de kwartiermeester van Orlas en aan een sergeant
+    van Varnath, elk voor een andere week, en sleept zelf vooraf de helft weg. De kwartiermeester ruikt naar brood en neemt haar mee naar zijn
+    tent, en ze gaat graag. Haar lijst telt zakken af: veertig, negentien, zeven. Thuis wachten drie monden. Dan staan de twee legers in dezelfde
+    nacht in haar kelder.'
+- fase: 4 Noodtoestand
+  fantasieen:
+  - VOOR-ritueel-Z50
+  - VOOR-verboden-Z50
+  drager: null
+  positie: beslisser
+  genre: komedie
+  schaal: stad
+  volk: mens
+  vorm: documenten
+  afloop: werkt
+  hp:
+    band: 36-50
+    leeftijd: 50
+    geslacht: v
+  gewichten:
+  - 2
+  - 4
+  - 0
+  - 2
+  - 0
+  - 5
+  - 5
+  - 1
+  kern:
+  - FASE-noodtoestand-Z38
+  - GEB-r10-orde-naam
+  - GEB-orde-90
+  - GEB-deelwet-40
+  - GEB-r10-rotatie
+  - ORDE-orde
+  persoon: PER-f4-orde-moeder-iris
+  toon:
+  - 2
+  - 3
+  - 4
+  - 6
+  - 7
+  premisse: 'Moeder Iris moet in het jaar 90 van een noodkantoor een kerk maken, en een kerk vraagt om een liturgie. Drie ontwerpen gaan heen
+    en weer met de commissie van Zusters: mag het woord zaad in een gebed, wordt de Deelwet gezongen of gereciteerd, hoe vaak per regel moet Ysa
+    bedankt worden. Iris leent de mooiste zinnen uit oude drinkliederen van de Oogstnacht en één Karrûk-vloek. Elke derde nacht haalt ze een gedeelde
+    man, die zelf om rust vroeg, buiten het rooster naar haar cel en schrapt hem uit de telling. De liturgie wordt aangenomen; haar minnaar staat
+    er nergens in.'
+- fase: 4 Noodtoestand
+  fantasieen:
+  - VOOR-gevangenschap-Z50
+  drager: null
+  positie: beslisser
+  genre: horror
+  schaal: dorp
+  volk: mens
+  vorm: zelfportret
+  afloop: keert om
+  hp:
+    band: 36-50
+    leeftijd: 46
+    geslacht: v
+  gewichten:
+  - 0
+  - 1
+  - 5
+  - 3
+  - 2
+  - 4
+  - 0
+  - 4
+  kern:
+  - FASE-noodtoestand-Z38
+  - GEB-r10-neven-ramp
+  - GEB-r10-mannenroof
+  - PER-f4-saske
+  - GEB-r10-eerste-register
+  - PER-f4-grauwe-heske
+  persoon: PER-f4-clanmoeder-hilde
+  toon:
+  - 1
+  - 2
+  - 4
+  - 5
+  - 8
+  premisse: 'Clanmoeder Ravenna van de Groenmuil wil haar clan vol krijgen en rooft mannen uit de dalen; dat roven is een gelabeld donker thema,
+    met bloedvete als gevolg. Als de geroofde mannen sterven of vluchten, beveelt ze neven en nichten bij elkaar, ook dat dwang, en noemt het
+    trouw aan het eigen bloed. Ze vertelt het zelf, zwaar behangen met zilver, en somt de geboorten van dat jaar op: gespleten lippen, zes vingers,
+    huid grijs als as. Ze verbergt ze achter de waterval. Dan biedt ze Saske goud voor een schoon blad, en Saske schrijft haar clan op als bewijs.'
+- fase: 4 Noodtoestand
+  fantasieen:
+  - VOOR-vrouwenliefde-Z50
+  - VOOR-dominante-vrouw-Z50
+  drager: null
+  positie: vervalser
+  genre: intrige
+  schaal: huis
+  volk: mens
+  vorm: rechtszaak
+  afloop: keert om
+  hp:
+    band: 36-50
+    leeftijd: 36
+    geslacht: v
+  gewichten:
+  - 2
+  - 4
+  - 2
+  - 4
+  - 0
+  - 5
+  - 1
+  - 3
+  kern:
+  - FASE-noodtoestand-Z38
+  - VERHAAL-fase4-b-Z35
+  - PER-f4-saske
+  - PER-f4-buurvrouw-aaltje
+  - PER-f4-brecht
+  - GEB-r10-deelwet-weerstand
+  persoon: PER-f4-registerzuster-tine
+  toon:
+  - 2
+  - 3
+  - 4
+  - 5
+  - 7
+  premisse: 'Zuster Tine Telster liet Brecht en haar verstopte man met opzet gaan, en nu laat Saske haar naar Saelith halen voor verhoor. Voor
+    elke zitting drinkt Tine thee in Saskes keuken en telt wat ze kan missen. Op de derde avond neemt Saske haar mee naar bed, om te horen of
+    trouw onder een deken anders klinkt, en Tine gaat, met begeerte en angst. In de laatste zitting legt ze een blad van Brecht op tafel: Aaltje
+    Zonderman, de buurvrouw die aangaf, verborg ooit zelf een man. Saske laat Aaltje niet hangen maar maakt haar aanklaagster, en elke aanklacht
+    schrijft Tine.'
+- fase: 4 Noodtoestand
+  fantasieen:
+  - RIT-volk-myrrhen-Z50
+  - KINK-Z8-55-Z50
+  drager: null
+  positie: betaler
+  genre: survival
+  schaal: huis
+  volk: myrrhen
+  vorm: realtime
+  afloop: werkt
+  hp:
+    band: 36-50
+    leeftijd: 45
+    geslacht: v
+  gewichten:
+  - 3
+  - 4
+  - 4
+  - 4
+  - 2
+  - 2
+  - 0
+  - 3
+  kern:
+  - FASE-noodtoestand-Z38
+  - GEB-r10-eilanden-weigering
+  - GEB-r10-rotatie
+  - PLEK-nevel-veen
+  - VERHAAL-fase4-f-Z40
+  - VOLK-myrrhen-Z6
+  persoon: PER-f4-eiland-moeder-runa
+  toon:
+  - 1
+  - 3
+  - 4
+  - 5
+  - 7
+  - 8
+  premisse: Als de rotatieschepen van de Orde voor de Nevel-eilanden ankeren om de mannen te halen, verstopt Runa van de Mist hen in de veenhallen.
+    Ze legt ze in het rotbed, waar de zwam over hun huid kruipt en hun adem groen kleurt, en ligt zelf tussen hen tegen de kou; de sporen maken
+    elke aanraking traag en zwaar als honing. Drie dagen en drie nachten, in realtime, terwijl Zusters met lantaarns in het slik prikken. Twee
+    mannen stikken in de sporen. De rest leeft langer dan wie ook op het vasteland, en Runa's huid wordt nooit meer helemaal van haar.
+personen:
+- code: PER-Z52-a-marit-kolde
+  naam: Marit Kolde
+  volk: mens
+  regio: de delta, nederzetting bij de rivier
+  tijdperk: 0
+  geboren: -1268
+  rol: latrinewerkster onder Sabe Mehr, handelaarster in wat ze hoort
+  wil: een eigen hut met een deur die van binnen op slot kan
+  geheim: ze heeft één keer een raadsbesluit verzonnen dat nooit genomen was, en de raad heeft het daarna uitgevoerd
+  prijs: zodra de nederzetting weet dat ze ruilt, vertelt niemand haar nog iets echts; ze houdt de stank en verliest haar vriendinnen
+  afstamming:
+  - ORIGIN-1
+  verbonden_met:
+  - YSA-Z20-12
+  - YSA-Z21-8
+  - ORIGIN-7
