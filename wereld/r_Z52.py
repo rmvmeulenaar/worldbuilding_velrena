@@ -14,7 +14,8 @@ FASEROW = dict(c.execute("select cast(fase as text),code from tijdas").fetchall(
 def wijz(code, soort, veld, oud, nieuw):
     S['wijziging'] += c.execute('insert or ignore into wijziging(ronde,code,soort,veld,oud,nieuw,datum,bron) values(?,?,?,?,?,?,?,?)',
                                 (RD, code, soort, veld or '', None if oud is None else str(oud), str(nieuw), DT, 'r_Z52.py')).rowcount
-def levend(x): return c.execute("select 1 from canon where code=? and status in ('vastgesteld','voorlopig')", (x,)).fetchone() is not None
+def levend(x):  # ook personages die naar personage_profiel zijn omgezet (BESLUIT Z37 D2) tellen als bestaand
+    return c.execute("select 1 from canon where code=? and (status in ('vastgesteld','voorlopig') or vervangen_door like 'personage_profiel:%')", (x,)).fetchone() is not None
 def bestaat(x): return c.execute('select 1 from canon where code=?', (x,)).fetchone() is not None
 def lev(x):
     seen = set()
