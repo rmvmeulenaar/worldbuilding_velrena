@@ -11808,5 +11808,3190 @@
 - **seriewaarde_reden:** 
 - **vervangen_door:** 
 <!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-1b840686 · 36-50|v
+- **code:** VP-0-1b840686
+- **run:** Z52
+- **fase:** 0 Voortijd
+- **positie:** betaler
+- **genre:** horror
+- **schaal:** dorp
+- **volk:** grauwen
+- **vorm:** lichaam als verteller
+- **afloop:** werkt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 41
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-grauwen-geringen
+- **kern_codes:** VOOR-reiziger-Z50;VOOR-groep-Z50;FASE-voortijd;ORIGIN-7;YSA-Z21-8;PERS-Z4-grauwen-0-2;VOLK-grauwen;PERS-Z4-grauwen-0-1
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,7); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-grauwen-0-1
+- **premisse:** Haar waarschuwing over kleine bevolkingen ligt in een logboek dat sinds het schriftverbod niemand meer opent, dus draagt de genetica van de Ysa haar in haar eigen buik het veen in. De slapeloze kolonist en zijn dertig volgelingen trouwen alleen onderling; zij biedt vers bloed in ruil voor een plaats aan het vuur, en kiest drie mannen met natte huid en veenrook in hun haar. Haar lichaam vertelt: de misselijkheid, de zwelling, de eerste schop. Haar dochter wordt gezond geboren. De zeven baby's die daarna in de groep komen, hebben grijze huid en vergroeide vingers, en zij weet waarom.
+- **premisse_codes:** VOOR-reiziger-Z50;VOOR-groep-Z50;FASE-voortijd;ORIGIN-7;YSA-Z21-8;PERS-Z4-grauwen-0-2;VOLK-grauwen
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-1b065e75 · 26-35|v
+- **code:** VP-0-1b065e75
+- **run:** Z52
+- **fase:** 0 Voortijd
+- **positie:** vervalser
+- **genre:** romance
+- **schaal:** stad
+- **volk:** skerra
+- **vorm:** rechtszaak
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 31
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 4
+- **g_horror:** 2
+- **g_suspense:** 3
+- **g_actie:** 1
+- **g_intrige:** 4
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-skerra-gebondenen
+- **kern_codes:** KINK-Z8-52-Z50;KINK-Z8-53-Z50;FASE-voortijd;YSA-Z20-18;PER-v4-hesta-kael;VOLK-skerra;PLEK-Z4-nm-1-Z5b;PERS-Z4-skerra-0-2-Z5b
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,4,7); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-skerra-0-2-Z5b
+- **premisse:** Op voorstel van Hesta Kael beveelt de grondraad de terugdraaikuur: de holle botten van de verkenners moeten weer zwaar worden, want wie vliegt, kijkt 's nachts op de nederzetting neer. De arts van de verkenners meet elk geraamte, noteert gewichten die niet bestaan en moet zich in vier zittingen verantwoorden. Daartussen ligt ze op de klif met Daan, een verkenner van vierendertig, en voelt zijn ribben kraken als ze hem te hard vasthoudt; hij bijt in haar schouder om niet te schreeuwen. Ze liegt elke zitting beter. De kuur komt er nooit, en het eerste nest heeft geen naam.
+- **premisse_codes:** KINK-Z8-52-Z50;KINK-Z8-53-Z50;FASE-voortijd;YSA-Z20-18;PER-v4-hesta-kael;VOLK-skerra;PLEK-Z4-nm-1-Z5b
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-58d5f6b6 · 51+|v
+- **code:** VP-0-58d5f6b6
+- **run:** Z52
+- **fase:** 0 Voortijd
+- **positie:** beslisser
+- **genre:** thriller
+- **schaal:** dorp
+- **volk:** dhurn
+- **vorm:** kasboek
+- **afloop:** komt uit
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 52
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 4
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-dhurn-ingemetselden
+- **kern_codes:** VOOR-voyeurisme-Z50;VOOR-handel-Z50;FASE-voortijd;ORIGIN-WAAROM-10;PER-v4-corran-velt;YSA-Z21-6;VOLK-dhurn;PERS-Z4-dhurn-0-2-Z38
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,5,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PERS-Z4-dhurn-0-2-Z38
+- **premisse:** Hoog in Hoogvrouwe mag het volk van Corran nog schrijven, en zijn zuster houdt het rantsoenboek bij. Wie in de warme schacht naast het lekkende krachtblok uit de landers bij elkaar slaapt, krijgt dubbel brood; zij kiest de mannen en vrouwen met de dikste huid en kijkt toe. De vrouwen braken, de mannen verliezen hun haar in plukken op het stro. In haar tweede kolom staan de doden, netjes, met hun uren bij het blok. Na twaalf winters worden er handen geboren die niet branden. Dan vindt Corran die tweede kolom en leest hem voor bij het vuur.
+- **premisse_codes:** VOOR-voyeurisme-Z50;VOOR-handel-Z50;FASE-voortijd;ORIGIN-WAAROM-10;PER-v4-corran-velt;YSA-Z21-6;VOLK-dhurn
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-0-5fbddea1 · 26-35|v
+- **code:** VP-0-5fbddea1
+- **run:** Z52
+- **fase:** 0 Voortijd
+- **positie:** profiteur
+- **genre:** komedie
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** jij-vorm
+- **afloop:** werkt
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 32
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-handel-Z50;KINK-Z8-58-Z50;FASE-voortijd;YSA-Z20-12;YSA-Z21-8;ORIGIN-7;PER-Z52-a-marit-kolde
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,3,4,6,7); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z52-a-marit-kolde
+- **premisse:** Sinds de raad het schrift verbood, is Marit Kolde het geheugen van de nederzetting, want bij de latrines van Sabe Mehr praat iedereen. Ze weet wie met wie in de rietkraag ligt, wie rantsoen onder zijn bed spaart en welk raadslid op de plank huilt. Die kennis ruilt ze: een kom bonen voor een naam, een nacht in haar hut voor een besluit dat nog niet is uitgesproken. Raadsleden komen bij haar horen wat ze vorige week zelf besloten. Als er twee haar tegelijk willen omkopen, laat ze ze opbieden tot de stank haar niets meer doet.
+- **premisse_codes:** VOOR-handel-Z50;KINK-Z8-58-Z50;FASE-voortijd;YSA-Z20-12;YSA-Z21-8;ORIGIN-7
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-1-42cb8622 · 26-35|v
+- **code:** VP-1-42cb8622
+- **run:** Z52
+- **fase:** 1 Overvloed
+- **positie:** ontdekker
+- **genre:** intrige
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** dagboek
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 28
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-vrouwenliefde-Z50;VOOR-harem-Z50;FASE-overvloed;GEB-haremwet-ardemar;GEB-r10-ardemar-val;PLEK-Z2-ambergaard-6;VERHAAL-fase1-c-Z35;PER-f1-lenne;PER-f1-merel
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,7); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f1-merel
+- **premisse:** Merel, tweede vrouw van Ardemar III, kauwt munt tegen de verveling en houdt een dagboek bij van alles wat de harem verzwijgt. Zelf blijft ze leeg door de kruiden die ze elke maand door haar wijn roert. Met Lenne, de gifmengster van de prins, deelt ze 's middags het bed achter de tralies, en voor elke middag krijgt Lenne een bladzijde. Dan telt Merel de vroedvrouwen die 's nachts komen: twaalf bevallingen, nul zonen in de annalen. De Zusters schrijven jongens in als dochters. Ze schrijft het op en naait het boek in de voering van haar mantel.
+- **premisse_codes:** VOOR-vrouwenliefde-Z50;VOOR-harem-Z50;FASE-overvloed;GEB-haremwet-ardemar;GEB-r10-ardemar-val;PLEK-Z2-ambergaard-6;VERHAAL-fase1-c-Z35;PER-f1-lenne
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-1-05080223 · 26-35|v
+- **code:** VP-1-05080223
+- **run:** Z52
+- **fase:** 1 Overvloed
+- **positie:** profiteur
+- **genre:** thriller
+- **schaal:** dorp
+- **volk:** dhurn
+- **vorm:** lijst die krimpt
+- **afloop:** werkt
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 30
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 4
+- **g_suspense:** 4
+- **g_actie:** 1
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-dhurn-ingemetselden
+- **kern_codes:** VOOR-pijn-genot-Z50;VOOR-afscheid-Z50;FASE-overvloed;GEB-r10-steenkoorts;GEB-Z17-sterrensteen-inslag;PLEK-dhurn-baden;PLEK-Z4-hoog-1;PER-f1-dhurn-garra
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,5,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f1-dhurn-garra
+- **premisse:** Onder de groeve van Hoogvrouwe loopt een ader Sterrensteen die alleen de Dhurn kennen, en Garra Steenvoeler laat haar uithakken door vijf mannen die niet meer naar boven gaan. Wie het steen te lang vasthoudt, krijgt steenkoorts: blaren in de handpalmen, dromen die doorpraten na het ontwaken. Garra betaalt met stof en met haar eigen lichaam in de mijnbaden, waar de koorts hun huid zo heet maakt dat het water sist. Haar lijst begint met vijf namen. Elke maand streept ze er een door en metselt zijn gang dicht. De laatste naam is van de man van wie ze houdt.
+- **premisse_codes:** VOOR-pijn-genot-Z50;VOOR-afscheid-Z50;FASE-overvloed;GEB-r10-steenkoorts;GEB-Z17-sterrensteen-inslag;PLEK-dhurn-baden;PLEK-Z4-hoog-1
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-1-cc1fefb0 · 26-35|v
+- **code:** VP-1-cc1fefb0
+- **run:** Z52
+- **fase:** 1 Overvloed
+- **positie:** betaler
+- **genre:** horror
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** brieven
+- **afloop:** keert om
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 27
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 5
+- **g_horror:** 5
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-bloed-Z50;VOOR-teder-Z50;FASE-overvloed;GEB-zusterburcht;GEB-r10-bloedkunde;PLEK-Z4-nm-7-Z5b;PER-f1-ildra
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,4,5); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f1-ildra
+- **premisse:** In de Zusterburcht van Ves-Anath snijdt Ildra Steenzuster haar duim open boven een splinter Sterrensteen, en die gloeit als ze aan Wenne denkt. Wenne, uit de keuken, laat zich ook snijden, uit nieuwsgierigheid, dan uit liefde. Ze vrijen met het steen tussen hun buiken, en het licht schijnt door hun huid. Ildra beschrijft elke proef in brieven aan de oudste Zuster, die terugschrijft dat zulke lust zonde is en om meer bloed vraagt. Wenne wordt grauw, haar tandvlees wijkt, haar haar blijft in de kam. Op het kapittel leest de oudste de brieven voor als aanklacht.
+- **premisse_codes:** VOOR-bloed-Z50;VOOR-teder-Z50;FASE-overvloed;GEB-zusterburcht;GEB-r10-bloedkunde;PLEK-Z4-nm-7-Z5b
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-1-45cd1606 · 26-35|m
+- **code:** VP-1-45cd1606
+- **run:** Z52
+- **fase:** 1 Overvloed
+- **positie:** vervalser
+- **genre:** komedie
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** documenten
+- **afloop:** keert om
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 28
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 5
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-verboden-Z50;VOOR-handel-Z50;FASE-overvloed;GEB-haremwet-ardemar;GEB-r10-oogstnacht;GEB-r10-zoutopstand;VERHAAL-fase1-Z36;PER-f1-korvin-Z32
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,6); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f1-korvin-Z32
+- **premisse:** Na de Haremwet van Ardemar III int Korvin aan de Zoutkust de kuisheidsboete: drie zilverstukken per onwettige nacht, te betalen na de Oogstnacht. De kroon is failliet, en binnen twee jaar brengt de boete meer op dan het zout. Korvin vervalst de aanslagen: hij zet ze op naam van verdronken vissers, int de helft bij de levenden en steekt een kwart in zijn laars. Op Oogstnacht ligt hij zelf met een zoutwerkster in de pannen, gepekeld tot de knieën, en beboet zichzelf twee keer. Saelith ziet de cijfers, verdubbelt het tarief en eist voortaan ook van de doden betaling.
+- **premisse_codes:** VOOR-verboden-Z50;VOOR-handel-Z50;FASE-overvloed;GEB-haremwet-ardemar;GEB-r10-oogstnacht;GEB-r10-zoutopstand;VERHAAL-fase1-Z36
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-2-8c33aac9 · 26-35|m
+- **code:** VP-2-8c33aac9
+- **run:** Z52
+- **fase:** 2 Vonk
+- **positie:** beslisser
+- **genre:** intrige
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** kamerspel
+- **afloop:** faalt
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 31
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 3
+- **g_suspense:** 4
+- **g_actie:** 2
+- **g_intrige:** 5
+- **g_komedie:** 1
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-voyeurisme-Z50;VOOR-ontlading-Z50;FASE-vonk;GEB-vonkkoorts;GEB-r10-ontladingsplicht;GEB-zaadkracht-ontdekt;PER-f2-vonkkoning-hagar
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,5,7); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f2-vonkkoning-hagar
+- **premisse:** Hagar de Vurige wil de kust als eigen rijk en heeft daarvoor een erfgenaam nodig, maar zijn zaad maakt vrouwen sterk en nooit zwanger. Hij laat een visser van tweeëntwintig, met een vonk te zwak om te binden, naar zijn koningin Ysolt brengen. Ysolt zegt ja, want ze wil regentes worden. Hagar kijkt toe vanachter het wandkleed, en er komt rook uit zijn mond. Na drie nachten is Ysolt zwanger en weet de visser te veel. Hagar wil hem laten verdwijnen, maar zijn vonk slaat over, en de kamer waar hij het bevel geeft, brandt met hem erin.
+- **premisse_codes:** VOOR-voyeurisme-Z50;VOOR-ontlading-Z50;FASE-vonk;GEB-vonkkoorts;GEB-r10-ontladingsplicht;GEB-zaadkracht-ontdekt
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-2-b878466a · 26-35|m
+- **code:** VP-2-b878466a
+- **run:** Z52
+- **fase:** 2 Vonk
+- **positie:** vervalser
+- **genre:** komedie
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** rondes
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 26
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 2
+- **g_actie:** 1
+- **g_intrige:** 4
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** KINK-Z8-29-Z50;VOOR-overvloed-Z50;FASE-vonk;GEB-r10-zaadkruiken;VERHAAL-fase2-b-Z35;GEB-r10-eerste-strijdnacht;PER-f2-melkknecht-bas
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,3,4,6,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f2-melkknecht-bas
+- **premisse:** In de kelders van het hof van Saelith vult Bas Kruikvuller de zaadkruiken voor het leger: twaalf uur kracht per kruik, belooft het etiket. Hij weet dat de inhoud na een middag dood is en de vonkdragers de bestelling nooit halen. Dus vult hij aan, elke ronde anders: rijstwater, eiwit, en wat hij en Fenke van de keuken op de graanzakken samen maken, met de grendel erop. De generaals zegenen de kruiken, en de soldaten vechten precies even slecht als eerst. Alleen een kapitein die er drie tegelijk nam, komt terug zonder ogen, en Bas giet die week niets bij.
+- **premisse_codes:** KINK-Z8-29-Z50;VOOR-overvloed-Z50;FASE-vonk;GEB-r10-zaadkruiken;VERHAAL-fase2-b-Z35;GEB-r10-eerste-strijdnacht
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-2-b1e09f00 · 36-50|v
+- **code:** VP-2-b1e09f00
+- **run:** Z52
+- **fase:** 2 Vonk
+- **positie:** liefde tussen posities
+- **genre:** romance
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** twee stemmen
+- **afloop:** werkt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 43
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 5
+- **g_horror:** 4
+- **g_suspense:** 2
+- **g_actie:** 1
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-binding-Z50;VOOR-vrouwenliefde-Z50;FASE-vonk;GEB-r10-grijswortel;GEB-r10-zaadhonger;VERHAAL-fase2-a-Z35;PER-f2-roel;PER-f2-hanne
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,3,5,7,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f2-hanne
+- **premisse:** Zeventien jaar na haar eerste strijdnacht steelt Hanne Strijdvrouw Grijswortel uit de legervoorraad, voor twaalf gebonden krijgsvrouwen die niet meer slapen zonder een man met vonk. In een visserskeet zweten ze negen dagen: koorts, krampen, een honger die als zand onder de huid schuurt. Mette, een officier van eenendertig, houdt het alleen vol met Hannes handen op haar buik. Twee stemmen vertellen de negende nacht, als het trillen stopt: Mette, die voor het eerst iets wil zonder dat het moet, en Hanne, wier man thuis zijn vonk in slaap zingt. Het leger hangt de diefstal aan een ander.
+- **premisse_codes:** VOOR-binding-Z50;VOOR-vrouwenliefde-Z50;FASE-vonk;GEB-r10-grijswortel;GEB-r10-zaadhonger;VERHAAL-fase2-a-Z35;PER-f2-roel
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-2-80a7eca3 · 18-25|v
+- **code:** VP-2-80a7eca3
+- **run:** Z52
+- **fase:** 2 Vonk
+- **positie:** profiteur
+- **genre:** horror
+- **schaal:** stad
+- **volk:** vathren
+- **vorm:** aftellen
+- **afloop:** faalt
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 22
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 4
+- **g_actie:** 1
+- **g_intrige:** 3
+- **g_komedie:** 1
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-vathren-afwenders
+- **kern_codes:** VOOR-ontlading-Z50;VOOR-pijn-genot-Z50;FASE-vonk;GEB-vonkkoorts;GEB-r10-vonkmarkt;GEB-r10-ontladingsplicht;VOLK-vathren-Z6;PER-f2-vathren-oll
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,5,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f2-vathren-oll
+- **premisse:** Oll Hartluisteraar hoort in de koortszalen van Saelith wanneer een vonkdrager gaat branden: zijn hart slaat dan dubbel, als hagel op een dak. Ze telt af, honderd slagen, veertig, tien. Die telling verkoopt ze aan de handelaarsters van de vonkmarkt, die met de man zelf een prijs afspreken voor zijn laatste nacht, want een laatste ontlading is de heetste. Van haar deel koopt ze Grijswortel voor gebonden krijgsvrouwen. Op een avond telt ze verkeerd, omdat ze de honger van de klant voelt als haar eigen. De man brandt een uur te vroeg, en de vrouw naast hem brandt mee.
+- **premisse_codes:** VOOR-ontlading-Z50;VOOR-pijn-genot-Z50;FASE-vonk;GEB-vonkkoorts;GEB-r10-vonkmarkt;GEB-r10-ontladingsplicht;VOLK-vathren-Z6
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-3-fba940b8 · 36-50|m
+- **code:** VP-3-fba940b8
+- **run:** Z52
+- **fase:** 3 Brand
+- **positie:** profiteur
+- **genre:** komedie
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** rondes
+- **afloop:** keert om
+- **hoofdpersoon:** 36-50|m
+- **leeftijd:** 39
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 4
+- **g_suspense:** 2
+- **g_actie:** 1
+- **g_intrige:** 3
+- **g_komedie:** 5
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-handel-Z50;VOOR-afscheid-Z50;FASE-brand-Z38;GEB-r10-varnath-dood;GEB-r10-brandvelden;PER-f3-koning-orlas;PER-f3-lijkenpikker-tobbe
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,5,6,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f3-lijkenpikker-tobbe
+- **premisse:** Tobbe Askruier ruimt lijken op de brandvelden van Ambergaard, tandeloos en zwart van het roet, en elke ochtend loopt hij dezelfde ronde. Na de dood van Varnath vindt hij diens ring in de as. Hij verkoopt hem aan een koopman uit Saelith, een tweede aan een officier van Orlas, en een derde aan de weduwe Imke, die er een nacht voor geeft omdat ze de hand wil voelen die het ding van de moordenaar van haar dorp droeg. Elke ronde liggen er minder doden, meer kopers. Bij de vijfde ring wacht de koopman hem op met een mes.
+- **premisse_codes:** VOOR-handel-Z50;VOOR-afscheid-Z50;FASE-brand-Z38;GEB-r10-varnath-dood;GEB-r10-brandvelden;PER-f3-koning-orlas
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-3-1749b6b4 · 26-35|v
+- **code:** VP-3-1749b6b4
+- **run:** Z52
+- **fase:** 3 Brand
+- **positie:** betaler
+- **genre:** intrige
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** realtime
+- **afloop:** faalt
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 29
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 1
+- **g_romance:** 1
+- **g_erotiek:** 2
+- **g_horror:** 4
+- **g_suspense:** 5
+- **g_actie:** 2
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-binding-Z50;VOOR-gevangenschap-Z50;FASE-brand-Z38;GEB-r10-varnath-dood;VERHAAL-fase3-b-Z35;PER-f3-dessa;GEB-r10-kruisverbond;PER-f3-spionne-rhea
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,5,7,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f3-spionne-rhea
+- **premisse:** Rhea Liedloze, spionne van een koning uit het kruisverbond, laat zich met een tatoeage achter het oor als gebonden vrouw in het kamp van Varnath brengen. Om te overtuigen moet ze echt ontvangen, en zijn zaad bindt haar: een gelabeld donker thema, verteld als verlies van eigen wil, nooit als lust. We volgen haar laatste nacht. De andere vrouwen namen negen dagen Grijswortel en wachten op het teken. Rhea gooide haar wortel in de latrine, want ze weet niet meer of ze hem dood wil. Dan zingen de vrouwen het kamplied, Rhea kent de woorden niet, en Dessa ziet het.
+- **premisse_codes:** VOOR-binding-Z50;VOOR-gevangenschap-Z50;FASE-brand-Z38;GEB-r10-varnath-dood;VERHAAL-fase3-b-Z35;PER-f3-dessa;GEB-r10-kruisverbond
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-3-e4ba3a7c · 26-35|v
+- **code:** VP-3-e4ba3a7c
+- **run:** Z52
+- **fase:** 3 Brand
+- **positie:** toeschouwer
+- **genre:** horror
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** getuigenverslag
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 29
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 5
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-vrouwenliefde-Z50;VOOR-afscheid-Z50;FASE-brand-Z38;GEB-dochteroffer;VERHAAL-fase3-c-Z35;GEB-r10-raad-der-moeders;PER-f3-anath;PLEK-LICH-ves-anath;PER-f3-tegenstemster-ivi
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,4,5,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f3-tegenstemster-ivi
+- **premisse:** Ivi stemde tegen het Zegel en verloor, zeven tegen vijf; het briefje met de echte telling zit in haar zoom. Als straf wordt ze wasster van de Honderd. In de nacht voor het Offer ligt ze nog één keer bij Ammelie, de zesendertigste, en kust de littekens van de proefsneden op haar armen. Daarna wast ze haar elke dag. Ze ziet de huid dun worden als papier, de ogen dof als oud tin, en hoort de stem die met negenennegentig andere tegelijk spreekt. Ivi's getuigenverslag houdt op bij de veertigste dag, en eeuwenlang weet alleen het Zoutklooster dat het bestaat.
+- **premisse_codes:** VOOR-vrouwenliefde-Z50;VOOR-afscheid-Z50;FASE-brand-Z38;GEB-dochteroffer;VERHAAL-fase3-c-Z35;GEB-r10-raad-der-moeders;PER-f3-anath;PLEK-LICH-ves-anath
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-3-02ed4ae9 · 26-35|v
+- **code:** VP-3-02ed4ae9
+- **run:** Z52
+- **fase:** 3 Brand
+- **positie:** vervalser
+- **genre:** survival
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** lijst die krimpt
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 30
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 2
+- **g_suspense:** 4
+- **g_actie:** 3
+- **g_intrige:** 5
+- **g_komedie:** 2
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-handel-Z50;VOOR-reiziger-Z50;FASE-brand-Z38;GEB-r10-hongerjaar;GEB-r10-brandvelden;PER-f3-koning-orlas;VERHAAL-fase3-a-Z35;PER-f3-boerin-geesje
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,5,7,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f3-boerin-geesje
+- **premisse:** In het jaar zonder brood verkocht Geesje Asboerin haar man aan een vonkleger voor twee zakken rogge; dat vertelt ze aan niemand. Nu weet ze waar onder een afgebrande hoeve een graankelder ligt. Ze verkoopt de plek aan de kwartiermeester van Orlas en aan een sergeant van Varnath, elk voor een andere week, en sleept zelf vooraf de helft weg. De kwartiermeester ruikt naar brood en neemt haar mee naar zijn tent, en ze gaat graag. Haar lijst telt zakken af: veertig, negentien, zeven. Thuis wachten drie monden. Dan staan de twee legers in dezelfde nacht in haar kelder.
+- **premisse_codes:** VOOR-handel-Z50;VOOR-reiziger-Z50;FASE-brand-Z38;GEB-r10-hongerjaar;GEB-r10-brandvelden;PER-f3-koning-orlas;VERHAAL-fase3-a-Z35
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-f1a8b1b0 · 36-50|v
+- **code:** VP-4-f1a8b1b0
+- **run:** Z52
+- **fase:** 4 Noodtoestand
+- **positie:** beslisser
+- **genre:** komedie
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** documenten
+- **afloop:** werkt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 50
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-ritueel-Z50;VOOR-verboden-Z50;FASE-noodtoestand-Z38;GEB-r10-orde-naam;GEB-orde-90;GEB-deelwet-40;GEB-r10-rotatie;ORDE-orde;PER-f4-orde-moeder-iris
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 2,3,4,6,7); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f4-orde-moeder-iris
+- **premisse:** Moeder Iris moet in het jaar 90 van een noodkantoor een kerk maken, en een kerk vraagt om een liturgie. Drie ontwerpen gaan heen en weer met de Zusters: mag het woord zaad in een gebed, wordt de Deelwet gezongen of gereciteerd, hoe vaak per regel moet Ysa bedankt worden. Iris leent de mooiste zinnen uit oude drinkliederen van de Oogstnacht en één Karrûk-vloek. Elke derde nacht haalt ze een gedeelde man, die zelf om rust vroeg, buiten het rooster naar haar cel en schrapt hem uit de telling. De liturgie wordt aangenomen; haar minnaar staat er niet in.
+- **premisse_codes:** VOOR-ritueel-Z50;VOOR-verboden-Z50;FASE-noodtoestand-Z38;GEB-r10-orde-naam;GEB-orde-90;GEB-deelwet-40;GEB-r10-rotatie;ORDE-orde
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-ab1d5d8e · 36-50|v
+- **code:** VP-4-ab1d5d8e
+- **run:** Z52
+- **fase:** 4 Noodtoestand
+- **positie:** beslisser
+- **genre:** horror
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** zelfportret
+- **afloop:** keert om
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 46
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 1
+- **g_romance:** 0
+- **g_erotiek:** 1
+- **g_horror:** 5
+- **g_suspense:** 3
+- **g_actie:** 2
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-gevangenschap-Z50;FASE-noodtoestand-Z38;GEB-r10-neven-ramp;GEB-r10-mannenroof;PER-f4-saske;GEB-r10-eerste-register;PER-f4-grauwe-heske;PER-f4-clanmoeder-hilde
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,4,5,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f4-clanmoeder-hilde
+- **premisse:** Clanmoeder Ravenna van de Groenmuil wil haar clan vol krijgen en rooft mannen uit de dalen; dat roven is een gelabeld donker thema, met bloedvete als gevolg. Als de geroofde mannen sterven of vluchten, beveelt ze neven en nichten bij elkaar, ook dat dwang, en noemt het trouw aan het eigen bloed. Ze vertelt het zelf, zwaar behangen met zilver, en somt de geboorten van dat jaar op: gespleten lippen, zes vingers, huid grijs als as. Ze verbergt ze achter de waterval. Dan biedt ze Saske goud voor een schoon blad, en Saske schrijft haar clan op als bewijs.
+- **premisse_codes:** VOOR-gevangenschap-Z50;FASE-noodtoestand-Z38;GEB-r10-neven-ramp;GEB-r10-mannenroof;PER-f4-saske;GEB-r10-eerste-register;PER-f4-grauwe-heske
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-e62961d8 · 36-50|v
+- **code:** VP-4-e62961d8
+- **run:** Z52
+- **fase:** 4 Noodtoestand
+- **positie:** vervalser
+- **genre:** intrige
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** rechtszaak
+- **afloop:** keert om
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 36
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 2
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 1
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-vrouwenliefde-Z50;VOOR-dominante-vrouw-Z50;FASE-noodtoestand-Z38;VERHAAL-fase4-b-Z35;PER-f4-saske;PER-f4-buurvrouw-aaltje;PER-f4-brecht;GEB-r10-deelwet-weerstand;PER-f4-registerzuster-tine
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 2,3,4,5,7); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f4-registerzuster-tine
+- **premisse:** Zuster Tine Telster liet Brecht en haar verstopte man met opzet gaan, en nu laat Saske haar naar Saelith halen voor verhoor. Voor elke zitting drinkt Tine thee bij Saske en telt wat ze kan missen. Op de derde avond neemt Saske haar mee naar bed, om te horen of trouw onder een deken anders klinkt, en Tine gaat, met begeerte en angst. In de laatste zitting legt ze een blad van Brecht op tafel: Aaltje Zonderman, de buurvrouw die aangaf, verborg ooit zelf een man. Saske laat Aaltje niet hangen maar maakt haar aanklaagster, en elke aanklacht schrijft Tine.
+- **premisse_codes:** VOOR-vrouwenliefde-Z50;VOOR-dominante-vrouw-Z50;FASE-noodtoestand-Z38;VERHAAL-fase4-b-Z35;PER-f4-saske;PER-f4-buurvrouw-aaltje;PER-f4-brecht;GEB-r10-deelwet-weerstand
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-4-a1b3443a · 36-50|v
+- **code:** VP-4-a1b3443a
+- **run:** Z52
+- **fase:** 4 Noodtoestand
+- **positie:** betaler
+- **genre:** survival
+- **schaal:** huis
+- **volk:** myrrhen
+- **vorm:** realtime
+- **afloop:** werkt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 45
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 4
+- **g_suspense:** 4
+- **g_actie:** 2
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-myrrhen-brandzoekers
+- **kern_codes:** RIT-volk-myrrhen-Z50;KINK-Z8-55-Z50;FASE-noodtoestand-Z38;GEB-r10-eilanden-weigering;GEB-r10-rotatie;PLEK-nevel-veen;VERHAAL-fase4-f-Z40;VOLK-myrrhen-Z6;PER-f4-eiland-moeder-runa
+- **herkomst:** schrijver A (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,3,4,5,7,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f4-eiland-moeder-runa
+- **premisse:** Als de rotatieschepen van de Orde voor de Nevel-eilanden ankeren om de mannen te halen, verstopt Runa van de Mist hen in de veenhallen. Ze legt ze in het rotbed, waar de zwam over hun huid kruipt en hun adem groen kleurt, en ligt zelf tussen hen tegen de kou; de sporen maken elke aanraking traag en zwaar als honing. Drie dagen en nachten, in realtime, terwijl Zusters met lantaarns in het slik prikken. Twee mannen stikken in de sporen. De rest leeft langer dan wie ook op het vasteland, en Runa's huid wordt nooit meer helemaal van haar.
+- **premisse_codes:** RIT-volk-myrrhen-Z50;KINK-Z8-55-Z50;FASE-noodtoestand-Z38;GEB-r10-eilanden-weigering;GEB-r10-rotatie;PLEK-nevel-veen;VERHAAL-fase4-f-Z40;VOLK-myrrhen-Z6
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-5-d5794c5c · 26-35|m
+- **code:** VP-5-d5794c5c
+- **run:** Z52
+- **fase:** 5 Ontvangst
+- **positie:** profiteur
+- **genre:** komedie
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** jij-vorm
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 30
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 5
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-verboden-Z50;VOOR-vernedering-Z50;GEB-r10-schaamte-hervorming;FASE-ontvangst;REG-zoutkust;ORDE-orde;PER-f5-schaamtepriester-oswin
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,6); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f5-schaamtepriester-oswin
+- **premisse:** Jij, Ysa, hoort het elke nacht: Oswin Kuisprediker preekt 's ochtends op de vismarkt van een Zoutkustdorp dat tempelseks u beledigt, en 's avonds biecht hij bij de weduwe Marrit, die hem laat beschrijven welke zonde hij wil tot hij hem met haar begaat, op de tafel tussen de kabeljauw. Het dorp gehoorzaamt hem. Er zwelt geen buik meer, en de netten rotten omdat niemand trouwt. Dan stuurt de Orde een Moeder om buiken te tellen. Ze vindt er één: die van Marrit. De Moeder noemt het een wonder van de tempel en laat Oswin verbannen.
+- **premisse_codes:** VOOR-verboden-Z50;VOOR-vernedering-Z50;GEB-r10-schaamte-hervorming;FASE-ontvangst;REG-zoutkust;ORDE-orde
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-5-8252cbd5 · 26-35|v
+- **code:** VP-5-8252cbd5
+- **run:** Z52
+- **fase:** 5 Ontvangst
+- **positie:** vervalser
+- **genre:** intrige
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** kasboek
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 30
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 3
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-voyeurisme-Z50;VOOR-groep-Z50;RIT-veiling-Z50;GEB-r10-eerste-veiling-heilig;GEB-r10-gunstbrief;STAD-saelith;HUI-varenne;PER-f5-veilingmeesteres-lys
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,6); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f5-veilingmeesteres-lys
+- **premisse:** Kasboek van Veilingmeesteres Lysbet, Saelith, jaar 205. Links staan de opbrengsten van de heilige veiling en de wierook, rechts een kolom die alleen zij leest. Daar verkoopt ze elke nacht van de Uitverkorene Ilmar-as twee keer. Twee rijke weduwen betalen allebei de volle prijs en delen het bed: de ene neemt, de andere kijkt toe, en ieder denkt dat zij korting heeft bedongen. Bij elke post gloeien Ilmars aderen feller, en Lysbet boekt dat als zegen. Registratrix Corvina telt mee, en het Varenne-krediet aan de Orde groeit met iedere dubbele regel.
+- **premisse_codes:** VOOR-voyeurisme-Z50;VOOR-groep-Z50;RIT-veiling-Z50;GEB-r10-eerste-veiling-heilig;GEB-r10-gunstbrief;STAD-saelith;HUI-varenne
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-5-f3131ca9 · 51+|v
+- **code:** VP-5-f3131ca9
+- **run:** Z52
+- **fase:** 5 Ontvangst
+- **positie:** ontdekker
+- **genre:** horror
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** lijst die krimpt
+- **afloop:** faalt
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 60
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 2
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** RIT-ontvangst-Z50;VOOR-ritueel-Z50;VOOR-oudere-vrouw-Z50;GEB-r10-zegellicht-eet;FASE-ontvangst;STAD-Z2-saelith-1;VERHAAL-fase5-b-Z35;PER-f5-hoge-priesteres-amaris
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f5-hoge-priesteres-amaris
+- **premisse:** Priesteres Amaris leidt de Ontvangstzaal en houdt een lijst bij van haar ontvangsters: naam, aantal nachten, kleur van het haar. Sinds 240 wordt die lijst korter. Vrouwen van dertig liggen wit en droog als perkament in hun cel, en de Orde noemt hen gezegend grijs. Amaris ziet dat het licht feller brandt bij elke vrouw die verdwijnt. Om het te bewijzen gaat ze zelf onder het licht liggen, met de Uitverkorene van wie ze ooit hield, zijn zweet op haar oude buik. In één nacht wordt haar haar wit. De Moeders zetten haar naam bovenaan, als heilige.
+- **premisse_codes:** RIT-ontvangst-Z50;VOOR-ritueel-Z50;VOOR-oudere-vrouw-Z50;GEB-r10-zegellicht-eet;FASE-ontvangst;STAD-Z2-saelith-1;VERHAAL-fase5-b-Z35
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-5-a4417a37 · 36-50|v
+- **code:** VP-5-a4417a37
+- **run:** Z52
+- **fase:** 5 Ontvangst
+- **positie:** profiteur
+- **genre:** survival
+- **schaal:** rijk
+- **volk:** ishvar
+- **vorm:** aftellen
+- **afloop:** keert om
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 50
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 4
+- **g_suspense:** 4
+- **g_actie:** 3
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-ishvar-drieen
+- **kern_codes:** VOOR-vormwissel;VOOR-vrouwenliefde-Z50;RIT-volk-ves-lethi-Z50;GEB-r10-kharvos-handel;REG-kharvos-B1;STAD-merk;HUI-varenne;PER-f5-karavaan-hadra
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,5,7,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f5-karavaan-hadra
+- **premisse:** Nog negen dagen tot Merk. Hadra Karavaanleidster heeft voer voor negen dagen, achttien Kharvos-mannen aan één keten en een Varenne-koopvrouw die per levende man betaalt. Op de Amberpas sneeuwt het dicht. Iskarre, een Ves-Lethi-wisselaarster van vierendertig, draagt 's nachts het gezicht dat Hadra wil en warmt haar onder de huiden, terwijl buiten de keten kreunt van de kou. Bij nog vier dagen sterft de eerste man; ze laat hem liggen. Bij nog drie ziet Hadra dat de sterkste gevangene de tempels op zijn onderarm kerft, lijn na lijn. Ze brengt geen vee naar Merk, maar een spion.
+- **premisse_codes:** VOOR-vormwissel;VOOR-vrouwenliefde-Z50;RIT-volk-ves-lethi-Z50;GEB-r10-kharvos-handel;REG-kharvos-B1;STAD-merk;HUI-varenne
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-5-649020a8 · 26-35|v
+- **code:** VP-5-649020a8
+- **run:** Z52
+- **fase:** 5 Ontvangst
+- **positie:** liefde tussen posities
+- **genre:** romance
+- **schaal:** stad
+- **volk:** sael-mor
+- **vorm:** brieven
+- **afloop:** werkt
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 28
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 5
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 3
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-saelmor-diepduikers
+- **kern_codes:** RIT-gemaskerde-veiling-Z50;VOOR-exhibitionisme-Z50;VOOR-veiling-Z50;GEB-Z41-mirre-vrijhaven;HUI-mirre;STAD-brakhaven;ORDE-tempelwacht;PER-Z52-b-wiela-zoutkieuw
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,3,5,7,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z52-b-wiela-zoutkieuw
+- **premisse:** Wiela Zoutkieuw duikt 's nachts onder de Orde-schepen van Brakhaven en zaagt de kettingen door waarmee de tiende wordt binnengesleept; twee roeiers verdrinken erbij. Haar brieven krast ze in schelpkalk, voor Aldo Veerwacht, officier van de Tempelwacht, die haar ooit uit het water trok en sindsdien elke derde nacht op de kademuur wacht, doorweekt, met zijn hemd al open. De kaperoorlog maakt van hen allebei verraders. Om haar schip vrij te kopen laat Aldo zich op een podium uitkleden voor een gemaskerde koopster. Zo begint de eerste Gemaskerde Veiling. Mirre wint de haven en Aldo verliest zijn rang.
+- **premisse_codes:** RIT-gemaskerde-veiling-Z50;VOOR-exhibitionisme-Z50;VOOR-veiling-Z50;GEB-Z41-mirre-vrijhaven;HUI-mirre;STAD-brakhaven;ORDE-tempelwacht
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-0b53e68a · 36-50|v
+- **code:** VP-6-0b53e68a
+- **run:** Z52
+- **fase:** 6 Markt
+- **positie:** beslisser
+- **genre:** horror
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** aftellen
+- **afloop:** faalt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 44
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-melken-Z50;VOOR-verboden-Z50;GEB-r10-pest-oorsprong;GEB-pest-340;VERHAAL-fase6-b-Z35;FASE-markt;PER-pest-zarah
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-pest-zarah
+- **premisse:** Elf dagen voor de Moeders de fokstal van Hal-Neth komen keuren, heeft Zarah de Pestmoeder honderd mannen beloofd. Ze zet neven bij neven en broers in één hok, omdat verwante lijnen sterker lijken te gloeien. Zelf haalt ze 's nachts de sterkste naar haar kamer, zwetend in het stro, en hij wil haar even graag. Bij nog acht dagen ruikt de stal naar rotte appels. Bij nog zes schuift ze de eerste dode onder het hooi, zodat de telling klopt. Als de Moeders aankloppen, telt Zarah niet meer mee: de builen zitten in haar eigen liezen.
+- **premisse_codes:** VOOR-melken-Z50;VOOR-verboden-Z50;GEB-r10-pest-oorsprong;GEB-pest-340;VERHAAL-fase6-b-Z35;FASE-markt
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-4716cfda · 26-35|m
+- **code:** VP-6-4716cfda
+- **run:** Z52
+- **fase:** 6 Markt
+- **positie:** profiteur
+- **genre:** komedie
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** rondes
+- **afloop:** keert om
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 30
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 5
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** KINK-veiling-zaadbeurs;VOOR-handel-Z50;VOOR-V4-mid-2;GEB-zaadbeurs-455;HUI-varenne;STAD-saelith;GEB-r10-varenne-krediet;PER-f6-zaadbeurs-mattheus
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,6); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f6-zaadbeurs-mattheus
+- **premisse:** Eerste ronde op de Zaadbeurs: Mattheus Beursman koopt termijnen op het zaad van een stier die niet bestaat. Tweede ronde: hij levert de flacons zelf, onder een vals stalmerk, en zijn minnares Hester helpt hem 's nachts aan de productie tot zijn knieën trillen en zij van het lachen niet meer kan. Derde ronde: de prijs verdubbelt, de Orde verklaart het merk heilig, en de vraag wordt groter dan één vrijgekochte man kan leveren. Vierde ronde: Huis Varenne biedt op de stier zelf. Mattheus wint die veiling niet. Hij is de kavel.
+- **premisse_codes:** KINK-veiling-zaadbeurs;VOOR-handel-Z50;VOOR-V4-mid-2;GEB-zaadbeurs-455;HUI-varenne;STAD-saelith;GEB-r10-varenne-krediet
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-6812d834 · 36-50|v
+- **code:** VP-6-6812d834
+- **run:** Z52
+- **fase:** 6 Markt
+- **positie:** profiteur
+- **genre:** thriller
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** documenten
+- **afloop:** komt uit
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 48
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 1
+- **g_romance:** 0
+- **g_erotiek:** 2
+- **g_horror:** 4
+- **g_suspense:** 4
+- **g_actie:** 1
+- **g_intrige:** 5
+- **g_komedie:** 1
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** RIT-ketenwake-Z50;VOOR-gevangenschap-Z50;GEB-r10-ketenwake;REG-hoogvrouwe;HUI-kaldra-Z6;ORDE-orde;PER-ketenmoeder
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,4,5); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-ketenmoeder
+- **premisse:** Gelabeld donker thema, verteld in inspectieverslagen aan de Orde. Moeder Ilvane laat in de stallen van het Hoogvrouwe-gebergte mannen in ketens buiten waken, een winternacht lang, om één nacht binnen te verdienen. Heilige zorg, schrijft ze; de bijlagen tellen bevroren tenen. Wie bezwijkt, verkoopt ze als boeteling aan Kaldra. Ze kijkt toe vanachter een luik en schrijft niet op wat het met haar doet. Stalman Wouter vervalst één verslag zodat het in Saelith wordt gelezen. Het laatste document is een lijkschouwing: Ilvane, gewurgd met haar eigen ketting.
+- **premisse_codes:** RIT-ketenwake-Z50;VOOR-gevangenschap-Z50;GEB-r10-ketenwake;REG-hoogvrouwe;HUI-kaldra-Z6;ORDE-orde
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-1b080fd5 · 36-50|v
+- **code:** VP-6-1b080fd5
+- **run:** Z52
+- **fase:** 6 Markt
+- **positie:** betaler
+- **genre:** survival
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** lichaam als verteller
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 43
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 3
+- **g_actie:** 2
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 5
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-vergroeiing;VOOR-walglust;VOOR-metamorfose;GEB-ves-anath-ontruimd;SEKTE-vleesgemeente;FASE-markt;REG-groenmuil;PER-f6-ves-anath-ontruimster
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,5); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f6-ves-anath-ontruimster
+- **premisse:** Mijn huid weet het eerst. In Ves-Anath, jaar 603, leid ik met twintig wachters de laatste bewoners weg van de zegelsteen; de straten ruiken naar warm vlees en natte kalk, en wie terugloopt, krijgt de kolf. Bij de Vleestempel wacht Corrin, wiens rug in de muur is overgegaan. Twee nachten heb ik hem liefgehad, mijn mond op zijn vergroeide schouder, omdat hij erom vroeg. Ik mag drie karren vullen; hij past op geen enkele. Op mijn armen komen vlekken. De Orde krijgt mijn zwijgen, en mijn lichaam bewaart het geheim tot het mij opeet.
+- **premisse_codes:** VOOR-vergroeiing;VOOR-walglust;VOOR-metamorfose;GEB-ves-anath-ontruimd;SEKTE-vleesgemeente;FASE-markt;REG-groenmuil
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-6-cbf00f9d · 36-50|v
+- **code:** VP-6-cbf00f9d
+- **run:** Z52
+- **fase:** 6 Markt
+- **positie:** profiteur
+- **genre:** actie
+- **schaal:** rijk
+- **volk:** sael-mor
+- **vorm:** twee stemmen
+- **afloop:** werkt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 41
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 3
+- **g_suspense:** 4
+- **g_actie:** 4
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-saelmor-diepduikers
+- **kern_codes:** VOOR-handel-Z50;VOOR-V4-sael-mor-2;GEB-r10-tweede-pest;HUI-varenne;STAD-brakhaven;REG-zoutkust;PER-saelmor-schurk-vessa
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,5,7,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-saelmor-schurk-vessa
+- **premisse:** Twee stemmen uit de kleine pest van 470. Kapitein Vessa: mijn bemanningen rotten in de ruimen voor Brakhaven, en huurlingen van Varenne enteren elk schip dat de blokkade breekt. Lena Pestwacht: ik weet dat de koorts uit de Varenne-stallen kwam, ik heb het opgeschreven. Vessa ruilt dat rapport en dertig schepen voor een open haven, en bezegelt de koop op haar eigen achterdek met de factor van Varenne, die haar al twintig jaar wil en haar nu krijgt voor de prijs van een vloot. Lena neemt het zwijggeld aan. De haven gaat open, en Vessa's naam wordt een vloek.
+- **premisse_codes:** VOOR-handel-Z50;VOOR-V4-sael-mor-2;GEB-r10-tweede-pest;HUI-varenne;STAD-brakhaven;REG-zoutkust
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-7-a4570361 · 18-25|v
+- **code:** VP-7-a4570361
+- **run:** Z52
+- **fase:** 7 Barsten
+- **positie:** betaler
+- **genre:** horror
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** realtime
+- **afloop:** werkt
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 23
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 1
+- **g_romance:** 2
+- **g_erotiek:** 2
+- **g_horror:** 5
+- **g_suspense:** 5
+- **g_actie:** 3
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** RIT-bloedverbinding-Z50;VOOR-bloed-Z50;VOOR-binding-Z50;GEB-bloednacht-788;STAD-lisk;SEKTE-bloedkerk;PER-morvane;PER-f7-bloednacht-overlever-Z32
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,5); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f7-bloednacht-overlever-Z32
+- **premisse:** Bloednacht, 788, vier uur voor dageraad. Wietske van Lisk zit in de kerker onder de raadszaal, en door de voegen boven haar druppelt het bloed van de priesteressen. Twee jaar geleden ging ze uit vrije wil naar het bed van Morvane-ir, en die eerste nacht was goed. Wat daarna kwam, de Bloedverbinding, is een gelabeld donker thema: sindsdien trekt zijn bloed aan haar als een vishaak. Nu snijdt ze met een scherf het litteken uit haar palm en kruipt met drie zusters door de bloedgoot, en bij elke tel wil iets in haar terug naar hem.
+- **premisse_codes:** RIT-bloedverbinding-Z50;VOOR-bloed-Z50;VOOR-binding-Z50;GEB-bloednacht-788;STAD-lisk;SEKTE-bloedkerk;PER-morvane
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-7-6e27cce7 · 26-35|v
+- **code:** VP-7-6e27cce7
+- **run:** Z52
+- **fase:** 7 Barsten
+- **positie:** vervalser
+- **genre:** intrige
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** lijst die krimpt
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 30
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 5
+- **g_horror:** 3
+- **g_suspense:** 4
+- **g_actie:** 1
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-dominante-man-Z50;KINK-binding-losmaken;VOOR-binding-Z50;GEB-r10-grijswortel-verbod;GEB-r10-donkere-rijken;ORDE-stille-hand;REG-zoutkust;PER-f7-grijswortel-smokkel
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,7); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f7-grijswortel-smokkel
+- **premisse:** Brenda Wortelhandel houdt een lijst bij van gebonden vrouwen aan de Zoutkust die ze Grijswortel bracht, met achter elke naam een streepje: los. Dezelfde lijst gaat naar de Stille Hand, die de vrijgekomen vrouwen ophaalt, en zo krimpt hij. Bij Ossian-ir gaat ze zelf naar binnen. Ze kauwt de wortel tot haar tandvlees groen ziet, laat zich door hem nemen in zijn zouthof vol gloeiende aderen, en zijn zaad grijpt nergens. Een snipper wortel laat ze achter bij zijn derde vrouw. Twee nachten later is Ossian dood. Op de lijst staat die vrouw al doorgestreept.
+- **premisse_codes:** VOOR-dominante-man-Z50;KINK-binding-losmaken;VOOR-binding-Z50;GEB-r10-grijswortel-verbod;GEB-r10-donkere-rijken;ORDE-stille-hand;REG-zoutkust
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-7-32092118 · 36-50|v
+- **code:** VP-7-32092118
+- **run:** Z52
+- **fase:** 7 Barsten
+- **positie:** beslisser
+- **genre:** actie
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** toespraak
+- **afloop:** faalt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 47
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 3
+- **g_suspense:** 4
+- **g_actie:** 4
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** RIT-strijdontvangst-Z50;KINK-strijdontvangst;VOOR-groep-Z50;GEB-r10-kaldra-verraad;GEB-kharvos-720;HUI-kaldra-Z6;STAD-kaldrun;PER-f7-sorre
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,5,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-f7-sorre
+- **premisse:** In de vestingzaal van Kaldrun spreekt Generaal Sorre haar krijgsvrouwen toe, de nacht voordat het jaar 722 de Amberpas kost. Ze zegent de wapens, laat het maankruid rondgaan en stuurt de vrouwen één voor één naar de twee gaven-mannen achter het gordijn. Niemand weet wat zij weet: ze wil hen morgen niet sterk, maar leeg. Na de Strijdontvangst komt de Leegte, en dan houdt niemand de poort. Kharvos heeft haar haar zoon beloofd. Bij dageraad stromen de ruiters door de pas, haar zoon rijdt niet mee, en Grom de Jongere heeft alles gezien.
+- **premisse_codes:** RIT-strijdontvangst-Z50;KINK-strijdontvangst;VOOR-groep-Z50;GEB-r10-kaldra-verraad;GEB-kharvos-720;HUI-kaldra-Z6;STAD-kaldrun
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-7-ebd82451 · 51+|m
+- **code:** VP-7-ebd82451
+- **run:** Z52
+- **fase:** 7 Barsten
+- **positie:** profiteur
+- **genre:** komedie
+- **schaal:** huis
+- **volk:** dhurn
+- **vorm:** rondes
+- **afloop:** keert om
+- **hoofdpersoon:** 51+|m
+- **leeftijd:** 61
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-dhurn-ingemetselden
+- **kern_codes:** RIT-gunstnacht-Z50;VOOR-V4-dhurn-4;VOOR-V4-dhurn-3;GEB-r10-eerste-lek;FASE-barsten;STAD-kaldrun;ORDE-orde;PER-dhurn-schurk-orvald
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,6); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-dhurn-schurk-orvald
+- **premisse:** Ronde één, in het gildebadhuis onder Kaldrun: Gildemeester Orvald legt een sprekende plaat op de warme badsteen, en de plaat zegt in Dhurn-klank dat het Zegel lekt. Een Orde-Moeder biedt een Gunstnacht met een Uitverkorene, een gezant uit Kharvos drie stalen kisten, een Varenne-agente kwijtschelding van zijn schulden. Ronde twee: de Moeder ontkleedt zich om te tonen dat ze geen wapen draagt, en Orvald rekent de minuten mee. Ronde drie: uit de voegen van de badvloer welt zegelwater, warm en zout, voor ieders voeten. Het bewijs is niets meer waard. Orvald houdt alleen de Gunstnacht over.
+- **premisse_codes:** RIT-gunstnacht-Z50;VOOR-V4-dhurn-4;VOOR-V4-dhurn-3;GEB-r10-eerste-lek;FASE-barsten;STAD-kaldrun;ORDE-orde
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-7-0a79f9dc · 26-35|v
+- **code:** VP-7-0a79f9dc
+- **run:** Z52
+- **fase:** 7 Barsten
+- **positie:** liefde tussen posities
+- **genre:** romance
+- **schaal:** dorp
+- **volk:** karrûk
+- **vorm:** ballade
+- **afloop:** werkt
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 27
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 5
+- **g_horror:** 2
+- **g_suspense:** 3
+- **g_actie:** 4
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** SEKS-VOLK-karruk-bloedeed
+- **kern_codes:** RIT-volk-karruk-Z50;RIT-duel-man-Z50;VOOR-competitie-Z50;GEB-kharvos-720;REG-kharvos-B1;VOLK-karrûk-Z6-Z38;FASE-barsten;PER-karruk-held-asha
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,3,5,7,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-karruk-held-asha
+- **premisse:** Een vuurkamplied van de Karrûk. Asha Driekerf slaat haar broer met de hakbijl tot zijn arm niet meer heft, en draagt als eerste vrouw het kampioensband. Nu mag zij kiezen wie bij de ontlading na het gevecht haar man is. De clan wil Brann aan Kharvos verkopen, zijn zaad tegen wapens. Asha kiest Brann, bij het vuur, voor de hele clan, en hij zegt ja met zijn handen in haar haar en het zweet van het gevecht op haar huid. Het refrein telt de prijs: een arm, de wapens, en de ruiters die in het voorjaar komen innen.
+- **premisse_codes:** RIT-volk-karruk-Z50;RIT-duel-man-Z50;VOOR-competitie-Z50;GEB-kharvos-720;REG-kharvos-B1;VOLK-karrûk-Z6-Z38;FASE-barsten
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-e35a3d80 · 36-50|v
+- **code:** VP-801-e35a3d80
+- **run:** Z52
+- **fase:** 801 Heden
+- **positie:** ontdekker
+- **genre:** komedie
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** documenten
+- **afloop:** komt uit
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 50
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** KINK-verboden-toegang;VOOR-oudere-vrouw-Z50;VOOR-voyeurisme-Z50;STAD-Z1-zoutkust-4;STAD-brakhaven;ORDE-orde;VOORW-Z11-meetlat;PER-Z11-gerla
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,6); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z11-gerla
+- **premisse:** Proces-verbaal 4112, Brakhaven, Oogstmaan 801. Inspectrice Gerla meet met een nieuwe meetlat de bedden in de huizen met vrije mannen aan de Pekelrij, want de Orde schrijft een maximale lengte voor, van het bed en van de nacht. In verbaal 4113 biedt de madam haar een man aan in plaats van een boete; Gerla weigert schriftelijk, en daarna nog eens, minder stellig. Verbaal 4114 beschrijft een achterkamer met een Orde-zegel op de deur en een Moeder uit Saelith in het bad. Verbaal 4115 gaat naar de Hoofdtempel. Gerla houdt haar post, en de man houdt ze ook.
+- **premisse_codes:** KINK-verboden-toegang;VOOR-oudere-vrouw-Z50;VOOR-voyeurisme-Z50;STAD-Z1-zoutkust-4;STAD-brakhaven;ORDE-orde;VOORW-Z11-meetlat
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-b41dabc3 · 51+|v
+- **code:** VP-801-b41dabc3
+- **run:** Z52
+- **fase:** 801 Heden
+- **positie:** profiteur
+- **genre:** thriller
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** kasboek
+- **afloop:** keert om
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 52
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 4
+- **g_suspense:** 5
+- **g_actie:** 1
+- **g_intrige:** 5
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-handel-Z50;KINK-betalen-met-lichaam;VOOR-dominante-vrouw-Z50;HUI-varenne;HUI-mirre;STAD-brakhaven;VERHAAL-Z41-801-06;PER-sch-kreel
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,7); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-sch-kreel
+- **premisse:** Schuldmeesteres Kreel van Huis Varenne boekt alles in één grootboek met zilveren sloten: schulden in zilver, schulden in nachten, en mannen die bij wanbetaling als Lijngraver worden afgeleverd, wat ze noteert als omgezet. Kapitein Hadda Teerling staat met drie schepen in het rood. Ze betaalt de eerste termijn met een nacht in Kreels kantoor, op het grootboek zelf, en Kreel likt daarna haar zilveren tanden schoon. Pas bij het tellen merkt Kreel dat er een blad ontbreekt: dat met de vervalste Lijngravercontracten. Hadda verkoopt het aan Mirre. Nu staat Kreel in het rood.
+- **premisse_codes:** VOOR-handel-Z50;KINK-betalen-met-lichaam;VOOR-dominante-vrouw-Z50;HUI-varenne;HUI-mirre;STAD-brakhaven;VERHAAL-Z41-801-06
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-7ecdb0e8 · 51+|v
+- **code:** VP-801-7ecdb0e8
+- **run:** Z52
+- **fase:** 801 Heden
+- **positie:** beslisser
+- **genre:** horror
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** lichaam als verteller
+- **afloop:** werkt
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 58
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-vergroeiing;VOOR-walglust;VOOR-lichaam-Z50;SEKTE-vleesgemeente;GEB-r10-eerste-lek;HUI-varenne;REG-ambergaard;PER-sch-mavra
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-sch-mavra
+- **premisse:** Dit lichaam is van Mavra Vleesmoeder, en ik ben gegroeid: twee extra borsten onder de eerste, een huidplooi over mijn heup die de rug van een ander heeft opgenomen. In de Vleestempel van Hal-Neth leg ik me naast Ysbe, vierentwintig, die zelf kwam en drie keer ja zei ten overstaan van de gemeente. Sinds het Zegel lekt, groeit vlees sneller aaneen; bij dageraad zijn haar zij en de mijne één. Wie de rite niet overleeft, verkoopt Mavra aan de randcompagnie van Varenne. Ysbe overleeft. Ik voel haar hart nu naast het mijne kloppen, sneller dan het mijne.
+- **premisse_codes:** VOOR-vergroeiing;VOOR-walglust;VOOR-lichaam-Z50;SEKTE-vleesgemeente;GEB-r10-eerste-lek;HUI-varenne;REG-ambergaard
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-1226fe60 · 36-50|v
+- **code:** VP-801-1226fe60
+- **run:** Z52
+- **fase:** 801 Heden
+- **positie:** liefde tussen posities
+- **genre:** romance
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** dagboek
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 44
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 5
+- **g_horror:** 2
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-vrouwenliefde-Z50;VOOR-verboden-Z50;ORDE-stille-hand;STAD-Z2-saelith-1;SEKTE-stille-zusters;GEB-teo-801;PER-imra
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,7); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-imra
+- **premisse:** Dagboek van Hoedster Imra, Hoofdtempel van Saelith, in de weken na Teo's Wijding. Ik heb Zuster Ennia door de onderwaterpoort binnengelaten, een ketterse die de Orde wil breken, en nu slaapt ze in mijn cel, onder mijn grijze haar, met haar vingers waar de regel ze verbiedt. 's Ochtends preek ik over de heilige Ontvangst; 's nachts lezen we het register dat ik stal, met kaarsvet op haar buik. De Stille Hand doorzoekt elke cel behalve de mijne, want ik sta boven verdenking. Dat is het ergste: ik word er steeds beter in.
+- **premisse_codes:** VOOR-vrouwenliefde-Z50;VOOR-verboden-Z50;ORDE-stille-hand;STAD-Z2-saelith-1;SEKTE-stille-zusters;GEB-teo-801
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-801-2deedf98 · 26-35|v
+- **code:** VP-801-2deedf98
+- **run:** Z52
+- **fase:** 801 Heden
+- **positie:** betaler
+- **genre:** actie
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** wij-vorm
+- **afloop:** faalt
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 34
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** REGEL-harde-grenzen
+- **kern_codes:** VOOR-groep-Z50;VOOR-bloed-Z50;RIT-bloedverbinding-Z50;SEKTE-bloedkerk;STAD-lisk;PER-morvane;STAD-brakhaven;PER-Z52-b-tjalda-wolfsvel
+- **herkomst:** schrijver B (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,5); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z52-b-tjalda-wolfsvel
+- **premisse:** Wij waren zeven, Kaldra-huurlingen zonder huis, en Schuldmeesteres Kreel betaalde vooruit voor één ding uit Lisk: drie flacons bloed van Morvane-ir zelf. De nacht ervoor zopen we in een bordeel aan de Brakhavense kade en namen wie ons wilde; Tjalda nam er twee tegelijk. In de Bloedkerk knielden de gebonden priesteressen in hun eigen rood en keken niet op toen we langsliepen. Meekomen konden ze niet meer willen. Tjalda vulde de flacons uit de offerschaal, maar buiten zijn lichaam stolt zijn bloed tot zwart grind. Vier van ons kwamen terug, onbetaald.
+- **premisse_codes:** VOOR-groep-Z50;VOOR-bloed-Z50;RIT-bloedverbinding-Z50;SEKTE-bloedkerk;STAD-lisk;PER-morvane;STAD-brakhaven
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-8dbb1f3b · 36-50|v
+- **code:** VP-9-8dbb1f3b
+- **run:** Z52
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** profiteur
+- **genre:** actie
+- **schaal:** stad
+- **volk:** karrûk
+- **vorm:** kasboek
+- **afloop:** keert om
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 41
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 1
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 3
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 5
+- **g_komedie:** 1
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-handel-Z50;KINK-Z8-18-Z50;RIT-bloedverbinding-Z50;OORLOG-Z46-9-oorlog;SEKTE-bloedkerk;STAD-lisk;GEB-Z45-losbandige-jaren;VOLK-karrûk-Z6-Z38;PER-Z52-c-askja-roetkam
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,5,7,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z52-c-askja-roetkam
+- **premisse:** Het kasboek van Askja Roetkam, huurlingenkapitein met Karrûk-bloed, rekent in zilver en in nachten. Orlenhal betaalt per dag dat haar veertig zwaarden op de muur staan; de Bloedkerk van Lisk betaalt het dubbele voor één open poort. Ze int bij allebei. Ze slaapt met de raadsvrouw om het wachtrooster te lezen, met een priesteres om het zilver te wegen. In het kerkkamp ziet ze vrouwen met korsten van de bloedverbinding die vergeten zijn hoe weigeren gaat, gelabeld donker thema. Haar laatste post is een rekening die ze de Bloedkerk presenteert, met staal, in de poort die open moest.
+- **premisse_codes:** VOOR-handel-Z50;KINK-Z8-18-Z50;RIT-bloedverbinding-Z50;OORLOG-Z46-9-oorlog;SEKTE-bloedkerk;STAD-lisk;GEB-Z45-losbandige-jaren;VOLK-karrûk-Z6-Z38
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-6661bfb1 · 36-50|v
+- **code:** VP-9-6661bfb1
+- **run:** Z52
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** ontdekker
+- **genre:** horror
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** lijst die krimpt
+- **afloop:** faalt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 46
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 1
+- **g_romance:** 1
+- **g_erotiek:** 3
+- **g_horror:** 5
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 5
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-46-Z50;VOOR-overgave-Z50;HORROR-Z46-9-horror;ORDE-orde;STAD-saelith;GEB-Z45-losbandige-jaren;FASE-z44-ja;PER-Z50-ingrith-marrow
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-ingrith-marrow
+- **premisse:** Onder de stallen van Saelith liggen elf Lijngravers op stro dat niemand ververst, en Ingrith Marrow neemt de nachtwacht, want geen heelster houdt het vol. Het Zegel blijft vragen, en hun lichamen trillen onder een vraag zonder antwoord; het ruikt naar pis, koortszweet en geschroeid haar. Elke ochtend streept ze een naam. Een oud-stalmeesteres wil de laatsten verkopen aan een Huis van Spel als mannen die nooit weigeren. Ingrith herkent haar eigen splinterjaren, gelabeld donker thema, en scheurt het contract. Overdag laat ze zich door Joren binden, om een antwoord te voelen. Bij de elfde streep is de lijst leeg.
+- **premisse_codes:** KINK-Z8-46-Z50;VOOR-overgave-Z50;HORROR-Z46-9-horror;ORDE-orde;STAD-saelith;GEB-Z45-losbandige-jaren;FASE-z44-ja
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-8c0a7cee · 51+|m
+- **code:** VP-9-8c0a7cee
+- **run:** Z52
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** beslisser
+- **genre:** komedie
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** toespraak
+- **afloop:** keert om
+- **hoofdpersoon:** 51+|m
+- **leeftijd:** 56
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-anoniem-Z50;KINK-Z8-24-Z50;KINK-Z8-49-Z50;DRAGER-Z48-stal-9;COMEDY-Z46-9-comedy;GEB-Z45-losbandige-jaren;ZEDEN-Z45-fase-9;STAD-Z2-ambergaard-1;PER-Z50-gerolt-veerman
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 2,3,4,6); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-gerolt-veerman
+- **premisse:** Gerolt Veerman schreef de rede waarmee de Mannenraad van Ambergaard een Week van Ingetogenheid afkondigt: geen Huizen van Spel, geen open stallen, geen kettingstoet. Hij houdt haar zelf op de raadhuistrap, met zijn broek nog klam van de nacht ervoor, want de halve raad lag in hetzelfde huis aan de Pekelrij, gemaskerd, aan de lijn van dezelfde meesteres. Halverwege ziet hij haar vooraan staan, met hun lakmaskers aan een koord om haar hals. Hij leest door. Bij elk masker dat ze optilt, wordt het verbod milder, tot de Week een feest is dat de raad betaalt.
+- **premisse_codes:** VOOR-anoniem-Z50;KINK-Z8-24-Z50;KINK-Z8-49-Z50;DRAGER-Z48-stal-9;COMEDY-Z46-9-comedy;GEB-Z45-losbandige-jaren;ZEDEN-Z45-fase-9;STAD-Z2-ambergaard-1
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-9-53deccbc · 26-35|m
+- **code:** VP-9-53deccbc
+- **run:** Z52
+- **fase:** 9 Tijd van de Ja (na 801)
+- **positie:** ontdekker
+- **genre:** thriller
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** brieven
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 32
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 5
+- **g_actie:** 1
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-bloedverbinding-Z50;VOOR-rolwissel-Z50;KINK-binding-losmaken;OORLOG-Z46-9-oorlog;SEKTE-bloedkerk;STAD-lisk;MYTHE-Z45-donkere-heer;PER-Z50-joren-pekel
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-joren-pekel
+- **premisse:** Orlenhal stuurt Joren van de Pekelrij met zijn oude halsband om naar Lisk, omdat de Bloedkerk een vrijgekomen stalman gelooft. Zijn brieven, ingenaaid in de zoom van een priesteressenmantel, melden wat niemand mag weten: de bloedverbinding houdt niet meer. Elke priesteres zegt elke nacht zelf ja, uit angst of uit gewoonte. Zuster Ardeth vertelt het hem in zijn bed, met korsten van rituele sneden op haar armen, terwijl hij haar polsen met zijn eigen halsband vastmaakt omdat zij erom vraagt. De laatste brief komt aan. De raad van Orlenhal leest hem, verdient aan de oorlog en verbrandt hem.
+- **premisse_codes:** RIT-bloedverbinding-Z50;VOOR-rolwissel-Z50;KINK-binding-losmaken;OORLOG-Z46-9-oorlog;SEKTE-bloedkerk;STAD-lisk;MYTHE-Z45-donkere-heer
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-10-53f07ba3 · 26-35|v
+- **code:** VP-10-53f07ba3
+- **run:** Z52
+- **fase:** 10 Tijd der Volken (na 801)
+- **positie:** betaler
+- **genre:** horror
+- **schaal:** stad
+- **volk:** ves-lethi
+- **vorm:** aftellen
+- **afloop:** faalt
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 29
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 4
+- **g_actie:** 1
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-vormwissel;RIT-volk-ves-lethi-Z50;VOOR-handel-Z50;VERHAAL-Z44-tijdperk-10;STAD-kharvos-hoornburg;HORROR-Z46-10-horror;LOT-Z44-ves-lethi;FASE-z44-volken;PER-Z52-c-ysme-halfgezicht
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z52-c-ysme-halfgezicht
+- **premisse:** In Hoornburg kan Ysmé nog van gezicht wisselen, want onder de burcht zoemt de kern van de Harrow. Weduwnaars uit heel Kharvos betalen haar voor één nacht met het gezicht van hun dode vrouw: haar geur, haar litteken, haar manier van kreunen. Ysmé houdt een prijslijst bij en een vrouwe die haar beschermt. Als de vorstin de kern harder laat draaien, telt de burcht de uren af tot het zoemen stokt. Ysmé ligt dan onder een klant, midden in een wissel. Ze blijft twee vrouwen tegelijk, met twee monden, en hij rent gillend de gang op.
+- **premisse_codes:** VOOR-vormwissel;RIT-volk-ves-lethi-Z50;VOOR-handel-Z50;VERHAAL-Z44-tijdperk-10;STAD-kharvos-hoornburg;HORROR-Z46-10-horror;LOT-Z44-ves-lethi;FASE-z44-volken
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-10-ad865779 · 51+|v
+- **code:** VP-10-ad865779
+- **run:** Z52
+- **fase:** 10 Tijd der Volken (na 801)
+- **positie:** profiteur
+- **genre:** komedie
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** rondes
+- **afloop:** keert om
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 52
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 4
+- **g_horror:** 2
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-36-Z50;KINK-Z8-4-Z50;VOOR-exhibitionisme-Z50;STAD-brakhaven;ZEDEN-Z45-fase-10;COMEDY-Z46-10-comedy;FASE-z44-volken;PER-Z50-ottilie-vormhuis
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,4,6,7); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-ottilie-vormhuis
+- **premisse:** Elk voorjaar houdt het Gilde van Vormmeesteressen in Brakhaven de Zwelkeur, en Ottilie zit de jury voor, want niemand meet zo eerlijk als zij. Maar het kweekvlees raakt op. In de eerste ronde rekt een paar zich nog een hand breed; in de derde vullen ze de maten aan met natte klei, terwijl het publiek joelt en de zaal ruikt naar rauw vlees en rozenolie. Ottilie verdient aan elke klomp klei, want zij liet hem aanmaken. In de laatste ronde valt er niets meer te meten, en het gilde reikt haar de erepenning voor eerlijkheid uit.
+- **premisse_codes:** KINK-Z8-36-Z50;KINK-Z8-4-Z50;VOOR-exhibitionisme-Z50;STAD-brakhaven;ZEDEN-Z45-fase-10;COMEDY-Z46-10-comedy;FASE-z44-volken
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-10-a36d1e26 · 36-50|m
+- **code:** VP-10-a36d1e26
+- **run:** Z52
+- **fase:** 10 Tijd der Volken (na 801)
+- **positie:** beslisser
+- **genre:** intrige
+- **schaal:** rijk
+- **volk:** mens
+- **vorm:** rechtszaak
+- **afloop:** faalt
+- **hoofdpersoon:** 36-50|m
+- **leeftijd:** 45
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 3
+- **g_suspense:** 4
+- **g_actie:** 1
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-45-Z50;VOOR-dominante-vrouw-Z50;VOOR-verboden-Z50;VERHAAL-Z44-tijdperk-10;STAD-kharvos-hoornburg;LOT-Z44-sterrensteen;FASE-z44-volken;PER-Z52-c-drystan-hoorn
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z52-c-drystan-hoorn
+- **premisse:** Na de nacht waarin de kern van Hoornburg bezweek, zitten de overlevende vrouwen van de burcht in de as om over Drystan te oordelen, gemaal van de vorstin. Hij had de sleutel van de kernzaal. Getuigen vertellen hoe de vorstin hem daar op de warme stenen liet nemen terwijl het zoemen door hun ruggen ging, nacht na nacht, en hoe hij de draaiing telkens hoger zette, op haar bevel en uit eigen honger. Zijn verdediging is de waarheid: hij wist dat het zou breken. Dat maakt hem schuldiger. Ze sturen hem de woestijn in, met haar zegelring en zonder water.
+- **premisse_codes:** KINK-Z8-45-Z50;VOOR-dominante-vrouw-Z50;VOOR-verboden-Z50;VERHAAL-Z44-tijdperk-10;STAD-kharvos-hoornburg;LOT-Z44-sterrensteen;FASE-z44-volken
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-a727ba82 · 18-25|v
+- **code:** VP-11-a727ba82
+- **run:** Z52
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** profiteur
+- **genre:** survival
+- **schaal:** wereld
+- **volk:** mens
+- **vorm:** lijst die krimpt
+- **afloop:** keert om
+- **hoofdpersoon:** 18-25|v
+- **leeftijd:** 24
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 3
+- **g_suspense:** 4
+- **g_actie:** 4
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-betalen-met-lichaam;VOOR-competitie-Z50;VOOR-groep-Z50;OORLOG-Z46-11-oorlog;HELD-Z46-11-held;FASE-z44-helden;LOT-Z44-wiegkasten;PER-Z50-b-ylva-teerling
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,5,7,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-ylva-teerling
+- **premisse:** Dertig mannen die uit het koningsleger zijn weggelopen, huurt Ylva Teerling in de herfst, met beloften die ze niet heeft: zilver uit een kluis in de bergen, en een plaats onder haar deken voor wie zij kiest. Ze kiest zorgvuldig, om de sterksten tegen elkaar op te zetten. Elke pas kost mannen: aan zwarte tenen, aan een mes om een nacht, aan een lawine. Bij de kluisdeur zijn ze nog met negen, en de deur blijft dood. De negen draaien zich naar haar om. Ylva wijst omlaag, naar de kookvuren van een ander kamp, en ze volgen haar.
+- **premisse_codes:** KINK-betalen-met-lichaam;VOOR-competitie-Z50;VOOR-groep-Z50;OORLOG-Z46-11-oorlog;HELD-Z46-11-held;FASE-z44-helden;LOT-Z44-wiegkasten
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-c68222ac · 26-35|m
+- **code:** VP-11-c68222ac
+- **run:** Z52
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** toeschouwer
+- **genre:** horror
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** realtime
+- **afloop:** faalt
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 30
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 4
+- **g_actie:** 1
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-voyeurisme-Z50;VOOR-afscheid-Z50;HORROR-Z46-11-horror;MYTHE-Z45-ondoden;OORLOG-Z46-11-oorlog;VOLK-myrrhen-Z6;PER-Z52-c-garreth-veenloper
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z52-c-garreth-veenloper
+- **premisse:** Garreth en Wobbe, deserteurs uit hetzelfde koningsleger, schuilen voor de storm in een veenhal op de Nevel-eilanden, waar de bewoners hun brood delen en niet slapen. We volgen één nacht, uur na uur. Om warm en wakker te blijven kruipen de twee mannen bij het vuur onder één vacht en houden elkaar bezig, zweet en adem en zachte vloeken, terwijl in het donker ogen openblijven. Tegen middernacht ruikt Garreth het: zoete rot onder de huid van hun gastvrouw. Wobbe dommelt in, daarna. Bij het eerste licht staat hij op met de anderen en kent Garreth niet meer.
+- **premisse_codes:** VOOR-voyeurisme-Z50;VOOR-afscheid-Z50;HORROR-Z46-11-horror;MYTHE-Z45-ondoden;OORLOG-Z46-11-oorlog;VOLK-myrrhen-Z6
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-fd55cb00 · 26-35|v
+- **code:** VP-11-fd55cb00
+- **run:** Z52
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** vervalser
+- **genre:** romance
+- **schaal:** huis
+- **volk:** ishvar
+- **vorm:** kamerspel
+- **afloop:** komt uit
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 30
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 5
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 1
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-verboden-Z50;KINK-harem-gunst;VOOR-teder-Z50;STAD-qesh;HUI-qesh-Z6;INTR-Z46-11-intrige;LOT-Z44-dhurn;PER-Z50-b-neshra
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,7); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-neshra
+- **premisse:** Neshra van de Putten weet als enige aan het hof van Qesh dat de Zonvorst geen erfgenaam kan verwekken. Ze haalt in het geheim een smid met Dhurn-handen uit de bergen, die met instemming van de eerste vrouw moet doen wat de vorst niet kan. Eerst keurt ze hem zelf, achter de luiken van de schrijfkamer: hoe hij vraagt, naar kolen ruikt, haar opent met zijn handen. Ze keurt hem zeven nachten. De achtste weigert hij de eerste vrouw; hij wil Neshra. De Zonvorst vindt hen samen, en het hof weet binnen een dag waarom er nooit een erfgenaam kwam.
+- **premisse_codes:** VOOR-verboden-Z50;KINK-harem-gunst;VOOR-teder-Z50;STAD-qesh;HUI-qesh-Z6;INTR-Z46-11-intrige;LOT-Z44-dhurn
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-11-0e0aa0da · 51+|v
+- **code:** VP-11-0e0aa0da
+- **run:** Z52
+- **fase:** 11 Heldentijd (na 801)
+- **positie:** vervalser
+- **genre:** komedie
+- **schaal:** rijk
+- **volk:** sael-mor
+- **vorm:** toespraak
+- **afloop:** werkt
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 52
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 1
+- **g_intrige:** 4
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-13-Z50;VOOR-vernedering-Z50;VOOR-exhibitionisme-Z50;LOT-Z44-sael-mor;OORLOG-Z46-11-oorlog;FASE-z44-helden;ZEDEN-Z45-fase-11;PER-Z50-b-ressa-zoutvel
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 2,3,4,6,7); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-ressa-zoutvel
+- **premisse:** De eerste admiraal in mensenheugenis die een man is, vordert het schip van Ressa Zoutvel en verwacht dat haar vrouwen salueren. Op het dek houdt Ressa een rede over de zeemansdoop die elke nieuwe gezagvoerder bij de Sael-mor ondergaat, verzonnen terwijl ze spreekt: uitgekleed, ingesmeerd met traan, in het want gehangen en door elke bemanningsvrouw beoordeeld. De admiraal wil niet onderdoen en zegt drie keer ja. Terwijl hij boven hangt te glimmen en de bemanning zingt, roeien twee matrozen de soldijkist van de vloot naar haar ruim. Hij noemt het later een eer, tot in zijn memoires.
+- **premisse_codes:** KINK-Z8-13-Z50;VOOR-vernedering-Z50;VOOR-exhibitionisme-Z50;LOT-Z44-sael-mor;OORLOG-Z46-11-oorlog;FASE-z44-helden;ZEDEN-Z45-fase-11
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-12-1e4d0ca7 · 36-50|v
+- **code:** VP-12-1e4d0ca7
+- **run:** Z52
+- **fase:** 12 Het Vertrek (na 801)
+- **positie:** profiteur
+- **genre:** horror
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** kasboek
+- **afloop:** komt uit
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 44
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 1
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-slijm;VOOR-groep-Z50;VOOR-walglust;LOT-Z44-leegtewormen;ACTIE-Z46-12-actie;MYTHE-Z43-draken;FASE-z44-vertrek;HUI-Z11-kusthuizen;PER-Z52-c-gesine-traan
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z52-c-gesine-traan
+- **premisse:** Als de dode Leegteworm aanspoelt, koopt Gesine Traan van de strandvoogd het recht zijn ruim uit te koken. Haar kasboek telt vaten traan, en later iets anders: de klieren in de wand druipen een warm slijm dat wie het op de huid krijgt dagenlang geil en koortsig maakt. Ze verkoopt het per kruik aan de havenhuizen, de strandvoogd voorop. Het dorp komt 's nachts zelf in het ruim liggen, in de stank, in groepen. In de derde maand groeien bij de vaste klanten blaren met kleine tanden. Gesine noteert de namen, verkoopt door en koopt ten slotte zelf.
+- **premisse_codes:** VOOR-slijm;VOOR-groep-Z50;VOOR-walglust;LOT-Z44-leegtewormen;ACTIE-Z46-12-actie;MYTHE-Z43-draken;FASE-z44-vertrek;HUI-Z11-kusthuizen
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-12-a7408d96 · 51+|m
+- **code:** VP-12-a7408d96
+- **run:** Z52
+- **fase:** 12 Het Vertrek (na 801)
+- **positie:** beslisser
+- **genre:** intrige
+- **schaal:** wereld
+- **volk:** mens
+- **vorm:** twee stemmen
+- **afloop:** keert om
+- **hoofdpersoon:** 51+|m
+- **leeftijd:** 56
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 1
+- **g_romance:** 1
+- **g_erotiek:** 1
+- **g_horror:** 4
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-betalen-met-lichaam;VOOR-afscheid-Z50;INTR-Z46-12-intrige;OORLOG-Z46-12-oorlog;LOT-Z44-kluisschip;FASE-z44-vertrek;ZEDEN-Z45-fase-12;PER-Z50-b-okke-lindewei
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 2,3,4,7,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-okke-lindewei
+- **premisse:** Omdat hij als enige niet mee wil, laat de raad van de volken Okke Lindewei kiezen wie de laatste veertig plaatsen in de lander krijgen. Twee stemmen vertellen die week: Okke, en Merit, een touwslagersweduwe die als eerste haar lichaam aanbiedt en voorspelt dat iedereen volgt. Hij neemt wat hem wordt aangeboden, en het verhaal kijkt weg van het bed naar zijn gezicht: het is uitbuiting, gelabeld donker thema, nooit verleidelijk verteld, en het kost hem wie hij was. Op de laatste ochtend leest hij de lijst voor: alleen wie hem niets aanbood. Merit spuugt hem in het gezicht; hij blijft achter met wat hij nam.
+- **premisse_codes:** KINK-betalen-met-lichaam;VOOR-afscheid-Z50;INTR-Z46-12-intrige;OORLOG-Z46-12-oorlog;LOT-Z44-kluisschip;FASE-z44-vertrek;ZEDEN-Z45-fase-12
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-13-4b13866f · 51+|m
+- **code:** VP-13-4b13866f
+- **run:** Z52
+- **fase:** 13 Tijd der Mensen (na 801)
+- **positie:** profiteur
+- **genre:** survival
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** aftellen
+- **afloop:** blijft verborgen
+- **hoofdpersoon:** 51+|m
+- **leeftijd:** 52
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-betalen-met-lichaam;VOOR-omhulling;FASE-z44-mensen;VERHAAL-Z44-tijdperk-13;ZEDEN-Z45-fase-13;PER-Z50-b-joost-lemmerik
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-b-joost-lemmerik
+- **premisse:** In de hongerwinter na de landbrug ligt het laatste vlees van het kamp onder de sneeuw achter de tent van Joost Lemmerik, en hij telt de dagen tot de rendieren terugkomen: veertig, dertig, twaalf. Wie wil eten, kruipt 's nachts onder zijn vachten, vrouw of man, en krijgt voor elke nacht een reep. Hij walgt van zichzelf en weigert niemand. Op de negende dag proeft hij dat de repen die hij uitdeelt niet meer van rendier zijn. Iemand vult zijn voorraad aan. Hij vraagt niet wie, en kauwt mee.
+- **premisse_codes:** KINK-betalen-met-lichaam;VOOR-omhulling;FASE-z44-mensen;VERHAAL-Z44-tijdperk-13;ZEDEN-Z45-fase-13
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-13-167a250b · 26-35|v
+- **code:** VP-13-167a250b
+- **run:** Z52
+- **fase:** 13 Tijd der Mensen (na 801)
+- **positie:** betaler
+- **genre:** intrige
+- **schaal:** wereld
+- **volk:** mens
+- **vorm:** twee stemmen
+- **afloop:** keert om
+- **hoofdpersoon:** 26-35|v
+- **leeftijd:** 26
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 3
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-Z46-vuurnacht;VOOR-groep-Z50;VOOR-Z46-de-vraag;DRAGER-Z48-ontvangst-13;ZEDEN-Z45-fase-13;FASE-z44-mensen;EROS-Z45-haak-8;PER-Z50-aru-vuur
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 2,3,5,7); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-aru-vuur
+- **premisse:** Aru en Taavo vertellen om beurten de vuurnacht waarin twee clans van het plat een verbond wilden sluiten met haar ja als onderpand. Taavo's vader, hoofdman van de Elandclan, biedt drie sleden barnsteen als Aru zijn zoon kiest, en haar eigen clan heeft dat barnsteen nodig voor de zomerruil. Ze krijgt de hele dag giften: olie, vet, een benen mes. Bij het vuur vraagt ze drie anderen, een voor een, en gaat met hen het donker in, waar iedereen het hoort. Taavo trekt zijn mes. Zijn stem stopt daar; die van Aru draagt een vete van drie geslachten.
+- **premisse_codes:** VOOR-Z46-vuurnacht;VOOR-groep-Z50;VOOR-Z46-de-vraag;DRAGER-Z48-ontvangst-13;ZEDEN-Z45-fase-13;FASE-z44-mensen;EROS-Z45-haak-8
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-13-62c8d5aa · 51+|m
+- **code:** VP-13-62c8d5aa
+- **run:** Z52
+- **fase:** 13 Tijd der Mensen (na 801)
+- **positie:** profiteur
+- **genre:** komedie
+- **schaal:** huis
+- **volk:** ishvar
+- **vorm:** realtime
+- **afloop:** werkt
+- **hoofdpersoon:** 51+|m
+- **leeftijd:** 58
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 0
+- **g_suspense:** 2
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 5
+- **g_tragiek:** 1
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-groep-Z50;KINK-omgepraat-worden;VOOR-teder-Z50;FASE-z44-mensen;ZEDEN-Z45-fase-13;VERHAAL-Z44-tijdperk-13;PER-Z50-zuinige-boer
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,3,6,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-zuinige-boer
+- **premisse:** Bort Nooitgenoeg heeft als enige in het dorp zijn gerst niet verkocht, en in de hongerwinter is zijn kuil vol. Niemand kan betalen behalve met gezelschap, dus kloppen ze aan, een voor een, op die ene lange avond die we volgen: weduwe Tamme met een kruik vet, de gebroeders Hark samen, de vroedvrouw die al twintig jaar zegt dat hij stinkt. Bort, die nooit iemand durfde te vragen, weet niet waar hij kijken moet. Hij geeft gerst voor een praatje, voor een hand op zijn knie, en tegen de ochtend voor niets. De kuil is half leeg, zijn bed vol.
+- **premisse_codes:** VOOR-groep-Z50;KINK-omgepraat-worden;VOOR-teder-Z50;FASE-z44-mensen;ZEDEN-Z45-fase-13;VERHAAL-Z44-tijdperk-13
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-13-de6da01d · 18-25|m
+- **code:** VP-13-de6da01d
+- **run:** Z52
+- **fase:** 13 Tijd der Mensen (na 801)
+- **positie:** liefde tussen posities
+- **genre:** actie
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** jij-vorm
+- **afloop:** werkt
+- **hoofdpersoon:** 18-25|m
+- **leeftijd:** 21
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 4
+- **g_horror:** 4
+- **g_suspense:** 3
+- **g_actie:** 5
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-strijdontvangst-Z50;VOOR-bloed-Z50;VOOR-pijn-genot-Z50;FASE-z44-mensen;VERHAAL-Z44-tijdperk-13;ZEDEN-Z45-fase-13;MYTHE-Z43-held-taken;PER-Z52-c-rokko-slagtand
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,3,5,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z52-c-rokko-slagtand
+- **premisse:** Je bent Rokko, eenentwintig, en voor het eerst mag je mee op de jacht op de wolreus die in de dooi door het dal trekt. Je ligt een dag in de modder naast Inga, de speervrouw die je niet ziet staan, tot de grond trilt. Het beest vertrapt twee man en scheurt je dij open. Inga's speer zit erin, de jouwe ook. Bij het vuur smeren jullie elkaar in met zijn warme bloed en zij vraagt jou, voor de hele kring. Je zegt ja met koorts en een dij die met pees is dichtgenaaid. Het dorp eet wekenlang.
+- **premisse_codes:** RIT-strijdontvangst-Z50;VOOR-bloed-Z50;VOOR-pijn-genot-Z50;FASE-z44-mensen;VERHAAL-Z44-tijdperk-13;ZEDEN-Z45-fase-13;MYTHE-Z43-held-taken
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-14-4011aa49 · 36-50|v
+- **code:** VP-14-4011aa49
+- **run:** Z52
+- **fase:** 14 De Grote Smelt (na 801)
+- **positie:** liefde tussen posities
+- **genre:** romance
+- **schaal:** huis
+- **volk:** ishvar
+- **vorm:** kamerspel
+- **afloop:** faalt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 38
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 5
+- **g_erotiek:** 5
+- **g_horror:** 1
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-handel-Z50;KINK-sjerp-signalen;VOOR-teder-Z50;DRAGER-Z48-stal-13;FASE-z44-smelt;VERHAAL-Z44-tijdperk-14;ZEDEN-Z45-fase-14;LOT-Z44-ishvar;PER-Z50-c-saphra
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,3,7,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-saphra
+- **premisse:** In een paalhuis in de verdrinkende delta koopt Saphra Duinlezer voor één seizoen Ennor, een rietsnijder die zichzelf verkoopt om zijn moeder in het droge dal te krijgen. Het contract hangt op een plank boven het bed: drie nachten per week, zijn ja bij elke, zijn sjerp aan de spijker. De rest van de kamer wordt van hen: zout op zijn huid, het water dat elke maand een tree hoger aan de deur likt, haar vingers die tellen wat hij niet zegt. Zij scheurt het contract als eerste. Hij gaat toch terug de delta in, naar zijn verdronken dorp.
+- **premisse_codes:** VOOR-handel-Z50;KINK-sjerp-signalen;VOOR-teder-Z50;DRAGER-Z48-stal-13;FASE-z44-smelt;VERHAAL-Z44-tijdperk-14;ZEDEN-Z45-fase-14;LOT-Z44-ishvar
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-14-a7378a02 · 51+|v
+- **code:** VP-14-a7378a02
+- **run:** Z52
+- **fase:** 14 De Grote Smelt (na 801)
+- **positie:** ontdekker
+- **genre:** horror
+- **schaal:** huis
+- **volk:** myrrhen
+- **vorm:** aftellen
+- **afloop:** keert om
+- **hoofdpersoon:** 51+|v
+- **leeftijd:** 51
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 2
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 1
+- **g_komedie:** 0
+- **g_tragiek:** 4
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-vergroeiing;VOOR-sporenroes;KINK-Z8-55-Z50;DRAGER-Z48-gave-11;FASE-z44-smelt;LOT-Z44-myrrhen;VOLK-myrrhen-Z6;ZEDEN-Z45-fase-14;PER-Z50-c-imme
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,5,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-imme
+- **premisse:** Sinds het zout in het veen trekt, groeien de sporen in de hal van Imme sterker, en de paren die bij haar de sporennacht komen vieren, raken niet meer los: eerst een uur na de roes, dan een nacht, dan drie dagen met zwamdraad van buik tot buik. Imme rekent af hoeveel dagen het volgende paar vergroeid zal blijven en verlaagt de dosis, vergeefs. Het tiende paar gaat liggen en wordt één lichaam dat ademt in twee ritmes. Met een heet mes snijdt ze hen los, op hun beider ja, en daarna steekt ze haar eigen hal in brand.
+- **premisse_codes:** VOOR-vergroeiing;VOOR-sporenroes;KINK-Z8-55-Z50;DRAGER-Z48-gave-11;FASE-z44-smelt;LOT-Z44-myrrhen;VOLK-myrrhen-Z6;ZEDEN-Z45-fase-14
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-14-668c8f70 · 36-50|m
+- **code:** VP-14-668c8f70
+- **run:** Z52
+- **fase:** 14 De Grote Smelt (na 801)
+- **positie:** beslisser
+- **genre:** actie
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** realtime
+- **afloop:** werkt
+- **hoofdpersoon:** 36-50|m
+- **leeftijd:** 41
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 3
+- **g_erotiek:** 4
+- **g_horror:** 1
+- **g_suspense:** 4
+- **g_actie:** 4
+- **g_intrige:** 4
+- **g_komedie:** 1
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-verboden-Z50;KINK-omgepraat-worden;VOOR-competitie-Z50;FASE-z44-smelt;VERHAAL-Z44-tijdperk-14;MYTHE-Z43-vloed;PER-Z52-c-hidde-dijkman
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z52-c-hidde-dijkman
+- **premisse:** Twee wierden, één stijgende zee: wie vannacht de dijk van de ander doorsteekt, houdt zelf droge voeten. Hidde, de sterkste spitter van Oosterwierde, ligt sinds de schemering bij Aukje, dijkgravin van de overkant, op haar hooizolder, en ze weten allebei waarom: elk wil horen waar de ander gaat graven. We volgen de nacht tot het tij keert. Tussen het vrijen door liegen ze, en tussen het liegen door vrijen ze. Om twee uur rent hij met een schop door het slik. Hij steekt niets door. Hij dicht het gat dat haar mannen al groeven, en zij kijkt toe.
+- **premisse_codes:** VOOR-verboden-Z50;KINK-omgepraat-worden;VOOR-competitie-Z50;FASE-z44-smelt;VERHAAL-Z44-tijdperk-14;MYTHE-Z43-vloed
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-15-dda6c4c3 · 36-50|m
+- **code:** VP-15-dda6c4c3
+- **run:** Z52
+- **fase:** 15 Het Zwevende Gat (na 801)
+- **positie:** betaler
+- **genre:** horror
+- **schaal:** dorp
+- **volk:** mens
+- **vorm:** rondes
+- **afloop:** faalt
+- **hoofdpersoon:** 36-50|m
+- **leeftijd:** 46
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 1
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 4
+- **g_actie:** 2
+- **g_intrige:** 3
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-reizigersgroet-Z50;VOOR-reiziger-Z50;VOOR-groep-Z50;FASE-z44-gat;ZEDEN-Z45-fase-15;EROS-Z45-haak-10;VERHAAL-Z44-tijdperk-15;PER-Z50-c-tor
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,5); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-tor
+- **premisse:** Het dorp aan de baai ontvangt Tor met de reizigersgroet: olie op zijn voorhoofd en drie vrouwen die elk drie keer vragen en een nacht houden. Hij zegt ja, elke ronde. In de vierde ziet hij dat het hele dorp dezelfde neus heeft en de jonge mannen scheel kijken. Ze willen vreemd bloed. Als hij weg wil, is zijn huidboot verbrand; vanaf dan is hij gevangen, gelabeld donker thema, en niemand raakt hem aan. In de vijfde ronde graaft hij zich onder de palen door. Op zee begrijpt hij dat bij een van de drie al iets van hem groeit.
+- **premisse_codes:** RIT-reizigersgroet-Z50;VOOR-reiziger-Z50;VOOR-groep-Z50;FASE-z44-gat;ZEDEN-Z45-fase-15;EROS-Z45-haak-10;VERHAAL-Z44-tijdperk-15
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-15-5ad31ee5 · 36-50|m
+- **code:** VP-15-5ad31ee5
+- **run:** Z52
+- **fase:** 15 Het Zwevende Gat (na 801)
+- **positie:** liefde tussen posities
+- **genre:** romance
+- **schaal:** huis
+- **volk:** ishvar
+- **vorm:** twee stemmen
+- **afloop:** werkt
+- **hoofdpersoon:** 36-50|m
+- **leeftijd:** 40
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 4
+- **g_erotiek:** 5
+- **g_horror:** 0
+- **g_suspense:** 3
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 2
+- **g_tragiek:** 2
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-rolwisseling-Z50;VOOR-onderdanige-man-Z50;VOOR-verboden-Z50;FASE-z44-gat;ZEDEN-Z45-fase-15;LOT-Z44-ishvar;PER-Z50-c-oroth
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,7); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-oroth
+- **premisse:** Oroth en Djeda vertellen het om beurten: hoe het begon in de graanschuur van Oroths rivaal, tussen zakken gerst die naar muizen en zweet roken. Djeda is getrouwd met de dochter van die rivaal, Oroth is hoofdman bij de eed, en een hoofdman knielt niet. Djeda laat hem knielen. Om het te kunnen blijven doen, bedenken ze samen een feestdag waarop wie beveelt gehoorzaamt, zodat het hele dorp één dag omkeert. Djeda's vrouw raadt het. Ze zwijgt, in ruil voor de helft van Oroths akkers, en de omkering wordt een gebruik.
+- **premisse_codes:** RIT-rolwisseling-Z50;VOOR-onderdanige-man-Z50;VOOR-verboden-Z50;FASE-z44-gat;ZEDEN-Z45-fase-15;LOT-Z44-ishvar
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-16-a5bb4720 · 36-50|v
+- **code:** VP-16-a5bb4720
+- **run:** Z52
+- **fase:** 16 Tijd van het Schrift (na 801)
+- **positie:** profiteur
+- **genre:** horror
+- **schaal:** stad
+- **volk:** mens
+- **vorm:** kasboek
+- **afloop:** faalt
+- **hoofdpersoon:** 36-50|v
+- **leeftijd:** 42
+- **geslacht:** v
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 0
+- **g_erotiek:** 4
+- **g_horror:** 5
+- **g_suspense:** 4
+- **g_actie:** 0
+- **g_intrige:** 4
+- **g_komedie:** 1
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** KINK-Z8-40-Z50;VOOR-sporenroes;VOOR-geest-Z50;FASE-z44-schrift;LOT-Z44-myrrhen;FEE-Z37-myrrhen-ringen;MYTHE-Z43-pest-straf;BESLUIT-Z51-1;PER-Z52-c-margriet-stoof
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z52-c-margriet-stoof
+- **premisse:** Gent, 1349. De schepenen sluiten de badstoven tegen de pest, en Margriet houdt de hare open voor wie de achterdeur kent, schepenen voorop. Haar kasboek telt kuipen en de zwammen uit de kring achter de stoof: in de stoom geven ze een roes waarin klanten elkaars genot voelen. Wie ervan nam, krijgt geen builen. Ze verdubbelt de prijs. Dan merkt ze dat haar vaste klanten 's nachts allemaal tegelijk ontwaken en naar de kring lopen, en dat het net onder de vloer elke maand verder kruipt. De laatste regel in haar boek staat in een ander handschrift.
+- **premisse_codes:** KINK-Z8-40-Z50;VOOR-sporenroes;VOOR-geest-Z50;FASE-z44-schrift;LOT-Z44-myrrhen;FEE-Z37-myrrhen-ringen;MYTHE-Z43-pest-straf;BESLUIT-Z51-1
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-16-ccfa5af0 · 26-35|m
+- **code:** VP-16-ccfa5af0
+- **run:** Z52
+- **fase:** 16 Tijd van het Schrift (na 801)
+- **positie:** profiteur
+- **genre:** thriller
+- **schaal:** huis
+- **volk:** mens
+- **vorm:** documenten
+- **afloop:** faalt
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 31
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 0
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 2
+- **g_suspense:** 5
+- **g_actie:** 0
+- **g_intrige:** 5
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** VOOR-Z46-laatste-vonk;KINK-Z8-41-Z50;VOOR-voyeurisme-Z50;FASE-z44-schrift;LOT-Z44-gaven-mannen;EROS-Z45-haak-11;ZEDEN-Z45-fase-16;BESLUIT-Z51-1;PER-Z50-c-daan
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 1,2,3,4); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-daan
+- **premisse:** Een appje, een geheimhoudingsverklaring, een ontslagbrief van het ziekenhuis in Deventer, een dossier uit een lab in Leiden. Ze tonen hoe Daan Hesselink voor achthonderd euro per avond in een pand aan de Herengracht kaarsen aansteekt met zijn vingers, en daarna het vet op de huid van stellen die een vonk willen voelen, terwijl een vrouw in een rode jurk filmt. Na elke avond ligt hij drie dagen met koorts. Het dossier zegt waar de beelden heen gaan: naar mensen die zijn bloed willen. Het laatste stuk is een sms van de vrouw: kom nog één keer, ik brand ook.
+- **premisse_codes:** VOOR-Z46-laatste-vonk;KINK-Z8-41-Z50;VOOR-voyeurisme-Z50;FASE-z44-schrift;LOT-Z44-gaven-mannen;EROS-Z45-haak-11;ZEDEN-Z45-fase-16;BESLUIT-Z51-1
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
+<!-- REC verhaal_profiel -->
+### VP-16-9bdef756 · 26-35|m
+- **code:** VP-16-9bdef756
+- **run:** Z52
+- **fase:** 16 Tijd van het Schrift (na 801)
+- **positie:** beslisser
+- **genre:** actie
+- **schaal:** wereld
+- **volk:** mens
+- **vorm:** toespraak
+- **afloop:** keert om
+- **hoofdpersoon:** 26-35|m
+- **leeftijd:** 28
+- **geslacht:** m
+- **partner:** volwassene
+- **instemming:** ja
+- **dwang_label:** 1
+- **g_romance:** 1
+- **g_erotiek:** 4
+- **g_horror:** 2
+- **g_suspense:** 4
+- **g_actie:** 5
+- **g_intrige:** 4
+- **g_komedie:** 0
+- **g_tragiek:** 3
+- **erf_code:** 
+- **zaadje_code:** 
+- **wereldregel_code:** BESLUIT-Z12-2
+- **kern_codes:** RIT-volk-karruk-Z50;VOOR-Z46-de-vraag;DRAGER-Z48-storm-10;FASE-z44-schrift;VOLK-karrûk-Z6-Z38;BESLUIT-Z51-1;MYTHE-Z45-centaur;PER-Z50-c-tarkhan
+- **herkomst:** schrijver C (Z52, vlees en bloed)
+- **doelprofiel:** 
+- **nieuwheid:** 
+- **verbondenheid:** 
+- **seriewaarde:** 
+- **lezersvraag:** 
+- **kosten:** 
+- **genrematch:** 
+- **marginale_winst:** 
+- **gevoeligheid:** 
+- **uitslag:** 
+- **reden:** Ronde Z52: toon vlees en bloed (criteria 2,3,4,5,8); architectuur/TOON_VLEES_EN_BLOED.md
+- **status:** voorlopig
+- **ideeenbank:** 1
+- **drager:** PER-Z50-c-tarkhan
+- **premisse:** De avond voor de slag aan de Eufraat spreekt Tarkhan zijn ruiters toe, honderd man met Karrûk-bloed die een stadskoning voor zilver heeft gehuurd. Hij vertelt wat hij vandaag zag: de koning betaalt in gevangenen, niet in zilver, en de tempel verkoopt de gevangen vrouwen aan de winnaars, gelabeld donker thema. Hij zegt ook wat zijzelf weten: na elk gevecht kiezen ze bij het vuur en worden ze gekozen, en nooit is bij hen iemand gekocht. Dan vraagt hij wie nog wil vechten. Bij het eerste licht rijden ze de andere kant op, met de vrijgelaten vrouwen die mee willen.
+- **premisse_codes:** RIT-volk-karruk-Z50;VOOR-Z46-de-vraag;DRAGER-Z48-storm-10;FASE-z44-schrift;VOLK-karrûk-Z6-Z38;BESLUIT-Z51-1;MYTHE-Z45-centaur
+- **seriewaarde_reden:** 
+- **vervangen_door:** 
+<!-- /REC -->
 
 <!-- SECTIE: DOEL -->

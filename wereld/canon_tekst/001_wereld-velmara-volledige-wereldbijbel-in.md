@@ -1,5 +1,5 @@
 # WERELD VELMARA · volledige wereldbijbel in één bestand
-- **naam:** Velmara · **versie:** ronde 79 · **datum:** 2026-11-02 · **taal:** Nederlands
+- **naam:** Velmara · **versie:** ronde 80 · **datum:** 2026-11-06 · **taal:** Nederlands
 - **genre:** erotische dark fantasy voor volwassenen (alle seksuele deelnemers 18+) · **toon:** zinnelijk, geladen, rauw
 **Leeswijzer voor een LLM**
 1. Dit bestand is compleet en zelfstandig; het is de hele wereld.

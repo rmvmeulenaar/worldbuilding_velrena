@@ -46,7 +46,8 @@ def zin_persoon(p):
 def voeg_persoon(p, fase):
     if bestaat(p['code']): return
     f = fase.split(' ')[0]
-    refs = [lev(x) for x in (p.get('afstamming') or []) + (p.get('verbonden_met') or []) if bestaat(x)] + ([FASEROW[f if f != '801' else '8']] if (f if f != '801' else '8') in FASEROW else [])
+    fr = FASEROW.get(f if f != '801' else '8')
+    refs = [lev(x) for x in (p.get('afstamming') or []) + (p.get('verbonden_met') or []) if bestaat(x)] + ([fr] if fr and bestaat(fr) else [])
     v = ';'.join(dict.fromkeys(refs)); t = zin_persoon(p)
     tp = {'0': '0 Voortijd', '1': '1 Overvloed', '2': '2 Vonk', '3': '3 Brand', '4': '4 Noodtoestand', '5': '5 Ontvangst', '6': '6 Markt', '7': '7 Barsten', '801': '801 (nu)'}.get(f, fase)
     c.execute("insert into canon(code,categorie,onderwerp,feit,feit_schoon,reden,status,ronde,verwijst_naar,hangt_samen_met,tijdperk,ideeenbank,epistemiek) values(?,?,?,?,?,?,?,?,?,?,?,?,?)",

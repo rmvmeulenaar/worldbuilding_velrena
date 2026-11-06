@@ -30387,4 +30387,334 @@
 - **bron_handmatig:** 
 - **epistemiek:** feit (canon; Z51: alleen codes bijgewerkt, BESLUIT-Z51-1)
 <!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-a-marit-kolde · Marit Kolde
+- **code:** PER-Z52-a-marit-kolde
+- **categorie:** Personage
+- **onderwerp:** Marit Kolde
+- **wat:** Marit Kolde (mens, de delta, nederzetting bij de rivier) is geboren rond jaar -1268 en is latrinewerkster onder Sabe Mehr, handelaarster in wat ze hoort. Ze wil een eigen hut met een deur die van binnen op slot kan. Het kost zodra de nederzetting weet dat ze ruilt, vertelt niemand haar nog iets echts; ze houdt de stank en verliest haar vriendinnen. Wat niemand weet, is dat ze heeft één keer een raadsbesluit verzonnen dat nooit genomen was, en de raad heeft het daarna uitgevoerd. Uit de lijn van ORIGIN-1.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** ORIGIN-1;YSA-Z20-12;YSA-Z21-8;ORIGIN-7;FASE-voortijd
+- **verwijst_naar:** ORIGIN-1;YSA-Z20-12;YSA-Z21-8;ORIGIN-7;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Marit Kolde (mens, de delta, nederzetting bij de rivier) is geboren rond jaar -1268 en is latrinewerkster onder Sabe Mehr, handelaarster in wat ze hoort. Ze wil een eigen hut met een deur die van binnen op slot kan. Het kost zodra de nederzetting weet dat ze ruilt, vertelt niemand haar nog iets echts; ze houdt de stank en verliest haar vriendinnen. Wat niemand weet, is dat ze heeft één keer een raadsbesluit verzonnen dat nooit genomen was, en de raad heeft het daarna uitgevoerd. Uit de lijn van ORIGIN-1.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-b-wiela-zoutkieuw · Wiela Zoutkieuw
+- **code:** PER-Z52-b-wiela-zoutkieuw
+- **categorie:** Personage
+- **onderwerp:** Wiela Zoutkieuw
+- **wat:** Wiela Zoutkieuw (sael-mor, Zoutkust (Brakhaven)) is geboren rond jaar 202 en is duikster en kettingzaagster in de kaperoorlog om de vrijhaven. Ze wil haar schip vrij en de haven zonder tiende. Wat niemand weet, is dat ze zaagt ook de kettingen van Mirre-schepen door als de Orde beter betaalt. Het kost aldo verliest zijn rang en verkoopt zich op het eerste veilingpodium. Uit de lijn van VOLK-sael-mor, HUI-mirre.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** VOLK-sael-mor;HUI-mirre;GEB-Z41-mirre-vrijhaven;RIT-gemaskerde-veiling-Z50;STAD-brakhaven;ORDE-tempelwacht;FASE-ontvangst
+- **verwijst_naar:** VOLK-sael-mor;HUI-mirre;GEB-Z41-mirre-vrijhaven;RIT-gemaskerde-veiling-Z50;STAD-brakhaven;ORDE-tempelwacht;FASE-ontvangst
+- **jaar:** 
+- **tijdperk:** 5 Ontvangst
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Wiela Zoutkieuw (sael-mor, Zoutkust (Brakhaven)) is geboren rond jaar 202 en is duikster en kettingzaagster in de kaperoorlog om de vrijhaven. Ze wil haar schip vrij en de haven zonder tiende. Wat niemand weet, is dat ze zaagt ook de kettingen van Mirre-schepen door als de Orde beter betaalt. Het kost aldo verliest zijn rang en verkoopt zich op het eerste veilingpodium. Uit de lijn van VOLK-sael-mor, HUI-mirre.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-b-tjalda-wolfsvel · Tjalda Wolfsvel
+- **code:** PER-Z52-b-tjalda-wolfsvel
+- **categorie:** Personage
+- **onderwerp:** Tjalda Wolfsvel
+- **wat:** Tjalda Wolfsvel (mens, Hoogvrouwe-gebergte) is geboren rond jaar 767 en is Kaldra-huurlinge zonder huis. Wat niemand weet, is dat ze houdt een vierde flacon achter, en het zwarte grind daarin is warm gebleven. Ze wil één contract dat genoeg betaalt om te stoppen. Het kost drie doden, geen loon, en een flacon die ze niet durft weg te gooien. Uit de lijn van HUI-kaldra-Z6.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** HUI-kaldra-Z6;SEKTE-bloedkerk;STAD-lisk;PER-morvane;PER-sch-kreel
+- **verwijst_naar:** HUI-kaldra-Z6;SEKTE-bloedkerk;STAD-lisk;PER-morvane;PER-sch-kreel
+- **jaar:** 
+- **tijdperk:** 801 (nu)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Tjalda Wolfsvel (mens, Hoogvrouwe-gebergte) is geboren rond jaar 767 en is Kaldra-huurlinge zonder huis. Wat niemand weet, is dat ze houdt een vierde flacon achter, en het zwarte grind daarin is warm gebleven. Ze wil één contract dat genoeg betaalt om te stoppen. Het kost drie doden, geen loon, en een flacon die ze niet durft weg te gooien. Uit de lijn van HUI-kaldra-Z6.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-c-askja-roetkam · Askja Roetkam
+- **code:** PER-Z52-c-askja-roetkam
+- **categorie:** Personage
+- **onderwerp:** Askja Roetkam
+- **wat:** Askja Roetkam (karrûk, Orlenhal en het kamp voor Lisk) is geboren rond jaar 766 en is huurlingenkapitein van veertig zwaarden. Ze wil aan beide kanten van de oorlog verdienen en haar compagnie heel thuisbrengen. Het kost het voorschot, twaalf van haar zwaarden en haar naam bij de Bloedkerk. Wat niemand weet, is dat ze heeft het voorschot van de Bloedkerk al uitbetaald aan haar mannen. Uit de lijn van VOLK-karrûk-Z6-Z38, LOT-Z44-karruk-storm.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** VOLK-karrûk-Z6-Z38;LOT-Z44-karruk-storm;OORLOG-Z46-9-oorlog;HELD-Z46-9-held;FASE-z44-ja
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;LOT-Z44-karruk-storm;OORLOG-Z46-9-oorlog;HELD-Z46-9-held;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Askja Roetkam (karrûk, Orlenhal en het kamp voor Lisk) is geboren rond jaar 766 en is huurlingenkapitein van veertig zwaarden. Ze wil aan beide kanten van de oorlog verdienen en haar compagnie heel thuisbrengen. Het kost het voorschot, twaalf van haar zwaarden en haar naam bij de Bloedkerk. Wat niemand weet, is dat ze heeft het voorschot van de Bloedkerk al uitbetaald aan haar mannen. Uit de lijn van VOLK-karrûk-Z6-Z38, LOT-Z44-karruk-storm.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-c-ysme-halfgezicht · Ysmé Halfgezicht
+- **code:** PER-Z52-c-ysme-halfgezicht
+- **categorie:** Personage
+- **onderwerp:** Ysmé Halfgezicht
+- **wat:** Ysmé Halfgezicht (ves-lethi, Hoornburg in Kharvos) is geboren rond jaar 2981 en is courtisane die gezichten van doden verhuurt. Het kost haar ene gezicht, voorgoed gespleten in twee. Ze wil genoeg verdienen om Kharvos te verlaten voordat de kern stilvalt. Wat niemand weet, is dat ze weet niet meer welk gezicht haar eigen was. Uit de lijn van VOLK-ves-lethi-Z6, LOT-Z44-ves-lethi.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** VOLK-ves-lethi-Z6;LOT-Z44-ves-lethi;VERHAAL-Z44-tijdperk-10;HORROR-Z46-10-horror;FASE-z44-volken
+- **verwijst_naar:** VOLK-ves-lethi-Z6;LOT-Z44-ves-lethi;VERHAAL-Z44-tijdperk-10;HORROR-Z46-10-horror;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ysmé Halfgezicht (ves-lethi, Hoornburg in Kharvos) is geboren rond jaar 2981 en is courtisane die gezichten van doden verhuurt. Het kost haar ene gezicht, voorgoed gespleten in twee. Ze wil genoeg verdienen om Kharvos te verlaten voordat de kern stilvalt. Wat niemand weet, is dat ze weet niet meer welk gezicht haar eigen was. Uit de lijn van VOLK-ves-lethi-Z6, LOT-Z44-ves-lethi.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-c-drystan-hoorn · Drystan van Hoornburg
+- **code:** PER-Z52-c-drystan-hoorn
+- **categorie:** Personage
+- **onderwerp:** Drystan van Hoornburg
+- **wat:** Drystan van Hoornburg (mens, Hoornburg en de woestijn ten zuiden van Kharvos) is geboren rond jaar 2966 en is gemaal van de laatste vorstin van Kharvos, sleutelhouder van de kernzaal. Het kost de burcht, zijn naam en een tocht zonder water. Hij wil de vorstin geven wat ze vraagt, ook als het de burcht kost. Wat niemand weet, is dat hij zette de draaiing de laatste nacht hoger zonder dat zij het vroeg. Uit de lijn van STAD-kharvos-hoornburg, LOT-Z44-sterrensteen.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** STAD-kharvos-hoornburg;LOT-Z44-sterrensteen;VERHAAL-Z44-tijdperk-10;FASE-z44-volken
+- **verwijst_naar:** STAD-kharvos-hoornburg;LOT-Z44-sterrensteen;VERHAAL-Z44-tijdperk-10;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Drystan van Hoornburg (mens, Hoornburg en de woestijn ten zuiden van Kharvos) is geboren rond jaar 2966 en is gemaal van de laatste vorstin van Kharvos, sleutelhouder van de kernzaal. Het kost de burcht, zijn naam en een tocht zonder water. Hij wil de vorstin geven wat ze vraagt, ook als het de burcht kost. Wat niemand weet, is dat hij zette de draaiing de laatste nacht hoger zonder dat zij het vroeg. Uit de lijn van STAD-kharvos-hoornburg, LOT-Z44-sterrensteen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-c-garreth-veenloper · Garreth Veenloper
+- **code:** PER-Z52-c-garreth-veenloper
+- **categorie:** Personage
+- **onderwerp:** Garreth Veenloper
+- **wat:** Garreth Veenloper (mens, de Nevel-eilanden, na de desertie uit het koningsleger) is geboren rond jaar 3420 en is deserteur en voormalig schildknecht. Hij wil de winter overleven met Wobbe naast zich. Het kost wobbe, die opstaat met de anderen. Wat niemand weet, is dat hij liet Wobbe inslapen omdat hij zelf te moe was om te waken. Uit de lijn van VOLK-myrrhen-Z6, OORLOG-Z46-11-oorlog.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** VOLK-myrrhen-Z6;OORLOG-Z46-11-oorlog;HORROR-Z46-11-horror;FASE-z44-helden
+- **verwijst_naar:** VOLK-myrrhen-Z6;OORLOG-Z46-11-oorlog;HORROR-Z46-11-horror;FASE-z44-helden
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Garreth Veenloper (mens, de Nevel-eilanden, na de desertie uit het koningsleger) is geboren rond jaar 3420 en is deserteur en voormalig schildknecht. Hij wil de winter overleven met Wobbe naast zich. Het kost wobbe, die opstaat met de anderen. Wat niemand weet, is dat hij liet Wobbe inslapen omdat hij zelf te moe was om te waken. Uit de lijn van VOLK-myrrhen-Z6, OORLOG-Z46-11-oorlog.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-c-gesine-traan · Gesine Traan
+- **code:** PER-Z52-c-gesine-traan
+- **categorie:** Personage
+- **onderwerp:** Gesine Traan
+- **wat:** Gesine Traan (mens, het kustdorp bij de lander) is geboren rond jaar 4050 en is traankookster. Ze wil rijk worden aan wat de zee aanspoelt. Het kost het dorp dat haar klant was, en haar eigen huid. Wat niemand weet, is dat haar eigen huid draagt de eerste blaar, onder haar schort. Uit de lijn van HUI-Z11-kusthuizen, LOT-Z44-leegtewormen.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** HUI-Z11-kusthuizen;LOT-Z44-leegtewormen;ACTIE-Z46-12-actie;FASE-z44-vertrek
+- **verwijst_naar:** HUI-Z11-kusthuizen;LOT-Z44-leegtewormen;ACTIE-Z46-12-actie;FASE-z44-vertrek
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Gesine Traan (mens, het kustdorp bij de lander) is geboren rond jaar 4050 en is traankookster. Ze wil rijk worden aan wat de zee aanspoelt. Het kost het dorp dat haar klant was, en haar eigen huid. Wat niemand weet, is dat haar eigen huid draagt de eerste blaar, onder haar schort. Uit de lijn van HUI-Z11-kusthuizen, LOT-Z44-leegtewormen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-c-rokko-slagtand · Rokko Slagtand
+- **code:** PER-Z52-c-rokko-slagtand
+- **categorie:** Personage
+- **onderwerp:** Rokko Slagtand
+- **wat:** Rokko Slagtand (mens, het droge plat, langs de trekroute van de wolreuzen) is geboren rond jaar 6400 en is jonge jager. Het kost een stijve dij voor de rest van zijn leven. Hij wil gezien worden door Inga. Wat niemand weet, is dat zijn speer trof het beest pas nadat het al viel. Uit de lijn van VOLK-ishvar, DRAGER-Z48-ontvangst-13.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** VOLK-ishvar;DRAGER-Z48-ontvangst-13;VERHAAL-Z44-tijdperk-13;FASE-z44-mensen
+- **verwijst_naar:** VOLK-ishvar;DRAGER-Z48-ontvangst-13;VERHAAL-Z44-tijdperk-13;FASE-z44-mensen
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Rokko Slagtand (mens, het droge plat, langs de trekroute van de wolreuzen) is geboren rond jaar 6400 en is jonge jager. Het kost een stijve dij voor de rest van zijn leven. Hij wil gezien worden door Inga. Wat niemand weet, is dat zijn speer trof het beest pas nadat het al viel. Uit de lijn van VOLK-ishvar, DRAGER-Z48-ontvangst-13.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-c-hidde-dijkman · Hidde Dijkman
+- **code:** PER-Z52-c-hidde-dijkman
+- **categorie:** Personage
+- **onderwerp:** Hidde Dijkman
+- **wat:** Hidde Dijkman (mens, Oosterwierde, een van de laatste wierden aan de verdrinkende kust) is geboren rond jaar 11560 en is spitter en dijkwerker. Het kost het vertrouwen van zijn eigen wierde, die vindt dat hij voor de overkant werkte. Hij wil zijn wierde droog houden. Wat niemand weet, is dat hij heeft Aukje vroeger al eens gezien bij de zangpoel en is haar nooit vergeten. Uit de lijn van VOLK-oevrin, LOT-Z44-oevrin.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** VOLK-oevrin;LOT-Z44-oevrin;VERHAAL-Z44-tijdperk-14;FASE-z44-smelt
+- **verwijst_naar:** VOLK-oevrin;LOT-Z44-oevrin;VERHAAL-Z44-tijdperk-14;FASE-z44-smelt
+- **jaar:** 
+- **tijdperk:** 14 De Grote Smelt (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Hidde Dijkman (mens, Oosterwierde, een van de laatste wierden aan de verdrinkende kust) is geboren rond jaar 11560 en is spitter en dijkwerker. Het kost het vertrouwen van zijn eigen wierde, die vindt dat hij voor de overkant werkte. Hij wil zijn wierde droog houden. Wat niemand weet, is dat hij heeft Aukje vroeger al eens gezien bij de zangpoel en is haar nooit vergeten. Uit de lijn van VOLK-oevrin, LOT-Z44-oevrin.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-c-margriet-stoof · Margriet van der Stoof
+- **code:** PER-Z52-c-margriet-stoof
+- **categorie:** Personage
+- **onderwerp:** Margriet van der Stoof
+- **wat:** Margriet van der Stoof (mens, Gent) is geboren rond jaar 25232 en is badstovenhoudster, geboren 1307. Wat niemand weet, is dat ze nam zelf nooit van de zwammen, uit angst voor wat ze anderen zag doen. Ze wil haar stoof en haar klanten door de pest heen slepen. Het kost haar klanten, die het net toebehoren. Uit de lijn van LOT-Z44-myrrhen, FEE-Z37-myrrhen-ringen.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** LOT-Z44-myrrhen;FEE-Z37-myrrhen-ringen;MYTHE-Z43-pest-straf;FASE-z44-schrift
+- **verwijst_naar:** LOT-Z44-myrrhen;FEE-Z37-myrrhen-ringen;MYTHE-Z43-pest-straf;FASE-z44-schrift
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Margriet van der Stoof (mens, Gent) is geboren rond jaar 25232 en is badstovenhoudster, geboren 1307. Wat niemand weet, is dat ze nam zelf nooit van de zwammen, uit angst voor wat ze anderen zag doen. Ze wil haar stoof en haar klanten door de pest heen slepen. Het kost haar klanten, die het net toebehoren. Uit de lijn van LOT-Z44-myrrhen, FEE-Z37-myrrhen-ringen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
 
