@@ -494,5 +494,16 @@
 - **status:** actief
 - **niveau:** signaal
 <!-- /REC -->
+<!-- REC regel -->
+### R-premisse_hoofs · Een levende premisse met hoofse of lyrische omschrijving van seks ("een nacht met", "zich geven", "beminnen", "de huid onthoudt"); zeg het gewoon (TOON_VLEES_EN_BLOED.md, Taal).
+- **code:** R-premisse_hoofs
+- **domein:** taal
+- **omschrijving:** Een levende premisse met hoofse of lyrische omschrijving van seks ("een nacht met", "zich geven", "beminnen", "de huid onthoudt"); zeg het gewoon (TOON_VLEES_EN_BLOED.md, Taal).
+- **sql_test:** select code,'hoofse taal in premisse' from verhaal_profiel where coalesce(vervangen_door,'')='' and status='voorlopig' and (lower(premisse) like '% een nacht met %' or lower(premisse) like '% de nacht met %' or lower(premisse) like '% zich geeft%' or lower(premisse) like '% zich aan hem geeft%' or lower(premisse) like '% bemin%' or lower(premisse) like '% proeft hem%' or lower(premisse) like '% proeft haar%' or lower(premisse) like '% neemt haar op%' or lower(premisse) like '% het bed deelt%' or lower(premisse) like '% het bed delen%' or lower(premisse) like '%huid onthoudt%' or lower(premisse) like '%lichaam onthoudt%' or lower(premisse) like '%lichaam vertelt%' or lower(premisse) like '%huid vertelt%' or lower(premisse) like '% zijn gunst %' or lower(premisse) like '% haar gunst %')
+- **bron:** Z53 (Rogier, 6 november 2026)
+- **goedgekeurd_door:** Rogier (opdracht Z53, signaal)
+- **status:** actief
+- **niveau:** signaal
+<!-- /REC -->
 
 <!-- SECTIE: BOOG -->
