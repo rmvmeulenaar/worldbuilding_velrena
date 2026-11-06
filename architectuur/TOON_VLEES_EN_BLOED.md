@@ -23,6 +23,7 @@ Verhoeven toont lichamen, macht en hypocrisie zonder vernis. In *Flesh+Blood* zi
 - **Geen omschrijving in plaats van de daad**: niet "een nacht" voor seks, niet "zich geven", "beminnen", "proeven", "hem nemen", "het bed delen" of "zijn gunst".
 - **Geen lyriek**: een lichaam of huid "onthoudt", "vertelt" of "weet" niets. Een premisse eindigt niet op een aforisme of een mooie slotzin, maar op een feit of een gevolg.
 - **Gewone woorden, korte zinnen, concrete dingen**: wie, wat, waar, wat het kost, wie wint.
+- **Geil mag** (Rogier: "je mag echt wel geile dingen erin zetten"). Op paden met erotiek 3 of hoger staat wat ze van elkaar willen en wat ze doen, in gewone en ook grove woorden (neuken, pik, kut, klaarkomen), zodat de premisse zelf opwindt. Het blijft een premisse en geen scène: één of twee hete zinnen, verder plot. Op dwangpaden geldt dit nooit.
 - **De inhoud blijft gelijk**: dezelfde mensen, plekken, gebeurtenissen en afloop. Er komen geen nieuwe feiten bij. Dwang blijft gelabeld en wordt nooit opwindend gemaakt.
 
 ## Harde lijnen (ongewijzigd, op elk warmteniveau)
