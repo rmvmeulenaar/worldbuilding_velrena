@@ -1,0 +1,1235 @@
+- code: KINK-wachtrij-verleiding
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-ontvangst
+  waarom: 'Grote Wachtrij en gaven-man: rij bestaat alleen in het register'
+- code: KINK-veiling-zaadbeurs
+  erotisch: ja
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-markt
+  waarom: Zaadbeurs-veiling van mannen hoort bij het stalsysteem
+- code: KINK-ontzegging-leegte
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: Leegte na zaadkracht en ontzeggen door gaven-man vereist de gave
+- code: KINK-ontlading-na-magie
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: Ontladingsdwang na magie bestaat alleen bij gaven-mannen
+- code: KINK-melkrite
+  erotisch: ja
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-markt
+  waarom: 'Melken van gewone mannen in stallen: stalsysteem na de Pest'
+- code: KINK-rolwissel-in-kharvos
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Alleen mensen nodig; contrast vraagt Velmara's mannentekort-normen
+- code: RIT-ontvangst
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  - LOT-Z44-zegellicht
+  verleden: FASE-ontvangst
+  waarom: Tempelontvangst met zegellicht en gaven-man
+- code: RIT-wijding
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-zegellicht
+  - GEB-Z45-losbandige-jaren
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-ontvangst
+  waarom: Tempelrite met register, gave-test en mannen als bezit
+- code: RIT-strijdontvangst
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: Vijfvoudige kracht voor de slag vereist gaven-zaad
+- code: RIT-veiling
+  erotisch: ja
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-markt
+  waarom: Keuring en veiling van mannen op de Zaadbeurs
+- code: RIT-zwijgende-rit
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: 'Gemaskerde anonieme nacht: alleen mensen nodig'
+- code: RIT-ontzegging-binding
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: Binding via gaven-zaad, gegeven of geweigerd
+- code: RIT-melkrite
+  erotisch: ja
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-markt
+  waarom: 'Melken in stalhuizen voor flacons: stalsysteem'
+- code: RIT-gunstnacht
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-ontvangst
+  waarom: Gaven-man kiest buiten de rij; gunstsysteem van de Ontvangst
+- code: RIT-maanzalving
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Liefde tussen vrouwen in moederhuis; alleen mensen nodig
+- code: RIT-rolwisseling
+  erotisch: ja
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-noodtoestand-Z38
+  waarom: 'Bezit beveelt bezitter: vereist mannen als bezit'
+- code: RIT-boeterite
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-zegellicht
+  verleden: FASE-ontvangst
+  waarom: Boete door dienst als Ontvangster in tempelinstituut
+- code: RIT-zaadcontract
+  erotisch: ja
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  - LOT-Z44-zegellicht
+  verleden: FASE-markt
+  waarom: Zaadcontract op de Zaadbeurs, bevestigd door zegellicht
+- code: RIT-zegelvoeding
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  - LOT-Z44-zegellicht
+  - LOT-Z44-sterrensteen
+  verleden: FASE-ontvangst
+  waarom: Gaven-zaad aan de zegelsteen in tempelzaal
+- code: RIT-nacht-duizend-lampen
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-zegellicht
+  verleden: FASE-ontvangst
+  waarom: Tempelfeest in Saelith waarbij zegellicht oplaait
+- code: RIT-ketenwake
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  - LOT-Z44-zegellicht
+  verleden: FASE-ontvangst
+  waarom: Tempelgalerij-rite om een gaven-man buiten de rij
+- code: RIT-overdracht
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-noodtoestand-Z38
+  waarom: Machtsoverdracht aan gaven-man bij Registratrix, met bindingsrisico
+- code: RIT-bloedverbinding
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-barsten
+  waarom: Morvane-ir's bloedgave en zaad; rite van Lisk
+- code: RIT-zevenvoudige-ontvangst
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-ontvangst
+  waarom: 'Elk zaad telt: zaadkracht en Leegte vereisen de gave'
+- code: RIT-leegtewake
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: Leegte en beginnende binding bestaan alleen door gaven-zaad
+- code: RIT-halsbandwissel
+  erotisch: ja
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-noodtoestand-Z38
+  waarom: 'Halsband van een bezeten gewone man: bezitssysteem'
+- code: RIT-stormontlading
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: Stormgave moet ontladen door een vrouw
+- code: RIT-zegelbinding
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  - LOT-Z44-zegellicht
+  - LOT-Z44-sterrensteen
+  verleden: FASE-barsten
+  waarom: Orde plant Zegelbinding in de Barsten, aan zegelsteen
+- code: RIT-gletsjerproef
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: Prijs is gaven-zaad met vijfvoudige kracht
+- code: RIT-kettingstoet
+  erotisch: ja
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-markt
+  waarom: Mannen als bezit te huur en koop geleid
+- code: RIT-kharvosrite
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-barsten
+  waarom: Donkere gevangenschap door mensen; Kharvos rooft vanaf 720
+- code: RIT-spiegelnacht
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: Gedeeld verlangen via geestgave van gaven-man
+- code: RIT-tweegelofte
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Gelofte tussen twee volwassenen; alleen mensen nodig
+- code: RIT-afscheid-uitverkorene
+  erotisch: nee
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  - LOT-Z44-zegellicht
+  verleden: FASE-ontvangst
+  waarom: Tempelstoet van herinnering om een gaven-man; geen seks
+- code: RIT-halsbandoverdracht
+  erotisch: ja
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-markt
+  waarom: Overdracht van bezeten man met registratie op Zaadbeurs
+- code: RIT-zegelnacht-volk
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-zegellicht
+  - LOT-Z44-sterrensteen
+  verleden: FASE-ontvangst
+  waarom: Ontvangen bij de zegelstenen tot zegellicht vlamt
+- code: RIT-hofproef
+  erotisch: nee
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-noodtoestand-Z38
+  waarom: Niet-seksueel; Jongenshof en registers
+- code: RIT-volk-aelthir
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-aelthir
+  verleden: FASE-voortijd
+  waarom: Geheugenruil is een Aelthir-vermogen
+- code: RIT-volk-karruk
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-karruk-storm
+  verleden: FASE-brand-Z38
+  waarom: Vuurkamp-ontlading van Karrûk-vonk na strijd
+- code: RIT-volk-dhurn
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-dhurn
+  verleden: FASE-vonk
+  waarom: Gildeverzegeling van de Dhurn, nazaten van Orrics mijnwerkers
+- code: RIT-volk-saelmor
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-sael-mor
+  verleden: FASE-brand-Z38
+  waarom: Verdrinkingsnacht vraagt Sael-mor-kieuwen; volk sinds de Brand
+- code: RIT-volk-grauwen
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-grauwen
+  verleden: FASE-noodtoestand-Z38
+  waarom: Ontsluiering van Grauwen-vervormingen; inteelt zonder register
+- code: RIT-volk-ishvar
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Geloftebrand van gewone mensen zonder gave
+- code: RIT-B1-afscheid
+  erotisch: nee
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-noodtoestand-Z38
+  waarom: Niet-seksueel; jongen gaat naar Jongenshof
+- code: KINK-Z8-1
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Fisting is menselijk; Myrrhen-rite is slechts decor
+- code: KINK-Z8-2
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: Gloeiende hand van binnen vereist een gave
+- code: KINK-Z8-3
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  - LOT-Z44-zegellicht
+  verleden: FASE-ontvangst
+  waarom: Gaven-zaad inbrengen door Ontvangst-priesteressen
+- code: KINK-Z8-4
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-leegtewormen
+  verleden: FASE-overvloed
+  waarom: Ademend kweekvlees vraagt Makers-biotechniek van vormhuizen
+- code: KINK-Z8-5
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Glanshuid-fetisj; zegelhars is materiaal, geen kern
+- code: KINK-Z8-6
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Ertslak op huid; Dhurn is decor, zoals ijzer
+- code: KINK-Z8-7
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Uniformfetisj; Wacht is decor
+- code: KINK-Z8-8
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Kap met ademgaten; alleen mensen nodig
+- code: KINK-Z8-9
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Laarzenfetisj; alleen mensen nodig
+- code: KINK-Z8-10
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-aelthir
+  verleden: FASE-voortijd
+  waarom: Betekenis hangt aan het Aelthir-taboe op huidcontact
+- code: KINK-Z8-11
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Omhulling in uithardende hars; alleen mensen nodig
+- code: KINK-Z8-12
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Touwbondage van zeelieden; alleen mensen nodig
+- code: KINK-Z8-13
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Hangen in touwen; alleen mensen nodig
+- code: KINK-Z8-14
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-sterrensteen
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-noodtoestand-Z38
+  waarom: 'Zegelsteenboeien die de gave wegnemen: steen en gave nodig'
+- code: KINK-Z8-15
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: IJzeren boeien; Dhurn is slechts smid
+- code: KINK-Z8-16
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Zweepslagen; alleen mensen nodig
+- code: KINK-Z8-17
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Slaan met de hand; alleen mensen nodig
+- code: KINK-Z8-18
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Littekens snijden kan elk mens; Karrûk is decor
+- code: KINK-Z8-19
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Onderwerping van een hooggeplaatste vrouw; alleen mensen
+- code: KINK-Z8-20
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Man beveelt een nacht; vraagt matriarchale orde
+- code: KINK-Z8-21
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  - LOT-Z44-zegellicht
+  verleden: FASE-ontvangst
+  waarom: Gaven-man vastgebonden in Orde-ritueel op ontvangsttafel
+- code: KINK-Z8-22
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Leren tuigen; alleen mensen nodig
+- code: KINK-Z8-23
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Ponyspel tussen volwassenen; alleen mensen nodig
+- code: KINK-Z8-24
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Maskers en anonimiteit; alleen mensen nodig
+- code: KINK-Z8-25
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Knevel en stilte; gave niet nodig
+- code: KINK-Z8-26
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-oevrin
+  verleden: FASE-voortijd
+  waarom: Stof die kleur van aanraking toont komt van Oevrin
+- code: KINK-Z8-27
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-myrrhen
+  verleden: FASE-markt
+  waarom: Levende ademende wortelkooien van de Myrrhen
+- code: KINK-Z8-28
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Vrijwillige statuskooien; alleen mensen nodig
+- code: KINK-Z8-29
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: 'Zaad als drank met kracht en Leegte: zaadkracht'
+- code: KINK-Z8-30
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: 'Wie meer kracht krijgt: vereist zaadkracht'
+- code: KINK-Z8-31
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Lactatiespel kan menselijk; vorming is decor
+- code: KINK-Z8-32
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-zegellicht
+  verleden: FASE-ontvangst
+  waarom: Kijken naar de tempelontvangst achter het rooster
+- code: KINK-Z8-33
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Betaald gluren; alleen mensen nodig
+- code: KINK-Z8-34
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  - LOT-Z44-zegellicht
+  verleden: FASE-ontvangst
+  waarom: Openbare tempelontvangst op feestdagen
+- code: KINK-Z8-35
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Openbaar exhibitionisme in glanshuid; alleen mensen
+- code: KINK-Z8-36
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-leegtewormen
+  verleden: FASE-overvloed
+  waarom: Zwellen of krimpen tijdens seks vraagt Makers-vorming
+- code: KINK-Z8-37
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Rollenspel; alleen mensen nodig
+- code: KINK-Z8-38
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Dienstbaarheid per contract; alleen mensen nodig
+- code: KINK-Z8-39
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-zegellicht
+  verleden: FASE-ontvangst
+  waarom: Rituele was rond de tempelontvangst
+- code: KINK-Z8-40
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Gemengde baden; alleen mensen nodig
+- code: KINK-Z8-41
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Kaarsvet; alleen mensen nodig
+- code: KINK-Z8-43
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Ademspel; alleen mensen nodig
+- code: KINK-Z8-44
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: Vonkcellen bewaren gegeven vonk voor schokken
+- code: KINK-Z8-45
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-sterrensteen
+  verleden: FASE-brand-Z38
+  waarom: Zoemende zegelsteen met zegelziekte; Dhurn is decor
+- code: KINK-Z8-46
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-sterrensteen
+  verleden: FASE-noodtoestand-Z38
+  waarom: Bindsplinter van zegelsteen als Orde-dwangmiddel
+- code: KINK-Z8-47
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Gijzeling als donker thema; alleen mensen
+- code: KINK-Z8-48
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Schuldenaar geveild; alleen mensen nodig
+- code: KINK-Z8-49
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Vrijwillige vernedering; Moeder-rang is decor
+- code: KINK-Z8-50
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Gegraveerde halsband; alleen mensen nodig
+- code: KINK-Z8-51
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Vrijwillige keten; Karrûk is decor
+- code: KINK-Z8-52
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Worstelen en bijten; geen vleugels nodig
+- code: KINK-Z8-53
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Bijten in nek; alleen mensen nodig
+- code: KINK-Z8-54
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Geur van ongewassen lijf; Tharn is decor
+- code: KINK-Z8-55
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-myrrhen
+  verleden: FASE-markt
+  waarom: Lustsporen van de Myrrhen
+- code: KINK-Z8-56
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: Vrouwen delen één gaven-man tot Leegte
+- code: KINK-Z8-57
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Jaarfeest-orgie; alleen mensen nodig
+- code: KINK-Z8-58
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Twee minnaars die van elkaar weten; mensen
+- code: KINK-Z8-59
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-overvloed
+  waarom: Verkleden als Makers vraagt herinnering aan reliefs
+- code: KINK-Z8-60
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Vreemd stopwoord verraadt afkomst; elke cultuur volstaat
+- code: KINK-Z8-42-L10
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: IJsspel kan elk mens; Aelthir is decor
+- code: RIT-B1-zwangerschap-Z38
+  erotisch: nee
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-noodtoestand-Z38
+  waarom: Niet-seksueel; 1 op 100 en Jongenshof
+- code: VOOR-overvloed
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: 'Oorsprong GEB-zaadkracht-ontdekt: teveel aan zaadkracht'
+- code: VOOR-teder
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-overvloed
+  waarom: Oorsprong GEB-zusterburcht; trouw met één partner is menselijk
+- code: VOOR-ontlading
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: 'Oorsprong GEB-vonkkoorts: overladen gaven-man'
+- code: VOOR-gevangenschap
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-barsten
+  waarom: Oorsprong GEB-kharvos-720; overmacht door mensen
+- code: VOOR-walglust
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Lust uit walging; geen volk essentieel
+- code: VOOR-metamorfose
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-leegtewormen
+  verleden: FASE-noodtoestand-Z38
+  waarom: 'Wie de worm verzorgt of wordt: Lijngravers en Leegtewormen'
+- code: KINK-strijdontvangst
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: Gezamenlijk zaad voor de slag geeft kracht
+- code: KINK-binding-losmaken
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: Binding aan één man door gaven-zaad
+- code: KINK-duel-man
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Duel tussen vrouwen om een nacht; mensen
+- code: KINK-oogstbed-loting
+  erotisch: ja
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-markt
+  waarom: 'Loting voor het stalhuis: stalsysteem'
+- code: KINK-publieke-ontvangst
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-zegellicht
+  verleden: FASE-ontvangst
+  waarom: Ontvangst op altaarbed of tempeltrappen
+- code: KINK-zwijgende-rit
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Anonieme gemaskerde partners; alleen mensen
+- code: KINK-sjerp-signalen
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Sjerpkleurcode voor beschikbaarheid; menselijke code
+- code: KINK-harem-gunst
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-markt
+  waarom: Harem van de Zonvorst van Qesh (512)
+- code: KINK-betalen-met-lichaam
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Betalen met een nacht; alleen mensen
+- code: KINK-omgepraat-worden
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-ontvangst
+  waarom: Stille Zuster verleid; schisma van 290
+- code: KINK-verboden-toegang
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-zegellicht
+  verleden: FASE-ontvangst
+  waarom: Verboden vrucht bestaat alleen naast de tempelontvangst
+- code: KINK-nacht-duizend-lampen
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-ontvangst
+  waarom: Elke vrouw kiest een man; lampenfeest
+- code: KINK-kracht-delen
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: Vrouw onder zaadkracht domineert
+- code: KINK-ontvangst-via-mond
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: Keuze van opening bepaalt zaadkracht
+- code: RIT-duel-man
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Duel om een man; gave niet nodig
+- code: RIT-geboortelied
+  erotisch: nee
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-noodtoestand-Z38
+  waarom: Geboorteregistratie binnen drie dagen; niet-seksueel
+- code: RIT-melkzegen
+  erotisch: nee
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Kraamrite na 40 dagen; geen seks in de rite
+- code: RIT-laatste-bed
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Rouwnacht met liefde als troost; mensen
+- code: RIT-tribunaal-drie
+  erotisch: nee
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-noodtoestand-Z38
+  waarom: Rechtspraak met registerbewijs; niet-seksueel
+- code: RIT-reizigersgroet
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Gift of nacht voor onderdak; mensen
+- code: RIT-oogstbed
+  erotisch: ja
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-markt
+  waarom: Stalman en stalhuis een week open
+- code: RIT-pelgrimszalving
+  erotisch: nee
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Zalving door Hoedster bij grens; geen seks
+- code: RIT-doorgang-duizend-handen
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-ontvangst
+  waarom: Strelende handen vóór Ontvangst; ervaring is menselijk
+- code: RIT-schandpodium
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Publieke vernedering door Tribunaal van Drie
+- code: RIT-vuurgloed
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-markt
+  waarom: Vuurgave van Khaled-Ir in Qesh (na 512)
+- code: RIT-gemaskerde-veiling
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Zelfgekozen verkoop van een nacht; mensen
+- code: RIT-kinkschaal
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-ontvangst
+  waarom: 'Meta-rij: schaal over rites, geen eigen fantasie'
+- code: RIT-verzoening
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Verzoening op voorstel van een Moeder; mensen
+- code: RIT-stille-kind
+  erotisch: nee
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Rouw om een kind; geen ontvangst
+- code: RIT-zilverwake
+  erotisch: nee
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Overgang naar gezag; geen seks
+- code: RIT-zestienkeuze
+  erotisch: nee
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Niet-seksueel; sjerp en beroepskeuze
+- code: RIT-volk-vathren
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-vathren
+  verleden: FASE-noodtoestand-Z38
+  waarom: Koortsontvangst van Vathren-zegelvoelers
+- code: RIT-volk-kluwer
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-kluwers
+  verleden: FASE-brand-Z38
+  waarom: Korfgeur van de Kluwers; korf ontstond door het Zegel
+- code: RIT-volk-myrrhen
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-myrrhen
+  verleden: FASE-markt
+  waarom: Rotbed van Myrrhen-schimmel; volk na de Pest van 470
+- code: RIT-volk-oevrin
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-oevrin
+  verleden: FASE-voortijd
+  waarom: Paaipoel van de Oevrin, ouder dan mensen
+- code: RIT-volk-tharn
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-tharn
+  verleden: FASE-voortijd
+  waarom: Tharn kiest een mens; reuzen ouder dan mensen
+- code: RIT-volk-orrim
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-orrim
+  verleden: FASE-overvloed
+  waarom: Slijpvonnis van steenwezens doorgroeid met Sterrensteen
+- code: RIT-volk-skerra
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-skerra
+  verleden: FASE-vonk
+  waarom: Paarvlucht vraagt vleugels; Skerra sinds de Vonk
+- code: RIT-volk-ves-lethi
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ves-lethi
+  verleden: FASE-brand-Z38
+  waarom: Gedaante aannemen; Ves-Lethi uit de zegelschaduw
+- code: KINK-NETWERK-Z10
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: 'Meta-rij: index van kinks, geen eigen fantasie'
+- code: VOOR-overgave
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-ontvangst
+  waarom: Oorsprong GEB-uitverkorenen-210; overgave is menselijk
+- code: VOOR-dominante-vrouw
+  erotisch: ja
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-noodtoestand-Z38
+  waarom: 'Oorsprong GEB-deelwet-40: vrouwen bezitten mannen'
+- code: VOOR-melken
+  erotisch: ja
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-markt
+  waarom: 'Oorsprong GEB-pest-340: zaadwinning in stallen'
+- code: VOOR-ontzegging
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-markt
+  waarom: Oorsprong GEB-pest-340; uitstel is menselijk
+- code: VOOR-bondage
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-markt
+  waarom: Oorsprong GEB-pest-340; vastbinden is menselijk
+- code: VOOR-exhibitionisme
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-ontvangst
+  waarom: Oorsprong GEB-eerste-zegellicht; gezien worden is menselijk
+- code: VOOR-voyeurisme
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-ontvangst
+  waarom: Oorsprong GEB-eerste-zegellicht; toekijken is menselijk
+- code: VOOR-groep
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Oorsprong GEB-deelwet-40; groepsseks is menselijk
+- code: VOOR-anoniem
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-ontvangst
+  waarom: Oorsprong GEB-stille-schisma; maskers zijn menselijk
+- code: VOOR-pijn-genot
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-vonk
+  waarom: Oorsprong GEB-vonkkoorts; pijn als prikkel is menselijk
+- code: VOOR-bloed
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-barsten
+  waarom: Oorsprong GEB-bloednacht-788; bloed delen kan elk mens
+- code: VOOR-binding
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-ontvangst
+  waarom: Oorsprong GEB-uitverkorenen-210; verslaving aan één gaven-man
+- code: VOOR-vrouwenliefde
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-overvloed
+  waarom: Oorsprong GEB-zusterburcht; liefde tussen vrouwen
+- code: VOOR-rolwissel
+  erotisch: ja
+  hangt_af_van:
+  - GEB-Z45-losbandige-jaren
+  verleden: FASE-noodtoestand-Z38
+  waarom: 'Oorsprong GEB-deelwet-40: bezit en bezitter ruilen'
+- code: VOOR-onderdanige-man
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-markt
+  waarom: Oorsprong GEB-pest-340; onderdanigheid zelf is menselijk
+- code: VOOR-dominante-man
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: 'Oorsprong FASE-vonk: bevelen met de gave'
+- code: VOOR-competitie
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-markt
+  waarom: Oorsprong FASE-markt; strijd om genot is menselijk
+- code: VOOR-veiling
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-markt
+  waarom: Oorsprong GEB-zaadbeurs-455; zelfverkoop kan zonder stallen
+- code: VOOR-harem
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-markt
+  waarom: Oorsprong GEB-qesh-512; harem is menselijk
+- code: VOOR-ritueel
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Oorsprong GEB-orde-90; seks als gebed kan zonder zegellicht
+- code: VOOR-vernedering
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Oorsprong GEB-orde-90; openbare val is menselijk
+- code: VOOR-uithouding
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-markt
+  waarom: Oorsprong GEB-pest-340; volhouden is menselijk
+- code: VOOR-geest
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-vonk
+  waarom: Oorsprong GEB-orric-vonk; geestgave deelt genot
+- code: VOOR-reiziger
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-markt
+  waarom: Oorsprong FASE-markt; nacht met vreemdeling
+- code: VOOR-verboden
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-zegellicht
+  verleden: FASE-markt
+  waarom: Oorsprong FASE-markt; verboden alleen zolang de tempel ontvangst bezit
+- code: VOOR-oudere-vrouw
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Oorsprong GEB-orde-90; rijpe vrouwen zijn menselijk
+- code: VOOR-lichaam
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-noodtoestand-Z38
+  waarom: Oorsprong GEB-deelwet-40; lichaamsdiversiteit is menselijk
+- code: VOOR-afscheid
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-markt
+  waarom: Oorsprong GEB-pest-340; afscheidsseks is menselijk
+- code: VOOR-handel
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-markt
+  waarom: Oorsprong GEB-zaadbeurs-455; ruil kan zonder register
+- code: VOOR-inplanting
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-myrrhen
+  verleden: FASE-markt
+  waarom: Sporen en schimmel van Myrrhen leven het langst
+- code: VOOR-korf
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-kluwers
+  verleden: FASE-brand-Z38
+  waarom: Korfgenot via korfgeur van de Kluwers
+- code: VOOR-sporenroes
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-myrrhen
+  verleden: FASE-markt
+  waarom: Lustsporen van de Myrrhen
+- code: VOOR-vergroeiing
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-myrrhen
+  verleden: FASE-markt
+  waarom: Draadvergroeiing van Myrrhen-schimmel
+- code: VOOR-slijm
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-oevrin
+  verleden: FASE-voortijd
+  waarom: Verslavend opwindingsslijm van de Oevrin
+- code: VOOR-paaipoel
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-oevrin
+  verleden: FASE-voortijd
+  waarom: Paaipoel is de kern van de Oevrin
+- code: VOOR-omhulling
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-oevrin
+  verleden: FASE-voortijd
+  waarom: Keelzakomhulling van de Oevrin
+- code: VOOR-maatverschil
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-tharn
+  verleden: FASE-voortijd
+  waarom: Mens in de hand van een Tharn-reus
+- code: VOOR-verplettering
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-tharn
+  verleden: FASE-voortijd
+  waarom: Tharn legt zich over de partner
+- code: VOOR-versteening
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-orrim
+  verleden: FASE-overvloed
+  waarom: Versteening als Orrim-rite
+- code: VOOR-slijpen
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-orrim
+  verleden: FASE-overvloed
+  waarom: Slijpparing van de Orrim
+- code: VOOR-valparing
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-skerra
+  verleden: FASE-vonk
+  waarom: Paren in vrije val vraagt Skerra-vleugels
+- code: VOOR-vleugelbinding
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-skerra
+  verleden: FASE-vonk
+  waarom: Vleugels binden vraagt Skerra
+- code: VOOR-vormwissel
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ves-lethi
+  verleden: FASE-brand-Z38
+  waarom: 'Geslacht wisselen tijdens seks: Ves-Lethi'
+- code: VOOR-nabootsing
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ves-lethi
+  verleden: FASE-brand-Z38
+  waarom: 'Gedaante van een verloren geliefde: Ves-Lethi'
+- code: VOOR-ritueel-geweld
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-voortijd
+  waarom: Afgesproken pijn met hoedster; alleen mensen nodig
+- code: VOOR-ei-dragen
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-oevrin
+  verleden: FASE-voortijd
+  waarom: Kuit dragen voor de Oevrin
+- code: VOOR-Z46-de-vraag
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-z44-ja
+  waarom: Oorsprong GEB-Z45-losbandige-jaren; vragen kan pas na 801
+- code: VOOR-Z46-laatste-vonk
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-gaven-mannen
+  verleden: FASE-z44-ja
+  waarom: Restje vonk na 801; verdwijnt met de gave
+- code: VOOR-Z46-stalspel
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-z44-volken
+  waarom: Rollenspel van de oude orde; geen echte stallen nodig
+- code: VOOR-Z46-vervagen
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-aelthir
+  verleden: FASE-z44-helden
+  waarom: Aelthir die aanraking verliest in de Heldentijd
+- code: VOOR-Z46-vuurnacht
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-ishvar
+  verleden: FASE-z44-mensen
+  waarom: Vergeten feestgewoonte van gewone mensen
+- code: VOOR-Z46-zang-zonder-aanraking
+  erotisch: ja
+  hangt_af_van:
+  - LOT-Z44-oevrin
+  verleden: FASE-z44-smelt
+  waarom: Paaizang van de Oevrin in de Grote Smelt

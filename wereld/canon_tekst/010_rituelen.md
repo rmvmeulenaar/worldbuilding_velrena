@@ -39,7 +39,7 @@
 - **waarom:** Koppelt rite, erotiek en magie met concrete regels.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Magie; Orde
+- **hangt_samen_met:** Magie;Orde
 - **verwijst_naar:** MACHT-gaven-mannen;ORDE-orde
 - **jaar:** 
 - **tijdperk:** 
@@ -70,7 +70,7 @@
 - **status:** voorlopig
 - **ronde:** 3
 - **hangt_samen_met:** Regio’s
-- **verwijst_naar:** KINK-nacht-duizend-lampen;KINK-strijdontvangst;KINK-zwijgende-rit;REG-ambergaard;REG-rosse;REG-saelith;RIT-nacht-duizend-lampen;RIT-strijdontvangst;RIT-zwijgende-rit;STAD-saelith;STAD-qesh
+- **verwijst_naar:** KINK-nacht-duizend-lampen;KINK-strijdontvangst;KINK-zwijgende-rit;REG-ambergaard;REG-rosse;REG-saelith;RIT-nacht-duizend-lampen-Z50;RIT-strijdontvangst-Z50;RIT-zwijgende-rit-Z50;STAD-saelith;STAD-qesh
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -99,7 +99,7 @@
 - **waarom:** Concurrentie, anticipatie en macht.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Economie; Orde
+- **hangt_samen_met:** Economie;Orde
 - **verwijst_naar:** ECO-geld;ECO-wat-wordt-verhandeld;MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;REG-saelith;STAD-saelith
 - **jaar:** 
 - **tijdperk:** 
@@ -129,8 +129,8 @@
 - **waarom:** Volgt uit wereldregel: Gunstbrieven en de Grote Wachtrij. Alle deelnemers volwassen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Gunstbrieven en de Grote Wachtrij
-- **verwijst_naar:** ECO-geld;MACHT-gaven-mannen;REG-saelith;STAD-saelith
+- **hangt_samen_met:** Gunstbrieven en de Grote Wachtrij;LOT-Z44-gaven-mannen;GEB-Z45-losbandige-jaren;FASE-ontvangst
+- **verwijst_naar:** ECO-geld;MACHT-gaven-mannen;REG-saelith;STAD-saelith;LOT-Z44-gaven-mannen;GEB-Z45-losbandige-jaren;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -159,8 +159,8 @@
 - **waarom:** Volgt uit wereldregel: Prijzen van mannen en zaad; Huis Varenne. Alle deelnemers volwassen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Prijzen van mannen en zaad; Huis Varenne
-- **verwijst_naar:** ECO-prijzen-mannen-zaad;HUI-varenne;MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;REG-rosse;REG-saelith;REG-zoutkust;STAD-saelith;STAD-brakhaven;STAD-qesh
+- **hangt_samen_met:** Prijzen van mannen en zaad;Huis Varenne;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** ECO-prijzen-mannen-zaad;HUI-varenne;MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;REG-rosse;REG-saelith;REG-zoutkust;STAD-saelith;STAD-brakhaven;STAD-qesh;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -189,8 +189,8 @@
 - **waarom:** Volgt uit wereldregel: Zaad 5x kracht, 8-12 uur; Leger. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Zaad 5x kracht, 8-12 uur; Leger
-- **verwijst_naar:** MACHT-leger;REG-hoogvrouwe;REG-kharvos-B1;STAD-kaldrun
+- **hangt_samen_met:** Zaad 5x kracht, 8-12 uur;Leger;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** MACHT-leger;REG-hoogvrouwe;REG-kharvos-B1;STAD-kaldrun;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -219,8 +219,8 @@
 - **waarom:** Volgt uit wereldregel: Leegte; verslaving. Alle deelnemers volwassen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Leegte; verslaving
-- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-kracht-duur;MAGIE-verslaving;PER-morvane
+- **hangt_samen_met:** Leegte;verslaving;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-kracht-duur;MAGIE-verslaving;PER-morvane;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -249,8 +249,8 @@
 - **waarom:** Volgt uit wereldregel: Verslaving en tegenmiddelen. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Verslaving en tegenmiddelen
-- **verwijst_naar:** MAGIE-verslaving;REG-groenmuil;REG-saelith;STAD-lisk
+- **hangt_samen_met:** Verslaving en tegenmiddelen;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** MAGIE-verslaving;REG-groenmuil;REG-saelith;STAD-lisk;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -279,8 +279,8 @@
 - **waarom:** Volgt uit wereldregel: Prijs van de gave. Alle deelnemers volwassen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Prijs van de gave
-- **verwijst_naar:** MACHT-gaven-mannen
+- **hangt_samen_met:** Prijs van de gave;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** MACHT-gaven-mannen;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -309,8 +309,8 @@
 - **waarom:** Volgt uit wereldregel: Duel-traditie in het gebergte. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Duel-traditie in het gebergte
-- **verwijst_naar:** REG-hoogvrouwe
+- **hangt_samen_met:** Duel-traditie in het gebergte;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-hoogvrouwe;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -339,8 +339,8 @@
 - **waarom:** Volgt uit wereldregel: Ambergaard-collectieven. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Ambergaard-collectieven
-- **verwijst_naar:** REG-ambergaard
+- **hangt_samen_met:** Ambergaard-collectieven;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** REG-ambergaard;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -369,8 +369,8 @@
 - **waarom:** Volgt uit wereldregel: Gewone mannen als melkkoe. Alle deelnemers volwassen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Gewone mannen als melkkoe
-- **verwijst_naar:** HUI-varenne;MACHT-gewone-mannen;REG-ambergaard
+- **hangt_samen_met:** Gewone mannen als melkkoe;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** HUI-varenne;MACHT-gewone-mannen;REG-ambergaard;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -399,8 +399,8 @@
 - **waarom:** Volgt uit wereldregel: De Ontvangst. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** De Ontvangst
-- **verwijst_naar:** REG-saelith;RITE-ontvangst;STAD-saelith
+- **hangt_samen_met:** De Ontvangst;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** REG-saelith;RITE-ontvangst;STAD-saelith;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -429,8 +429,8 @@
 - **waarom:** Volgt uit wereldregel: Feesten; Verwantschapstaboe. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Feesten; Verwantschapstaboe
-- **verwijst_naar:** ORDE-orde;REG-groenmuil;REGEL-verwantschapstaboe;RITE-feesten
+- **hangt_samen_met:** Feesten;Verwantschapstaboe;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** ORDE-orde;REG-groenmuil;REGEL-verwantschapstaboe;RITE-feesten;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -459,8 +459,8 @@
 - **waarom:** Volgt uit wereldregel: Kleding. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Kleding
-- **verwijst_naar:** CUL-kleding;MODE-vrouwen-basis
+- **hangt_samen_met:** Kleding;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** CUL-kleding;MODE-vrouwen-basis;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -489,8 +489,8 @@
 - **waarom:** Volgt uit wereldregel: Zonvorstendom. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Zonvorstendom
-- **verwijst_naar:** ORDE-orde;REG-rosse;STAD-qesh
+- **hangt_samen_met:** Zonvorstendom;LOT-Z44-ishvar;FASE-markt
+- **verwijst_naar:** ORDE-orde;REG-rosse;STAD-qesh;LOT-Z44-ishvar;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -519,8 +519,8 @@
 - **waarom:** Volgt uit wereldregel: Zwarte markt. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Zwarte markt
-- **verwijst_naar:** REG-zoutkust;STAD-brakhaven
+- **hangt_samen_met:** Zwarte markt;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-zoutkust;STAD-brakhaven;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -549,8 +549,8 @@
 - **waarom:** Volgt uit wereldregel: Kharvos. Alle deelnemers volwassen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar REG-kharvos-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Kharvos
-- **verwijst_naar:** REG-kharvos-B1
+- **hangt_samen_met:** Kharvos;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** REG-kharvos-B1;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -579,8 +579,8 @@
 - **waarom:** Volgt uit wereldregel: Stille Zusterschappen. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Stille Zusterschappen
-- **verwijst_naar:** REG-stille
+- **hangt_samen_met:** Stille Zusterschappen;LOT-Z44-ishvar;FASE-ontvangst
+- **verwijst_naar:** REG-stille;LOT-Z44-ishvar;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -609,8 +609,8 @@
 - **waarom:** Volgt uit wereldregel: Tempelplicht en zegel. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Tempelplicht en zegel
-- **verwijst_naar:** BESLUIT-Z30-2
+- **hangt_samen_met:** Tempelplicht en zegel;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** BESLUIT-Z30-2;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -639,8 +639,8 @@
 - **waarom:** Volgt uit wereldregel: Feesten. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Feesten
-- **verwijst_naar:** REG-saelith;RITE-feesten;STAD-saelith
+- **hangt_samen_met:** Feesten;LOT-Z44-ishvar;FASE-ontvangst
+- **verwijst_naar:** REG-saelith;RITE-feesten;STAD-saelith;LOT-Z44-ishvar;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -669,8 +669,8 @@
 - **waarom:** Volgt uit wereldregel: Kracht en duur van zaad. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Kracht en duur van zaad
-- **verwijst_naar:** MAGIE-kracht-duur
+- **hangt_samen_met:** Kracht en duur van zaad;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** MAGIE-kracht-duur;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -699,8 +699,8 @@
 - **waarom:** Volgt uit wereldregel: Ontvangst; Gezondheid. Alle deelnemers volwassen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Ontvangst; Gezondheid
-- **verwijst_naar:** RIT-ontvangst;MAGIE-kracht-duur;CUL-zwangerschap-anticonceptie-onvruchtbaarheid
+- **hangt_samen_met:** Ontvangst;Gezondheid;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** RIT-ontvangst-Z50;MAGIE-kracht-duur;CUL-zwangerschap-anticonceptie-onvruchtbaarheid;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -727,10 +727,10 @@
 - **onderwerp:** De Ontvangst
 - **wat:** Wie: Vrouw (18+) met gunstbrief, gaven-man, Ontvangsters, getuigen. Plek: Tempel, altaarbed. Regels: Alleen met instemming van de gaven-man en de vrouw; zegellicht moet branden. Stappen: Bad en zalving; sluier; aanroeping van Ysa; de vrouw kiest schoot, mond of huid; ontvangst; zegen met goud. Effect: Ze stijgt in rang (oorring), krijgt 5x kracht voor 8-12 uur; een deel voedt de zegel. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 4
-- **hangt_samen_met:** Orde; Saelith; Magie
-- **verwijst_naar:** ECO-geld;BESLUIT-Z30-2;MACHT-gaven-mannen;ORDE-orde;REG-saelith;SFEER-zegellicht;VOOR-exhibitionisme;VOOR-voyeurisme;VOOR-ritueel;TECHNO-gave
+- **hangt_samen_met:** Orde; Saelith; Magie;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** ECO-geld;BESLUIT-Z30-2;MACHT-gaven-mannen;ORDE-orde;REG-saelith;SFEER-zegellicht;VOOR-exhibitionisme;VOOR-voyeurisme;VOOR-ritueel;TECHNO-gave;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -740,11 +740,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** gave
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-ontvangst-Z50
 - **feit_schoon:** Wie: Vrouw (18+) met gunstbrief, gaven-man, Ontvangsters, getuigen. Plek: Tempel, altaarbed. Regels: Alleen met instemming van de gaven-man en de vrouw; zegellicht moet branden. Stappen: Bad en zalving; sluier; aanroeping van Ysa; de vrouw kiest schoot, mond of huid; ontvangst; zegen met goud. Effect: Ze stijgt in rang (oorring), krijgt 5x kracht voor 8-12 uur; een deel voedt de zegel. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -759,8 +759,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** De Inwijding; Wat jongens meemaken; Teo
-- **verwijst_naar:** CUL-wat-jongens-meemaken;MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;PER-gewone-mannen;REGEL-registers-merken;RITE-inwijding;VOOR-ritueel;TECHNO-gave;TECHNO-zegelsteen
+- **hangt_samen_met:** De Inwijding;Wat jongens meemaken;Teo;LOT-Z44-zegellicht;GEB-Z45-losbandige-jaren;LOT-Z44-gaven-mannen;FASE-ontvangst
+- **verwijst_naar:** CUL-wat-jongens-meemaken;MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;PER-gewone-mannen;REGEL-registers-merken;RITE-inwijding;VOOR-ritueel-Z50;TECHNO-gave;TECHNO-zegelsteen;LOT-Z44-zegellicht;GEB-Z45-losbandige-jaren;LOT-Z44-gaven-mannen;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -787,10 +787,10 @@
 - **onderwerp:** De Strijdontvangst
 - **wat:** Wie: Officieren en elite-krijgsvrouwen, een of meer gaven-mannen. Plek: Veldtent of vestingzaal in Kaldrun. Regels: Binnen 6 uur vóór de slag; Maankruid verplicht. Stappen: Wapens gezegend; vrouwen in rij; gaven-man ontvangt ze één voor één; strijdkreet. Effect: Krijgsrang; 5x kracht tijdens de slag; daarna gezamenlijke Leegte. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;MAGIE-kracht-duur;REG-kharvos-B1), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 4
-- **hangt_samen_met:** Leger; Huis Kaldra; Kharvos
-- **verwijst_naar:** HUI-kaldra-Z6;MACHT-gaven-mannen;MACHT-leger;MAGIE-kracht-duur;REG-hoogvrouwe;REG-kharvos-B1;VOOR-groep;VOOR-uithouding;STAD-kaldrun;TECHNO-gave
+- **hangt_samen_met:** Leger; Huis Kaldra; Kharvos;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** HUI-kaldra-Z6;MACHT-gaven-mannen;MACHT-leger;MAGIE-kracht-duur;REG-hoogvrouwe;REG-kharvos-B1;VOOR-groep;VOOR-uithouding;STAD-kaldrun;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -800,11 +800,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** gave
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-strijdontvangst-Z50
 - **feit_schoon:** Wie: Officieren en elite-krijgsvrouwen, een of meer gaven-mannen. Plek: Veldtent of vestingzaal in Kaldrun. Regels: Binnen 6 uur vóór de slag; Maankruid verplicht. Stappen: Wapens gezegend; vrouwen in rij; gaven-man ontvangt ze één voor één; strijdkreet. Effect: Krijgsrang; 5x kracht tijdens de slag; daarna gezamenlijke Leegte. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -817,10 +817,10 @@
 - **onderwerp:** De Veiling
 - **wat:** Wie: Huis Varenne, kopers, gewone mannen, soms een instemmende gaven-man. Plek: Zaadbeurs Saelith, Brakhaven, Qesh. Regels: Mannen worden gekeurd en tentoongesteld; bieden met Kronen of gunstbrieven. Stappen: Keuring in het bad; tonen op het podium; bieden; de winnares mag de man direct “proeven”. Effect: Rijkdom en aanzien voor de koopster; kleine kracht van gewoon zaad. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 4
-- **hangt_samen_met:** Zaadbeurs; Huis Varenne; Prijzen
-- **verwijst_naar:** ECO-geld;ECO-prijzen-mannen-zaad;HUI-varenne;MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;REG-rosse;REG-saelith;REG-zoutkust;VOOR-dominante-vrouw;VOOR-veiling;STAD-saelith;STAD-brakhaven;STAD-qesh;TECHNO-gave
+- **hangt_samen_met:** Zaadbeurs; Huis Varenne; Prijzen;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** ECO-geld;ECO-prijzen-mannen-zaad;HUI-varenne;MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;REG-rosse;REG-saelith;REG-zoutkust;VOOR-dominante-vrouw;VOOR-veiling;STAD-saelith;STAD-brakhaven;STAD-qesh;TECHNO-gave;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -830,11 +830,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** gave
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-veiling-Z50
 - **feit_schoon:** Wie: Huis Varenne, kopers, gewone mannen, soms een instemmende gaven-man. Plek: Zaadbeurs Saelith, Brakhaven, Qesh. Regels: Mannen worden gekeurd en tentoongesteld; bieden met Kronen of gunstbrieven. Stappen: Keuring in het bad; tonen op het podium; bieden; de winnares mag de man direct “proeven”. Effect: Rijkdom en aanzien voor de koopster; kleine kracht van gewoon zaad. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -847,10 +847,10 @@
 - **onderwerp:** De Zwijgende Rit
 - **wat:** Wie: Gemaskerde volwassenen. Plek: Watervallen van Groenmuil. Regels: Geen woorden, geen namen; maskers blijven op; bloedlijnmerk bedekt (risico op verwantschap). Stappen: Beschildering; Vuurbloesem; dans; partners vinden elkaar in het donker; zonsopgang. Effect: Geen rang; wel bevrijding en geheimen. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 4
-- **hangt_samen_met:** Groenmuil; Verwantschapstaboe
-- **verwijst_naar:** BESLUIT-Z30-2;ORDE-orde;REG-groenmuil;REGEL-registers-merken;REGEL-verwantschapstaboe;VOOR-anoniem
+- **hangt_samen_met:** Groenmuil; Verwantschapstaboe;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** BESLUIT-Z30-2;ORDE-orde;REG-groenmuil;REGEL-registers-merken;REGEL-verwantschapstaboe;VOOR-anoniem;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -860,11 +860,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-zwijgende-rit-Z50
 - **feit_schoon:** Wie: Gemaskerde volwassenen. Plek: Watervallen van Groenmuil. Regels: Geen woorden, geen namen; maskers blijven op; bloedlijnmerk bedekt (risico op verwantschap). Stappen: Beschildering; Vuurbloesem; dans; partners vinden elkaar in het donker; zonsopgang. Effect: Geen rang; wel bevrijding en geheimen. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -879,8 +879,8 @@
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** Verslaving; Morvane-ir
-- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-verslaving;PER-morvane;REG-saelith;WET-wie-weigert;VOOR-ontzegging;VOOR-binding;VOOR-dominante-man;STAD-lisk;TECHNO-gave
+- **hangt_samen_met:** Verslaving;Morvane-ir;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-verslaving;PER-morvane;REG-saelith;WET-wie-weigert;VOOR-ontzegging-Z50;VOOR-binding-Z50;VOOR-dominante-man-Z50;STAD-lisk;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -907,10 +907,10 @@
 - **onderwerp:** De Melkrite
 - **wat:** Wie: Hoedsters, gewone mannen, boerinnen. Plek: Stalhuizen van Ambergaard en Varenne. Regels: 2-4 keer per dag; zaad in flacons met stalmerk. Stappen: Wassen; voeden met mannenvoer; melken met hand of mond; flacons verzegelen; ruststond. Effect: Inkomen voor het huis; flacons geven +20% kracht. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 4
-- **hangt_samen_met:** Gewone mannen; Bram; Ambergaard
-- **verwijst_naar:** BESLUIT-Z30-2;HUI-varenne;MACHT-gewone-mannen;PER-gewone-mannen;REG-ambergaard;VOOR-dominante-vrouw;VOOR-melken;VOOR-onderdanige-man;TECHNO-bio
+- **hangt_samen_met:** Gewone mannen; Bram; Ambergaard;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** BESLUIT-Z30-2;HUI-varenne;MACHT-gewone-mannen;PER-gewone-mannen;REG-ambergaard;VOOR-dominante-vrouw;VOOR-melken;VOOR-onderdanige-man;TECHNO-bio;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -920,11 +920,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** bio
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-melkrite-Z50
 - **feit_schoon:** Wie: Hoedsters, gewone mannen, boerinnen. Plek: Stalhuizen van Ambergaard en Varenne. Regels: 2-4 keer per dag; zaad in flacons met stalmerk. Stappen: Wassen; voeden met mannenvoer; melken met hand of mond; flacons verzegelen; ruststond. Effect: Inkomen voor het huis; flacons geven +20% kracht. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -937,10 +937,10 @@
 - **onderwerp:** De Gunstnacht
 - **wat:** Wie: Een gaven-man en een vrouw die hij zelf kiest, buiten de wachtrij. Plek: Zijn vertrekken of haar binnenhof. Regels: Hij kiest; zij mag weigeren (met prijs); geen getuigen. Stappen: Hij stuurt een gouden lint; zij komt of zendt het terug; nacht; ochtendgeschenk. Effect: Grote stijging voor haar en haar huis; jaloezie in de rij. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 4
-- **hangt_samen_met:** Gunstbrieven; Wie weigert
-- **verwijst_naar:** ECO-geld;MACHT-gaven-mannen;WET-wie-weigert;VOOR-teder;TECHNO-gave
+- **hangt_samen_met:** Gunstbrieven; Wie weigert;LOT-Z44-gaven-mannen;FASE-ontvangst
+- **verwijst_naar:** ECO-geld;MACHT-gaven-mannen;WET-wie-weigert;VOOR-teder;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -950,11 +950,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** gave
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-gunstnacht-Z50
 - **feit_schoon:** Wie: Een gaven-man en een vrouw die hij zelf kiest, buiten de wachtrij. Plek: Zijn vertrekken of haar binnenhof. Regels: Hij kiest; zij mag weigeren (met prijs); geen getuigen. Stappen: Hij stuurt een gouden lint; zij komt of zendt het terug; nacht; ochtendgeschenk. Effect: Grote stijging voor haar en haar huis; jaloezie in de rij. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -967,10 +967,10 @@
 - **onderwerp:** De Maanzalving
 - **wat:** Wie: Vrouwen van een moederhuis. Plek: Binnenhof bij volle maan. Regels: Alleen vrouwen; Maankruidolie. Stappen: Elkaar zalven; liefde tussen vrouwen; zegen voor vruchtbaarheid of juist bescherming. Effect: Verbondenheid; geen zaad-kracht. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 4
-- **hangt_samen_met:** Gezin en wonen; Gezondheid
-- **verwijst_naar:** CUL-gezin-wonen;MAGIE-kracht-duur;VOOR-vrouwenliefde
+- **hangt_samen_met:** Gezin en wonen; Gezondheid;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** CUL-gezin-wonen;MAGIE-kracht-duur;VOOR-vrouwenliefde;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -980,11 +980,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-maanzalving-Z50
 - **feit_schoon:** Wie: Vrouwen van een moederhuis. Plek: Binnenhof bij volle maan. Regels: Alleen vrouwen; Maankruidolie. Stappen: Elkaar zalven; liefde tussen vrouwen; zegen voor vruchtbaarheid of juist bescherming. Effect: Verbondenheid; geen zaad-kracht. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -997,10 +997,10 @@
 - **onderwerp:** Het Duel om een Man
 - **wat:** Wie: Twee vrouwen, een man die instemt, getuigen. Plek: Gebergte (Kaldrun), ook arena’s in Qesh. Regels: Tot opgave, niet tot de dood; de man mag het duel weigeren. Stappen: Uitdaging met sjerp; strijd naakt of in leer; winnares krijgt de nacht, verliezer mag toekijken of vertrekken. Effect: Rang voor de winnares. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht.
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 4
-- **hangt_samen_met:** Duel om de man; Huis Kaldra
-- **verwijst_naar:** HUI-kaldra-Z6;KINK-duel-man;MODE-vrouwen-basis;REG-hoogvrouwe;REG-rosse;WET-wie-weigert;VOOR-voyeurisme;VOOR-competitie;STAD-kaldrun;STAD-qesh
+- **hangt_samen_met:** Duel om de man; Huis Kaldra;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** HUI-kaldra-Z6;KINK-duel-man;MODE-vrouwen-basis;REG-hoogvrouwe;REG-rosse;WET-wie-weigert;VOOR-voyeurisme;VOOR-competitie;STAD-kaldrun;STAD-qesh;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1010,11 +1010,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-duel-man-Z50
 - **feit_schoon:** Wie: Twee vrouwen, een man die instemt, getuigen. Plek: Gebergte (Kaldrun), ook arena’s in Qesh. Regels: Tot opgave, niet tot de dood; de man mag het duel weigeren. Stappen: Uitdaging met sjerp; strijd naakt of in leer; winnares krijgt de nacht, verliezer mag toekijken of vertrekken. Effect: Rang voor de winnares. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1027,10 +1027,10 @@
 - **onderwerp:** Rolwisseling
 - **wat:** Wie: Iedereen (18+). Plek: Overal, één dag per jaar (Nacht der Omkering). Regels: Voor één dag beveelt het bezit de bezitter: gewone mannen kiezen, vrouwen dragen halsbanden; niemand wordt gestraft. Stappen: Ruil van halsbanden en sjerpen; feest; terugwisseling bij zonsopgang. Effect: Geen blijvend effect; geheimen en wrok. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 4
-- **hangt_samen_met:** Gewone mannen; Kharvos
-- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gewone-mannen;MODE-vrouwen-basis;REG-kharvos-B1;VOOR-rolwissel
+- **hangt_samen_met:** Gewone mannen; Kharvos;GEB-Z45-losbandige-jaren;FASE-noodtoestand-Z38
+- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gewone-mannen;MODE-vrouwen-basis;REG-kharvos-B1;VOOR-rolwissel;GEB-Z45-losbandige-jaren;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1040,11 +1040,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-rolwisseling-Z50
 - **feit_schoon:** Wie: Iedereen (18+). Plek: Overal, één dag per jaar (Nacht der Omkering). Regels: Voor één dag beveelt het bezit de bezitter: gewone mannen kiezen, vrouwen dragen halsbanden; niemand wordt gestraft. Stappen: Ruil van halsbanden en sjerpen; feest; terugwisseling bij zonsopgang. Effect: Geen blijvend effect; geheimen en wrok. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1057,10 +1057,10 @@
 - **onderwerp:** Boeterite
 - **wat:** Wie: Een veroordeelde vrouw of man, tribunaal. Plek: Tempeltrappen. Regels: Opgelegd door drie Moeders. Stappen: Openbare biecht; bedekking in grijs; dienst als Ontvangster of in het stalhuis; vrijspraak met zalving. Effect: Rangverlies en herstel; geen zaad-kracht tijdens boete. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 4
-- **hangt_samen_met:** Wetten; Rechtspraak
-- **verwijst_naar:** MAGIE-kracht-duur;ORDE-orde;VOOR-ontzegging;VOOR-vernedering
+- **hangt_samen_met:** Wetten; Rechtspraak;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** MAGIE-kracht-duur;ORDE-orde;VOOR-ontzegging;VOOR-vernedering;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1070,11 +1070,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-boeterite-Z50
 - **feit_schoon:** Wie: Een veroordeelde vrouw of man, tribunaal. Plek: Tempeltrappen. Regels: Opgelegd door drie Moeders. Stappen: Openbare biecht; bedekking in grijs; dienst als Ontvangster of in het stalhuis; vrijspraak met zalving. Effect: Rangverlies en herstel; geen zaad-kracht tijdens boete. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1087,7 +1087,7 @@
 - **onderwerp:** Het Geboortelied
 - **wat:** Wie: Moeder, moederhuis, Registratrix. Plek: Binnenhof of tempel. Regels: Elk kind wordt binnen 3 dagen geregistreerd. Stappen: Geboortezang; bloedlijnmerk gelezen; naam; jongens krijgen een zilveren belletje. Effect: De moeder stijgt; bij een jongen grote zegen. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht.
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 4
 - **hangt_samen_met:** Registers en merken
 - **verwijst_naar:** CUL-gezin-wonen;REGEL-registers-merken;VOOR-lichaam
@@ -1100,11 +1100,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-geboortelied-Z50
 - **feit_schoon:** Wie: Moeder, moederhuis, Registratrix. Plek: Binnenhof of tempel. Regels: Elk kind wordt binnen 3 dagen geregistreerd. Stappen: Geboortezang; bloedlijnmerk gelezen; naam; jongens krijgen een zilveren belletje. Effect: De moeder stijgt; bij een jongen grote zegen. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1117,7 +1117,7 @@
 - **onderwerp:** De Melkzegen
 - **wat:** Wie: Jonge moeder en haar huis. Plek: Badhuis. Regels: Na 40 dagen. Stappen: Bad, zalving, gouden sjerp afgelegd; moeder mag weer ontvangen. Effect: Terugkeer naar ontvankelijk (rode sjerp). Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht.
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 4
 - **hangt_samen_met:** Gezondheid; Sjerp-signalen
 - **verwijst_naar:** KINK-sjerp-signalen;MODE-vrouwen-basis;VOOR-teder;VOOR-lichaam;TECHNO-bio
@@ -1130,11 +1130,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** bio
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-melkzegen-Z50
 - **feit_schoon:** Wie: Jonge moeder en haar huis. Plek: Badhuis. Regels: Na 40 dagen. Stappen: Bad, zalving, gouden sjerp afgelegd; moeder mag weer ontvangen. Effect: Terugkeer naar ontvankelijk (rode sjerp). Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1147,10 +1147,10 @@
 - **onderwerp:** Het Laatste Bed
 - **wat:** Wie: Rouwenden. Plek: Tempel of brandstapel. Regels: Bij de dood van een man of vrouw. Stappen: Lichaam gezalfd; vrouwen liggen een nacht om de dode; liefde als troost; verbranding. Effect: Rouw (grijs), troost onder elkaar. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht.
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 4
-- **hangt_samen_met:** Cultuur
-- **verwijst_naar:** CUL-gezin-wonen;RIT-stille-kind;VOOR-vrouwenliefde;VOOR-afscheid
+- **hangt_samen_met:** Cultuur;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** CUL-gezin-wonen;RIT-stille-kind;VOOR-vrouwenliefde;VOOR-afscheid;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1160,11 +1160,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-laatste-bed-Z50
 - **feit_schoon:** Wie: Rouwenden. Plek: Tempel of brandstapel. Regels: Bij de dood van een man of vrouw. Stappen: Lichaam gezalfd; vrouwen liggen een nacht om de dode; liefde als troost; verbranding. Effect: Rouw (grijs), troost onder elkaar. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1177,10 +1177,10 @@
 - **onderwerp:** Het Zaadcontract
 - **wat:** Wie: Twee huizen, Registratrix. Plek: Zaadbeurs. Regels: Contract voor huur of dekgeld; bezegeld met zaad op het perkament. Stappen: Onderhandelen; de man geeft zaad ter bevestiging; zegellicht bevestigt. Effect: Handelsrecht; contractbreuk is boete. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 4
-- **hangt_samen_met:** Economie; Huis Varenne
-- **verwijst_naar:** ECO-wat-wordt-verhandeld;BESLUIT-Z30-2;HUI-varenne;SFEER-zegellicht;VOOR-melken;VOOR-handel
+- **hangt_samen_met:** Economie; Huis Varenne;GEB-Z45-losbandige-jaren;LOT-Z44-zegellicht;FASE-markt
+- **verwijst_naar:** ECO-wat-wordt-verhandeld;BESLUIT-Z30-2;HUI-varenne;SFEER-zegellicht;VOOR-melken;VOOR-handel;GEB-Z45-losbandige-jaren;LOT-Z44-zegellicht;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1190,11 +1190,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-zaadcontract-Z50
 - **feit_schoon:** Wie: Twee huizen, Registratrix. Plek: Zaadbeurs. Regels: Contract voor huur of dekgeld; bezegeld met zaad op het perkament. Stappen: Onderhandelen; de man geeft zaad ter bevestiging; zegellicht bevestigt. Effect: Handelsrecht; contractbreuk is boete. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1207,7 +1207,7 @@
 - **onderwerp:** Het Tribunaal van Drie
 - **wat:** Wie: Drie Moeders, beschuldigde. Plek: Tribunaalhal. Regels: Bewijs uit het register; bij verwantschap: verbanning of dood. Stappen: Aanklacht; bloedlijnmerk vergeleken; oordeel; boete of Boeterite. Effect: Bepaalt rang en straf. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht.
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 4
 - **hangt_samen_met:** Wetten; Orde
 - **verwijst_naar:** ORDE-orde;REGEL-registers-merken;REGEL-verwantschapstaboe;RIT-boeterite;VOOR-oudere-vrouw;VOOR-handel
@@ -1220,11 +1220,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-tribunaal-drie-Z50
 - **feit_schoon:** Wie: Drie Moeders, beschuldigde. Plek: Tribunaalhal. Regels: Bewijs uit het register; bij verwantschap: verbanning of dood. Stappen: Aanklacht; bloedlijnmerk vergeleken; oordeel; boete of Boeterite. Effect: Bepaalt rang en straf. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1237,10 +1237,10 @@
 - **onderwerp:** De Reizigersgroet
 - **wat:** Wie: Reizigers en gastvrouwen. Plek: Karavanserai’s, havens, berghutten. Regels: Wie onderdak vraagt, biedt een gift of een nacht; weigeren mag. Stappen: Water en brood; sjerp tonen; gift of nacht; zegen voor de weg. Effect: Veiligheid op de reis; gezegende reizigers krijgen bescherming. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht.
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 4
-- **hangt_samen_met:** Queeste; Regio’s
-- **verwijst_naar:** MODE-vrouwen-basis;QST-doel-reden-gevaar;QST-queeste;WET-wie-weigert;VOOR-reiziger
+- **hangt_samen_met:** Queeste; Regio’s;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** MODE-vrouwen-basis;QST-doel-reden-gevaar;QST-queeste;WET-wie-weigert;VOOR-reiziger;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1250,11 +1250,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-reizigersgroet-Z50
 - **feit_schoon:** Wie: Reizigers en gastvrouwen. Plek: Karavanserai’s, havens, berghutten. Regels: Wie onderdak vraagt, biedt een gift of een nacht; weigeren mag. Stappen: Water en brood; sjerp tonen; gift of nacht; zegen voor de weg. Effect: Veiligheid op de reis; gezegende reizigers krijgen bescherming. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1267,10 +1267,10 @@
 - **onderwerp:** De Zegelvoeding
 - **wat:** Wie: Moeders, gaven-mannen, uitverkoren vrouwen. Plek: Diepste tempelzaal in Saelith (en ooit Ves-Anath). Regels: Geheim; eens per jaar; alleen Moeders kennen het doel. Stappen: Grote Ontvangst rond de zegelsteen; het zaad wordt aan de steen afgestaan; zegellicht vlamt. Effect: Ontvangers krijgen geen kracht (die gaat naar de zegel); Moeders behouden hun macht. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 4
-- **hangt_samen_met:** HET GEHEIM; Orde; Queeste
-- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gaven-mannen;ORDE-orde;QST-doel-reden-gevaar;QST-queeste;REG-saelith;SFEER-zegellicht;VOOR-groep;STAD-saelith;TECHNO-gave;TECHNO-zegelsteen
+- **hangt_samen_met:** HET GEHEIM; Orde; Queeste;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;LOT-Z44-sterrensteen;FASE-ontvangst
+- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gaven-mannen;ORDE-orde;QST-doel-reden-gevaar;QST-queeste;REG-saelith;SFEER-zegellicht;VOOR-groep;STAD-saelith;TECHNO-gave;TECHNO-zegelsteen;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;LOT-Z44-sterrensteen;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1280,11 +1280,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** gave+zegelsteen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-zegelvoeding-Z50
 - **feit_schoon:** Wie: Moeders, gaven-mannen, uitverkoren vrouwen. Plek: Diepste tempelzaal in Saelith (en ooit Ves-Anath). Regels: Geheim; eens per jaar; alleen Moeders kennen het doel. Stappen: Grote Ontvangst rond de zegelsteen; het zaad wordt aan de steen afgestaan; zegellicht vlamt. Effect: Ontvangers krijgen geen kracht (die gaat naar de zegel); Moeders behouden hun macht. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1297,10 +1297,10 @@
 - **onderwerp:** De Nacht der Duizend Lampen
 - **wat:** Wie: Alle volwassenen in Saelith. Plek: Alle tempels en straten. Regels: Elke vrouw mag een man kiezen; mannen mogen weigeren. Stappen: Lampen ontsteken; optocht; keuze; nacht; lampen doven bij dageraad. Effect: Rangen vallen even weg; veel zegellicht. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 4
-- **hangt_samen_met:** Feesten; Saelith
-- **verwijst_naar:** BESLUIT-Z30-2;REG-saelith;RITE-feesten;SFEER-zegellicht;WET-wie-weigert;VOOR-groep;STAD-saelith
+- **hangt_samen_met:** Feesten; Saelith;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** BESLUIT-Z30-2;REG-saelith;RITE-feesten;SFEER-zegellicht;WET-wie-weigert;VOOR-groep;STAD-saelith;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1310,11 +1310,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-nacht-duizend-lampen-Z50
 - **feit_schoon:** Wie: Alle volwassenen in Saelith. Plek: Alle tempels en straten. Regels: Elke vrouw mag een man kiezen; mannen mogen weigeren. Stappen: Lampen ontsteken; optocht; keuze; nacht; lampen doven bij dageraad. Effect: Rangen vallen even weg; veel zegellicht. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1327,10 +1327,10 @@
 - **onderwerp:** Het Oogstbed
 - **wat:** Wie: Dorpsvrouwen, de stalman. Plek: Ambergaard. Regels: Een week; loting bepaalt de volgorde. Stappen: Loting; oogstfeest; stalhuis open; dank aan de man. Effect: Vruchtbaarheid van het dorp; kleine kracht voor de oogst. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht.
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 4
-- **hangt_samen_met:** Ambergaard; Bram
-- **verwijst_naar:** ORDE-orde;PER-gewone-mannen;REG-ambergaard;VOOR-voyeurisme
+- **hangt_samen_met:** Ambergaard; Bram;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** ORDE-orde;PER-gewone-mannen;REG-ambergaard;VOOR-voyeurisme;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1340,11 +1340,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-oogstbed-Z50
 - **feit_schoon:** Wie: Dorpsvrouwen, de stalman. Plek: Ambergaard. Regels: Een week; loting bepaalt de volgorde. Stappen: Loting; oogstfeest; stalhuis open; dank aan de man. Effect: Vruchtbaarheid van het dorp; kleine kracht voor de oogst. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1357,7 +1357,7 @@
 - **onderwerp:** De Pelgrimszalving
 - **wat:** Wie: Reizigers op een queeste. Plek: Grenspost van elke regio. Regels: Een Hoedster zalft wie verder reist. Stappen: Zalving; vraag naar het doel; zegen of weigering. Effect: Toestemming om door te reizen. Alle deelnemers volwassen.
 - **waarom:** Rituelen geven vaste, geladen scènes en tonen rang en macht.
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 4
 - **hangt_samen_met:** Queeste; Liora
 - **verwijst_naar:** PER-liora-Z6-Z32;QST-doel-reden-gevaar;QST-queeste;WET-wie-weigert;VOOR-ritueel;VOOR-reiziger;VOOR-oudere-vrouw
@@ -1370,11 +1370,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-pelgrimszalving-Z50
 - **feit_schoon:** Wie: Reizigers op een queeste. Plek: Grenspost van elke regio. Regels: Een Hoedster zalft wie verder reist. Stappen: Zalving; vraag naar het doel; zegen of weigering. Effect: Toestemming om door te reizen. Alle deelnemers volwassen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1387,10 +1387,10 @@
 - **onderwerp:** De Ketenwake
 - **wat:** Wie: Vrouw (18+) die een gaven-man wil naderen buiten de rij; Ontvangsters. Plek: Tempelgalerij Saelith. Regels/veiligheid: Heilig woord “Ysa-rust” stopt alles; Ontvangster waakt. Stappen: Geboeid aan de zuil met zijden koorden; een nacht lang aangeraakt en gezalfd zonder vervulling; bij dageraad mag de gaven-man haar kiezen of laten gaan. Kern: Bondage, uitstel tot de grens, getuigen. Effect: Rang +1 als ze volhoudt; geen kracht tenzij gekozen. Kink-schaal: 4. Alle deelnemers 18+.
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 5
-- **hangt_samen_met:** Grote Wachtrij; Liora
-- **verwijst_naar:** MACHT-gaven-mannen;ORDE-orde;PER-liora-Z6-Z32;REG-saelith;RIT-kinkschaal;VOOR-overgave;VOOR-ontzegging;VOOR-bondage;STAD-saelith;TECHNO-gave
+- **hangt_samen_met:** Grote Wachtrij; Liora;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** MACHT-gaven-mannen;ORDE-orde;PER-liora-Z6-Z32;REG-saelith;RIT-kinkschaal;VOOR-overgave;VOOR-ontzegging;VOOR-bondage;STAD-saelith;TECHNO-gave;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1400,11 +1400,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** gave
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-ketenwake-Z50
 - **feit_schoon:** Wie: Vrouw (18+) die een gaven-man wil naderen buiten de rij; Ontvangsters. Plek: Tempelgalerij Saelith. Regels/veiligheid: Heilig woord “Ysa-rust” stopt alles; Ontvangster waakt. Stappen: Geboeid aan de zuil met zijden koorden; een nacht lang aangeraakt en gezalfd zonder vervulling; bij dageraad mag de gaven-man haar kiezen of laten gaan. Kern: Bondage, uitstel tot de grens, getuigen. Effect: Rang +1 als ze volhoudt; geen kracht tenzij gekozen. Kink-schaal: 4. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1417,10 +1417,10 @@
 - **onderwerp:** De Overdracht
 - **wat:** Wie: Vrouw en gaven-man. Plek: Zijn vertrekken. Regels/veiligheid: Contract voor 7 dagen, getekend bij een Registratrix; het woord “Ysa-rust” blijft geldig. Stappen: Ze geeft hem haar sjerp en zegt haar naam af; 7 dagen bepaalt hij kleding, rust en genot; bij afloop krijgt ze haar naam terug. Kern: Totale machtsoverdracht, dominant/onderdanig. Effect: Grote stijging voor haar huis; hoog risico op binding. Kink-schaal: 4. Alle deelnemers 18+.
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;PER-aeron), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 5
-- **hangt_samen_met:** Aeron-as (zacht), Khaled-Ir (prijs)
-- **verwijst_naar:** CUL-kleding;MACHT-gaven-mannen;MAGIE-verslaving;MODE-vrouwen-basis;PER-aeron;PER-khaled;RIT-kinkschaal;VOOR-overgave;TECHNO-gave
+- **hangt_samen_met:** Aeron-as (zacht), Khaled-Ir (prijs);LOT-Z44-gaven-mannen;FASE-noodtoestand-Z38
+- **verwijst_naar:** CUL-kleding;MACHT-gaven-mannen;MAGIE-verslaving;MODE-vrouwen-basis;PER-aeron;PER-khaled;RIT-kinkschaal;VOOR-overgave;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1430,11 +1430,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** gave
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-overdracht-Z50
 - **feit_schoon:** Wie: Vrouw en gaven-man. Plek: Zijn vertrekken. Regels/veiligheid: Contract voor 7 dagen, getekend bij een Registratrix; het woord “Ysa-rust” blijft geldig. Stappen: Ze geeft hem haar sjerp en zegt haar naam af; 7 dagen bepaalt hij kleding, rust en genot; bij afloop krijgt ze haar naam terug. Kern: Totale machtsoverdracht, dominant/onderdanig. Effect: Grote stijging voor haar huis; hoog risico op binding. Kink-schaal: 4. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1447,10 +1447,10 @@
 - **onderwerp:** De Bloedverbinding
 - **wat:** Wie: Morvane-ir en zijn gebonden krijgsvrouwen. Plek: Bloedpaleis van Lisk. Regels/veiligheid: Geen heilig woord, geen toezicht: bewust donkere rite. Stappen: Snede in de palm, zijn bloedgave, zaad en bloed gemengd; vrouw zweert hem trouw. Kern: Pijn en genot, totale binding, ontbreken van uitweg. Effect: Kracht 6x (boven de grens) maar binding direct en zware Leegte; voedt de zegel niet. Kink-schaal: 5. Alle deelnemers 18+.
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 5
-- **hangt_samen_met:** Morvane-ir; Lisk; Verslaving
-- **verwijst_naar:** BESLUIT-Z30-2;MAGIE-kracht-duur;MAGIE-verslaving;PER-morvane;REG-saelith;RIT-kinkschaal;VOOR-pijn-genot;VOOR-bloed;VOOR-binding;STAD-lisk;TECHNO-bio
+- **hangt_samen_met:** Morvane-ir; Lisk; Verslaving;LOT-Z44-gaven-mannen;FASE-barsten
+- **verwijst_naar:** BESLUIT-Z30-2;MAGIE-kracht-duur;MAGIE-verslaving;PER-morvane;REG-saelith;RIT-kinkschaal;VOOR-pijn-genot;VOOR-bloed;VOOR-binding;STAD-lisk;TECHNO-bio;LOT-Z44-gaven-mannen;FASE-barsten
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1460,11 +1460,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** bio
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-bloedverbinding-Z50
 - **feit_schoon:** Wie: Morvane-ir en zijn gebonden krijgsvrouwen. Plek: Bloedpaleis van Lisk. Regels/veiligheid: Geen heilig woord, geen toezicht: bewust donkere rite. Stappen: Snede in de palm, zijn bloedgave, zaad en bloed gemengd; vrouw zweert hem trouw. Kern: Pijn en genot, totale binding, ontbreken van uitweg. Effect: Kracht 6x (boven de grens) maar binding direct en zware Leegte; voedt de zegel niet. Kink-schaal: 5. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1477,10 +1477,10 @@
 - **onderwerp:** De Doorgang der Duizend Handen
 - **wat:** Wie: Een vrouw en een groep gemaskerde vrouwen. Plek: Stoomhal van Saelith. Regels/veiligheid: Ze bepaalt het tempo met een bel; Hoedster houdt toezicht. Stappen: Geblinddoekt door een rij van zalvende, strelende handen; ze mag niet zien wie. Kern: Anonimiteit, overprikkeling, groepsrite. Effect: Reiniging vóór een Ontvangst; geen kracht. Kink-schaal: 3. Alle deelnemers 18+.
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld.
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 5
-- **hangt_samen_met:** Badhuizen; Maanzalving
-- **verwijst_naar:** REG-saelith;RIT-kinkschaal;VOOR-anoniem;VOOR-vrouwenliefde;STAD-saelith
+- **hangt_samen_met:** Badhuizen; Maanzalving;LOT-Z44-ishvar;FASE-ontvangst
+- **verwijst_naar:** REG-saelith;RIT-kinkschaal;VOOR-anoniem;VOOR-vrouwenliefde;STAD-saelith;LOT-Z44-ishvar;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1490,11 +1490,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-doorgang-duizend-handen-Z50
 - **feit_schoon:** Wie: Een vrouw en een groep gemaskerde vrouwen. Plek: Stoomhal van Saelith. Regels/veiligheid: Ze bepaalt het tempo met een bel; Hoedster houdt toezicht. Stappen: Geblinddoekt door een rij van zalvende, strelende handen; ze mag niet zien wie. Kern: Anonimiteit, overprikkeling, groepsrite. Effect: Reiniging vóór een Ontvangst; geen kracht. Kink-schaal: 3. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1509,8 +1509,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;MACHT-gewone-mannen;MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 5
-- **hangt_samen_met:** Huis Varenne; Kracht en duur
-- **verwijst_naar:** HUI-varenne;MACHT-gaven-mannen;MACHT-gewone-mannen;MAGIE-kracht-duur;RIT-kinkschaal;VOOR-groep;VOOR-overvloed;VOOR-uithouding;TECHNO-bio;TECHNO-gave
+- **hangt_samen_met:** Huis Varenne;Kracht en duur;LOT-Z44-gaven-mannen;FASE-ontvangst
+- **verwijst_naar:** HUI-varenne;MACHT-gaven-mannen;MACHT-gewone-mannen;MAGIE-kracht-duur;RIT-kinkschaal;VOOR-groep-Z50;VOOR-overvloed-Z50;VOOR-uithouding-Z50;TECHNO-bio;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1537,10 +1537,10 @@
 - **onderwerp:** De Leegtewake
 - **wat:** Wie: Een vrouw in de Leegte, haar moederhuis. Plek: Binnenhof. Regels/veiligheid: Ze mag niets ontvangen tot zonsopgang van dag twee. Stappen: Vastgebonden met zachte linten; vriendinnen troosten en plagen; ontzegging tot de grens. Kern: Ontzegging, kwetsbaarheid. Effect: Breekt beginnende binding; versterkt het volgende effect +10%. Kink-schaal: 3. Alle deelnemers 18+.
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 5
-- **hangt_samen_met:** Leegte; Grijswortel
-- **verwijst_naar:** CUL-gezin-wonen;MAGIE-kracht-duur;MAGIE-verslaving;RIT-kinkschaal;VOOR-ontzegging;VOOR-bondage
+- **hangt_samen_met:** Leegte; Grijswortel;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** CUL-gezin-wonen;MAGIE-kracht-duur;MAGIE-verslaving;RIT-kinkschaal;VOOR-ontzegging;VOOR-bondage;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1550,11 +1550,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-leegtewake-Z50
 - **feit_schoon:** Wie: Een vrouw in de Leegte, haar moederhuis. Plek: Binnenhof. Regels/veiligheid: Ze mag niets ontvangen tot zonsopgang van dag twee. Stappen: Vastgebonden met zachte linten; vriendinnen troosten en plagen; ontzegging tot de grens. Kern: Ontzegging, kwetsbaarheid. Effect: Breekt beginnende binding; versterkt het volgende effect +10%. Kink-schaal: 3. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1567,10 +1567,10 @@
 - **onderwerp:** Het Schandpodium
 - **wat:** Wie: Een veroordeelde volwassene, publiek. Plek: Tempeltrappen. Regels/veiligheid: Opgelegd door het Tribunaal van Drie; Moeder ziet toe; geen blijvend letsel. Stappen: Een dag in grijs en halsband op het podium; het publiek mag kijken en spreken; bij zonsondergang verheffing met zalving. Kern: Publieke vernedering en verheffing. Effect: Rangverlies, daarna herstel. Kink-schaal: 4. Alle deelnemers 18+.
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld.
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 5
-- **hangt_samen_met:** Boeterite; Tribunaal
-- **verwijst_naar:** ORDE-orde;RIT-boeterite;RIT-kinkschaal;RIT-tribunaal-drie;VOOR-exhibitionisme;VOOR-vernedering
+- **hangt_samen_met:** Boeterite; Tribunaal;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** ORDE-orde;RIT-boeterite;RIT-kinkschaal;RIT-tribunaal-drie;VOOR-exhibitionisme;VOOR-vernedering;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1580,11 +1580,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-schandpodium-Z50
 - **feit_schoon:** Wie: Een veroordeelde volwassene, publiek. Plek: Tempeltrappen. Regels/veiligheid: Opgelegd door het Tribunaal van Drie; Moeder ziet toe; geen blijvend letsel. Stappen: Een dag in grijs en halsband op het podium; het publiek mag kijken en spreken; bij zonsondergang verheffing met zalving. Kern: Publieke vernedering en verheffing. Effect: Rangverlies, daarna herstel. Kink-schaal: 4. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1597,10 +1597,10 @@
 - **onderwerp:** De Halsbandwissel
 - **wat:** Wie: Een vrouw en een gewone man. Plek: Moederhuis, Nacht der Omkering. Regels/veiligheid: Woord “Ysa-rust”; een nacht. Stappen: Zij draagt zijn halsband, hij haar sjerp; hij beveelt. Kern: Rolomkering, dominant/onderdanig. Effect: Geen kracht; wel geheimen en wrok. Kink-schaal: 3. Alle deelnemers 18+.
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 5
-- **hangt_samen_met:** Rolwisseling; Bram
-- **verwijst_naar:** CUL-gezin-wonen;BESLUIT-Z30-2;MACHT-gewone-mannen;MODE-vrouwen-basis;PER-gewone-mannen;RIT-kinkschaal;RIT-rolwisseling;VOOR-rolwissel
+- **hangt_samen_met:** Rolwisseling; Bram;GEB-Z45-losbandige-jaren;FASE-noodtoestand-Z38
+- **verwijst_naar:** CUL-gezin-wonen;BESLUIT-Z30-2;MACHT-gewone-mannen;MODE-vrouwen-basis;PER-gewone-mannen;RIT-kinkschaal;RIT-rolwisseling;VOOR-rolwissel;GEB-Z45-losbandige-jaren;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1610,11 +1610,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-halsbandwissel-Z50
 - **feit_schoon:** Wie: Een vrouw en een gewone man. Plek: Moederhuis, Nacht der Omkering. Regels/veiligheid: Woord “Ysa-rust”; een nacht. Stappen: Zij draagt zijn halsband, hij haar sjerp; hij beveelt. Kern: Rolomkering, dominant/onderdanig. Effect: Geen kracht; wel geheimen en wrok. Kink-schaal: 3. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1627,10 +1627,10 @@
 - **onderwerp:** De Vuurgloed
 - **wat:** Wie: Khaled-Ir en een haremvrouw. Plek: Zonnepaleis Qesh. Regels/veiligheid: Hij beheerst het vuur; zij kan “zon” zeggen om te stoppen. Stappen: Zijn vuurgave verwarmt haar huid tot de grens van pijn; Ontvangst onder de gloed. Kern: Pijn en genot, gevaar, macht van zijn gave. Effect: Kracht 5x en een vuurvleug; prijs: een seizoen dienst. Kink-schaal: 4. Alle deelnemers 18+.
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld.
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 5
-- **hangt_samen_met:** Khaled-Ir; Qesh
-- **verwijst_naar:** PER-khaled;REG-rosse;RIT-kinkschaal;VOOR-pijn-genot;VOOR-dominante-man;VOOR-harem;STAD-qesh;TECHNO-gave
+- **hangt_samen_met:** Khaled-Ir; Qesh;LOT-Z44-gaven-mannen;FASE-markt
+- **verwijst_naar:** PER-khaled;REG-rosse;RIT-kinkschaal;VOOR-pijn-genot;VOOR-dominante-man;VOOR-harem;STAD-qesh;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1640,11 +1640,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** gave
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-vuurgloed-Z50
 - **feit_schoon:** Wie: Khaled-Ir en een haremvrouw. Plek: Zonnepaleis Qesh. Regels/veiligheid: Hij beheerst het vuur; zij kan “zon” zeggen om te stoppen. Stappen: Zijn vuurgave verwarmt haar huid tot de grens van pijn; Ontvangst onder de gloed. Kern: Pijn en genot, gevaar, macht van zijn gave. Effect: Kracht 5x en een vuurvleug; prijs: een seizoen dienst. Kink-schaal: 4. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1657,10 +1657,10 @@
 - **onderwerp:** De Stormontlading
 - **wat:** Wie: Aeron-as na grote magie en een vrouw die vrijwillig blijft. Plek: Overal, na een gevecht. Regels/veiligheid: Zij kiest; hij geeft het woord “stil” aan haar. Stappen: Hij moet ontladen; de storm trekt door haar heen; een woeste, ongecontroleerde nacht. Kern: Overgave aan een overmatige kracht. Effect: Kracht 5x en een stormvleug; hij geneest. Kink-schaal: 4. Alle deelnemers 18+.
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar PER-aeron), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 5
-- **hangt_samen_met:** Aeron-as; Ontlading na magie; Liora
-- **verwijst_naar:** KINK-ontlading-na-magie;PER-aeron;PER-liora-Z6-Z32;RIT-kinkschaal;VOOR-dominante-man;VOOR-ontlading;TECHNO-gave
+- **hangt_samen_met:** Aeron-as; Ontlading na magie; Liora;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** KINK-ontlading-na-magie;PER-aeron;PER-liora-Z6-Z32;RIT-kinkschaal;VOOR-dominante-man;VOOR-ontlading;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1670,11 +1670,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** gave
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-stormontlading-Z50
 - **feit_schoon:** Wie: Aeron-as na grote magie en een vrouw die vrijwillig blijft. Plek: Overal, na een gevecht. Regels/veiligheid: Zij kiest; hij geeft het woord “stil” aan haar. Stappen: Hij moet ontladen; de storm trekt door haar heen; een woeste, ongecontroleerde nacht. Kern: Overgave aan een overmatige kracht. Effect: Kracht 5x en een stormvleug; hij geneest. Kink-schaal: 4. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1689,8 +1689,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 5
-- **hangt_samen_met:** Zegelvoeding; HET GEHEIM
-- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gaven-mannen;MAGIE-kracht-duur;ORDE-orde;REG-saelith;HAAK-PER-thriller
+- **hangt_samen_met:** Zegelvoeding;HET GEHEIM;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;LOT-Z44-sterrensteen;FASE-barsten
+- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gaven-mannen;MAGIE-kracht-duur;ORDE-orde;REG-saelith;HAAK-PER-thriller;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;LOT-Z44-sterrensteen;FASE-barsten
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1717,10 +1717,10 @@
 - **onderwerp:** De Gemaskerde Veiling
 - **wat:** Wie: Gemaskerde kopers; een vrouw of man die zichzelf aanbiedt. Plek: Brakhaven, Isla Mirre. Regels/veiligheid: Zelfgekozen; één nacht; Mirre-wacht beschermt. Stappen: Op het podium ontkleed tot het bod hoog genoeg is; de koper blijft anoniem. Kern: Anonimiteit, verkoop van zichzelf, publieke vertoning. Effect: Geld; geen rang. Kink-schaal: 4. Alle deelnemers 18+.
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld.
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 5
-- **hangt_samen_met:** Huis Mirre; Sef
-- **verwijst_naar:** HUI-mirre;REG-zoutkust;RIT-kinkschaal;VOOR-exhibitionisme;VOOR-anoniem;VOOR-veiling;STAD-brakhaven;STAD-isla-mirre
+- **hangt_samen_met:** Huis Mirre; Sef;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** HUI-mirre;REG-zoutkust;RIT-kinkschaal;VOOR-exhibitionisme;VOOR-anoniem;VOOR-veiling;STAD-brakhaven;STAD-isla-mirre;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1730,11 +1730,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-gemaskerde-veiling-Z50
 - **feit_schoon:** Wie: Gemaskerde kopers; een vrouw of man die zichzelf aanbiedt. Plek: Brakhaven, Isla Mirre. Regels/veiligheid: Zelfgekozen; één nacht; Mirre-wacht beschermt. Stappen: Op het podium ontkleed tot het bod hoog genoeg is; de koper blijft anoniem. Kern: Anonimiteit, verkoop van zichzelf, publieke vertoning. Effect: Geld; geen rang. Kink-schaal: 4. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1747,10 +1747,10 @@
 - **onderwerp:** De Gletsjerproef
 - **wat:** Wie: Twee krijgsvrouwen en een gaven-man. Plek: IJsgraf. Regels/veiligheid: Een Moeder telt; opgave mag altijd. Stappen: Naakt in de kou; wie het langst volhoudt krijgt het zaad. Kern: Uithoudingsproef, pijn en verlangen. Effect: Winnares 5x kracht; verliezer kijkt toe. Kink-schaal: 4. Alle deelnemers 18+.
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 5
-- **hangt_samen_met:** Duel om de man; Huis Kaldra
-- **verwijst_naar:** HUI-kaldra-Z6;KINK-duel-man;MACHT-gaven-mannen;RIT-kinkschaal;VOOR-pijn-genot;VOOR-competitie;VOOR-uithouding;STAD-ijsgraf;TECHNO-gave
+- **hangt_samen_met:** Duel om de man; Huis Kaldra;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** HUI-kaldra-Z6;KINK-duel-man;MACHT-gaven-mannen;RIT-kinkschaal;VOOR-pijn-genot;VOOR-competitie;VOOR-uithouding;STAD-ijsgraf;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1760,11 +1760,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** gave
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-gletsjerproef-Z50
 - **feit_schoon:** Wie: Twee krijgsvrouwen en een gaven-man. Plek: IJsgraf. Regels/veiligheid: Een Moeder telt; opgave mag altijd. Stappen: Naakt in de kou; wie het langst volhoudt krijgt het zaad. Kern: Uithoudingsproef, pijn en verlangen. Effect: Winnares 5x kracht; verliezer kijkt toe. Kink-schaal: 4. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1777,10 +1777,10 @@
 - **onderwerp:** De Kettingstoet
 - **wat:** Wie: Gewone mannen en hun Hoedsters. Plek: Straten van Ambergaard, Saelith. Regels/veiligheid: Ritueel van bezit; geen schade. Stappen: Mannen in halsband geleid in een stoet; vrouwen mogen langs de rij betasten en kiezen. Kern: Bezit, publieke vertoning, vernedering. Effect: Huur en verkoop. Kink-schaal: 3. Alle deelnemers 18+.
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 5
-- **hangt_samen_met:** Gewone mannen; Bram
-- **verwijst_naar:** MACHT-gewone-mannen;PER-gewone-mannen;REG-ambergaard;REG-saelith;RIT-kinkschaal;VOOR-dominante-vrouw;VOOR-onderdanige-man;STAD-saelith
+- **hangt_samen_met:** Gewone mannen; Bram;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** MACHT-gewone-mannen;PER-gewone-mannen;REG-ambergaard;REG-saelith;RIT-kinkschaal;VOOR-dominante-vrouw;VOOR-onderdanige-man;STAD-saelith;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1790,11 +1790,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-kettingstoet-Z50
 - **feit_schoon:** Wie: Gewone mannen en hun Hoedsters. Plek: Straten van Ambergaard, Saelith. Regels/veiligheid: Ritueel van bezit; geen schade. Stappen: Mannen in halsband geleid in een stoet; vrouwen mogen langs de rij betasten en kiezen. Kern: Bezit, publieke vertoning, vernedering. Effect: Huur en verkoop. Kink-schaal: 3. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1809,8 +1809,8 @@
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1;REG-kharvos-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 5
-- **hangt_samen_met:** Kharvos; Drask
-- **verwijst_naar:** BESLUIT-Z30-2;REG-kharvos-B1;RIT-kinkschaal;WET-wie-weigert;VOOR-gevangenschap
+- **hangt_samen_met:** Kharvos;Drask;LOT-Z44-ishvar;FASE-barsten
+- **verwijst_naar:** BESLUIT-Z30-2;REG-kharvos-B1;RIT-kinkschaal;WET-wie-weigert;VOOR-gevangenschap-Z50;LOT-Z44-ishvar;FASE-barsten
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1837,10 +1837,10 @@
 - **onderwerp:** De Spiegelnacht
 - **wat:** Wie: Een vrouw en een gaven-man met geestgave. Plek: Tuaro. Regels/veiligheid: Woord “water”. Stappen: Hij laat haar zijn verlangen voelen en zij hem het hare; grens tussen twee lijven vervaagt. Kern: Overweldiging, verlies van zelf. Effect: Kracht 4x; binding. Kink-schaal: 3. Alle deelnemers 18+.
 - **waarom:** Extreme rituelen geven donkere, intense scènes binnen de regels van de wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 5
-- **hangt_samen_met:** Groenmuil; Magie
-- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-verslaving;REG-groenmuil;RIT-kinkschaal;VOOR-teder;VOOR-geest;STAD-tuaro;TECHNO-gave
+- **hangt_samen_met:** Groenmuil; Magie;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-verslaving;REG-groenmuil;RIT-kinkschaal;VOOR-teder;VOOR-geest;STAD-tuaro;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1850,11 +1850,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** gave
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-spiegelnacht-Z50
 - **feit_schoon:** Wie: Een vrouw en een gaven-man met geestgave. Plek: Tuaro. Regels/veiligheid: Woord “water”. Stappen: Hij laat haar zijn verlangen voelen en zij hem het hare; grens tussen twee lijven vervaagt. Kern: Overweldiging, verlies van zelf. Effect: Kracht 4x; binding. Kink-schaal: 3. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -1869,8 +1869,8 @@
 - **waarom:** Laat Rogier per scène de intensiteit kiezen.
 - **status:** voorlopig
 - **ronde:** 5
-- **hangt_samen_met:** Rituelen; Extreme rituelen
-- **verwijst_naar:** BESLUIT-Z30-2;KINK-nacht-duizend-lampen;KINK-strijdontvangst;KINK-zwijgende-rit;MAGIE-kracht-duur;MAGIE-verslaving;MODE-vrouwen-basis;REG-kharvos-B1;RIT-boeterite;RIT-ontzegging-binding;RIT-rolwisseling;RIT-veiling;TECHNO-bio;TECHNO-gave
+- **hangt_samen_met:** Rituelen;Extreme rituelen;LOT-Z44-ishvar;FASE-ontvangst
+- **verwijst_naar:** BESLUIT-Z30-2;KINK-nacht-duizend-lampen;KINK-strijdontvangst;KINK-zwijgende-rit;MAGIE-kracht-duur;MAGIE-verslaving;MODE-vrouwen-basis;REG-kharvos-B1;RIT-boeterite-Z50;RIT-ontzegging-binding;RIT-rolwisseling-Z50;RIT-veiling-Z50;TECHNO-bio;TECHNO-gave;LOT-Z44-ishvar;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1900,7 +1900,7 @@
 - **status:** vastgesteld
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: De Ontvangst
-- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gaven-mannen;ORDE-orde;RIT-ontvangst;RITE-ontvangst;SFEER-zegellicht
+- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gaven-mannen;ORDE-orde;RIT-ontvangst-Z50;RITE-ontvangst;SFEER-zegellicht
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1960,7 +1960,7 @@
 - **status:** vastgesteld
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: De Strijdontvangst
-- **verwijst_naar:** KINK-strijdontvangst;MACHT-gaven-mannen;MAGIE-kracht-duur;RIT-strijdontvangst
+- **verwijst_naar:** KINK-strijdontvangst;MACHT-gaven-mannen;MAGIE-kracht-duur;RIT-strijdontvangst-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1990,7 +1990,7 @@
 - **status:** vastgesteld
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: De Veiling
-- **verwijst_naar:** MACHT-gewone-mannen;ORDE-orde;RIT-veiling
+- **verwijst_naar:** MACHT-gewone-mannen;ORDE-orde;RIT-veiling-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2020,7 +2020,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: De Zwijgende Rit
-- **verwijst_naar:** KINK-zwijgende-rit;ORDE-orde;REGEL-registers-merken;RIT-zwijgende-rit
+- **verwijst_naar:** KINK-zwijgende-rit;ORDE-orde;REGEL-registers-merken;RIT-zwijgende-rit-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2080,7 +2080,7 @@
 - **status:** vastgesteld
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: De Melkrite
-- **verwijst_naar:** KINK-melkrite;MACHT-gewone-mannen;RIT-melkrite
+- **verwijst_naar:** KINK-melkrite;MACHT-gewone-mannen;RIT-melkrite-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2110,7 +2110,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: De Gunstnacht
-- **verwijst_naar:** ORDE-orde;RIT-gunstnacht
+- **verwijst_naar:** ORDE-orde;RIT-gunstnacht-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2140,7 +2140,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: De Maanzalving
-- **verwijst_naar:** CUL-gezin-wonen;RIT-maanzalving
+- **verwijst_naar:** CUL-gezin-wonen;RIT-maanzalving-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2170,7 +2170,7 @@
 - **status:** vastgesteld
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: Het Duel om een Man
-- **verwijst_naar:** MACHT-gaven-mannen;RIT-duel-man
+- **verwijst_naar:** MACHT-gaven-mannen;RIT-duel-man-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2200,7 +2200,7 @@
 - **status:** vastgesteld
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: Rolwisseling
-- **verwijst_naar:** MACHT-gewone-mannen;RIT-rolwisseling
+- **verwijst_naar:** MACHT-gewone-mannen;RIT-rolwisseling-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2230,7 +2230,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: Boeterite
-- **verwijst_naar:** ORDE-orde;RIT-boeterite
+- **verwijst_naar:** ORDE-orde;RIT-boeterite-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2260,7 +2260,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: Het Geboortelied
-- **verwijst_naar:** CUL-gezin-wonen;RIT-geboortelied
+- **verwijst_naar:** CUL-gezin-wonen;RIT-geboortelied-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2290,7 +2290,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: De Melkzegen
-- **verwijst_naar:** RIT-melkzegen
+- **verwijst_naar:** RIT-melkzegen-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2320,7 +2320,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: Het Laatste Bed
-- **verwijst_naar:** RIT-laatste-bed
+- **verwijst_naar:** RIT-laatste-bed-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2350,7 +2350,7 @@
 - **status:** vastgesteld
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: Het Zaadcontract
-- **verwijst_naar:** BESLUIT-Z30-2;RIT-zaadcontract;SFEER-zegellicht
+- **verwijst_naar:** BESLUIT-Z30-2;RIT-zaadcontract-Z50;SFEER-zegellicht
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2380,7 +2380,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: Het Tribunaal van Drie
-- **verwijst_naar:** REGEL-registers-merken;RIT-tribunaal-drie
+- **verwijst_naar:** REGEL-registers-merken;RIT-tribunaal-drie-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2410,7 +2410,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: De Reizigersgroet
-- **verwijst_naar:** RIT-reizigersgroet
+- **verwijst_naar:** RIT-reizigersgroet-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2440,7 +2440,7 @@
 - **status:** vastgesteld
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: De Zegelvoeding
-- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gaven-mannen;MAGIE-kracht-duur;RIT-zegelvoeding;SFEER-zegellicht
+- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gaven-mannen;MAGIE-kracht-duur;RIT-zegelvoeding-Z50;SFEER-zegellicht
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2470,7 +2470,7 @@
 - **status:** vastgesteld
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: De Nacht der Duizend Lampen
-- **verwijst_naar:** BESLUIT-Z30-2;KINK-nacht-duizend-lampen;RIT-nacht-duizend-lampen;SFEER-zegellicht;WET-wie-weigert
+- **verwijst_naar:** BESLUIT-Z30-2;KINK-nacht-duizend-lampen;RIT-nacht-duizend-lampen-Z50;SFEER-zegellicht;WET-wie-weigert
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2500,7 +2500,7 @@
 - **status:** vastgesteld
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: Het Oogstbed
-- **verwijst_naar:** MACHT-gewone-mannen;RIT-oogstbed
+- **verwijst_naar:** MACHT-gewone-mannen;RIT-oogstbed-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2530,7 +2530,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Rituelen: De Pelgrimszalving
-- **verwijst_naar:** RIT-pelgrimszalving
+- **verwijst_naar:** RIT-pelgrimszalving-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2560,7 +2560,7 @@
 - **status:** vastgesteld
 - **ronde:** 6
 - **hangt_samen_met:** Extreme rituelen: De Ketenwake
-- **verwijst_naar:** MACHT-gaven-mannen;ORDE-orde;RIT-ketenwake;RIT-kinkschaal
+- **verwijst_naar:** MACHT-gaven-mannen;ORDE-orde;RIT-ketenwake-Z50;RIT-kinkschaal
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2590,7 +2590,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Extreme rituelen: De Overdracht
-- **verwijst_naar:** MAGIE-verslaving;RIT-kinkschaal;RIT-overdracht
+- **verwijst_naar:** MAGIE-verslaving;RIT-kinkschaal;RIT-overdracht-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2620,7 +2620,7 @@
 - **status:** vastgesteld
 - **ronde:** 6
 - **hangt_samen_met:** Extreme rituelen: De Bloedverbinding
-- **verwijst_naar:** MAGIE-kracht-duur;MAGIE-verslaving;PER-morvane;RIT-bloedverbinding
+- **verwijst_naar:** MAGIE-kracht-duur;MAGIE-verslaving;PER-morvane;RIT-bloedverbinding-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2650,7 +2650,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Extreme rituelen: De Doorgang der Duizend Handen
-- **verwijst_naar:** RIT-doorgang-duizend-handen
+- **verwijst_naar:** RIT-doorgang-duizend-handen-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2710,7 +2710,7 @@
 - **status:** vastgesteld
 - **ronde:** 6
 - **hangt_samen_met:** Extreme rituelen: De Leegtewake
-- **verwijst_naar:** MAGIE-kracht-duur;MAGIE-verslaving;RIT-leegtewake
+- **verwijst_naar:** MAGIE-kracht-duur;MAGIE-verslaving;RIT-leegtewake-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2740,7 +2740,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Extreme rituelen: Het Schandpodium
-- **verwijst_naar:** RIT-schandpodium
+- **verwijst_naar:** RIT-schandpodium-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2770,7 +2770,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Extreme rituelen: De Halsbandwissel
-- **verwijst_naar:** MODE-vrouwen-basis;RIT-halsbandwissel;RIT-kinkschaal
+- **verwijst_naar:** MODE-vrouwen-basis;RIT-halsbandwissel-Z50;RIT-kinkschaal
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2800,7 +2800,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Extreme rituelen: De Vuurgloed
-- **verwijst_naar:** PER-khaled;RIT-vuurgloed
+- **verwijst_naar:** PER-khaled;RIT-vuurgloed-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2830,7 +2830,7 @@
 - **status:** vastgesteld
 - **ronde:** 6
 - **hangt_samen_met:** Extreme rituelen: De Stormontlading
-- **verwijst_naar:** PER-aeron;RIT-stormontlading
+- **verwijst_naar:** PER-aeron;RIT-stormontlading-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2890,7 +2890,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Extreme rituelen: De Gemaskerde Veiling
-- **verwijst_naar:** RIT-gemaskerde-veiling;RIT-veiling
+- **verwijst_naar:** RIT-gemaskerde-veiling-Z50;RIT-veiling-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2920,7 +2920,7 @@
 - **status:** vastgesteld
 - **ronde:** 6
 - **hangt_samen_met:** Extreme rituelen: De Gletsjerproef
-- **verwijst_naar:** MACHT-gaven-mannen;MODE-vrouwen-basis;RIT-gletsjerproef
+- **verwijst_naar:** MACHT-gaven-mannen;MODE-vrouwen-basis;RIT-gletsjerproef-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2950,7 +2950,7 @@
 - **status:** vastgesteld
 - **ronde:** 6
 - **hangt_samen_met:** Extreme rituelen: De Kettingstoet
-- **verwijst_naar:** MACHT-gewone-mannen;RIT-kettingstoet
+- **verwijst_naar:** MACHT-gewone-mannen;RIT-kettingstoet-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3010,7 +3010,7 @@
 - **status:** voorlopig
 - **ronde:** 6
 - **hangt_samen_met:** Extreme rituelen: De Spiegelnacht
-- **verwijst_naar:** MAGIE-verslaving;RIT-spiegelnacht
+- **verwijst_naar:** MAGIE-verslaving;RIT-spiegelnacht-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3037,10 +3037,10 @@
 - **onderwerp:** De Tweegelofte
 - **wat:** Wie: Twee volwassenen (vrouwen onder elkaar, of vrouw en gewone man die zij bezit of vrijkoopt). Plek: Binnenhof, onder getuigen van het moederhuis. Regels: Vrijwillig; bindt niet exclusief (het geloof verbiedt exclusiviteit), maar belooft voorrang en terugkeer. Stappen: Ruil van een haarlok en een ring; samen baden; een nacht alleen; gelofte “ik keer altijd terug”. Effect: Geen zaad-kracht; wel rang als paar in het moederhuis. Kink-schaal: 2. Alle deelnemers 18+.
 - **waarom:** Vult een gat in de levenscyclus of in het systeem (ronde 7). [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gewone-mannen;MAGIE-kracht-duur;ORDE-doel-geloof), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 7
-- **hangt_samen_met:** Hechting en liefde; Gezin en wonen
-- **verwijst_naar:** CUL-gezin-wonen;MACHT-gewone-mannen;MAGIE-kracht-duur;ORDE-doel-geloof;RIT-kinkschaal;VOOR-teder;VOOR-verboden
+- **hangt_samen_met:** Hechting en liefde; Gezin en wonen;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** CUL-gezin-wonen;MACHT-gewone-mannen;MAGIE-kracht-duur;ORDE-doel-geloof;RIT-kinkschaal;VOOR-teder;VOOR-verboden;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3050,11 +3050,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-tweegelofte-Z50
 - **feit_schoon:** Wie: Twee volwassenen (vrouwen onder elkaar, of vrouw en gewone man die zij bezit of vrijkoopt). Plek: Binnenhof, onder getuigen van het moederhuis. Regels: Vrijwillig; bindt niet exclusief (het geloof verbiedt exclusiviteit), maar belooft voorrang en terugkeer. Stappen: Ruil van een haarlok en een ring; samen baden; een nacht alleen; gelofte “ik keer altijd terug”. Effect: Geen zaad-kracht; wel rang als paar in het moederhuis. Kink-schaal: 2. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -3067,7 +3067,7 @@
 - **onderwerp:** Het Afscheid van de Uitverkorene
 - **wat:** Wie: Vrouwen die door een gaven-man gezegend zijn, zijn huis, Moeders. Plek: Tempel, als een gaven-man sterft, vlucht of zijn gave verliest. Regels: Eenmalig; elke vrouw legt een gouden oorring terug. Stappen: Stoet in goud; elke vrouw spreekt een herinnering uit; de oorringen worden omgesmolten tot een beeld. Effect: Rang blijft, kracht stopt; zijn lijn wordt in het register gesloten. Kink-schaal: 2. Alle deelnemers 18+.
 - **waarom:** Vult een gat in de levenscyclus of in het systeem (ronde 7). [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;PER-aeron), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 7
 - **hangt_samen_met:** Gaven-mannen; Aeron-as
 - **verwijst_naar:** MACHT-gaven-mannen;ORDE-orde;PER-aeron;REGEL-registers-merken;RIT-kinkschaal;VOOR-afscheid;TECHNO-gave
@@ -3080,11 +3080,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** gave
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-afscheid-uitverkorene-Z50
 - **feit_schoon:** Wie: Vrouwen die door een gaven-man gezegend zijn, zijn huis, Moeders. Plek: Tempel, als een gaven-man sterft, vlucht of zijn gave verliest. Regels: Eenmalig; elke vrouw legt een gouden oorring terug. Stappen: Stoet in goud; elke vrouw spreekt een herinnering uit; de oorringen worden omgesmolten tot een beeld. Effect: Rang blijft, kracht stopt; zijn lijn wordt in het register gesloten. Kink-schaal: 2. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -3097,10 +3097,10 @@
 - **onderwerp:** De Verzoening
 - **wat:** Wie: Twee rivalen (vrouwen of huizen). Plek: Badhuis. Regels: Op voorstel van een Moeder; heilig woord. Stappen: Elkaar wassen; gezamenlijke maaltijd; een gedeelde nacht of een gedeelde man; zout op de tong. Effect: Herstel van rang; einde van vete. Kink-schaal: 2. Alle deelnemers 18+.
 - **waarom:** Vult een gat in de levenscyclus of in het systeem (ronde 7).
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 7
-- **hangt_samen_met:** Duel om een Man; Huizen
-- **verwijst_naar:** RIT-kinkschaal;VOOR-vernedering
+- **hangt_samen_met:** Duel om een Man; Huizen;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** RIT-kinkschaal;VOOR-vernedering;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3110,11 +3110,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-verzoening-Z50
 - **feit_schoon:** Wie: Twee rivalen (vrouwen of huizen). Plek: Badhuis. Regels: Op voorstel van een Moeder; heilig woord. Stappen: Elkaar wassen; gezamenlijke maaltijd; een gedeelde nacht of een gedeelde man; zout op de tong. Effect: Herstel van rang; einde van vete. Kink-schaal: 2. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -3127,7 +3127,7 @@
 - **onderwerp:** Het Stille Kind
 - **wat:** Wie: Moeder en moederhuis bij de dood van een kind. Plek: Binnenhof. Regels: Geen zaad, geen ontvangst gedurende 40 dagen. Stappen: Grijze sjerp; het belletje (bij een jongen) of de naam begraven onder de vijgenboom; zang. Effect: Moeder wordt een tijd “gesloten”; huis rouwt mee. Kink-schaal: 2. Alle deelnemers 18+.
 - **waarom:** Vult een gat in de levenscyclus of in het systeem (ronde 7).
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 7
 - **hangt_samen_met:** Geboortelied; Gezondheid
 - **verwijst_naar:** CUL-gezin-wonen;MODE-vrouwen-basis;RIT-kinkschaal;VOOR-lichaam
@@ -3140,11 +3140,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-stille-kind-Z50
 - **feit_schoon:** Wie: Moeder en moederhuis bij de dood van een kind. Plek: Binnenhof. Regels: Geen zaad, geen ontvangst gedurende 40 dagen. Stappen: Grijze sjerp; het belletje (bij een jongen) of de naam begraven onder de vijgenboom; zang. Effect: Moeder wordt een tijd “gesloten”; huis rouwt mee. Kink-schaal: 2. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -3159,8 +3159,8 @@
 - **waarom:** Vult een gat in de levenscyclus of in het systeem (ronde 7).
 - **status:** voorlopig
 - **ronde:** 7
-- **hangt_samen_met:** Orde; Cultuur
-- **verwijst_naar:** MODE-vrouwen-basis;ORDE-orde;RIT-kinkschaal;VOOR-oudere-vrouw
+- **hangt_samen_met:** Orde;Cultuur
+- **verwijst_naar:** MODE-vrouwen-basis;ORDE-orde;RIT-kinkschaal;VOOR-oudere-vrouw-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3187,10 +3187,10 @@
 - **onderwerp:** De Halsbandoverdracht
 - **wat:** Wie: Een gewone man, zijn oude en nieuwe eigenares, Registratrix. Plek: Zaadbeurs of moederhuis. Regels: Stil; de man mag een laatste nacht met wie hij wil (vaak de oude eigenares). Stappen: Laatste nacht; halsband wordt doorgeknipt en nieuwe omgedaan; registratie. Effect: Geen kracht; behoud van zijn band met oude kinderen in het register. Kink-schaal: 2. Alle deelnemers 18+.
 - **waarom:** Vult een gat in de levenscyclus of in het systeem (ronde 7). [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 7
-- **hangt_samen_met:** Gewone mannen; Bram
-- **verwijst_naar:** CUL-gezin-wonen;MACHT-gewone-mannen;PER-gewone-mannen;REGEL-registers-merken;RIT-kinkschaal;VOOR-onderdanige-man;VOOR-afscheid
+- **hangt_samen_met:** Gewone mannen; Bram;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** CUL-gezin-wonen;MACHT-gewone-mannen;PER-gewone-mannen;REGEL-registers-merken;RIT-kinkschaal;VOOR-onderdanige-man;VOOR-afscheid;GEB-Z45-losbandige-jaren;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3200,11 +3200,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-halsbandoverdracht-Z50
 - **feit_schoon:** Wie: Een gewone man, zijn oude en nieuwe eigenares, Registratrix. Plek: Zaadbeurs of moederhuis. Regels: Stil; de man mag een laatste nacht met wie hij wil (vaak de oude eigenares). Stappen: Laatste nacht; halsband wordt doorgeknipt en nieuwe omgedaan; registratie. Effect: Geen kracht; behoud van zijn band met oude kinderen in het register. Kink-schaal: 2. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -3217,10 +3217,10 @@
 - **onderwerp:** De Zegelnacht van het Volk
 - **wat:** Wie: Iedereen (18+), jaarlijks. Plek: Bij elke zegelsteen. Regels: Publiek gevierd als dankfeest; in werkelijkheid de grootste voeding van de zegel. Stappen: Samen ontvangen bij de stenen; gezamenlijke zang; zegellicht vlamt. Effect: Geen kracht (gaat naar de zegel); veel rang. Kink-schaal: 3. Alle deelnemers 18+.
 - **waarom:** Vult een gat in de levenscyclus of in het systeem (ronde 7). [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 7
-- **hangt_samen_met:** HET GEHEIM; Zegelvoeding
-- **verwijst_naar:** BESLUIT-Z30-2;RIT-kinkschaal;SFEER-zegellicht;VOOR-groep;VOOR-ritueel;TECHNO-zegelsteen
+- **hangt_samen_met:** HET GEHEIM; Zegelvoeding;LOT-Z44-zegellicht;LOT-Z44-sterrensteen;FASE-ontvangst
+- **verwijst_naar:** BESLUIT-Z30-2;RIT-kinkschaal;SFEER-zegellicht;VOOR-groep;VOOR-ritueel;TECHNO-zegelsteen;LOT-Z44-zegellicht;LOT-Z44-sterrensteen;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3230,11 +3230,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** zegelsteen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-zegelnacht-volk-Z50
 - **feit_schoon:** Wie: Iedereen (18+), jaarlijks. Plek: Bij elke zegelsteen. Regels: Publiek gevierd als dankfeest; in werkelijkheid de grootste voeding van de zegel. Stappen: Samen ontvangen bij de stenen; gezamenlijke zang; zegellicht vlamt. Effect: Geen kracht (gaat naar de zegel); veel rang. Kink-schaal: 3. Alle deelnemers 18+.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -3250,7 +3250,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Ontvangst
-- **verwijst_naar:** ECO-geld;BESLUIT-Z30-2;MACHT-gaven-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-ontvangst;RIT-wijding;RITE-ontvangst
+- **verwijst_naar:** ECO-geld;BESLUIT-Z30-2;MACHT-gaven-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-ontvangst-Z50;RIT-wijding;RITE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3310,7 +3310,7 @@
 - **status:** voorlopig
 - **ronde:** 7
 - **hangt_samen_met:** De Strijdontvangst
-- **verwijst_naar:** KINK-strijdontvangst;MACHT-gaven-mannen;MACHT-leger;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-strijdontvangst
+- **verwijst_naar:** KINK-strijdontvangst;MACHT-gaven-mannen;MACHT-leger;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-strijdontvangst-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3340,7 +3340,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Veiling
-- **verwijst_naar:** ECO-wat-wordt-verhandeld;HUI-varenne;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-veiling
+- **verwijst_naar:** ECO-wat-wordt-verhandeld;HUI-varenne;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-veiling-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3370,7 +3370,7 @@
 - **status:** voorlopig
 - **ronde:** 7
 - **hangt_samen_met:** De Zwijgende Rit
-- **verwijst_naar:** KINK-zwijgende-rit;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REG-groenmuil;REGEL-registers-merken;RIT-zwijgende-rit
+- **verwijst_naar:** KINK-zwijgende-rit;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REG-groenmuil;REGEL-registers-merken;RIT-zwijgende-rit-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3430,7 +3430,7 @@
 - **status:** voorlopig
 - **ronde:** 7
 - **hangt_samen_met:** De Melkrite
-- **verwijst_naar:** ECO-wat-wordt-verhandeld;KINK-melkrite;MACHT-gewone-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-melkrite
+- **verwijst_naar:** ECO-wat-wordt-verhandeld;KINK-melkrite;MACHT-gewone-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-melkrite-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3460,7 +3460,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Gunstnacht
-- **verwijst_naar:** MACHT-gaven-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-gunstnacht
+- **verwijst_naar:** MACHT-gaven-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-gunstnacht-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3490,7 +3490,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Maanzalving
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-maanzalving
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-maanzalving-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3520,7 +3520,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** Het Duel om een Man
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-duel-man
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-duel-man-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3550,7 +3550,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** Rolwisseling
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-rolwisseling
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-rolwisseling-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3580,7 +3580,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** Boeterite
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-boeterite
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-boeterite-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3610,7 +3610,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** Het Geboortelied
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REGEL-registers-merken;RIT-geboortelied
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REGEL-registers-merken;RIT-geboortelied-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3640,7 +3640,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Melkzegen
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-melkzegen
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-melkzegen-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3670,7 +3670,7 @@
 - **status:** voorlopig
 - **ronde:** 7
 - **hangt_samen_met:** Het Laatste Bed
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-laatste-bed
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-laatste-bed-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3700,7 +3700,7 @@
 - **status:** voorlopig
 - **ronde:** 7
 - **hangt_samen_met:** Het Zaadcontract
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-zaadcontract
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-zaadcontract-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3730,7 +3730,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** Het Tribunaal van Drie
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REGEL-registers-merken;RIT-tribunaal-drie
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REGEL-registers-merken;RIT-tribunaal-drie-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3760,7 +3760,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Reizigersgroet
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REGEL-registers-merken;RIT-reizigersgroet
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REGEL-registers-merken;RIT-reizigersgroet-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3790,7 +3790,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Zegelvoeding
-- **verwijst_naar:** BESLUIT-Z30-2;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-zegelvoeding
+- **verwijst_naar:** BESLUIT-Z30-2;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-zegelvoeding-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3820,7 +3820,7 @@
 - **status:** voorlopig
 - **ronde:** 7
 - **hangt_samen_met:** De Nacht der Duizend Lampen
-- **verwijst_naar:** BESLUIT-Z30-2;KINK-nacht-duizend-lampen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-nacht-duizend-lampen
+- **verwijst_naar:** BESLUIT-Z30-2;KINK-nacht-duizend-lampen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-nacht-duizend-lampen-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3850,7 +3850,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** Het Oogstbed
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-oogstbed
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-oogstbed-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3880,7 +3880,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Pelgrimszalving
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-pelgrimszalving
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-pelgrimszalving-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3910,7 +3910,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Ketenwake
-- **verwijst_naar:** MACHT-gaven-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-ketenwake
+- **verwijst_naar:** MACHT-gaven-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-ketenwake-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3940,7 +3940,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Overdracht
-- **verwijst_naar:** MACHT-gaven-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-overdracht
+- **verwijst_naar:** MACHT-gaven-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-overdracht-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3970,7 +3970,7 @@
 - **status:** voorlopig
 - **ronde:** 7
 - **hangt_samen_met:** De Bloedverbinding
-- **verwijst_naar:** BESLUIT-Z30-2;MACHT-leger;MAGIE-verslaving;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;PER-morvane;REG-saelith;RIT-bloedverbinding;STAD-lisk
+- **verwijst_naar:** BESLUIT-Z30-2;MACHT-leger;MAGIE-verslaving;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;PER-morvane;REG-saelith;RIT-bloedverbinding-Z50;STAD-lisk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4000,7 +4000,7 @@
 - **status:** voorlopig
 - **ronde:** 7
 - **hangt_samen_met:** De Doorgang der Duizend Handen
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-doorgang-duizend-handen
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-doorgang-duizend-handen-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4060,7 +4060,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Leegtewake
-- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-kracht-duur;MAGIE-verslaving;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-leegtewake
+- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-kracht-duur;MAGIE-verslaving;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-leegtewake-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4090,7 +4090,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** Het Schandpodium
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-schandpodium
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-schandpodium-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4120,7 +4120,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Halsbandwissel
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-halsbandwissel
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-halsbandwissel-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4150,7 +4150,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Vuurgloed
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;PER-khaled;REG-rosse;RIT-vuurgloed;STAD-qesh
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;PER-khaled;REG-rosse;RIT-vuurgloed-Z50;STAD-qesh
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4180,7 +4180,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Stormontlading
-- **verwijst_naar:** MACHT-gaven-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;PER-aeron;RIT-stormontlading
+- **verwijst_naar:** MACHT-gaven-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;PER-aeron;RIT-stormontlading-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4240,7 +4240,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Gemaskerde Veiling
-- **verwijst_naar:** ECO-wat-wordt-verhandeld;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REG-zoutkust;RIT-gemaskerde-veiling;RIT-veiling;STAD-brakhaven
+- **verwijst_naar:** ECO-wat-wordt-verhandeld;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REG-zoutkust;RIT-gemaskerde-veiling-Z50;RIT-veiling-Z50;STAD-brakhaven
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4270,7 +4270,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Gletsjerproef
-- **verwijst_naar:** MACHT-leger;MODE-vrouwen-basis;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-gletsjerproef
+- **verwijst_naar:** MACHT-leger;MODE-vrouwen-basis;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-gletsjerproef-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4300,7 +4300,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Kettingstoet
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-kettingstoet
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-kettingstoet-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4360,7 +4360,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Spiegelnacht
-- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gaven-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REG-groenmuil;RIT-spiegelnacht;STAD-tuaro
+- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gaven-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REG-groenmuil;RIT-spiegelnacht-Z50;STAD-tuaro
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4390,7 +4390,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Tweegelofte
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-tweegelofte
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-tweegelofte-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4420,7 +4420,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** Het Afscheid van de Uitverkorene
-- **verwijst_naar:** MACHT-gaven-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REG-stille;REGEL-registers-merken;RIT-afscheid-uitverkorene
+- **verwijst_naar:** MACHT-gaven-mannen;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REG-stille;REGEL-registers-merken;RIT-afscheid-uitverkorene-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4450,7 +4450,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Verzoening
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-verzoening
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-verzoening-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4480,7 +4480,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** Het Stille Kind
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-stille-kind
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-stille-kind-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4540,7 +4540,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Halsbandoverdracht
-- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REGEL-registers-merken;RIT-halsbandoverdracht
+- **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REGEL-registers-merken;RIT-halsbandoverdracht-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4570,7 +4570,7 @@
 - **status:** vastgesteld
 - **ronde:** 7
 - **hangt_samen_met:** De Zegelnacht van het Volk
-- **verwijst_naar:** BESLUIT-Z30-2;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-zegelnacht-volk
+- **verwijst_naar:** BESLUIT-Z30-2;ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;RIT-zegelnacht-volk-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4599,8 +4599,8 @@
 - **waarom:** Toont hoe rituelen op elkaar voortbouwen.
 - **status:** voorlopig
 - **ronde:** 7
-- **hangt_samen_met:** Rituelen; Extreme rituelen
-- **verwijst_naar:** BESLUIT-Z30-2;KINK-nacht-duizend-lampen;KINK-zwijgende-rit;MACHT-gewone-mannen;MAGIE-kracht-duur;MODE-vrouwen-basis;RIT-boeterite
+- **hangt_samen_met:** Rituelen;Extreme rituelen
+- **verwijst_naar:** BESLUIT-Z30-2;KINK-nacht-duizend-lampen;KINK-zwijgende-rit;MACHT-gewone-mannen;MAGIE-kracht-duur;MODE-vrouwen-basis;RIT-boeterite-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4629,7 +4629,7 @@
 - **waarom:** Rogier: heersers halen er ook liefde uit. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-doel-geloof), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 7
-- **hangt_samen_met:** Personages; Rituelen
+- **hangt_samen_met:** Personages;Rituelen
 - **verwijst_naar:** MACHT-gaven-mannen;MACHT-gewone-mannen;MAGIE-verslaving;ORDE-doel-geloof;PER-aeron;PER-liora-Z6-Z32;RIT-ontzegging-binding
 - **jaar:** 
 - **tijdperk:** 
@@ -4659,8 +4659,8 @@
 - **waarom:** Rituelen dragen het geloof over in lichaam en herinnering.
 - **status:** voorlopig
 - **ronde:** 7
-- **hangt_samen_met:** Religie; Cultuur
-- **verwijst_naar:** CUL-gezin-wonen;BESLUIT-Z30-2;MODE-vrouwen-basis;ORDE-doel-geloof;ORDE-orde;RIT-overdracht;RIT-wijding;SFEER-zegellicht
+- **hangt_samen_met:** Religie;Cultuur
+- **verwijst_naar:** CUL-gezin-wonen;BESLUIT-Z30-2;MODE-vrouwen-basis;ORDE-doel-geloof;ORDE-orde;RIT-overdracht-Z50;RIT-wijding;SFEER-zegellicht
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -4747,10 +4747,10 @@
 - **onderwerp:** Nacht van de Rekening (verlengd): uren ontzegging, dan geheugenruil
 - **wat:** Ritueel van de Aelthir, vorm van hun extreme kern (zie SEKS-VOLK-aelthir-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **waarom:** Ronde 17: ritueel per volk [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar SEKS-VOLK-aelthir-kern;VOLK-aelthir-V5), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-aelthir-kern;VOLK-aelthir
-- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOLK-aelthir-V5
+- **hangt_samen_met:** SEKS-VOLK-aelthir-kern;VOLK-aelthir;LOT-Z44-aelthir;FASE-voortijd
+- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOLK-aelthir-V5;LOT-Z44-aelthir;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4760,11 +4760,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-volk-aelthir-Z50
 - **feit_schoon:** Ritueel van de Aelthir, vorm van hun extreme kern (zie SEKS-VOLK-aelthir-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -4777,10 +4777,10 @@
 - **onderwerp:** Vuurkamp-ontlading na het gevecht
 - **wat:** Ritueel van de Karrûk, vorm van hun extreme kern (zie SEKS-VOLK-karruk-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **waarom:** Ronde 17: ritueel per volk [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar SEKS-VOLK-karruk-kern), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-karruk-kern;VOLK-karrûk
-- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOLK-karrûk-Z6-Z38;TECHNO-gave
+- **hangt_samen_met:** SEKS-VOLK-karruk-kern;VOLK-karrûk;LOT-Z44-karruk-storm;FASE-brand-Z38
+- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOLK-karrûk-Z6-Z38;TECHNO-gave;LOT-Z44-karruk-storm;FASE-brand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4790,11 +4790,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** gave
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-volk-karruk-Z50
 - **feit_schoon:** Ritueel van de Karrûk, vorm van hun extreme kern (zie SEKS-VOLK-karruk-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -4807,10 +4807,10 @@
 - **onderwerp:** Gildeverzegeling in de schacht
 - **wat:** Ritueel van de Dhurn, vorm van hun extreme kern (zie SEKS-VOLK-dhurn-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **waarom:** Ronde 17: ritueel per volk [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-dhurn), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-dhurn-kern;VOLK-dhurn
-- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOLK-dhurn
+- **hangt_samen_met:** SEKS-VOLK-dhurn-kern;VOLK-dhurn;LOT-Z44-dhurn;FASE-vonk
+- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOLK-dhurn;LOT-Z44-dhurn;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4820,11 +4820,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-volk-dhurn-Z50
 - **feit_schoon:** Ritueel van de Dhurn, vorm van hun extreme kern (zie SEKS-VOLK-dhurn-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -4837,10 +4837,10 @@
 - **onderwerp:** Springtij-verdrinkingsnacht
 - **wat:** Ritueel van de Sael-mor, vorm van hun extreme kern (zie SEKS-VOLK-saelmor-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **waarom:** Ronde 17: ritueel per volk [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar SEKS-VOLK-saelmor-kern;VOLK-sael-mor), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-saelmor-kern;VOLK-sael-mor
-- **verwijst_naar:** SEKS-VOLK-saelmor-kern;VOLK-sael-mor
+- **hangt_samen_met:** SEKS-VOLK-saelmor-kern;VOLK-sael-mor;LOT-Z44-sael-mor;FASE-brand-Z38
+- **verwijst_naar:** SEKS-VOLK-saelmor-kern;VOLK-sael-mor;LOT-Z44-sael-mor;FASE-brand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4850,11 +4850,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-volk-saelmor-Z50
 - **feit_schoon:** Ritueel van de Sael-mor, vorm van hun extreme kern (zie SEKS-VOLK-saelmor-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -4867,10 +4867,10 @@
 - **onderwerp:** Volle Ontsluiering
 - **wat:** Ritueel van de Grauwen, vorm van hun extreme kern (zie SEKS-VOLK-grauwen-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **waarom:** Ronde 17: ritueel per volk [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-grauwen), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-grauwen-kern;VOLK-grauwen
-- **verwijst_naar:** SEKS-VOLK-grauwen-kern;VOLK-grauwen
+- **hangt_samen_met:** SEKS-VOLK-grauwen-kern;VOLK-grauwen;LOT-Z44-grauwen;FASE-noodtoestand-Z38
+- **verwijst_naar:** SEKS-VOLK-grauwen-kern;VOLK-grauwen;LOT-Z44-grauwen;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4880,11 +4880,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-volk-grauwen-Z50
 - **feit_schoon:** Ritueel van de Grauwen, vorm van hun extreme kern (zie SEKS-VOLK-grauwen-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -4897,10 +4897,10 @@
 - **onderwerp:** Geloftebrand
 - **wat:** Ritueel van de Ishvar, vorm van hun extreme kern (zie SEKS-VOLK-ishvar-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **waarom:** Ronde 17: ritueel per volk [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-ishvar), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-ishvar-kern;VOLK-ishvar
-- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOLK-ishvar
+- **hangt_samen_met:** SEKS-VOLK-ishvar-kern;VOLK-ishvar;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOLK-ishvar;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4910,11 +4910,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-volk-ishvar-Z50
 - **feit_schoon:** Ritueel van de Ishvar, vorm van hun extreme kern (zie SEKS-VOLK-ishvar-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -4927,10 +4927,10 @@
 - **onderwerp:** Koortsontvangst bij lekpiek
 - **wat:** Ritueel van de Vathren, vorm van hun extreme kern (zie SEKS-VOLK-vathren-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **waarom:** Ronde 17: ritueel per volk
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-vathren-kern;VOLK-vathren
-- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOLK-vathren-Z6
+- **hangt_samen_met:** SEKS-VOLK-vathren-kern;VOLK-vathren;LOT-Z44-vathren;FASE-noodtoestand-Z38
+- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOLK-vathren-Z6;LOT-Z44-vathren;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4940,11 +4940,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-volk-vathren-Z50
 - **feit_schoon:** Ritueel van de Vathren, vorm van hun extreme kern (zie SEKS-VOLK-vathren-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -4957,10 +4957,10 @@
 - **onderwerp:** Korfopname: een mens drie nachten in de korfgeur
 - **wat:** Ritueel van de Kluwers, vorm van hun extreme kern (zie SEKS-VOLK-kluwer-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **waarom:** Ronde 17: ritueel per volk
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-kluwer-kern;VOLK-kluwer
-- **verwijst_naar:** SEKS-VOLK-kluwer-kern;VOLK-kluwer
+- **hangt_samen_met:** SEKS-VOLK-kluwer-kern;VOLK-kluwer;LOT-Z44-kluwers;FASE-brand-Z38
+- **verwijst_naar:** SEKS-VOLK-kluwer-kern;VOLK-kluwer;LOT-Z44-kluwers;FASE-brand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4970,11 +4970,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-volk-kluwer-Z50
 - **feit_schoon:** Ritueel van de Kluwers, vorm van hun extreme kern (zie SEKS-VOLK-kluwer-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -4987,10 +4987,10 @@
 - **onderwerp:** Rotbed van de Grote Draad
 - **wat:** Ritueel van de Myrrhen, vorm van hun extreme kern (zie SEKS-VOLK-myrrhen-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **waarom:** Ronde 17: ritueel per volk
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-myrrhen-kern;VOLK-myrrhen
-- **verwijst_naar:** SEKS-VOLK-myrrhen-kern;VOLK-myrrhen-Z6
+- **hangt_samen_met:** SEKS-VOLK-myrrhen-kern;VOLK-myrrhen;LOT-Z44-myrrhen;FASE-markt
+- **verwijst_naar:** SEKS-VOLK-myrrhen-kern;VOLK-myrrhen-Z6;LOT-Z44-myrrhen;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -5000,11 +5000,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-volk-myrrhen-Z50
 - **feit_schoon:** Ritueel van de Myrrhen, vorm van hun extreme kern (zie SEKS-VOLK-myrrhen-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -5017,10 +5017,10 @@
 - **onderwerp:** Paaitij in de grote poel
 - **wat:** Ritueel van de Oevrin, vorm van hun extreme kern (zie SEKS-VOLK-oevrin-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **waarom:** Ronde 17: ritueel per volk
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-oevrin-kern;VOLK-oevrin
-- **verwijst_naar:** SEKS-VOLK-oevrin-kern;VOLK-oevrin
+- **hangt_samen_met:** SEKS-VOLK-oevrin-kern;VOLK-oevrin;LOT-Z44-oevrin;FASE-voortijd
+- **verwijst_naar:** SEKS-VOLK-oevrin-kern;VOLK-oevrin;LOT-Z44-oevrin;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -5030,11 +5030,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-volk-oevrin-Z50
 - **feit_schoon:** Ritueel van de Oevrin, vorm van hun extreme kern (zie SEKS-VOLK-oevrin-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -5047,10 +5047,10 @@
 - **onderwerp:** Dijknacht: de Tharn kiest een mens als gunst
 - **wat:** Ritueel van de Tharn, vorm van hun extreme kern (zie SEKS-VOLK-tharn-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **waarom:** Ronde 17: ritueel per volk
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-tharn-kern;VOLK-tharn
-- **verwijst_naar:** SEKS-VOLK-tharn-kern;VOLK-tharn
+- **hangt_samen_met:** SEKS-VOLK-tharn-kern;VOLK-tharn;LOT-Z44-tharn;FASE-voortijd
+- **verwijst_naar:** SEKS-VOLK-tharn-kern;VOLK-tharn;LOT-Z44-tharn;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -5060,11 +5060,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-volk-tharn-Z50
 - **feit_schoon:** Ritueel van de Tharn, vorm van hun extreme kern (zie SEKS-VOLK-tharn-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -5077,10 +5077,10 @@
 - **onderwerp:** Slijpvonnis en Beeldnacht
 - **wat:** Ritueel van de Orrim, vorm van hun extreme kern (zie SEKS-VOLK-orrim-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **waarom:** Ronde 17: ritueel per volk
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-orrim-kern;VOLK-orrim
-- **verwijst_naar:** SEKS-VOLK-orrim-kern;VOLK-orrim
+- **hangt_samen_met:** SEKS-VOLK-orrim-kern;VOLK-orrim;LOT-Z44-orrim;FASE-overvloed
+- **verwijst_naar:** SEKS-VOLK-orrim-kern;VOLK-orrim;LOT-Z44-orrim;FASE-overvloed
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -5090,11 +5090,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-volk-orrim-Z50
 - **feit_schoon:** Ritueel van de Orrim, vorm van hun extreme kern (zie SEKS-VOLK-orrim-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -5107,10 +5107,10 @@
 - **onderwerp:** De Eerste Val (paarvlucht na de 18e verjaardag)
 - **wat:** Ritueel van de Skerra, vorm van hun extreme kern (zie SEKS-VOLK-skerra-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **waarom:** Ronde 17: ritueel per volk
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-skerra-kern;VOLK-skerra
-- **verwijst_naar:** SEKS-VOLK-skerra-kern;VOLK-skerra
+- **hangt_samen_met:** SEKS-VOLK-skerra-kern;VOLK-skerra;LOT-Z44-skerra;FASE-vonk
+- **verwijst_naar:** SEKS-VOLK-skerra-kern;VOLK-skerra;LOT-Z44-skerra;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -5120,11 +5120,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-volk-skerra-Z50
 - **feit_schoon:** Ritueel van de Skerra, vorm van hun extreme kern (zie SEKS-VOLK-skerra-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -5137,10 +5137,10 @@
 - **onderwerp:** Spiegelnacht
 - **wat:** Ritueel van de Ves-Lethi, vorm van hun extreme kern (zie SEKS-VOLK-ves-lethi-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **waarom:** Ronde 17: ritueel per volk
-- **status:** voorlopig
+- **status:** voorlopig, vervangen
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-ves-lethi-kern;VOLK-ves-lethi
-- **verwijst_naar:** SEKS-VOLK-ves-lethi-kern;VOLK-ves-lethi-Z6
+- **hangt_samen_met:** SEKS-VOLK-ves-lethi-kern;VOLK-ves-lethi;LOT-Z44-ves-lethi;FASE-brand-Z38
+- **verwijst_naar:** SEKS-VOLK-ves-lethi-kern;VOLK-ves-lethi-Z6;LOT-Z44-ves-lethi;FASE-brand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -5150,11 +5150,11 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** geen
-- **draagkracht:** Structuur
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** RIT-volk-ves-lethi-Z50
 - **feit_schoon:** Ritueel van de Ves-Lethi, vorm van hun extreme kern (zie SEKS-VOLK-ves-lethi-kern). Wie: alleen volwassenen (18+) die vooraf instemmen, met een hoedster die stopt. Systeemfunctie: houdt de functie van het volk in stand (band, rang of voortplanting). Kink-schaal 5. Alles tussen volwassen (18+), sprekende, instemmende wezens; geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -5319,8 +5319,8 @@
 - **waarom:** Ronde Z2: zintuiglijke verdieping Kinks en situaties
 - **status:** voorlopig
 - **ronde:** 31
-- **hangt_samen_met:** KINK-binding-losmaken;VOOR-bondage
-- **verwijst_naar:** KINK-binding-losmaken;VOOR-bondage
+- **hangt_samen_met:** KINK-binding-losmaken;VOOR-bondage-Z50
+- **verwijst_naar:** KINK-binding-losmaken;VOOR-bondage-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -5469,8 +5469,8 @@
 - **waarom:** Ronde Z2: zintuiglijke verdieping Kinks en situaties
 - **status:** voorlopig
 - **ronde:** 31
-- **hangt_samen_met:** KINK-publieke-ontvangst;VOOR-exhibitionisme;SYS-ontvangst
-- **verwijst_naar:** KINK-publieke-ontvangst;VOOR-exhibitionisme;SYS-ontvangst
+- **hangt_samen_met:** KINK-publieke-ontvangst;VOOR-exhibitionisme-Z50;SYS-ontvangst
+- **verwijst_naar:** KINK-publieke-ontvangst;VOOR-exhibitionisme-Z50;SYS-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -5529,8 +5529,8 @@
 - **waarom:** Ronde Z2: zintuiglijke verdieping Kinks en situaties
 - **status:** voorlopig
 - **ronde:** 31
-- **hangt_samen_met:** KINK-sjerp-signalen;VOOR-voyeurisme
-- **verwijst_naar:** KINK-sjerp-signalen;VOOR-voyeurisme
+- **hangt_samen_met:** KINK-sjerp-signalen;VOOR-voyeurisme-Z50
+- **verwijst_naar:** KINK-sjerp-signalen;VOOR-voyeurisme-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -6909,8 +6909,8 @@
 - **waarom:** Ronde Z4: bijgeschreven, vervangt ZINT-Z3-extreem-2
 - **status:** voorlopig
 - **ronde:** 33
-- **hangt_samen_met:** RIT-strijdontvangst;ZINT-Z3-extreem-2
-- **verwijst_naar:** RIT-strijdontvangst;ZINT-Z4-extreem-2-b
+- **hangt_samen_met:** RIT-strijdontvangst-Z50;ZINT-Z3-extreem-2
+- **verwijst_naar:** RIT-strijdontvangst-Z50;ZINT-Z4-extreem-2-b
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -7089,8 +7089,8 @@
 - **waarom:** Ronde Z5: bijgeschreven tot Z1-niveau, vervangt ZINT-Z3-rituelen-6
 - **status:** voorlopig
 - **ronde:** 34
-- **hangt_samen_met:** VOOR-groep;ZINT-Z3-rituelen-6
-- **verwijst_naar:** VOOR-groep;ZINT-Z3-rituelen-6-Z5b
+- **hangt_samen_met:** VOOR-groep-Z50;ZINT-Z3-rituelen-6
+- **verwijst_naar:** VOOR-groep-Z50;ZINT-Z3-rituelen-6-Z5b
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10389,7 +10389,7 @@
 - **waarom:** Ronde Z8: verleidingslaag (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** EROS-GRENZEN-Z7;BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-GRENZEN-Z7;BESLUIT-Z7-BINDING
 - **verwijst_naar:** EROS-GRENZEN-Z7;BESLUIT-Z7-BINDING
 - **jaar:** 
 - **tijdperk:** 
@@ -10447,10 +10447,10 @@
 - **onderwerp:** Kink: Fisting: de Volle Hand
 - **wat:** Wat in Velmara: de hand als volledige overgave; bij de Myrrhen een vertrouwensrite. Wie (volwassen): Myrrhen, Saelith-vormhuizen. Afspraak/stopwoord: schimmelolie, langzaam tellen, stopwoord van het volk. Zintuig: warme olie, druk, adem die meetelt. Risico en prijs: scheuren bij haast; vormers verkopen rekzalf. Haak: een Myrrhen-priesteres weet waar het Zegel in je zit. Techniek: bio. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-myrrhen;EROS-STOP-Z7-myrrhen;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-myrrhen-Z6;EROS-STOP-Z7-myrrhen;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-myrrhen;EROS-STOP-Z7-myrrhen;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-myrrhen-Z6;EROS-STOP-Z7-myrrhen;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10464,7 +10464,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-1-Z50
 - **feit_schoon:** Wat in Velmara: de hand als volledige overgave; bij de Myrrhen een vertrouwensrite. Wie (volwassen): Myrrhen, Saelith-vormhuizen. Afspraak/stopwoord: schimmelolie, langzaam tellen, stopwoord van het volk. Zintuig: warme olie, druk, adem die meetelt. Risico en prijs: scheuren bij haast; vormers verkopen rekzalf. Haak: een Myrrhen-priesteres weet waar het Zegel in je zit. Techniek: bio.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10477,10 +10477,10 @@
 - **onderwerp:** Kink: Fisting met gloeiende hand
 - **wat:** Wat in Velmara: Ishvar-hand die van binnen verwarmt. Wie (volwassen): Ishvar-minnaars. Afspraak/stopwoord: alleen met dimmende gloed, woord 'as'. Zintuig: hitte, licht door de buik. Risico en prijs: brandwonden van binnen. Haak: Liora's koude handen zijn het omgekeerde. Techniek: gave. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7;VOLK-ishvar), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-ishvar;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-ishvar;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-ishvar;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** VOLK-ishvar;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10494,7 +10494,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-2-Z50
 - **feit_schoon:** Wat in Velmara: Ishvar-hand die van binnen verwarmt. Wie (volwassen): Ishvar-minnaars. Afspraak/stopwoord: alleen met dimmende gloed, woord 'as'. Zintuig: hitte, licht door de buik. Risico en prijs: brandwonden van binnen. Haak: Liora's koude handen zijn het omgekeerde. Techniek: gave.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10507,10 +10507,10 @@
 - **onderwerp:** Kink: Fisting als zaadritueel
 - **wat:** Wat in Velmara: diep inbrengen van gaven-zaad met de hand voor maximale kracht. Wie (volwassen): priesteressen van de ontvangst. Afspraak/stopwoord: de ontvangsttafel, gebed. Zintuig: zout, zaad, kaarsvet. Risico en prijs: overdosis kracht en dubbele Leegte. Haak: de Orde verbiedt het; daarom gebeurt het. Techniek: gave. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7
-- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7
+- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10524,7 +10524,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-3-Z50
 - **feit_schoon:** Wat in Velmara: diep inbrengen van gaven-zaad met de hand voor maximale kracht. Wie (volwassen): priesteressen van de ontvangst. Afspraak/stopwoord: de ontvangsttafel, gebed. Zintuig: zout, zaad, kaarsvet. Risico en prijs: overdosis kracht en dubbele Leegte. Haak: de Orde verbiedt het; daarom gebeurt het. Techniek: gave.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10537,10 +10537,10 @@
 - **onderwerp:** Kink: Rekspel met kweekvlees
 - **wat:** Wat in Velmara: geleidelijk oprekken met ademend kweekvlees. Wie (volwassen): vormhuizen. Afspraak/stopwoord: dagelijkse maat, getuige. Zintuig: warm, levend, pulserend. Risico en prijs: het vlees kan zich vasthechten. Haak: een plug die een naam fluistert. Techniek: bio. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** BODY-Z8-31;EROS-GRENZEN-Z7
-- **verwijst_naar:** BODY-Z8-31-L10;EROS-GRENZEN-Z7
+- **hangt_samen_met:** BODY-Z8-31;EROS-GRENZEN-Z7;LOT-Z44-leegtewormen;FASE-overvloed
+- **verwijst_naar:** BODY-Z8-31-L10;EROS-GRENZEN-Z7;LOT-Z44-leegtewormen;FASE-overvloed
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10554,7 +10554,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-4-Z50
 - **feit_schoon:** Wat in Velmara: geleidelijk oprekken met ademend kweekvlees. Wie (volwassen): vormhuizen. Afspraak/stopwoord: dagelijkse maat, getuige. Zintuig: warm, levend, pulserend. Risico en prijs: het vlees kan zich vasthechten. Haak: een plug die een naam fluistert. Techniek: bio.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10567,10 +10567,10 @@
 - **onderwerp:** Kink: Zwarte glanshuid (latex)
 - **wat:** Wat in Velmara: gekweekte zegelhars-huid, strak, glanzend, ruikt naar hars en zweet. Wie (volwassen): Saelith, Orde-agentes. Afspraak/stopwoord: aantrekken met olie; uittrekken voor de derde nacht. Zintuig: piepen bij beweging, warmte, glans. Risico en prijs: hitte-ziekte; hij kan vastgroeien. Haak: een agente die hem nooit meer uit krijgt. Techniek: bio. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** BODY-Z8-45;EROS-GRENZEN-Z7
-- **verwijst_naar:** BODY-Z8-45-L10;EROS-GRENZEN-Z7
+- **hangt_samen_met:** BODY-Z8-45;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** BODY-Z8-45-L10;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10584,7 +10584,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-5-Z50
 - **feit_schoon:** Wat in Velmara: gekweekte zegelhars-huid, strak, glanzend, ruikt naar hars en zweet. Wie (volwassen): Saelith, Orde-agentes. Afspraak/stopwoord: aantrekken met olie; uittrekken voor de derde nacht. Zintuig: piepen bij beweging, warmte, glans. Risico en prijs: hitte-ziekte; hij kan vastgroeien. Haak: een agente die hem nooit meer uit krijgt. Techniek: bio.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10597,10 +10597,10 @@
 - **onderwerp:** Kink: Lak van de Dhurn
 - **wat:** Wat in Velmara: zwart ertslak op de huid gesmeerd, hard en spiegelend. Wie (volwassen): Dhurn. Afspraak/stopwoord: de lak breken is het stopteken. Zintuig: koud, metalen geur, krakend. Risico en prijs: huid kan niet ademen. Haak: in de lak spiegelt het verleden. Techniek: zegelsteen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7;VOLK-dhurn), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-dhurn;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-dhurn;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-dhurn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-dhurn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10614,7 +10614,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-6-Z50
 - **feit_schoon:** Wat in Velmara: zwart ertslak op de huid gesmeerd, hard en spiegelend. Wie (volwassen): Dhurn. Afspraak/stopwoord: de lak breken is het stopteken. Zintuig: koud, metalen geur, krakend. Risico en prijs: huid kan niet ademen. Haak: in de lak spiegelt het verleden. Techniek: zegelsteen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10627,10 +10627,10 @@
 - **onderwerp:** Kink: Glanspakken van de Wacht
 - **wat:** Wat in Velmara: rode lak-uniformen voor speciale eenheden, ook in bed. Wie (volwassen): Orde en Wacht. Afspraak/stopwoord: rang bepaalt wie de rits opent. Zintuig: geur van hars en leer. Risico en prijs: wie het pak draagt, is herkenbaar. Haak: een vals pak opent elke poort. Techniek: bio. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10644,7 +10644,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-7-Z50
 - **feit_schoon:** Wat in Velmara: rode lak-uniformen voor speciale eenheden, ook in bed. Wie (volwassen): Orde en Wacht. Afspraak/stopwoord: rang bepaalt wie de rits opent. Zintuig: geur van hars en leer. Risico en prijs: wie het pak draagt, is herkenbaar. Haak: een vals pak opent elke poort. Techniek: bio.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10657,10 +10657,10 @@
 - **onderwerp:** Kink: Latex-kap
 - **wat:** Wat in Velmara: kap van glanshuid, alleen ademgaten. Wie (volwassen): Orde-kelders, vormhuizen. Afspraak/stopwoord: drie tikken = stop. Zintuig: eigen adem, donker, geluid gedempt. Risico en prijs: ademnood. Haak: de kap houdt de geur van de vorige drager. Techniek: bio. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** KINK-Z8-5;EROS-GRENZEN-Z7
-- **verwijst_naar:** KINK-Z8-5;EROS-GRENZEN-Z7
+- **hangt_samen_met:** KINK-Z8-5;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** KINK-Z8-5;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10674,7 +10674,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-8-Z50
 - **feit_schoon:** Wat in Velmara: kap van glanshuid, alleen ademgaten. Wie (volwassen): Orde-kelders, vormhuizen. Afspraak/stopwoord: drie tikken = stop. Zintuig: eigen adem, donker, geluid gedempt. Risico en prijs: ademnood. Haak: de kap houdt de geur van de vorige drager. Techniek: bio.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10687,10 +10687,10 @@
 - **onderwerp:** Kink: Lakken laarzen tot de dij
 - **wat:** Wat in Velmara: statussymbool en fetisj in Saelith. Wie (volwassen): rijke vrouwen. Afspraak/stopwoord: laarzen kussen als groet. Zintuig: lakgeur, kraken, hakken op steen. Risico en prijs: slechte voeten. Haak: de laarzen van een Moeder zijn gestolen. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10704,7 +10704,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-9-Z50
 - **feit_schoon:** Wat in Velmara: statussymbool en fetisj in Saelith. Wie (volwassen): rijke vrouwen. Afspraak/stopwoord: laarzen kussen als groet. Zintuig: lakgeur, kraken, hakken op steen. Risico en prijs: slechte voeten. Haak: de laarzen van een Moeder zijn gestolen. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10717,10 +10717,10 @@
 - **onderwerp:** Kink: Glanshandschoenen
 - **wat:** Wat in Velmara: voor aanraken zonder huidcontact (taboe bij Aelthir). Wie (volwassen): Aelthir. Afspraak/stopwoord: handschoen uit = intimiteit. Zintuig: koel, glad. Risico en prijs: verraadt Aelthir-afkomst. Haak: Liora draagt ze om haar ijskoude handen te verbergen. Techniek: bio. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7;VOLK-aelthir-V5), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-aelthir;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-aelthir-V5;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-aelthir;EROS-GRENZEN-Z7;LOT-Z44-aelthir;FASE-voortijd
+- **verwijst_naar:** VOLK-aelthir-V5;EROS-GRENZEN-Z7;LOT-Z44-aelthir;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10734,7 +10734,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-10-Z50
 - **feit_schoon:** Wat in Velmara: voor aanraken zonder huidcontact (taboe bij Aelthir). Wie (volwassen): Aelthir. Afspraak/stopwoord: handschoen uit = intimiteit. Zintuig: koel, glad. Risico en prijs: verraadt Aelthir-afkomst. Haak: Liora draagt ze om haar ijskoude handen te verbergen. Techniek: bio.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10747,10 +10747,10 @@
 - **onderwerp:** Kink: Zegelhars-vacuüm
 - **wat:** Wat in Velmara: volledig omhullen in hars die uithardt. Wie (volwassen): vormhuizen. Afspraak/stopwoord: een snijlijn bij de mond. Zintuig: totale stilte, druk overal. Risico en prijs: verstikking. Haak: een gevangene in hars als kunstwerk. Techniek: zegelsteen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** KINK-Z8-5;EROS-GRENZEN-Z7
-- **verwijst_naar:** KINK-Z8-5;EROS-GRENZEN-Z7
+- **hangt_samen_met:** KINK-Z8-5;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** KINK-Z8-5;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10764,7 +10764,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-11-Z50
 - **feit_schoon:** Wat in Velmara: volledig omhullen in hars die uithardt. Wie (volwassen): vormhuizen. Afspraak/stopwoord: een snijlijn bij de mond. Zintuig: totale stilte, druk overal. Risico en prijs: verstikking. Haak: een gevangene in hars als kunstwerk. Techniek: zegelsteen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10777,10 +10777,10 @@
 - **onderwerp:** Kink: Touwen van de Zoutkust
 - **wat:** Wat in Velmara: natte scheepstouwen, knopen met namen. Wie (volwassen): zeelieden. Afspraak/stopwoord: 'zout' is stop; mes altijd binnen bereik. Zintuig: teer, nat touw, zout. Risico en prijs: zenuwschade. Haak: een knoop die alleen Jorrit kent. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BESLUIT-Z7-JORRIT;EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** EROS-STOP-Z7-mensen-zoutkust;BESLUIT-Z7-JORRIT;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-STOP-Z7-mensen-zoutkust;BESLUIT-Z7-JORRIT;EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-STOP-Z7-mensen-zoutkust;BESLUIT-Z7-JORRIT;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-STOP-Z7-mensen-zoutkust;BESLUIT-Z7-JORRIT;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10794,7 +10794,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-12-Z50
 - **feit_schoon:** Wat in Velmara: natte scheepstouwen, knopen met namen. Wie (volwassen): zeelieden. Afspraak/stopwoord: 'zout' is stop; mes altijd binnen bereik. Zintuig: teer, nat touw, zout. Risico en prijs: zenuwschade. Haak: een knoop die alleen Jorrit kent. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10807,10 +10807,10 @@
 - **onderwerp:** Kink: Hangen in het want
 - **wat:** Wat in Velmara: opgehangen in touwen aan een mast. Wie (volwassen): zeelieden. Afspraak/stopwoord: onder toezicht van twee. Zintuig: wind, deining, hoogte. Risico en prijs: vallen. Haak: vanaf de mast zie je de smokkelaars. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** REG-zoutkust;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-zoutkust;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10824,7 +10824,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-13-Z50
 - **feit_schoon:** Wat in Velmara: opgehangen in touwen aan een mast. Wie (volwassen): zeelieden. Afspraak/stopwoord: onder toezicht van twee. Zintuig: wind, deining, hoogte. Risico en prijs: vallen. Haak: vanaf de mast zie je de smokkelaars. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10839,8 +10839,8 @@
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7
-- **verwijst_naar:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7
+- **hangt_samen_met:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7;LOT-Z44-sterrensteen;LOT-Z44-gaven-mannen;FASE-noodtoestand-Z38
+- **verwijst_naar:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7;LOT-Z44-sterrensteen;LOT-Z44-gaven-mannen;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10867,10 +10867,10 @@
 - **onderwerp:** Kink: IJzeren boeien van de Dhurn
 - **wat:** Wat in Velmara: zwaar ijzer, warm gesmeed. Wie (volwassen): Dhurn. Afspraak/stopwoord: de smid houdt de sleutel. Zintuig: gewicht, metaalgeur. Risico en prijs: blauwe plekken. Haak: boeien met de naam van een overleden geliefde. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7;VOLK-dhurn), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-dhurn;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-dhurn;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-dhurn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-dhurn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10884,7 +10884,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-15-Z50
 - **feit_schoon:** Wat in Velmara: zwaar ijzer, warm gesmeed. Wie (volwassen): Dhurn. Afspraak/stopwoord: de smid houdt de sleutel. Zintuig: gewicht, metaalgeur. Risico en prijs: blauwe plekken. Haak: boeien met de naam van een overleden geliefde. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10897,10 +10897,10 @@
 - **onderwerp:** Kink: Slagwerk met de rietzweep
 - **wat:** Wat in Velmara: Saelith-strafinstrument dat lust werd. Wie (volwassen): huizen. Afspraak/stopwoord: tellen hardop. Zintuig: fluiten, striemen, warmte. Risico en prijs: bloed. Haak: strafzweep van een Moeder in een bordeel. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10914,7 +10914,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-16-Z50
 - **feit_schoon:** Wat in Velmara: Saelith-strafinstrument dat lust werd. Wie (volwassen): huizen. Afspraak/stopwoord: tellen hardop. Zintuig: fluiten, striemen, warmte. Risico en prijs: bloed. Haak: strafzweep van een Moeder in een bordeel. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10927,10 +10927,10 @@
 - **onderwerp:** Kink: Slagwerk met de hand
 - **wat:** Wat in Velmara: rauw, intiem, voor geliefden. Wie (volwassen): overal. Afspraak/stopwoord: rode huid = genoeg. Zintuig: klap, hitte. Risico en prijs: weinig. Haak: de klap verraadt wie linkshandig is. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10944,7 +10944,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-17-Z50
 - **feit_schoon:** Wat in Velmara: rauw, intiem, voor geliefden. Wie (volwassen): overal. Afspraak/stopwoord: rode huid = genoeg. Zintuig: klap, hitte. Risico en prijs: weinig. Haak: de klap verraadt wie linkshandig is. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10957,10 +10957,10 @@
 - **onderwerp:** Kink: Karrûk-littekenspel
 - **wat:** Wat in Velmara: snijden voor sierlittekens tijdens seks. Wie (volwassen): Karrûk. Afspraak/stopwoord: alleen met een getuige-oudste. Zintuig: bloed, ijzer, pijn. Risico en prijs: infectie. Haak: een litteken als kaart. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-karrûk;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-karrûk-Z6-Z38;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-karrûk;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -10974,7 +10974,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-18-Z50
 - **feit_schoon:** Wat in Velmara: snijden voor sierlittekens tijdens seks. Wie (volwassen): Karrûk. Afspraak/stopwoord: alleen met een getuige-oudste. Zintuig: bloed, ijzer, pijn. Risico en prijs: infectie. Haak: een litteken als kaart. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -10987,10 +10987,10 @@
 - **onderwerp:** Kink: Onderwerping in de rang
 - **wat:** Wat in Velmara: een vrouw van hoge rang wil bevolen worden. Wie (volwassen): Saelith-huizen. Afspraak/stopwoord: alleen in het donker, nooit erover praten. Zintuig: zachte bevelen, fluweel. Risico en prijs: schandaal. Haak: haar onderdaan wordt haar meester buiten bed. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11004,7 +11004,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-19-Z50
 - **feit_schoon:** Wat in Velmara: een vrouw van hoge rang wil bevolen worden. Wie (volwassen): Saelith-huizen. Afspraak/stopwoord: alleen in het donker, nooit erover praten. Zintuig: zachte bevelen, fluweel. Risico en prijs: schandaal. Haak: haar onderdaan wordt haar meester buiten bed. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11017,10 +11017,10 @@
 - **onderwerp:** Kink: Machtsruil man-vrouw
 - **wat:** Wat in Velmara: in een matriarchale wereld: de man beveelt voor één nacht. Wie (volwassen): rebelse paren. Afspraak/stopwoord: de vrouw kiest de nacht. Zintuig: omgekeerde rollen. Risico en prijs: de Orde noemt het opruiing. Haak: de Mannenraad gebruikt het als symbool. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11034,7 +11034,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-20-Z50
 - **feit_schoon:** Wat in Velmara: in een matriarchale wereld: de man beveelt voor één nacht. Wie (volwassen): rebelse paren. Afspraak/stopwoord: de vrouw kiest de nacht. Zintuig: omgekeerde rollen. Risico en prijs: de Orde noemt het opruiing. Haak: de Mannenraad gebruikt het als symbool. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11047,10 +11047,10 @@
 - **onderwerp:** Kink: Bondage op de ontvangsttafel
 - **wat:** Wat in Velmara: de gaven-man vastgebonden zodat de vrouw neemt. Wie (volwassen): Orde-ritueel. Afspraak/stopwoord: de priesteres beslist. Zintuig: leer, kaarsen, gebed. Risico en prijs: de man raakt leeg. Haak: een man die in de banden glimlacht. Techniek: gave. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7
-- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7
+- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11064,7 +11064,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-21-Z50
 - **feit_schoon:** Wat in Velmara: de gaven-man vastgebonden zodat de vrouw neemt. Wie (volwassen): Orde-ritueel. Afspraak/stopwoord: de priesteres beslist. Zintuig: leer, kaarsen, gebed. Risico en prijs: de man raakt leeg. Haak: een man die in de banden glimlacht. Techniek: gave.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11077,10 +11077,10 @@
 - **onderwerp:** Kink: Tuigen van leer en hars
 - **wat:** Wat in Velmara: harnassen over het lichaam. Wie (volwassen): Wacht, vormhuizen. Afspraak/stopwoord: per tuig een eigen betekenis. Zintuig: leer, gesp, zweet. Risico en prijs: schaafwonden. Haak: het tuig van een gevallen kapitein. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11094,7 +11094,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-22-Z50
 - **feit_schoon:** Wat in Velmara: harnassen over het lichaam. Wie (volwassen): Wacht, vormhuizen. Afspraak/stopwoord: per tuig een eigen betekenis. Zintuig: leer, gesp, zweet. Risico en prijs: schaafwonden. Haak: het tuig van een gevallen kapitein. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11107,10 +11107,10 @@
 - **onderwerp:** Kink: Paardentuig van Kharvos
 - **wat:** Wat in Velmara: ruiterspel: een volwassen mens als 'paard' met bit en teugel. Wie (volwassen): Kharvos-ruiters. Afspraak/stopwoord: bit uit = stop. Zintuig: leer, ijzer, hoefgeklak. Risico en prijs: kaakpijn. Haak: hoefijzers van Harrow-metaal zingen ook hier. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7;REG-kharvos;REG-kharvos-B1), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** REG-kharvos;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-kharvos-B1;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-kharvos;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-kharvos-B1;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11124,7 +11124,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-23-Z50
 - **feit_schoon:** Wat in Velmara: ruiterspel: een volwassen mens als 'paard' met bit en teugel. Wie (volwassen): Kharvos-ruiters. Afspraak/stopwoord: bit uit = stop. Zintuig: leer, ijzer, hoefgeklak. Risico en prijs: kaakpijn. Haak: hoefijzers van Harrow-metaal zingen ook hier. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11137,10 +11137,10 @@
 - **onderwerp:** Kink: Maskers van lak
 - **wat:** Wat in Velmara: anonimiteit in Saelith. Wie (volwassen): maskerballen. Afspraak/stopwoord: masker af = einde. Zintuig: lak, parfum, blik. Risico en prijs: verwarring wie wie is. Haak: de rivale onder het masker. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** VERLEID-Z8-27;EROS-GRENZEN-Z7
-- **verwijst_naar:** VERLEID-Z8-27-L10;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VERLEID-Z8-27;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VERLEID-Z8-27-L10;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11154,7 +11154,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-24-Z50
 - **feit_schoon:** Wat in Velmara: anonimiteit in Saelith. Wie (volwassen): maskerballen. Afspraak/stopwoord: masker af = einde. Zintuig: lak, parfum, blik. Risico en prijs: verwarring wie wie is. Haak: de rivale onder het masker. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11167,10 +11167,10 @@
 - **onderwerp:** Kink: Knevels van zoutzijde
 - **wat:** Wat in Velmara: stilte als overgave. Wie (volwassen): overal. Afspraak/stopwoord: drie knipperingen of een losgelaten bal = stop. Zintuig: zijde, speeksel. Risico en prijs: geen stopwoord meer mogelijk; daarom het teken. Haak: een knevel die een geheim smoort. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11184,7 +11184,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-25-Z50
 - **feit_schoon:** Wat in Velmara: stilte als overgave. Wie (volwassen): overal. Afspraak/stopwoord: drie knipperingen of een losgelaten bal = stop. Zintuig: zijde, speeksel. Risico en prijs: geen stopwoord meer mogelijk; daarom het teken. Haak: een knevel die een geheim smoort. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11197,10 +11197,10 @@
 - **onderwerp:** Kink: Blinddoek van Oevrin-stof
 - **wat:** Wat in Velmara: stof die kleur toont van wie je aanraakt. Wie (volwassen): Oevrin en mensen. Afspraak/stopwoord: kleur grijs = stop. Zintuig: duisternis met kleuren. Risico en prijs: je ziet wat je niet wilt zien. Haak: de blinddoek toont iemands leugen. Techniek: bio. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-oevrin;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-oevrin;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-oevrin;EROS-GRENZEN-Z7;LOT-Z44-oevrin;FASE-voortijd
+- **verwijst_naar:** VOLK-oevrin;EROS-GRENZEN-Z7;LOT-Z44-oevrin;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11214,7 +11214,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-26-Z50
 - **feit_schoon:** Wat in Velmara: stof die kleur toont van wie je aanraakt. Wie (volwassen): Oevrin en mensen. Afspraak/stopwoord: kleur grijs = stop. Zintuig: duisternis met kleuren. Risico en prijs: je ziet wat je niet wilt zien. Haak: de blinddoek toont iemands leugen. Techniek: bio.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11227,10 +11227,10 @@
 - **onderwerp:** Kink: Kooien van gevlochten wortel
 - **wat:** Wat in Velmara: levende kooien die ademen. Wie (volwassen): Myrrhen, vormhuizen. Afspraak/stopwoord: sleutel = gezongen woord. Zintuig: hout, aarde, warme adem. Risico en prijs: de kooi groeit dicht. Haak: een kooi die niet meer open wil. Techniek: bio. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-myrrhen;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-myrrhen-Z6;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-myrrhen;EROS-GRENZEN-Z7;LOT-Z44-myrrhen;FASE-markt
+- **verwijst_naar:** VOLK-myrrhen-Z6;EROS-GRENZEN-Z7;LOT-Z44-myrrhen;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11244,7 +11244,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-27-Z50
 - **feit_schoon:** Wat in Velmara: levende kooien die ademen. Wie (volwassen): Myrrhen, vormhuizen. Afspraak/stopwoord: sleutel = gezongen woord. Zintuig: hout, aarde, warme adem. Risico en prijs: de kooi groeit dicht. Haak: een kooi die niet meer open wil. Techniek: bio.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11257,10 +11257,10 @@
 - **onderwerp:** Kink: Kooien als status
 - **wat:** Wat in Velmara: rijke vrouwen houden volwassen mannen (vrijwillig) in versierde kooien. Wie (volwassen): Saelith. Afspraak/stopwoord: de man heeft de sleutel. Zintuig: goud, fluweel. Risico en prijs: vernedering in het openbaar. Haak: de man in de kooi is spion. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11274,7 +11274,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-28-Z50
 - **feit_schoon:** Wat in Velmara: rijke vrouwen houden volwassen mannen (vrijwillig) in versierde kooien. Wie (volwassen): Saelith. Afspraak/stopwoord: de man heeft de sleutel. Zintuig: goud, fluweel. Risico en prijs: vernedering in het openbaar. Haak: de man in de kooi is spion. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11287,10 +11287,10 @@
 - **onderwerp:** Kink: Zaadspel
 - **wat:** Wat in Velmara: zaad als drank, zalf of offer. Wie (volwassen): overal; gaven-zaad het duurst. Afspraak/stopwoord: de ontvangstwet. Zintuig: zout, warm, plakkerig. Risico en prijs: kracht en Leegte. Haak: een vrouw die zaad verzamelt in flesjes. Techniek: gave. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7
-- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7
+- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11304,7 +11304,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-29-Z50
 - **feit_schoon:** Wat in Velmara: zaad als drank, zalf of offer. Wie (volwassen): overal; gaven-zaad het duurst. Afspraak/stopwoord: de ontvangstwet. Zintuig: zout, warm, plakkerig. Risico en prijs: kracht en Leegte. Haak: een vrouw die zaad verzamelt in flesjes. Techniek: gave.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11317,10 +11317,10 @@
 - **onderwerp:** Kink: Zaad delen
 - **wat:** Wat in Velmara: twee vrouwen delen het zaad van één man. Wie (volwassen): Zoutkust. Afspraak/stopwoord: lot trekken. Zintuig: mond, tong, kus. Risico en prijs: ruzie om het meeste. Haak: de ene vrouw kreeg meer kracht en de ander weet het. Techniek: gave. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11334,7 +11334,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-30-Z50
 - **feit_schoon:** Wat in Velmara: twee vrouwen delen het zaad van één man. Wie (volwassen): Zoutkust. Afspraak/stopwoord: lot trekken. Zintuig: mond, tong, kus. Risico en prijs: ruzie om het meeste. Haak: de ene vrouw kreeg meer kracht en de ander weet het. Techniek: gave.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11347,10 +11347,10 @@
 - **onderwerp:** Kink: Melkspel
 - **wat:** Wat in Velmara: door vorming lacterende volwassen vrouwen. Wie (volwassen): vormhuizen. Afspraak/stopwoord: alleen vrijwillig, vormteken. Zintuig: zoet, warm. Risico en prijs: vorming kost. Haak: melk met een vleugje vonk. Techniek: bio. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** BODY-Z8-46;EROS-GRENZEN-Z7
-- **verwijst_naar:** BODY-Z8-46-L10;EROS-GRENZEN-Z7
+- **hangt_samen_met:** BODY-Z8-46;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** BODY-Z8-46-L10;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11364,7 +11364,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-31-Z50
 - **feit_schoon:** Wat in Velmara: door vorming lacterende volwassen vrouwen. Wie (volwassen): vormhuizen. Afspraak/stopwoord: alleen vrijwillig, vormteken. Zintuig: zoet, warm. Risico en prijs: vorming kost. Haak: melk met een vleugje vonk. Techniek: bio.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11377,10 +11377,10 @@
 - **onderwerp:** Kink: Voyeurisme achter het rooster
 - **wat:** Wat in Velmara: kijken naar de ontvangst. Wie (volwassen): priesteressen, Mannenraad. Afspraak/stopwoord: kijkers zwijgen. Zintuig: adem, gekraak, kaarslicht. Risico en prijs: ontdekking. Haak: wie keek, kan getuigen. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** EROS-RAUW-Z7-1;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-RAUW-Z7-1;EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-RAUW-Z7-1;EROS-GRENZEN-Z7;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** EROS-RAUW-Z7-1;EROS-GRENZEN-Z7;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11394,7 +11394,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-32-Z50
 - **feit_schoon:** Wat in Velmara: kijken naar de ontvangst. Wie (volwassen): priesteressen, Mannenraad. Afspraak/stopwoord: kijkers zwijgen. Zintuig: adem, gekraak, kaarslicht. Risico en prijs: ontdekking. Haak: wie keek, kan getuigen. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11407,10 +11407,10 @@
 - **onderwerp:** Kink: Kijkgaten in Brakhaven
 - **wat:** Wat in Velmara: betalen om te kijken. Wie (volwassen): havenkroegen. Afspraak/stopwoord: munt in de gleuf. Zintuig: zweet, gefluister. Risico en prijs: de kijker wordt bekeken. Haak: Sef verkoopt wat hij ziet. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** REG-zoutkust;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-zoutkust;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11424,7 +11424,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-33-Z50
 - **feit_schoon:** Wat in Velmara: betalen om te kijken. Wie (volwassen): havenkroegen. Afspraak/stopwoord: munt in de gleuf. Zintuig: zweet, gefluister. Risico en prijs: de kijker wordt bekeken. Haak: Sef verkoopt wat hij ziet. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11437,10 +11437,10 @@
 - **onderwerp:** Kink: Publiek: de ontvangst op het plein
 - **wat:** Wat in Velmara: feestdagen met openbare ontvangst. Wie (volwassen): Saelith. Afspraak/stopwoord: alleen gewijden. Zintuig: menigte, wierook, applaus. Risico en prijs: schaamte later. Haak: het plein onthoudt een naam. Techniek: gave. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11454,7 +11454,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-34-Z50
 - **feit_schoon:** Wat in Velmara: feestdagen met openbare ontvangst. Wie (volwassen): Saelith. Afspraak/stopwoord: alleen gewijden. Zintuig: menigte, wierook, applaus. Risico en prijs: schaamte later. Haak: het plein onthoudt een naam. Techniek: gave.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11467,10 +11467,10 @@
 - **onderwerp:** Kink: Exhibitionisme in glanshuid
 - **wat:** Wat in Velmara: rondlopen in latexhuid in het openbaar. Wie (volwassen): Saelith-jeugd (volwassen). Afspraak/stopwoord: de Glanswet. Zintuig: glans in de zon. Risico en prijs: boetes. Haak: een parade die rellen wordt. Techniek: bio. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** BODY-Z8-38;EROS-GRENZEN-Z7
-- **verwijst_naar:** BODY-Z8-38-L10;EROS-GRENZEN-Z7
+- **hangt_samen_met:** BODY-Z8-38;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** BODY-Z8-38-L10;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11484,7 +11484,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-35-Z50
 - **feit_schoon:** Wat in Velmara: rondlopen in latexhuid in het openbaar. Wie (volwassen): Saelith-jeugd (volwassen). Afspraak/stopwoord: de Glanswet. Zintuig: glans in de zon. Risico en prijs: boetes. Haak: een parade die rellen wordt. Techniek: bio.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11497,10 +11497,10 @@
 - **onderwerp:** Kink: Vormspel als kink
 - **wat:** Wat in Velmara: tijdens seks laten zwellen of krimpen. Wie (volwassen): vormhuizen. Afspraak/stopwoord: vormmeesteres als scheidsrechter. Zintuig: tintelen, groei, spanning. Risico en prijs: afstoting. Haak: een minnaar die steeds verder wil. Techniek: bio. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** BODY-Z8-36;EROS-GRENZEN-Z7
-- **verwijst_naar:** BODY-Z8-36-L10;EROS-GRENZEN-Z7
+- **hangt_samen_met:** BODY-Z8-36;EROS-GRENZEN-Z7;LOT-Z44-leegtewormen;FASE-overvloed
+- **verwijst_naar:** BODY-Z8-36-L10;EROS-GRENZEN-Z7;LOT-Z44-leegtewormen;FASE-overvloed
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11514,7 +11514,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-36-Z50
 - **feit_schoon:** Wat in Velmara: tijdens seks laten zwellen of krimpen. Wie (volwassen): vormhuizen. Afspraak/stopwoord: vormmeesteres als scheidsrechter. Zintuig: tintelen, groei, spanning. Risico en prijs: afstoting. Haak: een minnaar die steeds verder wil. Techniek: bio.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11527,10 +11527,10 @@
 - **onderwerp:** Kink: Bimbo-rollenspel
 - **wat:** Wat in Velmara: een slimme vrouw speelt dom en zacht voor één nacht. Wie (volwassen): huizen. Afspraak/stopwoord: stopwoord van het huis. Zintuig: giechelen, roze, parfum. Risico en prijs: als het spel blijft. Haak: ze hoorde alles terwijl ze speelde. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** BODY-Z8-47;EROS-GRENZEN-Z7
-- **verwijst_naar:** BODY-Z8-47-L10;EROS-GRENZEN-Z7
+- **hangt_samen_met:** BODY-Z8-47;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** BODY-Z8-47-L10;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11544,7 +11544,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-37-Z50
 - **feit_schoon:** Wat in Velmara: een slimme vrouw speelt dom en zacht voor één nacht. Wie (volwassen): huizen. Afspraak/stopwoord: stopwoord van het huis. Zintuig: giechelen, roze, parfum. Risico en prijs: als het spel blijft. Haak: ze hoorde alles terwijl ze speelde. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11557,10 +11557,10 @@
 - **onderwerp:** Kink: Dienstbaarheid
 - **wat:** Wat in Velmara: volwassen dienaar die alles mag doen behalve beslissen. Wie (volwassen): huizen. Afspraak/stopwoord: contract per seizoen. Zintuig: stilte, knielen, wassen. Risico en prijs: afhankelijkheid. Haak: de dienaar weet waar het geld ligt. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11574,7 +11574,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-38-Z50
 - **feit_schoon:** Wat in Velmara: volwassen dienaar die alles mag doen behalve beslissen. Wie (volwassen): huizen. Afspraak/stopwoord: contract per seizoen. Zintuig: stilte, knielen, wassen. Risico en prijs: afhankelijkheid. Haak: de dienaar weet waar het geld ligt. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11587,10 +11587,10 @@
 - **onderwerp:** Kink: Wassen als ritueel
 - **wat:** Wat in Velmara: elkaar wassen voor en na de ontvangst. Wie (volwassen): priesteressen. Afspraak/stopwoord: in stilte. Zintuig: warm water, zeep, zout. Risico en prijs: geen. Haak: in het waswater blijft zaadkracht hangen. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** GOD-ysa;EROS-GRENZEN-Z7
-- **verwijst_naar:** GOD-ysa;EROS-GRENZEN-Z7
+- **hangt_samen_met:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-zegellicht;FASE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11604,7 +11604,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-39-Z50
 - **feit_schoon:** Wat in Velmara: elkaar wassen voor en na de ontvangst. Wie (volwassen): priesteressen. Afspraak/stopwoord: in stilte. Zintuig: warm water, zeep, zout. Risico en prijs: geen. Haak: in het waswater blijft zaadkracht hangen. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11617,10 +11617,10 @@
 - **onderwerp:** Kink: Badhuisspel van Brakhaven
 - **wat:** Wat in Velmara: gemengde zoutbaden. Wie (volwassen): Zoutkust. Afspraak/stopwoord: wie onderduikt, kiest. Zintuig: zout, stoom, naakt. Risico en prijs: verdrinking bij dronkenschap. Haak: een lijk in het badhuis. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** REG-zoutkust;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-zoutkust;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11634,7 +11634,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-40-Z50
 - **feit_schoon:** Wat in Velmara: gemengde zoutbaden. Wie (volwassen): Zoutkust. Afspraak/stopwoord: wie onderduikt, kiest. Zintuig: zout, stoom, naakt. Risico en prijs: verdrinking bij dronkenschap. Haak: een lijk in het badhuis. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11647,10 +11647,10 @@
 - **onderwerp:** Kink: Kaarsvet
 - **wat:** Wat in Velmara: heet vet op de huid. Wie (volwassen): priesteressen, huizen. Afspraak/stopwoord: koude kaarsen eerst. Zintuig: hitte, rood, geur van was. Risico en prijs: brandwonden. Haak: de was neemt een afdruk van huid. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11664,7 +11664,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-41-Z50
 - **feit_schoon:** Wat in Velmara: heet vet op de huid. Wie (volwassen): priesteressen, huizen. Afspraak/stopwoord: koude kaarsen eerst. Zintuig: hitte, rood, geur van was. Risico en prijs: brandwonden. Haak: de was neemt een afdruk van huid. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11707,10 +11707,10 @@
 - **onderwerp:** Kink: Ademspel (gevaarlijk)
 - **wat:** Wat in Velmara: adem beperken. Wie (volwassen): Orde-kelders. Afspraak/stopwoord: altijd een tweede persoon; hand los = stop. Zintuig: duizeling, hartslag. Risico en prijs: dood; de Orde verbiedt het. Haak: een dood in een vormhuis. Techniek: geen. Donker thema (gelabeld): dwang/overmacht tussen volwassenen, met prijs en gevolg. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11724,7 +11724,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-43-Z50
 - **feit_schoon:** Wat in Velmara: adem beperken. Wie (volwassen): Orde-kelders. Afspraak/stopwoord: altijd een tweede persoon; hand los = stop. Zintuig: duizeling, hartslag. Risico en prijs: dood; de Orde verbiedt het. Haak: een dood in een vormhuis. Techniek: geen. Donker thema (gelabeld): dwang/overmacht tussen volwassenen, met prijs en gevolg.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11737,10 +11737,10 @@
 - **onderwerp:** Kink: Prikkeldraad van vonk
 - **wat:** Wat in Velmara: vonkcellen die kleine schokken geven. Wie (volwassen): Ishvar, vormhuizen. Afspraak/stopwoord: dimmer in de hand van de ontvanger. Zintuig: tintel, schok. Risico en prijs: hartritme. Haak: de schok draagt een boodschap. Techniek: bio. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** LICH-vonkkoorts;EROS-GRENZEN-Z7
-- **verwijst_naar:** LICH-vonkkoorts;EROS-GRENZEN-Z7
+- **hangt_samen_met:** LICH-vonkkoorts;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** LICH-vonkkoorts;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11754,7 +11754,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-44-Z50
 - **feit_schoon:** Wat in Velmara: vonkcellen die kleine schokken geven. Wie (volwassen): Ishvar, vormhuizen. Afspraak/stopwoord: dimmer in de hand van de ontvanger. Zintuig: tintel, schok. Risico en prijs: hartritme. Haak: de schok draagt een boodschap. Techniek: bio.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11767,10 +11767,10 @@
 - **onderwerp:** Kink: Zegelsteenvibraties
 - **wat:** Wat in Velmara: zoemende stenen tegen de huid. Wie (volwassen): Dhurn, Orde. Afspraak/stopwoord: de steen afleggen. Zintuig: zoemen tot in de botten. Risico en prijs: zegelziekte. Haak: de steen zoemt het ritme van het hart in de groeve. Techniek: zegelsteen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** TECH-REGEL;EROS-GRENZEN-Z7
-- **verwijst_naar:** TECH-REGEL;EROS-GRENZEN-Z7
+- **hangt_samen_met:** TECH-REGEL;EROS-GRENZEN-Z7;LOT-Z44-sterrensteen;FASE-brand-Z38
+- **verwijst_naar:** TECH-REGEL;EROS-GRENZEN-Z7;LOT-Z44-sterrensteen;FASE-brand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11784,7 +11784,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-45-Z50
 - **feit_schoon:** Wat in Velmara: zoemende stenen tegen de huid. Wie (volwassen): Dhurn, Orde. Afspraak/stopwoord: de steen afleggen. Zintuig: zoemen tot in de botten. Risico en prijs: zegelziekte. Haak: de steen zoemt het ritme van het hart in de groeve. Techniek: zegelsteen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11797,10 +11797,10 @@
 - **onderwerp:** Kink: Gehoorzaamheidsspel met de bindsplinter (donker)
 - **wat:** Wat in Velmara: Orde-agente bindt een man met de splinter tot gehoorzaamheid. Wie (volwassen): Orde. Afspraak/stopwoord: geen echte instemming: donker thema. Zintuig: koude splinter, zoemen, lege blik. Risico en prijs: hij haat haar; Liora kan hem bevrijden. Haak: het Z7-moment waarop Liora haar gave vindt. Techniek: zegelsteen. Donker thema (gelabeld): dwang/overmacht tussen volwassenen, met prijs en gevolg. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7;EROS-GRENZEN-Z7
-- **verwijst_naar:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7
+- **hangt_samen_met:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7;EROS-GRENZEN-Z7;LOT-Z44-sterrensteen;FASE-noodtoestand-Z38
+- **verwijst_naar:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7;LOT-Z44-sterrensteen;FASE-noodtoestand-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11814,7 +11814,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-46-Z50
 - **feit_schoon:** Wat in Velmara: Orde-agente bindt een man met de splinter tot gehoorzaamheid. Wie (volwassen): Orde. Afspraak/stopwoord: geen echte instemming: donker thema. Zintuig: koude splinter, zoemen, lege blik. Risico en prijs: hij haat haar; Liora kan hem bevrijden. Haak: het Z7-moment waarop Liora haar gave vindt. Techniek: zegelsteen. Donker thema (gelabeld): dwang/overmacht tussen volwassenen, met prijs en gevolg.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11827,10 +11827,10 @@
 - **onderwerp:** Kink: Gijzeling en losgeld (donker)
 - **wat:** Wat in Velmara: volwassen gijzelaar en ontvoerder, met macht als inzet. Wie (volwassen): smokkelaars. Afspraak/stopwoord: onderhandeling, donker thema. Zintuig: teer, donker, deining. Risico en prijs: verraad. Haak: ze wil terug. Techniek: geen. Donker thema (gelabeld): dwang/overmacht tussen volwassenen, met prijs en gevolg. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** EROS-RAUW-Z7-3;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-RAUW-Z7-3;EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-RAUW-Z7-3;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-RAUW-Z7-3;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11844,7 +11844,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-47-Z50
 - **feit_schoon:** Wat in Velmara: volwassen gijzelaar en ontvoerder, met macht als inzet. Wie (volwassen): smokkelaars. Afspraak/stopwoord: onderhandeling, donker thema. Zintuig: teer, donker, deining. Risico en prijs: verraad. Haak: ze wil terug. Techniek: geen. Donker thema (gelabeld): dwang/overmacht tussen volwassenen, met prijs en gevolg.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11857,10 +11857,10 @@
 - **onderwerp:** Kink: Verkocht op de vlootmarkt (donker)
 - **wat:** Wat in Velmara: een volwassen schuldenaar wordt geveild voor dienst. Wie (volwassen): Brakhaven-onderwereld. Afspraak/stopwoord: donker thema met prijs. Zintuig: menigte, ketting, zon. Risico en prijs: haat en wraak. Haak: de koper is haar zus. Techniek: geen. Donker thema (gelabeld): dwang/overmacht tussen volwassenen, met prijs en gevolg. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11874,7 +11874,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-48-Z50
 - **feit_schoon:** Wat in Velmara: een volwassen schuldenaar wordt geveild voor dienst. Wie (volwassen): Brakhaven-onderwereld. Afspraak/stopwoord: donker thema met prijs. Zintuig: menigte, ketting, zon. Risico en prijs: haat en wraak. Haak: de koper is haar zus. Techniek: geen. Donker thema (gelabeld): dwang/overmacht tussen volwassenen, met prijs en gevolg.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11887,10 +11887,10 @@
 - **onderwerp:** Kink: Vernedering in rang
 - **wat:** Wat in Velmara: een Moeder laat zich (vrijwillig) uitschelden door een man. Wie (volwassen): Saelith. Afspraak/stopwoord: alleen in de kelder. Zintuig: grof woord, adem. Risico en prijs: chantage. Haak: de woorden werden opgeschreven. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7
-- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11904,7 +11904,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-49-Z50
 - **feit_schoon:** Wat in Velmara: een Moeder laat zich (vrijwillig) uitschelden door een man. Wie (volwassen): Saelith. Afspraak/stopwoord: alleen in de kelder. Zintuig: grof woord, adem. Risico en prijs: chantage. Haak: de woorden werden opgeschreven. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11917,10 +11917,10 @@
 - **onderwerp:** Kink: Bezitteken
 - **wat:** Wat in Velmara: een gegraveerde halsband. Wie (volwassen): overal. Afspraak/stopwoord: halsband af = vrij. Zintuig: metaal warm van huid. Risico en prijs: sociale stempel. Haak: een halsband met het teken van de Orde. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11934,7 +11934,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-50-Z50
 - **feit_schoon:** Wat in Velmara: een gegraveerde halsband. Wie (volwassen): overal. Afspraak/stopwoord: halsband af = vrij. Zintuig: metaal warm van huid. Risico en prijs: sociale stempel. Haak: een halsband met het teken van de Orde. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11947,10 +11947,10 @@
 - **onderwerp:** Kink: Ketens van dienst
 - **wat:** Wat in Velmara: vrijwillige ketting voor een seizoen. Wie (volwassen): Karrûk. Afspraak/stopwoord: de oudste houdt de sleutel. Zintuig: ijzer, geur van roest. Risico en prijs: schaafwonden. Haak: een ketting die ouder is dan de Orde. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-karrûk;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-karrûk-Z6-Z38;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-karrûk;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11964,7 +11964,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-51-Z50
 - **feit_schoon:** Wat in Velmara: vrijwillige ketting voor een seizoen. Wie (volwassen): Karrûk. Afspraak/stopwoord: de oudste houdt de sleutel. Zintuig: ijzer, geur van roest. Risico en prijs: schaafwonden. Haak: een ketting die ouder is dan de Orde. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -11977,10 +11977,10 @@
 - **onderwerp:** Kink: Skerra-worstelspel
 - **wat:** Wat in Velmara: worstelen tot een van beiden onder ligt. Wie (volwassen): Skerra. Afspraak/stopwoord: tik op de grond = stop. Zintuig: zand, zweet, bijten. Risico en prijs: botbreuken. Haak: de verliezer kiest de straf. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-skerra;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-skerra;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-skerra;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-skerra;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -11994,7 +11994,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-52-Z50
 - **feit_schoon:** Wat in Velmara: worstelen tot een van beiden onder ligt. Wie (volwassen): Skerra. Afspraak/stopwoord: tik op de grond = stop. Zintuig: zand, zweet, bijten. Risico en prijs: botbreuken. Haak: de verliezer kiest de straf. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -12007,10 +12007,10 @@
 - **onderwerp:** Kink: Bijtspel
 - **wat:** Wat in Velmara: tanden in nek en schouder. Wie (volwassen): Skerra, Vathren. Afspraak/stopwoord: bloed = genoeg. Zintuig: tanden, zout, bloed. Risico en prijs: infectie. Haak: een beet als contract. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-vathren;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-vathren-Z6;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-vathren;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-vathren-Z6;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12024,7 +12024,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-53-Z50
 - **feit_schoon:** Wat in Velmara: tanden in nek en schouder. Wie (volwassen): Skerra, Vathren. Afspraak/stopwoord: bloed = genoeg. Zintuig: tanden, zout, bloed. Risico en prijs: infectie. Haak: een beet als contract. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -12037,10 +12037,10 @@
 - **onderwerp:** Kink: Geurspel
 - **wat:** Wat in Velmara: dagenlang ongewassen lichaam als prikkel. Wie (volwassen): Tharn. Afspraak/stopwoord: de Tharn bepalen. Zintuig: muskus, zweet. Risico en prijs: sociale afkeer. Haak: de geur leidt naar een moordenaar. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-tharn;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-tharn;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-tharn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-tharn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12054,7 +12054,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-54-Z50
 - **feit_schoon:** Wat in Velmara: dagenlang ongewassen lichaam als prikkel. Wie (volwassen): Tharn. Afspraak/stopwoord: de Tharn bepalen. Zintuig: muskus, zweet. Risico en prijs: sociale afkeer. Haak: de geur leidt naar een moordenaar. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -12067,10 +12067,10 @@
 - **onderwerp:** Kink: Sporenroes
 - **wat:** Wat in Velmara: Myrrhen-sporen die alles intenser maken. Wie (volwassen): Myrrhen. Afspraak/stopwoord: een nuchtere getuige. Zintuig: paddenstoel, zweet, kleuren. Risico en prijs: verslaving, hallucinaties. Haak: in de roes spreekt de Wortel. Techniek: bio. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** VOLK-myrrhen;EROS-GRENZEN-Z7
-- **verwijst_naar:** VOLK-myrrhen-Z6;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VOLK-myrrhen;EROS-GRENZEN-Z7;LOT-Z44-myrrhen;FASE-markt
+- **verwijst_naar:** VOLK-myrrhen-Z6;EROS-GRENZEN-Z7;LOT-Z44-myrrhen;FASE-markt
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12084,7 +12084,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-55-Z50
 - **feit_schoon:** Wat in Velmara: Myrrhen-sporen die alles intenser maken. Wie (volwassen): Myrrhen. Afspraak/stopwoord: een nuchtere getuige. Zintuig: paddenstoel, zweet, kleuren. Risico en prijs: verslaving, hallucinaties. Haak: in de roes spreekt de Wortel. Techniek: bio.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -12097,10 +12097,10 @@
 - **onderwerp:** Kink: Groepsontvangst
 - **wat:** Wat in Velmara: meerdere vrouwen en één gaven-man. Wie (volwassen): Orde. Afspraak/stopwoord: de priesteres verdeelt. Zintuig: kaarsen, gekreun, tellen. Risico en prijs: de man kan sterven van Leegte. Haak: wie de laatste is, krijgt het meeste. Techniek: gave. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7
-- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7
+- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12114,7 +12114,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-56-Z50
 - **feit_schoon:** Wat in Velmara: meerdere vrouwen en één gaven-man. Wie (volwassen): Orde. Afspraak/stopwoord: de priesteres verdeelt. Zintuig: kaarsen, gekreun, tellen. Risico en prijs: de man kan sterven van Leegte. Haak: wie de laatste is, krijgt het meeste. Techniek: gave.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -12127,10 +12127,10 @@
 - **onderwerp:** Kink: Orgie op Ysa-dag
 - **wat:** Wat in Velmara: jaarfeest van overvloed. Wie (volwassen): Saelith, Zoutkust. Afspraak/stopwoord: alleen volwassen, met armband. Zintuig: wijn, zweet, muziek. Risico en prijs: jaloezie, zwangerschap. Haak: een moord tijdens het feest. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** GOD-ysa;EROS-GRENZEN-Z7
-- **verwijst_naar:** GOD-ysa;EROS-GRENZEN-Z7
+- **hangt_samen_met:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12144,7 +12144,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-57-Z50
 - **feit_schoon:** Wat in Velmara: jaarfeest van overvloed. Wie (volwassen): Saelith, Zoutkust. Afspraak/stopwoord: alleen volwassen, met armband. Zintuig: wijn, zweet, muziek. Risico en prijs: jaloezie, zwangerschap. Haak: een moord tijdens het feest. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -12157,10 +12157,10 @@
 - **onderwerp:** Kink: Dubbelspel
 - **wat:** Wat in Velmara: twee minnaars die van elkaar weten. Wie (volwassen): overal. Afspraak/stopwoord: het stopwoord geldt voor iedereen. Zintuig: stemmen, handen overal. Risico en prijs: jaloezie. Haak: een van de twee is spion. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-GRENZEN-Z7;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12174,7 +12174,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-58-Z50
 - **feit_schoon:** Wat in Velmara: twee minnaars die van elkaar weten. Wie (volwassen): overal. Afspraak/stopwoord: het stopwoord geldt voor iedereen. Zintuig: stemmen, handen overal. Risico en prijs: jaloezie. Haak: een van de twee is spion. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -12187,10 +12187,10 @@
 - **onderwerp:** Kink: Rollenspel als Maker
 - **wat:** Wat in Velmara: verkleden als Makers uit oude reliefs. Wie (volwassen): Saelith-elite. Afspraak/stopwoord: blasfemie, dus geheim. Zintuig: uniformstof, oude woorden. Risico en prijs: ketterij. Haak: een uniformknoop die echt is. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** GOD-ysa;EROS-GRENZEN-Z7
-- **verwijst_naar:** GOD-ysa;EROS-GRENZEN-Z7
+- **hangt_samen_met:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-overvloed
+- **verwijst_naar:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-overvloed
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12204,7 +12204,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-59-Z50
 - **feit_schoon:** Wat in Velmara: verkleden als Makers uit oude reliefs. Wie (volwassen): Saelith-elite. Afspraak/stopwoord: blasfemie, dus geheim. Zintuig: uniformstof, oude woorden. Risico en prijs: ketterij. Haak: een uniformknoop die echt is. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -12217,10 +12217,10 @@
 - **onderwerp:** Kink: Gestolen stopwoord
 - **wat:** Wat in Velmara: iemand gebruikt het stopwoord van een ander volk in bed. Wie (volwassen): overal. Afspraak/stopwoord: verraadt afkomst. Zintuig: verwarring, plotse stilte. Risico en prijs: ontmaskering. Haak: zo wordt een spion gevonden. Techniek: geen. Veiligheidslabel: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; nooit seks met wie echt niet kan instemmen; dwang tussen volwassenen alleen als gelabeld donker thema.
 - **waarom:** Ronde Z8: expliciete kinks (wens Rogier: fisting, latex, BDSM e.a.) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 37
-- **hangt_samen_met:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7
-- **verwijst_naar:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7
+- **hangt_samen_met:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12234,7 +12234,7 @@
 - **ideeenbank:** 1
 - **veilig_18plus:** 1
 - **veilig_variant:** 7
-- **vervangen_door:** 
+- **vervangen_door:** KINK-Z8-60-Z50
 - **feit_schoon:** Wat in Velmara: iemand gebruikt het stopwoord van een ander volk in bed. Wie (volwassen): overal. Afspraak/stopwoord: verraadt afkomst. Zintuig: verwarring, plotse stilte. Risico en prijs: ontmaskering. Haak: zo wordt een spion gevonden. Techniek: geen.
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
@@ -12249,8 +12249,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-1;GOD-ysa;RECHT-tribunaal;VOLK-myrrhen;LEER-gelofte-onherroepelijk;SEKTE-vleesgemeente
-- **verwijst_naar:** KINK-Z8-1;GOD-ysa;RECHT-tribunaal;VOLK-myrrhen-Z6;LEER-gelofte-onherroepelijk;SEKTE-vleesgemeente
+- **hangt_samen_met:** KINK-Z8-1-Z50;GOD-ysa;RECHT-tribunaal;VOLK-myrrhen;LEER-gelofte-onherroepelijk;SEKTE-vleesgemeente
+- **verwijst_naar:** KINK-Z8-1-Z50;GOD-ysa;RECHT-tribunaal;VOLK-myrrhen-Z6;LEER-gelofte-onherroepelijk;SEKTE-vleesgemeente
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12279,8 +12279,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BESLUIT-Z7-BINDING;VOLK-ishvar), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-2;TECHNO-gave-genees;TECHNO-gave;VOLK-ishvar;BESLUIT-Z7-BINDING;REG-rosse
-- **verwijst_naar:** KINK-Z8-2;TECHNO-gave-genees;TECHNO-gave;VOLK-ishvar;BESLUIT-Z7-BINDING;REG-rosse
+- **hangt_samen_met:** KINK-Z8-2-Z50;TECHNO-gave-genees;TECHNO-gave;VOLK-ishvar;BESLUIT-Z7-BINDING;REG-rosse
+- **verwijst_naar:** KINK-Z8-2-Z50;TECHNO-gave-genees;TECHNO-gave;VOLK-ishvar;BESLUIT-Z7-BINDING;REG-rosse
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12309,8 +12309,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-belasting;MAGIE-zaadkracht), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-3;ECO-geld;GOD-ysa;ECO-prijzen-mannen-zaad;BEST-belasting;MAGIE-zaadkracht
-- **verwijst_naar:** KINK-Z8-3;ECO-geld;GOD-ysa;ECO-prijzen-mannen-zaad;BEST-belasting;MAGIE-zaadkracht
+- **hangt_samen_met:** KINK-Z8-3-Z50;ECO-geld;GOD-ysa;ECO-prijzen-mannen-zaad;BEST-belasting;MAGIE-zaadkracht
+- **verwijst_naar:** KINK-Z8-3-Z50;ECO-geld;GOD-ysa;ECO-prijzen-mannen-zaad;BEST-belasting;MAGIE-zaadkracht
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12339,8 +12339,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-gilden), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-4;TECHNO-gave;ECO-geld;BEST-gilden;BODY-Z8-31;ECO-wat-wordt-verhandeld
-- **verwijst_naar:** KINK-Z8-4;TECHNO-gave;ECO-geld;BEST-gilden;BODY-Z8-31-L10;ECO-wat-wordt-verhandeld
+- **hangt_samen_met:** KINK-Z8-4-Z50;TECHNO-gave;ECO-geld;BEST-gilden;BODY-Z8-31;ECO-wat-wordt-verhandeld
+- **verwijst_naar:** KINK-Z8-4-Z50;TECHNO-gave;ECO-geld;BEST-gilden;BODY-Z8-31-L10;ECO-wat-wordt-verhandeld
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12369,8 +12369,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-leger;BEST-orde-hoofd;BEST-register-macht), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-5;BEST-leger;BEST-register-macht;OORLOG-Z9-44;TECHNO-gave-wapen;BEST-orde-hoofd
-- **verwijst_naar:** KINK-Z8-5;BEST-leger;BEST-register-macht;OORLOG-Z9-44;TECHNO-gave-wapen;BEST-orde-hoofd
+- **hangt_samen_met:** KINK-Z8-5-Z50;BEST-leger;BEST-register-macht;OORLOG-Z9-44;TECHNO-gave-wapen;BEST-orde-hoofd
+- **verwijst_naar:** KINK-Z8-5-Z50;BEST-leger;BEST-register-macht;OORLOG-Z9-44;TECHNO-gave-wapen;BEST-orde-hoofd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12399,8 +12399,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-register-macht;BEST-volk-dhurn;VOLK-dhurn), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-6;ECO-geld;BEST-register-macht;VOLK-dhurn;D1-dhurn-geld;ECO-wat-wordt-verhandeld;BEST-volk-dhurn
-- **verwijst_naar:** KINK-Z8-6;ECO-geld;BEST-register-macht;VOLK-dhurn;D1-dhurn-geld;ECO-wat-wordt-verhandeld;BEST-volk-dhurn
+- **hangt_samen_met:** KINK-Z8-6-Z50;ECO-geld;BEST-register-macht;VOLK-dhurn;D1-dhurn-geld;ECO-wat-wordt-verhandeld;BEST-volk-dhurn
+- **verwijst_naar:** KINK-Z8-6-Z50;ECO-geld;BEST-register-macht;VOLK-dhurn;D1-dhurn-geld;ECO-wat-wordt-verhandeld;BEST-volk-dhurn
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12429,8 +12429,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-leger;BEST-orde-hoofd), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-7;BEST-leger;BEST-orde-hoofd;ORDE-tempelwacht;ACTIE-Z9-42;STAD-saelith
-- **verwijst_naar:** KINK-Z8-7;BEST-leger;BEST-orde-hoofd;ORDE-tempelwacht;ACTIE-Z9-42;STAD-saelith
+- **hangt_samen_met:** KINK-Z8-7-Z50;BEST-leger;BEST-orde-hoofd;ORDE-tempelwacht;ACTIE-Z9-42;STAD-saelith
+- **verwijst_naar:** KINK-Z8-7-Z50;BEST-leger;BEST-orde-hoofd;ORDE-tempelwacht;ACTIE-Z9-42;STAD-saelith
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12459,8 +12459,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-geheim-stillehand), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-8;BEST-geheim-stillehand;RECHT-tribunaal;ORDE-stille-hand;GEV-kerkers-saelith
-- **verwijst_naar:** KINK-Z8-8;BEST-geheim-stillehand;RECHT-tribunaal;ORDE-stille-hand;GEV-kerkers-saelith
+- **hangt_samen_met:** KINK-Z8-8-Z50;BEST-geheim-stillehand;RECHT-tribunaal;ORDE-stille-hand;GEV-kerkers-saelith
+- **verwijst_naar:** KINK-Z8-8-Z50;BEST-geheim-stillehand;RECHT-tribunaal;ORDE-stille-hand;GEV-kerkers-saelith
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12489,8 +12489,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-huis-varenne;BEST-orde-hoofd;BEST-register-macht), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-9;BEST-register-macht;BEST-orde-hoofd;WET-wie-vrouw;REG-saelith;BEST-huis-varenne
-- **verwijst_naar:** KINK-Z8-9;BEST-register-macht;BEST-orde-hoofd;WET-wie-vrouw;REG-saelith;BEST-huis-varenne
+- **hangt_samen_met:** KINK-Z8-9-Z50;BEST-register-macht;BEST-orde-hoofd;WET-wie-vrouw;REG-saelith;BEST-huis-varenne
+- **verwijst_naar:** KINK-Z8-9-Z50;BEST-register-macht;BEST-orde-hoofd;WET-wie-vrouw;REG-saelith;BEST-huis-varenne
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12519,8 +12519,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-register-macht;BEST-volk-aelthir;VOLK-aelthir-V5), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-10;BEST-register-macht;TECHNO-gave;VOLK-aelthir;MAGIE-wat-gaven-man;BEST-volk-aelthir
-- **verwijst_naar:** KINK-Z8-10;BEST-register-macht;TECHNO-gave;VOLK-aelthir-V5;MAGIE-wat-gaven-man;BEST-volk-aelthir
+- **hangt_samen_met:** KINK-Z8-10-Z50;BEST-register-macht;TECHNO-gave;VOLK-aelthir;MAGIE-wat-gaven-man;BEST-volk-aelthir
+- **verwijst_naar:** KINK-Z8-10-Z50;BEST-register-macht;TECHNO-gave;VOLK-aelthir-V5;MAGIE-wat-gaven-man;BEST-volk-aelthir
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12549,8 +12549,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-11;RECHT-tribunaal;TECHNO-gave;TECH-REGEL;STRAF-stal;GEV-zoutkelders
-- **verwijst_naar:** KINK-Z8-11;RECHT-tribunaal;TECHNO-gave;TECH-REGEL;STRAF-stal;GEV-zoutkelders
+- **hangt_samen_met:** KINK-Z8-11-Z50;RECHT-tribunaal;TECHNO-gave;TECH-REGEL;STRAF-stal;GEV-zoutkelders
+- **verwijst_naar:** KINK-Z8-11-Z50;RECHT-tribunaal;TECHNO-gave;TECH-REGEL;STRAF-stal;GEV-zoutkelders
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12579,8 +12579,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar PER-Z7-jorrit), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-12;RECHT-tribunaal;ECO-geld;REG-zoutkust;PER-Z7-jorrit;WET-reg-zoutkust
-- **verwijst_naar:** KINK-Z8-12;RECHT-tribunaal;ECO-geld;REG-zoutkust;PER-Z7-jorrit;WET-reg-zoutkust
+- **hangt_samen_met:** KINK-Z8-12-Z50;RECHT-tribunaal;ECO-geld;REG-zoutkust;PER-Z7-jorrit;WET-reg-zoutkust
+- **verwijst_naar:** KINK-Z8-12-Z50;RECHT-tribunaal;ECO-geld;REG-zoutkust;PER-Z7-jorrit;WET-reg-zoutkust
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12609,8 +12609,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-leger;VOORW-Z7-kraaienbruid), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-13;BEST-leger;ECO-geld;VOORW-Z7-kraaienbruid;GELD-smokkelroutes;REG-zoutkust;WET-smokkel
-- **verwijst_naar:** KINK-Z8-13;BEST-leger;ECO-geld;VOORW-Z7-kraaienbruid;GELD-smokkelroutes;REG-zoutkust;WET-smokkel
+- **hangt_samen_met:** KINK-Z8-13-Z50;BEST-leger;ECO-geld;VOORW-Z7-kraaienbruid;GELD-smokkelroutes;REG-zoutkust;WET-smokkel
+- **verwijst_naar:** KINK-Z8-13-Z50;BEST-leger;ECO-geld;VOORW-Z7-kraaienbruid;GELD-smokkelroutes;REG-zoutkust;WET-smokkel
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12669,8 +12669,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-leger;BEST-orde-dhurn;VOLK-dhurn), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-15;ECO-geld;BEST-leger;VOLK-dhurn;OORLOG-Z9-23;ECO-wat-wordt-verhandeld;BEST-orde-dhurn
-- **verwijst_naar:** KINK-Z8-15;ECO-geld;BEST-leger;VOLK-dhurn;OORLOG-Z9-23;ECO-wat-wordt-verhandeld;BEST-orde-dhurn
+- **hangt_samen_met:** KINK-Z8-15-Z50;ECO-geld;BEST-leger;VOLK-dhurn;OORLOG-Z9-23;ECO-wat-wordt-verhandeld;BEST-orde-dhurn
+- **verwijst_naar:** KINK-Z8-15-Z50;ECO-geld;BEST-leger;VOLK-dhurn;OORLOG-Z9-23;ECO-wat-wordt-verhandeld;BEST-orde-dhurn
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12699,8 +12699,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-16;RECHT-tribunaal;GOD-ysa;STRAF-boete;LEER-zonde-boete;STRAF-schandpodium;RECHT-dorpsraad
-- **verwijst_naar:** KINK-Z8-16;RECHT-tribunaal;GOD-ysa;STRAF-boete;LEER-zonde-boete;STRAF-schandpodium;RECHT-dorpsraad
+- **hangt_samen_met:** KINK-Z8-16-Z50;RECHT-tribunaal;GOD-ysa;STRAF-boete;LEER-zonde-boete;STRAF-schandpodium;RECHT-dorpsraad
+- **verwijst_naar:** KINK-Z8-16-Z50;RECHT-tribunaal;GOD-ysa;STRAF-boete;LEER-zonde-boete;STRAF-schandpodium;RECHT-dorpsraad
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12729,8 +12729,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-huis-mirre;BEST-register-macht), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-17;BEST-register-macht;GOD-ysa;BEST-huis-mirre;LEER-verlangen-gebed;REG-saelith
-- **verwijst_naar:** KINK-Z8-17;BEST-register-macht;GOD-ysa;BEST-huis-mirre;LEER-verlangen-gebed;REG-saelith
+- **hangt_samen_met:** KINK-Z8-17-Z50;BEST-register-macht;GOD-ysa;BEST-huis-mirre;LEER-verlangen-gebed;REG-saelith
+- **verwijst_naar:** KINK-Z8-17-Z50;BEST-register-macht;GOD-ysa;BEST-huis-mirre;LEER-verlangen-gebed;REG-saelith
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12759,8 +12759,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-leger;BEST-volk-karruk), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-18;BEST-leger;GEB-deelwet;VOLK-karrûk;LICH-krijgslitteken-kaart;OORLOG-Z9-22;BEST-volk-karruk
-- **verwijst_naar:** KINK-Z8-18;BEST-leger;GEB-deelwet-40;VOLK-karrûk-Z6-Z38;LICH-krijgslitteken-kaart;OORLOG-Z9-22;BEST-volk-karruk
+- **hangt_samen_met:** KINK-Z8-18-Z50;BEST-leger;GEB-deelwet;VOLK-karrûk;LICH-krijgslitteken-kaart;OORLOG-Z9-22;BEST-volk-karruk
+- **verwijst_naar:** KINK-Z8-18-Z50;BEST-leger;GEB-deelwet-40;VOLK-karrûk-Z6-Z38;LICH-krijgslitteken-kaart;OORLOG-Z9-22;BEST-volk-karruk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12789,8 +12789,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-19;BEST-orde-hoofd;BEST-register-macht;BEST-orde-partijen;BEST-huis-kaldra;GEB-kaldra-eed
-- **verwijst_naar:** KINK-Z8-19;BEST-orde-hoofd;BEST-register-macht;BEST-orde-partijen;BEST-huis-kaldra;GEB-Z41-kaldra-eed
+- **hangt_samen_met:** KINK-Z8-19-Z50;BEST-orde-hoofd;BEST-register-macht;BEST-orde-partijen;BEST-huis-kaldra;GEB-kaldra-eed
+- **verwijst_naar:** KINK-Z8-19-Z50;BEST-orde-hoofd;BEST-register-macht;BEST-orde-partijen;BEST-huis-kaldra;GEB-Z41-kaldra-eed
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12819,8 +12819,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-orde-hoofd;BEST-rebellen;MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-20;BEST-orde-hoofd;RECHT-tribunaal;WET-wie-gewone-man;MACHT-gewone-mannen;BEST-rebellen;OORLOG-Z9-36
-- **verwijst_naar:** KINK-Z8-20;BEST-orde-hoofd;RECHT-tribunaal;WET-wie-gewone-man;MACHT-gewone-mannen;BEST-rebellen;OORLOG-Z9-36
+- **hangt_samen_met:** KINK-Z8-20-Z50;BEST-orde-hoofd;RECHT-tribunaal;WET-wie-gewone-man;MACHT-gewone-mannen;BEST-rebellen;OORLOG-Z9-36
+- **verwijst_naar:** KINK-Z8-20-Z50;BEST-orde-hoofd;RECHT-tribunaal;WET-wie-gewone-man;MACHT-gewone-mannen;BEST-rebellen;OORLOG-Z9-36
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12849,8 +12849,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-21;ECO-geld;GOD-ysa;PLEK-LICH-ontvangstzaal;ECO-prijzen-mannen-zaad;ORDE-rol-orde;TECH-ITEM-gave-1
-- **verwijst_naar:** KINK-Z8-21;ECO-geld;GOD-ysa;PLEK-LICH-ontvangstzaal;ECO-prijzen-mannen-zaad;ORDE-rol-orde;TECH-ITEM-gave-1
+- **hangt_samen_met:** KINK-Z8-21-Z50;ECO-geld;GOD-ysa;PLEK-LICH-ontvangstzaal;ECO-prijzen-mannen-zaad;ORDE-rol-orde;TECH-ITEM-gave-1
+- **verwijst_naar:** KINK-Z8-21-Z50;ECO-geld;GOD-ysa;PLEK-LICH-ontvangstzaal;ECO-prijzen-mannen-zaad;ORDE-rol-orde;TECH-ITEM-gave-1
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12879,8 +12879,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-gilden;BEST-leger), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-22;TECHNO-gave;BEST-leger;TECHNO-gave-genees;OORLOG-Z9-40;BEST-gilden
-- **verwijst_naar:** KINK-Z8-22;TECHNO-gave;BEST-leger;TECHNO-gave-genees;OORLOG-Z9-40;BEST-gilden
+- **hangt_samen_met:** KINK-Z8-22-Z50;TECHNO-gave;BEST-leger;TECHNO-gave-genees;OORLOG-Z9-40;BEST-gilden
+- **verwijst_naar:** KINK-Z8-22-Z50;TECHNO-gave;BEST-leger;TECHNO-gave-genees;OORLOG-Z9-40;BEST-gilden
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12909,8 +12909,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-kharvos;BEST-leger;REG-kharvos-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-23;ECO-geld;BEST-leger;REG-kharvos-B1;BEST-kharvos;OORLOG-Z9-17;PLEK-kharvos-schaduwvlakte
-- **verwijst_naar:** KINK-Z8-23;ECO-geld;BEST-leger;REG-kharvos-B1;BEST-kharvos;OORLOG-Z9-17;PLEK-kharvos-schaduwvlakte
+- **hangt_samen_met:** KINK-Z8-23-Z50;ECO-geld;BEST-leger;REG-kharvos-B1;BEST-kharvos;OORLOG-Z9-17;PLEK-kharvos-schaduwvlakte
+- **verwijst_naar:** KINK-Z8-23-Z50;ECO-geld;BEST-leger;REG-kharvos-B1;BEST-kharvos;OORLOG-Z9-17;PLEK-kharvos-schaduwvlakte
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12939,8 +12939,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-geheim-stillehand;BEST-geheim-varennekring;BEST-huis-varenne), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-24;BEST-geheim-stillehand;BEST-orde-hoofd;BEST-geheim-varennekring;BEST-huis-varenne;STAD-saelith;ORDE-stille-hand
-- **verwijst_naar:** KINK-Z8-24;BEST-geheim-stillehand;BEST-orde-hoofd;BEST-geheim-varennekring;BEST-huis-varenne;STAD-saelith;ORDE-stille-hand
+- **hangt_samen_met:** KINK-Z8-24-Z50;BEST-geheim-stillehand;BEST-orde-hoofd;BEST-geheim-varennekring;BEST-huis-varenne;STAD-saelith;ORDE-stille-hand
+- **verwijst_naar:** KINK-Z8-24-Z50;BEST-geheim-stillehand;BEST-orde-hoofd;BEST-geheim-varennekring;BEST-huis-varenne;STAD-saelith;ORDE-stille-hand
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12969,8 +12969,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-geheim-stillehand), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-25;RECHT-tribunaal;BEST-geheim-stillehand;REG-zoutkust;RECHT-advocaat;WET-reg-zoutkust
-- **verwijst_naar:** KINK-Z8-25;RECHT-tribunaal;BEST-geheim-stillehand;REG-zoutkust;RECHT-advocaat;WET-reg-zoutkust
+- **hangt_samen_met:** KINK-Z8-25-Z50;RECHT-tribunaal;BEST-geheim-stillehand;REG-zoutkust;RECHT-advocaat;WET-reg-zoutkust
+- **verwijst_naar:** KINK-Z8-25-Z50;RECHT-tribunaal;BEST-geheim-stillehand;REG-zoutkust;RECHT-advocaat;WET-reg-zoutkust
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -12999,8 +12999,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-26;GOD-ysa;TECHNO-gave-genees;VOLK-oevrin;EROS-STOP-Z7-oevrin;SEKTE-annalisten;D1-oevrin-geld
-- **verwijst_naar:** KINK-Z8-26;GOD-ysa;TECHNO-gave-genees;VOLK-oevrin;EROS-STOP-Z7-oevrin;SEKTE-annalisten;D1-oevrin-geld
+- **hangt_samen_met:** KINK-Z8-26-Z50;GOD-ysa;TECHNO-gave-genees;VOLK-oevrin;EROS-STOP-Z7-oevrin;SEKTE-annalisten;D1-oevrin-geld
+- **verwijst_naar:** KINK-Z8-26-Z50;GOD-ysa;TECHNO-gave-genees;VOLK-oevrin;EROS-STOP-Z7-oevrin;SEKTE-annalisten;D1-oevrin-geld
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13029,8 +13029,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-27;GOD-ysa;RECHT-tribunaal;VOLK-myrrhen;LEER-zonde-boete;SEKTE-wortelbroeders;PLEK-groen-korf
-- **verwijst_naar:** KINK-Z8-27;GOD-ysa;RECHT-tribunaal;VOLK-myrrhen-Z6;LEER-zonde-boete;SEKTE-wortelbroeders;PLEK-groen-korf
+- **hangt_samen_met:** KINK-Z8-27-Z50;GOD-ysa;RECHT-tribunaal;VOLK-myrrhen;LEER-zonde-boete;SEKTE-wortelbroeders;PLEK-groen-korf
+- **verwijst_naar:** KINK-Z8-27-Z50;GOD-ysa;RECHT-tribunaal;VOLK-myrrhen-Z6;LEER-zonde-boete;SEKTE-wortelbroeders;PLEK-groen-korf
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13059,8 +13059,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-28;BEST-register-macht;ECO-geld;PLEK-LICH-zaadbeurs;GEB-zaadbeurs;ECO-prijzen-mannen-zaad
-- **verwijst_naar:** KINK-Z8-28;BEST-register-macht;ECO-geld;PLEK-LICH-zaadbeurs;GEB-zaadbeurs-455;ECO-prijzen-mannen-zaad
+- **hangt_samen_met:** KINK-Z8-28-Z50;BEST-register-macht;ECO-geld;PLEK-LICH-zaadbeurs;GEB-zaadbeurs;ECO-prijzen-mannen-zaad
+- **verwijst_naar:** KINK-Z8-28-Z50;BEST-register-macht;ECO-geld;PLEK-LICH-zaadbeurs;GEB-zaadbeurs-455;ECO-prijzen-mannen-zaad
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13089,8 +13089,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MAGIE-zaadkracht), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-29;ECO-geld;TECHNO-gave;PLEK-LICH-zaadbeurs;GELD-druppel-zaad;MAGIE-zaadkracht
-- **verwijst_naar:** KINK-Z8-29;ECO-geld;TECHNO-gave;PLEK-LICH-zaadbeurs;GELD-druppel-zaad;MAGIE-zaadkracht
+- **hangt_samen_met:** KINK-Z8-29-Z50;ECO-geld;TECHNO-gave;PLEK-LICH-zaadbeurs;GELD-druppel-zaad;MAGIE-zaadkracht
+- **verwijst_naar:** KINK-Z8-29-Z50;ECO-geld;TECHNO-gave;PLEK-LICH-zaadbeurs;GELD-druppel-zaad;MAGIE-zaadkracht
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13119,8 +13119,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-30;BEST-orde-hoofd;GOD-ysa;GEB-deelwet;WET-deelwet-recht;BEST-raad-moeders;GOD-dochters-heiligen
-- **verwijst_naar:** KINK-Z8-30;BEST-orde-hoofd;GOD-ysa;GEB-deelwet-40;WET-deelwet-recht;BEST-raad-moeders;GOD-dochters-heiligen
+- **hangt_samen_met:** KINK-Z8-30-Z50;BEST-orde-hoofd;GOD-ysa;GEB-deelwet;WET-deelwet-recht;BEST-raad-moeders;GOD-dochters-heiligen
+- **verwijst_naar:** KINK-Z8-30-Z50;BEST-orde-hoofd;GOD-ysa;GEB-deelwet-40;WET-deelwet-recht;BEST-raad-moeders;GOD-dochters-heiligen
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13149,8 +13149,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-31;ECO-geld;TECHNO-gave-genees;PLEK-LICH-melkstal-amber;GEB-melkstallen;LICH-leegteziekte;REG-ambergaard
-- **verwijst_naar:** KINK-Z8-31;ECO-geld;TECHNO-gave-genees;PLEK-LICH-melkstal-amber;GEB-r10-melkstallen;LICH-leegteziekte;REG-ambergaard
+- **hangt_samen_met:** KINK-Z8-31-Z50;ECO-geld;TECHNO-gave-genees;PLEK-LICH-melkstal-amber;GEB-melkstallen;LICH-leegteziekte;REG-ambergaard
+- **verwijst_naar:** KINK-Z8-31-Z50;ECO-geld;TECHNO-gave-genees;PLEK-LICH-melkstal-amber;GEB-r10-melkstallen;LICH-leegteziekte;REG-ambergaard
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13179,8 +13179,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-geheim-stillehand;BEST-register), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-32;BEST-geheim-stillehand;RECHT-tribunaal;BEST-register;ORDE-rol-orde;PLEK-saelith-registerkelder;RECHT-huisrecht
-- **verwijst_naar:** KINK-Z8-32;BEST-geheim-stillehand;RECHT-tribunaal;BEST-register;ORDE-rol-orde;PLEK-saelith-registerkelder;RECHT-huisrecht
+- **hangt_samen_met:** KINK-Z8-32-Z50;BEST-geheim-stillehand;RECHT-tribunaal;BEST-register;ORDE-rol-orde;PLEK-saelith-registerkelder;RECHT-huisrecht
+- **verwijst_naar:** KINK-Z8-32-Z50;BEST-geheim-stillehand;RECHT-tribunaal;BEST-register;ORDE-rol-orde;PLEK-saelith-registerkelder;RECHT-huisrecht
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13209,8 +13209,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-geheim-stillehand;PER-Z7-jorrit), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-33;BEST-geheim-stillehand;ECO-geld;STAD-brakhaven;GELD-smokkelroutes;PER-Z7-jorrit
-- **verwijst_naar:** KINK-Z8-33;BEST-geheim-stillehand;ECO-geld;STAD-brakhaven;GELD-smokkelroutes;PER-Z7-jorrit
+- **hangt_samen_met:** KINK-Z8-33-Z50;BEST-geheim-stillehand;ECO-geld;STAD-brakhaven;GELD-smokkelroutes;PER-Z7-jorrit
+- **verwijst_naar:** KINK-Z8-33-Z50;BEST-geheim-stillehand;ECO-geld;STAD-brakhaven;GELD-smokkelroutes;PER-Z7-jorrit
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13239,8 +13239,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-orde-hoofd;ORDE-doel-geloof), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-34;GOD-ysa;BEST-orde-hoofd;ORDE-doel-geloof;FEEST-dochterdag;PLEK-LICH-ontvangstzaal
-- **verwijst_naar:** KINK-Z8-34;GOD-ysa;BEST-orde-hoofd;ORDE-doel-geloof;FEEST-dochterdag;PLEK-LICH-ontvangstzaal
+- **hangt_samen_met:** KINK-Z8-34-Z50;GOD-ysa;BEST-orde-hoofd;ORDE-doel-geloof;FEEST-dochterdag;PLEK-LICH-ontvangstzaal
+- **verwijst_naar:** KINK-Z8-34-Z50;GOD-ysa;BEST-orde-hoofd;ORDE-doel-geloof;FEEST-dochterdag;PLEK-LICH-ontvangstzaal
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13269,8 +13269,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-belasting;BEST-register-macht), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-35;BEST-register-macht;RECHT-tribunaal;BODY-Z8-38;BEST-belasting;STAD-saelith;WET-wetten-straffen
-- **verwijst_naar:** KINK-Z8-35;BEST-register-macht;RECHT-tribunaal;BODY-Z8-38-L10;BEST-belasting;STAD-saelith;WET-wetten-straffen
+- **hangt_samen_met:** KINK-Z8-35-Z50;BEST-register-macht;RECHT-tribunaal;BODY-Z8-38;BEST-belasting;STAD-saelith;WET-wetten-straffen
+- **verwijst_naar:** KINK-Z8-35-Z50;BEST-register-macht;RECHT-tribunaal;BODY-Z8-38-L10;BEST-belasting;STAD-saelith;WET-wetten-straffen
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13299,8 +13299,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-gilden;BEST-register;BEST-register-macht), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-36;TECHNO-gave;BEST-register-macht;BEST-gilden;BODY-Z8-5;BEST-register;TECHNO-gave-genees
-- **verwijst_naar:** KINK-Z8-36;TECHNO-gave;BEST-register-macht;BEST-gilden;BODY-Z8-5;BEST-register;TECHNO-gave-genees
+- **hangt_samen_met:** KINK-Z8-36-Z50;TECHNO-gave;BEST-register-macht;BEST-gilden;BODY-Z8-5;BEST-register;TECHNO-gave-genees
+- **verwijst_naar:** KINK-Z8-36-Z50;TECHNO-gave;BEST-register-macht;BEST-gilden;BODY-Z8-5;BEST-register;TECHNO-gave-genees
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13329,8 +13329,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-geheim-stillehand;BEST-orde-hoofd), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-37;BEST-geheim-stillehand;BEST-orde-hoofd;BODY-Z8-17;ORDE-opleiding;STAD-saelith
-- **verwijst_naar:** KINK-Z8-37;BEST-geheim-stillehand;BEST-orde-hoofd;BODY-Z8-17;ORDE-opleiding;STAD-saelith
+- **hangt_samen_met:** KINK-Z8-37-Z50;BEST-geheim-stillehand;BEST-orde-hoofd;BODY-Z8-17;ORDE-opleiding;STAD-saelith
+- **verwijst_naar:** KINK-Z8-37-Z50;BEST-geheim-stillehand;BEST-orde-hoofd;BODY-Z8-17;ORDE-opleiding;STAD-saelith
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13359,8 +13359,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-gilden;BEST-huis-mirre;BEST-register-macht), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-38;ECO-geld;BEST-register-macht;BEST-gilden;ECO-wie-werkt;BEST-huis-mirre;DAG-werk
-- **verwijst_naar:** KINK-Z8-38;ECO-geld;BEST-register-macht;BEST-gilden;ECO-wie-werkt;BEST-huis-mirre;DAG-werk
+- **hangt_samen_met:** KINK-Z8-38-Z50;ECO-geld;BEST-register-macht;BEST-gilden;ECO-wie-werkt;BEST-huis-mirre;DAG-werk
+- **verwijst_naar:** KINK-Z8-38-Z50;ECO-geld;BEST-register-macht;BEST-gilden;ECO-wie-werkt;BEST-huis-mirre;DAG-werk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13389,8 +13389,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-39;GOD-ysa;TECHNO-gave-genees;GEB-grote-pest;KAL-kalender
-- **verwijst_naar:** KINK-Z8-39;GOD-ysa;TECHNO-gave-genees;GEB-pest-340;KAL-kalender
+- **hangt_samen_met:** KINK-Z8-39-Z50;GOD-ysa;TECHNO-gave-genees;GEB-grote-pest;KAL-kalender
+- **verwijst_naar:** KINK-Z8-39-Z50;GOD-ysa;TECHNO-gave-genees;GEB-pest-340;KAL-kalender
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13419,8 +13419,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-geheim-stillehand;BEST-stad), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-40;BEST-geheim-stillehand;ECO-geld;STAD-brakhaven;GELD-smokkelroutes;PLEK-zoutkust-herberg;BEST-stad
-- **verwijst_naar:** KINK-Z8-40;BEST-geheim-stillehand;ECO-geld;STAD-brakhaven;GELD-smokkelroutes;PLEK-zoutkust-herberg;BEST-stad
+- **hangt_samen_met:** KINK-Z8-40-Z50;BEST-geheim-stillehand;ECO-geld;STAD-brakhaven;GELD-smokkelroutes;PLEK-zoutkust-herberg;BEST-stad
+- **verwijst_naar:** KINK-Z8-40-Z50;BEST-geheim-stillehand;ECO-geld;STAD-brakhaven;GELD-smokkelroutes;PLEK-zoutkust-herberg;BEST-stad
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13449,8 +13449,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-41;GOD-ysa;TECHNO-gave;SEKTE-lampenwakers;FEEST-lampenfeest;PLEK-LICH-lampenfeest;GOD-dochters-heiligen
-- **verwijst_naar:** KINK-Z8-41;GOD-ysa;TECHNO-gave;SEKTE-lampenwakers;FEEST-lampenfeest;PLEK-LICH-lampenfeest;GOD-dochters-heiligen
+- **hangt_samen_met:** KINK-Z8-41-Z50;GOD-ysa;TECHNO-gave;SEKTE-lampenwakers;FEEST-lampenfeest;PLEK-LICH-lampenfeest;GOD-dochters-heiligen
+- **verwijst_naar:** KINK-Z8-41-Z50;GOD-ysa;TECHNO-gave;SEKTE-lampenwakers;FEEST-lampenfeest;PLEK-LICH-lampenfeest;GOD-dochters-heiligen
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13509,8 +13509,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-gilden), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-43;RECHT-tribunaal;TECHNO-gave-genees;STRAF-dood;BEST-gilden;WET-wetten-straffen
-- **verwijst_naar:** KINK-Z8-43;RECHT-tribunaal;TECHNO-gave-genees;STRAF-dood;BEST-gilden;WET-wetten-straffen
+- **hangt_samen_met:** KINK-Z8-43-Z50;RECHT-tribunaal;TECHNO-gave-genees;STRAF-dood;BEST-gilden;WET-wetten-straffen
+- **verwijst_naar:** KINK-Z8-43-Z50;RECHT-tribunaal;TECHNO-gave-genees;STRAF-dood;BEST-gilden;WET-wetten-straffen
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13539,8 +13539,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-leger), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-44;TECHNO-gave;BEST-leger;PLEK-kharvos-grensfort;TECHNO-gave-wapen;LICH-vonkkoorts;OORLOG-Z9-45
-- **verwijst_naar:** KINK-Z8-44;TECHNO-gave;BEST-leger;PLEK-kharvos-grensfort;TECHNO-gave-wapen;LICH-vonkkoorts;OORLOG-Z9-45
+- **hangt_samen_met:** KINK-Z8-44-Z50;TECHNO-gave;BEST-leger;PLEK-kharvos-grensfort;TECHNO-gave-wapen;LICH-vonkkoorts;OORLOG-Z9-45
+- **verwijst_naar:** KINK-Z8-44-Z50;TECHNO-gave;BEST-leger;PLEK-kharvos-grensfort;TECHNO-gave-wapen;LICH-vonkkoorts;OORLOG-Z9-45
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13569,8 +13569,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel-Z1;GEH-zegel-Z12), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-45;TECHNO-gave;GOD-ysa;TECH-REGEL;GEH-zegel-Z1;GOD-sterrensteen-heilig;GEB-zegel-verzwakt
-- **verwijst_naar:** KINK-Z8-45;TECHNO-gave;GOD-ysa;TECH-REGEL;BESLUIT-Z30-2;GOD-sterrensteen-heilig;GEB-Z41-zegel-flakkert
+- **hangt_samen_met:** KINK-Z8-45-Z50;TECHNO-gave;GOD-ysa;TECH-REGEL;GEH-zegel-Z1;GOD-sterrensteen-heilig;GEB-zegel-verzwakt
+- **verwijst_naar:** KINK-Z8-45-Z50;TECHNO-gave;GOD-ysa;TECH-REGEL;BESLUIT-Z30-2;GOD-sterrensteen-heilig;GEB-Z41-zegel-flakkert
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13599,8 +13599,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BESLUIT-Z7-BINDING;BEST-orde-hoofd;VOORW-Z7-bindsplinter), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-46;BEST-orde-hoofd;RECHT-tribunaal;VOORW-Z7-bindsplinter;BESLUIT-Z7-BINDING;RECHT-gavenrecht
-- **verwijst_naar:** KINK-Z8-46;BEST-orde-hoofd;RECHT-tribunaal;VOORW-Z7-bindsplinter;BESLUIT-Z7-BINDING;RECHT-gavenrecht
+- **hangt_samen_met:** KINK-Z8-46-Z50;BEST-orde-hoofd;RECHT-tribunaal;VOORW-Z7-bindsplinter;BESLUIT-Z7-BINDING;RECHT-gavenrecht
+- **verwijst_naar:** KINK-Z8-46-Z50;BEST-orde-hoofd;RECHT-tribunaal;VOORW-Z7-bindsplinter;BESLUIT-Z7-BINDING;RECHT-gavenrecht
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13629,8 +13629,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-huis-kaldra;BEST-leger;LICH-gijzelaarsband), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-47;ECO-geld;BEST-leger;EROS-RAUW-Z7-3;OORLOG-Z9-43;BEST-huis-kaldra;LICH-gijzelaarsband
-- **verwijst_naar:** KINK-Z8-47;ECO-geld;BEST-leger;EROS-RAUW-Z7-3;OORLOG-Z9-43;BEST-huis-kaldra;LICH-gijzelaarsband
+- **hangt_samen_met:** KINK-Z8-47-Z50;ECO-geld;BEST-leger;EROS-RAUW-Z7-3;OORLOG-Z9-43;BEST-huis-kaldra;LICH-gijzelaarsband
+- **verwijst_naar:** KINK-Z8-47-Z50;ECO-geld;BEST-leger;EROS-RAUW-Z7-3;OORLOG-Z9-43;BEST-huis-kaldra;LICH-gijzelaarsband
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13659,8 +13659,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-corruptie), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-48;ECO-geld;RECHT-tribunaal;PLEK-kharvos-slavenmarkt;BEST-corruptie;WET-smokkel;GELD-smokkelroutes
-- **verwijst_naar:** KINK-Z8-48;ECO-geld;RECHT-tribunaal;PLEK-kharvos-slavenmarkt;BEST-corruptie;WET-smokkel;GELD-smokkelroutes
+- **hangt_samen_met:** KINK-Z8-48-Z50;ECO-geld;RECHT-tribunaal;PLEK-kharvos-slavenmarkt;BEST-corruptie;WET-smokkel;GELD-smokkelroutes
+- **verwijst_naar:** KINK-Z8-48-Z50;ECO-geld;RECHT-tribunaal;PLEK-kharvos-slavenmarkt;BEST-corruptie;WET-smokkel;GELD-smokkelroutes
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13689,8 +13689,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-huis-varenne;BEST-machtswissel;BEST-orde-hoofd), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-49;BEST-orde-hoofd;BEST-register-macht;STRAF-schandpodium;BEST-machtswissel;BEST-huis-varenne
-- **verwijst_naar:** KINK-Z8-49;BEST-orde-hoofd;BEST-register-macht;STRAF-schandpodium;BEST-machtswissel;BEST-huis-varenne
+- **hangt_samen_met:** KINK-Z8-49-Z50;BEST-orde-hoofd;BEST-register-macht;STRAF-schandpodium;BEST-machtswissel;BEST-huis-varenne
+- **verwijst_naar:** KINK-Z8-49-Z50;BEST-orde-hoofd;BEST-register-macht;STRAF-schandpodium;BEST-machtswissel;BEST-huis-varenne
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13719,8 +13719,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-register), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-50;RECHT-tribunaal;ECO-geld;STRAF-brandmerk;BEST-register;LICH-merkweefsel;WET-erfrecht
-- **verwijst_naar:** KINK-Z8-50;RECHT-tribunaal;ECO-geld;STRAF-brandmerk;BEST-register;LICH-merkweefsel;WET-erfrecht
+- **hangt_samen_met:** KINK-Z8-50-Z50;RECHT-tribunaal;ECO-geld;STRAF-brandmerk;BEST-register;LICH-merkweefsel;WET-erfrecht
+- **verwijst_naar:** KINK-Z8-50-Z50;RECHT-tribunaal;ECO-geld;STRAF-brandmerk;BEST-register;LICH-merkweefsel;WET-erfrecht
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13749,8 +13749,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-leger), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-51;BEST-leger;ECO-geld;VOLK-karrûk;D1-karruk-geld;OORLOG-Z9-22;WET-volk-karruk
-- **verwijst_naar:** KINK-Z8-51;BEST-leger;ECO-geld;VOLK-karrûk-Z6-Z38;D1-karruk-geld;OORLOG-Z9-22;WET-volk-karruk
+- **hangt_samen_met:** KINK-Z8-51-Z50;BEST-leger;ECO-geld;VOLK-karrûk;D1-karruk-geld;OORLOG-Z9-22;WET-volk-karruk
+- **verwijst_naar:** KINK-Z8-51-Z50;BEST-leger;ECO-geld;VOLK-karrûk-Z6-Z38;D1-karruk-geld;OORLOG-Z9-22;WET-volk-karruk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13779,8 +13779,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-leger;BEST-orde-hoofd), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-52;BEST-leger;BEST-orde-hoofd;VOLK-skerra;OORLOG-Z9-33;ACTIE-Z9-12;D1-skerra-geld
-- **verwijst_naar:** KINK-Z8-52;BEST-leger;BEST-orde-hoofd;VOLK-skerra;OORLOG-Z9-33;ACTIE-Z9-12;D1-skerra-geld
+- **hangt_samen_met:** KINK-Z8-52-Z50;BEST-leger;BEST-orde-hoofd;VOLK-skerra;OORLOG-Z9-33;ACTIE-Z9-12;D1-skerra-geld
+- **verwijst_naar:** KINK-Z8-52-Z50;BEST-leger;BEST-orde-hoofd;VOLK-skerra;OORLOG-Z9-33;ACTIE-Z9-12;D1-skerra-geld
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13809,8 +13809,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-leger;BEST-volk-vathren), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-53;GOD-ysa;BEST-leger;VOLK-vathren;OORLOG-Z9-27;BEST-volk-vathren;SEKTE-bloedkerk
-- **verwijst_naar:** KINK-Z8-53;GOD-ysa;BEST-leger;VOLK-vathren-Z6;OORLOG-Z9-27;BEST-volk-vathren;SEKTE-bloedkerk
+- **hangt_samen_met:** KINK-Z8-53-Z50;GOD-ysa;BEST-leger;VOLK-vathren;OORLOG-Z9-27;BEST-volk-vathren;SEKTE-bloedkerk
+- **verwijst_naar:** KINK-Z8-53-Z50;GOD-ysa;BEST-leger;VOLK-vathren-Z6;OORLOG-Z9-27;BEST-volk-vathren;SEKTE-bloedkerk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13839,8 +13839,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-geheim-stillehand;LICH-geurband), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-54;BEST-geheim-stillehand;TECHNO-gave-genees;VOLK-tharn;LICH-geurband;D1-tharn-geld;OORLOG-Z9-31
-- **verwijst_naar:** KINK-Z8-54;BEST-geheim-stillehand;TECHNO-gave-genees;VOLK-tharn;LICH-geurband;D1-tharn-geld;OORLOG-Z9-31
+- **hangt_samen_met:** KINK-Z8-54-Z50;BEST-geheim-stillehand;TECHNO-gave-genees;VOLK-tharn;LICH-geurband;D1-tharn-geld;OORLOG-Z9-31
+- **verwijst_naar:** KINK-Z8-54-Z50;BEST-geheim-stillehand;TECHNO-gave-genees;VOLK-tharn;LICH-geurband;D1-tharn-geld;OORLOG-Z9-31
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13869,8 +13869,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-55;ECO-geld;TECHNO-gave-genees;VOLK-myrrhen;D1-myrrhen-geld;ACTIE-Z9-9;OORLOG-Z9-29
-- **verwijst_naar:** KINK-Z8-55;ECO-geld;TECHNO-gave-genees;VOLK-myrrhen-Z6;D1-myrrhen-geld;ACTIE-Z9-9;OORLOG-Z9-29
+- **hangt_samen_met:** KINK-Z8-55-Z50;ECO-geld;TECHNO-gave-genees;VOLK-myrrhen;D1-myrrhen-geld;ACTIE-Z9-9;OORLOG-Z9-29
+- **verwijst_naar:** KINK-Z8-55-Z50;ECO-geld;TECHNO-gave-genees;VOLK-myrrhen-Z6;D1-myrrhen-geld;ACTIE-Z9-9;OORLOG-Z9-29
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13899,8 +13899,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-orde-hoofd;BEST-register), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-56;BEST-orde-hoofd;ECO-geld;BEST-register;ECO-prijzen-mannen-zaad;EROS-RAUW-Z7-5;ACTIE-Z9-17
-- **verwijst_naar:** KINK-Z8-56;BEST-orde-hoofd;ECO-geld;BEST-register;ECO-prijzen-mannen-zaad;EROS-RAUW-Z7-5;ACTIE-Z9-17
+- **hangt_samen_met:** KINK-Z8-56-Z50;BEST-orde-hoofd;ECO-geld;BEST-register;ECO-prijzen-mannen-zaad;EROS-RAUW-Z7-5;ACTIE-Z9-17
+- **verwijst_naar:** KINK-Z8-56-Z50;BEST-orde-hoofd;ECO-geld;BEST-register;ECO-prijzen-mannen-zaad;EROS-RAUW-Z7-5;ACTIE-Z9-17
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13929,8 +13929,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-57;GOD-ysa;GEB-deelwet;GEB-ysa-oogstcultus;OORLOG-Z9-1;KAL-kalender
-- **verwijst_naar:** KINK-Z8-57;GOD-ysa;GEB-deelwet-40;GEB-ysa-oogstcultus;OORLOG-Z9-1;KAL-kalender
+- **hangt_samen_met:** KINK-Z8-57-Z50;GOD-ysa;GEB-deelwet;GEB-ysa-oogstcultus;OORLOG-Z9-1;KAL-kalender
+- **verwijst_naar:** KINK-Z8-57-Z50;GOD-ysa;GEB-deelwet-40;GEB-ysa-oogstcultus;OORLOG-Z9-1;KAL-kalender
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13959,8 +13959,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-geheim-stillehand;BEST-geheim-varennekring;BEST-orde-hoofd), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-58;BEST-geheim-stillehand;BEST-orde-hoofd;BEST-geheim-varennekring;BEST-orde-partijen;ORDE-stille-hand;STAD-orvane
-- **verwijst_naar:** KINK-Z8-58;BEST-geheim-stillehand;BEST-orde-hoofd;BEST-geheim-varennekring;BEST-orde-partijen;ORDE-stille-hand;STAD-orvane
+- **hangt_samen_met:** KINK-Z8-58-Z50;BEST-geheim-stillehand;BEST-orde-hoofd;BEST-geheim-varennekring;BEST-orde-partijen;ORDE-stille-hand;STAD-orvane
+- **verwijst_naar:** KINK-Z8-58-Z50;BEST-geheim-stillehand;BEST-orde-hoofd;BEST-geheim-varennekring;BEST-orde-partijen;ORDE-stille-hand;STAD-orvane
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -13989,8 +13989,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-59;GOD-ysa;GEB-deelwet;SEKTE-annalisten;BEST-makers;VOORW-Z7-registerkraai-oud
-- **verwijst_naar:** KINK-Z8-59;GOD-ysa;GEB-deelwet-40;SEKTE-annalisten;BEST-makers;VOORW-Z7-registerkraai-oud
+- **hangt_samen_met:** KINK-Z8-59-Z50;GOD-ysa;GEB-deelwet;SEKTE-annalisten;BEST-makers;VOORW-Z7-registerkraai-oud
+- **verwijst_naar:** KINK-Z8-59-Z50;GOD-ysa;GEB-deelwet-40;SEKTE-annalisten;BEST-makers;VOORW-Z7-registerkraai-oud
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -14019,8 +14019,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-geheim-stillehand), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-60;RECHT-tribunaal;BEST-geheim-stillehand;EROS-STOP-Z7-mensen-zoutkust;STRAF-brandmerk
-- **verwijst_naar:** KINK-Z8-60;RECHT-tribunaal;BEST-geheim-stillehand;EROS-STOP-Z7-mensen-zoutkust;STRAF-brandmerk
+- **hangt_samen_met:** KINK-Z8-60-Z50;RECHT-tribunaal;BEST-geheim-stillehand;EROS-STOP-Z7-mensen-zoutkust;STRAF-brandmerk
+- **verwijst_naar:** KINK-Z8-60-Z50;RECHT-tribunaal;BEST-geheim-stillehand;EROS-STOP-Z7-mensen-zoutkust;STRAF-brandmerk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -14829,8 +14829,8 @@
 - **waarom:** Ronde Z10: kinks krijgen een functie in de wereld (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** EROS-RAUW-Z7-27;GOD-ysa;VOLK-myrrhen;KINK-Z8-55;SEKTE-vleesgemeente
-- **verwijst_naar:** EROS-RAUW-Z7-27;GOD-ysa;VOLK-myrrhen-Z6;KINK-Z8-55;SEKTE-vleesgemeente
+- **hangt_samen_met:** EROS-RAUW-Z7-27;GOD-ysa;VOLK-myrrhen;KINK-Z8-55-Z50;SEKTE-vleesgemeente
+- **verwijst_naar:** EROS-RAUW-Z7-27;GOD-ysa;VOLK-myrrhen-Z6;KINK-Z8-55-Z50;SEKTE-vleesgemeente
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -16749,8 +16749,8 @@
 - **waarom:** Ronde Z10: overzicht kinknetwerk
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-1;BODY-Z8-1;EROS-RAUW-Z7-1;BEST-orde-hoofd
-- **verwijst_naar:** KINK-Z8-1;BODY-Z8-1;EROS-RAUW-Z7-1;BEST-orde-hoofd
+- **hangt_samen_met:** KINK-Z8-1-Z50;BODY-Z8-1;EROS-RAUW-Z7-1;BEST-orde-hoofd;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** KINK-Z8-1-Z50;BODY-Z8-1;EROS-RAUW-Z7-1;BEST-orde-hoofd;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -17019,8 +17019,8 @@
 - **waarom:** Ronde Z10: bijgeschreven versie van VERLEID-Z8-27 (optimalisatie)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VERLEID-Z8-27;KINK-Z8-29;EROS-GRENZEN-Z7
-- **verwijst_naar:** VERLEID-Z8-27-L10;KINK-Z8-29;EROS-GRENZEN-Z7
+- **hangt_samen_met:** VERLEID-Z8-27;KINK-Z8-29-Z50;EROS-GRENZEN-Z7
+- **verwijst_naar:** VERLEID-Z8-27-L10;KINK-Z8-29-Z50;EROS-GRENZEN-Z7
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -17319,8 +17319,8 @@
 - **waarom:** Ronde Z10: bijgeschreven versie van KINK-Z8-42 (optimalisatie) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7;VOLK-aelthir-V5), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** KINK-Z8-42;VOLK-aelthir;EROS-GRENZEN-Z7;KINKFUNC-Z10-42
-- **verwijst_naar:** KINK-Z8-42-L10;VOLK-aelthir-V5;EROS-GRENZEN-Z7;KINKFUNC-Z10-42
+- **hangt_samen_met:** KINK-Z8-42;VOLK-aelthir;EROS-GRENZEN-Z7;KINKFUNC-Z10-42;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** KINK-Z8-42-L10;VOLK-aelthir-V5;EROS-GRENZEN-Z7;KINKFUNC-Z10-42;LOT-Z44-ishvar;FASE-voortijd
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -17549,5 +17549,3335 @@
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
 - **epistemiek:** 
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-1-Z50 · Kink: Fisting: de Volle Hand
+- **code:** KINK-Z8-1-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Fisting: de Volle Hand
+- **wat:** Bij de Myrrhen is de volle hand een vertrouwensrite: wie een hand helemaal toelaat, geeft zich over aan de ander. Ook de Saelith-vormhuizen kennen het spel, en daar verkopen vormers rekzalf aan wie te snel wil, want haast scheurt. Daarom gaat het met schimmelolie en langzaam tellen, en geldt het stopwoord van het eigen volk. Je voelt warme olie, druk die toeneemt en adem die meetelt. Het is biotechniek, geen gave. Een Myrrhen-priesteres, zegt men, weet daarbij waar het Zegel in je zit. Alleen volwassenen (18+) die echt instemmen; geen dieren, en dwang tussen volwassenen hoort alleen in een gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-myrrhen;EROS-STOP-Z7-myrrhen;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-myrrhen-Z6;EROS-STOP-Z7-myrrhen;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Bij de Myrrhen is de volle hand een vertrouwensrite: wie een hand helemaal toelaat, geeft zich over aan de ander. Ook de Saelith-vormhuizen kennen het spel, en daar verkopen vormers rekzalf aan wie te snel wil, want haast scheurt. Daarom gaat het met schimmelolie en langzaam tellen, en geldt het stopwoord van het eigen volk. Je voelt warme olie, druk die toeneemt en adem die meetelt. Het is biotechniek, geen gave. Een Myrrhen-priesteres, zegt men, weet daarbij waar het Zegel in je zit. Alleen volwassenen (18+) die echt instemmen; geen dieren, en dwang tussen volwassenen hoort alleen in een gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-10-Z50 · Kink: Glanshandschoenen
+- **code:** KINK-Z8-10-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Glanshandschoenen
+- **wat:** Liora draagt ze om haar ijskoude handen te verbergen, maar de glanshandschoen komt van de Aelthir, voor wie huidcontact taboe is. Ermee raak je iemand aan zonder dat huid huid raakt: koel, glad, beheerst. De afspraak is eenvoudig. Gaat de handschoen uit, dan begint de intimiteit. Het risico zit in het ding zelf, want wie zulke handschoenen draagt, verraadt Aelthir-afkomst. Het materiaal is gekweekt, biotechniek van de Langlevenden. Spel alleen tussen volwassenen (18+) met echte instemming, nooit met dieren, en dwang uitsluitend als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-aelthir;EROS-GRENZEN-Z7;LOT-Z44-aelthir;FASE-voortijd
+- **verwijst_naar:** VOLK-aelthir-V5;EROS-GRENZEN-Z7;LOT-Z44-aelthir;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Liora draagt ze om haar ijskoude handen te verbergen, maar de glanshandschoen komt van de Aelthir, voor wie huidcontact taboe is. Ermee raak je iemand aan zonder dat huid huid raakt: koel, glad, beheerst. De afspraak is eenvoudig. Gaat de handschoen uit, dan begint de intimiteit. Het risico zit in het ding zelf, want wie zulke handschoenen draagt, verraadt Aelthir-afkomst. Het materiaal is gekweekt, biotechniek van de Langlevenden. Spel alleen tussen volwassenen (18+) met echte instemming, nooit met dieren, en dwang uitsluitend als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-11-Z50 · Kink: Zegelhars-vacuüm
+- **code:** KINK-Z8-11-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Zegelhars-vacuüm
+- **wat:** Totale stilte en druk overal: zo voelt het om volledig omhuld te worden in zegelhars die op de huid uithardt. De vormhuizen bieden het aan, met zegelsteen als techniek. Bij de mond loopt altijd een snijlijn, zodat één haal met het mes de drager bevrijdt; zonder die lijn dreigt verstikking. Sommigen zien er kunst in, en een gevangene in hars, tentoongesteld als beeld, is een haak die verhalen trekt. Wie meedoet is volwassen (18+) en stemt echt in; dieren nooit, en dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** KINK-Z8-5-Z50;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** KINK-Z8-5-Z50;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Totale stilte en druk overal: zo voelt het om volledig omhuld te worden in zegelhars die op de huid uithardt. De vormhuizen bieden het aan, met zegelsteen als techniek. Bij de mond loopt altijd een snijlijn, zodat één haal met het mes de drager bevrijdt; zonder die lijn dreigt verstikking. Sommigen zien er kunst in, en een gevangene in hars, tentoongesteld als beeld, is een haak die verhalen trekt. Wie meedoet is volwassen (18+) en stemt echt in; dieren nooit, en dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-12-Z50 · Kink: Touwen van de Zoutkust
+- **code:** KINK-Z8-12-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Touwen van de Zoutkust
+- **wat:** 'Zout' is het woord waarmee een zeeman aan de Zoutkust alles stillegt, en een mes ligt altijd binnen bereik. Daar binden zeelieden elkaar met natte scheepstouwen, in knopen die elk een naam hebben. Het ruikt naar teer en zout, het touw is koud en zwaar van het water. Wie te lang of te strak bindt, riskeert zenuwschade. Er zit geen techniek in, alleen handwerk. Eén knoop kent alleen Jorrit, en wie hem wil leren, moet Jorrit vinden. Volwassenen (18+), echte instemming, geen dieren; dwang hoort enkel in een gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** EROS-STOP-Z7-mensen-zoutkust;BESLUIT-Z7-JORRIT;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-STOP-Z7-mensen-zoutkust;BESLUIT-Z7-JORRIT;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** 'Zout' is het woord waarmee een zeeman aan de Zoutkust alles stillegt, en een mes ligt altijd binnen bereik. Daar binden zeelieden elkaar met natte scheepstouwen, in knopen die elk een naam hebben. Het ruikt naar teer en zout, het touw is koud en zwaar van het water. Wie te lang of te strak bindt, riskeert zenuwschade. Er zit geen techniek in, alleen handwerk. Eén knoop kent alleen Jorrit, en wie hem wil leren, moet Jorrit vinden. Volwassenen (18+), echte instemming, geen dieren; dwang hoort enkel in een gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-13-Z50 · Kink: Hangen in het want
+- **code:** KINK-Z8-13-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Hangen in het want
+- **wat:** Hoog boven het dek, opgehangen in touwen aan de mast, voel je wind, deining en de diepte onder je. Zeelieden van de Zoutkust doen het nooit alleen: twee anderen houden toezicht, want vallen is het echte gevaar. Er komt geen techniek aan te pas, alleen want en knoop. En wie daar hangt, ziet meer dan de golven, want vanaf de mast zie je de smokkelaars die in de mist aanleggen. Alleen voor volwassenen (18+) die het zelf willen, nooit met dieren, en overmacht alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Hoog boven het dek, opgehangen in touwen aan de mast, voel je wind, deining en de diepte onder je. Zeelieden van de Zoutkust doen het nooit alleen: twee anderen houden toezicht, want vallen is het echte gevaar. Er komt geen techniek aan te pas, alleen want en knoop. En wie daar hangt, ziet meer dan de golven, want vanaf de mast zie je de smokkelaars die in de mist aanleggen. Alleen voor volwassenen (18+) die het zelf willen, nooit met dieren, en overmacht alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-15-Z50 · Kink: IJzeren boeien van de Dhurn
+- **code:** KINK-Z8-15-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: IJzeren boeien van de Dhurn
+- **wat:** Een Dhurn-smid smeedt de boeien warm, van zwaar ijzer, en houdt zelf de sleutel. Zo spelen de Dhurn het bindspel: met gewicht om de polsen en metaalgeur op de huid. Blauwe plekken zijn de gewone prijs. Er zit geen techniek in, alleen smeedkunst van het bergvolk. Sommige boeien dragen de ingeslagen naam van een overleden geliefde, en wie ze om krijgt, draagt ook dat verdriet. Alle deelnemers zijn volwassen (18+) en stemmen in; dieren hebben geen rol, en dwang komt alleen voor als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-dhurn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-dhurn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een Dhurn-smid smeedt de boeien warm, van zwaar ijzer, en houdt zelf de sleutel. Zo spelen de Dhurn het bindspel: met gewicht om de polsen en metaalgeur op de huid. Blauwe plekken zijn de gewone prijs. Er zit geen techniek in, alleen smeedkunst van het bergvolk. Sommige boeien dragen de ingeslagen naam van een overleden geliefde, en wie ze om krijgt, draagt ook dat verdriet. Alle deelnemers zijn volwassen (18+) en stemmen in; dieren hebben geen rol, en dwang komt alleen voor als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-16-Z50 · Kink: Slagwerk met de rietzweep
+- **code:** KINK-Z8-16-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Slagwerk met de rietzweep
+- **wat:** Het fluiten van het riet hoor je eerst, daarna komen de striemen en de warmte. De rietzweep was in Saelith een strafinstrument voordat ze lust werd, en de huizen houden haar nu voor wie dat verlangt. Er wordt hardop geteld; wie het tellen kwijtraakt, stopt. Bloed is de prijs als het misgaat. Techniek is er niet bij. In een bordeel hangt nog de strafzweep van een Moeder, en niemand weet hoe ze daar kwam. Uitsluitend volwassenen (18+) met echte instemming; geen dieren, dwang alleen gelabeld als donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Het fluiten van het riet hoor je eerst, daarna komen de striemen en de warmte. De rietzweep was in Saelith een strafinstrument voordat ze lust werd, en de huizen houden haar nu voor wie dat verlangt. Er wordt hardop geteld; wie het tellen kwijtraakt, stopt. Bloed is de prijs als het misgaat. Techniek is er niet bij. In een bordeel hangt nog de strafzweep van een Moeder, en niemand weet hoe ze daar kwam. Uitsluitend volwassenen (18+) met echte instemming; geen dieren, dwang alleen gelabeld als donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-17-Z50 · Kink: Slagwerk met de hand
+- **code:** KINK-Z8-17-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Slagwerk met de hand
+- **wat:** Wie linkshandig is, verraadt zich met de eerste klap. Slaan met de vlakke hand is het rauwe, intieme spel van geliefden en het komt overal in Velmara voor. Je voelt de klap en daarna de hitte die blijft. De afspraak is dat een rode huid genoeg is. Het risico is klein en er komt geen techniek aan te pas. Juist die eenvoud maakt het tot het meest gedeelde spel tussen minnaars. Het blijft tussen volwassenen (18+) die instemmen, zonder dieren, en dwang hoort alleen in een gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Wie linkshandig is, verraadt zich met de eerste klap. Slaan met de vlakke hand is het rauwe, intieme spel van geliefden en het komt overal in Velmara voor. Je voelt de klap en daarna de hitte die blijft. De afspraak is dat een rode huid genoeg is. Het risico is klein en er komt geen techniek aan te pas. Juist die eenvoud maakt het tot het meest gedeelde spel tussen minnaars. Het blijft tussen volwassenen (18+) die instemmen, zonder dieren, en dwang hoort alleen in een gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-18-Z50 · Kink: Karrûk-littekenspel
+- **code:** KINK-Z8-18-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Karrûk-littekenspel
+- **wat:** Een Karrûk-litteken is ook een kaart, voor wie het leert lezen. Tijdens seks snijden Karrûk elkaar sierlittekens, en dat mag alleen met een getuige-oudste erbij. Het ruikt naar bloed en ijzer, en de pijn hoort bij het genot. Infectie is de prijs van slordig werk. Techniek gebruiken ze niet, alleen het mes. Bij een krijgersvolk dat elke huid als archief draagt, vertelt iedere snede wie je nam en waar. Deelnemers zijn volwassen (18+) en stemmen echt in; dieren nooit, dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-karrûk;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een Karrûk-litteken is ook een kaart, voor wie het leert lezen. Tijdens seks snijden Karrûk elkaar sierlittekens, en dat mag alleen met een getuige-oudste erbij. Het ruikt naar bloed en ijzer, en de pijn hoort bij het genot. Infectie is de prijs van slordig werk. Techniek gebruiken ze niet, alleen het mes. Bij een krijgersvolk dat elke huid als archief draagt, vertelt iedere snede wie je nam en waar. Deelnemers zijn volwassen (18+) en stemmen echt in; dieren nooit, dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-19-Z50 · Kink: Onderwerping in de rang
+- **code:** KINK-Z8-19-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Onderwerping in de rang
+- **wat:** Zachte bevelen in het donker, fluweel onder haar knieën: een vrouw van hoge rang in een Saelith-huis wil bevolen worden. Dat kan alleen in het donker, en er wordt nooit over gepraat. Komt het uit, dan volgt schandaal. Er is geen techniek bij nodig. Het gevaar zit in wat na bed overblijft, want haar onderdaan wordt buiten bed langzaam haar meester. Alleen volwassenen (18+) met echte instemming, geen dieren in enige rol, en dwang uitsluitend als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Zachte bevelen in het donker, fluweel onder haar knieën: een vrouw van hoge rang in een Saelith-huis wil bevolen worden. Dat kan alleen in het donker, en er wordt nooit over gepraat. Komt het uit, dan volgt schandaal. Er is geen techniek bij nodig. Het gevaar zit in wat na bed overblijft, want haar onderdaan wordt buiten bed langzaam haar meester. Alleen volwassenen (18+) met echte instemming, geen dieren in enige rol, en dwang uitsluitend als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-2-Z50 · Kink: Fisting met gloeiende hand
+- **code:** KINK-Z8-2-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Fisting met gloeiende hand
+- **wat:** Licht dat door de buik schijnt: zo zie je een Ishvar-hand die van binnen verwarmt. Ishvar-minnaars spelen dit alleen met een dimmende gloed, en het woord 'as' stopt alles. Het werkt via de gave, en de prijs is ernstig, want een te felle gloed geeft brandwonden van binnen. Je voelt een hitte die je nergens anders voelt. Liora's koude handen zijn er het omgekeerde van, en dat maakt de twee tot een tegenstelling die verhalen trekt. Volwassenen (18+) die echt instemmen; nooit dieren, dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-ishvar;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** VOLK-ishvar;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Licht dat door de buik schijnt: zo zie je een Ishvar-hand die van binnen verwarmt. Ishvar-minnaars spelen dit alleen met een dimmende gloed, en het woord 'as' stopt alles. Het werkt via de gave, en de prijs is ernstig, want een te felle gloed geeft brandwonden van binnen. Je voelt een hitte die je nergens anders voelt. Liora's koude handen zijn er het omgekeerde van, en dat maakt de twee tot een tegenstelling die verhalen trekt. Volwassenen (18+) die echt instemmen; nooit dieren, dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-20-Z50 · Kink: Machtsruil man-vrouw
+- **code:** KINK-Z8-20-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Machtsruil man-vrouw
+- **wat:** Voor één nacht beveelt de man. In een matriarchale wereld is dat het hele spel, en rebelse paren spelen het. De vrouw kiest welke nacht, zodat de omkering een gift blijft en geen greep. Wat je voelt zijn omgekeerde rollen, meer niet; techniek is er niet bij. De Orde noemt het opruiing en de Mannenraad gebruikt het als symbool, dus een slaapkamer wordt zo politiek. Het geldt alleen tussen volwassenen (18+) die instemmen, zonder dieren, en dwang slechts als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Voor één nacht beveelt de man. In een matriarchale wereld is dat het hele spel, en rebelse paren spelen het. De vrouw kiest welke nacht, zodat de omkering een gift blijft en geen greep. Wat je voelt zijn omgekeerde rollen, meer niet; techniek is er niet bij. De Orde noemt het opruiing en de Mannenraad gebruikt het als symbool, dus een slaapkamer wordt zo politiek. Het geldt alleen tussen volwassenen (18+) die instemmen, zonder dieren, en dwang slechts als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-21-Z50 · Kink: Bondage op de ontvangsttafel
+- **code:** KINK-Z8-21-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Bondage op de ontvangsttafel
+- **wat:** Een man die in de banden glimlacht, maakt de priesteres onrustig. Bij dit Orde-ritueel wordt de gaven-man op de ontvangsttafel vastgebonden zodat de vrouw neemt, en de priesteres beslist wanneer het genoeg is. Er is leer, kaarslicht en gebed. Het werkt via de gave en het kost hem iets echts: de man raakt leeg. Daarom waakt de priesteres over hem en niet over haar. Ook hier zijn alle betrokkenen volwassen (18+) en stemt hij echt in; geen dieren, en dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een man die in de banden glimlacht, maakt de priesteres onrustig. Bij dit Orde-ritueel wordt de gaven-man op de ontvangsttafel vastgebonden zodat de vrouw neemt, en de priesteres beslist wanneer het genoeg is. Er is leer, kaarslicht en gebed. Het werkt via de gave en het kost hem iets echts: de man raakt leeg. Daarom waakt de priesteres over hem en niet over haar. Ook hier zijn alle betrokkenen volwassen (18+) en stemt hij echt in; geen dieren, en dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-22-Z50 · Kink: Tuigen van leer en hars
+- **code:** KINK-Z8-22-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Tuigen van leer en hars
+- **wat:** Gespen, leer en zweet: tuigen zijn harnassen die over het hele lichaam lopen, gedragen in de Wacht en in de vormhuizen. Elk tuig heeft een eigen betekenis, en wie het aantrekt, kent die afspraak. Schaafwonden zijn de prijs van een slecht passend tuig. Techniek zit er niet in. Eén tuig gaat rond in de verhalen, dat van een gevallen kapitein, en wie het draagt, krijgt zijn vijanden erbij. Alleen voor volwassenen (18+) die instemmen; geen dieren, en dwang uitsluitend als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Gespen, leer en zweet: tuigen zijn harnassen die over het hele lichaam lopen, gedragen in de Wacht en in de vormhuizen. Elk tuig heeft een eigen betekenis, en wie het aantrekt, kent die afspraak. Schaafwonden zijn de prijs van een slecht passend tuig. Techniek zit er niet in. Eén tuig gaat rond in de verhalen, dat van een gevallen kapitein, en wie het draagt, krijgt zijn vijanden erbij. Alleen voor volwassenen (18+) die instemmen; geen dieren, en dwang uitsluitend als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-23-Z50 · Kink: Paardentuig van Kharvos
+- **code:** KINK-Z8-23-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Paardentuig van Kharvos
+- **wat:** Hoefgeklak op de stenen, ijzer in de mond: bij de Kharvos-ruiters speelt een volwassen mens het 'paard', met bit en teugel. Gaat het bit uit, dan is het spel voorbij. Kaakpijn is de prijs van een lange rit. Er zit geen techniek in, maar de hoefijzers zijn van Harrow-metaal, en die zingen ook hier, zoals overal waar Kharvos komt. Het blijft een mensenspel: alle deelnemers volwassen (18+) en instemmend, nooit een dier in een seksuele rol, dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** REG-kharvos;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-kharvos-B1;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Hoefgeklak op de stenen, ijzer in de mond: bij de Kharvos-ruiters speelt een volwassen mens het 'paard', met bit en teugel. Gaat het bit uit, dan is het spel voorbij. Kaakpijn is de prijs van een lange rit. Er zit geen techniek in, maar de hoefijzers zijn van Harrow-metaal, en die zingen ook hier, zoals overal waar Kharvos komt. Het blijft een mensenspel: alle deelnemers volwassen (18+) en instemmend, nooit een dier in een seksuele rol, dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-24-Z50 · Kink: Maskers van lak
+- **code:** KINK-Z8-24-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Maskers van lak
+- **wat:** Onder het masker kan de rivale staan. Op de maskerballen van Saelith geeft een masker van lak volledige anonimiteit, en wie het afzet, beëindigt het spel. Je ruikt lak en parfum, je leest alleen een blik. Daardoor raakt men in de war over wie wie is, en dat is precies het risico. Techniek is er niet. Het masker ontslaat niemand van de regels: volwassenen (18+) met echte instemming, geen dieren, en dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** VERLEID-Z8-27;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VERLEID-Z8-27-L10;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Onder het masker kan de rivale staan. Op de maskerballen van Saelith geeft een masker van lak volledige anonimiteit, en wie het afzet, beëindigt het spel. Je ruikt lak en parfum, je leest alleen een blik. Daardoor raakt men in de war over wie wie is, en dat is precies het risico. Techniek is er niet. Het masker ontslaat niemand van de regels: volwassenen (18+) met echte instemming, geen dieren, en dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-25-Z50 · Kink: Knevels van zoutzijde
+- **code:** KINK-Z8-25-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Knevels van zoutzijde
+- **wat:** Drie knipperingen, of een bal die je loslaat: dat is het teken, want met een knevel in de mond kun je geen stopwoord meer zeggen. Knevels van zoutzijde komen overal voor en maken van stilte een overgave. Zijde en speeksel, verder niets. Er is geen techniek bij. Een knevel kan ook een geheim smoren, en dan wordt het spel een verhoor of een redding. Volwassenen (18+) die echt instemmen; geen dieren, dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Drie knipperingen, of een bal die je loslaat: dat is het teken, want met een knevel in de mond kun je geen stopwoord meer zeggen. Knevels van zoutzijde komen overal voor en maken van stilte een overgave. Zijde en speeksel, verder niets. Er is geen techniek bij. Een knevel kan ook een geheim smoren, en dan wordt het spel een verhoor of een redding. Volwassenen (18+) die echt instemmen; geen dieren, dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-26-Z50 · Kink: Blinddoek van Oevrin-stof
+- **code:** KINK-Z8-26-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Blinddoek van Oevrin-stof
+- **wat:** Grijs betekent stop. Een blinddoek van Oevrin-stof laat in het donker de kleur zien van wie je aanraakt, en Oevrin en mensen gebruiken hem samen. Het is biotechniek uit het slik. Je ziet duisternis vol kleuren, en soms zie je wat je niet wilt zien. De blinddoek kan zelfs iemands leugen tonen, en wie hem ooit droeg, kijkt anders naar zijn minnaar. Alleen tussen volwassen (18+), sprekende wezens die instemmen; nooit dieren, en dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-oevrin;EROS-GRENZEN-Z7;LOT-Z44-oevrin;FASE-voortijd
+- **verwijst_naar:** VOLK-oevrin;EROS-GRENZEN-Z7;LOT-Z44-oevrin;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Grijs betekent stop. Een blinddoek van Oevrin-stof laat in het donker de kleur zien van wie je aanraakt, en Oevrin en mensen gebruiken hem samen. Het is biotechniek uit het slik. Je ziet duisternis vol kleuren, en soms zie je wat je niet wilt zien. De blinddoek kan zelfs iemands leugen tonen, en wie hem ooit droeg, kijkt anders naar zijn minnaar. Alleen tussen volwassen (18+), sprekende wezens die instemmen; nooit dieren, en dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-27-Z50 · Kink: Kooien van gevlochten wortel
+- **code:** KINK-Z8-27-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Kooien van gevlochten wortel
+- **wat:** Deze kooi ademt. De Myrrhen en de vormhuizen vlechten kooien van levende wortel, en de sleutel is een gezongen woord. Binnen ruik je hout en aarde en voel je warme adem uit het vlechtwerk. Het is biotechniek, en dus groeit het: laat je de kooi te lang staan, dan groeit ze dicht. Er gaan verhalen over een kooi die niet meer open wil. Alle betrokkenen zijn volwassen (18+) en stemmen echt in; dieren hebben geen rol, dwang uitsluitend als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-myrrhen;EROS-GRENZEN-Z7;LOT-Z44-myrrhen;FASE-markt
+- **verwijst_naar:** VOLK-myrrhen-Z6;EROS-GRENZEN-Z7;LOT-Z44-myrrhen;FASE-markt
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Deze kooi ademt. De Myrrhen en de vormhuizen vlechten kooien van levende wortel, en de sleutel is een gezongen woord. Binnen ruik je hout en aarde en voel je warme adem uit het vlechtwerk. Het is biotechniek, en dus groeit het: laat je de kooi te lang staan, dan groeit ze dicht. Er gaan verhalen over een kooi die niet meer open wil. Alle betrokkenen zijn volwassen (18+) en stemmen echt in; dieren hebben geen rol, dwang uitsluitend als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-28-Z50 · Kink: Kooien als status
+- **code:** KINK-Z8-28-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Kooien als status
+- **wat:** Wie in Saelith rijk is, laat het zien met een man in een versierde kooi van goud en fluweel. Hij zit er vrijwillig, is volwassen, en heeft zelf de sleutel. De prijs is vernedering in het openbaar, want iedereen ziet hem. Techniek is er niet bij. Maar de kooi staat midden in het huis en de man hoort alles, dus soms is de man in de kooi een spion. Volwassenen (18+) met echte instemming, geen dieren, en dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Wie in Saelith rijk is, laat het zien met een man in een versierde kooi van goud en fluweel. Hij zit er vrijwillig, is volwassen, en heeft zelf de sleutel. De prijs is vernedering in het openbaar, want iedereen ziet hem. Techniek is er niet bij. Maar de kooi staat midden in het huis en de man hoort alles, dus soms is de man in de kooi een spion. Volwassenen (18+) met echte instemming, geen dieren, en dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-29-Z50 · Kink: Zaadspel
+- **code:** KINK-Z8-29-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Zaadspel
+- **wat:** Een vrouw die zaad verzamelt in flesjes, is in Velmara geen curiositeit maar een handelaarster. Zaad wordt gedronken, als zalf gesmeerd of geofferd, overal; gaven-zaad is het duurst. De ontvangstwet regelt wie mag geven en ontvangen. Het smaakt zout en warm en het plakt. Via de gave geeft het kracht, maar de prijs is de Leegte. Het spel geldt alleen tussen volwassenen (18+) die echt instemmen; nooit dieren, en dwang slechts als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een vrouw die zaad verzamelt in flesjes, is in Velmara geen curiositeit maar een handelaarster. Zaad wordt gedronken, als zalf gesmeerd of geofferd, overal; gaven-zaad is het duurst. De ontvangstwet regelt wie mag geven en ontvangen. Het smaakt zout en warm en het plakt. Via de gave geeft het kracht, maar de prijs is de Leegte. Het spel geldt alleen tussen volwassenen (18+) die echt instemmen; nooit dieren, en dwang slechts als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-3-Z50 · Kink: Fisting als zaadritueel
+- **code:** KINK-Z8-3-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Fisting als zaadritueel
+- **wat:** De Orde verbiedt het, en daarom gebeurt het. Priesteressen van de ontvangst brengen gaven-zaad met de hand diep in voor maximale kracht, aan de ontvangsttafel en onder gebed. Het ruikt naar zout, zaad en kaarsvet. De prijs is hoog: een overdosis kracht en daarna een dubbele Leegte. Het werkt via de gave. Wat verboden is, wordt in de kelders begeerd. Alleen volwassenen (18+) die echt instemmen, geen dieren in een seksuele rol, en dwang uitsluitend als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De Orde verbiedt het, en daarom gebeurt het. Priesteressen van de ontvangst brengen gaven-zaad met de hand diep in voor maximale kracht, aan de ontvangsttafel en onder gebed. Het ruikt naar zout, zaad en kaarsvet. De prijs is hoog: een overdosis kracht en daarna een dubbele Leegte. Het werkt via de gave. Wat verboden is, wordt in de kelders begeerd. Alleen volwassenen (18+) die echt instemmen, geen dieren in een seksuele rol, en dwang uitsluitend als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-30-Z50 · Kink: Zaad delen
+- **code:** KINK-Z8-30-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Zaad delen
+- **wat:** Aan de Zoutkust trekken twee vrouwen lot om wie begint, en dan delen ze het zaad van één man: met mond, tong en een kus. Het werkt via de gave, en daarom wordt er geteld. Ruzie om wie het meeste kreeg is het gewone risico. Erger is wanneer de ene vrouw meer kracht kreeg en de ander het weet. Dan wordt een nacht een vete. Volwassenen (18+), echte instemming van alle drie, geen dieren; dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Aan de Zoutkust trekken twee vrouwen lot om wie begint, en dan delen ze het zaad van één man: met mond, tong en een kus. Het werkt via de gave, en daarom wordt er geteld. Ruzie om wie het meeste kreeg is het gewone risico. Erger is wanneer de ene vrouw meer kracht kreeg en de ander het weet. Dan wordt een nacht een vete. Volwassenen (18+), echte instemming van alle drie, geen dieren; dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-31-Z50 · Kink: Melkspel
+- **code:** KINK-Z8-31-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Melkspel
+- **wat:** Zoet en warm, en met een vleugje vonk: zo smaakt de melk van vrouwen die door vorming lacteren. De vormhuizen maken het mogelijk, alleen bij volwassen vrouwen en alleen vrijwillig, met een vormteken als bewijs van de afspraak. Het is biotechniek, en vorming kost altijd iets van het lichaam. Wat er in die melk zit, weet niemand precies, en juist dat vleugje vonk maakt haar gezocht. Alleen tussen volwassenen (18+) die echt instemmen; geen dieren, en dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** BODY-Z8-46;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** BODY-Z8-46-L10;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Zoet en warm, en met een vleugje vonk: zo smaakt de melk van vrouwen die door vorming lacteren. De vormhuizen maken het mogelijk, alleen bij volwassen vrouwen en alleen vrijwillig, met een vormteken als bewijs van de afspraak. Het is biotechniek, en vorming kost altijd iets van het lichaam. Wat er in die melk zit, weet niemand precies, en juist dat vleugje vonk maakt haar gezocht. Alleen tussen volwassenen (18+) die echt instemmen; geen dieren, en dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-32-Z50 · Kink: Voyeurisme achter het rooster
+- **code:** KINK-Z8-32-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Voyeurisme achter het rooster
+- **wat:** Achter het rooster hoor je adem en gekraak en zie je kaarslicht dansen. Priesteressen en leden van de Mannenraad kijken daar naar de ontvangst, en de afspraak is dat kijkers zwijgen. Ontdekking is het risico. Er is geen techniek bij. Wie keek, kan getuigen, en een getuige van een ontvangst is in Saelith goud waard of levensgevaarlijk. Iedereen achter en voor het rooster is volwassen (18+) en instemmend; geen dieren, dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** EROS-RAUW-Z7-1;EROS-GRENZEN-Z7;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** EROS-RAUW-Z7-1;EROS-GRENZEN-Z7;LOT-Z44-zegellicht;FASE-ontvangst
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Achter het rooster hoor je adem en gekraak en zie je kaarslicht dansen. Priesteressen en leden van de Mannenraad kijken daar naar de ontvangst, en de afspraak is dat kijkers zwijgen. Ontdekking is het risico. Er is geen techniek bij. Wie keek, kan getuigen, en een getuige van een ontvangst is in Saelith goud waard of levensgevaarlijk. Iedereen achter en voor het rooster is volwassen (18+) en instemmend; geen dieren, dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-33-Z50 · Kink: Kijkgaten in Brakhaven
+- **code:** KINK-Z8-33-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Kijkgaten in Brakhaven
+- **wat:** In de havenkroegen van Brakhaven gooi je een munt in de gleuf, en dan mag je kijken. Het ruikt er naar zweet, je hoort gefluister door het hout. Maar de kijker wordt zelf bekeken, en Sef verkoopt alles wat door die gaten te zien is. Techniek is er niet, alleen gaten in planken. Zo wordt een kroeg aan de Zoutkust een markt voor geheimen. Wie meedoet aan beide kanten van de wand is volwassen (18+) en stemt in; geen dieren, dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In de havenkroegen van Brakhaven gooi je een munt in de gleuf, en dan mag je kijken. Het ruikt er naar zweet, je hoort gefluister door het hout. Maar de kijker wordt zelf bekeken, en Sef verkoopt alles wat door die gaten te zien is. Techniek is er niet, alleen gaten in planken. Zo wordt een kroeg aan de Zoutkust een markt voor geheimen. Wie meedoet aan beide kanten van de wand is volwassen (18+) en stemt in; geen dieren, dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-34-Z50 · Kink: Publiek: de ontvangst op het plein
+- **code:** KINK-Z8-34-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Publiek: de ontvangst op het plein
+- **wat:** Het plein onthoudt een naam. Op Saelithse feestdagen vindt de ontvangst in het openbaar plaats, met menigte, wierook en applaus, en alleen gewijden mogen deelnemen. Het werkt via de gave. De prijs komt later, als schaamte, wanneer de feestroes weg is en iedereen nog weet wie er lag. Zo wordt een heilige daad een stadsgesprek dat jaren meegaat. Alleen volwassenen (18+) die echt instemmen, geen dieren, en dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Het plein onthoudt een naam. Op Saelithse feestdagen vindt de ontvangst in het openbaar plaats, met menigte, wierook en applaus, en alleen gewijden mogen deelnemen. Het werkt via de gave. De prijs komt later, als schaamte, wanneer de feestroes weg is en iedereen nog weet wie er lag. Zo wordt een heilige daad een stadsgesprek dat jaren meegaat. Alleen volwassenen (18+) die echt instemmen, geen dieren, en dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-35-Z50 · Kink: Exhibitionisme in glanshuid
+- **code:** KINK-Z8-35-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Exhibitionisme in glanshuid
+- **wat:** Glans in de zon, en een hele straat die kijkt: Saelithse jongeren, allemaal volwassen, lopen in latexhuid door de stad. De Glanswet bepaalt wat mag, en wie haar overtreedt, betaalt boetes. De huid is biotechniek, gekweekt en strak. Eén parade liep uit op rellen, en sindsdien is elke optocht in glans een vraag aan de Wacht. Alle deelnemers zijn 18+ en kiezen het zelf; er spelen geen dieren mee, en dwang hoort alleen in een gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** BODY-Z8-38;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** BODY-Z8-38-L10;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Glans in de zon, en een hele straat die kijkt: Saelithse jongeren, allemaal volwassen, lopen in latexhuid door de stad. De Glanswet bepaalt wat mag, en wie haar overtreedt, betaalt boetes. De huid is biotechniek, gekweekt en strak. Eén parade liep uit op rellen, en sindsdien is elke optocht in glans een vraag aan de Wacht. Alle deelnemers zijn 18+ en kiezen het zelf; er spelen geen dieren mee, en dwang hoort alleen in een gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-36-Z50 · Kink: Vormspel als kink
+- **code:** KINK-Z8-36-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Vormspel als kink
+- **wat:** Tintelen, groei, spanning in de huid: in de vormhuizen laten minnaars delen van het lichaam zwellen of krimpen tijdens seks. Een vormmeesteres is scheidsrechter en bepaalt waar de grens ligt. Het is biotechniek, en het lichaam kan afstoting geven. Gevaarlijk wordt het met een minnaar die steeds verder wil, want de meesteres kan nee zeggen maar de lust niet stillen. Alleen volwassenen (18+) die echt instemmen; nooit dieren, en dwang slechts als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** BODY-Z8-36;EROS-GRENZEN-Z7;LOT-Z44-leegtewormen;FASE-overvloed
+- **verwijst_naar:** BODY-Z8-36-L10;EROS-GRENZEN-Z7;LOT-Z44-leegtewormen;FASE-overvloed
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Tintelen, groei, spanning in de huid: in de vormhuizen laten minnaars delen van het lichaam zwellen of krimpen tijdens seks. Een vormmeesteres is scheidsrechter en bepaalt waar de grens ligt. Het is biotechniek, en het lichaam kan afstoting geven. Gevaarlijk wordt het met een minnaar die steeds verder wil, want de meesteres kan nee zeggen maar de lust niet stillen. Alleen volwassenen (18+) die echt instemmen; nooit dieren, en dwang slechts als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-37-Z50 · Kink: Bimbo-rollenspel
+- **code:** KINK-Z8-37-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Bimbo-rollenspel
+- **wat:** Ze hoorde alles terwijl ze speelde. Een slimme vrouw speelt in de huizen voor één nacht dom en zacht, met giechelen, roze en parfum, en het stopwoord van het huis geldt gewoon. Er is geen techniek bij. Het risico zit in de tijd: als het spel blijft hangen na de ochtend, raakt ze iets van zichzelf kwijt. Maar wie haar onderschat, praat te veel. Alleen volwassenen (18+), echte instemming, geen dieren; dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** BODY-Z8-47;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** BODY-Z8-47-L10;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ze hoorde alles terwijl ze speelde. Een slimme vrouw speelt in de huizen voor één nacht dom en zacht, met giechelen, roze en parfum, en het stopwoord van het huis geldt gewoon. Er is geen techniek bij. Het risico zit in de tijd: als het spel blijft hangen na de ochtend, raakt ze iets van zichzelf kwijt. Maar wie haar onderschat, praat te veel. Alleen volwassenen (18+), echte instemming, geen dieren; dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-38-Z50 · Kink: Dienstbaarheid
+- **code:** KINK-Z8-38-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Dienstbaarheid
+- **wat:** Een contract per seizoen legt het vast: de volwassen dienaar mag alles doen behalve beslissen. In de huizen kent men de stilte van zo'n dienaar, het knielen, het wassen van voeten en lijf. Er komt geen techniek aan te pas. Afhankelijkheid is de prijs, aan beide kanten. En de dienaar weet waar het geld ligt, wat een huis kwetsbaarder maakt dan zijn eigenares denkt. Volwassenen (18+) met echte instemming, geen dieren, dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een contract per seizoen legt het vast: de volwassen dienaar mag alles doen behalve beslissen. In de huizen kent men de stilte van zo'n dienaar, het knielen, het wassen van voeten en lijf. Er komt geen techniek aan te pas. Afhankelijkheid is de prijs, aan beide kanten. En de dienaar weet waar het geld ligt, wat een huis kwetsbaarder maakt dan zijn eigenares denkt. Volwassenen (18+) met echte instemming, geen dieren, dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-39-Z50 · Kink: Wassen als ritueel
+- **code:** KINK-Z8-39-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Wassen als ritueel
+- **wat:** Warm water, zeep en zout: priesteressen wassen elkaar voor en na de ontvangst, in stilte, als dienst aan Ysa. Er is geen risico aan verbonden en geen techniek. Toch blijft er iets achter, want in het waswater blijft zaadkracht hangen, en wie het water weggiet of bewaart, maakt een keuze. Zo kan een reinigingsdienst een bron van smokkel worden. Alle betrokkenen zijn volwassen (18+) en stemmen in; geen dieren, en dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-zegellicht;FASE-ontvangst
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Warm water, zeep en zout: priesteressen wassen elkaar voor en na de ontvangst, in stilte, als dienst aan Ysa. Er is geen risico aan verbonden en geen techniek. Toch blijft er iets achter, want in het waswater blijft zaadkracht hangen, en wie het water weggiet of bewaart, maakt een keuze. Zo kan een reinigingsdienst een bron van smokkel worden. Alle betrokkenen zijn volwassen (18+) en stemmen in; geen dieren, en dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-4-Z50 · Kink: Rekspel met kweekvlees
+- **code:** KINK-Z8-4-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Rekspel met kweekvlees
+- **wat:** Een plug die een naam fluistert, is geen gewoon speelgoed. In de vormhuizen rekt men geleidelijk op met ademend kweekvlees: warm, levend, pulserend. Er is elke dag een vaste maat en altijd een getuige. Het is biotechniek, en het vlees kan zich vasthechten als men te lang wacht. Welke naam het fluistert, en van wie die is, weet de vormer niet altijd. Uitsluitend volwassenen (18+) met echte instemming; geen dieren, en dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** BODY-Z8-31;EROS-GRENZEN-Z7;LOT-Z44-leegtewormen;FASE-overvloed
+- **verwijst_naar:** BODY-Z8-31-L10;EROS-GRENZEN-Z7;LOT-Z44-leegtewormen;FASE-overvloed
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een plug die een naam fluistert, is geen gewoon speelgoed. In de vormhuizen rekt men geleidelijk op met ademend kweekvlees: warm, levend, pulserend. Er is elke dag een vaste maat en altijd een getuige. Het is biotechniek, en het vlees kan zich vasthechten als men te lang wacht. Welke naam het fluistert, en van wie die is, weet de vormer niet altijd. Uitsluitend volwassenen (18+) met echte instemming; geen dieren, en dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-40-Z50 · Kink: Badhuisspel van Brakhaven
+- **code:** KINK-Z8-40-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Badhuisspel van Brakhaven
+- **wat:** Wie onderduikt, kiest. Zo gaat het in de gemengde zoutbaden van Brakhaven, waar de Zoutkust samenkomt in stoom en zout, naakt en zonder rang. Er is geen techniek bij. Het gevaar is drank, want dronken mensen verdrinken in het warme water. In een van de badhuizen dreef eens een lijk, en dat verhaal hoort nu bij de stoom. Alleen volwassenen (18+) die echt instemmen, geen dieren, en dwang uitsluitend als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Wie onderduikt, kiest. Zo gaat het in de gemengde zoutbaden van Brakhaven, waar de Zoutkust samenkomt in stoom en zout, naakt en zonder rang. Er is geen techniek bij. Het gevaar is drank, want dronken mensen verdrinken in het warme water. In een van de badhuizen dreef eens een lijk, en dat verhaal hoort nu bij de stoom. Alleen volwassenen (18+) die echt instemmen, geen dieren, en dwang uitsluitend als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-41-Z50 · Kink: Kaarsvet
+- **code:** KINK-Z8-41-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Kaarsvet
+- **wat:** Eerst de koude kaarsen, die minder heet druipen. Pas daarna komen de hete, met hitte, rood vet op de huid en de geur van was. Priesteressen en huizen kennen dit spel, zonder techniek. Brandwonden zijn de prijs als men de volgorde overslaat. De was neemt een afdruk van de huid, en zo'n afdruk kan bewaard worden, lang nadat de minnaar vertrok. Volwassenen (18+), echte instemming, geen dieren; dwang hoort alleen in een gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Eerst de koude kaarsen, die minder heet druipen. Pas daarna komen de hete, met hitte, rood vet op de huid en de geur van was. Priesteressen en huizen kennen dit spel, zonder techniek. Brandwonden zijn de prijs als men de volgorde overslaat. De was neemt een afdruk van de huid, en zo'n afdruk kan bewaard worden, lang nadat de minnaar vertrok. Volwassenen (18+), echte instemming, geen dieren; dwang hoort alleen in een gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-43-Z50 · Kink: Ademspel (gevaarlijk)
+- **code:** KINK-Z8-43-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Ademspel (gevaarlijk)
+- **wat:** Verboden door de Orde, omdat het kan doden, en toch gezocht. Toch beperken mensen in de Orde-kelders elkaars adem, voor de duizeling en de hartslag in de oren. Er is altijd een tweede persoon bij, en laat de hand los, dan stopt alles. Techniek is er niet. In een vormhuis viel eens een dode. Dit is een gelabeld donker thema: dwang en overmacht tussen volwassenen, met prijs en gevolg. Alle betrokkenen zijn 18+, en het gebeurt nooit met wie niet echt kan instemmen of met dieren.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Verboden door de Orde, omdat het kan doden, en toch gezocht. Toch beperken mensen in de Orde-kelders elkaars adem, voor de duizeling en de hartslag in de oren. Er is altijd een tweede persoon bij, en laat de hand los, dan stopt alles. Techniek is er niet. In een vormhuis viel eens een dode. Dit is een gelabeld donker thema: dwang en overmacht tussen volwassenen, met prijs en gevolg. Alle betrokkenen zijn 18+, en het gebeurt nooit met wie niet echt kan instemmen of met dieren.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-44-Z50 · Kink: Prikkeldraad van vonk
+- **code:** KINK-Z8-44-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Prikkeldraad van vonk
+- **wat:** Kleine schokken uit vonkcellen, een tinteling die overgaat in een stoot: zo werkt het prikkeldraad van vonk. Ishvar en vormhuizen gebruiken het, en de dimmer ligt altijd in de hand van wie ontvangt. Het is biotechniek. De prijs is het hartritme, dat kan ontsporen. Soms draagt een schok een boodschap, in een ritme dat alleen de ontvanger leest. Alle deelnemers volwassen (18+) en instemmend; geen dieren, dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** LICH-vonkkoorts;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** LICH-vonkkoorts;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Kleine schokken uit vonkcellen, een tinteling die overgaat in een stoot: zo werkt het prikkeldraad van vonk. Ishvar en vormhuizen gebruiken het, en de dimmer ligt altijd in de hand van wie ontvangt. Het is biotechniek. De prijs is het hartritme, dat kan ontsporen. Soms draagt een schok een boodschap, in een ritme dat alleen de ontvanger leest. Alle deelnemers volwassen (18+) en instemmend; geen dieren, dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-45-Z50 · Kink: Zegelsteenvibraties
+- **code:** KINK-Z8-45-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Zegelsteenvibraties
+- **wat:** Stenen die zoemen tot in je botten, tegen de huid gelegd: de Dhurn en de Orde kennen dit spel met zegelsteen. Wie stop wil, legt de steen af. Te lang en te vaak geeft zegelziekte, de ziekte die de mijnen al eeuwen kennen. De steen zoemt in het ritme van het hart in de groeve, en wie dat ritme eenmaal voelde, vergeet het niet. Alleen volwassenen (18+) die echt instemmen, geen dieren in enige rol, en dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** TECH-REGEL;EROS-GRENZEN-Z7;LOT-Z44-sterrensteen;FASE-brand-Z38
+- **verwijst_naar:** TECH-REGEL;EROS-GRENZEN-Z7;LOT-Z44-sterrensteen;FASE-brand-Z38
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Stenen die zoemen tot in je botten, tegen de huid gelegd: de Dhurn en de Orde kennen dit spel met zegelsteen. Wie stop wil, legt de steen af. Te lang en te vaak geeft zegelziekte, de ziekte die de mijnen al eeuwen kennen. De steen zoemt in het ritme van het hart in de groeve, en wie dat ritme eenmaal voelde, vergeet het niet. Alleen volwassenen (18+) die echt instemmen, geen dieren in enige rol, en dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-46-Z50 · Kink: Gehoorzaamheidsspel met de bindsplinter (donker)
+- **code:** KINK-Z8-46-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Gehoorzaamheidsspel met de bindsplinter (donker)
+- **wat:** Een koude splinter, een zoemen, en dan een lege blik: zo bindt een Orde-agente een man tot gehoorzaamheid. Hier is geen echte instemming, en daarom is dit uitdrukkelijk een gelabeld donker thema: dwang en overmacht tussen volwassenen (18+), met prijs en gevolg, niet als genot verheerlijkt. Het werkt via zegelsteen. De man haat haar, en alleen Liora kan hem bevrijden. Dat is het Z7-moment waarop Liora haar gave vindt. Dieren en minderjarigen hebben in deze scène geen enkele rol.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7;LOT-Z44-sterrensteen;FASE-noodtoestand-Z38
+- **verwijst_naar:** BESLUIT-Z7-BINDING;EROS-GRENZEN-Z7;LOT-Z44-sterrensteen;FASE-noodtoestand-Z38
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een koude splinter, een zoemen, en dan een lege blik: zo bindt een Orde-agente een man tot gehoorzaamheid. Hier is geen echte instemming, en daarom is dit uitdrukkelijk een gelabeld donker thema: dwang en overmacht tussen volwassenen (18+), met prijs en gevolg, niet als genot verheerlijkt. Het werkt via zegelsteen. De man haat haar, en alleen Liora kan hem bevrijden. Dat is het Z7-moment waarop Liora haar gave vindt. Dieren en minderjarigen hebben in deze scène geen enkele rol.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-47-Z50 · Kink: Gijzeling en losgeld (donker)
+- **code:** KINK-Z8-47-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Gijzeling en losgeld (donker)
+- **wat:** Ze wil terug, en dat is de haak. Smokkelaars houden een volwassen gijzelaar vast, en tussen gijzelaar en ontvoerder is macht de inzet. Wat ze afspreken is een onderhandeling, binnen een gelabeld donker thema: dwang en overmacht tussen volwassenen, met prijs en gevolg. Teer, duisternis en de deining van een ruim vullen de zinnen. Techniek is er niet; verraad is de prijs. Iedereen is 18+, er spelen geen dieren mee, en het donker blijft gelabeld.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** EROS-RAUW-Z7-3;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-RAUW-Z7-3;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ze wil terug, en dat is de haak. Smokkelaars houden een volwassen gijzelaar vast, en tussen gijzelaar en ontvoerder is macht de inzet. Wat ze afspreken is een onderhandeling, binnen een gelabeld donker thema: dwang en overmacht tussen volwassenen, met prijs en gevolg. Teer, duisternis en de deining van een ruim vullen de zinnen. Techniek is er niet; verraad is de prijs. Iedereen is 18+, er spelen geen dieren mee, en het donker blijft gelabeld.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-48-Z50 · Kink: Verkocht op de vlootmarkt (donker)
+- **code:** KINK-Z8-48-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Verkocht op de vlootmarkt (donker)
+- **wat:** De koper is haar zus. Op de vlootmarkt van de Brakhaven-onderwereld wordt een volwassen schuldenaar geveild voor dienst, onder zon, menigte en ketting. Dit is een gelabeld donker thema met prijs: dwang en overmacht tussen volwassenen, met gevolg. Geen techniek, alleen ijzer en geld. Wat volgt is haat en wraak, en een familie die op een podium uit elkaar valt. Alle betrokkenen zijn 18+, dieren hebben geen rol, en het donker wordt nooit als ideaal getoond.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De koper is haar zus. Op de vlootmarkt van de Brakhaven-onderwereld wordt een volwassen schuldenaar geveild voor dienst, onder zon, menigte en ketting. Dit is een gelabeld donker thema met prijs: dwang en overmacht tussen volwassenen, met gevolg. Geen techniek, alleen ijzer en geld. Wat volgt is haat en wraak, en een familie die op een podium uit elkaar valt. Alle betrokkenen zijn 18+, dieren hebben geen rol, en het donker wordt nooit als ideaal getoond.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-49-Z50 · Kink: Vernedering in rang
+- **code:** KINK-Z8-49-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Vernedering in rang
+- **wat:** De woorden werden opgeschreven, en daarmee begon de chantage. In een Saelithse kelder laat een Moeder zich vrijwillig uitschelden door een man; alleen daar, nooit boven. Een grof woord, zijn adem dicht bij haar. Er is geen techniek bij. Wat beneden een spel blijft, wordt boven een wapen zodra iemand een pen had. Uitsluitend volwassenen (18+) die echt instemmen, geen dieren, en dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** De woorden werden opgeschreven, en daarmee begon de chantage. In een Saelithse kelder laat een Moeder zich vrijwillig uitschelden door een man; alleen daar, nooit boven. Een grof woord, zijn adem dicht bij haar. Er is geen techniek bij. Wat beneden een spel blijft, wordt boven een wapen zodra iemand een pen had. Uitsluitend volwassenen (18+) die echt instemmen, geen dieren, en dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-5-Z50 · Kink: Zwarte glanshuid (latex)
+- **code:** KINK-Z8-5-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Zwarte glanshuid (latex)
+- **wat:** Ruikt naar hars en zweet, piept bij elke beweging en glanst: de zwarte glanshuid is gekweekte zegelhars, strak als een tweede huid. Saelith draagt hem, de Orde-agentes ook. Aantrekken gaat met olie; uittrekken moet voor de derde nacht, anders kan hij vastgroeien. Hitte-ziekte is het andere risico. Het is biotechniek. Er loopt een agente rond die hem nooit meer uit krijgt. Alle dragers en partners zijn volwassen (18+) en stemmen in; geen dieren, dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** BODY-Z8-45;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** BODY-Z8-45-L10;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ruikt naar hars en zweet, piept bij elke beweging en glanst: de zwarte glanshuid is gekweekte zegelhars, strak als een tweede huid. Saelith draagt hem, de Orde-agentes ook. Aantrekken gaat met olie; uittrekken moet voor de derde nacht, anders kan hij vastgroeien. Hitte-ziekte is het andere risico. Het is biotechniek. Er loopt een agente rond die hem nooit meer uit krijgt. Alle dragers en partners zijn volwassen (18+) en stemmen in; geen dieren, dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-50-Z50 · Kink: Bezitteken
+- **code:** KINK-Z8-50-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Bezitteken
+- **wat:** Metaal dat warm wordt van de huid: een gegraveerde halsband als bezitteken, overal in Velmara gedragen. Gaat hij af, dan ben je vrij; zo luidt de afspraak. De prijs is een sociale stempel, want iedereen ziet van wie je bent. Er zit geen techniek in. Spannend wordt het bij een halsband met het teken van de Orde, want die roept vragen op die niemand hardop stelt. Volwassenen (18+), echte instemming, geen dieren; dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Metaal dat warm wordt van de huid: een gegraveerde halsband als bezitteken, overal in Velmara gedragen. Gaat hij af, dan ben je vrij; zo luidt de afspraak. De prijs is een sociale stempel, want iedereen ziet van wie je bent. Er zit geen techniek in. Spannend wordt het bij een halsband met het teken van de Orde, want die roept vragen op die niemand hardop stelt. Volwassenen (18+), echte instemming, geen dieren; dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-51-Z50 · Kink: Ketens van dienst
+- **code:** KINK-Z8-51-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Ketens van dienst
+- **wat:** Bij de Karrûk kies je zelf een ketting, voor één seizoen, en de oudste houdt de sleutel. IJzer om enkel of hals, de geur van roest aan je huid. Schaafwonden horen erbij. Techniek is er niet. Sommige kettingen gaan van hand tot hand, en er is er een die ouder is dan de Orde zelf. Wie die draagt, draagt een geschiedenis die de tempel liever vergeet. Volwassenen (18+) die vrijwillig instemmen; geen dieren, dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-karrûk;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Bij de Karrûk kies je zelf een ketting, voor één seizoen, en de oudste houdt de sleutel. IJzer om enkel of hals, de geur van roest aan je huid. Schaafwonden horen erbij. Techniek is er niet. Sommige kettingen gaan van hand tot hand, en er is er een die ouder is dan de Orde zelf. Wie die draagt, draagt een geschiedenis die de tempel liever vergeet. Volwassenen (18+) die vrijwillig instemmen; geen dieren, dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-52-Z50 · Kink: Skerra-worstelspel
+- **code:** KINK-Z8-52-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Skerra-worstelspel
+- **wat:** Zand, zweet en tanden: twee Skerra worstelen tot een van beiden onder ligt. Een tik op de grond stopt het. Botbreuken zijn het risico, want Skerra hebben holle botten. Er is geen techniek bij. De verliezer kiest zelf de straf, en dat maakt verliezen bij dit vleugelvolk soms aantrekkelijker dan winnen. Alleen volwassen (18+), sprekende wezens met echte instemming; geen dieren, en dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-skerra;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-skerra;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Zand, zweet en tanden: twee Skerra worstelen tot een van beiden onder ligt. Een tik op de grond stopt het. Botbreuken zijn het risico, want Skerra hebben holle botten. Er is geen techniek bij. De verliezer kiest zelf de straf, en dat maakt verliezen bij dit vleugelvolk soms aantrekkelijker dan winnen. Alleen volwassen (18+), sprekende wezens met echte instemming; geen dieren, en dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-53-Z50 · Kink: Bijtspel
+- **code:** KINK-Z8-53-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Bijtspel
+- **wat:** Een beet kan een contract zijn. Skerra en Vathren zetten hun tanden in nek en schouder, en zodra er bloed komt, is het genoeg. Tanden, zout en bloed op de tong. Infectie is de prijs. Er zit geen techniek in. Wie zo'n beet draagt, draagt een afspraak op de huid, en wie hem ziet, weet dat er iets beloofd is. Alle betrokkenen zijn volwassen (18+) en stemmen echt in; geen dieren, dwang uitsluitend als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-vathren;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-vathren-Z6;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een beet kan een contract zijn. Skerra en Vathren zetten hun tanden in nek en schouder, en zodra er bloed komt, is het genoeg. Tanden, zout en bloed op de tong. Infectie is de prijs. Er zit geen techniek in. Wie zo'n beet draagt, draagt een afspraak op de huid, en wie hem ziet, weet dat er iets beloofd is. Alle betrokkenen zijn volwassen (18+) en stemmen echt in; geen dieren, dwang uitsluitend als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-54-Z50 · Kink: Geurspel
+- **code:** KINK-Z8-54-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Geurspel
+- **wat:** Muskus en dagen oud zweet: bij de Tharn is een ongewassen lichaam een prikkel. De Tharn bepalen hoe lang en hoe ver, niet hun gasten. Buiten de reuzen roept het sociale afkeer op. Er is geen techniek bij. Een geur blijft hangen en kan gevolgd worden, en zo leidde eens een geur naar een moordenaar. Alleen tussen volwassen (18+), sprekende wezens die instemmen; geen dieren, dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-tharn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-tharn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Muskus en dagen oud zweet: bij de Tharn is een ongewassen lichaam een prikkel. De Tharn bepalen hoe lang en hoe ver, niet hun gasten. Buiten de reuzen roept het sociale afkeer op. Er is geen techniek bij. Een geur blijft hangen en kan gevolgd worden, en zo leidde eens een geur naar een moordenaar. Alleen tussen volwassen (18+), sprekende wezens die instemmen; geen dieren, dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-55-Z50 · Kink: Sporenroes
+- **code:** KINK-Z8-55-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Sporenroes
+- **wat:** In de roes spreekt de Wortel. Myrrhen-sporen maken alles intenser: paddenstoelengeur, zweet en kleuren die er niet zijn. Er is altijd een nuchtere getuige, want verslaving en hallucinaties zijn de prijs. Het is biotechniek, gegroeid uit het schimmelnet dat alles onthoudt. Wie de Wortel hoort, weet achteraf niet altijd wat er van hemzelf was. Volwassenen (18+) met echte instemming; geen dieren, en dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-myrrhen;EROS-GRENZEN-Z7;LOT-Z44-myrrhen;FASE-markt
+- **verwijst_naar:** VOLK-myrrhen-Z6;EROS-GRENZEN-Z7;LOT-Z44-myrrhen;FASE-markt
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In de roes spreekt de Wortel. Myrrhen-sporen maken alles intenser: paddenstoelengeur, zweet en kleuren die er niet zijn. Er is altijd een nuchtere getuige, want verslaving en hallucinaties zijn de prijs. Het is biotechniek, gegroeid uit het schimmelnet dat alles onthoudt. Wie de Wortel hoort, weet achteraf niet altijd wat er van hemzelf was. Volwassenen (18+) met echte instemming; geen dieren, en dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-56-Z50 · Kink: Groepsontvangst
+- **code:** KINK-Z8-56-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Groepsontvangst
+- **wat:** Wie de laatste is, krijgt het meeste. Bij een groepsontvangst van de Orde liggen meerdere vrouwen bij één gaven-man, en de priesteres verdeelt. Kaarsen, gekreun, het hardop tellen van beurten. Het werkt via de gave, en de man betaalt de prijs: hij kan sterven van Leegte. Daarom is de volgorde politiek. Alle deelnemers zijn volwassen (18+) en stemmen echt in, ook hij; geen dieren, dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** TECH-ITEM-gave-1;EROS-GRENZEN-Z7;LOT-Z44-gaven-mannen;FASE-vonk
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Wie de laatste is, krijgt het meeste. Bij een groepsontvangst van de Orde liggen meerdere vrouwen bij één gaven-man, en de priesteres verdeelt. Kaarsen, gekreun, het hardop tellen van beurten. Het werkt via de gave, en de man betaalt de prijs: hij kan sterven van Leegte. Daarom is de volgorde politiek. Alle deelnemers zijn volwassen (18+) en stemmen echt in, ook hij; geen dieren, dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-57-Z50 · Kink: Orgie op Ysa-dag
+- **code:** KINK-Z8-57-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Orgie op Ysa-dag
+- **wat:** Eens per jaar viert men overvloed op Ysa-dag, in Saelith en aan de Zoutkust. Wijn, zweet en muziek; wie meedoet, is volwassen en draagt een armband als bewijs. Jaloezie en zwangerschap zijn de prijs van het feest. Er komt geen techniek aan te pas. Tijdens een van die feesten viel een moord, en in de menigte zag niemand wie. Alleen volwassenen (18+) die echt instemmen, geen dieren, en dwang uitsluitend als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Eens per jaar viert men overvloed op Ysa-dag, in Saelith en aan de Zoutkust. Wijn, zweet en muziek; wie meedoet, is volwassen en draagt een armband als bewijs. Jaloezie en zwangerschap zijn de prijs van het feest. Er komt geen techniek aan te pas. Tijdens een van die feesten viel een moord, en in de menigte zag niemand wie. Alleen volwassenen (18+) die echt instemmen, geen dieren, en dwang uitsluitend als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-58-Z50 · Kink: Dubbelspel
+- **code:** KINK-Z8-58-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Dubbelspel
+- **wat:** Twee minnaars die van elkaar weten, delen één bed, en dat kan overal. Je hoort twee stemmen en voelt handen overal tegelijk. Het stopwoord geldt voor iedereen: zegt één het, dan stoppen alle drie. Jaloezie is het risico, en techniek is er niet. Soms is een van de twee een spion, en dan is het bed een post. Volwassenen (18+), echte instemming van elk, geen dieren; dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Twee minnaars die van elkaar weten, delen één bed, en dat kan overal. Je hoort twee stemmen en voelt handen overal tegelijk. Het stopwoord geldt voor iedereen: zegt één het, dan stoppen alle drie. Jaloezie is het risico, en techniek is er niet. Soms is een van de twee een spion, en dan is het bed een post. Volwassenen (18+), echte instemming van elk, geen dieren; dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-59-Z50 · Kink: Rollenspel als Maker
+- **code:** KINK-Z8-59-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Rollenspel als Maker
+- **wat:** Een uniformknoop die echt is, hoort niet in een verkleedkist. De Saelith-elite verkleedt zich als Makers uit oude reliefs, in uniformstof en met oude woorden. Het is blasfemie, dus het blijft geheim, en de prijs is een aanklacht wegens ketterij. Techniek gebruiken ze niet, maar die ene knoop is van een echte Maker. Alleen volwassenen (18+) die echt instemmen; geen dieren, dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-overvloed
+- **verwijst_naar:** GOD-ysa;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-overvloed
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een uniformknoop die echt is, hoort niet in een verkleedkist. De Saelith-elite verkleedt zich als Makers uit oude reliefs, in uniformstof en met oude woorden. Het is blasfemie, dus het blijft geheim, en de prijs is een aanklacht wegens ketterij. Techniek gebruiken ze niet, maar die ene knoop is van een echte Maker. Alleen volwassenen (18+) die echt instemmen; geen dieren, dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-6-Z50 · Kink: Lak van de Dhurn
+- **code:** KINK-Z8-6-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Lak van de Dhurn
+- **wat:** Zwart ertslak, op de huid gesmeerd, hard en spiegelend: de Dhurn maken het met zegelsteen. Het voelt koud, ruikt metalig en kraakt bij elke beweging. Wie stop wil, breekt de lak. De huid kan eronder niet ademen, en dat is het gevaar. Wie lang in de lak kijkt, ziet het verleden erin spiegelen. Volwassenen (18+) die instemmen; geen dieren, en dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-dhurn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** VOLK-dhurn;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Zwart ertslak, op de huid gesmeerd, hard en spiegelend: de Dhurn maken het met zegelsteen. Het voelt koud, ruikt metalig en kraakt bij elke beweging. Wie stop wil, breekt de lak. De huid kan eronder niet ademen, en dat is het gevaar. Wie lang in de lak kijkt, ziet het verleden erin spiegelen. Volwassenen (18+) die instemmen; geen dieren, en dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-60-Z50 · Kink: Gestolen stopwoord
+- **code:** KINK-Z8-60-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Gestolen stopwoord
+- **wat:** Plotse stilte in bed, en verwarring: iemand zei het stopwoord van een ander volk. Elk volk heeft zijn eigen woord, en wie het verkeerde gebruikt, verraadt zijn afkomst. Het kan overal gebeuren en vraagt geen techniek. De prijs is ontmaskering, en zo wordt een spion gevonden. Het woord werkt nog steeds: wie het zegt, wordt gestopt, wat het ook verraadt. Alleen volwassenen (18+), echte instemming, geen dieren; dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** EROS-STOP-Z7-mensen-zoutkust;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Plotse stilte in bed, en verwarring: iemand zei het stopwoord van een ander volk. Elk volk heeft zijn eigen woord, en wie het verkeerde gebruikt, verraadt zijn afkomst. Het kan overal gebeuren en vraagt geen techniek. De prijs is ontmaskering, en zo wordt een spion gevonden. Het woord werkt nog steeds: wie het zegt, wordt gestopt, wat het ook verraadt. Alleen volwassenen (18+), echte instemming, geen dieren; dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-7-Z50 · Kink: Glanspakken van de Wacht
+- **code:** KINK-Z8-7-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Glanspakken van de Wacht
+- **wat:** Rode lak-uniformen dragen de speciale eenheden van Orde en Wacht, ook in bed. Rang bepaalt wie de rits opent. Ze ruiken naar hars en leer, en ze zijn biotechniek. Wie het pak draagt, is herkenbaar, en daarin zit het risico. Daarom is een vals pak zo gevaarlijk: het opent elke poort. Volwassenen (18+) met echte instemming; geen dieren, en dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Rode lak-uniformen dragen de speciale eenheden van Orde en Wacht, ook in bed. Rang bepaalt wie de rits opent. Ze ruiken naar hars en leer, en ze zijn biotechniek. Wie het pak draagt, is herkenbaar, en daarin zit het risico. Daarom is een vals pak zo gevaarlijk: het opent elke poort. Volwassenen (18+) met echte instemming; geen dieren, en dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-8-Z50 · Kink: Latex-kap
+- **code:** KINK-Z8-8-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Latex-kap
+- **wat:** Alleen je eigen adem, het donker en geluid dat gedempt binnenkomt: een kap van glanshuid laat niets dan ademgaten open. Orde-kelders en vormhuizen gebruiken haar. Drie tikken betekenen stop. Ademnood is het gevaar. Het is biotechniek, en de kap houdt de geur van de vorige drager vast, zodat je weet dat je niet de eerste bent. Alle deelnemers volwassen (18+) en instemmend; geen dieren, dwang alleen als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** KINK-Z8-5-Z50;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** KINK-Z8-5-Z50;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Alleen je eigen adem, het donker en geluid dat gedempt binnenkomt: een kap van glanshuid laat niets dan ademgaten open. Orde-kelders en vormhuizen gebruiken haar. Drie tikken betekenen stop. Ademnood is het gevaar. Het is biotechniek, en de kap houdt de geur van de vorige drager vast, zodat je weet dat je niet de eerste bent. Alle deelnemers volwassen (18+) en instemmend; geen dieren, dwang alleen als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### KINK-Z8-9-Z50 · Kink: Lakken laarzen tot de dij
+- **code:** KINK-Z8-9-Z50
+- **categorie:** Kinks en situaties
+- **onderwerp:** Kink: Lakken laarzen tot de dij
+- **wat:** Hakken op steen, kraken van lak: in Saelith zijn laarzen tot de dij statussymbool en fetisj van rijke vrouwen. Wie ze groet, kust de laarzen. Slechte voeten zijn de prijs van die mode. Er is geen techniek bij. Ooit werden de laarzen van een Moeder gestolen, en daarmee begint een verhaal over wie ze nu draagt. Alleen volwassenen (18+) die echt instemmen, geen dieren, en dwang uitsluitend als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** REG-overzicht;EROS-GRENZEN-Z7;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Hakken op steen, kraken van lak: in Saelith zijn laarzen tot de dij statussymbool en fetisj van rijke vrouwen. Wie ze groet, kust de laarzen. Slechte voeten zijn de prijs van die mode. Er is geen techniek bij. Ooit werden de laarzen van een Moeder gestolen, en daarmee begint een verhaal over wie ze nu draagt. Alleen volwassenen (18+) die echt instemmen, geen dieren, en dwang uitsluitend als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-afscheid-uitverkorene-Z50 · Het Afscheid van de Uitverkorene
+- **code:** RIT-afscheid-uitverkorene-Z50
+- **categorie:** Rituelen
+- **onderwerp:** Het Afscheid van de Uitverkorene
+- **wat:** Als een gaven-man sterft, vlucht of zijn gave verliest, komen in de tempel de vrouwen samen die hij gezegend heeft, met zijn huis en de Moeders. Het gebeurt één keer. In een stoet van goud spreekt elke vrouw een herinnering uit en legt een gouden oorring terug; de oorringen worden omgesmolten tot een beeld. Haar rang blijft, zijn kracht stopt, en zijn lijn wordt in het register gesloten. De rite staat op kink-schaal 2. Alle deelnemers zijn volwassen (18+).
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Gaven-mannen;Aeron-as
+- **verwijst_naar:** MACHT-gaven-mannen;ORDE-orde;PER-aeron;REGEL-registers-merken;RIT-kinkschaal;VOOR-afscheid-Z50;TECHNO-gave
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Als een gaven-man sterft, vlucht of zijn gave verliest, komen in de tempel de vrouwen samen die hij gezegend heeft, met zijn huis en de Moeders. Het gebeurt één keer. In een stoet van goud spreekt elke vrouw een herinnering uit en legt een gouden oorring terug; de oorringen worden omgesmolten tot een beeld. Haar rang blijft, zijn kracht stopt, en zijn lijn wordt in het register gesloten. De rite staat op kink-schaal 2. Alle deelnemers zijn volwassen (18+).
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-bloedverbinding-Z50 · De Bloedverbinding
+- **code:** RIT-bloedverbinding-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** De Bloedverbinding
+- **wat:** In het Bloedpaleis van Lisk bindt Morvane-ir zijn krijgsvrouwen aan zich. Er is geen heilig woord en geen toezicht: dit is een bewust donkere rite, een gelabeld donker thema. Een snede in de palm, zijn bloedgave, zaad en bloed gemengd, en de vrouw zweert hem trouw. Het draait om pijn en genot, totale binding en het ontbreken van een uitweg. De kracht is zesvoudig, boven de grens, maar de binding volgt direct, met zware Leegte, en de zegel krijgt er niets van. Kink-schaal 5; alle deelnemers 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Morvane-ir;Lisk;Verslaving;LOT-Z44-gaven-mannen;FASE-barsten
+- **verwijst_naar:** BESLUIT-Z30-2;MAGIE-kracht-duur;MAGIE-verslaving;PER-morvane;REG-saelith;RIT-kinkschaal;VOOR-pijn-genot-Z50;VOOR-bloed-Z50;VOOR-binding-Z50;STAD-lisk;TECHNO-bio;LOT-Z44-gaven-mannen;FASE-barsten
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In het Bloedpaleis van Lisk bindt Morvane-ir zijn krijgsvrouwen aan zich. Er is geen heilig woord en geen toezicht: dit is een bewust donkere rite, een gelabeld donker thema. Een snede in de palm, zijn bloedgave, zaad en bloed gemengd, en de vrouw zweert hem trouw. Het draait om pijn en genot, totale binding en het ontbreken van een uitweg. De kracht is zesvoudig, boven de grens, maar de binding volgt direct, met zware Leegte, en de zegel krijgt er niets van. Kink-schaal 5; alle deelnemers 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-boeterite-Z50 · Boeterite
+- **code:** RIT-boeterite-Z50
+- **categorie:** Rituelen
+- **onderwerp:** Boeterite
+- **wat:** Drie Moeders leggen haar op. Een veroordeelde vrouw of man staat voor het tribunaal op de tempeltrappen, biecht in het openbaar en wordt in grijs gekleed. Daarna volgt dienst, als Ontvangster of in het stalhuis, tot de vrijspraak met zalving komt. Zolang de boete duurt, geeft zaad geen kracht. Wie de rite doorloopt, verliest rang en kan die terugkrijgen; het grijs is het teken dat iedereen op straat herkent. Alle deelnemers zijn volwassen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Wetten;Rechtspraak;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** MAGIE-kracht-duur;ORDE-orde;VOOR-ontzegging-Z50;VOOR-vernedering-Z50;LOT-Z44-zegellicht;FASE-ontvangst
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Drie Moeders leggen haar op. Een veroordeelde vrouw of man staat voor het tribunaal op de tempeltrappen, biecht in het openbaar en wordt in grijs gekleed. Daarna volgt dienst, als Ontvangster of in het stalhuis, tot de vrijspraak met zalving komt. Zolang de boete duurt, geeft zaad geen kracht. Wie de rite doorloopt, verliest rang en kan die terugkrijgen; het grijs is het teken dat iedereen op straat herkent. Alle deelnemers zijn volwassen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-doorgang-duizend-handen-Z50 · De Doorgang der Duizend Handen
+- **code:** RIT-doorgang-duizend-handen-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** De Doorgang der Duizend Handen
+- **wat:** Een bel in haar hand bepaalt het tempo. In de stoomhal van Saelith loopt een geblinddoekte vrouw door een rij gemaskerde vrouwen, die haar zalven en strelen; ze mag niet zien wie. Een Hoedster houdt toezicht. Het gaat om anonimiteit, overprikkeling en een rite in groep. Kracht levert het niet op; het is een reiniging vóór een Ontvangst. Op de kink-schaal staat het op 3. Alle deelnemers zijn 18+, en zij alleen bepaalt hoe snel de handen gaan.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** Badhuizen;Maanzalving;LOT-Z44-ishvar;FASE-ontvangst
+- **verwijst_naar:** REG-saelith;RIT-kinkschaal;VOOR-anoniem-Z50;VOOR-vrouwenliefde;STAD-saelith;LOT-Z44-ishvar;FASE-ontvangst
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een bel in haar hand bepaalt het tempo. In de stoomhal van Saelith loopt een geblinddoekte vrouw door een rij gemaskerde vrouwen, die haar zalven en strelen; ze mag niet zien wie. Een Hoedster houdt toezicht. Het gaat om anonimiteit, overprikkeling en een rite in groep. Kracht levert het niet op; het is een reiniging vóór een Ontvangst. Op de kink-schaal staat het op 3. Alle deelnemers zijn 18+, en zij alleen bepaalt hoe snel de handen gaan.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-duel-man-Z50 · Het Duel om een Man
+- **code:** RIT-duel-man-Z50
+- **categorie:** Rituelen
+- **onderwerp:** Het Duel om een Man
+- **wat:** Een sjerp, toegeworpen, is de uitdaging. In het gebergte rond Kaldrun, en ook in de arena's van Qesh, vechten twee vrouwen om een man die instemt, onder getuigen. Het duel gaat tot opgave, niet tot de dood, en de man mag het weigeren. Ze strijden naakt of in leer. De winnares krijgt de nacht en stijgt in rang; de verliezer mag toekijken of vertrekken. Alle deelnemers zijn volwassen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** Duel om de man;Huis Kaldra;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** HUI-kaldra-Z6;KINK-duel-man;MODE-vrouwen-basis;REG-hoogvrouwe;REG-rosse;WET-wie-weigert;VOOR-voyeurisme-Z50;VOOR-competitie-Z50;STAD-kaldrun;STAD-qesh;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een sjerp, toegeworpen, is de uitdaging. In het gebergte rond Kaldrun, en ook in de arena's van Qesh, vechten twee vrouwen om een man die instemt, onder getuigen. Het duel gaat tot opgave, niet tot de dood, en de man mag het weigeren. Ze strijden naakt of in leer. De winnares krijgt de nacht en stijgt in rang; de verliezer mag toekijken of vertrekken. Alle deelnemers zijn volwassen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-geboortelied-Z50 · Het Geboortelied
+- **code:** RIT-geboortelied-Z50
+- **categorie:** Rituelen
+- **onderwerp:** Het Geboortelied
+- **wat:** Binnen drie dagen moet elk kind in het register staan. In de binnenhof of de tempel zingen de moeder en haar moederhuis het geboortelied, en de Registratrix leest het bloedlijnmerk. Het kind krijgt een naam; een jongen krijgt een zilveren belletje. De moeder stijgt in aanzien, en bij een jongen is de zegen groot. Deze rite is niet-seksueel: het gaat om geboorte en register. Alle deelnemers aan de rite zijn volwassen; het kind is er alleen als pasgeborene.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** Registers en merken
+- **verwijst_naar:** CUL-gezin-wonen;REGEL-registers-merken;VOOR-lichaam-Z50
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Binnen drie dagen moet elk kind in het register staan. In de binnenhof of de tempel zingen de moeder en haar moederhuis het geboortelied, en de Registratrix leest het bloedlijnmerk. Het kind krijgt een naam; een jongen krijgt een zilveren belletje. De moeder stijgt in aanzien, en bij een jongen is de zegen groot. Deze rite is niet-seksueel: het gaat om geboorte en register. Alle deelnemers aan de rite zijn volwassen; het kind is er alleen als pasgeborene.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-gemaskerde-veiling-Z50 · De Gemaskerde Veiling
+- **code:** RIT-gemaskerde-veiling-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** De Gemaskerde Veiling
+- **wat:** Op Isla Mirre en in Brakhaven biedt een vrouw of man zichzelf aan, voor één nacht en uit eigen keuze. Op het podium wordt zij of hij ontkleed tot het bod hoog genoeg is, en de gemaskerde koper blijft anoniem. De Mirre-wacht beschermt wie verkocht wordt. Het draait om anonimiteit, zelfverkoop en publieke vertoning, op kink-schaal 4. Het levert geld op, geen rang. Alle deelnemers 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** Huis Mirre;Sef;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** HUI-mirre;REG-zoutkust;RIT-kinkschaal;VOOR-exhibitionisme-Z50;VOOR-anoniem-Z50;VOOR-veiling-Z50;STAD-brakhaven;STAD-isla-mirre;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Op Isla Mirre en in Brakhaven biedt een vrouw of man zichzelf aan, voor één nacht en uit eigen keuze. Op het podium wordt zij of hij ontkleed tot het bod hoog genoeg is, en de gemaskerde koper blijft anoniem. De Mirre-wacht beschermt wie verkocht wordt. Het draait om anonimiteit, zelfverkoop en publieke vertoning, op kink-schaal 4. Het levert geld op, geen rang. Alle deelnemers 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-gletsjerproef-Z50 · De Gletsjerproef
+- **code:** RIT-gletsjerproef-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** De Gletsjerproef
+- **wat:** Naakt in de kou van IJsgraf staan twee krijgsvrouwen, en wie het langst volhoudt, krijgt het zaad van de gaven-man. Een Moeder telt, en opgeven mag altijd. Het is een uithoudingsproef van pijn en verlangen, uit de tradities van Huis Kaldra. De winnares krijgt vijfvoudige kracht; de verliezer kijkt toe. Sneeuw, adem die bevriest en een Moeder die hardop telt. Kink-schaal 4. Alle deelnemers zijn 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Duel om de man;Huis Kaldra;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** HUI-kaldra-Z6;KINK-duel-man;MACHT-gaven-mannen;RIT-kinkschaal;VOOR-pijn-genot-Z50;VOOR-competitie-Z50;VOOR-uithouding-Z50;STAD-ijsgraf;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-vonk
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Naakt in de kou van IJsgraf staan twee krijgsvrouwen, en wie het langst volhoudt, krijgt het zaad van de gaven-man. Een Moeder telt, en opgeven mag altijd. Het is een uithoudingsproef van pijn en verlangen, uit de tradities van Huis Kaldra. De winnares krijgt vijfvoudige kracht; de verliezer kijkt toe. Sneeuw, adem die bevriest en een Moeder die hardop telt. Kink-schaal 4. Alle deelnemers zijn 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-gunstnacht-Z50 · De Gunstnacht
+- **code:** RIT-gunstnacht-Z50
+- **categorie:** Rituelen
+- **onderwerp:** De Gunstnacht
+- **wat:** Een gouden lint, gestuurd door een gaven-man, betekent dat hij haar zelf kiest, buiten de wachtrij. Zij komt, of ze zendt het lint terug; weigeren mag, maar heeft een prijs. Er zijn geen getuigen. De nacht is in zijn vertrekken of in haar binnenhof, en in de ochtend volgt een geschenk. Voor haar en haar huis betekent het een grote stijging, en in de rij groeit jaloezie. Alle deelnemers zijn volwassen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Gunstbrieven;Wie weigert;LOT-Z44-gaven-mannen;FASE-ontvangst
+- **verwijst_naar:** ECO-geld;MACHT-gaven-mannen;WET-wie-weigert;VOOR-teder;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-ontvangst
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een gouden lint, gestuurd door een gaven-man, betekent dat hij haar zelf kiest, buiten de wachtrij. Zij komt, of ze zendt het lint terug; weigeren mag, maar heeft een prijs. Er zijn geen getuigen. De nacht is in zijn vertrekken of in haar binnenhof, en in de ochtend volgt een geschenk. Voor haar en haar huis betekent het een grote stijging, en in de rij groeit jaloezie. Alle deelnemers zijn volwassen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-halsbandoverdracht-Z50 · De Halsbandoverdracht
+- **code:** RIT-halsbandoverdracht-Z50
+- **categorie:** Rituelen
+- **onderwerp:** De Halsbandoverdracht
+- **wat:** Stil, zonder feest, wisselt een gewone man van eigenares. In de zaadbeurs of het moederhuis mag hij eerst een laatste nacht kiezen met wie hij wil, vaak met de oude eigenares. Daarna knipt men de halsband door en doet de nieuwe om, en de Registratrix schrijft het in. Kracht levert het niet op, maar zijn band met zijn oude kinderen blijft in het register bewaard. Kink-schaal 2. Alle deelnemers 18+; de kinderen komen alleen voor als erfenis in het register.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Gewone mannen;Bram;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** CUL-gezin-wonen;MACHT-gewone-mannen;PER-gewone-mannen;REGEL-registers-merken;RIT-kinkschaal;VOOR-onderdanige-man;VOOR-afscheid-Z50;GEB-Z45-losbandige-jaren;FASE-markt
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Stil, zonder feest, wisselt een gewone man van eigenares. In de zaadbeurs of het moederhuis mag hij eerst een laatste nacht kiezen met wie hij wil, vaak met de oude eigenares. Daarna knipt men de halsband door en doet de nieuwe om, en de Registratrix schrijft het in. Kracht levert het niet op, maar zijn band met zijn oude kinderen blijft in het register bewaard. Kink-schaal 2. Alle deelnemers 18+; de kinderen komen alleen voor als erfenis in het register.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-halsbandwissel-Z50 · De Halsbandwissel
+- **code:** RIT-halsbandwissel-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** De Halsbandwissel
+- **wat:** Op de Nacht der Omkering draagt zij in het moederhuis zijn halsband, en hij haar sjerp. Hij beveelt. Het woord 'Ysa-rust' stopt alles, en het duurt één nacht. Het spel is rolomkering, dominant en onderdanig, op kink-schaal 3. Kracht geeft het niet, wel geheimen en wrok, want wat een gewone man één nacht beval, onthoudt hij nog lang daarna. Alle deelnemers 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Rolwisseling;Bram;GEB-Z45-losbandige-jaren;FASE-noodtoestand-Z38
+- **verwijst_naar:** CUL-gezin-wonen;BESLUIT-Z30-2;MACHT-gewone-mannen;MODE-vrouwen-basis;PER-gewone-mannen;RIT-kinkschaal;RIT-rolwisseling-Z50;VOOR-rolwissel-Z50;GEB-Z45-losbandige-jaren;FASE-noodtoestand-Z38
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Op de Nacht der Omkering draagt zij in het moederhuis zijn halsband, en hij haar sjerp. Hij beveelt. Het woord 'Ysa-rust' stopt alles, en het duurt één nacht. Het spel is rolomkering, dominant en onderdanig, op kink-schaal 3. Kracht geeft het niet, wel geheimen en wrok, want wat een gewone man één nacht beval, onthoudt hij nog lang daarna. Alle deelnemers 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-ketenwake-Z50 · De Ketenwake
+- **code:** RIT-ketenwake-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** De Ketenwake
+- **wat:** Met zijden koorden aan een zuil in de tempelgalerij van Saelith, een hele nacht: zo wacht een vrouw (18+) die een gaven-man wil naderen buiten de rij. Ontvangsters raken haar aan en zalven haar, maar vervulling blijft uit. Een Ontvangster waakt, en het heilige woord 'Ysa-rust' stopt alles. Bij dageraad kiest de gaven-man haar of laat haar gaan. Houdt ze vol, dan stijgt ze één rang; kracht krijgt ze alleen als ze gekozen wordt. Bondage, uitstel tot de grens en getuigen; kink-schaal 4. Alle deelnemers 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Grote Wachtrij;Liora;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** MACHT-gaven-mannen;ORDE-orde;PER-liora-Z6-Z32;REG-saelith;RIT-kinkschaal;VOOR-overgave;VOOR-ontzegging-Z50;VOOR-bondage-Z50;STAD-saelith;TECHNO-gave;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Met zijden koorden aan een zuil in de tempelgalerij van Saelith, een hele nacht: zo wacht een vrouw (18+) die een gaven-man wil naderen buiten de rij. Ontvangsters raken haar aan en zalven haar, maar vervulling blijft uit. Een Ontvangster waakt, en het heilige woord 'Ysa-rust' stopt alles. Bij dageraad kiest de gaven-man haar of laat haar gaan. Houdt ze vol, dan stijgt ze één rang; kracht krijgt ze alleen als ze gekozen wordt. Bondage, uitstel tot de grens en getuigen; kink-schaal 4. Alle deelnemers 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-kettingstoet-Z50 · De Kettingstoet
+- **code:** RIT-kettingstoet-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** De Kettingstoet
+- **wat:** Door de straten van Ambergaard en Saelith trekt een stoet gewone mannen in halsband, geleid door hun Hoedsters. Langs de rij mogen vrouwen betasten en kiezen. Het is een ritueel van bezit, en schade is niet toegestaan. Het gaat om bezit, publieke vertoning en vernedering, en het eindigt in huur en verkoop. De stoet staat op kink-schaal 3, en wie langs de rij loopt, hoort de halsbanden tikken. Alle deelnemers zijn 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Gewone mannen;Bram;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** MACHT-gewone-mannen;PER-gewone-mannen;REG-ambergaard;REG-saelith;RIT-kinkschaal;VOOR-dominante-vrouw-Z50;VOOR-onderdanige-man;STAD-saelith;GEB-Z45-losbandige-jaren;FASE-markt
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Door de straten van Ambergaard en Saelith trekt een stoet gewone mannen in halsband, geleid door hun Hoedsters. Langs de rij mogen vrouwen betasten en kiezen. Het is een ritueel van bezit, en schade is niet toegestaan. Het gaat om bezit, publieke vertoning en vernedering, en het eindigt in huur en verkoop. De stoet staat op kink-schaal 3, en wie langs de rij loopt, hoort de halsbanden tikken. Alle deelnemers zijn 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-laatste-bed-Z50 · Het Laatste Bed
+- **code:** RIT-laatste-bed-Z50
+- **categorie:** Rituelen
+- **onderwerp:** Het Laatste Bed
+- **wat:** Grijs is de kleur van de rouw. Bij de dood van een man of vrouw wordt het lichaam gezalfd, in de tempel of bij de brandstapel, en de vrouwen liggen een nacht om de dode heen. Liefde dient dan als troost onder de rouwenden zelf; de dode blijft buiten elke intimiteit en wordt alleen gezalfd en bewaakt. Bij het ochtendlicht volgt de verbranding. Wat overblijft, is rouw en troost onder elkaar. Alle deelnemers zijn volwassen en levend.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** Cultuur;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** CUL-gezin-wonen;RIT-stille-kind-Z50;VOOR-vrouwenliefde;VOOR-afscheid-Z50;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Grijs is de kleur van de rouw. Bij de dood van een man of vrouw wordt het lichaam gezalfd, in de tempel of bij de brandstapel, en de vrouwen liggen een nacht om de dode heen. Liefde dient dan als troost onder de rouwenden zelf; de dode blijft buiten elke intimiteit en wordt alleen gezalfd en bewaakt. Bij het ochtendlicht volgt de verbranding. Wat overblijft, is rouw en troost onder elkaar. Alle deelnemers zijn volwassen en levend.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-leegtewake-Z50 · De Leegtewake
+- **code:** RIT-leegtewake-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** De Leegtewake
+- **wat:** Een vrouw in de Leegte mag tot zonsopgang van de tweede dag niets ontvangen. In de binnenhof bindt haar moederhuis haar vast met zachte linten, en vriendinnen troosten en plagen haar, met ontzegging tot de grens. Het gaat om ontzegging en kwetsbaarheid. Het breekt een beginnende binding, en wat zij daarna ontvangt, werkt tien procent sterker. Kink-schaal 3. Alle deelnemers 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Leegte;Grijswortel;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** CUL-gezin-wonen;MAGIE-kracht-duur;MAGIE-verslaving;RIT-kinkschaal;VOOR-ontzegging-Z50;VOOR-bondage-Z50;LOT-Z44-gaven-mannen;FASE-vonk
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een vrouw in de Leegte mag tot zonsopgang van de tweede dag niets ontvangen. In de binnenhof bindt haar moederhuis haar vast met zachte linten, en vriendinnen troosten en plagen haar, met ontzegging tot de grens. Het gaat om ontzegging en kwetsbaarheid. Het breekt een beginnende binding, en wat zij daarna ontvangt, werkt tien procent sterker. Kink-schaal 3. Alle deelnemers 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-maanzalving-Z50 · De Maanzalving
+- **code:** RIT-maanzalving-Z50
+- **categorie:** Rituelen
+- **onderwerp:** De Maanzalving
+- **wat:** Bij volle maan zalven de vrouwen van een moederhuis elkaar in de binnenhof met maankruidolie, en het maanlicht is het enige licht. Alleen vrouwen mogen erbij zijn. Er is liefde tussen vrouwen, en een zegen voor vruchtbaarheid of juist voor bescherming. De olie komt van het kruid dat in Groenmuil groeit. Zaad-kracht hoort er niet bij; de rite levert verbondenheid op. Alle deelnemers zijn volwassen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Gezin en wonen;Gezondheid;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** CUL-gezin-wonen;MAGIE-kracht-duur;VOOR-vrouwenliefde;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Bij volle maan zalven de vrouwen van een moederhuis elkaar in de binnenhof met maankruidolie, en het maanlicht is het enige licht. Alleen vrouwen mogen erbij zijn. Er is liefde tussen vrouwen, en een zegen voor vruchtbaarheid of juist voor bescherming. De olie komt van het kruid dat in Groenmuil groeit. Zaad-kracht hoort er niet bij; de rite levert verbondenheid op. Alle deelnemers zijn volwassen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-melkrite-Z50 · De Melkrite
+- **code:** RIT-melkrite-Z50
+- **categorie:** Rituelen
+- **onderwerp:** De Melkrite
+- **wat:** Twee tot vier keer per dag gaan de stalhuizen van Ambergaard en Varenne open. Hoedsters en boerinnen wassen de gewone mannen, voeden hen met mannenvoer en melken hen met hand of mond. Het zaad gaat in flacons met het stalmerk, die verzegeld worden, en daarna volgt een ruststond. Het levert het huis inkomen op, en de flacons geven twintig procent kracht. Alle deelnemers zijn volwassen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Gewone mannen;Bram;Ambergaard;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** BESLUIT-Z30-2;HUI-varenne;MACHT-gewone-mannen;PER-gewone-mannen;REG-ambergaard;VOOR-dominante-vrouw-Z50;VOOR-melken-Z50;VOOR-onderdanige-man;TECHNO-bio;GEB-Z45-losbandige-jaren;FASE-markt
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Twee tot vier keer per dag gaan de stalhuizen van Ambergaard en Varenne open. Hoedsters en boerinnen wassen de gewone mannen, voeden hen met mannenvoer en melken hen met hand of mond. Het zaad gaat in flacons met het stalmerk, die verzegeld worden, en daarna volgt een ruststond. Het levert het huis inkomen op, en de flacons geven twintig procent kracht. Alle deelnemers zijn volwassen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-melkzegen-Z50 · De Melkzegen
+- **code:** RIT-melkzegen-Z50
+- **categorie:** Rituelen
+- **onderwerp:** De Melkzegen
+- **wat:** Veertig dagen na de geboorte gaat een jonge moeder met haar huis naar het badhuis. Daar volgen bad en zalving, en ze legt de gouden sjerp af. Daarmee keert ze terug naar de rode sjerp van wie ontvankelijk is, en mag ze weer ontvangen. Het is een tedere rite, gericht op haar eigen lichaam; het kind speelt er geen rol in. Alle deelnemers zijn volwassen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** Gezondheid;Sjerp-signalen
+- **verwijst_naar:** KINK-sjerp-signalen;MODE-vrouwen-basis;VOOR-teder;VOOR-lichaam-Z50;TECHNO-bio
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Veertig dagen na de geboorte gaat een jonge moeder met haar huis naar het badhuis. Daar volgen bad en zalving, en ze legt de gouden sjerp af. Daarmee keert ze terug naar de rode sjerp van wie ontvankelijk is, en mag ze weer ontvangen. Het is een tedere rite, gericht op haar eigen lichaam; het kind speelt er geen rol in. Alle deelnemers zijn volwassen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-nacht-duizend-lampen-Z50 · De Nacht der Duizend Lampen
+- **code:** RIT-nacht-duizend-lampen-Z50
+- **categorie:** Rituelen
+- **onderwerp:** De Nacht der Duizend Lampen
+- **wat:** Lampen in alle tempels en straten van Saelith: in deze nacht mag elke volwassen vrouw een man kiezen, en mannen mogen weigeren. Eerst ontsteekt men de lampen, dan volgt de optocht, de keuze en de nacht, en bij dageraad gaan de lampen uit. Even vallen de rangen weg, en er brandt veel zegellicht boven het water. Alleen volwassenen doen mee.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Feesten;Saelith;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** BESLUIT-Z30-2;REG-saelith;RITE-feesten;SFEER-zegellicht;WET-wie-weigert;VOOR-groep-Z50;STAD-saelith;LOT-Z44-zegellicht;FASE-ontvangst
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Lampen in alle tempels en straten van Saelith: in deze nacht mag elke volwassen vrouw een man kiezen, en mannen mogen weigeren. Eerst ontsteekt men de lampen, dan volgt de optocht, de keuze en de nacht, en bij dageraad gaan de lampen uit. Even vallen de rangen weg, en er brandt veel zegellicht boven het water. Alleen volwassenen doen mee.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-ontvangst-Z50 · De Ontvangst
+- **code:** RIT-ontvangst-Z50
+- **categorie:** Rituelen
+- **onderwerp:** De Ontvangst
+- **wat:** Bad, zalving en sluier gaan vooraf. In de tempel, op het altaarbed, roept men Ysa aan; daarna kiest de vrouw (18+) met haar gunstbrief schoot, mond of huid, en ontvangt ze van de gaven-man, met Ontvangsters en getuigen erbij. Het mag alleen als de gaven-man en de vrouw allebei instemmen, en het zegellicht moet branden. Ze krijgt een oorring als teken van rang, en vijfvoudige kracht voor acht tot twaalf uur. Een deel van die kracht voedt de zegel; de zegen is van goud. Alle deelnemers volwassen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Orde;Saelith;Magie;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **verwijst_naar:** ECO-geld;BESLUIT-Z30-2;MACHT-gaven-mannen;ORDE-orde;REG-saelith;SFEER-zegellicht;VOOR-exhibitionisme-Z50;VOOR-voyeurisme-Z50;VOOR-ritueel-Z50;TECHNO-gave;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;FASE-ontvangst
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Bad, zalving en sluier gaan vooraf. In de tempel, op het altaarbed, roept men Ysa aan; daarna kiest de vrouw (18+) met haar gunstbrief schoot, mond of huid, en ontvangt ze van de gaven-man, met Ontvangsters en getuigen erbij. Het mag alleen als de gaven-man en de vrouw allebei instemmen, en het zegellicht moet branden. Ze krijgt een oorring als teken van rang, en vijfvoudige kracht voor acht tot twaalf uur. Een deel van die kracht voedt de zegel; de zegen is van goud. Alle deelnemers volwassen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-oogstbed-Z50 · Het Oogstbed
+- **code:** RIT-oogstbed-Z50
+- **categorie:** Rituelen
+- **onderwerp:** Het Oogstbed
+- **wat:** Eén week per jaar gaat in Ambergaard het stalhuis open. De dorpsvrouwen bepalen bij loting de volgorde bij de stalman; er is een oogstfeest en aan het einde dank aan de man. Het past bij de nuchtere boerinnencollectieven van het graanland, die samen één gewone man houden. Het brengt het dorp vruchtbaarheid en een kleine kracht voor de oogst. Alle deelnemers zijn volwassen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** Ambergaard;Bram;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** ORDE-orde;PER-gewone-mannen;REG-ambergaard;VOOR-voyeurisme-Z50;GEB-Z45-losbandige-jaren;FASE-markt
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Eén week per jaar gaat in Ambergaard het stalhuis open. De dorpsvrouwen bepalen bij loting de volgorde bij de stalman; er is een oogstfeest en aan het einde dank aan de man. Het past bij de nuchtere boerinnencollectieven van het graanland, die samen één gewone man houden. Het brengt het dorp vruchtbaarheid en een kleine kracht voor de oogst. Alle deelnemers zijn volwassen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-overdracht-Z50 · De Overdracht
+- **code:** RIT-overdracht-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** De Overdracht
+- **wat:** Zeven dagen lang bepaalt hij haar kleding, haar rust en haar genot. Daarvoor tekenen een vrouw en een gaven-man een contract bij een Registratrix, en het woord 'Ysa-rust' blijft al die tijd geldig. In zijn vertrekken geeft ze hem haar sjerp en zegt ze haar naam af; bij afloop krijgt ze die terug. Het draait om totale machtsoverdracht, dominant en onderdanig. Haar huis stijgt sterk, maar het risico op binding is hoog. Kink-schaal 4. Alle deelnemers 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Aeron-as (zacht), Khaled-Ir (prijs);LOT-Z44-gaven-mannen;FASE-noodtoestand-Z38
+- **verwijst_naar:** CUL-kleding;MACHT-gaven-mannen;MAGIE-verslaving;MODE-vrouwen-basis;PER-aeron;PER-khaled;RIT-kinkschaal;VOOR-overgave;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-noodtoestand-Z38
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Zeven dagen lang bepaalt hij haar kleding, haar rust en haar genot. Daarvoor tekenen een vrouw en een gaven-man een contract bij een Registratrix, en het woord 'Ysa-rust' blijft al die tijd geldig. In zijn vertrekken geeft ze hem haar sjerp en zegt ze haar naam af; bij afloop krijgt ze die terug. Het draait om totale machtsoverdracht, dominant en onderdanig. Haar huis stijgt sterk, maar het risico op binding is hoog. Kink-schaal 4. Alle deelnemers 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-pelgrimszalving-Z50 · De Pelgrimszalving
+- **code:** RIT-pelgrimszalving-Z50
+- **categorie:** Rituelen
+- **onderwerp:** De Pelgrimszalving
+- **wat:** Bij de grenspost van elke regio staat een Hoedster, en wie op een queeste verder reist, wordt door haar gezalfd. Ze vraagt naar het doel. Daarop volgt zegen of weigering, en met de zegen komt toestemming om door te reizen. Voor een reiziger is het de eerste vraag van een vreemde regio, en het antwoord bepaalt of de weg openblijft. Alle deelnemers zijn volwassen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** Queeste;Liora
+- **verwijst_naar:** PER-liora-Z6-Z32;QST-doel-reden-gevaar;QST-queeste;WET-wie-weigert;VOOR-ritueel-Z50;VOOR-reiziger-Z50;VOOR-oudere-vrouw-Z50
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Bij de grenspost van elke regio staat een Hoedster, en wie op een queeste verder reist, wordt door haar gezalfd. Ze vraagt naar het doel. Daarop volgt zegen of weigering, en met de zegen komt toestemming om door te reizen. Voor een reiziger is het de eerste vraag van een vreemde regio, en het antwoord bepaalt of de weg openblijft. Alle deelnemers zijn volwassen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-reizigersgroet-Z50 · De Reizigersgroet
+- **code:** RIT-reizigersgroet-Z50
+- **categorie:** Rituelen
+- **onderwerp:** De Reizigersgroet
+- **wat:** Wie onderdak vraagt in een karavanserai, een haven of een berghut, biedt een gift of een nacht, en weigeren mag altijd. Eerst komen water en brood, dan toont de reiziger de sjerp, daarna volgt de gift of de nacht, en ten slotte een zegen voor de weg. Gezegende reizigers krijgen bescherming, en zo wordt de reis veiliger. Alle deelnemers zijn volwassen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** Queeste;Regio’s;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** MODE-vrouwen-basis;QST-doel-reden-gevaar;QST-queeste;WET-wie-weigert;VOOR-reiziger-Z50;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Wie onderdak vraagt in een karavanserai, een haven of een berghut, biedt een gift of een nacht, en weigeren mag altijd. Eerst komen water en brood, dan toont de reiziger de sjerp, daarna volgt de gift of de nacht, en ten slotte een zegen voor de weg. Gezegende reizigers krijgen bescherming, en zo wordt de reis veiliger. Alle deelnemers zijn volwassen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-rolwisseling-Z50 · Rolwisseling
+- **code:** RIT-rolwisseling-Z50
+- **categorie:** Rituelen
+- **onderwerp:** Rolwisseling
+- **wat:** Eén dag per jaar, overal in het land, beveelt het bezit de bezitter. Op de Nacht der Omkering kiezen gewone mannen, en vrouwen dragen halsbanden; niemand wordt erom gestraft. Halsbanden en sjerpen wisselen van eigenaar, er is feest, en bij zonsopgang wisselt alles terug. Het laat geen blijvend effect na, alleen geheimen en wrok, die het hele jaar meegaan. Iedereen die meedoet is 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Gewone mannen;Kharvos;GEB-Z45-losbandige-jaren;FASE-noodtoestand-Z38
+- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gewone-mannen;MODE-vrouwen-basis;REG-kharvos-B1;VOOR-rolwissel-Z50;GEB-Z45-losbandige-jaren;FASE-noodtoestand-Z38
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Eén dag per jaar, overal in het land, beveelt het bezit de bezitter. Op de Nacht der Omkering kiezen gewone mannen, en vrouwen dragen halsbanden; niemand wordt erom gestraft. Halsbanden en sjerpen wisselen van eigenaar, er is feest, en bij zonsopgang wisselt alles terug. Het laat geen blijvend effect na, alleen geheimen en wrok, die het hele jaar meegaan. Iedereen die meedoet is 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-schandpodium-Z50 · Het Schandpodium
+- **code:** RIT-schandpodium-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** Het Schandpodium
+- **wat:** Een dag in grijs en halsband op het podium van de tempeltrappen: dat legt het Tribunaal van Drie een veroordeelde volwassene op. Het publiek mag kijken en spreken, een Moeder ziet toe, en blijvend letsel is verboden. Bij zonsondergang volgt de verheffing met zalving. Het gaat om publieke vernedering en verheffing: eerst rangverlies, daarna herstel. Kink-schaal 4. Alle deelnemers 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** Boeterite;Tribunaal;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** ORDE-orde;RIT-boeterite-Z50;RIT-kinkschaal;RIT-tribunaal-drie-Z50;VOOR-exhibitionisme-Z50;VOOR-vernedering-Z50;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een dag in grijs en halsband op het podium van de tempeltrappen: dat legt het Tribunaal van Drie een veroordeelde volwassene op. Het publiek mag kijken en spreken, een Moeder ziet toe, en blijvend letsel is verboden. Bij zonsondergang volgt de verheffing met zalving. Het gaat om publieke vernedering en verheffing: eerst rangverlies, daarna herstel. Kink-schaal 4. Alle deelnemers 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-spiegelnacht-Z50 · De Spiegelnacht
+- **code:** RIT-spiegelnacht-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** De Spiegelnacht
+- **wat:** In Tuaro, de boomstad, laat een gaven-man met geestgave een vrouw zijn verlangen voelen, en zij hem het hare. De grens tussen twee lijven vervaagt. Het woord 'water' stopt de spiegeling. Het gaat om overweldiging en verlies van zelf. Onder de regen en tussen de hangbruggen voelt geen van beiden nog waar de ander begint. Ze krijgt viervoudige kracht, maar ook binding. Kink-schaal 3. Alle deelnemers 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Groenmuil;Magie;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** MACHT-gaven-mannen;MAGIE-verslaving;REG-groenmuil;RIT-kinkschaal;VOOR-teder;VOOR-geest-Z50;STAD-tuaro;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-vonk
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In Tuaro, de boomstad, laat een gaven-man met geestgave een vrouw zijn verlangen voelen, en zij hem het hare. De grens tussen twee lijven vervaagt. Het woord 'water' stopt de spiegeling. Het gaat om overweldiging en verlies van zelf. Onder de regen en tussen de hangbruggen voelt geen van beiden nog waar de ander begint. Ze krijgt viervoudige kracht, maar ook binding. Kink-schaal 3. Alle deelnemers 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-stille-kind-Z50 · Het Stille Kind
+- **code:** RIT-stille-kind-Z50
+- **categorie:** Rituelen
+- **onderwerp:** Het Stille Kind
+- **wat:** Onder de vijgenboom van de binnenhof begraaft een moeder het belletje van haar zoon, of de naam van haar kind, als dat kind gestorven is. Ze draagt een grijze sjerp; het moederhuis zingt en rouwt mee. Veertig dagen lang geen zaad en geen ontvangst: de moeder is een tijd 'gesloten'. Dit is een niet-seksuele rouwrite. De kink-schaal van 2 slaat alleen op de onthouding die de volwassen moeder op zich neemt. Alle deelnemers 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** Geboortelied;Gezondheid
+- **verwijst_naar:** CUL-gezin-wonen;MODE-vrouwen-basis;RIT-kinkschaal;VOOR-lichaam-Z50
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Onder de vijgenboom van de binnenhof begraaft een moeder het belletje van haar zoon, of de naam van haar kind, als dat kind gestorven is. Ze draagt een grijze sjerp; het moederhuis zingt en rouwt mee. Veertig dagen lang geen zaad en geen ontvangst: de moeder is een tijd 'gesloten'. Dit is een niet-seksuele rouwrite. De kink-schaal van 2 slaat alleen op de onthouding die de volwassen moeder op zich neemt. Alle deelnemers 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-stormontlading-Z50 · De Stormontlading
+- **code:** RIT-stormontlading-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** De Stormontlading
+- **wat:** Na grote magie moet Aeron-as ontladen, en dat kan overal gebeuren, na een gevecht. Een vrouw die vrijwillig blijft, kiest het zelf, en hij geeft haar het woord 'stil'. De storm trekt door haar heen in een woeste, ongecontroleerde nacht: overgave aan een overmatige kracht. Zij krijgt vijfvoudige kracht en een stormvleug; hij geneest, en de lucht ruikt nog uren naar onweer. Kink-schaal 4. Alle deelnemers 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Aeron-as;Ontlading na magie;Liora;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** KINK-ontlading-na-magie;PER-aeron;PER-liora-Z6-Z32;RIT-kinkschaal;VOOR-dominante-man-Z50;VOOR-ontlading-Z50;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-vonk
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Na grote magie moet Aeron-as ontladen, en dat kan overal gebeuren, na een gevecht. Een vrouw die vrijwillig blijft, kiest het zelf, en hij geeft haar het woord 'stil'. De storm trekt door haar heen in een woeste, ongecontroleerde nacht: overgave aan een overmatige kracht. Zij krijgt vijfvoudige kracht en een stormvleug; hij geneest, en de lucht ruikt nog uren naar onweer. Kink-schaal 4. Alle deelnemers 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-strijdontvangst-Z50 · De Strijdontvangst
+- **code:** RIT-strijdontvangst-Z50
+- **categorie:** Rituelen
+- **onderwerp:** De Strijdontvangst
+- **wat:** Binnen zes uur vóór de slag, in een veldtent of de vestingzaal van Kaldrun, staan officieren en elite-krijgsvrouwen in een rij. Maankruid is verplicht. De wapens worden gezegend, en een of meer gaven-mannen ontvangen de vrouwen één voor één; daarna klinkt de strijdkreet. Het geeft krijgsrang en vijfvoudige kracht tijdens de slag, en daarna een gezamenlijke Leegte. Alle deelnemers zijn volwassen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Leger;Huis Kaldra;Kharvos;LOT-Z44-gaven-mannen;FASE-vonk
+- **verwijst_naar:** HUI-kaldra-Z6;MACHT-gaven-mannen;MACHT-leger;MAGIE-kracht-duur;REG-hoogvrouwe;REG-kharvos-B1;VOOR-groep-Z50;VOOR-uithouding-Z50;STAD-kaldrun;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-vonk
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Binnen zes uur vóór de slag, in een veldtent of de vestingzaal van Kaldrun, staan officieren en elite-krijgsvrouwen in een rij. Maankruid is verplicht. De wapens worden gezegend, en een of meer gaven-mannen ontvangen de vrouwen één voor één; daarna klinkt de strijdkreet. Het geeft krijgsrang en vijfvoudige kracht tijdens de slag, en daarna een gezamenlijke Leegte. Alle deelnemers zijn volwassen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-tribunaal-drie-Z50 · Het Tribunaal van Drie
+- **code:** RIT-tribunaal-drie-Z50
+- **categorie:** Rituelen
+- **onderwerp:** Het Tribunaal van Drie
+- **wat:** Drie Moeders oordelen in de tribunaalhal over een beschuldigde. Het bewijs komt uit het register: na de aanklacht vergelijkt men het bloedlijnmerk, dan volgt het oordeel, en de straf is een boete of de Boeterite. Blijkt er verwantschap, dan volgt verbanning of de dood. Zo bepaalt het tribunaal rang en straf. Het is een rechtsrite, geen seksuele. Alle deelnemers zijn volwassen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** Wetten;Orde
+- **verwijst_naar:** ORDE-orde;REGEL-registers-merken;REGEL-verwantschapstaboe;RIT-boeterite-Z50;VOOR-oudere-vrouw-Z50;VOOR-handel-Z50
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Drie Moeders oordelen in de tribunaalhal over een beschuldigde. Het bewijs komt uit het register: na de aanklacht vergelijkt men het bloedlijnmerk, dan volgt het oordeel, en de straf is een boete of de Boeterite. Blijkt er verwantschap, dan volgt verbanning of de dood. Zo bepaalt het tribunaal rang en straf. Het is een rechtsrite, geen seksuele. Alle deelnemers zijn volwassen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-tweegelofte-Z50 · De Tweegelofte
+- **code:** RIT-tweegelofte-Z50
+- **categorie:** Rituelen
+- **onderwerp:** De Tweegelofte
+- **wat:** 'Ik keer altijd terug' is de gelofte. Twee volwassenen, twee vrouwen of een vrouw en een gewone man die zij bezit of vrijkoopt, ruilen in de binnenhof een haarlok en een ring, onder getuigen van het moederhuis. Ze baden samen en hebben een nacht alleen. Het is vrijwillig en niet exclusief, want het geloof verbiedt exclusiviteit, maar het belooft voorrang en terugkeer. Zaad-kracht levert het niet op, wel rang als paar in het moederhuis. Kink-schaal 2. Alle deelnemers 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Hechting en liefde;Gezin en wonen;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** CUL-gezin-wonen;MACHT-gewone-mannen;MAGIE-kracht-duur;ORDE-doel-geloof;RIT-kinkschaal;VOOR-teder;VOOR-verboden-Z50;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** 'Ik keer altijd terug' is de gelofte. Twee volwassenen, twee vrouwen of een vrouw en een gewone man die zij bezit of vrijkoopt, ruilen in de binnenhof een haarlok en een ring, onder getuigen van het moederhuis. Ze baden samen en hebben een nacht alleen. Het is vrijwillig en niet exclusief, want het geloof verbiedt exclusiviteit, maar het belooft voorrang en terugkeer. Zaad-kracht levert het niet op, wel rang als paar in het moederhuis. Kink-schaal 2. Alle deelnemers 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-veiling-Z50 · De Veiling
+- **code:** RIT-veiling-Z50
+- **categorie:** Rituelen
+- **onderwerp:** De Veiling
+- **wat:** Keuring in het bad, daarna het podium: op de zaadbeurs van Saelith, in Brakhaven en in Qesh brengt Huis Varenne gewone mannen te koop, soms ook een gaven-man die instemt. De mannen worden gekeurd en tentoongesteld. Kopers bieden met Kronen of gunstbrieven, en de winnares mag de man direct 'proeven'. Zij krijgt rijkdom en aanzien, en het gewone zaad geeft kleine kracht. Alle deelnemers volwassen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Zaadbeurs;Huis Varenne;Prijzen;GEB-Z45-losbandige-jaren;FASE-markt
+- **verwijst_naar:** ECO-geld;ECO-prijzen-mannen-zaad;HUI-varenne;MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;REG-rosse;REG-saelith;REG-zoutkust;VOOR-dominante-vrouw-Z50;VOOR-veiling-Z50;STAD-saelith;STAD-brakhaven;STAD-qesh;TECHNO-gave;GEB-Z45-losbandige-jaren;FASE-markt
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Keuring in het bad, daarna het podium: op de zaadbeurs van Saelith, in Brakhaven en in Qesh brengt Huis Varenne gewone mannen te koop, soms ook een gaven-man die instemt. De mannen worden gekeurd en tentoongesteld. Kopers bieden met Kronen of gunstbrieven, en de winnares mag de man direct 'proeven'. Zij krijgt rijkdom en aanzien, en het gewone zaad geeft kleine kracht. Alle deelnemers volwassen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-verzoening-Z50 · De Verzoening
+- **code:** RIT-verzoening-Z50
+- **categorie:** Rituelen
+- **onderwerp:** De Verzoening
+- **wat:** Zout op de tong sluit de vete. Op voorstel van een Moeder komen twee rivalen, vrouwen of hele huizen, in het badhuis samen, onder een heilig woord. Ze wassen elkaar, eten samen en delen een nacht of een man. Daarna is de rang hersteld. Wie haat meebrengt in het water, merkt dat het moeilijk is om iemand te wassen en tegelijk te haten. Kink-schaal 2. Alle deelnemers 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** Duel om een Man;Huizen;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **verwijst_naar:** RIT-kinkschaal;VOOR-vernedering-Z50;LOT-Z44-ishvar;FASE-noodtoestand-Z38
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Zout op de tong sluit de vete. Op voorstel van een Moeder komen twee rivalen, vrouwen of hele huizen, in het badhuis samen, onder een heilig woord. Ze wassen elkaar, eten samen en delen een nacht of een man. Daarna is de rang hersteld. Wie haat meebrengt in het water, merkt dat het moeilijk is om iemand te wassen en tegelijk te haten. Kink-schaal 2. Alle deelnemers 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-volk-aelthir-Z50 · Nacht van de Rekening (verlengd): uren ontzegging, dan geheugenruil
+- **code:** RIT-volk-aelthir-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** Nacht van de Rekening (verlengd): uren ontzegging, dan geheugenruil
+- **wat:** Een Aelthir die binnen het uur klaarkomt, is onteerd; daarom duurt de Nacht van de Rekening uren. Eerst komt ontzegging tot de grens, daarna de geheugenruil, waarbij een herinnering wordt weggegeven voor één felle nacht. Het is een vorm van de extreme kern van de Langlevenden (zie SEKS-VOLK-aelthir-kern), op kink-schaal 5. Alleen volwassenen (18+) doen mee, sprekende wezens die vooraf instemmen, en een hoedster stopt de nacht wanneer het moet. Zo houdt het volk band en rang in stand. Geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** SEKS-VOLK-aelthir-kern;VOLK-aelthir;LOT-Z44-aelthir;FASE-voortijd
+- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOLK-aelthir-V5;LOT-Z44-aelthir;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een Aelthir die binnen het uur klaarkomt, is onteerd; daarom duurt de Nacht van de Rekening uren. Eerst komt ontzegging tot de grens, daarna de geheugenruil, waarbij een herinnering wordt weggegeven voor één felle nacht. Het is een vorm van de extreme kern van de Langlevenden (zie SEKS-VOLK-aelthir-kern), op kink-schaal 5. Alleen volwassenen (18+) doen mee, sprekende wezens die vooraf instemmen, en een hoedster stopt de nacht wanneer het moet. Zo houdt het volk band en rang in stand. Geen minderjarigen, geen dieren; dwang alleen als gelabeld donker thema tussen volwassenen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-volk-dhurn-Z50 · Gildeverzegeling in de schacht
+- **code:** RIT-volk-dhurn-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** Gildeverzegeling in de schacht
+- **wat:** In de schacht metselt het gilde een paar in, voor een nacht met beperkte lucht. Zo verzegelen de Dhurn een verbintenis, in de vorm van hun extreme kern (zie SEKS-VOLK-dhurn-kern), op kink-schaal 5. Buiten gildetoezicht is zoiets voor hen taboe; binnen het gilde is het heilig. Een hoedster houdt de muur in de gaten en breekt hem open als het moet. Alleen volwassenen (18+) die vooraf instemmen, sprekende wezens; geen minderjarigen en geen dieren. De rite houdt band, rang of voortplanting van het bergvolk in stand, en dwang komt alleen voor als gelabeld donker thema.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** SEKS-VOLK-dhurn-kern;VOLK-dhurn;LOT-Z44-dhurn;FASE-vonk
+- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOLK-dhurn;LOT-Z44-dhurn;FASE-vonk
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In de schacht metselt het gilde een paar in, voor een nacht met beperkte lucht. Zo verzegelen de Dhurn een verbintenis, in de vorm van hun extreme kern (zie SEKS-VOLK-dhurn-kern), op kink-schaal 5. Buiten gildetoezicht is zoiets voor hen taboe; binnen het gilde is het heilig. Een hoedster houdt de muur in de gaten en breekt hem open als het moet. Alleen volwassenen (18+) die vooraf instemmen, sprekende wezens; geen minderjarigen en geen dieren. De rite houdt band, rang of voortplanting van het bergvolk in stand, en dwang komt alleen voor als gelabeld donker thema.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-volk-grauwen-Z50 · Volle Ontsluiering
+- **code:** RIT-volk-grauwen-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** Volle Ontsluiering
+- **wat:** Bij de Volle Ontsluiering laat een Grauwe elke vervorming zien, ook die hij zelf niet durft te bekijken, en de geliefde verkent ze met mond en hand. Het is de ritevorm van hun extreme kern (zie SEKS-VOLK-grauwen-kern), op kink-schaal 5. Voor een volk dat de Orde als schrikbeeld gebruikt, is gezien worden de hoogste gunst. Een hoedster stopt wanneer het te veel wordt. Alleen volwassenen (18+), sprekende wezens die vooraf ja zeggen; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. De rite houdt band en rang van het randvolk overeind.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** SEKS-VOLK-grauwen-kern;VOLK-grauwen;LOT-Z44-grauwen;FASE-noodtoestand-Z38
+- **verwijst_naar:** SEKS-VOLK-grauwen-kern;VOLK-grauwen;LOT-Z44-grauwen;FASE-noodtoestand-Z38
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Bij de Volle Ontsluiering laat een Grauwe elke vervorming zien, ook die hij zelf niet durft te bekijken, en de geliefde verkent ze met mond en hand. Het is de ritevorm van hun extreme kern (zie SEKS-VOLK-grauwen-kern), op kink-schaal 5. Voor een volk dat de Orde als schrikbeeld gebruikt, is gezien worden de hoogste gunst. Een hoedster stopt wanneer het te veel wordt. Alleen volwassenen (18+), sprekende wezens die vooraf ja zeggen; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. De rite houdt band en rang van het randvolk overeind.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-volk-ishvar-Z50 · Geloftebrand
+- **code:** RIT-volk-ishvar-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** Geloftebrand
+- **wat:** Een gloeiend goudstuk, in de huid gebrand op het moment van de climax: zo zweren Ishvar een eed. Geloftebrand is de rite die voortkomt uit hun extreme kern (zie SEKS-VOLK-ishvar-kern), op kink-schaal 5, en een derde in het bed zou de gelofte breken. De Ishvar voelen de Zegel niet, en hun eden dragen ze daarom in hun eigen huid. Een hoedster stopt als het moet. Deelnemers zijn volwassenen (18+), sprekend en vooraf instemmend; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. Het bewaart band en rang van het woestijnvolk.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** SEKS-VOLK-ishvar-kern;VOLK-ishvar;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOLK-ishvar;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een gloeiend goudstuk, in de huid gebrand op het moment van de climax: zo zweren Ishvar een eed. Geloftebrand is de rite die voortkomt uit hun extreme kern (zie SEKS-VOLK-ishvar-kern), op kink-schaal 5, en een derde in het bed zou de gelofte breken. De Ishvar voelen de Zegel niet, en hun eden dragen ze daarom in hun eigen huid. Een hoedster stopt als het moet. Deelnemers zijn volwassenen (18+), sprekend en vooraf instemmend; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. Het bewaart band en rang van het woestijnvolk.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-volk-karruk-Z50 · Vuurkamp-ontlading na het gevecht
+- **code:** RIT-volk-karruk-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** Vuurkamp-ontlading na het gevecht
+- **wat:** Na het gevecht brandt het vuurkamp, en daar ontladen de Karrûk wat de strijd in hen opbouwde. Tedere seks zonder strijd ervoor geldt bij hen als laf. De rite is een vorm van hun extreme kern (zie SEKS-VOLK-karruk-kern), op kink-schaal 5, en ze werkt via de gave van de kookkoppen die moeten ontladen. Een hoedster houdt toezicht en stopt. Alleen volwassenen (18+), sprekende wezens die vooraf instemmen; geen minderjarigen, geen dieren, en dwang alleen als gelabeld donker thema. Zo blijven band en rang in het krijgersvolk heel.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** SEKS-VOLK-karruk-kern;VOLK-karrûk;LOT-Z44-karruk-storm;FASE-brand-Z38
+- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOLK-karrûk-Z6-Z38;TECHNO-gave;LOT-Z44-karruk-storm;FASE-brand-Z38
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Na het gevecht brandt het vuurkamp, en daar ontladen de Karrûk wat de strijd in hen opbouwde. Tedere seks zonder strijd ervoor geldt bij hen als laf. De rite is een vorm van hun extreme kern (zie SEKS-VOLK-karruk-kern), op kink-schaal 5, en ze werkt via de gave van de kookkoppen die moeten ontladen. Een hoedster houdt toezicht en stopt. Alleen volwassenen (18+), sprekende wezens die vooraf instemmen; geen minderjarigen, geen dieren, en dwang alleen als gelabeld donker thema. Zo blijven band en rang in het krijgersvolk heel.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-volk-kluwer-Z50 · Korfopname: een mens drie nachten in de korfgeur
+- **code:** RIT-volk-kluwer-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** Korfopname: een mens drie nachten in de korfgeur
+- **wat:** Drie nachten in de korfgeur van de Kluwers, zonder ik: een volwassen mens die instemt, voelt dan het genot van alle werksters tegelijk. Dat is de Korfopname, een vorm van hun extreme kern (zie SEKS-VOLK-kluwer-kern), op kink-schaal 5. Voor de korf is alleen-zijn een ziekte; opgenomen worden is genezing. Een hoedster haalt de mens eruit als het moet. Alleen volwassenen (18+), sprekende wezens die vooraf instemmen; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. De rite houdt de band van het korfvolk met de mensen in stand.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** SEKS-VOLK-kluwer-kern;VOLK-kluwer;LOT-Z44-kluwers;FASE-brand-Z38
+- **verwijst_naar:** SEKS-VOLK-kluwer-kern;VOLK-kluwer;LOT-Z44-kluwers;FASE-brand-Z38
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Drie nachten in de korfgeur van de Kluwers, zonder ik: een volwassen mens die instemt, voelt dan het genot van alle werksters tegelijk. Dat is de Korfopname, een vorm van hun extreme kern (zie SEKS-VOLK-kluwer-kern), op kink-schaal 5. Voor de korf is alleen-zijn een ziekte; opgenomen worden is genezing. Een hoedster haalt de mens eruit als het moet. Alleen volwassenen (18+), sprekende wezens die vooraf instemmen; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. De rite houdt de band van het korfvolk met de mensen in stand.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-volk-myrrhen-Z50 · Rotbed van de Grote Draad
+- **code:** RIT-volk-myrrhen-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** Rotbed van de Grote Draad
+- **wat:** Verterend veen als bed, en zwam die over de huid groeit: het Rotbed van de Grote Draad is de rite van de Myrrhen, een vorm van hun extreme kern (zie SEKS-VOLK-myrrhen-kern). Kink-schaal 5. Vuur in de kamer is voor hen het grootste taboe, want het schimmelnet onthoudt alles wat erin leeft en sterft. Een hoedster waakt en stopt. Alleen volwassenen (18+) die vooraf instemmen, sprekende wezens; geen minderjarigen, geen dieren, en dwang alleen als gelabeld donker thema. Het houdt band en voortplanting van het sporenvolk in stand.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** SEKS-VOLK-myrrhen-kern;VOLK-myrrhen;LOT-Z44-myrrhen;FASE-markt
+- **verwijst_naar:** SEKS-VOLK-myrrhen-kern;VOLK-myrrhen-Z6;LOT-Z44-myrrhen;FASE-markt
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Verterend veen als bed, en zwam die over de huid groeit: het Rotbed van de Grote Draad is de rite van de Myrrhen, een vorm van hun extreme kern (zie SEKS-VOLK-myrrhen-kern). Kink-schaal 5. Vuur in de kamer is voor hen het grootste taboe, want het schimmelnet onthoudt alles wat erin leeft en sterft. Een hoedster waakt en stopt. Alleen volwassenen (18+) die vooraf instemmen, sprekende wezens; geen minderjarigen, geen dieren, en dwang alleen als gelabeld donker thema. Het houdt band en voortplanting van het sporenvolk in stand.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-volk-oevrin-Z50 · Paaitij in de grote poel
+- **code:** RIT-volk-oevrin-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** Paaitij in de grote poel
+- **wat:** 'Eén poel, geen bezit.' Bij paaitij paren tientallen volwassenen tegelijk in de grote poel van de Oevrin, alle afscheiding gemengd. Het is de rite van hun extreme kern (zie SEKS-VOLK-oevrin-kern), op kink-schaal 5, en paren op het droge geldt voor dit slikvolk als taboe. Een hoedster houdt de rand van de poel en stopt wie stoppen moet. Alleen volwassenen (18+), sprekende wezens die vooraf instemmen; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. De rite draagt de voortplanting van de Oevrin.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** SEKS-VOLK-oevrin-kern;VOLK-oevrin;LOT-Z44-oevrin;FASE-voortijd
+- **verwijst_naar:** SEKS-VOLK-oevrin-kern;VOLK-oevrin;LOT-Z44-oevrin;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** 'Eén poel, geen bezit.' Bij paaitij paren tientallen volwassenen tegelijk in de grote poel van de Oevrin, alle afscheiding gemengd. Het is de rite van hun extreme kern (zie SEKS-VOLK-oevrin-kern), op kink-schaal 5, en paren op het droge geldt voor dit slikvolk als taboe. Een hoedster houdt de rand van de poel en stopt wie stoppen moet. Alleen volwassenen (18+), sprekende wezens die vooraf instemmen; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. De rite draagt de voortplanting van de Oevrin.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-volk-orrim-Z50 · Slijpvonnis en Beeldnacht
+- **code:** RIT-volk-orrim-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** Slijpvonnis en Beeldnacht
+- **wat:** Een Slijpvonnis begint met stof: twee Orrim slijpen elkaar uren, tot het stof hun kind wordt. In de Beeldnacht die volgt ligt een partner met steenpasta bedekt als heilig beeld, en wordt alleen naar afspraak aangeraakt. Beide horen bij de extreme kern van het steenvolk (zie SEKS-VOLK-orrim-kern), op kink-schaal 5. Een hoedster stopt de nacht als de huid te rauw wordt. Alleen volwassenen (18+), sprekende en vooraf instemmende wezens; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. Zo bewaren de Orrim voortplanting en rang.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** SEKS-VOLK-orrim-kern;VOLK-orrim;LOT-Z44-orrim;FASE-overvloed
+- **verwijst_naar:** SEKS-VOLK-orrim-kern;VOLK-orrim;LOT-Z44-orrim;FASE-overvloed
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Een Slijpvonnis begint met stof: twee Orrim slijpen elkaar uren, tot het stof hun kind wordt. In de Beeldnacht die volgt ligt een partner met steenpasta bedekt als heilig beeld, en wordt alleen naar afspraak aangeraakt. Beide horen bij de extreme kern van het steenvolk (zie SEKS-VOLK-orrim-kern), op kink-schaal 5. Een hoedster stopt de nacht als de huid te rauw wordt. Alleen volwassenen (18+), sprekende en vooraf instemmende wezens; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. Zo bewaren de Orrim voortplanting en rang.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-volk-saelmor-Z50 · Springtij-verdrinkingsnacht
+- **code:** RIT-volk-saelmor-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** Springtij-verdrinkingsnacht
+- **wat:** Op springtij, aan boord, paren de Sael-mor onder water tot op de rand van het verdrinken en brengen elkaar terug met een kus. Dat is de Springtij-verdrinkingsnacht, een vorm van hun extreme kern (zie SEKS-VOLK-saelmor-kern), op kink-schaal 5. Een hoedster met lucht in de longen blijft boven en stopt. Seks op het droge met één vaste partner geldt voor dit zeevolk als verraad aan het schip. Alleen volwassenen (18+), sprekende wezens die vooraf instemmen; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. De rite houdt de band van het schip in stand.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** SEKS-VOLK-saelmor-kern;VOLK-sael-mor;LOT-Z44-sael-mor;FASE-brand-Z38
+- **verwijst_naar:** SEKS-VOLK-saelmor-kern;VOLK-sael-mor;LOT-Z44-sael-mor;FASE-brand-Z38
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Op springtij, aan boord, paren de Sael-mor onder water tot op de rand van het verdrinken en brengen elkaar terug met een kus. Dat is de Springtij-verdrinkingsnacht, een vorm van hun extreme kern (zie SEKS-VOLK-saelmor-kern), op kink-schaal 5. Een hoedster met lucht in de longen blijft boven en stopt. Seks op het droge met één vaste partner geldt voor dit zeevolk als verraad aan het schip. Alleen volwassenen (18+), sprekende wezens die vooraf instemmen; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. De rite houdt de band van het schip in stand.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-volk-skerra-Z50 · De Eerste Val (paarvlucht na de 18e verjaardag)
+- **code:** RIT-volk-skerra-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** De Eerste Val (paarvlucht na de 18e verjaardag)
+- **wat:** Pas na de achttiende verjaardag mag een Skerra de Eerste Val maken: de paarvlucht vanaf de kliffen, in vrije val, met loslaten op het laatste moment. Het is de rite van hun extreme kern (zie SEKS-VOLK-skerra-kern), op kink-schaal 5. Paren op de grond is voor het vleugelvolk taboe. Een hoedster vliegt mee en grijpt in als het moet. Alleen volwassenen (18+), sprekende wezens die vooraf instemmen; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. Zo kiezen de Skerra hun paar en houden ze hun band in stand.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** SEKS-VOLK-skerra-kern;VOLK-skerra;LOT-Z44-skerra;FASE-vonk
+- **verwijst_naar:** SEKS-VOLK-skerra-kern;VOLK-skerra;LOT-Z44-skerra;FASE-vonk
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Pas na de achttiende verjaardag mag een Skerra de Eerste Val maken: de paarvlucht vanaf de kliffen, in vrije val, met loslaten op het laatste moment. Het is de rite van hun extreme kern (zie SEKS-VOLK-skerra-kern), op kink-schaal 5. Paren op de grond is voor het vleugelvolk taboe. Een hoedster vliegt mee en grijpt in als het moet. Alleen volwassenen (18+), sprekende wezens die vooraf instemmen; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. Zo kiezen de Skerra hun paar en houden ze hun band in stand.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-volk-tharn-Z50 · Dijknacht: de Tharn kiest een mens als gunst
+- **code:** RIT-volk-tharn-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** Dijknacht: de Tharn kiest een mens als gunst
+- **wat:** Op de dijk die zijn volk ooit bouwde, kiest een Tharn een mens als gunst. Dat is de Dijknacht: een volwassen mens als heel lichaam in de hand van een reus, gespeeld en aanbeden, als vorm van de extreme kern van de Tharn (zie SEKS-VOLK-tharn-kern), op kink-schaal 5. Voor een stervend volk is het een eer om te geven, niet om te nemen. Een hoedster stopt. Alleen volwassenen (18+), sprekende wezens die vooraf instemmen; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. De rite bewaart band en rang van de reuzen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** SEKS-VOLK-tharn-kern;VOLK-tharn;LOT-Z44-tharn;FASE-voortijd
+- **verwijst_naar:** SEKS-VOLK-tharn-kern;VOLK-tharn;LOT-Z44-tharn;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Op de dijk die zijn volk ooit bouwde, kiest een Tharn een mens als gunst. Dat is de Dijknacht: een volwassen mens als heel lichaam in de hand van een reus, gespeeld en aanbeden, als vorm van de extreme kern van de Tharn (zie SEKS-VOLK-tharn-kern), op kink-schaal 5. Voor een stervend volk is het een eer om te geven, niet om te nemen. Een hoedster stopt. Alleen volwassenen (18+), sprekende wezens die vooraf instemmen; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. De rite bewaart band en rang van de reuzen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-volk-vathren-Z50 · Koortsontvangst bij lekpiek
+- **code:** RIT-volk-vathren-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** Koortsontvangst bij lekpiek
+- **wat:** Bij een lekpiek voelen de Vathren de Zegel als een jagende hartslag, en dan neemt een gezel meer zaad dan veilig is en brandt dagen in zegelkoorts. Dat is de Koortsontvangst, een vorm van hun extreme kern (zie SEKS-VOLK-vathren-kern), op kink-schaal 5. Zonder ziener erbij is het taboe, want men gelooft dat het de Zegel scheurt. Een hoedster stopt. Alleen volwassenen (18+), sprekende wezens die vooraf instemmen; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. De rite houdt band en rang van de zegelgeborenen in stand.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** SEKS-VOLK-vathren-kern;VOLK-vathren;LOT-Z44-vathren;FASE-noodtoestand-Z38
+- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOLK-vathren-Z6;LOT-Z44-vathren;FASE-noodtoestand-Z38
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Bij een lekpiek voelen de Vathren de Zegel als een jagende hartslag, en dan neemt een gezel meer zaad dan veilig is en brandt dagen in zegelkoorts. Dat is de Koortsontvangst, een vorm van hun extreme kern (zie SEKS-VOLK-vathren-kern), op kink-schaal 5. Zonder ziener erbij is het taboe, want men gelooft dat het de Zegel scheurt. Een hoedster stopt. Alleen volwassenen (18+), sprekende wezens die vooraf instemmen; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. De rite houdt band en rang van de zegelgeborenen in stand.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-volk-ves-lethi-Z50 · Spiegelnacht
+- **code:** RIT-volk-ves-lethi-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** Spiegelnacht
+- **wat:** Op verzoek neemt een Ves-Lethi de gedaante aan van een gewenste of verloren volwassene, van een levende alleen met diens toestemming: dat is hun Spiegelnacht, een donker thema van rouw en bedrog, en een vorm van hun extreme kern (zie SEKS-VOLK-ves-lethi-kern). Kink-schaal 5. De gedaante van een kind of dier aannemen is ook voor hen absoluut taboe en breekt hun lichaam. Een hoedster stopt. Alleen volwassenen (18+), sprekende wezens die vooraf instemmen; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. Zo houden de vormwisselaars band en voortplanting in stand.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** SEKS-VOLK-ves-lethi-kern;VOLK-ves-lethi;LOT-Z44-ves-lethi;FASE-brand-Z38
+- **verwijst_naar:** SEKS-VOLK-ves-lethi-kern;VOLK-ves-lethi-Z6;LOT-Z44-ves-lethi;FASE-brand-Z38
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Op verzoek neemt een Ves-Lethi de gedaante aan van een gewenste of verloren volwassene, van een levende alleen met diens toestemming: dat is hun Spiegelnacht, een donker thema van rouw en bedrog, en een vorm van hun extreme kern (zie SEKS-VOLK-ves-lethi-kern). Kink-schaal 5. De gedaante van een kind of dier aannemen is ook voor hen absoluut taboe en breekt hun lichaam. Een hoedster stopt. Alleen volwassenen (18+), sprekende wezens die vooraf instemmen; geen minderjarigen, geen dieren, dwang alleen als gelabeld donker thema. Zo houden de vormwisselaars band en voortplanting in stand.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-vuurgloed-Z50 · De Vuurgloed
+- **code:** RIT-vuurgloed-Z50
+- **categorie:** Extreme rituelen
+- **onderwerp:** De Vuurgloed
+- **wat:** In het Zonnepaleis van Qesh verwarmt Khaled-Ir met zijn vuurgave de huid van een haremvrouw tot de grens van pijn, en onder die gloed volgt de Ontvangst. Hij beheerst het vuur; zij kan 'zon' zeggen en dan stopt het. Het gaat om pijn en genot, gevaar en de macht van zijn gave. Ze krijgt vijfvoudige kracht en een vuurvleug, maar betaalt met een seizoen dienst. Kink-schaal 4. Alle deelnemers 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** Khaled-Ir;Qesh;LOT-Z44-gaven-mannen;FASE-markt
+- **verwijst_naar:** PER-khaled;REG-rosse;RIT-kinkschaal;VOOR-pijn-genot-Z50;VOOR-dominante-man-Z50;VOOR-harem-Z50;STAD-qesh;TECHNO-gave;LOT-Z44-gaven-mannen;FASE-markt
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In het Zonnepaleis van Qesh verwarmt Khaled-Ir met zijn vuurgave de huid van een haremvrouw tot de grens van pijn, en onder die gloed volgt de Ontvangst. Hij beheerst het vuur; zij kan 'zon' zeggen en dan stopt het. Het gaat om pijn en genot, gevaar en de macht van zijn gave. Ze krijgt vijfvoudige kracht en een vuurvleug, maar betaalt met een seizoen dienst. Kink-schaal 4. Alle deelnemers 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-zaadcontract-Z50 · Het Zaadcontract
+- **code:** RIT-zaadcontract-Z50
+- **categorie:** Rituelen
+- **onderwerp:** Het Zaadcontract
+- **wat:** Op de zaadbeurs onderhandelen twee huizen over huur of dekgeld, met een Registratrix als getuige. Het contract wordt bezegeld met zaad op het perkament: de man geeft het ter bevestiging, en het zegellicht bevestigt. Daarmee ontstaat handelsrecht, en wie het contract breekt, betaalt een boete. Zo wordt een lichaam een handtekening, en die handtekening een bewijs dat moeilijk te vervalsen is. Alle deelnemers volwassen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Economie;Huis Varenne;GEB-Z45-losbandige-jaren;LOT-Z44-zegellicht;FASE-markt
+- **verwijst_naar:** ECO-wat-wordt-verhandeld;BESLUIT-Z30-2;HUI-varenne;SFEER-zegellicht;VOOR-melken-Z50;VOOR-handel-Z50;GEB-Z45-losbandige-jaren;LOT-Z44-zegellicht;FASE-markt
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Op de zaadbeurs onderhandelen twee huizen over huur of dekgeld, met een Registratrix als getuige. Het contract wordt bezegeld met zaad op het perkament: de man geeft het ter bevestiging, en het zegellicht bevestigt. Daarmee ontstaat handelsrecht, en wie het contract breekt, betaalt een boete. Zo wordt een lichaam een handtekening, en die handtekening een bewijs dat moeilijk te vervalsen is. Alle deelnemers volwassen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-zegelnacht-volk-Z50 · De Zegelnacht van het Volk
+- **code:** RIT-zegelnacht-volk-Z50
+- **categorie:** Rituelen
+- **onderwerp:** De Zegelnacht van het Volk
+- **wat:** Elk jaar ontvangen alle volwassenen samen bij de zegelstenen, bij elke steen in het land tegelijk. Publiek heet het een dankfeest; in werkelijkheid is het de grootste voeding van de zegel. Er wordt samen gezongen, en het zegellicht vlamt op. Wie meedoet, krijgt geen kracht, want die gaat naar de zegel, maar wel veel rang. Kink-schaal 3. Alle deelnemers 18+.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** HET GEHEIM;Zegelvoeding;LOT-Z44-zegellicht;LOT-Z44-sterrensteen;FASE-ontvangst
+- **verwijst_naar:** BESLUIT-Z30-2;RIT-kinkschaal;SFEER-zegellicht;VOOR-groep-Z50;VOOR-ritueel-Z50;TECHNO-zegelsteen;LOT-Z44-zegellicht;LOT-Z44-sterrensteen;FASE-ontvangst
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Elk jaar ontvangen alle volwassenen samen bij de zegelstenen, bij elke steen in het land tegelijk. Publiek heet het een dankfeest; in werkelijkheid is het de grootste voeding van de zegel. Er wordt samen gezongen, en het zegellicht vlamt op. Wie meedoet, krijgt geen kracht, want die gaat naar de zegel, maar wel veel rang. Kink-schaal 3. Alle deelnemers 18+.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-zegelvoeding-Z50 · De Zegelvoeding
+- **code:** RIT-zegelvoeding-Z50
+- **categorie:** Rituelen
+- **onderwerp:** De Zegelvoeding
+- **wat:** In de diepste tempelzaal van Saelith, en ooit in Ves-Anath, staat de zegelsteen waar eens per jaar de Grote Ontvangst plaatsvindt. Moeders, gaven-mannen en uitverkoren vrouwen nemen deel; het zaad wordt aan de steen afgestaan en het zegellicht vlamt op. Het is geheim, en alleen de Moeders kennen het doel. De ontvangers krijgen geen kracht, die gaat naar de zegel, en zo behouden de Moeders hun macht. Alle deelnemers volwassen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** HET GEHEIM;Orde;Queeste;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;LOT-Z44-sterrensteen;FASE-ontvangst
+- **verwijst_naar:** BESLUIT-Z30-2;MACHT-gaven-mannen;ORDE-orde;QST-doel-reden-gevaar;QST-queeste;REG-saelith;SFEER-zegellicht;VOOR-groep-Z50;STAD-saelith;TECHNO-gave;TECHNO-zegelsteen;LOT-Z44-gaven-mannen;LOT-Z44-zegellicht;LOT-Z44-sterrensteen;FASE-ontvangst
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In de diepste tempelzaal van Saelith, en ooit in Ves-Anath, staat de zegelsteen waar eens per jaar de Grote Ontvangst plaatsvindt. Moeders, gaven-mannen en uitverkoren vrouwen nemen deel; het zaad wordt aan de steen afgestaan en het zegellicht vlamt op. Het is geheim, en alleen de Moeders kennen het doel. De ontvangers krijgen geen kracht, die gaat naar de zegel, en zo behouden de Moeders hun macht. Alle deelnemers volwassen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
+<!-- /REC -->
+<!-- REC canon -->
+### RIT-zwijgende-rit-Z50 · De Zwijgende Rit
+- **code:** RIT-zwijgende-rit-Z50
+- **categorie:** Rituelen
+- **onderwerp:** De Zwijgende Rit
+- **wat:** Geen woorden, geen namen: bij de watervallen van Groenmuil blijven de maskers op en wordt het bloedlijnmerk bedekt, met het risico van verwantschap. Gemaskerde volwassenen beschilderen zich, nemen Vuurbloesem en dansen; in het donker vinden partners elkaar, tot zonsopgang. Het water overstemt elk geluid dat toch ontsnapt. Rang levert het niet op, wel bevrijding en geheimen. Alle deelnemers zijn volwassen.
+- **waarom:** Ronde Z50: zelfde inhoud, eigen vorm (catalogus zonder sjablonen)
+- **status:** vastgesteld
+- **ronde:** 78
+- **hangt_samen_met:** Groenmuil;Verwantschapstaboe;LOT-Z44-ishvar;FASE-voortijd
+- **verwijst_naar:** BESLUIT-Z30-2;ORDE-orde;REG-groenmuil;REGEL-registers-merken;REGEL-verwantschapstaboe;VOOR-anoniem-Z50;LOT-Z44-ishvar;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Structuur
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Geen woorden, geen namen: bij de watervallen van Groenmuil blijven de maskers op en wordt het bloedlijnmerk bedekt, met het risico van verwantschap. Gemaskerde volwassenen beschilderen zich, nemen Vuurbloesem en dansen; in het donker vinden partners elkaar, tot zonsopgang. Het water overstemt elk geluid dat toch ontsnapt. Rang levert het niet op, wel bevrijding en geheimen. Alle deelnemers zijn volwassen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** feit (herschreven in Z50, inhoud gelijk)
 <!-- /REC -->
 

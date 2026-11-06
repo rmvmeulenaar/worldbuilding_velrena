@@ -1,0 +1,533 @@
+{
+ "tijdperken": [
+  14,
+  15,
+  16
+ ],
+ "fantasieen": [
+  {
+   "code": "KINK-Z8-11",
+   "naam": "Kink: Zegelhars-vacuüm",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-17",
+   "naam": "Kink: Slagwerk met de hand",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-25",
+   "naam": "Kink: Knevels van zoutzijde",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-3",
+   "naam": "Kink: Fisting als zaadritueel",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-34",
+   "naam": "Kink: Publiek: de ontvangst op het plein",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-39",
+   "naam": "Kink: Wassen als ritueel",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-43",
+   "naam": "Kink: Ademspel (gevaarlijk)",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-47",
+   "naam": "Kink: Gijzeling en losgeld (donker)",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-51",
+   "naam": "Kink: Ketens van dienst",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-6",
+   "naam": "Kink: Lak van de Dhurn",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-8",
+   "naam": "Kink: Latex-kap",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-binding-losmaken",
+   "naam": "Binding en losmaken",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-kracht-delen",
+   "naam": "Kracht delen",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-ontlading-na-magie",
+   "naam": "Ontlading na magie",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-oogstbed-loting",
+   "naam": "Oogstbed-loting",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-veiling-zaadbeurs",
+   "naam": "Veiling op de Zaadbeurs",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "RIT-afscheid-uitverkorene",
+   "naam": "Het Afscheid van de Uitverkorene",
+   "echt_in": []
+  },
+  {
+   "code": "RIT-geboortelied",
+   "naam": "Het Geboortelied",
+   "echt_in": []
+  },
+  {
+   "code": "RIT-ketenwake",
+   "naam": "De Ketenwake",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "RIT-kinkschaal",
+   "naam": "Kink-schaal",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "RIT-melkrite",
+   "naam": "De Melkrite",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "RIT-pelgrimszalving",
+   "naam": "De Pelgrimszalving",
+   "echt_in": []
+  },
+  {
+   "code": "RIT-stille-kind",
+   "naam": "Het Stille Kind",
+   "echt_in": []
+  },
+  {
+   "code": "RIT-tweegelofte",
+   "naam": "De Tweegelofte",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "RIT-volk-grauwen",
+   "naam": "Volle Ontsluiering",
+   "echt_in": []
+  },
+  {
+   "code": "RIT-volk-vathren",
+   "naam": "Koortsontvangst bij lekpiek",
+   "echt_in": []
+  },
+  {
+   "code": "RIT-zilverwake",
+   "naam": "De Zilverwake",
+   "echt_in": []
+  },
+  {
+   "code": "VOOR-afscheid",
+   "naam": "Laatste nacht",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-bloed",
+   "naam": "Bloedspel",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-dominante-man",
+   "naam": "Dominante gaven-man",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-exhibitionisme",
+   "naam": "Gezien worden",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-harem",
+   "naam": "Harem en rangorde",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-melken",
+   "naam": "Melken en zaadwinning",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-omhulling",
+   "naam": "Omhulling",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-ontzegging",
+   "naam": "Ontzegging en uitstel",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-overvloed",
+   "naam": "Teveel aan zaad",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-reiziger",
+   "naam": "De vreemdeling",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-rolwissel",
+   "naam": "Rolwisseling",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-teder",
+   "naam": "Tederheid en trouw",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-vergroeiing",
+   "naam": "Vergroeiing",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-vleugelbinding",
+   "naam": "Vleugelbinding",
+   "echt_in": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-walglust",
+   "naam": "Walglust",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  }
+ ]
+}

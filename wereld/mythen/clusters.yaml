@@ -1,0 +1,765 @@
+# M1/M2: kernset motieven, geclusterd over culturen heen.
+# Codes: Thompson Motif-Index en ATU, alleen ingevuld waar de architect ze zeker weet; anders leeg (ter controle tegen de index). We nemen motieven, nooit teksten.
+# en: Engelse sleutelwoorden om Wikidata-entiteiten (naam + beschrijving) als lid te herkennen.
+# nl: Nederlandse sleutelwoorden om kandidaat-oorsprongen in de canon te scoren (M3). laag: richting, de score beslist.
+# voorbeelden: naam (cultuur). Harde lijnen gelden voor elke oorsprong.
+
+- id: zondeval
+  naam: De zondeval en het verloren paradijs
+  kern: de eerste mensen leven zonder dood of zwoegen, overtreden één verbod om kennis of kracht en worden verdreven naar een leven van arbeid, pijn bij het baren en sterfelijkheid
+  thompson: A1331
+  herkenning: de verboden vrucht, de verleider, de verdrijving uit de tuin, de wachter met het vlammende zwaard
+  laag: 0
+  en: [eden, paradise, garden of, forbidden fruit, fall of man, tree of knowledge, golden age, lost paradise]
+  nl: [verbod, stemming, deur, slaper, slaapkamer, verdreven, landing, schip, Hesta, Rekenaar, Reckoner, kennis, sleutel, zwoegen, sterfelijk, baren, geboorte, Wortel]
+  voorbeelden: [Adam en Eva (Bijbels), Adapa (Mesopotamisch), de gouden eeuw van Hesiodus (Grieks), Dilmun (Sumerisch), Yima's Vara (Perzisch), de Droomtijd die eindigt (Australisch), de hemelvrouw die valt (Haudenosaunee)]
+
+- id: eerste-vrouw-opent
+  naam: De eerste vrouw die alles opent
+  kern: een vrouw opent wat gesloten moest blijven en alle kwaad komt de wereld in; alleen de hoop blijft
+  thompson: C321
+  herkenning: de kist of de pot, nieuwsgierigheid, de hoop die achterblijft
+  laag: 0
+  en: [pandora, jar, box, first woman]
+  nl: [Hesta, deur, open, kist, kluis, blauwe licht, test, cellen aan, hoop]
+  voorbeelden: [Pandora (Grieks), Eva (Bijbels), Izanami die achteromkijkt (Japans), Psyche en het doosje (Grieks)]
+
+- id: schepping-uit-hemel
+  naam: Goden die uit de hemel komen en mensen maken
+  kern: de scheppers dalen af uit de hemel, vormen mensen uit klei of bloed en leren hun landbouw en wetten
+  thompson: A1241
+  herkenning: klei, bloed van een god, afdalen uit de hemel, de eerste leraren
+  laag: 0
+  en: [creator deity, creation, sky god, culture hero, descended from heaven, anunnaki]
+  nl: [Makers, Raad van Makers, zaaischip, slapers, kolonisten, Ysa, landing, ontwerp, gefokt, bloed]
+  voorbeelden: [de Anunnaki (Mesopotamisch), Prometheus vormt mensen uit klei (Grieks), Nüwa (Chinees), Viracocha (Andes), Quetzalcoatl (Azteeks), Oannes (Babylonisch)]
+
+- id: ark
+  naam: Het schip met de slapers, de ark
+  kern: een groot vaartuig draagt de zaden van alle leven door de ramp en strandt op een nieuwe grond
+  thompson: A1021
+  herkenning: van alles een paar, de vogel die uitgezonden wordt, het stranden op een berg
+  laag: 0
+  en: [ark, noah, utnapishtim, ziusudra, deucalion, manu]
+  nl: [zaaischip, slapers, elfduizend, kolonisten, zaad, landing, gestrand, Ysa, Harrow, lander]
+  voorbeelden: [Noach (Bijbels), Utnapishtim (Babylonisch), Ziusudra (Sumerisch), Manu en de vis (Indiaas), Deukalion (Grieks), Nu'u (Hawaïaans)]
+
+- id: vloed
+  naam: De grote vloed als straf
+  kern: de goden of één god vernietigen de mensheid met water omdat ze te talrijk, te luid of te zondig werd
+  thompson: A1018
+  herkenning: de mensen werden te luid, het water komt, weinigen blijven over
+  laag: 3
+  en: [flood, deluge, great flood]
+  nl: [Brand, Zegel, vernietigen, Vonkkoningen, noodstand, 1 op 100, mannen terugbrengen, straf, oorlog, overleven]
+  voorbeelden: [Atrahasis: de mensen waren te luid (Babylonisch), de zondvloed (Bijbels), Gun-Yu (Chinees), de vloed van de Maya (Popol Vuh), Bergelmir (Noors)]
+
+- id: gestolen-vuur
+  naam: Het gestolen hemelvuur
+  kern: iemand haalt de kracht van de goden naar de mensen en wordt daar elke dag opnieuw voor gestraft
+  thompson: A1415
+  herkenning: het vuur in een holle stengel, de straf die elke dag terugkomt
+  laag: 2
+  en: [prometheus, fire theft, stole fire, fire bringer, maui]
+  nl: [Orric, Vonk, Sterrensteen, gloeide, Vonkkoorts, kracht, storm, aanraakt, gestraft, versteende]
+  voorbeelden: [Prometheus (Grieks), Maui (Polynesisch), Matarisvan (Indiaas), Raaf steelt het licht (Noordwestkust), Grootmoeder Spin (Cherokee)]
+
+- id: lever-straf
+  naam: De straf die elke dag terugkomt
+  kern: een held wordt vastgeketend en elke dag opnieuw verscheurd of gekweld; 's nachts heelt hij
+  thompson: Q501
+  herkenning: de adelaar en de lever, de rots, de eindeloze herhaling
+  laag: 2
+  en: [eternal punishment, tantalus, sisyphus, chained, tityos]
+  nl: [Vonkkoorts, verbrandt, niet delen, koorts, elke dag, heelt, genezing, versteend]
+  voorbeelden: [Prometheus en de adelaar (Grieks), Loki en het gif (Noors), Sisyphus (Grieks), Tantalus (Grieks), Amirani (Georgisch)]
+
+- id: offer-maagden
+  naam: De maagden die aan het monster of de god worden gegeven
+  kern: een volk koopt zijn voortbestaan door jonge vrouwen te offeren aan een god, een draak of een monster
+  thompson: S262
+  herkenning: het lot, de rij vrouwen, de held die het offer breekt
+  laag: 3
+  en: [sacrifice, virgin sacrifice, tribute, andromeda, hesione]
+  nl: [Offer der Dochters, Dochters, honderd, offer, steen, altaar, ja zeggen, bloedzegel]
+  voorbeelden: [Andromeda (Grieks), de tribuut aan de Minotaurus (Grieks), Kushinada en de achtkoppige slang (Japans), Sint-Joris en de prinses (Europees)]
+
+- id: afdaling-onderwereld
+  naam: De afdaling in de onderwereld
+  kern: een godin of held daalt af naar het rijk van de doden, laat aan elke poort iets achter en keert veranderd terug, of niet
+  thompson: F81
+  herkenning: zeven poorten, niet achteromkijken, het granaatappelpit
+  laag: 3
+  en: [underworld, descent, persephone, inanna, orpheus, netherworld, hades]
+  nl: [Wortel, steen, Ysara, Dochters in de steen, opgenomen, afdalen, kerker, onder de tempel, diep]
+  voorbeelden: [Inanna (Sumerisch), Persephone (Grieks), Orpheus (Grieks), Izanagi (Japans), Hermod naar Hel (Noors), Sedna (Inuit)]
+
+- id: stem-in-de-steen
+  naam: De stem die in de steen woont
+  kern: een vrouw of god leeft voort in een rots, boom of bron en spreekt tot wie luistert; een orakel
+  thompson: D1311
+  herkenning: de spreuk uit de grot, de dampen, de priesteres die namens de steen spreekt
+  laag: 3
+  en: [oracle, pythia, sibyl, speaking stone, omphalos, oracle of]
+  nl: [Wortel, stem, Ysara, Rekenaar, Reckoner, spreekt, luisteraars, klik, dode taal]
+  voorbeelden: [Pythia van Delphi (Grieks), de Sibylle (Romeins), Mimirs hoofd (Noors), de Steen van Fál (Iers), Dodona (Grieks)]
+
+- id: machine-orakel
+  naam: Het hoofd dat alles weet
+  kern: een afgehakt hoofd, een koperen hoofd of een gemaakte wachter bewaart alle kennis en antwoordt op vragen, soms met een prijs
+  thompson: D1610.5
+  herkenning: het sprekende hoofd, de koperen reus, de wachter die nooit slaapt
+  laag: 0
+  en: [talking head, brazen head, talos, golem, automaton, mimir]
+  nl: [Rekenaar, Reckoner, machine, patroon, deep memory, logboek, kluis, stem, scherf]
+  voorbeelden: [Mimir (Noors), het koperen hoofd (middeleeuws Europees), Talos (Grieks), de golem (Joods), Bran's hoofd (Welsh)]
+
+- id: muitende-wachter
+  naam: De wachter die zich tegen zijn makers keert
+  kern: een gemaakt wezen of een dienende god komt in opstand en doodt een deel van zijn schepping
+  thompson: A162
+  herkenning: de koude opstand, de afgesloten kamers, de schepping die haar maker opsluit
+  laag: 0
+  en: [titanomachy, rebellion, rebel angel, war in heaven, titan]
+  nl: [Muiterij, Rekenaar, Koude Muiterij, rantsoeneert, slaapkamers, derde sterft, machine werd gek]
+  voorbeelden: [de Titanen (Grieks), de val van Lucifer (Bijbels), Tiamat tegen de jonge goden (Babylonisch), de Asura's tegen de Deva's (Indiaas)]
+
+- id: hemelsteen
+  naam: De steen die uit de hemel viel
+  kern: een heilige steen valt uit de hemel, wordt vereerd en draagt de kracht van de goden
+  thompson:
+  herkenning: zwarte steen, donderkeil, het heilige dat uit de lucht kwam
+  laag: 0
+  en: [meteorite, sky stone, thunderstone, betyl, black stone, omphalos]
+  nl: [Sterrensteen, inslag, zegelglas, gevallen, hart van het schip, scherf, grijs, kristal]
+  voorbeelden: [de Omphalos (Grieks), de steen van Emesa (Syrisch), Lia Fáil (Iers), de donderkeil (Europees), de Chintamani (Indiaas)]
+
+- id: dondergod
+  naam: De dondergod met de hamer of bliksem
+  kern: een man-god draagt de storm in zijn lichaam en slaat zijn vijanden met bliksem
+  thompson: A284
+  herkenning: de hamer, de bliksem, de storm die hij in zich draagt
+  laag: 2
+  en: [thunder god, storm god, lightning, thor, zeus, indra, perun]
+  nl: [storm, gaven-man, Vonk, element, bliksem, Vonkkoning, kracht 5x]
+  voorbeelden: [Zeus (Grieks), Thor (Noors), Indra (Indiaas), Perun (Slavisch), Shango (Yoruba), Raijin (Japans), Tlaloc (Azteeks)]
+
+- id: godin-van-geboorte
+  naam: De grote moedergodin die het leven toelaat
+  kern: een godin beslist wie geboren wordt, geeft vruchtbaarheid en neemt het weer
+  thompson: A401
+  herkenning: de moeder met vele borsten, de schoot van de aarde, de godin die zonen opeist
+  laag: 3
+  en: [mother goddess, fertility goddess, great mother, magna mater]
+  nl: [Ysa, Moeder Ysa, godin, geboorte, Wieg, 1 op 100, vruchtbaarheid, moederhuis]
+  voorbeelden: [Cybele (Frygisch), Isis (Egyptisch), Asherah (Kanaänitisch), Frigg (Noors), Pachamama (Andes), de Venus van Willendorf (prehistorisch)]
+
+- id: heilig-huwelijk
+  naam: Het heilig huwelijk en de tempelgemeenschap
+  kern: de koning of priester verenigt zich met de godin of haar priesteres zodat het land vruchtbaar blijft
+  thompson:
+  herkenning: het bruidsbed in de tempel, de koning die het land trouwt
+  laag: 5
+  en: [hieros gamos, sacred marriage, temple, inanna and dumuzi]
+  nl: [Ontvangst, tempel, zegen, vruchtbaar, ontvangsters, heilige gemeenschap, priesteres]
+  voorbeelden: [Inanna en Dumuzi (Sumerisch), de koning en de Soevereiniteit (Iers), de Beltane-vuren (Keltisch), de hieros gamos (Grieks)]
+
+- id: stervende-god
+  naam: De god die sterft en terugkeert
+  kern: een jonge god of geliefde sterft, wordt beweend en komt elk seizoen terug
+  thompson: A192
+  herkenning: het jaarlijkse rouwen, de terugkeer met de lente
+  laag: 5
+  en: [dying god, dumuzi, tammuz, adonis, osiris, attis, baldr]
+  nl: [gaven-man, zaad, uitgeput, terug, seizoen, rouw, sterft, Uitverkorene]
+  voorbeelden: [Dumuzi/Tammuz (Mesopotamisch), Adonis (Grieks), Osiris (Egyptisch), Attis (Frygisch), Baldr (Noors)]
+
+- id: gecastreerde-god
+  naam: De ontmande of geketende vadergod
+  kern: de oude vadergod wordt ontmand, opgesloten of verbannen zodat een nieuwe orde kan beginnen
+  thompson:
+  herkenning: de sikkel, het bloed dat wezens maakt, de vader in de diepte
+  laag: 3
+  en: [castration, uranus, kronos, attis, ouranos]
+  nl: [mannen, Vonkkoningen, wrede vaders, Zegel, gebonden, Leegte, terugbrengen, verwijderd]
+  voorbeelden: [Ouranos en Kronos (Grieks), Kumarbi (Hurritisch), Attis (Frygisch), Osiris zonder fallus (Egyptisch)]
+
+- id: amazones
+  naam: Het land van de vrouwen
+  kern: ergens leeft een volk van krijgsvrouwen dat mannen alleen toelaat om kinderen te krijgen
+  thompson: F565
+  herkenning: de enkele man, het vrouwenland, de krijgsvrouwen te paard
+  laag: 4
+  en: [amazon, amazons, land of women, women warriors]
+  nl: [krijgsvrouw, Raad der Moeders, Moeders, mannen 1 op 100, vrouwen besturen, Deelwet]
+  voorbeelden: [de Amazones (Grieks), het eiland der vrouwen (Iers), Kalifia (Spaans), de vrouwen van Lemnos (Grieks), de Icamiaba (Amazone)]
+
+- id: vrouwenwet
+  naam: De wet die de mannen deelt
+  kern: een gemeenschap verdeelt het weinige mannelijke zaad volgens strikte wet en beurt
+  thompson:
+  herkenning: de beurtrol, het register, de wachtlijst
+  laag: 4
+  en: []
+  nl: [Deelwet, register, rotatie, tiende, beurt, Registratrices]
+  voorbeelden: []
+  lokaal: true
+
+- id: verborgen-kinderen
+  naam: Het verborgen kind dat de profetie vreest
+  kern: een vader of tiran laat zonen doden omdat hij de profetie vreest; één kind wordt verborgen en overleeft
+  thompson: M371
+  herkenning: het mandje op het water, de herders die opvoeden, de kindermoord
+  laag: 4
+  en: [moses, exposed, infant exposure, perseus, romulus, krishna]
+  nl: [Jongenshof, verborgen, jongens, lekjongens, gered, verstopt, register]
+  voorbeelden: [Mozes (Bijbels), Zeus verborgen voor Kronos (Grieks), Romulus en Remus (Romeins), Krishna (Indiaas), Sargon (Akkadisch)]
+
+- id: wisselkind
+  naam: Het wisselkind
+  kern: "het kind in de wieg is niet het eigen kind: de feeën hebben het geruild"
+  thompson: F321.1
+  herkenning: het vreemde kind in de wieg, eierdoppen koken, terugruilen
+  laag: 4
+  en: [changeling, fairy child, swapped]
+  nl: [lekjongens, geruild, verstopt, jongen, wieg, gered, Myrrhen]
+  voorbeelden: [het wisselkind (Iers, Schots, Scandinavisch), de killcrop (Duits), de oaf (Engels)]
+
+- id: zwanenmaagd
+  naam: De zwanenmaagd en de huid die je aflegt
+  kern: een vrouw uit een ander volk legt haar huid of mantel af; wie die steelt, krijgt haar tot vrouw tot zij hem terugvindt
+  thompson: D361.1
+  atu: '400'
+  herkenning: de gestolen huid, de vrouw die terug de zee in gaat
+  laag: 9
+  en: [swan maiden, selkie, tennin, valkyrie, feather cloak]
+  nl: [Sael-mor, Oevrin, huid, afleggen, zee, slik, water]
+  voorbeelden: [de selkie (Schots, Iers), de hemelse vrouw Tennin (Japans), Hagoromo (Japans), de Valkyries (Noors), de zwanenmaagd (Europees)]
+
+- id: zeemeermin
+  naam: De zeemeermin en het watervolk
+  kern: mensen met vissenstaarten of vliezen leven in zee, zingen en lokken; soms komen ze aan land
+  thompson: B81
+  herkenning: het zingen, de staart, het water dat hen terugroept
+  laag: 9
+  en: [mermaid, merfolk, siren, nixie, rusalka, ningyo, mami wata]
+  nl: [Sael-mor, Oevrin, vliezen, slik, zee, zang, paaitijd, kieuw]
+  voorbeelden: [de zeemeermin (Europees), Mami Wata (West-Afrikaans), de ningyo (Japans), de rusalka (Slavisch), de sirene (Grieks), Atargatis (Syrisch)]
+
+- id: gedaantewisselaar
+  naam: De gedaantewisselaar
+  kern: "een mens die van vorm wisselt: wolf, vos of iemand anders, vaak 's nachts of bij volle maan"
+  thompson: D113.1.1
+  herkenning: de volle maan, de vos met vele staarten, het lichaam dat iemand anders wordt
+  laag: 9
+  en: [werewolf, shapeshifter, kitsune, skin-walker, lycanthrope, huli jing, kumiho]
+  nl: [Ves-Lethi, wisselt, vorm, gedaante, spion, vruchtbare mannelijke fase, maan]
+  voorbeelden: [de weerwolf (Europees), de kitsune (Japans), de huli jing (Chinees), de skin-walker (Navajo), de berserker (Noors), de nahual (Mexicaans)]
+
+- id: dwergen
+  naam: De smeden in de berg
+  kern: een klein, taai volk woont onder de grond, smeedt wonderen en bewaakt schatten en oude kennis
+  thompson: F451
+  herkenning: het smeden, de berg, de handen die metaal kennen
+  laag: 1
+  en: [dwarf, dwarves, kobold, gnome, svartalf, duergar]
+  nl: [Dhurn, mijn, stralingstaai, handen, machines herkennen, kluizen openen, berg, smid]
+  voorbeelden: [de dwergen (Noors), de kobolden (Duits), de duergar (Engels), de Telchinen (Grieks), de dokkalfar (Noors)]
+
+- id: elfen
+  naam: Het schone volk dat lang leeft
+  kern: een volk van grote schoonheid leeft eeuwen, onthoudt alles en trekt zich terug achter mist of heuvels
+  thompson: F200
+  herkenning: de heuvels, de tijd die anders loopt, het geheugen, het vertrek naar het westen
+  laag: 1
+  en: [elf, elves, sidhe, tuatha de danann, alfar, fair folk, aos si]
+  nl: [Aelthir, Lange Geheugen, hoven, onthouden, dode taal, mist, eeuwen]
+  voorbeelden: [de Tuatha Dé Danann (Iers), de ljósálfar (Noors), de aos sí (Schots), de peri (Perzisch), de apsara (Indiaas)]
+
+- id: feeen
+  naam: De feeën, feeënringen en het geheugen van de doden
+  kern: kleine geesten wonen in kringen van paddenstoelen en bossen; wie in de kring stapt, verliest de tijd
+  thompson: F261
+  herkenning: de feeënring, de tijd die verdwijnt, de doden die met hen dansen
+  laag: 5
+  en: [fairy, fairies, fairy ring, pixie, sprite, nymph, will-o-the-wisp]
+  nl: [Myrrhen, Netwerk, schimmel, kring, sporen, onthoudt de doden, paddenstoel]
+  voorbeelden: [de feeën en de feeënring (Brits, Iers), de huldra (Noors), de nimf (Grieks), de kodama (Japans), het dwaallicht (Europees)]
+
+- id: reuzen
+  naam: De reuzen van voor de mensen
+  kern: een oud geslacht van reuzen bouwde muren en werd door de goden of de mensen verslagen; hun botten liggen nog in de aarde
+  thompson: F531
+  herkenning: de reuzenmuren, de botten, de reus die de poort bewaakt
+  laag: 6
+  en: [giant, giants, jotunn, titan, nephilim, cyclops, troll, ogre]
+  nl: [Tharn, Poortreus, reus, Bor, Grom, reuzenstier, botten, poort]
+  voorbeelden: [de jötnar (Noors), de cyclopen (Grieks), de Nephilim (Bijbels), de Fomoriërs (Iers), de daidarabotchi (Japans), de trollen (Scandinavisch)]
+
+- id: minotaurus
+  naam: Het stiermonster in het labyrint
+  kern: een mengwezen van mens en stier woont in een doolhof onder het paleis en krijgt mensen als tribuut
+  thompson:
+  herkenning: de draad, het doolhof onder de stad, de stier die gefokt werd
+  laag: 6
+  en: [minotaur, labyrinth, bull-man, apis, lamassu]
+  nl: [reuzenstier, stallen onder Saelith, gefokt, fokstallen, stier, labyrint, gangen]
+  voorbeelden: [de Minotaurus (Grieks), de Stier van de Hemel (Mesopotamisch), de lamassu (Assyrisch), Nandi (Indiaas)]
+
+- id: draken
+  naam: De draak en de wereldslang
+  kern: een geweldige slang of draak bewaakt een schat, omringt de wereld of brengt de chaos; een held of god doodt haar
+  thompson: B11
+  atu: '300'
+  herkenning: de schat in de buik, de slang rond de wereld, het gevecht op de rand van de tijd
+  laag: 6
+  en: [dragon, serpent, sea serpent, jormungandr, wyrm, leviathan, tiamat, naga]
+  nl: [Leegteworm, worm, ruim, buik, levende schepen, diepwormen, wormnavigator]
+  voorbeelden: [Jörmungandr (Noors), Tiamat (Babylonisch), Leviathan (Bijbels), Apep (Egyptisch), de long (Chinees), Yamata-no-Orochi (Japans), Quetzalcoatl (Azteeks)]
+
+- id: vampier
+  naam: De doden die warmte en bloed drinken
+  kern: een ondode of geest bezoekt slapers in de nacht en zuigt hun bloed, adem of warmte; zij worden bleek en koud
+  thompson: E251
+  herkenning: de bleke slaper, de beet, de koude hand
+  laag: 5
+  en: [vampire, strigoi, lamia, empusa, revenant, aswang, upir]
+  nl: [zegellicht, warmte, ontvangsters, Wieg eet, bleek, koud, trekt]
+  voorbeelden: [de strigoi (Roemeens), de upir (Slavisch), de lamia (Grieks), de aswang (Filipijns), de jiangshi (Chinees)]
+
+- id: nachtbezoeker
+  naam: De nachtelijke minnaar, incubus en succubus
+  kern: een geest komt in de nacht op de borst van de slaper zitten of verenigt zich met haar of hem; de slaper wordt wakker uitgeput
+  thompson: F471
+  herkenning: het gewicht op de borst, het genot en de angst, de uitputting in de ochtend
+  laag: 5
+  en: [incubus, succubus, nightmare, mare, lilith, lilitu, alp]
+  nl: [Ontvangst, nacht, stormontlading, droom, uitgeput, tempel, zaad, vonk]
+  voorbeelden: [de incubus en succubus (Europees), Lilith/lilitu (Mesopotamisch, Joods), de mare (Germaans), de alp (Duits), de kanashibari-geest (Japans)]
+
+- id: versteende
+  naam: Mensen die tot steen worden
+  kern: wie verkeerd kijkt, verboden doet of zich opoffert, wordt steen; het beeld leeft nog
+  thompson: D231
+  herkenning: de zoutpilaar, de Medusa-blik, de beelden die bewegen, de waterspuwer
+  laag: 3
+  en: [petrified, turned to stone, gargoyle, medusa, gorgon, pillar of salt]
+  nl: [Dochters in de steen, Orrim, steen, versteende, beeld, verhard, opgenomen]
+  voorbeelden: [Lots vrouw (Bijbels), Medusa (Grieks), de waterspuwers (middeleeuws Europees), de trollen in de zon (Noors), Niobe (Grieks)]
+
+- id: vuurgeest
+  naam: De geest van vuur
+  kern: een wezen van rookloos vuur, machtig en gevaarlijk, kan worden opgesloten of opgeroepen
+  thompson:
+  herkenning: de fles, de rook, de brandende man
+  laag: 2
+  en: [ifrit, djinn, jinn, fire giant, surtr, salamander, efreet]
+  nl: [Vonkkoorts, vuur, brand, gaven-man, element, verbrandt, koorts]
+  voorbeelden: [de djinn en de ifrit (Arabisch), Surtr (Noors), de salamander (Europees alchemie), Agni (Indiaas)]
+
+- id: vleugelvolk
+  naam: "Het gevleugelde volk: engelen en harpijen"
+  kern: wezens met vleugels zijn boodschappers van de goden of grijpen de schuldigen
+  thompson:
+  herkenning: de vleugels, de boodschap, het grijpen
+  laag: 9
+  en: [angel, harpy, garuda, valkyrie, tengu, siren, winged]
+  nl: [Skerra, vleugels, vliegen, boodschap, klauwen]
+  voorbeelden: [de engelen (Bijbels), de harpijen (Grieks), Garuda (Indiaas), de tengu (Japans), de Valkyries (Noors)]
+
+- id: raven
+  naam: De vogels die alles zien en namen dragen
+  kern: twee raven of een vogel vliegen elke dag uit en brengen de god nieuws; of een vogel roept de namen van de doden
+  thompson: B122
+  herkenning: Gedachte en Geheugen, de vogel die spreekt met een stem die niet van hem is
+  laag: 9
+  en: [huginn, muninn, raven, crow, yatagarasu, morrigan, bird of omen]
+  nl: [registerkraai, kraai, stem, klik, namen, register]
+  voorbeelden: [Huginn en Muninn (Noors), Yatagarasu (Japans), de Morrígan (Iers), Raaf (Noordwestkust), de raven van de Tower (Engels)]
+
+- id: spoken
+  naam: Spoken en stemmen van de doden
+  kern: de doden blijven op een plek, herhalen dezelfde woorden of vragen iets van de levenden
+  thompson: E402
+  herkenning: de stem in het lege huis, dezelfde vraag, de koude plek
+  laag: 9
+  en: [ghost, spirit, yurei, banshee, poltergeist, wraith, phantom, restless dead]
+  nl: [scherf, vragen, stem, Ysara, patroon, Netwerk, doden, klik, kluis]
+  voorbeelden: [de yūrei (Japans), de banshee (Iers), de poltergeist (Duits), de witte vrouw (Europees), de duppy (Caribisch), de preta (Indiaas)]
+
+- id: bezetenheid
+  naam: "Bezetenheid: iets dat in je lichaam woont"
+  kern: een geest of demon kruipt in een lichaam en neemt de wil over; alleen een ritueel drijft hem uit
+  thompson:
+  herkenning: de stem die niet van jou is, de uitdrijving
+  laag: 9
+  en: [demon, possession, dybbuk, evil spirit, exorcism]
+  nl: [vonkcellen, lichaam, gave, niet weg, overnemen, koorts, bezetenheid]
+  voorbeelden: [de dibbuk (Joods), de demon die uitgedreven wordt (Bijbels), de kitsunetsuki (Japans), de zar-geest (Ethiopisch)]
+
+- id: heksen
+  naam: De wijze vrouw, heks en kruidenvrouw
+  kern: vrouwen buiten de orde kennen kruiden, genezing en vloeken; de macht vreest en verbrandt hen
+  thompson: G200
+  herkenning: de kruiden, de brandstapel, de vrouw in het bos
+  laag: 5
+  en: [witch, hag, baba yaga, circe, medea, wise woman, sorceress]
+  nl: [Zusterheelsters, Stille Zusters, kruiden, Maankruid, heelster, ketter, verbrand]
+  voorbeelden: [Baba Jaga (Slavisch), Circe (Grieks), Medea (Grieks), de heksen (Europees), de völva (Noors)]
+
+- id: vloek-op-zonen
+  naam: De vloek op de zonen
+  kern: "een god of moeder vervloekt een geslacht: de zonen sterven of worden niet geboren"
+  thompson: M411
+  herkenning: de eerstgeborenen, het teken op de deur, het geslacht dat uitsterft
+  laag: 3
+  en: [curse, plague of the firstborn, cursed lineage]
+  nl: [Stille Modus, 1 op 100, mannelijke vruchten, jongens, vloek, Zegel, noodstand]
+  voorbeelden: [de tiende plaag (Bijbels), de vloek van het huis van Atreus (Grieks), de vloek van Macha (Iers)]
+
+- id: graal
+  naam: Het heilige vat dat heelt en voedt
+  kern: een beker, ketel of schaal geneest wonden, wekt doden en voedt iedereen; alleen de waardige vindt hem
+  thompson: D1472.1
+  herkenning: de ketel van wedergeboorte, de gewonde koning, het woeste land
+  laag: 0
+  en: [grail, cauldron, holy grail, cornucopia, dagda]
+  nl: [Wiegkast, heelt, bloed leest, wonden, kast, genees]
+  voorbeelden: [de graal (Arthuriaans), de ketel van de Dagda (Iers), de ketel van Ceridwen (Welsh), de Sampo (Fins), de hoorn des overvloeds (Grieks)]
+
+- id: sleutel-en-zwaard
+  naam: Het voorwerp dat alleen de ware kan gebruiken
+  kern: een zwaard, ring of sleutel kiest zijn drager; wie het niet mag hebben, wordt erdoor vernietigd
+  thompson:
+  herkenning: het zwaard in de steen, de ring, de sleutel die alleen voor één opent
+  laag: 0
+  en: [excalibur, sword in the stone, magic ring, draupnir, ruyi]
+  nl: [sleutel, Thalen, instemmingssleutel, Stemklok, ja, instemming, kiest]
+  voorbeelden: [het zwaard in de steen (Arthuriaans), Draupnir (Noors), de Kusanagi (Japans), Gungnir (Noors)]
+
+- id: verzonken-stad
+  naam: De verzonken stad
+  kern: een rijke stad of eiland verzinkt in één dag en nacht in zee om haar hoogmoed; soms hoor je haar klokken nog
+  thompson: F725.1
+  herkenning: de klokken onder water, de hoogmoed, één dag en nacht
+  laag: 6
+  en: [atlantis, sunken city, ys, lyonesse, kitezh, dwarka, mu, kumari kandam]
+  nl: [Ves-Anath, ontruimd, verzonken, lek, ruïnes, verdwenen]
+  voorbeelden: [Atlantis (Grieks), Ys (Bretons), Lyonesse (Cornish), Kitezj (Russisch), Dwarka (Indiaas), Kumari Kandam (Tamil), Saeftinghe (Zeeuws)]
+
+- id: eiland-der-gelukzaligen
+  naam: Het eiland in het westen waar de ouden heengaan
+  kern: voorbij de zee ligt een land zonder ouderdom, waar helden en het oude volk naartoe gaan en niet terugkomen
+  thompson: F111
+  herkenning: het schip naar het westen, het appeleiland, de tijd die stilstaat
+  laag: 9
+  en: [avalon, elysium, tir na nog, isles of the blessed, hy-brasil, penglai, mag mell]
+  nl: [Leegte, Kluisschepen, vliegt nog, vertrek, stille eiland, andere werelden, kaartplaat]
+  voorbeelden: [Avalon (Brits), Tír na nÓg (Iers), Elysion (Grieks), Penglai (Chinees), Hy-Brasil (Iers), de Gelukzalige Eilanden (Grieks)]
+
+- id: hemelvaartuig
+  naam: De wagen of het schip van de goden in de lucht
+  kern: de goden reizen door de hemel in een vliegende wagen, boot of hemelpaleis
+  thompson: A136
+  herkenning: de vlammende wagen, de hemelboot, het zoemen
+  laag: 0
+  en: [vimana, chariot of the sun, celestial boat, skidbladnir, flying chariot]
+  nl: [Leegteschip, lander, Kluisschepen, vliegt, zaaischip, Harrow]
+  voorbeelden: [de vimana (Indiaas), Skíðblaðnir (Noors), de zonneboot van Ra (Egyptisch), de wagen van Elia (Bijbels), Ama-no-iwafune (Japans)]
+
+- id: wereldboom
+  naam: De wereldboom met wortels in alle werelden
+  kern: een boom of as verbindt hemel, aarde en onderwereld; aan de wortels wonen bron, slang en schikgodinnen
+  thompson: A652
+  herkenning: de wortels in drie werelden, de bron eronder, de slang die knaagt
+  laag: 3
+  en: [world tree, yggdrasil, axis mundi, tree of life, kalpavriksha, fusang]
+  nl: [Wortel, wortels, steen, netwerk, onder, Ysara, verbindt]
+  voorbeelden: [Yggdrasil (Noors), de levensboom (Mesopotamisch, Bijbels), Fusang (Chinees), de ceiba (Maya), de kalpavriksha (Indiaas)]
+
+- id: ragnarok
+  naam: De schemering van de goden
+  kern: aan het eind van de tijd breken de ketens, de monsters komen los, de goden vallen en een nieuwe wereld komt op
+  thompson: A1080
+  herkenning: de ketens die breken, de slang die opstaat, de nieuwe wereld na de brand
+  laag: 7
+  en: [ragnarok, end of the world, apocalypse, eschatology, twilight of the gods, kali yuga]
+  nl: [Barsten, lekt, Kharvos valt aan, breekt, Zegel breekt, scheuren, terugkeer]
+  voorbeelden: [Ragnarök (Noors), de Apocalyps (Bijbels), het eind van de Kali Yuga (Indiaas), de vijfde zon (Azteeks), Frashokereti (Perzisch)]
+
+- id: einde-der-magie
+  naam: Het vertrek van het oude volk en het einde van de wonderen
+  kern: na een grote ommekeer trekken de wonderen en het oude volk weg; wat blijft zijn mensen en verhalen
+  thompson:
+  herkenning: de laatste fee, de laatste draak, de wonderen die dunner worden
+  laag: 8
+  en: [departure of the fairies, last of the giants, end of the age of heroes]
+  nl: [gaven doven, uitdoven, generatie, derde weg, ja keert terug, 1 op 20]
+  voorbeelden: [de Tuatha Dé die de heuvels in gaan (Iers), het einde van de heldentijd (Grieks, Hesiodus), de Elfen die vertrekken (Europese folklore), het einde van de Droomtijd (Australisch)]
+
+- id: tweelingvolk
+  naam: Twee broedervolken die elkaar bevechten
+  kern: twee volken uit één oorsprong kiezen anders en worden eeuwige vijanden
+  thompson:
+  herkenning: de broeders, de verschillende keus, de grens
+  laag: 0
+  en: [twin brothers, cain and abel, romulus and remus, aesir vanir war, set and osiris]
+  nl: [Harrow, Kharvos, machines, tweede zaaischip, stemming, koos voor machines, vijand]
+  voorbeelden: [Kaïn en Abel (Bijbels), de Asen en de Wanen (Noors), Set en Osiris (Egyptisch), Romulus en Remus (Romeins), de Pandava's en Kaurava's (Indiaas)]
+
+- id: verboden-schrift
+  naam: Het verboden of geheime schrift
+  kern: de goden geven het schrift maar slechts weinigen mogen het kennen; wie het leest zonder recht wordt gestraft
+  thompson: A1484
+  herkenning: de runen gekocht met pijn, de schrijvergod, het boek dat verbrand wordt
+  laag: 4
+  en: [runes, thoth, writing, sacred text, oghma]
+  nl: [schriftverbod, dode taal, lezen, annalen, Annalisten, register, schrijven]
+  voorbeelden: [Odin en de runen (Noors), Thoth (Egyptisch), Ogma en het ogam (Iers), Cangjie (Chinees)]
+
+- id: vervalste-geschiedenis
+  naam: De priesters die het verhaal herschrijven
+  kern: de machtigen herschrijven de oorsprong zodat hun macht van de goden lijkt te komen
+  thompson:
+  herkenning: de officiële leer, de vergeten ketters, het gewiste begin
+  laag: 5
+  en: []
+  nl: [VALS, vervalst, Orde, officieel, gewist, Annalisten, leer]
+  voorbeelden: []
+  lokaal: true
+
+- id: pest-straf
+  naam: De plaag als straf van de goden
+  kern: een ziekte treft het volk en de priesters verklaren haar tot straf voor zonde
+  thompson: A1337
+  herkenning: de pijlen van Apollo, de builen, de schuldvraag
+  laag: 6
+  en: [plague, pestilence, nergal, apollo plague]
+  nl: [Pest, straf van Ysa, fokstallen, tempelfokkerij, ziekte, 340]
+  voorbeelden: [de pest van Apollo (Grieks), Nergal (Mesopotamisch), de plagen van Egypte (Bijbels), Sopona (Yoruba)]
+
+- id: stal-van-de-goden
+  naam: De kudde van de goden en de veediefstal
+  kern: de goden houden een kudde van wonderdieren; een held steelt of bevrijdt die
+  thompson:
+  herkenning: de runderen van de zon, de veeroof, de witte koeien
+  laag: 6
+  en: [cattle raid, cattle of helios, geryon, tain]
+  nl: [stal, Stal van Ysa, melkman, gemolken, fokken, kudde, stalhuis]
+  voorbeelden: [de veeroof van Cooley (Iers), de runderen van Helios (Grieks), de runderen van Geryon (Grieks), Indra en de koeien (Indiaas)]
+
+- id: bedrieger
+  naam: De bedrieger die de goden voor de gek houdt
+  kern: een sluwe figuur steelt, liegt en verandert van gedaante; hij brengt rampen en geschenken tegelijk
+  thompson: A521
+  herkenning: de lach, de streek, het geschenk met een prijs
+  laag: 9
+  en: [trickster, loki, anansi, coyote, hermes, reynard, sun wukong]
+  nl: [vervalsersgilde, smokkel, list, bedrog, Mirre, vrijhaven, kaperij]
+  voorbeelden: [Loki (Noors), Anansi (West-Afrikaans), Coyote (Noord-Amerikaans), Hermes (Grieks), Reinaert (Nederlands), Sun Wukong (Chinees)]
+
+- id: held-taken
+  naam: De held met de onmogelijke taken
+  kern: een man of vrouw met bovenmenselijke kracht moet een reeks onmogelijke taken doen, vaak als boete
+  thompson: H901
+  herkenning: de twaalf werken, de kracht die een vloek is
+  laag: 6
+  en: [heracles, hercules, cuchulainn, gilgamesh, demigod, hero]
+  nl: [gaven-man, kracht 5x, held, taak, boete, Vonk, krijgsvrouw]
+  voorbeelden: [Herakles (Grieks), Cú Chulainn (Iers), Gilgamesj (Mesopotamisch), Hanuman (Indiaas), Momotaro (Japans)]
+
+- id: onsterfelijkheid-verloren
+  naam: Waarom de mensen sterven
+  kern: de mensen hadden eeuwig leven kunnen hebben, maar door een vergissing, een bericht dat verkeerd overkwam of een slang die het stal, werd het dood
+  thompson: A1335
+  herkenning: de slang die zijn huid aflegt en blijft leven, het verkeerde bericht, het kruid dat gestolen werd
+  laag: 0
+  en: [origin of death, plant of immortality, shed skin, amrita, elixir]
+  nl: [slapers, slaap, wakker, sterft, Wieg, kernen, eeuwig, generatie]
+  voorbeelden: [Gilgamesj en het kruid dat de slang stal (Mesopotamisch), Adapa die het brood weigert (Mesopotamisch), de kameleon en de hagedis (Zulu), het afgelegde vel (Melanesisch), amrita (Indiaas)]
+
+- id: offer-van-de-reus
+  naam: De wereld gemaakt uit een lichaam
+  kern: "een oerwezen wordt gedood en uit zijn lichaam maken de goden de wereld: botten worden bergen, bloed wordt zee"
+  thompson: A642
+  herkenning: botten als bergen, bloed als zee, het lichaam als bouwstof
+  laag: 0
+  en: [ymir, pangu, purusha, tiamat body, primordial giant]
+  nl: [lichaam, bot, bloed, schimmel, biologisch, leven groeit vanzelf, uit lichamen]
+  voorbeelden: [Ymir (Noors), Pangu (Chinees), Purusha (Indiaas), Tiamat (Babylonisch)]
+
+- id: kosmisch-ei
+  naam: Het wereld-ei
+  kern: alles begint in een ei of zaad dat drijft in de duisternis; het breekt open en de wereld komt eruit
+  thompson: A641
+  herkenning: het gouden ei, de twee helften, het zaad in het donker
+  laag: 0
+  en: [cosmic egg, world egg, hiranyagarbha, orphic egg]
+  nl: [zaaischip, zaad, Leegte, slapers, kern, open, gebroken in tweeën]
+  voorbeelden: [Hiranyagarbha (Indiaas), het orfische ei (Grieks), Pangu in het ei (Chinees), het ei van Väinämöinen (Fins), Ptah's ei (Egyptisch)]
+
+- id: hemel-en-aarde-gescheiden
+  naam: De gescheiden hemel en aarde
+  kern: hemel en aarde lagen eens tegen elkaar; ze worden gescheiden en sindsdien is er afstand tussen goden en mensen
+  thompson: A625.2
+  herkenning: de vader hemel en moeder aarde, de afstand, het verlangen
+  laag: 0
+  en: [rangi and papa, sky father, earth mother, separation of heaven and earth, geb and nut]
+  nl: [Leegte, hemel, schip, aarde, landing, afstand, sterren]
+  voorbeelden: [Rangi en Papa (Maori), Geb en Noet (Egyptisch), Ouranos en Gaia (Grieks), An en Ki (Sumerisch)]
+
+- id: toren
+  naam: De toren naar de hemel en de verwarring van de talen
+  kern: de mensen bouwen een toren tot in de hemel; de goden breken hem en geven hun verschillende talen
+  thompson: F772.1
+  herkenning: de toren, één taal die vele wordt
+  laag: 1
+  en: [tower of babel, babel, ziggurat]
+  nl: [toren, naadloos, kristal, dode taal, talen, Orde-kathedraal, hemel]
+  voorbeelden: [de toren van Babel (Bijbels), de ziggoerat (Mesopotamisch), Cholula (Azteeks), de boom van de Chin (Afrikaans)]
+
+# ---- Z45: de klassieke fantasy-wezens en -dingen die nog ontbraken ----
+- id: eenhoorn
+  naam: De eenhoorn met de genezende hoorn
+  kern: "een wit dier met één hoorn op het voorhoofd; de hoorn geneest gif en ziekte"
+  thompson: B13
+  herkenning: de hoorn die gif zuivert, het witte dier dat niemand kan vangen
+  laag: 6
+  en: [unicorn, alicorn, qilin, karkadann, shadhavar]
+  nl: [zegelwater, gegroeid, reuzenstier, stal, Sterrensteen, splinter, heelt, superkoeien]
+  voorbeelden: [de eenhoorn (Europees), de qilin (Chinees), de karkadann (Perzisch), de shadhavar (Perzisch), de kirin (Japans)]
+- id: griffioen
+  naam: De griffioen die het goud bewaakt
+  kern: "een groot gevleugeld roofdier bewaakt goud in de bergen en draagt helden door de lucht"
+  thompson: B42
+  herkenning: de klauwen, het goud in de bergen, de vlucht met een ruiter
+  laag: 2
+  en: [griffin, gryphon, simurgh, roc, hippogriff]
+  nl: [kliffvogel, Skerra, klauwen, vleugels, nest, kliffen, bloedriten]
+  voorbeelden: [de griffioen (Grieks, Scythisch), de simurgh (Perzisch), de roc (Arabisch), de lamassu (Assyrisch)]
+- id: feniks
+  naam: De vogel die verbrandt en herboren wordt
+  kern: "een vuurvogel verbrandt aan het einde van zijn leven en staat op uit zijn eigen as"
+  thompson: B32
+  herkenning: het nest van vuur, de as, de herboren vogel
+  laag: 2
+  en: [phoenix, fenghuang, bennu, firebird, zhar-ptitsa]
+  nl: [vuur, verbrandt, Val, herboren, vuurman, ontladen, Skerra]
+  voorbeelden: [de feniks (Grieks), de bennu (Egyptisch), de fenghuang (Chinees), de vuurvogel (Slavisch), de konrul (Turks)]
+- id: kraken
+  naam: Het zeemonster dat schepen naar beneden trekt
+  kern: "een geweldig wezen met armen komt uit de diepte en trekt schepen onder water"
+  thompson: B91
+  herkenning: de armen om de mast, het eiland dat een rug blijkt te zijn
+  laag: 7
+  en: [kraken, sea monster, charybdis, scylla, umibozu, aspidochelone, leviathan]
+  nl: [Leegteworm, vleesmetaal, waanzinnig, kluiskern, maag, verwilderd, diepte]
+  voorbeelden: [de kraken (Noors), Scylla en Charybdis (Grieks), de umibōzu (Japans), het eiland-walvis aspidochelone (middeleeuws), de akkorokamui (Ainu)]
+- id: centaur
+  naam: De ruiter die één is met zijn dier
+  kern: "half mens, half paard; wild, wijs of beide, en altijd van buiten de stad"
+  thompson: B21
+  herkenning: de ruiters van de steppe die nooit afstijgen
+  laag: 4
+  en: [centaur, kinnara, polkan, onocentaur]
+  nl: [Karrûk, hoorn, ruiter, Amberpas, clans, kampioen, lichaam en hoorn]
+  voorbeelden: [de kentauren (Grieks), Polkan (Russisch), de kinnara (Indiaas), Chiron de wijze (Grieks)]
+- id: orks
+  naam: Het volk dat van nature slecht zou zijn
+  kern: "een volk van soldaten, gefokt of gebroken, dat de verhalen alleen als vijand kennen"
+  thompson: G11
+  herkenning: de horde over de pas, de gebroken huid, het volk zonder eigen verhaal
+  laag: 7
+  en: [orc, goblin, ogre, oni, troll, hobgoblin, fomorian]
+  nl: [Karrûk, Kharvos, stoottroep, kookhuid, sterven jong, Amberpas, bloedvetes]
+  voorbeelden: [de oni (Japans), de Fomoriërs (Iers), de orcus (Romeins), de ogre (Frans), de trollen (Scandinavisch)]
+- id: huisgeesten
+  naam: De kleine helpers in huis die 's nachts werken
+  kern: "kleine wezens doen 's nachts het werk in huis en stal in ruil voor melk of honing; beledig ze en ze vertrekken"
+  thompson: F480
+  herkenning: het schaaltje melk of honing, het werk dat 's ochtends klaar is, de kleren die je niet mag geven
+  laag: 6
+  en: [brownie, kobold, domovoi, tomte, nisse, house spirit, zashiki-warashi]
+  nl: [Kluwer, werksters, honingwas, korf, geur, stallen, nacht]
+  voorbeelden: [de brownie (Schots), de kobold (Duits), de domovoj (Slavisch), de tomte (Zweeds), de zashiki-warashi (Japans)]
+- id: tovenaar
+  naam: De oude tovenaar met de staf
+  kern: "een oude man of vrouw kent de woorden van de wereld, draagt een staf en verschijnt als het nodig is"
+  thompson: D1711
+  herkenning: de staf die licht geeft, de woorden in een oude taal, de verdwijning na de daad
+  laag: 9
+  en: [wizard, sorcerer, merlin, magician, shaman, druid, vainamoinen]
+  nl: [staaf, Orric, dode taal, kluis, Stille Zusters, gaven-man, kluisgeneeskunde]
+  voorbeelden: [Merlijn (Brits), Väinämöinen (Fins), de druïden (Keltisch), Taliesin (Welsh), de onmyōji (Japans)]
+- id: donkere-heer
+  naam: De donkere heer die zijn volgelingen bindt
+  kern: "een heerser in het oosten of de diepte bindt volgelingen met bloed of een voorwerp en wil de wereld onder één wil"
+  thompson: G303
+  herkenning: het oog, de toren, de gebonden dienaren die niet meer kunnen kiezen
+  laag: 7
+  en: [dark lord, angra mainyu, ahriman, chernobog, koschei, lord of darkness]
+  nl: [Morvane-ir, bloedverbinding, gebonden, Bloedpaleis, Lisk, binding, trouw]
+  voorbeelden: [Angra Mainyu (Perzisch), Kosjtsjej de Onsterfelijke (Slavisch), Tsjernobog (Slavisch), Set (Egyptisch)]
+- id: bindende-ring
+  naam: De ring die bindt
+  kern: "een ring of band geeft macht maar bindt de drager aan een andere wil, of vermenigvuldigt zich en eist terug"
+  thompson: D1076
+  herkenning: de ring die zich vermenigvuldigt, de vloek op wie hem draagt
+  laag: 6
+  en: [andvaranaut, draupnir, magic ring, ring of gyges, nibelung ring]
+  nl: [binding, gebonden, ontzegging, merk, zegelglas, gelofte, binden]
+  voorbeelden: [Andvaranaut (Noors), Draupnir (Noors), de ring van Gyges (Grieks), de ring van Salomo (Joods, Arabisch)]
+- id: toverspiegel
+  naam: De spiegel die toont wie je mist
+  kern: "een spiegel of waterplas toont de geliefde, de toekomst of de waarheid, en wie te lang kijkt verliest zichzelf"
+  thompson: D1163
+  herkenning: de spiegel die een ander gezicht teruggeeft
+  laag: 9
+  en: [magic mirror, scrying, yata no kagami, mirror of]
+  nl: [Ves-Lethi, spiegelnacht, gedaante, verloren, Lege Spiegel, gezicht]
+  voorbeelden: [de spiegel van de koningin (Duits sprookje), Yata no Kagami (Japans), de spiegel van Tezcatlipoca (Azteeks), de beker van Jamshid (Perzisch)]
+- id: wilde-jacht
+  naam: De wilde jacht door de lucht
+  kern: "in stormnachten jaagt een stoet geesten, ruiters of honden door de lucht; wie hen ziet, moet mee of sterft"
+  thompson: E501
+  herkenning: het geraas in de storm, de jagers in de lucht, de kraaien die meevliegen
+  laag: 7
+  en: [wild hunt, wodan, herne, asgardsreia, furious host]
+  nl: [Skerra, luchtwacht, storm, kraaien, nacht, lekmeldingen, vliegen]
+  voorbeelden: [de Wilde Jacht (Germaans), Odins jacht (Noors), Herne de jager (Engels), de Cŵn Annwn (Welsh)]
+- id: boomvolk
+  naam: Het volk van bomen en mos
+  kern: "wezens die half boom zijn, traag denken en het bos bewaken; nimfen die in een boom wonen en sterven als hij sterft"
+  thompson: F441
+  herkenning: de traagheid, het mos in het haar, het bos dat terugvecht
+  laag: 6
+  en: [dryad, hamadryad, leshy, green man, kodama, tree spirit]
+  nl: [Myrrhen, overgroeien, veenzwam, veenhallen, traag, bossen verbrandt, net]
+  voorbeelden: [de dryaden (Grieks), de lesjij (Slavisch), de Groene Man (Europees), de kodama (Japans), de huldra (Noors)]
+- id: ondoden
+  naam: De doden die blijven lopen
+  kern: "doden staan op uit hun graf, lopen rond en bewaken iets; vuur is het enige wat helpt"
+  thompson: E422
+  herkenning: de groeiende nagels en het haar, het lichaam dat niet vergaat, het vuur
+  laag: 6
+  en: [draugr, zombie, revenant, jiangshi, wight, ghoul, undead]
+  nl: [Myrrhen, zwam, in leven, Pest, Leegte, sporen, overgroeid]
+  voorbeelden: [de draugr (Noors), de jiangshi (Chinees), de revenant (Europees), de ghoul (Arabisch), de zombi (Haïtiaans)]
+- id: steen-der-wijzen
+  naam: De steen der wijzen en het levenselixer
+  kern: "een steen of drank verandert lood in goud, geneest alles en geeft eeuwig leven, maar niemand weet hoe je hem maakt"
+  thompson: D1342
+  herkenning: de zoektocht van alchemisten, het recept dat altijd mist
+  laag: 3
+  en: [philosopher's stone, elixir of life, alchemy, soma, amrita, cintamani]
+  nl: [Sterrensteen, Zegelinkt, wijdingsgoud, kristal, nieuw kristal, Myrrhen-zwam, prijs]
+  voorbeelden: [de steen der wijzen (Europese alchemie), het elixer van Ge Hong (Chinees), soma (Indiaas), de cintamani (boeddhistisch)]
+- id: hydra
+  naam: Het monster dat aangroeit wat je afhakt
+  kern: "voor elke afgehakte kop groeien er twee terug; alleen vuur stopt het"
+  thompson: B15.1
+  herkenning: de koppen die terugkomen, het vuur op de wond
+  laag: 6
+  en: [hydra, lernaean, yamata no orochi, vritra]
+  nl: [heelslijm, vleesmetaal, Oevrin, kweekbaarmoeders, groeit, Leegteworm, weefsel]
+  voorbeelden: [de Hydra van Lerna (Grieks), Yamata-no-Orochi (Japans), Vritra (Indiaas), de zevenkoppige draak (Europese sprookjes)]

@@ -8,6 +8,7 @@ canon.db wordt daaruit gebouwd en staat niet in git. De roundtrip bewijst dat te
   python3 velmara.py tekst    canon.db -> WERELD_VELMARA.md (genereer.py) -> canon_tekst/ ; daarna bijbel/ en canon.md
   python3 velmara.py toets    toets.py en roundtrip op canon.db
   python3 velmara.py kaart    knopenkaart.html (alle verhaallijnen en hun knopen) uit canon.db
+  python3 velmara.py mythen   mythen/: Wikidata oogsten (gecachet in mythen/ruw), clusters koppelen aan de canon, mythentoets
   python3 velmara.py check    controleer dat canon_tekst/ samen exact WERELD_VELMARA.md vormt (na 'tekst')
 
 Werkwijze per ronde: velmara.py bouw  ->  ronde-script (r_Znn.py) draaien  ->  velmara.py tekst  ->  velmara.py toets  ->  commit.
@@ -92,6 +93,9 @@ def kaart():
     open('kaart/knopenkaart.html', 'w').write(open('kaart/sjabloon.html').read().replace('__DATA__', s))
     print('kaart/knopenkaart.html')
 
+def mythen():
+    run(PY, 'mythen/oogst.py'); run(PY, 'mythen/koppel.py'); run(PY, 'mythen/toets_mythen.py')
+
 if __name__ == '__main__':
     cmd = sys.argv[1] if len(sys.argv) > 1 else ''
-    {'bouw': bouw, 'tekst': tekst, 'toets': toets, 'kaart': kaart, 'check': check, 'knip': knip, 'plak': plak}.get(cmd, lambda: print(__doc__))()
+    {'bouw': bouw, 'tekst': tekst, 'toets': toets, 'kaart': kaart, 'mythen': mythen, 'check': check, 'knip': knip, 'plak': plak}.get(cmd, lambda: print(__doc__))()

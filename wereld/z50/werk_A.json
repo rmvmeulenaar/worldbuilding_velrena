@@ -1,0 +1,583 @@
+{
+ "tijdperken": [
+  9,
+  10
+ ],
+ "fantasieen": [
+  {
+   "code": "KINK-NETWERK-Z10",
+   "naam": "Kink-netwerk Z10",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-14",
+   "naam": "Kink: Boeien van zegelsteen",
+   "echt_in": [
+    9
+   ]
+  },
+  {
+   "code": "KINK-Z8-20",
+   "naam": "Kink: Machtsruil man-vrouw",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-27",
+   "naam": "Kink: Kooien van gevlochten wortel",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-30",
+   "naam": "Kink: Zaad delen",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-36",
+   "naam": "Kink: Vormspel als kink",
+   "echt_in": [
+    9,
+    10
+   ]
+  },
+  {
+   "code": "KINK-Z8-4",
+   "naam": "Kink: Rekspel met kweekvlees",
+   "echt_in": [
+    9,
+    10
+   ]
+  },
+  {
+   "code": "KINK-Z8-44",
+   "naam": "Kink: Prikkeldraad van vonk",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-46",
+   "naam": "Kink: Gehoorzaamheidsspel met de bindsplinter (donker)",
+   "echt_in": [
+    9
+   ]
+  },
+  {
+   "code": "KINK-Z8-48",
+   "naam": "Kink: Verkocht op de vlootmarkt (donker)",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-57",
+   "naam": "Kink: Orgie op Ysa-dag",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-60",
+   "naam": "Kink: Gestolen stopwoord",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-Z8-9",
+   "naam": "Kink: Lakken laarzen tot de dij",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-duel-man",
+   "naam": "Duel om de man",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-melkrite",
+   "naam": "De melkrite",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-ontvangst-via-mond",
+   "naam": "Ontvangst via mond of huid",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-publieke-ontvangst",
+   "naam": "Publieke Ontvangst",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "KINK-verboden-toegang",
+   "naam": "Verboden toegang",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "RIT-doorgang-duizend-handen",
+   "naam": "De Doorgang der Duizend Handen",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "RIT-gletsjerproef",
+   "naam": "De Gletsjerproef",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "RIT-kettingstoet",
+   "naam": "De Kettingstoet",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "RIT-laatste-bed",
+   "naam": "Het Laatste Bed",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "RIT-melkzegen",
+   "naam": "De Melkzegen",
+   "echt_in": []
+  },
+  {
+   "code": "RIT-reizigersgroet",
+   "naam": "De Reizigersgroet",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "RIT-stormontlading",
+   "naam": "De Stormontlading",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "RIT-verzoening",
+   "naam": "De Verzoening",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "RIT-volk-ishvar",
+   "naam": "Geloftebrand",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "RIT-vuurgloed",
+   "naam": "De Vuurgloed",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "RIT-zegelnacht-volk",
+   "naam": "De Zegelnacht van het Volk",
+   "echt_in": [
+    9
+   ]
+  },
+  {
+   "code": "RIT-zegelvoeding",
+   "naam": "De Zegelvoeding",
+   "echt_in": [
+    9
+   ]
+  },
+  {
+   "code": "VOOR-Z46-de-vraag",
+   "naam": "De vraag zelf",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-anoniem",
+   "naam": "Anonimiteit en maskers",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-bondage",
+   "naam": "Bondage en ketenen",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-dominante-vrouw",
+   "naam": "Dominante vrouw",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-geest",
+   "naam": "Gedeelde zinnen",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-inplanting",
+   "naam": "Inplanting",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-metamorfose",
+   "naam": "Metamorfose",
+   "echt_in": [
+    9,
+    10
+   ]
+  },
+  {
+   "code": "VOOR-onderdanige-man",
+   "naam": "Onderdanige man",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-oudere-vrouw",
+   "naam": "Rijpe vrouw",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-paaipoel",
+   "naam": "Paaipoel",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-ritueel",
+   "naam": "Heilige seks",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-slijm",
+   "naam": "Slijmlust",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-uithouding",
+   "naam": "Uithouding",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-vernedering",
+   "naam": "Vernedering en verheffing",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "code": "VOOR-voyeurisme",
+   "naam": "Toekijken",
+   "echt_in": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+   ]
+  }
+ ]
+}

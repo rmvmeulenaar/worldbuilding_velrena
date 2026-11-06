@@ -10,7 +10,7 @@
 - **status:** voorlopig
 - **ronde:** 3
 - **hangt_samen_met:** Demografie
-- **verwijst_naar:** REGEL-overwegend-vrouwelijke-wereld;RIT-maanzalving;RIT-tweegelofte
+- **verwijst_naar:** REGEL-overwegend-vrouwelijke-wereld;RIT-maanzalving-Z50;RIT-tweegelofte-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -39,7 +39,7 @@
 - **waarom:** Verklaart hoe gaven-mannen en gewone mannen hun pad krijgen; houdt de grens van 18+ hard.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Gaven-mannen; Gewone mannen
+- **hangt_samen_met:** Gaven-mannen;Gewone mannen
 - **verwijst_naar:** MACHT-gaven-mannen;MACHT-gewone-mannen;ORDE-orde;ORDE-rol-orde;RIT-wijding
 - **jaar:** 
 - **tijdperk:** 
@@ -159,7 +159,7 @@
 - **waarom:** Scheidt lust en kracht van voortplanting, wat meer situaties oplevert.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Magie; Demografie
+- **hangt_samen_met:** Magie;Demografie
 - **verwijst_naar:** MAGIE-kracht-duur;ORDE-orde
 - **jaar:** 
 - **tijdperk:** 
@@ -189,7 +189,7 @@
 - **waarom:** Mode toont verlangen en macht in één oogopslag; volgt uit: Sjerp-signalen; overwegend vrouwelijke wereld. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Sjerp-signalen; overwegend vrouwelijke wereld
+- **hangt_samen_met:** Sjerp-signalen;overwegend vrouwelijke wereld
 - **verwijst_naar:** KINK-sjerp-signalen;MAGIE-kracht-duur;REGEL-overwegend-vrouwelijke-wereld
 - **jaar:** 
 - **tijdperk:** 
@@ -220,7 +220,7 @@
 - **status:** vastgesteld
 - **ronde:** 3
 - **hangt_samen_met:** Gewone mannen als bezit
-- **verwijst_naar:** MACHT-gewone-mannen;ORDE-orde;ORDE-rol-orde;PER-gewone-mannen;PER-liora-Z6-Z32;RIT-rolwisseling;RIT-wijding
+- **verwijst_naar:** MACHT-gewone-mannen;ORDE-orde;ORDE-rol-orde;PER-gewone-mannen;PER-liora-Z6-Z32;RIT-rolwisseling-Z50;RIT-wijding
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -279,7 +279,7 @@
 - **waarom:** Mode toont verlangen en macht in één oogopslag; volgt uit: Registers en merken; Liora. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Registers en merken; Liora
+- **hangt_samen_met:** Registers en merken;Liora
 - **verwijst_naar:** MACHT-gaven-mannen;PER-liora-Z6-Z32;REGEL-registers-merken;RITE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
@@ -309,7 +309,7 @@
 - **waarom:** Mode toont verlangen en macht in één oogopslag; volgt uit: Inwijding; Ontvangst.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Inwijding; Ontvangst
+- **hangt_samen_met:** Inwijding;Ontvangst
 - **verwijst_naar:** ORDE-orde;RITE-inwijding;RITE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
@@ -339,7 +339,7 @@
 - **waarom:** Mode toont verlangen en macht in één oogopslag; volgt uit: Wachtrij-verleiding; Harem-gunst.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Wachtrij-verleiding; Harem-gunst
+- **hangt_samen_met:** Wachtrij-verleiding;Harem-gunst
 - **verwijst_naar:** KINK-harem-gunst;KINK-wachtrij-verleiding
 - **jaar:** 
 - **tijdperk:** 
@@ -369,7 +369,7 @@
 - **waarom:** Mode toont verlangen en macht in één oogopslag; volgt uit: Regio’s; Huizen.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Regio’s; Huizen
+- **hangt_samen_met:** Regio’s;Huizen
 - **verwijst_naar:** HUI-kaldra-Z6;HUI-mirre;HUI-varenne;REG-ambergaard;REG-groenmuil;REG-hoogvrouwe;REG-rosse;REG-saelith;REG-zoutkust;STAD-saelith;STAD-qesh
 - **jaar:** 
 - **tijdperk:** 
@@ -399,7 +399,7 @@
 - **waarom:** Mode toont verlangen en macht in één oogopslag; volgt uit: Macht; Religie. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar ORDE-doel-geloof), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Macht; Religie
+- **hangt_samen_met:** Macht;Religie
 - **verwijst_naar:** CUL-kleding;ORDE-doel-geloof
 - **jaar:** 
 - **tijdperk:** 
@@ -699,8 +699,8 @@
 - **waarom:** Ronde G3: dagelijks leven
 - **status:** voorlopig
 - **ronde:** 21
-- **hangt_samen_met:** RIT-veiling
-- **verwijst_naar:** RIT-veiling
+- **hangt_samen_met:** RIT-veiling-Z50
+- **verwijst_naar:** RIT-veiling-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1329,8 +1329,8 @@
 - **waarom:** Ronde G3: dagelijks leven
 - **status:** voorlopig
 - **ronde:** 21
-- **hangt_samen_met:** DAG-vervoer;RIT-reizigersgroet
-- **verwijst_naar:** DAG-vervoer;RIT-reizigersgroet
+- **hangt_samen_met:** DAG-vervoer;RIT-reizigersgroet-Z50
+- **verwijst_naar:** DAG-vervoer;RIT-reizigersgroet-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -7169,5 +7169,245 @@
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
 - **epistemiek:** 
+<!-- /REC -->
+<!-- REC canon -->
+### ZEDEN-Z45-fase-9 · Zeden en ruimte voor erotiek: Tijd van de Ja
+- **code:** ZEDEN-Z45-fase-9
+- **categorie:** Cultuur
+- **onderwerp:** Zeden en ruimte voor erotiek: Tijd van de Ja
+- **wat:** Na de Losbandige Jaren blijft Velmara een wereld waarin delen gewoon is: polyamorie staat op 78% van het niveau van 801, lichaamsopenheid op 88%. Huizen met meer volwassenen houden stand, de Ontvangst wordt een feest zonder priesteres, en wie exclusief liefheeft, is niet meer ketters maar een beetje ouderwets-nieuw. Ruimte voor erotische verhalen: groot. Het nieuwe is de vraag zelf; elke scène kan draaien om wie wat durft te vragen, nu nee kan.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** FASE-z44-ja;BESLUIT-7;KETEN-kruik-ontvangst
+- **verwijst_naar:** FASE-z44-ja;BESLUIT-7;KETEN-kruik-ontvangst
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Na de Losbandige Jaren blijft Velmara een wereld waarin delen gewoon is: polyamorie staat op 78% van het niveau van 801, lichaamsopenheid op 88%. Huizen met meer volwassenen houden stand, de Ontvangst wordt een feest zonder priesteres, en wie exclusief liefheeft, is niet meer ketters maar een beetje ouderwets-nieuw. Ruimte voor erotische verhalen: groot. Het nieuwe is de vraag zelf; elke scène kan draaien om wie wat durft te vragen, nu nee kan.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, zedencurve uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### ZEDEN-Z45-fase-10 · Zeden en ruimte voor erotiek: Tijd der Volken
+- **code:** ZEDEN-Z45-fase-10
+- **categorie:** Cultuur
+- **onderwerp:** Zeden en ruimte voor erotiek: Tijd der Volken
+- **wat:** In de Tijd der Volken is delen een keuze geworden: polyamorie op 38%, het Ontvangstfeest bijna verdwenen (6%), lichaamsopenheid op 58%. Jaloezie wordt een gewoon gevoel, en de volken hebben elk hun eigen gebruiken die langzaam vervagen: de Skerra op hun kliffen, de Ves-Lethi met hun spiegelnacht, de Sael-mor op hun schepen. Ruimte voor erotische verhalen: ruim, vooral tussen volken, waar het laatste van iets moois in een nacht past.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** FASE-z44-volken;BESLUIT-7;KETEN-kruik-ontvangst
+- **verwijst_naar:** FASE-z44-volken;BESLUIT-7;KETEN-kruik-ontvangst
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In de Tijd der Volken is delen een keuze geworden: polyamorie op 38%, het Ontvangstfeest bijna verdwenen (6%), lichaamsopenheid op 58%. Jaloezie wordt een gewoon gevoel, en de volken hebben elk hun eigen gebruiken die langzaam vervagen: de Skerra op hun kliffen, de Ves-Lethi met hun spiegelnacht, de Sael-mor op hun schepen. Ruimte voor erotische verhalen: ruim, vooral tussen volken, waar het laatste van iets moois in een nacht past.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, zedencurve uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### ZEDEN-Z45-fase-11 · Zeden en ruimte voor erotiek: Heldentijd
+- **code:** ZEDEN-Z45-fase-11
+- **categorie:** Cultuur
+- **onderwerp:** Zeden en ruimte voor erotiek: Heldentijd
+- **wat:** In de Heldentijd is het grote huis met vele minnaars iets van oude families en verre volken: polyamorie op 18%, lichaamsopenheid op 40%. Liefde wordt vaker een paar, en een paar dat drie wordt, is een verhaal. De wereld is sensueler dan de onze, omdat de herinnering aan de vonk in liederen en gewoonten zit. Ruimte voor erotische verhalen: gemiddeld; tussen gezellen op een tocht, tussen een mens en een vervagende Aelthir.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** FASE-z44-helden;BESLUIT-7;KETEN-kruik-ontvangst
+- **verwijst_naar:** FASE-z44-helden;BESLUIT-7;KETEN-kruik-ontvangst
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In de Heldentijd is het grote huis met vele minnaars iets van oude families en verre volken: polyamorie op 18%, lichaamsopenheid op 40%. Liefde wordt vaker een paar, en een paar dat drie wordt, is een verhaal. De wereld is sensueler dan de onze, omdat de herinnering aan de vonk in liederen en gewoonten zit. Ruimte voor erotische verhalen: gemiddeld; tussen gezellen op een tocht, tussen een mens en een vervagende Aelthir.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, zedencurve uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### ZEDEN-Z45-fase-12 · Zeden en ruimte voor erotiek: Het Vertrek
+- **code:** ZEDEN-Z45-fase-12
+- **categorie:** Cultuur
+- **onderwerp:** Zeden en ruimte voor erotiek: Het Vertrek
+- **wat:** In Het Vertrek staat de gewone zede op de vloer die in elke tijd blijft: delen bij een op de zeven huishoudens (15%), naakt zalven bij feesten (30%). Wat erotisch is in dit tijdperk, is het afscheid: wie blijft en wie gaat, de laatste nacht voor de lander opstijgt. Ruimte voor erotische verhalen: klein in aantal, groot in gewicht.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** FASE-z44-vertrek;BESLUIT-7;KETEN-kruik-ontvangst
+- **verwijst_naar:** FASE-z44-vertrek;BESLUIT-7;KETEN-kruik-ontvangst
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In Het Vertrek staat de gewone zede op de vloer die in elke tijd blijft: delen bij een op de zeven huishoudens (15%), naakt zalven bij feesten (30%). Wat erotisch is in dit tijdperk, is het afscheid: wie blijft en wie gaat, de laatste nacht voor de lander opstijgt. Ruimte voor erotische verhalen: klein in aantal, groot in gewicht.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, zedencurve uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### ZEDEN-Z45-fase-13 · Zeden en ruimte voor erotiek: Tijd der Mensen
+- **code:** ZEDEN-Z45-fase-13
+- **categorie:** Cultuur
+- **onderwerp:** Zeden en ruimte voor erotiek: Tijd der Mensen
+- **wat:** Op het droge plat leeft de oude zede voort in de vuurfeesten: in de kortste nacht kiest wie wil, een of meer, bij het vuur. Er is geen kracht meer mee gemoeid, alleen een gewoonte die ouder is dan iemand weet. Ruimte voor erotische verhalen: de vuurnacht als vaste plek, steeds verder van haar oorsprong.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** FASE-z44-mensen;BESLUIT-7;KETEN-kruik-ontvangst
+- **verwijst_naar:** FASE-z44-mensen;BESLUIT-7;KETEN-kruik-ontvangst
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Op het droge plat leeft de oude zede voort in de vuurfeesten: in de kortste nacht kiest wie wil, een of meer, bij het vuur. Er is geen kracht meer mee gemoeid, alleen een gewoonte die ouder is dan iemand weet. Ruimte voor erotische verhalen: de vuurnacht als vaste plek, steeds verder van haar oorsprong.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, zedencurve uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### ZEDEN-Z45-fase-14 · Zeden en ruimte voor erotiek: De Grote Smelt
+- **code:** ZEDEN-Z45-fase-14
+- **categorie:** Cultuur
+- **onderwerp:** Zeden en ruimte voor erotiek: De Grote Smelt
+- **wat:** Terwijl het water stijgt, trouwen mensen en Oevrin vaker, omdat de oude grenzen samen verdrinken. Het paaifeest van de Oevrin, zang in het tij zonder aanraking, wordt voor mensen het sensueelste wat er is. Ruimte voor erotische verhalen: verlangen dat niet aanraakt, en liefde over de grens van land en zee.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** FASE-z44-smelt;BESLUIT-7;KETEN-kruik-ontvangst
+- **verwijst_naar:** FASE-z44-smelt;BESLUIT-7;KETEN-kruik-ontvangst
+- **jaar:** 
+- **tijdperk:** 14 De Grote Smelt (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Terwijl het water stijgt, trouwen mensen en Oevrin vaker, omdat de oude grenzen samen verdrinken. Het paaifeest van de Oevrin, zang in het tij zonder aanraking, wordt voor mensen het sensueelste wat er is. Ruimte voor erotische verhalen: verlangen dat niet aanraakt, en liefde over de grens van land en zee.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, zedencurve uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### ZEDEN-Z45-fase-15 · Zeden en ruimte voor erotiek: Het Zwevende Gat
+- **code:** ZEDEN-Z45-fase-15
+- **categorie:** Cultuur
+- **onderwerp:** Zeden en ruimte voor erotiek: Het Zwevende Gat
+- **wat:** In het zwevende gat blijft één formule over uit de tijd van het Zegel: wie een ander wil, vraagt het drie keer en wacht. Niemand weet meer waarom; het is gewoon hoe het hoort bij een huwelijk of een vuurnacht. Ruimte voor erotische verhalen: rituelen die de ja bewaren zonder te weten wat ze bewaren.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** FASE-z44-gat;BESLUIT-7;KETEN-kruik-ontvangst
+- **verwijst_naar:** FASE-z44-gat;BESLUIT-7;KETEN-kruik-ontvangst
+- **jaar:** 
+- **tijdperk:** 15 Het Zwevende Gat (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In het zwevende gat blijft één formule over uit de tijd van het Zegel: wie een ander wil, vraagt het drie keer en wacht. Niemand weet meer waarom; het is gewoon hoe het hoort bij een huwelijk of een vuurnacht. Ruimte voor erotische verhalen: rituelen die de ja bewaren zonder te weten wat ze bewaren.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, zedencurve uit simulatie tijd/verlies.py)
+<!-- /REC -->
+<!-- REC canon -->
+### ZEDEN-Z45-fase-16 · Zeden en ruimte voor erotiek: Tijd van het Schrift
+- **code:** ZEDEN-Z45-fase-16
+- **categorie:** Cultuur
+- **onderwerp:** Zeden en ruimte voor erotiek: Tijd van het Schrift
+- **wat:** In onze tijd is van de zede van Velmara weinig over: een vuurfeest in juni, de vraag bij een huwelijk, een grootmoeder die zegt dat liefde gedeeld moet worden. Ruimte voor erotische verhalen: urban fantasy, waarin iemand met een restje vonk of een Oevrin-stem de oude zinnelijkheid wakker maakt in een gewone stad.
+- **waarom:** Ronde Z45: zinnelijke lange tijd en fantasy-wezens (opdracht van Rogier 2026-11-02); geschreven vanuit de rijen waarnaar verwezen wordt
+- **status:** voorlopig
+- **ronde:** 74
+- **hangt_samen_met:** FASE-z44-schrift;BESLUIT-7;KETEN-kruik-ontvangst
+- **verwijst_naar:** FASE-z44-schrift;BESLUIT-7;KETEN-kruik-ontvangst
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** In onze tijd is van de zede van Velmara weinig over: een vuurfeest in juni, de vraag bij een huwelijk, een grootmoeder die zegt dat liefde gedeeld moet worden. Ruimte voor erotische verhalen: urban fantasy, waarin iemand met een restje vonk of een Oevrin-stem de oude zinnelijkheid wakker maakt in een gewone stad.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z45, zedencurve uit simulatie tijd/verlies.py)
 <!-- /REC -->
 

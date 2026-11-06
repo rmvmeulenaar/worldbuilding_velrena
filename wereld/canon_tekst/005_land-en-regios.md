@@ -9,7 +9,7 @@
 - **waarom:** Gevarieerde regio’s geven elke etappe van de queeste eigen regels en eigen soort erotische spanning. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar REG-kharvos-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Queeste; Regio’s
+- **hangt_samen_met:** Queeste;Regio’s
 - **verwijst_naar:** QST-doel-reden-gevaar;QST-queeste;REG-ambergaard;REG-groenmuil;REG-hoogvrouwe;REG-kharvos-B1;REG-rosse;REG-saelith;REG-stille;REG-zoutkust;STAD-saelith
 - **jaar:** 
 - **tijdperk:** 
@@ -39,7 +39,7 @@
 - **waarom:** Machtscentrum; hier zijn de regels het scherpst en het verlangen het meest geregisseerd. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Orde; Huizen; Economie
+- **hangt_samen_met:** Orde;Huizen;Economie
 - **verwijst_naar:** ECO-wat-wordt-verhandeld;BESLUIT-Z30-2;KINK-publieke-ontvangst;MACHT-gaven-mannen;MAGIE-verslaving;HAAK-B1-6-1
 - **jaar:** 
 - **tijdperk:** 
@@ -69,8 +69,8 @@
 - **waarom:** Voedselschuur van het rijk; toont de ‘melkkoe’-kant van de wereld, aards en direct. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Economie; Gewone mannen
-- **verwijst_naar:** ECO-wat-wordt-verhandeld;MACHT-gewone-mannen;RIT-oogstbed;RITE-feesten;STAD-hallowyn;REG-overzicht;HAAK-techno-gave-1
+- **hangt_samen_met:** Economie;Gewone mannen
+- **verwijst_naar:** ECO-wat-wordt-verhandeld;MACHT-gewone-mannen;RIT-oogstbed-Z50;RITE-feesten;STAD-hallowyn;REG-overzicht;HAAK-techno-gave-1
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -99,7 +99,7 @@
 - **waarom:** Leverancier van soldaten en Sterrensteen; kracht en kou geven lijfelijke, rauwe scènes. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Leger; Magie
+- **hangt_samen_met:** Leger;Magie
 - **verwijst_naar:** MACHT-gaven-mannen;MACHT-leger;STAD-kaldrun;STAD-ijsgraf;REG-overzicht;ECO-wat-wordt-verhandeld;HAAK-G3-overzicht
 - **jaar:** 
 - **tijdperk:** 
@@ -129,7 +129,7 @@
 - **waarom:** Ontsnappingsplek en zwarte markt; laat zien wat er buiten de controle van de orde gebeurt. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Zwarte markt; Gewone mannen
+- **hangt_samen_met:** Zwarte markt;Gewone mannen
 - **verwijst_naar:** HUI-mirre;MACHT-gewone-mannen;ORDE-orde;STAD-brakhaven;STAD-isla-mirre;REG-overzicht;HAAK-B1-6-4
 - **jaar:** 
 - **tijdperk:** 
@@ -159,7 +159,7 @@
 - **waarom:** Bron van kruiden en het oude geheim; zintuiglijk en gevaarlijk. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen] [Ronde Z17 2026-10-31: aangevuld]
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Gezondheid; Geheim; Oorsprong
+- **hangt_samen_met:** Gezondheid;Geheim;Oorsprong
 - **verwijst_naar:** BESLUIT-Z30-2;KINK-zwijgende-rit;ORDE-orde;ORDE-rol-orde;STAD-tuaro;HAAK-techno-zegelsteen-2
 - **jaar:** 
 - **tijdperk:** 
@@ -189,7 +189,7 @@
 - **waarom:** Laat zien dat een gaven-man ook kan heersen; tegenhanger van de orde. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Macht; Gaven-mannen
+- **hangt_samen_met:** Macht;Gaven-mannen
 - **verwijst_naar:** MACHT-gaven-mannen;ORDE-orde;ORDE-rol-orde;PER-khaled;STAD-qesh;REG-overzicht;HAAK-B1-1-3
 - **jaar:** 
 - **tijdperk:** 
@@ -249,7 +249,7 @@
 - **waarom:** Alternatief voor het systeem; ketterij en handel. [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Buitenwereld; Religie
+- **hangt_samen_met:** Buitenwereld;Religie
 - **verwijst_naar:** ORDE-doel-geloof;ORDE-orde;ORDE-rol-orde;REG-overzicht;KINK-omgepraat-worden;SYS-afscheid-uitverkorene;HAAK-v4-stemklok
 - **jaar:** 
 - **tijdperk:** 
@@ -279,7 +279,7 @@
 - **waarom:** Maakt elke scène zinnelijk en geladen.
 - **status:** voorlopig
 - **ronde:** 4
-- **hangt_samen_met:** Orde; De Ontvangst; Saelith
+- **hangt_samen_met:** Orde;De Ontvangst;Saelith
 - **verwijst_naar:** ORDE-orde;REG-saelith;RITE-ontvangst
 - **jaar:** 
 - **tijdperk:** 
@@ -309,7 +309,7 @@
 - **waarom:** Maakt elke scène zinnelijk en geladen.
 - **status:** voorlopig
 - **ronde:** 4
-- **hangt_samen_met:** Riten; Gewone mannen
+- **hangt_samen_met:** Riten;Gewone mannen
 - **verwijst_naar:** MACHT-gewone-mannen;ORDE-orde
 - **jaar:** 
 - **tijdperk:** 
@@ -369,7 +369,7 @@
 - **waarom:** Maakt elke scène zinnelijk en geladen.
 - **status:** voorlopig
 - **ronde:** 4
-- **hangt_samen_met:** Regio’s; Magie
+- **hangt_samen_met:** Regio’s;Magie
 - **verwijst_naar:** HUI-mirre;MACHT-gaven-mannen;REG-ambergaard;REG-groenmuil;REG-rosse;REG-saelith;REG-zoutkust;STAD-saelith;STAD-qesh
 - **jaar:** 
 - **tijdperk:** 
@@ -399,7 +399,7 @@
 - **waarom:** Maakt elke scène zinnelijk en geladen.
 - **status:** voorlopig
 - **ronde:** 4
-- **hangt_samen_met:** HET GEHEIM; Zegel
+- **hangt_samen_met:** HET GEHEIM;Zegel
 - **verwijst_naar:** BESLUIT-Z30-2;QST-doel-reden-gevaar;QST-queeste
 - **jaar:** 
 - **tijdperk:** 
@@ -429,7 +429,7 @@
 - **waarom:** Maakt elke scène zinnelijk en geladen. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen;MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 4
-- **hangt_samen_met:** Mode en kleding; Sjerp-signalen
+- **hangt_samen_met:** Mode en kleding;Sjerp-signalen
 - **verwijst_naar:** CUL-kleding;KINK-sjerp-signalen;MACHT-gaven-mannen;MACHT-gewone-mannen;MODE-vrouwen-basis
 - **jaar:** 
 - **tijdperk:** 
@@ -609,8 +609,8 @@
 - **waarom:** Ronde G4: steden en plekken [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar PER-liora-profiel), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 22
-- **hangt_samen_met:** REG-ambergaard;PER-liora-profiel;PER-bram;PER-gew-dagny;RIT-oogstbed
-- **verwijst_naar:** REG-ambergaard;PER-liora-profiel-Z32;PER-bram;PER-gew-dagny;RIT-oogstbed;QST-etappes-queeste;HAAK-techno-metaal-2
+- **hangt_samen_met:** REG-ambergaard;PER-liora-profiel;PER-bram;PER-gew-dagny;RIT-oogstbed-Z50
+- **verwijst_naar:** REG-ambergaard;PER-liora-profiel-Z32;PER-bram;PER-gew-dagny;RIT-oogstbed-Z50;QST-etappes-queeste;HAAK-techno-metaal-2
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -729,8 +729,8 @@
 - **waarom:** Ronde G4: steden en plekken [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 22
-- **hangt_samen_met:** REG-hoogvrouwe;PER-brannoch;PER-sch-rhun;PER-gew-yfke;RIT-strijdontvangst
-- **verwijst_naar:** REG-hoogvrouwe;PER-brannoch;PER-sch-rhun-Z6;PER-gew-yfke;RIT-strijdontvangst;HAAK-REG-ambergaard
+- **hangt_samen_met:** REG-hoogvrouwe;PER-brannoch;PER-sch-rhun;PER-gew-yfke;RIT-strijdontvangst-Z50
+- **verwijst_naar:** REG-hoogvrouwe;PER-brannoch;PER-sch-rhun-Z6;PER-gew-yfke;RIT-strijdontvangst-Z50;HAAK-REG-ambergaard
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -760,7 +760,7 @@
 - **status:** voorlopig
 - **ronde:** 22
 - **hangt_samen_met:** REG-hoogvrouwe;PER-gew-runa
-- **verwijst_naar:** REG-hoogvrouwe;PER-gew-gudrun;RIT-gletsjerproef;GELOOF-reg-hoogvrouwe;HAAK-Z17-zegel-6
+- **verwijst_naar:** REG-hoogvrouwe;PER-gew-gudrun;RIT-gletsjerproef-Z50;GELOOF-reg-hoogvrouwe;HAAK-Z17-zegel-6
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -879,8 +879,8 @@
 - **waarom:** Ronde G4: steden en plekken [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 22
-- **hangt_samen_met:** REG-zoutkust;PER-ondessa;PER-saelmor-wenna;RIT-gemaskerde-veiling
-- **verwijst_naar:** REG-zoutkust;PER-ondessa;PER-saelmor-wenna;RIT-gemaskerde-veiling;ZINT-VOORBEELD-2;HAAK-techno-zegelsteen-1
+- **hangt_samen_met:** REG-zoutkust;PER-ondessa;PER-saelmor-wenna;RIT-gemaskerde-veiling-Z50
+- **verwijst_naar:** REG-zoutkust;PER-ondessa;PER-saelmor-wenna;RIT-gemaskerde-veiling-Z50;ZINT-VOORBEELD-2;HAAK-techno-zegelsteen-1
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -969,8 +969,8 @@
 - **waarom:** Ronde G4: steden en plekken [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 22
-- **hangt_samen_met:** REG-groenmuil;PER-aelthir-sorn;PER-vaelorn-nu;RIT-zwijgende-rit
-- **verwijst_naar:** REG-groenmuil;PER-aelthir-sorn;PER-vaelorn-nu;RIT-zwijgende-rit;RIT-spiegelnacht;SYS-spiegelnacht;HAAK-techno-bio-2
+- **hangt_samen_met:** REG-groenmuil;PER-aelthir-sorn;PER-vaelorn-nu;RIT-zwijgende-rit-Z50
+- **verwijst_naar:** REG-groenmuil;PER-aelthir-sorn;PER-vaelorn-nu;RIT-zwijgende-rit-Z50;RIT-spiegelnacht-Z50;SYS-spiegelnacht;HAAK-techno-bio-2
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 

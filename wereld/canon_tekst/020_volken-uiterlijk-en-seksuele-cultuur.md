@@ -219,8 +219,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-aelthir;VOOR-teder;VOOR-ritueel
-- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOOR-teder;VOOR-ritueel
+- **hangt_samen_met:** SEKS-VOLK-aelthir;VOOR-teder;VOOR-ritueel-Z50
+- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOOR-teder;VOOR-ritueel-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -249,8 +249,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-aelthir;VOOR-geest
-- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOOR-geest
+- **hangt_samen_met:** SEKS-VOLK-aelthir;VOOR-geest-Z50
+- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOOR-geest-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -279,8 +279,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-aelthir;VOOR-reiziger;VOOR-groep;VOOR-overvloed
-- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOOR-reiziger;VOOR-groep;VOOR-overvloed
+- **hangt_samen_met:** SEKS-VOLK-aelthir;VOOR-reiziger-Z50;VOOR-groep-Z50;VOOR-overvloed-Z50
+- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOOR-reiziger-Z50;VOOR-groep-Z50;VOOR-overvloed-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -309,8 +309,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-aelthir;VOOR-dominante-vrouw;VOOR-ontzegging;VOOR-vrouwenliefde
-- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOOR-dominante-vrouw;VOOR-ontzegging;VOOR-vrouwenliefde
+- **hangt_samen_met:** SEKS-VOLK-aelthir;VOOR-dominante-vrouw-Z50;VOOR-ontzegging-Z50;VOOR-vrouwenliefde
+- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOOR-dominante-vrouw-Z50;VOOR-ontzegging-Z50;VOOR-vrouwenliefde
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -339,8 +339,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-aelthir;VOOR-voyeurisme;VOOR-lichaam
-- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOOR-voyeurisme;VOOR-lichaam
+- **hangt_samen_met:** SEKS-VOLK-aelthir;VOOR-voyeurisme-Z50;VOOR-lichaam-Z50
+- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOOR-voyeurisme-Z50;VOOR-lichaam-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -369,8 +369,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-karruk;VOOR-competitie;VOOR-dominante-vrouw;VOOR-ontlading
-- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOOR-competitie;VOOR-dominante-vrouw;VOOR-ontlading
+- **hangt_samen_met:** SEKS-VOLK-karruk;VOOR-competitie-Z50;VOOR-dominante-vrouw-Z50;VOOR-ontlading-Z50
+- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOOR-competitie-Z50;VOOR-dominante-vrouw-Z50;VOOR-ontlading-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -399,8 +399,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-karruk;VOOR-binding;VOOR-teder
-- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOOR-binding;VOOR-teder
+- **hangt_samen_met:** SEKS-VOLK-karruk;VOOR-binding-Z50;VOOR-teder
+- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOOR-binding-Z50;VOOR-teder
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -429,8 +429,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-karruk;VOOR-onderdanige-man;VOOR-overgave;VOOR-vernedering
-- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOOR-onderdanige-man;VOOR-overgave;VOOR-vernedering
+- **hangt_samen_met:** SEKS-VOLK-karruk;VOOR-onderdanige-man;VOOR-overgave;VOOR-vernedering-Z50
+- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOOR-onderdanige-man;VOOR-overgave;VOOR-vernedering-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -459,8 +459,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-karruk;VOOR-ontlading;VOOR-oudere-vrouw;VOOR-pijn-genot
-- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOOR-ontlading;VOOR-oudere-vrouw;VOOR-pijn-genot
+- **hangt_samen_met:** SEKS-VOLK-karruk;VOOR-ontlading-Z50;VOOR-oudere-vrouw-Z50;VOOR-pijn-genot-Z50
+- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOOR-ontlading-Z50;VOOR-oudere-vrouw-Z50;VOOR-pijn-genot-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -489,8 +489,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-karruk;VOOR-uithouding
-- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOOR-uithouding
+- **hangt_samen_met:** SEKS-VOLK-karruk;VOOR-uithouding-Z50
+- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOOR-uithouding-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -519,8 +519,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-dhurn;VOOR-uithouding;VOOR-binding
-- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOOR-uithouding;VOOR-binding
+- **hangt_samen_met:** SEKS-VOLK-dhurn;VOOR-uithouding-Z50;VOOR-binding-Z50
+- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOOR-uithouding-Z50;VOOR-binding-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -549,8 +549,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-dhurn;VOOR-verboden
-- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOOR-verboden
+- **hangt_samen_met:** SEKS-VOLK-dhurn;VOOR-verboden-Z50
+- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOOR-verboden-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -609,8 +609,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-dhurn;VOOR-reiziger;VOOR-ritueel
-- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOOR-reiziger;VOOR-ritueel
+- **hangt_samen_met:** SEKS-VOLK-dhurn;VOOR-reiziger-Z50;VOOR-ritueel-Z50
+- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOOR-reiziger-Z50;VOOR-ritueel-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -639,8 +639,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-dhurn;VOOR-pijn-genot;VOOR-lichaam
-- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOOR-pijn-genot;VOOR-lichaam
+- **hangt_samen_met:** SEKS-VOLK-dhurn;VOOR-pijn-genot-Z50;VOOR-lichaam-Z50
+- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOOR-pijn-genot-Z50;VOOR-lichaam-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -669,8 +669,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-saelmor;VOOR-vrouwenliefde;VOOR-groep
-- **verwijst_naar:** SEKS-VOLK-saelmor-kern;VOOR-vrouwenliefde;VOOR-groep
+- **hangt_samen_met:** SEKS-VOLK-saelmor;VOOR-vrouwenliefde;VOOR-groep-Z50
+- **verwijst_naar:** SEKS-VOLK-saelmor-kern;VOOR-vrouwenliefde;VOOR-groep-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -699,8 +699,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-saelmor;VOOR-overvloed;VOOR-reiziger
-- **verwijst_naar:** SEKS-VOLK-saelmor-kern;VOOR-overvloed;VOOR-reiziger
+- **hangt_samen_met:** SEKS-VOLK-saelmor;VOOR-overvloed-Z50;VOOR-reiziger-Z50
+- **verwijst_naar:** SEKS-VOLK-saelmor-kern;VOOR-overvloed-Z50;VOOR-reiziger-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -759,8 +759,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-saelmor;VOOR-pijn-genot;VOOR-overgave;VOOR-geest
-- **verwijst_naar:** SEKS-VOLK-saelmor-kern;VOOR-pijn-genot;VOOR-overgave;VOOR-geest
+- **hangt_samen_met:** SEKS-VOLK-saelmor;VOOR-pijn-genot-Z50;VOOR-overgave;VOOR-geest-Z50
+- **verwijst_naar:** SEKS-VOLK-saelmor-kern;VOOR-pijn-genot-Z50;VOOR-overgave;VOOR-geest-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -789,8 +789,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-saelmor;VOOR-exhibitionisme;VOOR-ritueel;VOOR-dominante-vrouw
-- **verwijst_naar:** SEKS-VOLK-saelmor-kern;VOOR-exhibitionisme;VOOR-ritueel;VOOR-dominante-vrouw
+- **hangt_samen_met:** SEKS-VOLK-saelmor;VOOR-exhibitionisme-Z50;VOOR-ritueel-Z50;VOOR-dominante-vrouw-Z50
+- **verwijst_naar:** SEKS-VOLK-saelmor-kern;VOOR-exhibitionisme-Z50;VOOR-ritueel-Z50;VOOR-dominante-vrouw-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -879,8 +879,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-grauwen;VOOR-reiziger;VOOR-verboden
-- **verwijst_naar:** SEKS-VOLK-grauwen-kern;VOOR-reiziger;VOOR-verboden
+- **hangt_samen_met:** SEKS-VOLK-grauwen;VOOR-reiziger-Z50;VOOR-verboden-Z50
+- **verwijst_naar:** SEKS-VOLK-grauwen-kern;VOOR-reiziger-Z50;VOOR-verboden-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -909,8 +909,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-grauwen;VOOR-exhibitionisme;VOOR-lichaam
-- **verwijst_naar:** SEKS-VOLK-grauwen-kern;VOOR-exhibitionisme;VOOR-lichaam
+- **hangt_samen_met:** SEKS-VOLK-grauwen;VOOR-exhibitionisme-Z50;VOOR-lichaam-Z50
+- **verwijst_naar:** SEKS-VOLK-grauwen-kern;VOOR-exhibitionisme-Z50;VOOR-lichaam-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -939,8 +939,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-grauwen;VOOR-dominante-vrouw;VOOR-ritueel
-- **verwijst_naar:** SEKS-VOLK-grauwen-kern;VOOR-dominante-vrouw;VOOR-ritueel
+- **hangt_samen_met:** SEKS-VOLK-grauwen;VOOR-dominante-vrouw-Z50;VOOR-ritueel-Z50
+- **verwijst_naar:** SEKS-VOLK-grauwen-kern;VOOR-dominante-vrouw-Z50;VOOR-ritueel-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -969,8 +969,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-ishvar;VOOR-teder;VOOR-binding
-- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOOR-teder;VOOR-binding
+- **hangt_samen_met:** SEKS-VOLK-ishvar;VOOR-teder;VOOR-binding-Z50
+- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOOR-teder;VOOR-binding-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -999,8 +999,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-ishvar;VOOR-groep;VOOR-binding
-- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOOR-groep;VOOR-binding
+- **hangt_samen_met:** SEKS-VOLK-ishvar;VOOR-groep-Z50;VOOR-binding-Z50
+- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOOR-groep-Z50;VOOR-binding-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1029,8 +1029,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-ishvar;VOOR-overvloed;VOOR-verboden
-- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOOR-overvloed;VOOR-verboden
+- **hangt_samen_met:** SEKS-VOLK-ishvar;VOOR-overvloed-Z50;VOOR-verboden-Z50
+- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOOR-overvloed-Z50;VOOR-verboden-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1059,8 +1059,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-ishvar;VOOR-dominante-man;VOOR-ritueel;VOOR-geest
-- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOOR-dominante-man;VOOR-ritueel;VOOR-geest
+- **hangt_samen_met:** SEKS-VOLK-ishvar;VOOR-dominante-man-Z50;VOOR-ritueel-Z50;VOOR-geest-Z50
+- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOOR-dominante-man-Z50;VOOR-ritueel-Z50;VOOR-geest-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1089,8 +1089,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-ishvar;VOOR-geest
-- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOOR-geest
+- **hangt_samen_met:** SEKS-VOLK-ishvar;VOOR-geest-Z50
+- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOOR-geest-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1119,8 +1119,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-vathren;VOOR-geest;VOOR-ritueel
-- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOOR-geest;VOOR-ritueel
+- **hangt_samen_met:** SEKS-VOLK-vathren;VOOR-geest-Z50;VOOR-ritueel-Z50
+- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOOR-geest-Z50;VOOR-ritueel-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1149,8 +1149,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-vathren;VOOR-overgave;VOOR-dominante-vrouw
-- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOOR-overgave;VOOR-dominante-vrouw
+- **hangt_samen_met:** SEKS-VOLK-vathren;VOOR-overgave;VOOR-dominante-vrouw-Z50
+- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOOR-overgave;VOOR-dominante-vrouw-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1179,8 +1179,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-vathren;VOOR-ontzegging
-- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOOR-ontzegging
+- **hangt_samen_met:** SEKS-VOLK-vathren;VOOR-ontzegging-Z50
+- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOOR-ontzegging-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1209,8 +1209,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-vathren;VOOR-pijn-genot;VOOR-overgave
-- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOOR-pijn-genot;VOOR-overgave
+- **hangt_samen_met:** SEKS-VOLK-vathren;VOOR-pijn-genot-Z50;VOOR-overgave
+- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOOR-pijn-genot-Z50;VOOR-overgave
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1239,8 +1239,8 @@
 - **waarom:** Ronde 16: diversiteit binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 16
-- **hangt_samen_met:** SEKS-VOLK-vathren;VOOR-teder;VOOR-binding
-- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOOR-teder;VOOR-binding
+- **hangt_samen_met:** SEKS-VOLK-vathren;VOOR-teder;VOOR-binding-Z50
+- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOOR-teder;VOOR-binding-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1689,8 +1689,8 @@
 - **waarom:** Ronde 17: extreme kern vervangt/vult tamme seksuele cultuur aan [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-aelthir;RIT-volk-aelthir;VOOR-ontzegging;VOOR-voyeurisme;VOOR-geest;VOOR-overgave
-- **verwijst_naar:** VOLK-aelthir-V5;RIT-volk-aelthir;VOOR-ontzegging;VOOR-voyeurisme;VOOR-geest;VOOR-overgave
+- **hangt_samen_met:** VOLK-aelthir;RIT-volk-aelthir-Z50;VOOR-ontzegging-Z50;VOOR-voyeurisme-Z50;VOOR-geest-Z50;VOOR-overgave
+- **verwijst_naar:** VOLK-aelthir-V5;RIT-volk-aelthir-Z50;VOOR-ontzegging-Z50;VOOR-voyeurisme-Z50;VOOR-geest-Z50;VOOR-overgave
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1719,8 +1719,8 @@
 - **waarom:** Ronde 17: extreme kern vervangt/vult tamme seksuele cultuur aan [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-karrûk;RIT-volk-karruk;VOOR-ritueel-geweld;VOOR-pijn-genot;VOOR-walglust;VOOR-bondage;VOOR-groep;VOOR-ontlading
-- **verwijst_naar:** VOLK-karrûk-Z6-Z38;RIT-volk-karruk;VOOR-ritueel-geweld;VOOR-pijn-genot;VOOR-walglust;VOOR-bondage;VOOR-groep;VOOR-ontlading
+- **hangt_samen_met:** VOLK-karrûk;RIT-volk-karruk-Z50;VOOR-ritueel-geweld;VOOR-pijn-genot-Z50;VOOR-walglust;VOOR-bondage-Z50;VOOR-groep-Z50;VOOR-ontlading-Z50
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;RIT-volk-karruk-Z50;VOOR-ritueel-geweld;VOOR-pijn-genot-Z50;VOOR-walglust;VOOR-bondage-Z50;VOOR-groep-Z50;VOOR-ontlading-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1749,8 +1749,8 @@
 - **waarom:** Ronde 17: extreme kern vervangt/vult tamme seksuele cultuur aan [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)] [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-dhurn), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-dhurn;RIT-volk-dhurn;VOOR-slijpen;VOOR-pijn-genot;VOOR-uithouding;VOOR-bondage;VOOR-overgave;VOOR-verboden
-- **verwijst_naar:** VOLK-dhurn;RIT-volk-dhurn;VOOR-slijpen;VOOR-pijn-genot;VOOR-uithouding;VOOR-bondage;VOOR-overgave;VOOR-verboden
+- **hangt_samen_met:** VOLK-dhurn;RIT-volk-dhurn-Z50;VOOR-slijpen;VOOR-pijn-genot-Z50;VOOR-uithouding-Z50;VOOR-bondage-Z50;VOOR-overgave;VOOR-verboden-Z50
+- **verwijst_naar:** VOLK-dhurn;RIT-volk-dhurn-Z50;VOOR-slijpen;VOOR-pijn-genot-Z50;VOOR-uithouding-Z50;VOOR-bondage-Z50;VOOR-overgave;VOOR-verboden-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1779,8 +1779,8 @@
 - **waarom:** Ronde 17: extreme kern vervangt/vult tamme seksuele cultuur aan [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-sael-mor;RIT-volk-saelmor;VOOR-overgave;VOOR-pijn-genot;VOOR-lichaam;VOOR-walglust;VOOR-bloed
-- **verwijst_naar:** VOLK-sael-mor;RIT-volk-saelmor;VOOR-overgave;VOOR-pijn-genot;VOOR-lichaam;VOOR-walglust;VOOR-bloed
+- **hangt_samen_met:** VOLK-sael-mor;RIT-volk-saelmor-Z50;VOOR-overgave;VOOR-pijn-genot-Z50;VOOR-lichaam-Z50;VOOR-walglust;VOOR-bloed-Z50
+- **verwijst_naar:** VOLK-sael-mor;RIT-volk-saelmor-Z50;VOOR-overgave;VOOR-pijn-genot-Z50;VOOR-lichaam-Z50;VOOR-walglust;VOOR-bloed-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1809,8 +1809,8 @@
 - **waarom:** Ronde 17: extreme kern vervangt/vult tamme seksuele cultuur aan [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)] [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-grauwen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-grauwen;RIT-volk-grauwen;VOOR-walglust;VOOR-lichaam;VOOR-vergroeiing;VOOR-handel;REGEL-verwantschapstaboe
-- **verwijst_naar:** VOLK-grauwen;RIT-volk-grauwen;VOOR-walglust;VOOR-lichaam;VOOR-vergroeiing;VOOR-handel;REGEL-verwantschapstaboe
+- **hangt_samen_met:** VOLK-grauwen;RIT-volk-grauwen-Z50;VOOR-walglust;VOOR-lichaam-Z50;VOOR-vergroeiing;VOOR-handel-Z50;REGEL-verwantschapstaboe
+- **verwijst_naar:** VOLK-grauwen;RIT-volk-grauwen-Z50;VOOR-walglust;VOOR-lichaam-Z50;VOOR-vergroeiing;VOOR-handel-Z50;REGEL-verwantschapstaboe
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1839,8 +1839,8 @@
 - **waarom:** Ronde 17: extreme kern vervangt/vult tamme seksuele cultuur aan [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)] [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-ishvar), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-ishvar;RIT-volk-ishvar;VOOR-ritueel-geweld;VOOR-binding;VOOR-pijn-genot;VOOR-verboden;VOOR-ontzegging;VOOR-gevangenschap
-- **verwijst_naar:** VOLK-ishvar;RIT-volk-ishvar;VOOR-ritueel-geweld;VOOR-binding;VOOR-pijn-genot;VOOR-verboden;VOOR-ontzegging;VOOR-gevangenschap
+- **hangt_samen_met:** VOLK-ishvar;RIT-volk-ishvar-Z50;VOOR-ritueel-geweld;VOOR-binding-Z50;VOOR-pijn-genot-Z50;VOOR-verboden-Z50;VOOR-ontzegging-Z50;VOOR-gevangenschap-Z50
+- **verwijst_naar:** VOLK-ishvar;RIT-volk-ishvar-Z50;VOOR-ritueel-geweld;VOOR-binding-Z50;VOOR-pijn-genot-Z50;VOOR-verboden-Z50;VOOR-ontzegging-Z50;VOOR-gevangenschap-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1869,8 +1869,8 @@
 - **waarom:** Ronde 17: extreme kern vervangt/vult tamme seksuele cultuur aan [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-vathren;RIT-volk-vathren;VOOR-pijn-genot;VOOR-overgave;VOOR-geest;VOOR-walglust;VOOR-lichaam
-- **verwijst_naar:** VOLK-vathren-Z6;RIT-volk-vathren;VOOR-pijn-genot;VOOR-overgave;VOOR-geest;VOOR-walglust;VOOR-lichaam
+- **hangt_samen_met:** VOLK-vathren;RIT-volk-vathren-Z50;VOOR-pijn-genot-Z50;VOOR-overgave;VOOR-geest-Z50;VOOR-walglust;VOOR-lichaam-Z50
+- **verwijst_naar:** VOLK-vathren-Z6;RIT-volk-vathren-Z50;VOOR-pijn-genot-Z50;VOOR-overgave;VOOR-geest-Z50;VOOR-walglust;VOOR-lichaam-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1899,8 +1899,8 @@
 - **waarom:** Ronde 17: extreme kern vervangt/vult tamme seksuele cultuur aan [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, diep in boek 2 (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-kluwer;RIT-volk-kluwer;VOOR-korf;VOOR-overgave;VOOR-inplanting;VOOR-ei-dragen;VOOR-ritueel-geweld;VOOR-afscheid
-- **verwijst_naar:** VOLK-kluwer;RIT-volk-kluwer;VOOR-korf;VOOR-overgave;VOOR-inplanting;VOOR-ei-dragen;VOOR-ritueel-geweld;VOOR-afscheid
+- **hangt_samen_met:** VOLK-kluwer;RIT-volk-kluwer-Z50;VOOR-korf;VOOR-overgave;VOOR-inplanting;VOOR-ei-dragen;VOOR-ritueel-geweld;VOOR-afscheid-Z50
+- **verwijst_naar:** VOLK-kluwer;RIT-volk-kluwer-Z50;VOOR-korf;VOOR-overgave;VOOR-inplanting;VOOR-ei-dragen;VOOR-ritueel-geweld;VOOR-afscheid-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1929,8 +1929,8 @@
 - **waarom:** Ronde 17: extreme kern vervangt/vult tamme seksuele cultuur aan [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-myrrhen;RIT-volk-myrrhen;VOOR-sporenroes;VOOR-korf;VOOR-vergroeiing;VOOR-walglust;VOOR-inplanting
-- **verwijst_naar:** VOLK-myrrhen-Z6;RIT-volk-myrrhen;VOOR-sporenroes;VOOR-korf;VOOR-vergroeiing;VOOR-walglust;VOOR-inplanting
+- **hangt_samen_met:** VOLK-myrrhen;RIT-volk-myrrhen-Z50;VOOR-sporenroes;VOOR-korf;VOOR-vergroeiing;VOOR-walglust;VOOR-inplanting
+- **verwijst_naar:** VOLK-myrrhen-Z6;RIT-volk-myrrhen-Z50;VOOR-sporenroes;VOOR-korf;VOOR-vergroeiing;VOOR-walglust;VOOR-inplanting
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1959,8 +1959,8 @@
 - **waarom:** Ronde 17: extreme kern vervangt/vult tamme seksuele cultuur aan [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, diep in boek 2 (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-oevrin;RIT-volk-oevrin;VOOR-paaipoel;VOOR-groep;VOOR-anoniem;VOOR-slijm;VOOR-omhulling;VOOR-overgave;VOOR-ei-dragen
-- **verwijst_naar:** VOLK-oevrin;RIT-volk-oevrin;VOOR-paaipoel;VOOR-groep;VOOR-anoniem;VOOR-slijm;VOOR-omhulling;VOOR-overgave;VOOR-ei-dragen
+- **hangt_samen_met:** VOLK-oevrin;RIT-volk-oevrin-Z50;VOOR-paaipoel;VOOR-groep-Z50;VOOR-anoniem-Z50;VOOR-slijm;VOOR-omhulling;VOOR-overgave;VOOR-ei-dragen
+- **verwijst_naar:** VOLK-oevrin;RIT-volk-oevrin-Z50;VOOR-paaipoel;VOOR-groep-Z50;VOOR-anoniem-Z50;VOOR-slijm;VOOR-omhulling;VOOR-overgave;VOOR-ei-dragen
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -1989,8 +1989,8 @@
 - **waarom:** Ronde 17: extreme kern vervangt/vult tamme seksuele cultuur aan [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-tharn;RIT-volk-tharn;VOOR-maatverschil;VOOR-overgave;VOOR-overvloed;VOOR-verplettering;VOOR-bondage;VOOR-vernedering
-- **verwijst_naar:** VOLK-tharn;RIT-volk-tharn;VOOR-maatverschil;VOOR-overgave;VOOR-overvloed;VOOR-verplettering;VOOR-bondage;VOOR-vernedering
+- **hangt_samen_met:** VOLK-tharn;RIT-volk-tharn-Z50;VOOR-maatverschil;VOOR-overgave;VOOR-overvloed-Z50;VOOR-verplettering;VOOR-bondage-Z50;VOOR-vernedering-Z50
+- **verwijst_naar:** VOLK-tharn;RIT-volk-tharn-Z50;VOOR-maatverschil;VOOR-overgave;VOOR-overvloed-Z50;VOOR-verplettering;VOOR-bondage-Z50;VOOR-vernedering-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2019,8 +2019,8 @@
 - **waarom:** Ronde 17: extreme kern vervangt/vult tamme seksuele cultuur aan [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-orrim;RIT-volk-orrim;VOOR-slijpen;VOOR-pijn-genot;VOOR-versteening;VOOR-bondage;VOOR-inplanting;VOOR-binding
-- **verwijst_naar:** VOLK-orrim;RIT-volk-orrim;VOOR-slijpen;VOOR-pijn-genot;VOOR-versteening;VOOR-bondage;VOOR-inplanting;VOOR-binding
+- **hangt_samen_met:** VOLK-orrim;RIT-volk-orrim-Z50;VOOR-slijpen;VOOR-pijn-genot-Z50;VOOR-versteening;VOOR-bondage-Z50;VOOR-inplanting;VOOR-binding-Z50
+- **verwijst_naar:** VOLK-orrim;RIT-volk-orrim-Z50;VOOR-slijpen;VOOR-pijn-genot-Z50;VOOR-versteening;VOOR-bondage-Z50;VOOR-inplanting;VOOR-binding-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2049,8 +2049,8 @@
 - **waarom:** Ronde 17: extreme kern vervangt/vult tamme seksuele cultuur aan [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, diep in boek 2 (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-skerra;RIT-volk-skerra;VOOR-valparing;VOOR-vleugelbinding;VOOR-bondage;VOOR-ritueel-geweld;VOOR-pijn-genot;VOOR-omhulling
-- **verwijst_naar:** VOLK-skerra;RIT-volk-skerra;VOOR-valparing;VOOR-vleugelbinding;VOOR-bondage;VOOR-ritueel-geweld;VOOR-pijn-genot;VOOR-omhulling
+- **hangt_samen_met:** VOLK-skerra;RIT-volk-skerra-Z50;VOOR-valparing;VOOR-vleugelbinding;VOOR-bondage-Z50;VOOR-ritueel-geweld;VOOR-pijn-genot-Z50;VOOR-omhulling
+- **verwijst_naar:** VOLK-skerra;RIT-volk-skerra-Z50;VOOR-valparing;VOOR-vleugelbinding;VOOR-bondage-Z50;VOOR-ritueel-geweld;VOOR-pijn-genot-Z50;VOOR-omhulling
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2079,8 +2079,8 @@
 - **waarom:** Ronde 17: extreme kern vervangt/vult tamme seksuele cultuur aan [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** VOLK-ves-lethi;RIT-volk-ves-lethi;VOOR-vormwissel;VOOR-rolwissel;VOOR-nabootsing;VOOR-vergroeiing;VOOR-walglust
-- **verwijst_naar:** VOLK-ves-lethi-Z6;RIT-volk-ves-lethi;VOOR-vormwissel;VOOR-rolwissel;VOOR-nabootsing;VOOR-vergroeiing;VOOR-walglust
+- **hangt_samen_met:** VOLK-ves-lethi;RIT-volk-ves-lethi-Z50;VOOR-vormwissel;VOOR-rolwissel-Z50;VOOR-nabootsing;VOOR-vergroeiing;VOOR-walglust
+- **verwijst_naar:** VOLK-ves-lethi-Z6;RIT-volk-ves-lethi-Z50;VOOR-vormwissel;VOOR-rolwissel-Z50;VOOR-nabootsing;VOOR-vergroeiing;VOOR-walglust
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2109,8 +2109,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, diep in boek 2 (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-kluwer-kern;VOOR-korf;VOOR-groep
-- **verwijst_naar:** SEKS-VOLK-kluwer-kern;VOOR-korf;VOOR-groep
+- **hangt_samen_met:** SEKS-VOLK-kluwer-kern;VOOR-korf;VOOR-groep-Z50
+- **verwijst_naar:** SEKS-VOLK-kluwer-kern;VOOR-korf;VOOR-groep-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2139,8 +2139,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, diep in boek 2 (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-kluwer-kern;VOOR-teder;VOOR-verboden
-- **verwijst_naar:** SEKS-VOLK-kluwer-kern;VOOR-teder;VOOR-verboden
+- **hangt_samen_met:** SEKS-VOLK-kluwer-kern;VOOR-teder;VOOR-verboden-Z50
+- **verwijst_naar:** SEKS-VOLK-kluwer-kern;VOOR-teder;VOOR-verboden-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -2169,8 +2169,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, diep in boek 2 (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-kluwer-kern;VOOR-dominante-vrouw;VOOR-ritueel-geweld
-- **verwijst_naar:** SEKS-VOLK-kluwer-kern;VOOR-dominante-vrouw;VOOR-ritueel-geweld
+- **hangt_samen_met:** SEKS-VOLK-kluwer-kern;VOOR-dominante-vrouw-Z50;VOOR-ritueel-geweld
+- **verwijst_naar:** SEKS-VOLK-kluwer-kern;VOOR-dominante-vrouw-Z50;VOOR-ritueel-geweld
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2199,8 +2199,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, diep in boek 2 (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-kluwer-kern;VOOR-ontzegging
-- **verwijst_naar:** SEKS-VOLK-kluwer-kern;VOOR-ontzegging
+- **hangt_samen_met:** SEKS-VOLK-kluwer-kern;VOOR-ontzegging-Z50
+- **verwijst_naar:** SEKS-VOLK-kluwer-kern;VOOR-ontzegging-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 1
@@ -2229,8 +2229,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, diep in boek 2 (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-kluwer-kern;VOOR-inplanting;VOOR-handel
-- **verwijst_naar:** SEKS-VOLK-kluwer-kern;VOOR-inplanting;VOOR-handel
+- **hangt_samen_met:** SEKS-VOLK-kluwer-kern;VOOR-inplanting;VOOR-handel-Z50
+- **verwijst_naar:** SEKS-VOLK-kluwer-kern;VOOR-inplanting;VOOR-handel-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2289,8 +2289,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-myrrhen-kern;VOOR-vergroeiing;VOOR-binding
-- **verwijst_naar:** SEKS-VOLK-myrrhen-kern;VOOR-vergroeiing;VOOR-binding
+- **hangt_samen_met:** SEKS-VOLK-myrrhen-kern;VOOR-vergroeiing;VOOR-binding-Z50
+- **verwijst_naar:** SEKS-VOLK-myrrhen-kern;VOOR-vergroeiing;VOOR-binding-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2319,8 +2319,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-myrrhen-kern;VOOR-walglust;VOOR-ritueel
-- **verwijst_naar:** SEKS-VOLK-myrrhen-kern;VOOR-walglust;VOOR-ritueel
+- **hangt_samen_met:** SEKS-VOLK-myrrhen-kern;VOOR-walglust;VOOR-ritueel-Z50
+- **verwijst_naar:** SEKS-VOLK-myrrhen-kern;VOOR-walglust;VOOR-ritueel-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2349,8 +2349,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-myrrhen-kern;VOOR-geest
-- **verwijst_naar:** SEKS-VOLK-myrrhen-kern;VOOR-geest
+- **hangt_samen_met:** SEKS-VOLK-myrrhen-kern;VOOR-geest-Z50
+- **verwijst_naar:** SEKS-VOLK-myrrhen-kern;VOOR-geest-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 1
@@ -2379,8 +2379,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-myrrhen-kern;VOOR-verboden;VOOR-pijn-genot
-- **verwijst_naar:** SEKS-VOLK-myrrhen-kern;VOOR-verboden;VOOR-pijn-genot
+- **hangt_samen_met:** SEKS-VOLK-myrrhen-kern;VOOR-verboden-Z50;VOOR-pijn-genot-Z50
+- **verwijst_naar:** SEKS-VOLK-myrrhen-kern;VOOR-verboden-Z50;VOOR-pijn-genot-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2409,8 +2409,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, diep in boek 2 (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-oevrin-kern;VOOR-paaipoel;VOOR-groep
-- **verwijst_naar:** SEKS-VOLK-oevrin-kern;VOOR-paaipoel;VOOR-groep
+- **hangt_samen_met:** SEKS-VOLK-oevrin-kern;VOOR-paaipoel;VOOR-groep-Z50
+- **verwijst_naar:** SEKS-VOLK-oevrin-kern;VOOR-paaipoel;VOOR-groep-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2439,8 +2439,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, diep in boek 2 (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-oevrin-kern;VOOR-omhulling;VOOR-dominante-man
-- **verwijst_naar:** SEKS-VOLK-oevrin-kern;VOOR-omhulling;VOOR-dominante-man
+- **hangt_samen_met:** SEKS-VOLK-oevrin-kern;VOOR-omhulling;VOOR-dominante-man-Z50
+- **verwijst_naar:** SEKS-VOLK-oevrin-kern;VOOR-omhulling;VOOR-dominante-man-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2469,8 +2469,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, diep in boek 2 (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-oevrin-kern;VOOR-teder;VOOR-verboden
-- **verwijst_naar:** SEKS-VOLK-oevrin-kern;VOOR-teder;VOOR-verboden
+- **hangt_samen_met:** SEKS-VOLK-oevrin-kern;VOOR-teder;VOOR-verboden-Z50
+- **verwijst_naar:** SEKS-VOLK-oevrin-kern;VOOR-teder;VOOR-verboden-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -2499,8 +2499,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, diep in boek 2 (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-oevrin-kern;VOOR-slijm;VOOR-handel
-- **verwijst_naar:** SEKS-VOLK-oevrin-kern;VOOR-slijm;VOOR-handel
+- **hangt_samen_met:** SEKS-VOLK-oevrin-kern;VOOR-slijm;VOOR-handel-Z50
+- **verwijst_naar:** SEKS-VOLK-oevrin-kern;VOOR-slijm;VOOR-handel-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2529,8 +2529,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, diep in boek 2 (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-oevrin-kern;VOOR-groep;VOOR-slijm
-- **verwijst_naar:** SEKS-VOLK-oevrin-kern;VOOR-groep;VOOR-slijm
+- **hangt_samen_met:** SEKS-VOLK-oevrin-kern;VOOR-groep-Z50;VOOR-slijm
+- **verwijst_naar:** SEKS-VOLK-oevrin-kern;VOOR-groep-Z50;VOOR-slijm
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -2559,8 +2559,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-tharn-kern;VOOR-teder;VOOR-uithouding
-- **verwijst_naar:** SEKS-VOLK-tharn-kern;VOOR-teder;VOOR-uithouding
+- **hangt_samen_met:** SEKS-VOLK-tharn-kern;VOOR-teder;VOOR-uithouding-Z50
+- **verwijst_naar:** SEKS-VOLK-tharn-kern;VOOR-teder;VOOR-uithouding-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -2619,8 +2619,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-tharn-kern;VOOR-onderdanige-man;VOOR-vernedering
-- **verwijst_naar:** SEKS-VOLK-tharn-kern;VOOR-onderdanige-man;VOOR-vernedering
+- **hangt_samen_met:** SEKS-VOLK-tharn-kern;VOOR-onderdanige-man;VOOR-vernedering-Z50
+- **verwijst_naar:** SEKS-VOLK-tharn-kern;VOOR-onderdanige-man;VOOR-vernedering-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2679,8 +2679,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-tharn-kern;VOOR-afscheid
-- **verwijst_naar:** SEKS-VOLK-tharn-kern;VOOR-afscheid
+- **hangt_samen_met:** SEKS-VOLK-tharn-kern;VOOR-afscheid-Z50
+- **verwijst_naar:** SEKS-VOLK-tharn-kern;VOOR-afscheid-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 2
@@ -2709,8 +2709,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-orrim-kern;VOOR-slijpen;VOOR-rolwissel
-- **verwijst_naar:** SEKS-VOLK-orrim-kern;VOOR-slijpen;VOOR-rolwissel
+- **hangt_samen_met:** SEKS-VOLK-orrim-kern;VOOR-slijpen;VOOR-rolwissel-Z50
+- **verwijst_naar:** SEKS-VOLK-orrim-kern;VOOR-slijpen;VOOR-rolwissel-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2739,8 +2739,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-orrim-kern;VOOR-versteening;VOOR-dominante-man
-- **verwijst_naar:** SEKS-VOLK-orrim-kern;VOOR-versteening;VOOR-dominante-man
+- **hangt_samen_met:** SEKS-VOLK-orrim-kern;VOOR-versteening;VOOR-dominante-man-Z50
+- **verwijst_naar:** SEKS-VOLK-orrim-kern;VOOR-versteening;VOOR-dominante-man-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2799,8 +2799,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-orrim-kern;VOOR-geest
-- **verwijst_naar:** SEKS-VOLK-orrim-kern;VOOR-geest
+- **hangt_samen_met:** SEKS-VOLK-orrim-kern;VOOR-geest-Z50
+- **verwijst_naar:** SEKS-VOLK-orrim-kern;VOOR-geest-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 1
@@ -2829,8 +2829,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-orrim-kern;VOOR-verboden;VOOR-walglust
-- **verwijst_naar:** SEKS-VOLK-orrim-kern;VOOR-verboden;VOOR-walglust
+- **hangt_samen_met:** SEKS-VOLK-orrim-kern;VOOR-verboden-Z50;VOOR-walglust
+- **verwijst_naar:** SEKS-VOLK-orrim-kern;VOOR-verboden-Z50;VOOR-walglust
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2859,8 +2859,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, diep in boek 2 (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-skerra-kern;VOOR-valparing;VOOR-competitie
-- **verwijst_naar:** SEKS-VOLK-skerra-kern;VOOR-valparing;VOOR-competitie
+- **hangt_samen_met:** SEKS-VOLK-skerra-kern;VOOR-valparing;VOOR-competitie-Z50
+- **verwijst_naar:** SEKS-VOLK-skerra-kern;VOOR-valparing;VOOR-competitie-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2949,8 +2949,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, diep in boek 2 (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-skerra-kern;VOOR-ritueel-geweld;VOOR-dominante-vrouw
-- **verwijst_naar:** SEKS-VOLK-skerra-kern;VOOR-ritueel-geweld;VOOR-dominante-vrouw
+- **hangt_samen_met:** SEKS-VOLK-skerra-kern;VOOR-ritueel-geweld;VOOR-dominante-vrouw-Z50
+- **verwijst_naar:** SEKS-VOLK-skerra-kern;VOOR-ritueel-geweld;VOOR-dominante-vrouw-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -2979,8 +2979,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, diep in boek 2 (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-skerra-kern;VOOR-teder;VOOR-verboden
-- **verwijst_naar:** SEKS-VOLK-skerra-kern;VOOR-teder;VOOR-verboden
+- **hangt_samen_met:** SEKS-VOLK-skerra-kern;VOOR-teder;VOOR-verboden-Z50
+- **verwijst_naar:** SEKS-VOLK-skerra-kern;VOOR-teder;VOOR-verboden-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -3009,8 +3009,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-ves-lethi-kern;VOOR-vormwissel;VOOR-rolwissel
-- **verwijst_naar:** SEKS-VOLK-ves-lethi-kern;VOOR-vormwissel;VOOR-rolwissel
+- **hangt_samen_met:** SEKS-VOLK-ves-lethi-kern;VOOR-vormwissel;VOOR-rolwissel-Z50
+- **verwijst_naar:** SEKS-VOLK-ves-lethi-kern;VOOR-vormwissel;VOOR-rolwissel-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -3039,8 +3039,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-ves-lethi-kern;VOOR-binding;VOOR-teder
-- **verwijst_naar:** SEKS-VOLK-ves-lethi-kern;VOOR-binding;VOOR-teder
+- **hangt_samen_met:** SEKS-VOLK-ves-lethi-kern;VOOR-binding-Z50;VOOR-teder
+- **verwijst_naar:** SEKS-VOLK-ves-lethi-kern;VOOR-binding-Z50;VOOR-teder
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -3069,8 +3069,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-ves-lethi-kern;VOOR-nabootsing;VOOR-handel
-- **verwijst_naar:** SEKS-VOLK-ves-lethi-kern;VOOR-nabootsing;VOOR-handel
+- **hangt_samen_met:** SEKS-VOLK-ves-lethi-kern;VOOR-nabootsing;VOOR-handel-Z50
+- **verwijst_naar:** SEKS-VOLK-ves-lethi-kern;VOOR-nabootsing;VOOR-handel-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -3129,8 +3129,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-ves-lethi-kern;VOOR-overvloed;VOOR-handel
-- **verwijst_naar:** SEKS-VOLK-ves-lethi-kern;VOOR-overvloed;VOOR-handel
+- **hangt_samen_met:** SEKS-VOLK-ves-lethi-kern;VOOR-overvloed-Z50;VOOR-handel-Z50
+- **verwijst_naar:** SEKS-VOLK-ves-lethi-kern;VOOR-overvloed-Z50;VOOR-handel-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -3159,8 +3159,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-aelthir-kern;VOOR-geest;VOOR-overgave
-- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOOR-geest;VOOR-overgave
+- **hangt_samen_met:** SEKS-VOLK-aelthir-kern;VOOR-geest-Z50;VOOR-overgave
+- **verwijst_naar:** SEKS-VOLK-aelthir-kern;VOOR-geest-Z50;VOOR-overgave
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -3189,8 +3189,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-karruk-kern;VOOR-ritueel-geweld;VOOR-exhibitionisme
-- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOOR-ritueel-geweld;VOOR-exhibitionisme
+- **hangt_samen_met:** SEKS-VOLK-karruk-kern;VOOR-ritueel-geweld;VOOR-exhibitionisme-Z50
+- **verwijst_naar:** SEKS-VOLK-karruk-kern;VOOR-ritueel-geweld;VOOR-exhibitionisme-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -3219,8 +3219,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-dhurn-kern;VOOR-bondage;VOOR-gevangenschap
-- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOOR-bondage;VOOR-gevangenschap
+- **hangt_samen_met:** SEKS-VOLK-dhurn-kern;VOOR-bondage-Z50;VOOR-gevangenschap-Z50
+- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOOR-bondage-Z50;VOOR-gevangenschap-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -3249,8 +3249,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-4)]
 - **status:** vastgesteld
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-saelmor-kern;VOOR-walglust;VOOR-bloed
-- **verwijst_naar:** SEKS-VOLK-saelmor-kern;VOOR-walglust;VOOR-bloed
+- **hangt_samen_met:** SEKS-VOLK-saelmor-kern;VOOR-walglust;VOOR-bloed-Z50
+- **verwijst_naar:** SEKS-VOLK-saelmor-kern;VOOR-walglust;VOOR-bloed-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -3279,8 +3279,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-grauwen-kern;VOOR-walglust;VOOR-handel
-- **verwijst_naar:** SEKS-VOLK-grauwen-kern;VOOR-walglust;VOOR-handel
+- **hangt_samen_met:** SEKS-VOLK-grauwen-kern;VOOR-walglust;VOOR-handel-Z50
+- **verwijst_naar:** SEKS-VOLK-grauwen-kern;VOOR-walglust;VOOR-handel-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -3309,8 +3309,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-ishvar-kern;VOOR-pijn-genot;VOOR-verboden
-- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOOR-pijn-genot;VOOR-verboden
+- **hangt_samen_met:** SEKS-VOLK-ishvar-kern;VOOR-pijn-genot-Z50;VOOR-verboden-Z50
+- **verwijst_naar:** SEKS-VOLK-ishvar-kern;VOOR-pijn-genot-Z50;VOOR-verboden-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -3339,8 +3339,8 @@
 - **waarom:** Ronde 17: variant binnen het volk [B1: later boek (BESLUIT-4)] [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 17
-- **hangt_samen_met:** SEKS-VOLK-vathren-kern;VOOR-walglust;VOOR-lichaam
-- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOOR-walglust;VOOR-lichaam
+- **hangt_samen_met:** SEKS-VOLK-vathren-kern;VOOR-walglust;VOOR-lichaam-Z50
+- **verwijst_naar:** SEKS-VOLK-vathren-kern;VOOR-walglust;VOOR-lichaam-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -4119,8 +4119,8 @@
 - **waarom:** Ronde Z6: bijgesteld na BESLUIT-Z6-WRIJ-070 [Ronde Z12: kleur in boek 1, later boek (BESLUIT-Z12-4)]
 - **status:** voorlopig
 - **ronde:** 35
-- **hangt_samen_met:** SEKS-VOLK-dhurn;VOOR-uithouding;VOOR-teder;BESLUIT-Z6-WRIJ-070
-- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOOR-uithouding;VOOR-teder;BESLUIT-Z6-WRIJ-070
+- **hangt_samen_met:** SEKS-VOLK-dhurn;VOOR-uithouding-Z50;VOOR-teder;BESLUIT-Z6-WRIJ-070
+- **verwijst_naar:** SEKS-VOLK-dhurn-kern;VOOR-uithouding-Z50;VOOR-teder;BESLUIT-Z6-WRIJ-070
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -5259,8 +5259,8 @@
 - **waarom:** Ronde Z10: seksuele ontwaking van volwassenen (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-register), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** BEST-register;STAD-saelith;KINK-Z8-56
-- **verwijst_naar:** BEST-register;STAD-saelith;KINK-Z8-56
+- **hangt_samen_met:** BEST-register;STAD-saelith;KINK-Z8-56-Z50
+- **verwijst_naar:** BEST-register;STAD-saelith;KINK-Z8-56-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -5379,8 +5379,8 @@
 - **waarom:** Ronde Z10: seksuele ontwaking van volwassenen (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOLK-ishvar), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-ishvar;KINK-Z8-2;REG-rosse
-- **verwijst_naar:** VOLK-ishvar;KINK-Z8-2;REG-rosse
+- **hangt_samen_met:** VOLK-ishvar;KINK-Z8-2-Z50;REG-rosse
+- **verwijst_naar:** VOLK-ishvar;KINK-Z8-2-Z50;REG-rosse
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -5409,8 +5409,8 @@
 - **waarom:** Ronde Z10: seksuele ontwaking van volwassenen (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** STAD-brakhaven;KINK-Z8-40;DAG-werk
-- **verwijst_naar:** STAD-brakhaven;KINK-Z8-40;DAG-werk
+- **hangt_samen_met:** STAD-brakhaven;KINK-Z8-40-Z50;DAG-werk
+- **verwijst_naar:** STAD-brakhaven;KINK-Z8-40-Z50;DAG-werk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -5589,8 +5589,8 @@
 - **waarom:** Ronde Z10: seksuele ontwaking van volwassenen (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-karrûk;KINK-Z8-18;LICH-krijgslitteken-kaart
-- **verwijst_naar:** VOLK-karrûk-Z6-Z38;KINK-Z8-18;LICH-krijgslitteken-kaart
+- **hangt_samen_met:** VOLK-karrûk;KINK-Z8-18-Z50;LICH-krijgslitteken-kaart
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;KINK-Z8-18-Z50;LICH-krijgslitteken-kaart
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -5619,8 +5619,8 @@
 - **waarom:** Ronde Z10: seksuele ontwaking van volwassenen (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** FEEST-lampenfeest;KINK-Z8-41;SEKTE-lampenwakers
-- **verwijst_naar:** FEEST-lampenfeest;KINK-Z8-41;SEKTE-lampenwakers
+- **hangt_samen_met:** FEEST-lampenfeest;KINK-Z8-41-Z50;SEKTE-lampenwakers
+- **verwijst_naar:** FEEST-lampenfeest;KINK-Z8-41-Z50;SEKTE-lampenwakers
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -5649,8 +5649,8 @@
 - **waarom:** Ronde Z10: seksuele ontwaking van volwassenen (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** ORDE-rangen;KINK-Z8-19;HELD-Z10-9
-- **verwijst_naar:** ORDE-rangen;KINK-Z8-19;HELD-Z10-9
+- **hangt_samen_met:** ORDE-rangen;KINK-Z8-19-Z50;HELD-Z10-9
+- **verwijst_naar:** ORDE-rangen;KINK-Z8-19-Z50;HELD-Z10-9
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -5679,8 +5679,8 @@
 - **waarom:** Ronde Z10: seksuele ontwaking van volwassenen (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-myrrhen;KINK-Z8-55;NERD-Z10-24
-- **verwijst_naar:** VOLK-myrrhen-Z6;KINK-Z8-55;NERD-Z10-24
+- **hangt_samen_met:** VOLK-myrrhen;KINK-Z8-55-Z50;NERD-Z10-24
+- **verwijst_naar:** VOLK-myrrhen-Z6;KINK-Z8-55-Z50;NERD-Z10-24
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -5769,8 +5769,8 @@
 - **waarom:** Ronde Z10: seksuele ontwaking van volwassenen (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-myrrhen;SEKTE-vleesgemeente;KINK-Z8-1
-- **verwijst_naar:** VOLK-myrrhen-Z6;SEKTE-vleesgemeente;KINK-Z8-1
+- **hangt_samen_met:** VOLK-myrrhen;SEKTE-vleesgemeente;KINK-Z8-1-Z50
+- **verwijst_naar:** VOLK-myrrhen-Z6;SEKTE-vleesgemeente;KINK-Z8-1-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -5799,8 +5799,8 @@
 - **waarom:** Ronde Z10: seksuele ontwaking van volwassenen (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar VOORW-Z7-kraaienbruid), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** VOORW-Z7-kraaienbruid;KINK-Z8-13;REG-zoutkust
-- **verwijst_naar:** VOORW-Z7-kraaienbruid;KINK-Z8-13;REG-zoutkust
+- **hangt_samen_met:** VOORW-Z7-kraaienbruid;KINK-Z8-13-Z50;REG-zoutkust
+- **verwijst_naar:** VOORW-Z7-kraaienbruid;KINK-Z8-13-Z50;REG-zoutkust
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -5889,8 +5889,8 @@
 - **waarom:** Ronde Z10: seksuele ontwaking van volwassenen (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-skerra;KINK-Z8-52;ROMANCE-Z10-24
-- **verwijst_naar:** VOLK-skerra;KINK-Z8-52;ROMANCE-Z10-24
+- **hangt_samen_met:** VOLK-skerra;KINK-Z8-52-Z50;ROMANCE-Z10-24
+- **verwijst_naar:** VOLK-skerra;KINK-Z8-52-Z50;ROMANCE-Z10-24
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -5919,8 +5919,8 @@
 - **waarom:** Ronde Z10: seksuele ontwaking van volwassenen (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** VOLK-kluwer;KINK-Z8-12;DEGEN-Z10-27
-- **verwijst_naar:** VOLK-kluwer;KINK-Z8-12;DEGEN-Z10-27
+- **hangt_samen_met:** VOLK-kluwer;KINK-Z8-12-Z50;DEGEN-Z10-27
+- **verwijst_naar:** VOLK-kluwer;KINK-Z8-12-Z50;DEGEN-Z10-27
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -6069,8 +6069,8 @@
 - **waarom:** Ronde Z10: seksuele ontwaking van volwassenen (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-raad-moeders), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** BEST-raad-moeders;EROS-RAUW-Z7-16;KINK-Z8-49
-- **verwijst_naar:** BEST-raad-moeders;EROS-RAUW-Z7-16;KINK-Z8-49
+- **hangt_samen_met:** BEST-raad-moeders;EROS-RAUW-Z7-16;KINK-Z8-49-Z50
+- **verwijst_naar:** BEST-raad-moeders;EROS-RAUW-Z7-16;KINK-Z8-49-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -6219,8 +6219,8 @@
 - **waarom:** Ronde Z10: seksuele ontwaking van volwassenen (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar BEST-huis-mirre), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 39
-- **hangt_samen_met:** BEST-huis-mirre;KINK-Z8-38;NERD-Z10-32
-- **verwijst_naar:** BEST-huis-mirre;KINK-Z8-38;NERD-Z10-32
+- **hangt_samen_met:** BEST-huis-mirre;KINK-Z8-38-Z50;NERD-Z10-32
+- **verwijst_naar:** BEST-huis-mirre;KINK-Z8-38-Z50;NERD-Z10-32
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -6339,8 +6339,8 @@
 - **waarom:** Ronde Z10: seksuele ontwaking van volwassenen (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** NERD-Z10-15;KINK-Z8-12;VOLK-kluwer
-- **verwijst_naar:** NERD-Z10-15;KINK-Z8-12;VOLK-kluwer
+- **hangt_samen_met:** NERD-Z10-15;KINK-Z8-12-Z50;VOLK-kluwer
+- **verwijst_naar:** NERD-Z10-15;KINK-Z8-12-Z50;VOLK-kluwer
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -6369,8 +6369,8 @@
 - **waarom:** Ronde Z10: seksuele ontwaking van volwassenen (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** SAW-Z10-14;ORDE-stille-hand;KINK-Z8-46
-- **verwijst_naar:** SAW-Z10-14;ORDE-stille-hand;KINK-Z8-46
+- **hangt_samen_met:** SAW-Z10-14;ORDE-stille-hand;KINK-Z8-46-Z50
+- **verwijst_naar:** SAW-Z10-14;ORDE-stille-hand;KINK-Z8-46-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 

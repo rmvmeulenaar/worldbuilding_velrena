@@ -428,5 +428,82 @@
 - **status:** actief
 - **niveau:** fout
 <!-- /REC -->
+<!-- REC regel -->
+### R-tijdperk_onbekend · Een levende rij heeft een tijdperk-label dat niet op de tijdas valt (tijdperk_label.fase is leeg).
+- **code:** R-tijdperk_onbekend
+- **domein:** tijd
+- **omschrijving:** Een levende rij heeft een tijdperk-label dat niet op de tijdas valt (tijdperk_label.fase is leeg).
+- **sql_test:** select k.code,'tijdperk niet op de tijdas: '||k.tijdperk from canon k join tijdperk_label l on l.label=k.tijdperk where l.fase is null and k.status in ('vastgesteld','voorlopig')
+- **bron:** Z44 (afgeleid_motor.tijdas)
+- **goedgekeurd_door:** architect Z44 (signaal)
+- **status:** actief
+- **niveau:** signaal
+<!-- /REC -->
+<!-- REC regel -->
+### R-fantasie_zonder_toekomst · Een erotische fantasie (VOOR-, KINK-, RIT-) zonder link naar een LOT-Z44-rij of GEB-Z45-losbandige-jaren: haar toekomst na 801 is onbekend.
+- **code:** R-fantasie_zonder_toekomst
+- **domein:** tijd
+- **omschrijving:** Een erotische fantasie (VOOR-, KINK-, RIT-) zonder link naar een LOT-Z44-rij of GEB-Z45-losbandige-jaren: haar toekomst na 801 is onbekend.
+- **sql_test:** select code,'fantasie zonder toekomst: '||coalesce(naam,'') from fantasie_kern where afh is null
+- **bron:** Z47 (afgeleid_motor.fantasie_tijd)
+- **goedgekeurd_door:** architect Z47 (signaal)
+- **status:** actief
+- **niveau:** signaal
+<!-- /REC -->
+<!-- REC regel -->
+### R-drager_bron · Een drager zonder levende bronrij naast haar behoefte en fase (DRAGERS.md criterium 1).
+- **code:** R-drager_bron
+- **domein:** tijd
+- **omschrijving:** Een drager zonder levende bronrij naast haar behoefte en fase (DRAGERS.md criterium 1).
+- **sql_test:** select d.code,'drager zonder bron' from drager d where not exists (select 1 from drager_bron b where b.drager=d.code) or d.behoefte is null
+- **bron:** Z48 (architectuur/DRAGERS.md)
+- **goedgekeurd_door:** architect Z48 (fout)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-drager_tijd · Een drager bestaat eerder dan haar bron (DRAGERS.md criterium 2).
+- **code:** R-drager_tijd
+- **domein:** tijd
+- **omschrijving:** Een drager bestaat eerder dan haar bron (DRAGERS.md criterium 2).
+- **sql_test:** select b.drager,'drager in fase '||d.fase||' vóór bron '||b.bron||' (fase '||b.bron_fase||')' from drager_bron b join drager d on d.code=b.drager where b.bron_fase is not null and d.fase is not null and d.fase<b.bron_fase
+- **bron:** Z48 (architectuur/DRAGERS.md)
+- **goedgekeurd_door:** architect Z48 (fout)
+- **status:** actief
+- **niveau:** fout
+<!-- /REC -->
+<!-- REC regel -->
+### R-fantasie_onmogelijk · Een erotische fantasie is in een tijdperk onmogelijk: zoek een drager (DRAGERS.md criterium 9).
+- **code:** R-fantasie_onmogelijk
+- **domein:** tijd
+- **omschrijving:** Een erotische fantasie is in een tijdperk onmogelijk: zoek een drager (DRAGERS.md criterium 9).
+- **sql_test:** select code,'onmogelijk in fase '||fase from fantasie_status where status='onmogelijk'
+- **bron:** Z48 (architectuur/DRAGERS.md)
+- **goedgekeurd_door:** architect Z48 (signaal)
+- **status:** actief
+- **niveau:** signaal
+<!-- /REC -->
+<!-- REC regel -->
+### R-lijn_naar_begin · Een verhaal, persoon of verhaalpad zonder keten van links naar de Voortijd (BESLUIT-Z51-1: in alle fasen het lijntje terug naar het begin).
+- **code:** R-lijn_naar_begin
+- **domein:** tijd
+- **omschrijving:** Een verhaal, persoon of verhaalpad zonder keten van links naar de Voortijd (BESLUIT-Z51-1: in alle fasen het lijntje terug naar het begin).
+- **sql_test:** select code,'geen lijn naar het begin ('||soort||', fase '||coalesce(fase,'?')||')' from lijn_begin where stappen is null
+- **bron:** Z51 (afgeleid_motor.lijn_naar_begin)
+- **goedgekeurd_door:** Rogier, BESLUIT-Z51-1 (signaal)
+- **status:** actief
+- **niveau:** signaal
+<!-- /REC -->
+<!-- REC regel -->
+### R-premisse_hoofs · Een levende premisse met hoofse of lyrische omschrijving van seks ("een nacht met", "zich geven", "beminnen", "de huid onthoudt"); zeg het gewoon (TOON_VLEES_EN_BLOED.md, Taal).
+- **code:** R-premisse_hoofs
+- **domein:** taal
+- **omschrijving:** Een levende premisse met hoofse of lyrische omschrijving van seks ("een nacht met", "zich geven", "beminnen", "de huid onthoudt"); zeg het gewoon (TOON_VLEES_EN_BLOED.md, Taal).
+- **sql_test:** select code,'hoofse taal in premisse' from verhaal_profiel where coalesce(vervangen_door,'')='' and status='voorlopig' and (lower(premisse) like '% een nacht met %' or lower(premisse) like '% de nacht met %' or lower(premisse) like '% zich geeft%' or lower(premisse) like '% zich aan hem geeft%' or lower(premisse) like '% bemin%' or lower(premisse) like '% proeft hem%' or lower(premisse) like '% proeft haar%' or lower(premisse) like '% neemt haar op%' or lower(premisse) like '% het bed deelt%' or lower(premisse) like '% het bed delen%' or lower(premisse) like '%huid onthoudt%' or lower(premisse) like '%lichaam onthoudt%' or lower(premisse) like '%lichaam vertelt%' or lower(premisse) like '%huid vertelt%' or lower(premisse) like '% zijn gunst %' or lower(premisse) like '% haar gunst %')
+- **bron:** Z53 (Rogier, 6 november 2026)
+- **goedgekeurd_door:** Rogier (opdracht Z53, signaal)
+- **status:** actief
+- **niveau:** signaal
+<!-- /REC -->
 
 <!-- SECTIE: BOOG -->

@@ -2639,5 +2639,15 @@
 - **status:** opgelost
 - **verwijst_naar:** GES-officiele-versie;EROS-GRENZEN-Z7;BESLUIT-Z38-11
 <!-- /REC -->
+<!-- REC wrijving -->
+### WRIJ-Z42-kruit · Z42 materiaal: kruit en kanonnen
+- **code:** WRIJ-Z42-kruit
+- **titel:** Z42 materiaal: kruit en kanonnen
+- **delen_die_botsen:** PLEK-Z4-zout-2-Z5b, ACTIE-Z9-5, OORLOG-Z9-16, OORLOG-Z9-47, HELD-Z10-35
+- **beschrijving:** 5 rij(en) botsen met BESLUIT-Z42-1: kruit en kanonnen. Kruit vraagt salpeter, zwavel en houtskool; dat kan zonder machinekracht, maar het is een grote stap in de techniek. Voorstel: kanonnen alleen in Kharvos, of vervangen door zegelglas-werptuigen.
+- **type:** canon
+- **status:** open
+- **verwijst_naar:** BESLUIT-Z42-1;PLEK-Z4-zout-2-Z5b;ACTIE-Z9-5;OORLOG-Z9-16;OORLOG-Z9-47;HELD-Z10-35
+<!-- /REC -->
 
 <!-- SECTIE: OPEN_VRAGEN -->

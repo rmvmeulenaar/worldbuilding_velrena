@@ -256,8 +256,150 @@ def persoon_identiteit(c):
   c.execute('drop view if exists v_persoon')
   c.execute("create view v_persoon as select persoon,max(naam) naam,count(*) codes,group_concat(code,';') leden from persoon_identiteit group by persoon")
 
+def tijdas(c):
+  """Z44: één onderliggende tijdas. Afgeleid uit de FASE-rijen ('X tot Y' aan het begin van het feit), de anker-rij TIJD-anker
+  (jaren BP van 801) en alle tijdperk-labels in de canon. tijdas: fase, code, naam, van, tot (Zegeljaar), van_bp, tot_bp, voorstel.
+  tijdperk_label: elk gebruikt tijdperk-label -> fase (NULL = onbekend; regel R-tijdperk_onbekend meldt dat als signaal)."""
+  import re as _re
+  for t in ('tijdas','tijdperk_label'): c.execute(f'drop table if exists {t}')
+  c.execute('create table tijdas(fase integer primary key, code text, naam text, van integer, tot integer, van_bp integer, tot_bp integer, voorstel integer)')
+  c.execute('create table tijdperk_label(label text primary key, fase integer)')
+  num=lambda x:int(x.replace('.',''))
+  rij=[]
+  for code,tp,ond,feit,ib in c.execute("select code,tijdperk,onderwerp,feit,coalesce(ideeenbank,0) from canon where code like 'FASE-%' and code not like 'FASE-OVERZICHT%' and status in ('vastgesteld','voorlopig')"):
+    m=_re.match(r'\s*(-?[\d.]+)\s+tot\s+(-?[\d.]+)',feit or '')
+    if m: rij.append((num(m.group(1)),num(m.group(2)),code,tp,ond,ib))
+  rij.sort()
+  a=c.execute("select feit from canon where code='TIJD-anker' and status in ('vastgesteld','voorlopig')").fetchone()
+  A=None
+  if a:
+    m=_re.search(r'(\d{1,3}(?:\.\d{3})+|\d{4,6}) jaar',a[0]); A=num(m.group(1)) if m else None
+  bp=lambda j: None if A is None else A-(j-801)
+  voor=[r for r in rij if r[1]<=801]; na=[r for r in rij if r[0]>=801]
+  F=[(i,)+r for i,r in enumerate(voor)]+[(len(voor),801,802,'HEDEN','801 (nu)','Heden',0)]+[(len(voor)+1+i,)+r for i,r in enumerate(na)]
+  namen={}
+  for f,van,tot,code,tp,ond,ib in F:
+    nm=(tp or ond or code)
+    c.execute('insert into tijdas values(?,?,?,?,?,?,?,?)',(f,code,nm,van,tot,bp(van),bp(tot),ib))
+    for x in {tp,ond}:
+      if x: namen[_re.sub(r'^\d+\s+','',x).split(' (')[0].lower()]=f
+  fasen={f for f,*_ in F}
+  for (lab,) in c.execute("select distinct tijdperk from canon where tijdperk is not null and trim(tijdperk)<>''").fetchall():
+    m=_re.match(r'\s*(\d+)',lab);f=None
+    if m:
+      k=int(m.group(1));f=len(voor) if k==801 else (k if k in fasen else None)
+    if f is None and 'na 801' in lab: f=len(voor)+1 if len(voor)+1 in fasen else None
+    if f is None:
+      kern=_re.sub(r'^\d+\s+','',lab).split(' (')[0].split(';')[0].strip().lower()
+      f=namen.get(kern) or next((v for n,v in namen.items() if n and (n in lab.lower())),None)
+    c.execute('insert or replace into tijdperk_label values(?,?)',(lab,f))
+  c.execute('drop view if exists v_tijdlijn')
+  c.execute("""create view v_tijdlijn as select k.code,k.categorie,k.onderwerp,k.tijdperk,t.fase,t.naam fase_naam,t.van,t.tot,t.van_bp,t.tot_bp,coalesce(k.ideeenbank,0) ideeenbank
+    from canon k join tijdperk_label l on l.label=k.tijdperk left join tijdas t on t.fase=l.fase where k.status in ('vastgesteld','voorlopig')""")
+
+def fantasie_tijd(c):
+  """Z47: per erotische fantasie (VOOR-, KINK-, RIT-) het verleden, de afhankelijkheden en de status per tijdperk na 801. Afgeleid uit de canon zelf:
+  - afhankelijkheid = een link in verwijst_naar naar een LOT-Z44-rij (hoe iets verdwijnt) of naar GEB-Z45-losbandige-jaren (einde van het stalsysteem);
+    LOT-Z44-ishvar betekent: alleen gewone mensen nodig.
+  - verlies_fase = de fase van het tijdperk van die rij (tijdperk_label); verleden = de vroegste FASE-rij waarnaar de fantasie verwijst.
+  - status per fase: echt (voor het verlies), zeldzaam (in het tijdperk van het verlies), daarna 'spel' (macht of instituut weg; rollenspel
+    tussen volwassenen) of 'onmogelijk' (een lichaam of volk dat er niet meer is). Rijen met 'niet-seksueel' tellen niet mee."""
+  import re as _re
+  for t in ('fantasie_kern','fantasie_status','drager','drager_bron'): c.execute(f'drop table if exists {t}')
+  c.execute('create table drager(code text primary key, behoefte text, fase integer)')
+  c.execute('create table drager_bron(drager text, bron text, bron_fase integer, primary key(drager,bron))')
+  c.execute('create table fantasie_kern(code text primary key, naam text, afh text, soort text, verleden_fase integer, verlies_fase integer)')
+  c.execute('create table fantasie_status(code text, fase integer, status text, primary key(code,fase))')
+  LICHAAM={'skerra','ves-lethi','kluwers','aelthir','dhurn','tharn','orrim','sael-mor','oevrin','myrrhen','vathren','grauwen','reuzenstieren','leegtewormen'}
+  BLIJFT={'ishvar','oevrin','myrrhen'}
+  lab=dict(c.execute('select label,fase from tijdperk_label').fetchall()); fase_code=dict(c.execute('select code,fase from tijdas').fetchall())
+  tp=dict(c.execute("select code,tijdperk from canon where status in ('vastgesteld','voorlopig')").fetchall())
+  ORDE=['echt','zeldzaam','spel','onmogelijk']
+  levend={r[0] for r in c.execute("select code from canon where status in ('vastgesteld','voorlopig')")}
+  DR={}  # Z48: dragers = DRAGER-*-rijen; behoefte = eerste link naar LOT-Z44-/GEB-Z45-losbandige-jaren; bron = overige levende links (geen FASE)
+  for code,verw,tpd in c.execute("select code,coalesce(verwijst_naar,''),tijdperk from canon where code like 'DRAGER-%' and status in ('vastgesteld','voorlopig')").fetchall():
+    refs=[x.strip() for x in verw.split(';') if x.strip()]
+    beh=next((x for x in refs if x.startswith('LOT-Z44-') or x=='GEB-Z45-losbandige-jaren'),None); fd=lab.get(tpd)
+    c.execute('insert into drager values(?,?,?)',(code,beh,fd))
+    for b in refs:
+      if b==beh or b.startswith('FASE-') or b not in levend: continue
+      c.execute('insert or ignore into drager_bron values(?,?,?)',(code,b,lab.get(tp.get(b))))
+    if beh and fd is not None: DR.setdefault(beh,[]).append(fd)
+  for code,ond,feit,verw in c.execute("""select code,onderwerp,feit,coalesce(verwijst_naar,'') from canon where status in ('vastgesteld','voorlopig')
+      and (code like 'VOOR-%' or code like 'KINK-%' or code like 'RIT-%') and categorie in ('Voorkeuren','Kinks en situaties','Extreme rituelen','Rituelen')""").fetchall():
+    if 'niet-seksueel' in (feit or ''): continue
+    refs=[x.strip() for x in verw.split(';') if x.strip()]
+    anker=[x for x in refs if x.startswith('LOT-Z44-') or x=='GEB-Z45-losbandige-jaren']
+    vf=[fase_code[x] for x in refs if x.startswith('FASE-') and x in fase_code]
+    m=_re.search(r'Oorsprong: ([A-Z][\w-]+)',feit or '')
+    if not vf and m and lab.get(tp.get(m.group(1))) is not None: vf=[lab[tp[m.group(1)]]]
+    if not anker:
+      c.execute('insert into fantasie_kern values(?,?,?,?,?,?)',(code,ond,None,None,min(vf) if vf else None,None)); continue
+    st={f:'echt' for f in range(9,17)}; soorten=set(); verlies=[]
+    for a in anker:
+      n='stalsysteem' if a.startswith('GEB-Z45') else a[8:]
+      if n in BLIJFT and n!='oevrin': soorten.add('mens'); continue
+      fv=lab.get(tp.get(a)); fv=14 if n=='oevrin' else (9 if n=='stalsysteem' else fv)
+      if fv is None: continue
+      verlies.append(fv); s='lichaam' if n in LICHAAM else 'macht'; soorten.add(s)
+      for f in range(9,17):
+        k='echt' if f<fv else ('zeldzaam' if f<=fv+1 else ('onmogelijk' if s=='lichaam' else 'spel'))  # BESLUIT-Z51-1: legende = zeldzaam, weg een tijdperk later
+        if k!='echt' and any(d<=f for d in DR.get(a,[])): k='echt'
+        if ORDE.index(k)>ORDE.index(st[f]): st[f]=k
+    c.execute('insert into fantasie_kern values(?,?,?,?,?,?)',(code,ond,';'.join(anker),','.join(sorted(soorten)),min(vf) if vf else None,min(verlies) if verlies else None))
+    for f,k in st.items(): c.execute('insert into fantasie_status values(?,?,?)',(code,f,k))
+  c.execute('drop view if exists v_fantasie_matrix')
+  c.execute("""create view v_fantasie_matrix as select s.fase,t.naam,sum(s.status='echt') echt,sum(s.status='zeldzaam') zeldzaam,sum(s.status='spel') spel,
+    sum(s.status='onmogelijk') onmogelijk from fantasie_status s left join tijdas t on t.fase=s.fase group by s.fase""")
+
+def lijn_naar_begin(c):
+  """Z51 (Rogier: 'alle fasen kunnen we het lijntje terughalen naar het begin'): voor elk verhaal en verhaalpad de kortste keten van links
+  (verwijst_naar, hangt_samen_met, kern_codes, drager) naar een rij uit de Voortijd (fase 0: landing, Makers, schip). Omgekeerde BFS vanaf alle fase-0-rijen."""
+  import collections as _c
+  c.execute('drop table if exists lijn_begin')
+  c.execute('create table lijn_begin(code text primary key, soort text, fase integer, stappen integer, keten text)')
+  lab=dict(c.execute('select label,fase from tijdperk_label').fetchall())
+  rij={code:(tp,cat) for code,tp,cat in c.execute("select code,tijdperk,categorie from canon where status in ('vastgesteld','voorlopig')")}
+  uit=_c.defaultdict(set)
+  def lev_(x):
+    seen=set()
+    while x and x not in rij and x not in seen:
+      seen.add(x); r=c.execute('select vervangen_door from canon where code=?',(x,)).fetchone()
+      if not r or not r[0] or r[0].startswith('personage_profiel:'): return x
+      x=r[0].split(';')[0].strip()
+    return x
+  for code,v,h in c.execute("select code,coalesce(verwijst_naar,''),coalesce(hangt_samen_met,'') from canon where status in ('vastgesteld','voorlopig')"):
+    for x in (v+';'+h).split(';'):
+      x=lev_(x.strip())
+      if x and x in rij and x!=code: uit[code].add(x)
+  vp={}
+  for code,fase,k,d in c.execute("select code,fase,coalesce(kern_codes,''),coalesce(drager,'') from verhaal_profiel where coalesce(vervangen_door,'')='' and status='voorlopig'"):
+    vp[code]=fase
+    for x in (k+';'+d).split(';'):
+      x=lev_(x.strip())
+      if x and x in rij: uit[code].add(x)
+  inn=_c.defaultdict(set)
+  for a,bs in uit.items():
+    for b in bs: inn[b].add(a)
+  doel=sorted(x for x,(tp,_) in rij.items() if lab.get(tp)==0 or x.startswith('ORIGIN-'))
+  dist={x:0 for x in doel}; volg={}; q=_c.deque(doel)
+  while q:
+    b=q.popleft()
+    for a in sorted(inn[b]):
+      if a not in dist: dist[a]=dist[b]+1; volg[a]=b; q.append(a)
+  VCAT=('Verhaal','Horror','Comedy','Romantiek','Oorlog','Held','Actie','Mythe','Drager','Personage','Tijdperk','Cultuur','Geschiedenis')
+  def keten(x):
+    k=[x]
+    while k[-1] in volg and len(k)<30: k.append(volg[k[-1]])
+    return ' > '.join(k)
+  for x,(tp,cat) in rij.items():
+    if cat in VCAT: c.execute('insert into lijn_begin values(?,?,?,?,?)',(x,cat,lab.get(tp),dist.get(x),keten(x) if x in dist else None))
+  for x,fase in vp.items(): c.execute('insert or replace into lijn_begin values(?,?,?,?,?)',(x,'verhaalpad',lab.get(fase),dist.get(x),keten(x) if x in dist else None))
+  c.execute('drop view if exists v_lijn_begin')
+  c.execute("create view v_lijn_begin as select fase,soort,count(*) n,sum(stappen is not null) met_lijn,round(avg(stappen),1) gem_stappen,max(stappen) max_stappen from lijn_begin group by fase,soort")
+
 def bouw(c):
-  schema(c);herkomst(c);personage_profiel(c);relaties(c);per_relaties(c);anker_kopie(c);persoon_identiteit(c)
+  schema(c);herkomst(c);personage_profiel(c);relaties(c);per_relaties(c);anker_kopie(c);persoon_identiteit(c);tijdas(c);fantasie_tijd(c);lijn_naar_begin(c)
   import os,sys,importlib.util as iu  # Z37: rijkdom_lid (afgeleid) als de tabel domein bestaat
   pad=os.path.join(os.path.dirname(os.path.abspath(__file__)),'z37','rijkdom.py')
   if os.path.exists(pad):

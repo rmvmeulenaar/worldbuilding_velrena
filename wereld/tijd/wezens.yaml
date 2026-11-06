@@ -1,0 +1,44 @@
+# Parameters van de verliessimulatie (tijd/verlies.py). Elk getal komt uit een canonrij (bron) of is een bandbreedte die de simulatie afloopt.
+# model:
+#   generatie: P = f ** (t / gen)                  (een eigenschap die per generatie verzwakt)
+#   steen:     P = s(t) ** d,  s(t) = 0.5 ** (t / H_steen)   (afhankelijk van de Sterrensteen / Makersenergie)
+#   demo:      P = exp(r * t)                     (bevolking krimpt of mengt; r < 0)
+#   blijft:    P = 1                              (niet afhankelijk van Zegel of steen)
+# groep: welk tijdperk eindigt als deze groep legende wordt (zie tijdperken in verlies.py).
+steen_halfwaarde: [400, 2000]      # jaren; TECHNO-REGEL-V4-Z42: kernen branden eeuwen, niemand kan ze bijvullen; nieuw kristal kan niet worden gemaakt
+wezens:
+  gaven-mannen:  {model: generatie, f: [0.72, 0.88], gen: 25, groep: ja, bron: [BESLUIT-Z12-2, BESLUIT-Z3-WRIJ-018, MAGIE-kracht-duur], waarom: "alleen gegeven kracht blijft en die wordt elke generatie zwakker; de derde weg dooft de gaven deels"}
+  vathren:       {model: generatie, f: [0.55, 0.8], gen: 25, groep: ja, bron: [VOLK-vathren-Z6], waarom: "zegelgeboren; zonder Zegel worden hun kinderen gewone kinderen"}
+  zegellicht:    {model: steen, d: [2, 4], groep: ja, bron: [PLEK-Z4-saelith-1, ORIGIN-WAAROM-10], waarom: "licht van de Wieg in de tempels; het eerste wat dooft"}
+  karruk-storm:  {model: generatie, f: [0.75, 0.9], gen: 25, groep: ja, bron: [VOLK-karrûk-Z6-Z38], waarom: "hun vonk ontladen ze in strijd; met de gaven verdwijnt de reden voor de Storm-religie"}
+  grauwen:       {model: demo, r: [-0.02, -0.005], groep: ja, bron: [VOLK-grauwen], waarom: "zonder register geen uitsluiting; ze mengen binnen enkele generaties en verdwijnen als volk (een goed einde)"}
+  reuzenstieren: {model: demo, r: [-0.08, -0.03], groep: ja, bron: [DEG-stalreus], waarom: "onvruchtbaar, sterven jong; als de stallen opengaan zijn ze binnen een mensenleven weg"}
+  skerra:        {model: generatie, f: [0.82, 0.95], gen: 25, groep: volken, bron: [VOLK-skerra], waarom: "de Zegel maakte de verandering erfelijk; zonder Zegel komen er steeds meer kinderen zonder vleugels"}
+  ves-lethi:     {model: generatie, f: [0.85, 0.96], gen: 25, groep: volken, bron: [VOLK-ves-lethi-Z6, BESLUIT-3], waarom: "lichamen werden instabiel in de zegelschaduw; de Harrow-kern in Kharvos houdt het langer vast"}
+  kluwers:       {model: demo, r: [-0.002, -0.0005], groep: volken, bron: [VOLK-kluwer], waarom: "hun darren sterven niet meer; de korf is niet meer nodig en valt uiteen in families"}
+  registerkraaien-stem: {model: generatie, f: [0.97, 0.995], gen: 10, groep: volken, bron: [BESLUIT-Z7-KRAAI, BESLUIT-Z27-1], waarom: "de stem van Ysa leeft alleen door nabootsing; elke vogelgeneratie kopieert iets minder goed"}
+  dhurn:         {model: steen, d: [1, 2.5], groep: helden, bron: [VOLK-dhurn], waarom: "vrouwen worden pas vruchtbaar na een jaar bij de steen; dooft de steen, dan stopt het volk, en het bloed gaat op in de mensen via de bloedgezanten"}
+  orrim:         {model: steen, d: [0.6, 1.5], groep: helden, bron: [VOLK-orrim, BESLUIT-Z32-11], waarom: "in hun lichaam groeit Sterrensteen; zonder stof stopt de groei en worden ze beelden"}
+  aelthir:       {model: demo, r: [-0.0035, -0.0012], groep: helden, bron: [VOLK-aelthir-V5, D1-aelthir-ziekte], waarom: "ze leven 900 jaar, trekken zich na 400 terug in de mist, één kind per eeuw"}
+  tharn:         {model: demo, r: [-0.0025, -0.0008], groep: helden, bron: [VOLK-tharn, UIT-VOLK-tharn], waarom: "minder dan 900, één kind per vijftig jaar, draagtijd drie jaar; ze weten dat ze uitsterven"}
+  wiegkasten:    {model: steen, d: [1, 3], groep: helden, bron: [TECHNO-metaal-genees, ORIGIN-5], waarom: "machines van de Wieg; ze draaien op de kern"}
+  sterrensteen:  {model: steen, d: [1, 1], groep: helden, bron: [BESLUIT-Z42-1, BESLUIT-Z4-sterrensteen], waarom: "het siliciumhart zelf; zijn gloed is de maat van alle Makerstechniek"}
+  leegtewormen:  {model: steen, d: [0.5, 1.2], groep: vertrek, bron: [TECHNO-bio-schip, OORSPRONG-bio-8], waarom: "levende schepen die Makersbiologie nodig hebben; verwilderde wormen houden het het langst in de diepte"}
+  wortelstem:    {model: steen, d: [0.4, 1], groep: vertrek, bron: [YSA-Z32-6, BESLUIT-Z12-wortelstem], waarom: "Ysara zegt ja op de vraag of ze wil blijven; ze spreekt zolang de steen spreekt"}
+  kluisschip:    {model: steen, d: [0.2, 0.6], groep: vertrek, bron: [TECHNO-metaal-schip-Z42], waarom: "in de Leegte geen schimmel; het vliegt tot de kern op is"}
+  sael-mor:      {model: demo, r: [-0.0015, -0.0005], groep: mensen, bron: [VOLK-sael-mor], waarom: "buiten de Zegel ontstaan; ze mengen langzaam via de havens"}
+  oevrin:        {model: blijft, groep: mensen, bron: [VOLK-oevrin], waarom: "uitwendige bevruchting, de Zegel raakte hen nooit; ze verdwijnen pas als hun slik onder zee verdwijnt (zie aarde)"}
+  myrrhen:       {model: blijft, groep: mensen, bron: [VOLK-myrrhen-Z6, FEE-Z37-myrrhen-ringen], waarom: "schimmel heeft geen ja nodig; het net leeft tot vandaag als feeënring"}
+  ishvar:        {model: blijft, groep: mensen, bron: [VOLK-ishvar], waarom: "mensen zonder Zegel; zij zijn het begin van de gewone mensheid"}
+# De aarde: kennis om het anker aannemelijk te maken (fantasie, aannemelijk gemaakt; ter controle). Jaren BP = jaren voor heden.
+aarde:
+  laag_water: [29000, 16000]     # zeespiegel ~120 m lager tijdens en rond het laatste glaciale maximum (ca. 26.500-19.000 BP); continentaal plat droog (Sunda, Doggerland, Perzische Golf)
+  amerika: [23000, 15000]        # eerste mensen in Amerika (Monte Verde ca. 14.500 BP, White Sands-sporen 21.000-23.000 BP, omstreden)
+  schrift: 5200                  # eerste schrift (Uruk, ca. 3200 v.Chr.); eerste geschreven mythen ca. 4.600 BP
+# Z45: zeden. Hoe sensueel en hoe polyamoreus de gewone cultuur is, als aandeel van het niveau in 801 (1 = zoals in 801).
+# Cultuur slijt trager dan biologie: een gewoonte wordt doorgegeven ook als haar reden weg is (Bartlett; Parry/Lord). Telt niet mee voor de tijdperkgrenzen. Ondergrens: wat in elke tijd blijft (mensen blijven mensen).
+zeden:
+  polyamorie:      {model: generatie, f: [0.975, 0.992], gen: 25, vloer: 0.15, bron: [BESLUIT-7, KETEN-kruik-ontvangst, VERHAAL-fase4-Z36], waarom: "kracht reisde met zaad en mannen waren 1 op 100: delen was de norm en exclusieve liefde ketterij; als de verhouding en de vonk wegvallen, wordt delen een keuze"}
+  ontvangst-feest: {model: generatie, f: [0.93, 0.975], gen: 25, vloer: 0.05, bron: [KETEN-kruik-ontvangst, GES-tijdlijn, GEB-r10-zaadhonger], waarom: "de Ontvangst bestond omdat bewaard zaad niet werkt; zonder gave blijft er een feest met vuren over"}
+  lichaamsopenheid: {model: generatie, f: [0.985, 0.997], gen: 25, vloer: 0.3, bron: [HAND-pelgrimszalving, REG-groenmuil, HAND-maanzalving], waarom: "naakt zalven, aanraken als groet, het lichaam als gewoon onderwerp; dat slijt het traagst"}
+  bloedbinding:    {model: generatie, f: [0.6, 0.8], gen: 25, vloer: 0.0, bron: [RIT-ontzegging-binding, RIT-bloedverbinding], waarom: "binding werkt via gave en bloed; met de ja en de dovende gaven is het binnen enkele generaties weg"}

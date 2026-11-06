@@ -26674,7 +26674,7 @@
 - **onderwerp:** Liora van Hallowyn
 - **wat:** Naam: Liora van Hallowyn. Volk: mens. Regio: ambergaard. Huis: -. Rol: hoofdpersoon. Fase: 801 (nu), jaar 801. Wil: Teo beschermen en de waarheid over de Zegel, en bij de Wortel komen, ook als ze daarvoor Teo gebruikt (BESLUIT-Z32-9). Durft: zaadkracht zonder binding verdragen. Verbergt: haar vervalste register. Wat de omgeving weet: een arme boerendochter (25). Seksuele voorkeur: VOOR-overgave (3/5), VOOR-teder (4/5), VOOR-vrouwenliefde (3/5); kinks: tederheid met Aeron-as, vrouwenliefde met Sef. Lichaam/vervorming: gloed bij Ontvangst (LICH-liora). Relaties: halfzus van Teo, geliefde van Aeron-as en Sef. Rol in de keten: GEB-r10-quest-begin. Geheim: deels Ishvar-bloed?. Einde: open. Verhaalhaken: Romance: halfzus van Teo, geliefde van Aeron-as en Sef; belemmering: haar vervalste register. Intrige: wil Teo beschermen en de waarheid over de Zegel, maar verbergt haar vervalste register. Erotiek: tederheid met Aeron-as, vrouwenliefde met Sef. Thriller: geheim "deels Ishvar-bloed?" kan uitkomen; lot nog open (klok loopt in 801). Eigen gevoel: verlangen, al jaren: Teo beschermen en de waarheid over de Zegel; en de vermoeidheid van het steeds weer moeten wachten. Zintuig: Hooi, aarde en het lichte gloeien van haar huid bij zegellicht. Haak: Liora verdraagt zaadkracht zonder binding, en dat maakt haar gevaarlijk voor de Orde. Functie: VERH — legt de kern van de hoofdpersoon vast. Crosslinks: REG-ambergaard, GEB-r10-quest-begin, GEB-heden, VOOR-overgave, VOOR-teder, VOOR-vrouwenliefde, HAAK-techno-bio-2. Schuld (Z32, BESLUIT-Z32-9): in het midden van boek 1 zegt ze ja namens Teo: ze laat hem de Lijngraver zijn die de Lijn naar de Wortel opent, zonder het hem te vragen, en het kost hem zijn gave. Ze ontkent het voor zichzelf. Daardoor is haar doel niet alleen beschermen maar ook gebruiken, en is de derde weg een boete: eerst moet ze Teo zijn eigen ja teruggeven (en zijn nee aanvaarden). Niet-seksueel; nooit een seksuele rol met Teo.
 - **waarom:** Rogier: alles zoals aanbevolen, 2026-10-31; vervangt PER-liora-profiel. Liora's schuld (BESLUIT-Z32-9); Kern-rij aangepast via besluit
-- **status:** vastgesteld
+- **status:** voorlopig, vervangen
 - **ronde:** 62
 - **hangt_samen_met:** REG-ambergaard;GEB-r10-quest-begin;GEB-heden;VOOR-overgave;VOOR-teder;VOOR-vrouwenliefde;PER-liora;PER-liora-profiel
 - **verwijst_naar:** REG-ambergaard;GEB-r10-quest-begin;GEB-heden;VOOR-overgave;VOOR-teder;VOOR-vrouwenliefde;HAAK-techno-bio-2
@@ -26687,13 +26687,13 @@
 - **aantrekking_bron:** 
 - **aantrekking:** 
 - **techniek:** bio
-- **draagkracht:** Kern
+- **draagkracht:** Kleur
 - **ideeenbank:** 0
 - **veilig_18plus:** 0
 - **veilig_variant:** 
-- **vervangen_door:** 
+- **vervangen_door:** PER-liora-profiel-Z32-Z51
 - **feit_schoon:** Naam: Liora van Hallowyn. Volk: mens. Regio: ambergaard. Huis: -. Rol: hoofdpersoon. Fase: 801 (nu), jaar 801. Wil: Teo beschermen en de waarheid over de Zegel, en bij de Wortel komen, ook als ze daarvoor Teo gebruikt (BESLUIT-Z32-9). Durft: zaadkracht zonder binding verdragen. Verbergt: haar vervalste register. Wat de omgeving weet: een arme boerendochter (25). Seksuele voorkeur: VOOR-overgave (3/5), VOOR-teder (4/5), VOOR-vrouwenliefde (3/5); kinks: tederheid met Aeron-as, vrouwenliefde met Sef. Lichaam/vervorming: gloed bij Ontvangst (LICH-liora). Relaties: halfzus van Teo, geliefde van Aeron-as en Sef. Rol in de keten: GEB-r10-quest-begin. Geheim: deels Ishvar-bloed?. Einde: open. Verhaalhaken: Romance: halfzus van Teo, geliefde van Aeron-as en Sef; belemmering: haar vervalste register. Intrige: wil Teo beschermen en de waarheid over de Zegel, maar verbergt haar vervalste register. Erotiek: tederheid met Aeron-as, vrouwenliefde met Sef. Thriller: geheim "deels Ishvar-bloed?" kan uitkomen; lot nog open (klok loopt in 801). Eigen gevoel: verlangen, al jaren: Teo beschermen en de waarheid over de Zegel; en de vermoeidheid van het steeds weer moeten wachten. Zintuig: Hooi, aarde en het lichte gloeien van haar huid bij zegellicht. Haak: Liora verdraagt zaadkracht zonder binding, en dat maakt haar gevaarlijk voor de Orde. Functie: VERH — legt de kern van de hoofdpersoon vast. Crosslinks: REG-ambergaard, GEB-r10-quest-begin, GEB-heden, VOOR-overgave, VOOR-teder, VOOR-vrouwenliefde, HAAK-techno-bio-2. Schuld (Z32, BESLUIT-Z32-9): in het midden van boek 1 zegt ze ja namens Teo: ze laat hem de Lijngraver zijn die de Lijn naar de Wortel opent, zonder het hem te vragen, en het kost hem zijn gave. Ze ontkent het voor zichzelf. Daardoor is haar doel niet alleen beschermen maar ook gebruiken, en is de derde weg een boete: eerst moet ze Teo zijn eigen ja teruggeven (en zijn nee aanvaarden). Niet-seksueel; nooit een seksuele rol met Teo.
-- **draagkracht_handmatig:** Kern
+- **draagkracht_handmatig:** 
 - **bron_handmatig:** 
 - **epistemiek:** 
 <!-- /REC -->
@@ -27596,5 +27596,3125 @@
 - **draagkracht_handmatig:** 
 - **bron_handmatig:** 
 - **epistemiek:** 
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-merel-glas · Merel van de Oude Weg
+- **code:** PER-Z50-merel-glas
+- **categorie:** Personage
+- **onderwerp:** Merel van de Oude Weg
+- **wat:** Merel van de Oude Weg (mens, Ambergaard) is geboren rond Zegeljaar 812 en is lampenmaakster die het gaveglas van haar moeder erft. Ze wil weten van wie de warmte in het glas komt. Wat niemand weet, is dat ze heeft het glas ooit zelf laten bijvullen. Het kost haar huwelijk, als ze kiest. Uit de lijn van VOLK-ishvar, GEB-Z45-losbandige-jaren.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-ishvar;GEB-Z45-losbandige-jaren;VERHAAL-Z44-tijdperk-9;FASE-z44-ja
+- **verwijst_naar:** VOLK-ishvar;GEB-Z45-losbandige-jaren;VERHAAL-Z44-tijdperk-9;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Merel van de Oude Weg (mens, Ambergaard) is geboren rond Zegeljaar 812 en is lampenmaakster die het gaveglas van haar moeder erft. Ze wil weten van wie de warmte in het glas komt. Wat niemand weet, is dat ze heeft het glas ooit zelf laten bijvullen. Het kost haar huwelijk, als ze kiest. Uit de lijn van VOLK-ishvar, GEB-Z45-losbandige-jaren.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-khaled-hoedster · Iskan van Qesh
+- **code:** PER-Z50-khaled-hoedster
+- **categorie:** Personage
+- **onderwerp:** Iskan van Qesh
+- **wat:** Iskan van Qesh (ishvar, Saelith) is geboren rond Zegeljaar 771 en is hoedster van de eerste Vrije Ontvangst. Hij wil een feest leiden zonder iemand te beschamen. Wat niemand weet, is dat hij heeft zelf nooit gekozen. Het kost zijn rust: iedereen wil nu met hem praten. Uit de lijn van VOLK-ishvar, HUI-qesh-Z6.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-ishvar;HUI-qesh-Z6;COMEDY-Z46-9-comedy;FASE-z44-ja
+- **verwijst_naar:** VOLK-ishvar;HUI-qesh-Z6;COMEDY-Z46-9-comedy;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Iskan van Qesh (ishvar, Saelith) is geboren rond Zegeljaar 771 en is hoedster van de eerste Vrije Ontvangst. Hij wil een feest leiden zonder iemand te beschamen. Wat niemand weet, is dat hij heeft zelf nooit gekozen. Het kost zijn rust: iedereen wil nu met hem praten. Uit de lijn van VOLK-ishvar, HUI-qesh-Z6.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-tobin-spel · Tobin Kademan
+- **code:** PER-Z50-tobin-spel
+- **categorie:** Personage
+- **onderwerp:** Tobin Kademan
+- **wat:** Tobin Kademan (mens, Ambergaard) is geboren rond Zegeljaar 773 en is vrijgekomen stalman die in een Huis van Spel werkt. Het kost de naam van het huis. Hij wil zelf beslissen wat er van zijn verleden wordt gespeeld. Wat niemand weet, is dat hij kent de klant die het woord niet hoorde. Uit de lijn van GEB-Z45-losbandige-jaren, DAG-dag-man.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** GEB-Z45-losbandige-jaren;DAG-dag-man;VERHAAL-Z45-losbandig;EROS-Z45-haak-1;FASE-z44-ja
+- **verwijst_naar:** GEB-Z45-losbandige-jaren;DAG-dag-man;VERHAAL-Z45-losbandig;EROS-Z45-haak-1;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Tobin Kademan (mens, Ambergaard) is geboren rond Zegeljaar 773 en is vrijgekomen stalman die in een Huis van Spel werkt. Het kost de naam van het huis. Hij wil zelf beslissen wat er van zijn verleden wordt gespeeld. Wat niemand weet, is dat hij kent de klant die het woord niet hoorde. Uit de lijn van GEB-Z45-losbandige-jaren, DAG-dag-man.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-ilse-klif · Ilse Klifdochter
+- **code:** PER-Z50-ilse-klif
+- **categorie:** Personage
+- **onderwerp:** Ilse Klifdochter
+- **wat:** Ilse Klifdochter (skerra, Hoogvrouwe) is geboren rond Zegeljaar 1580 en is Skerra-dochter zonder vleugels met de zweefhuid van haar grootmoeder. Ze wil één keer vallen zoals haar voorouders. Wat niemand weet, is dat de huid is gescheurd en ze heeft hem zelf genaaid. Het kost één van hen landt niet veilig. Uit de lijn van VOLK-skerra, LOT-Z44-skerra.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-skerra;LOT-Z44-skerra;HELD-Z46-10-held;FASE-z44-volken
+- **verwijst_naar:** VOLK-skerra;LOT-Z44-skerra;HELD-Z46-10-held;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ilse Klifdochter (skerra, Hoogvrouwe) is geboren rond Zegeljaar 1580 en is Skerra-dochter zonder vleugels met de zweefhuid van haar grootmoeder. Ze wil één keer vallen zoals haar voorouders. Wat niemand weet, is dat de huid is gescheurd en ze heeft hem zelf genaaid. Het kost één van hen landt niet veilig. Uit de lijn van VOLK-skerra, LOT-Z44-skerra.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-wisselbloed · Sanne Maanvoet
+- **code:** PER-Z50-wisselbloed
+- **categorie:** Personage
+- **onderwerp:** Sanne Maanvoet
+- **wat:** Sanne Maanvoet (ves-lethi, Kharvos-grens) is geboren rond Zegeljaar 1600 en is vrouw met wisselbloed in een grensdorp. Ze wil niet meer verstoppen wat ze bij volle maan wordt. Het kost het vertrouwen van het dorp, eerst. Wat niemand weet, is dat haar grootvader was een Ves-Lethi-spion. Uit de lijn van VOLK-ves-lethi-Z6, LOT-Z44-ves-lethi.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-ves-lethi-Z6;LOT-Z44-ves-lethi;HORROR-Z46-10-horror;FASE-z44-volken
+- **verwijst_naar:** VOLK-ves-lethi-Z6;LOT-Z44-ves-lethi;HORROR-Z46-10-horror;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Sanne Maanvoet (ves-lethi, Kharvos-grens) is geboren rond Zegeljaar 1600 en is vrouw met wisselbloed in een grensdorp. Ze wil niet meer verstoppen wat ze bij volle maan wordt. Het kost het vertrouwen van het dorp, eerst. Wat niemand weet, is dat haar grootvader was een Ves-Lethi-spion. Uit de lijn van VOLK-ves-lethi-Z6, LOT-Z44-ves-lethi.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-kluwer-was · Zoem-van-de-Zevende
+- **code:** PER-Z50-kluwer-was
+- **categorie:** Personage
+- **onderwerp:** Zoem-van-de-Zevende
+- **wat:** Zoem-van-de-Zevende (kluwer, Brakhaven) is geboren rond Zegeljaar 1700 en is Kluwer-werkster zonder korf die wasnachten verkoopt. Het kost haar klanten. Ze wil genoeg verdienen voor een eigen familie. Wat niemand weet, is dat de was raakt op en ze rekt hem met gewone bijenwas. Uit de lijn van VOLK-kluwer, LOT-Z44-kluwers.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-kluwer;LOT-Z44-kluwers;INTR-Z46-10-intrige;FASE-z44-volken
+- **verwijst_naar:** VOLK-kluwer;LOT-Z44-kluwers;INTR-Z46-10-intrige;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Zoem-van-de-Zevende (kluwer, Brakhaven) is geboren rond Zegeljaar 1700 en is Kluwer-werkster zonder korf die wasnachten verkoopt. Het kost haar klanten. Ze wil genoeg verdienen voor een eigen familie. Wat niemand weet, is dat de was raakt op en ze rekt hem met gewone bijenwas. Uit de lijn van VOLK-kluwer, LOT-Z44-kluwers.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-houtsnijder · Oren Houtsnijder
+- **code:** PER-Z50-houtsnijder
+- **categorie:** Personage
+- **onderwerp:** Oren Houtsnijder
+- **wat:** Oren Houtsnijder (mens, Groenmuil) is geboren rond Zegeljaar 1720 en is houtsnijder die met een Aelthir in een feeënring ligt. Het kost een herinnering die hij niet terugkrijgt. Hij wil haar herinneren als ze weg is. Wat niemand weet, is dat hij heeft als kind iets in de kluizen gezien. Uit de lijn van FEE-Z37-myrrhen-ringen, VOLK-aelthir-V5.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** FEE-Z37-myrrhen-ringen;VOLK-aelthir-V5;THRILL-Z46-11-thriller;FASE-z44-volken
+- **verwijst_naar:** FEE-Z37-myrrhen-ringen;VOLK-aelthir-V5;THRILL-Z46-11-thriller;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Oren Houtsnijder (mens, Groenmuil) is geboren rond Zegeljaar 1720 en is houtsnijder die met een Aelthir in een feeënring ligt. Het kost een herinnering die hij niet terugkrijgt. Hij wil haar herinneren als ze weg is. Wat niemand weet, is dat hij heeft als kind iets in de kluizen gezien. Uit de lijn van FEE-Z37-myrrhen-ringen, VOLK-aelthir-V5.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-grom-smid · Grom Kwartdhurn
+- **code:** PER-Z50-grom-smid
+- **categorie:** Personage
+- **onderwerp:** Grom Kwartdhurn
+- **wat:** Grom Kwartdhurn (dhurn, Hoogvrouwe) is geboren rond Zegeljaar 1650 en is smid met een kwart Dhurn-bloed. Hij wil verkopen wat hij niet kan. Het kost zijn goede naam, bijna. Wat niemand weet, is dat hij weet de toon niet. Uit de lijn van VOLK-dhurn, GEB-Z42-eerste-ijzer.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-dhurn;GEB-Z42-eerste-ijzer;COMEDY-Z46-11-comedy;FASE-z44-volken
+- **verwijst_naar:** VOLK-dhurn;GEB-Z42-eerste-ijzer;COMEDY-Z46-11-comedy;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Grom Kwartdhurn (dhurn, Hoogvrouwe) is geboren rond Zegeljaar 1650 en is smid met een kwart Dhurn-bloed. Hij wil verkopen wat hij niet kan. Het kost zijn goede naam, bijna. Wat niemand weet, is dat hij weet de toon niet. Uit de lijn van VOLK-dhurn, GEB-Z42-eerste-ijzer.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-hal-reus · Hal Langbot
+- **code:** PER-Z50-hal-reus
+- **categorie:** Personage
+- **onderwerp:** Hal Langbot
+- **wat:** Hal Langbot (tharn, Kaldrun) is geboren rond Zegeljaar 1690 en is jongeman met reuzenbloed aan een rijk hof. Hij wil begeerd worden zonder bekeken te worden. Het kost zijn lichaam. Wat niemand weet, is dat zijn botten groeien nog. Uit de lijn van VOLK-tharn, HUI-kaldra-Z6.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-tharn;HUI-kaldra-Z6;LOT-Z44-tharn;FASE-z44-volken
+- **verwijst_naar:** VOLK-tharn;HUI-kaldra-Z6;LOT-Z44-tharn;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Hal Langbot (tharn, Kaldrun) is geboren rond Zegeljaar 1690 en is jongeman met reuzenbloed aan een rijk hof. Hij wil begeerd worden zonder bekeken te worden. Het kost zijn lichaam. Wat niemand weet, is dat zijn botten groeien nog. Uit de lijn van VOLK-tharn, HUI-kaldra-Z6.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-ennika · Ennika Badhuis
+- **code:** PER-Z50-ennika
+- **categorie:** Personage
+- **onderwerp:** Ennika Badhuis
+- **wat:** Ennika Badhuis (mens, Saelith) is geboren rond Zegeljaar 1640 en is hoedster van een badhuis met beeldnachten. Ze wil de laatste Orrim-stof redden. Het kost haar badhuis. Wat niemand weet, is dat ze heeft de Orrim nooit gevraagd, tot nu. Uit de lijn van VOLK-orrim, LOT-Z44-orrim.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-orrim;LOT-Z44-orrim;OORLOG-Z46-10-oorlog;FASE-z44-volken
+- **verwijst_naar:** VOLK-orrim;LOT-Z44-orrim;OORLOG-Z46-10-oorlog;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ennika Badhuis (mens, Saelith) is geboren rond Zegeljaar 1640 en is hoedster van een badhuis met beeldnachten. Ze wil de laatste Orrim-stof redden. Het kost haar badhuis. Wat niemand weet, is dat ze heeft de Orrim nooit gevraagd, tot nu. Uit de lijn van VOLK-orrim, LOT-Z44-orrim.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-karruk-vechtster · Varna Roetvuist
+- **code:** PER-Z50-karruk-vechtster
+- **categorie:** Personage
+- **onderwerp:** Varna Roetvuist
+- **wat:** Varna Roetvuist (karrûk, Amberpas) is geboren rond Zegeljaar 1620 en is Karrûk-vechtster die het jaarlijkse gevecht wint. Ze wil het gevecht houden zonder de Storm. Het kost haar titel. Wat niemand weet, is dat ze heeft haar kampioen laten winnen in een eerder jaar. Uit de lijn van VOLK-karrûk-Z6-Z38, LOT-Z44-karruk-storm.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-karrûk-Z6-Z38;LOT-Z44-karruk-storm;HELD-Z46-9-held;FASE-z44-volken
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;LOT-Z44-karruk-storm;HELD-Z46-9-held;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Varna Roetvuist (karrûk, Amberpas) is geboren rond Zegeljaar 1620 en is Karrûk-vechtster die het jaarlijkse gevecht wint. Ze wil het gevecht houden zonder de Storm. Het kost haar titel. Wat niemand weet, is dat ze heeft haar kampioen laten winnen in een eerder jaar. Uit de lijn van VOLK-karrûk-Z6-Z38, LOT-Z44-karruk-storm.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-heelster-nevel · Moira van de Nevel
+- **code:** PER-Z50-heelster-nevel
+- **categorie:** Personage
+- **onderwerp:** Moira van de Nevel
+- **wat:** Moira van de Nevel (myrrhen, Nevel-eilanden) is geboren rond Zegeljaar 3100 en is heelster die sporennachten bijhoudt in een dagboek. Wat niemand weet, is dat ze heeft haar geliefde al eens vergeten. Ze wil voelen wat haar grootmoeder voelde. Het kost haar herinneringen. Uit de lijn van VOLK-myrrhen-Z6, DRAGER-Z48-gave-11.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-myrrhen-Z6;DRAGER-Z48-gave-11;HORROR-Z46-11-horror;FASE-z44-helden
+- **verwijst_naar:** VOLK-myrrhen-Z6;DRAGER-Z48-gave-11;HORROR-Z46-11-horror;FASE-z44-helden
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Moira van de Nevel (myrrhen, Nevel-eilanden) is geboren rond Zegeljaar 3100 en is heelster die sporennachten bijhoudt in een dagboek. Wat niemand weet, is dat ze heeft haar geliefde al eens vergeten. Ze wil voelen wat haar grootmoeder voelde. Het kost haar herinneringen. Uit de lijn van VOLK-myrrhen-Z6, DRAGER-Z48-gave-11.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-kapitein-havenbloed · Kapitein Brina Zoutkeel
+- **code:** PER-Z50-kapitein-havenbloed
+- **categorie:** Personage
+- **onderwerp:** Kapitein Brina Zoutkeel
+- **wat:** Kapitein Brina Zoutkeel (sael-mor, Zoutkust) is geboren rond Zegeljaar 3150 en is kapiteinsvrouw met havenbloed. Het kost haar bemanning loopt gevaar. Ze wil een man van het land meenemen in de springtijnacht. Wat niemand weet, is dat ze kan zelf niet meer lang onder water. Uit de lijn van VOLK-sael-mor, LOT-Z44-sael-mor.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-sael-mor;LOT-Z44-sael-mor;VERHAAL-Z44-tijdperk-11;FASE-z44-helden
+- **verwijst_naar:** VOLK-sael-mor;LOT-Z44-sael-mor;VERHAAL-Z44-tijdperk-11;FASE-z44-helden
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Kapitein Brina Zoutkeel (sael-mor, Zoutkust) is geboren rond Zegeljaar 3150 en is kapiteinsvrouw met havenbloed. Het kost haar bemanning loopt gevaar. Ze wil een man van het land meenemen in de springtijnacht. Wat niemand weet, is dat ze kan zelf niet meer lang onder water. Uit de lijn van VOLK-sael-mor, LOT-Z44-sael-mor.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-aru-vuur · Aru van het Plat
+- **code:** PER-Z50-aru-vuur
+- **categorie:** Personage
+- **onderwerp:** Aru van het Plat
+- **wat:** Aru van het Plat (mens, het droge plat) is geboren rond Zegeljaar 6400 en is jonge vrouw die voor het eerst bij het vuur staat. Ze wil zelf vragen in plaats van gevraagd worden. Wat niemand weet, is dat ze kent de oude betekenis van het vuur van haar grootmoeder. Het kost de veiligheid van alleen kijken. Uit de lijn van DRAGER-Z48-ontvangst-13, VOLK-ishvar.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** DRAGER-Z48-ontvangst-13;VOLK-ishvar;EROS-Z45-haak-8;FASE-z44-mensen
+- **verwijst_naar:** DRAGER-Z48-ontvangst-13;VOLK-ishvar;EROS-Z45-haak-8;FASE-z44-mensen
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Aru van het Plat (mens, het droge plat) is geboren rond Zegeljaar 6400 en is jonge vrouw die voor het eerst bij het vuur staat. Ze wil zelf vragen in plaats van gevraagd worden. Wat niemand weet, is dat ze kent de oude betekenis van het vuur van haar grootmoeder. Het kost de veiligheid van alleen kijken. Uit de lijn van DRAGER-Z48-ontvangst-13, VOLK-ishvar.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-zuinige-boer · Bort Nooitgenoeg
+- **code:** PER-Z50-zuinige-boer
+- **categorie:** Personage
+- **onderwerp:** Bort Nooitgenoeg
+- **wat:** Bort Nooitgenoeg (ishvar, het droge plat) is geboren rond Zegeljaar 6300 en is zuinigste boer van het dorp. Hij wil het oogstfeest gratis. Wat niemand weet, is dat hij heeft nooit iemand durven vragen. Het kost zijn zuinigheid. Uit de lijn van DRAGER-Z48-stal-13, VOLK-ishvar.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** DRAGER-Z48-stal-13;VOLK-ishvar;VERHAAL-Z44-tijdperk-13;FASE-z44-mensen
+- **verwijst_naar:** DRAGER-Z48-stal-13;VOLK-ishvar;VERHAAL-Z44-tijdperk-13;FASE-z44-mensen
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Bort Nooitgenoeg (ishvar, het droge plat) is geboren rond Zegeljaar 6300 en is zuinigste boer van het dorp. Hij wil het oogstfeest gratis. Wat niemand weet, is dat hij heeft nooit iemand durven vragen. Het kost zijn zuinigheid. Uit de lijn van DRAGER-Z48-stal-13, VOLK-ishvar.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-springster · Lena Diepwater
+- **code:** PER-Z50-springster
+- **categorie:** Personage
+- **onderwerp:** Lena Diepwater
+- **wat:** Lena Diepwater (skerra, de kliffen van het plat) is geboren rond Zegeljaar 6500 en is vrouw die voor het dorp terechtstaat na het klifspringfeest. Ze wil de waarheid over de sprong. Wat niemand weet, is dat zij liet echt los, zoals het oude spel vraagt. Het kost haar plek in het dorp. Uit de lijn van DRAGER-Z48-vleugel-13, LOT-Z44-skerra.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** DRAGER-Z48-vleugel-13;LOT-Z44-skerra;FASE-z44-mensen
+- **verwijst_naar:** DRAGER-Z48-vleugel-13;LOT-Z44-skerra;FASE-z44-mensen
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Lena Diepwater (skerra, de kliffen van het plat) is geboren rond Zegeljaar 6500 en is vrouw die voor het dorp terechtstaat na het klifspringfeest. Ze wil de waarheid over de sprong. Wat niemand weet, is dat zij liet echt los, zoals het oude spel vraagt. Het kost haar plek in het dorp. Uit de lijn van DRAGER-Z48-vleugel-13, LOT-Z44-skerra.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-weduwe-portret · Ila Schilderes
+- **code:** PER-Z50-weduwe-portret
+- **categorie:** Personage
+- **onderwerp:** Ila Schilderes
+- **wat:** Ila Schilderes (mens, het droge plat) is geboren rond Zegeljaar 6550 en is weduwe die zichzelf schildert na elke sporenspiegel. Ze wil haar oude man nog één keer zien. Wat niemand weet, is dat ze weet al welk gezicht ze kust. Het kost haar nieuwe liefde, misschien. Uit de lijn van DRAGER-Z48-vorm-13, VOLK-myrrhen-Z6.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** DRAGER-Z48-vorm-13;VOLK-myrrhen-Z6;DRAGER-Z48-gave-11;FASE-z44-mensen
+- **verwijst_naar:** DRAGER-Z48-vorm-13;VOLK-myrrhen-Z6;DRAGER-Z48-gave-11;FASE-z44-mensen
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ila Schilderes (mens, het droge plat) is geboren rond Zegeljaar 6550 en is weduwe die zichzelf schildert na elke sporenspiegel. Ze wil haar oude man nog één keer zien. Wat niemand weet, is dat ze weet al welk gezicht ze kust. Het kost haar nieuwe liefde, misschien. Uit de lijn van DRAGER-Z48-vorm-13, VOLK-myrrhen-Z6.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-zangpoel · Ysel Getijde
+- **code:** PER-Z50-zangpoel
+- **categorie:** Personage
+- **onderwerp:** Ysel Getijde
+- **wat:** Ysel Getijde (mens, de nieuwe kust) is geboren rond Zegeljaar 9000 en is vrouw die in de zangpoel staat met een Oevrin-man. Het kost de poel en hem. Ze wil de poel houden zolang het water haar laat. Wat niemand weet, is dat ze zingt in akkoorden die geen mens kan. Uit de lijn van VOLK-oevrin, DRAGER-Z48-zang-14.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-oevrin;DRAGER-Z48-zang-14;VERHAAL-Z44-tijdperk-14;EROS-Z45-haak-9;FASE-z44-smelt
+- **verwijst_naar:** VOLK-oevrin;DRAGER-Z48-zang-14;VERHAAL-Z44-tijdperk-14;EROS-Z45-haak-9;FASE-z44-smelt
+- **jaar:** 
+- **tijdperk:** 14 De Grote Smelt (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ysel Getijde (mens, de nieuwe kust) is geboren rond Zegeljaar 9000 en is vrouw die in de zangpoel staat met een Oevrin-man. Het kost de poel en hem. Ze wil de poel houden zolang het water haar laat. Wat niemand weet, is dat ze zingt in akkoorden die geen mens kan. Uit de lijn van VOLK-oevrin, DRAGER-Z48-zang-14.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-corvin-aldeweer · Corvin Aldeweer
+- **code:** PER-Z50-corvin-aldeweer
+- **categorie:** Personage
+- **onderwerp:** Corvin Aldeweer
+- **wat:** Corvin Aldeweer (mens, Ambergaard en Saelith) is geboren rond Zegeljaar 768 en is gaven-man uit de fokstal van Varenne, nu vrij. Wat niemand weet, is dat hij verkoopt zijn laatste lading aan een vonkcelhandelaarster in Brakhaven, zonder dat zijn vrouw het weet. Hij wil de vonk nog één keer voelen terugkomen. Het kost zijn vonk, en het vertrouwen van zijn vrouw als ze ontdekt waar de lading heen ging. Uit de lijn van HUI-varenne, PER-gewone-mannen.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** HUI-varenne;PER-gewone-mannen;VERHAAL-Z44-tijdperk-9;LOT-Z44-gaven-mannen;THRILL-Z46-9-thriller;FASE-z44-ja;PER-Z50-sahra-ventel
+- **verwijst_naar:** HUI-varenne;PER-gewone-mannen;VERHAAL-Z44-tijdperk-9;LOT-Z44-gaven-mannen;THRILL-Z46-9-thriller;FASE-z44-ja;PER-Z50-sahra-ventel
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Corvin Aldeweer (mens, Ambergaard en Saelith) is geboren rond Zegeljaar 768 en is gaven-man uit de fokstal van Varenne, nu vrij. Wat niemand weet, is dat hij verkoopt zijn laatste lading aan een vonkcelhandelaarster in Brakhaven, zonder dat zijn vrouw het weet. Hij wil de vonk nog één keer voelen terugkomen. Het kost zijn vonk, en het vertrouwen van zijn vrouw als ze ontdekt waar de lading heen ging. Uit de lijn van HUI-varenne, PER-gewone-mannen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-ingrith-marrow · Ingrith Marrow
+- **code:** PER-Z50-ingrith-marrow
+- **categorie:** Personage
+- **onderwerp:** Ingrith Marrow
+- **wat:** Ingrith Marrow (mens, Saelith) is geboren rond Zegeljaar 762 en is oud-agente van de Orde, splinterdraagster. Ze wil begrijpen wat ze twintig jaar heeft gedaan. Het kost haar zelfbeeld: in de nacht met Joren wordt zij degene die luistert. Wat niemand weet, is dat ze bewaart de splinter van elke man die ze bond, in een la met hun namen. Uit de lijn van ORDE-orde, PER-tobrecht-splinterwacht.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** ORDE-orde;PER-tobrecht-splinterwacht;GEB-Z45-losbandige-jaren;EROS-Z45-haak-1;FASE-z44-ja;PER-Z50-joren-pekel
+- **verwijst_naar:** ORDE-orde;PER-tobrecht-splinterwacht;GEB-Z45-losbandige-jaren;EROS-Z45-haak-1;FASE-z44-ja;PER-Z50-joren-pekel
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ingrith Marrow (mens, Saelith) is geboren rond Zegeljaar 762 en is oud-agente van de Orde, splinterdraagster. Ze wil begrijpen wat ze twintig jaar heeft gedaan. Het kost haar zelfbeeld: in de nacht met Joren wordt zij degene die luistert. Wat niemand weet, is dat ze bewaart de splinter van elke man die ze bond, in een la met hun namen. Uit de lijn van ORDE-orde, PER-tobrecht-splinterwacht.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-joren-pekel · Joren van de Pekelrij
+- **code:** PER-Z50-joren-pekel
+- **categorie:** Personage
+- **onderwerp:** Joren van de Pekelrij
+- **wat:** Joren van de Pekelrij (mens, Ambergaard) is geboren rond Zegeljaar 775 en is vrijgekomen stalman, organisator van de betaalde kettingstoet. Het kost hij weet niet meer of hij speelt of herhaalt. Hij wil zelf bepalen wat er met zijn lichaam gebeurt, en eraan verdienen. Wat niemand weet, is dat hij ging terug naar de agente die hem bond, en vroeg erom. Uit de lijn van PER-Z7-jorrit, PER-gewone-mannen.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-Z7-jorrit;PER-gewone-mannen;VERHAAL-Z44-tijdperk-9;COMEDY-Z46-9-comedy;EROS-Z45-haak-1;PER-Z50-ingrith-marrow;FASE-z44-ja;PER-Z50-dorran-stalhof
+- **verwijst_naar:** PER-Z7-jorrit;PER-gewone-mannen;VERHAAL-Z44-tijdperk-9;COMEDY-Z46-9-comedy;EROS-Z45-haak-1;PER-Z50-ingrith-marrow;FASE-z44-ja;PER-Z50-dorran-stalhof
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Joren van de Pekelrij (mens, Ambergaard) is geboren rond Zegeljaar 775 en is vrijgekomen stalman, organisator van de betaalde kettingstoet. Het kost hij weet niet meer of hij speelt of herhaalt. Hij wil zelf bepalen wat er met zijn lichaam gebeurt, en eraan verdienen. Wat niemand weet, is dat hij ging terug naar de agente die hem bond, en vroeg erom. Uit de lijn van PER-Z7-jorrit, PER-gewone-mannen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-moeder-aurelie · Moeder Aurelie
+- **code:** PER-Z50-moeder-aurelie
+- **categorie:** Personage
+- **onderwerp:** Moeder Aurelie
+- **wat:** Moeder Aurelie (mens, Saelith) is geboren rond Zegeljaar 741 en is Moeder van de Orde, laatste hoedster van de Zegelnacht. Wat niemand weet, is dat zij nam zelf elk jaar deel aan de geheime voeding in de diepste zaal. Ze wil het volk de waarheid geven en het toch laten kiezen. Het kost haar gezag: wie weet waar het lied heen gaat, zingt niet meer voor haar. Uit de lijn van ORDE-orde, VOLK-ishvar.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** ORDE-orde;VOLK-ishvar;LOT-Z44-zegellicht;VERHAAL-Z44-tijdperk-9;FASE-z44-ja;PER-Z50-oriane-zoutvel
+- **verwijst_naar:** ORDE-orde;VOLK-ishvar;LOT-Z44-zegellicht;VERHAAL-Z44-tijdperk-9;FASE-z44-ja;PER-Z50-oriane-zoutvel
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Moeder Aurelie (mens, Saelith) is geboren rond Zegeljaar 741 en is Moeder van de Orde, laatste hoedster van de Zegelnacht. Wat niemand weet, is dat zij nam zelf elk jaar deel aan de geheime voeding in de diepste zaal. Ze wil het volk de waarheid geven en het toch laten kiezen. Het kost haar gezag: wie weet waar het lied heen gaat, zingt niet meer voor haar. Uit de lijn van ORDE-orde, VOLK-ishvar.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-tjitske-grauwdal · Tjitske van het Grauwdal
+- **code:** PER-Z50-tjitske-grauwdal
+- **categorie:** Personage
+- **onderwerp:** Tjitske van het Grauwdal
+- **wat:** Tjitske van het Grauwdal (grauwen, een dal aan de rand van Ambergaard) is geboren rond Zegeljaar 921 en is jonge moeder, eerste Grauwen-vrouw in het badhuis. Wat niemand weet, is dat ze kent de zegenliederen van haar eigen volk en zingt ze niet meer hardop. Ze wil bij het dorp horen waar haar dochter opgroeit. Het kost de afstand tot haar grootmoeder en tot de Grauwen-gebruiken. Uit de lijn van VOLK-grauwen, PER-grauwen-held-moeder-wrak.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-grauwen;PER-grauwen-held-moeder-wrak;LOT-Z44-grauwen;VERHAAL-Z44-tijdperk-9;FASE-z44-ja
+- **verwijst_naar:** VOLK-grauwen;PER-grauwen-held-moeder-wrak;LOT-Z44-grauwen;VERHAAL-Z44-tijdperk-9;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Tjitske van het Grauwdal (grauwen, een dal aan de rand van Ambergaard) is geboren rond Zegeljaar 921 en is jonge moeder, eerste Grauwen-vrouw in het badhuis. Wat niemand weet, is dat ze kent de zegenliederen van haar eigen volk en zingt ze niet meer hardop. Ze wil bij het dorp horen waar haar dochter opgroeit. Het kost de afstand tot haar grootmoeder en tot de Grauwen-gebruiken. Uit de lijn van VOLK-grauwen, PER-grauwen-held-moeder-wrak.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-brenna-kaldrun · Brenna Kaldrun
+- **code:** PER-Z50-brenna-kaldrun
+- **categorie:** Personage
+- **onderwerp:** Brenna Kaldrun
+- **wat:** Brenna Kaldrun (mens, IJsgraf, bergen van Kaldra) is geboren rond Zegeljaar 790 en is krijgsvrouw van Huis Kaldra. Het kost twee tenen en haar plaats in de voorste rij van het leger. Ze wil Tarvel, niet zijn kracht. Wat niemand weet, is dat ze weet dat Tarvels vonk op is en zwijgt erover tegen het huis. Uit de lijn van HUI-kaldra-Z6.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** HUI-kaldra-Z6;LOT-Z44-gaven-mannen;HELD-Z46-9-held;FASE-z44-ja
+- **verwijst_naar:** HUI-kaldra-Z6;LOT-Z44-gaven-mannen;HELD-Z46-9-held;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Brenna Kaldrun (mens, IJsgraf, bergen van Kaldra) is geboren rond Zegeljaar 790 en is krijgsvrouw van Huis Kaldra. Het kost twee tenen en haar plaats in de voorste rij van het leger. Ze wil Tarvel, niet zijn kracht. Wat niemand weet, is dat ze weet dat Tarvels vonk op is en zwijgt erover tegen het huis. Uit de lijn van HUI-kaldra-Z6.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-mareike-orlen · Mareike van Orlenhal
+- **code:** PER-Z50-mareike-orlen
+- **categorie:** Personage
+- **onderwerp:** Mareike van Orlenhal
+- **wat:** Mareike van Orlenhal (mens, Orlenhal, een vrije stad aan de Lisk-grens) is geboren rond Zegeljaar 783 en is heelster. Wat niemand weet, is dat een vleug van Haskels bliksem zit sindsdien in haar handen en ze gebruikt hem bij het helen. Ze wil haar stad en haar stormman heel houden. Het kost ze verliest de man die ze koos, omdat hij na die nacht gewoon wordt en wegtrekt. Uit de lijn van VOLK-ishvar, PER-v4-hesta-kael.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-ishvar;PER-v4-hesta-kael;OORLOG-Z46-9-oorlog;ACTIE-Z46-9-actie;LOT-Z44-gaven-mannen;FASE-z44-ja;PER-Z50-embla-vathre
+- **verwijst_naar:** VOLK-ishvar;PER-v4-hesta-kael;OORLOG-Z46-9-oorlog;ACTIE-Z46-9-actie;LOT-Z44-gaven-mannen;FASE-z44-ja;PER-Z50-embla-vathre
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Mareike van Orlenhal (mens, Orlenhal, een vrije stad aan de Lisk-grens) is geboren rond Zegeljaar 783 en is heelster. Wat niemand weet, is dat een vleug van Haskels bliksem zit sindsdien in haar handen en ze gebruikt hem bij het helen. Ze wil haar stad en haar stormman heel houden. Het kost ze verliest de man die ze koos, omdat hij na die nacht gewoon wordt en wegtrekt. Uit de lijn van VOLK-ishvar, PER-v4-hesta-kael.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-sahra-ventel · Sahra Ventel
+- **code:** PER-Z50-sahra-ventel
+- **categorie:** Personage
+- **onderwerp:** Sahra Ventel
+- **wat:** Sahra Ventel (ishvar, Brakhaven) is geboren rond Zegeljaar 781 en is handelaarster in vonkcellen. Ze wil genoeg verdienen om nooit meer onder een huis te staan. Wat niemand weet, is dat haar cellen zijn half vervalst met gemalen glas. Het kost een spion kent haar geheim en laat haar voor hem werken. Uit de lijn van VOLK-ishvar, HUI-Z11-kusthuizen.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-ishvar;HUI-Z11-kusthuizen;THRILL-Z46-9-thriller;LOT-Z44-gaven-mannen;PER-Z50-corvin-aldeweer;FASE-z44-ja;PER-Z50-ismay-ammar
+- **verwijst_naar:** VOLK-ishvar;HUI-Z11-kusthuizen;THRILL-Z46-9-thriller;LOT-Z44-gaven-mannen;PER-Z50-corvin-aldeweer;FASE-z44-ja;PER-Z50-ismay-ammar
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Sahra Ventel (ishvar, Brakhaven) is geboren rond Zegeljaar 781 en is handelaarster in vonkcellen. Ze wil genoeg verdienen om nooit meer onder een huis te staan. Wat niemand weet, is dat haar cellen zijn half vervalst met gemalen glas. Het kost een spion kent haar geheim en laat haar voor hem werken. Uit de lijn van VOLK-ishvar, HUI-Z11-kusthuizen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-naima-qesh · Naïma
+- **code:** PER-Z50-naima-qesh
+- **categorie:** Personage
+- **onderwerp:** Naïma
+- **wat:** Naïma (mens, Qesh) is geboren rond Zegeljaar 790 en is haremvrouw in het Zonnepaleis. Wat niemand weet, is dat ze zegt het stopwoord elke nacht een tel later dan nodig. Ze wil de vuurgloed die haar moeder nog als plicht kende, als eigen keuze. Het kost littekens van een vuur dat niemand meer kan sturen. Uit de lijn van HUI-qesh-Z6, VOLK-ishvar.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** HUI-qesh-Z6;VOLK-ishvar;LOT-Z44-gaven-mannen;GEB-Z45-losbandige-jaren;FASE-z44-ja
+- **verwijst_naar:** HUI-qesh-Z6;VOLK-ishvar;LOT-Z44-gaven-mannen;GEB-Z45-losbandige-jaren;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Naïma (mens, Qesh) is geboren rond Zegeljaar 790 en is haremvrouw in het Zonnepaleis. Wat niemand weet, is dat ze zegt het stopwoord elke nacht een tel later dan nodig. Ze wil de vuurgloed die haar moeder nog als plicht kende, als eigen keuze. Het kost littekens van een vuur dat niemand meer kan sturen. Uit de lijn van HUI-qesh-Z6, VOLK-ishvar.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-lijsbet-zoutkust · Lijsbet
+- **code:** PER-Z50-lijsbet-zoutkust
+- **categorie:** Personage
+- **onderwerp:** Lijsbet
+- **wat:** Lijsbet (mens, Zoutkust) is geboren rond Zegeljaar 778 en is netbreister in een kustdorp. Ze wil de laatste kracht die er nog te halen valt. Het kost de vriendschap van Wobbe, en de man die Wobbe daarna houdt. Wat niemand weet, is dat ze vervalste het lot van het oogstfeest. Uit de lijn van HUI-mirre, PER-gewone-mannen.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** HUI-mirre;PER-gewone-mannen;EROS-Z45-haak-2;LOT-Z44-gaven-mannen;FASE-z44-ja
+- **verwijst_naar:** HUI-mirre;PER-gewone-mannen;EROS-Z45-haak-2;LOT-Z44-gaven-mannen;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Lijsbet (mens, Zoutkust) is geboren rond Zegeljaar 778 en is netbreister in een kustdorp. Ze wil de laatste kracht die er nog te halen valt. Het kost de vriendschap van Wobbe, en de man die Wobbe daarna houdt. Wat niemand weet, is dat ze vervalste het lot van het oogstfeest. Uit de lijn van HUI-mirre, PER-gewone-mannen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-oriane-zoutvel · Oriane Zoutvel
+- **code:** PER-Z50-oriane-zoutvel
+- **categorie:** Personage
+- **onderwerp:** Oriane Zoutvel
+- **wat:** Oriane Zoutvel (sael-mor, Saelith en de kustvaart) is geboren rond Zegeljaar 768 en is armbanddraagster van Ysa-dag. Het kost haar plaats op het schip van haar moeder, omdat ze aan land moet getuigen. Ze wil dat het feest veilig blijft voor wie meedoet. Wat niemand weet, is dat ze deelde zelf ooit een armband uit aan iemand die er geen recht op had. Uit de lijn van PER-saelmor-held-tamsin, VOLK-sael-mor.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-saelmor-held-tamsin;VOLK-sael-mor;GEB-Z45-losbandige-jaren;LOT-Z44-sael-mor;PER-Z50-moeder-aurelie;FASE-z44-ja
+- **verwijst_naar:** PER-saelmor-held-tamsin;VOLK-sael-mor;GEB-Z45-losbandige-jaren;LOT-Z44-sael-mor;PER-Z50-moeder-aurelie;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Oriane Zoutvel (sael-mor, Saelith en de kustvaart) is geboren rond Zegeljaar 768 en is armbanddraagster van Ysa-dag. Het kost haar plaats op het schip van haar moeder, omdat ze aan land moet getuigen. Ze wil dat het feest veilig blijft voor wie meedoet. Wat niemand weet, is dat ze deelde zelf ooit een armband uit aan iemand die er geen recht op had. Uit de lijn van PER-saelmor-held-tamsin, VOLK-sael-mor.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-dorran-stalhof · Dorran Stalhof
+- **code:** PER-Z50-dorran-stalhof
+- **categorie:** Personage
+- **onderwerp:** Dorran Stalhof
+- **wat:** Dorran Stalhof (mens, Ambergaard, stallen van Varenne) is geboren rond Zegeljaar 784 en is melkman in de stallen van Varenne. Hij wil iets willen, en dat zeggen. Wat niemand weet, is dat hij oefende het woord langzamer een maand lang voor de spiegel. Het kost de zekerheid van de stal, die hij opgeeft als hij in de betaalde stoet loopt. Uit de lijn van PER-gewone-mannen, HUI-varenne.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-gewone-mannen;HUI-varenne;VERHAAL-Z44-tijdperk-9;GEB-Z45-losbandige-jaren;PER-Z50-joren-pekel;FASE-z44-ja
+- **verwijst_naar:** PER-gewone-mannen;HUI-varenne;VERHAAL-Z44-tijdperk-9;GEB-Z45-losbandige-jaren;PER-Z50-joren-pekel;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Dorran Stalhof (mens, Ambergaard, stallen van Varenne) is geboren rond Zegeljaar 784 en is melkman in de stallen van Varenne. Hij wil iets willen, en dat zeggen. Wat niemand weet, is dat hij oefende het woord langzamer een maand lang voor de spiegel. Het kost de zekerheid van de stal, die hij opgeeft als hij in de betaalde stoet loopt. Uit de lijn van PER-gewone-mannen, HUI-varenne.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-gerolt-veerman · Gerolt Veerman
+- **code:** PER-Z50-gerolt-veerman
+- **categorie:** Personage
+- **onderwerp:** Gerolt Veerman
+- **wat:** Gerolt Veerman (mens, Ambergaard) is geboren rond Zegeljaar 752 en is pamflettist van de Mannenraad. Het kost zijn eerlijkheid; hij gelooft zijn eigen pamfletten niet meer. Hij wil bewijzen dat mannen kunnen leiden. Wat niemand weet, is dat het paar op het plein speelt de machtsruil omgekeerd van wat hij schrijft. Uit de lijn van PER-gewone-mannen, PER-Z11-bram-kade.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-gewone-mannen;PER-Z11-bram-kade;GEB-Z45-losbandige-jaren;COMEDY-Z46-9-comedy;FASE-z44-ja;PER-Z50-lotje-inkt
+- **verwijst_naar:** PER-gewone-mannen;PER-Z11-bram-kade;GEB-Z45-losbandige-jaren;COMEDY-Z46-9-comedy;FASE-z44-ja;PER-Z50-lotje-inkt
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Gerolt Veerman (mens, Ambergaard) is geboren rond Zegeljaar 752 en is pamflettist van de Mannenraad. Het kost zijn eerlijkheid; hij gelooft zijn eigen pamfletten niet meer. Hij wil bewijzen dat mannen kunnen leiden. Wat niemand weet, is dat het paar op het plein speelt de machtsruil omgekeerd van wat hij schrijft. Uit de lijn van PER-gewone-mannen, PER-Z11-bram-kade.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-embla-vathre · Embla
+- **code:** PER-Z50-embla-vathre
+- **categorie:** Personage
+- **onderwerp:** Embla
+- **wat:** Embla (vathren, Saelith) is geboren rond Zegeljaar 770 en is Vathren-ziener. Ze wil iets voelen dat harder is dan het Zegel dat in haar wegsterft. Wat niemand weet, is dat ze hoort de naam in het vlees ook in haar slaap. Het kost het kweekvlees dat aan haar vastgroeit. Uit de lijn van VOLK-vathren-Z6, PER-vathren-held-sorrel.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-vathren-Z6;PER-vathren-held-sorrel;LOT-Z44-vathren;LOT-Z44-leegtewormen;PER-Z50-mareike-orlen;FASE-z44-ja
+- **verwijst_naar:** VOLK-vathren-Z6;PER-vathren-held-sorrel;LOT-Z44-vathren;LOT-Z44-leegtewormen;PER-Z50-mareike-orlen;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Embla (vathren, Saelith) is geboren rond Zegeljaar 770 en is Vathren-ziener. Ze wil iets voelen dat harder is dan het Zegel dat in haar wegsterft. Wat niemand weet, is dat ze hoort de naam in het vlees ook in haar slaap. Het kost het kweekvlees dat aan haar vastgroeit. Uit de lijn van VOLK-vathren-Z6, PER-vathren-held-sorrel.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-lotje-inkt · Lotje Inkt
+- **code:** PER-Z50-lotje-inkt
+- **categorie:** Personage
+- **onderwerp:** Lotje Inkt
+- **wat:** Lotje Inkt (mens, Ambergaard en Saelith) is geboren rond Zegeljaar 785 en is oud-schrijfster van de Orde, verkoopster van registerbladen. Het kost het register valt uiteen en haar handel ermee. Ze wil rijk worden van wat de Orde achterliet. Wat niemand weet, is dat ze heeft het blad over haar eigen nachten als enige gehouden. Uit de lijn van ORDE-orde.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** ORDE-orde;COMEDY-Z46-9-comedy;GEB-Z45-losbandige-jaren;PER-Z50-gerolt-veerman;FASE-z44-ja
+- **verwijst_naar:** ORDE-orde;COMEDY-Z46-9-comedy;GEB-Z45-losbandige-jaren;PER-Z50-gerolt-veerman;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Lotje Inkt (mens, Ambergaard en Saelith) is geboren rond Zegeljaar 785 en is oud-schrijfster van de Orde, verkoopster van registerbladen. Het kost het register valt uiteen en haar handel ermee. Ze wil rijk worden van wat de Orde achterliet. Wat niemand weet, is dat ze heeft het blad over haar eigen nachten als enige gehouden. Uit de lijn van ORDE-orde.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-bastiaan-velde · Bastiaan Velde
+- **code:** PER-Z50-bastiaan-velde
+- **categorie:** Personage
+- **onderwerp:** Bastiaan Velde
+- **wat:** Bastiaan Velde (vathren, een vissersdorp aan de Zoutkust) is geboren rond Zegeljaar 830 en is nettenboeter. Het kost zijn waardigheid bij de schout en de veerman. Hij wil het verbodene terug in zijn bed. Wat niemand weet, is dat hij heeft een schuur gehuurd alleen om er weer weggejaagd te kunnen worden. Uit de lijn van VOLK-vathren-Z6.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-vathren-Z6;LOT-Z44-vathren;EROS-Z45-haak-1;FASE-z44-ja
+- **verwijst_naar:** VOLK-vathren-Z6;LOT-Z44-vathren;EROS-Z45-haak-1;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Bastiaan Velde (vathren, een vissersdorp aan de Zoutkust) is geboren rond Zegeljaar 830 en is nettenboeter. Het kost zijn waardigheid bij de schout en de veerman. Hij wil het verbodene terug in zijn bed. Wat niemand weet, is dat hij heeft een schuur gehuurd alleen om er weer weggejaagd te kunnen worden. Uit de lijn van VOLK-vathren-Z6.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-ismay-ammar · Ismay Ammar
+- **code:** PER-Z50-ismay-ammar
+- **categorie:** Personage
+- **onderwerp:** Ismay Ammar
+- **wat:** Ismay Ammar (ishvar, Brakhaven en Saelith) is geboren rond Zegeljaar 785 en is erfdochter van Huis Ammar. Het kost een verzoening die op een zwijgen rust. Ze wil de vete winnen zonder haar huis te verliezen. Wat niemand weet, is dat ze herkende de hand met het mes en liet hem gaan. Uit de lijn van HUI-Z11-kusthuizen, PER-ishvar-schurk-ammar.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** HUI-Z11-kusthuizen;PER-ishvar-schurk-ammar;INTR-Z46-9-intrige;PER-Z50-sahra-ventel;FASE-z44-ja
+- **verwijst_naar:** HUI-Z11-kusthuizen;PER-ishvar-schurk-ammar;INTR-Z46-9-intrige;PER-Z50-sahra-ventel;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ismay Ammar (ishvar, Brakhaven en Saelith) is geboren rond Zegeljaar 785 en is erfdochter van Huis Ammar. Het kost een verzoening die op een zwijgen rust. Ze wil de vete winnen zonder haar huis te verliezen. Wat niemand weet, is dat ze herkende de hand met het mes en liet hem gaan. Uit de lijn van HUI-Z11-kusthuizen, PER-ishvar-schurk-ammar.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-sjoerd-zoutzieder · Sjoerd
+- **code:** PER-Z50-sjoerd-zoutzieder
+- **categorie:** Personage
+- **onderwerp:** Sjoerd
+- **wat:** Sjoerd (mens, Zoutkust) is geboren rond Zegeljaar 880 en is zoon van een zoutzieder. Hij wil een weddenschap winnen. Wat niemand weet, is dat hij is bang voor water. Het kost zijn schoenen, zijn weddenschap en zijn verlegenheid. Uit de lijn van VOLK-oevrin, PER-oevrin-schurk-slik.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-oevrin;PER-oevrin-schurk-slik;LOT-Z44-oevrin;FASE-z44-ja
+- **verwijst_naar:** VOLK-oevrin;PER-oevrin-schurk-slik;LOT-Z44-oevrin;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Sjoerd (mens, Zoutkust) is geboren rond Zegeljaar 880 en is zoon van een zoutzieder. Hij wil een weddenschap winnen. Wat niemand weet, is dat hij is bang voor water. Het kost zijn schoenen, zijn weddenschap en zijn verlegenheid. Uit de lijn van VOLK-oevrin, PER-oevrin-schurk-slik.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-aldric-mistveld · Aldric Mistveld
+- **code:** PER-Z50-aldric-mistveld
+- **categorie:** Personage
+- **onderwerp:** Aldric Mistveld
+- **wat:** Aldric Mistveld (mens, de mistranden van het noorden) is geboren rond Zegeljaar 760 en is oud-geestgave-drager. Het kost hij hoort geheimen die niet voor hem bedoeld waren, en kan ze niet terugschrijven. Hij wil Ilvaren nog een winter houden. Wat niemand weet, is dat zijn geestgave is al jaren weg en hij speelt haar na. Uit de lijn van PER-gewone-mannen, VOLK-aelthir-V5.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-gewone-mannen;VOLK-aelthir-V5;LOT-Z44-aelthir;LOT-Z44-gaven-mannen;FASE-z44-ja
+- **verwijst_naar:** PER-gewone-mannen;VOLK-aelthir-V5;LOT-Z44-aelthir;LOT-Z44-gaven-mannen;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Aldric Mistveld (mens, de mistranden van het noorden) is geboren rond Zegeljaar 760 en is oud-geestgave-drager. Het kost hij hoort geheimen die niet voor hem bedoeld waren, en kan ze niet terugschrijven. Hij wil Ilvaren nog een winter houden. Wat niemand weet, is dat zijn geestgave is al jaren weg en hij speelt haar na. Uit de lijn van PER-gewone-mannen, VOLK-aelthir-V5.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-bertram-lak · Bertram Lak
+- **code:** PER-Z50-bertram-lak
+- **categorie:** Personage
+- **onderwerp:** Bertram Lak
+- **wat:** Bertram Lak (mens, Saelith) is geboren rond Zegeljaar 1580 en is laarzenmaker. Hij wil zijn ambacht in leven houden nu de rijke vrouwen minder worden. Wat niemand weet, is dat zijn vrouw droeg de gestolen laarzen al jaren. Het kost zijn naam bij twaalf klanten tegelijk. Uit de lijn van PER-gewone-mannen.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-gewone-mannen;LOT-Z44-zegellicht;FASE-z44-volken;PER-Z50-tomas-trapper
+- **verwijst_naar:** PER-gewone-mannen;LOT-Z44-zegellicht;FASE-z44-volken;PER-Z50-tomas-trapper
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Bertram Lak (mens, Saelith) is geboren rond Zegeljaar 1580 en is laarzenmaker. Hij wil zijn ambacht in leven houden nu de rijke vrouwen minder worden. Wat niemand weet, is dat zijn vrouw droeg de gestolen laarzen al jaren. Het kost zijn naam bij twaalf klanten tegelijk. Uit de lijn van PER-gewone-mannen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-veenke-wortel · Veenke
+- **code:** PER-Z50-veenke-wortel
+- **categorie:** Personage
+- **onderwerp:** Veenke
+- **wat:** Veenke (myrrhen, veenhallen) is geboren rond Zegeljaar 1700 en is kooivlechtster. Het kost jelle, die in de kooi achterblijft. Ze wil een kooi maken die ademt zoals haar geliefde. Wat niemand weet, is dat ze heeft het sleutellied van haar moeder nooit helemaal geleerd. Uit de lijn van VOLK-myrrhen-Z6, PER-myrrhen-held-veen.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-myrrhen-Z6;PER-myrrhen-held-veen;LOT-Z44-myrrhen;FASE-z44-volken;PER-Z50-ottilie-vormhuis
+- **verwijst_naar:** VOLK-myrrhen-Z6;PER-myrrhen-held-veen;LOT-Z44-myrrhen;FASE-z44-volken;PER-Z50-ottilie-vormhuis
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Veenke (myrrhen, veenhallen) is geboren rond Zegeljaar 1700 en is kooivlechtster. Het kost jelle, die in de kooi achterblijft. Ze wil een kooi maken die ademt zoals haar geliefde. Wat niemand weet, is dat ze heeft het sleutellied van haar moeder nooit helemaal geleerd. Uit de lijn van VOLK-myrrhen-Z6, PER-myrrhen-held-veen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-ottilie-vormhuis · Ottilie
+- **code:** PER-Z50-ottilie-vormhuis
+- **categorie:** Personage
+- **onderwerp:** Ottilie
+- **wat:** Ottilie (mens, een vormhuis aan de rand van Brakhaven) is geboren rond Zegeljaar 1695 en is vormmeesteres en scheidsrechter. Het kost ze moet de rest van haar leven liegen tegen haar beste klant. Ze wil haar regels houden en haar klant houden. Wat niemand weet, is dat ze gaf Cas een vorm die geen worm is en zegt dat het er een is. Uit de lijn van PER-hesk-kweker.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-hesk-kweker;LOT-Z44-leegtewormen;ACTIE-Z46-10-actie;PER-Z50-veenke-wortel;FASE-z44-volken
+- **verwijst_naar:** PER-hesk-kweker;LOT-Z44-leegtewormen;ACTIE-Z46-10-actie;PER-Z50-veenke-wortel;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ottilie (mens, een vormhuis aan de rand van Brakhaven) is geboren rond Zegeljaar 1695 en is vormmeesteres en scheidsrechter. Het kost ze moet de rest van haar leven liegen tegen haar beste klant. Ze wil haar regels houden en haar klant houden. Wat niemand weet, is dat ze gaf Cas een vorm die geen worm is en zegt dat het er een is. Uit de lijn van PER-hesk-kweker.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-annelot-zoutvel · Annelot Zoutvel
+- **code:** PER-Z50-annelot-zoutvel
+- **categorie:** Personage
+- **onderwerp:** Annelot Zoutvel
+- **wat:** Annelot Zoutvel (sael-mor, Brakhaven) is geboren rond Zegeljaar 2060 en is geveilde schuldenaarster, later badhuiswerkster. Het kost drie jaar dienst en een zus die ze niet meer kan haten of vergeven. Ze wil haar schuld en haar zus achter zich laten. Wat niemand weet, is dat ze weet dat Kessa haar kocht en heeft het haar nooit gezegd. Uit de lijn van PER-saelmor-held-tamsin, VOLK-sael-mor.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-saelmor-held-tamsin;VOLK-sael-mor;THRILL-Z46-10-thriller;LOT-Z44-sael-mor;FASE-z44-volken;PER-Z50-liesje-badhuis
+- **verwijst_naar:** PER-saelmor-held-tamsin;VOLK-sael-mor;THRILL-Z46-10-thriller;LOT-Z44-sael-mor;FASE-z44-volken;PER-Z50-liesje-badhuis
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Annelot Zoutvel (sael-mor, Brakhaven) is geboren rond Zegeljaar 2060 en is geveilde schuldenaarster, later badhuiswerkster. Het kost drie jaar dienst en een zus die ze niet meer kan haten of vergeven. Ze wil haar schuld en haar zus achter zich laten. Wat niemand weet, is dat ze weet dat Kessa haar kocht en heeft het haar nooit gezegd. Uit de lijn van PER-saelmor-held-tamsin, VOLK-sael-mor.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-tomas-trapper · Tomas Trapper
+- **code:** PER-Z50-tomas-trapper
+- **categorie:** Personage
+- **onderwerp:** Tomas Trapper
+- **wat:** Tomas Trapper (mens, Saelith) is geboren rond Zegeljaar 1623 en is jonge stadsman op het lentefeest. Hij wil zich laten zien zoals hij is. Wat niemand weet, is dat hij heeft het al twee keer geprobeerd, in een kelder. Het kost zijn trots, voor honderd getuigen. Uit de lijn van PER-gewone-mannen.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-gewone-mannen;LOT-Z44-zegellicht;PER-Z50-bertram-lak;FASE-z44-volken;PER-Z50-ardis-hoogveld
+- **verwijst_naar:** PER-gewone-mannen;LOT-Z44-zegellicht;PER-Z50-bertram-lak;FASE-z44-volken;PER-Z50-ardis-hoogveld
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Tomas Trapper (mens, Saelith) is geboren rond Zegeljaar 1623 en is jonge stadsman op het lentefeest. Hij wil zich laten zien zoals hij is. Wat niemand weet, is dat hij heeft het al twee keer geprobeerd, in een kelder. Het kost zijn trots, voor honderd getuigen. Uit de lijn van PER-gewone-mannen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-ardis-hoogveld · Ardis Hoogveld
+- **code:** PER-Z50-ardis-hoogveld
+- **categorie:** Personage
+- **onderwerp:** Ardis Hoogveld
+- **wat:** Ardis Hoogveld (mens, Hoogvrouwe-gebergte) is geboren rond Zegeljaar 1600 en is dorpsvechtster. Ze wil nog één keer winnen. Het kost haar knie en haar plaats als beste vechtster van het dal. Wat niemand weet, is dat ze wist dat ze zou verliezen en vocht om te mogen kijken. Uit de lijn van VOLK-karrûk-Z6-Z38, PER-karruk-held-asha.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-karrûk-Z6-Z38;PER-karruk-held-asha;DRAGER-Z48-storm-10;PER-Z50-tomas-trapper;FASE-z44-volken
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;PER-karruk-held-asha;DRAGER-Z48-storm-10;PER-Z50-tomas-trapper;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ardis Hoogveld (mens, Hoogvrouwe-gebergte) is geboren rond Zegeljaar 1600 en is dorpsvechtster. Ze wil nog één keer winnen. Het kost haar knie en haar plaats als beste vechtster van het dal. Wat niemand weet, is dat ze wist dat ze zou verliezen en vocht om te mogen kijken. Uit de lijn van VOLK-karrûk-Z6-Z38, PER-karruk-held-asha.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-zirrah-was · Zirrah
+- **code:** PER-Z50-zirrah-was
+- **categorie:** Personage
+- **onderwerp:** Zirrah
+- **wat:** Zirrah (kluwer, een uiteengevallen korf bij Brakhaven) is geboren rond Zegeljaar 2550 en is jongste werkster. Wat niemand weet, is dat ze sliep als enige ook buiten de paartijd bij Zummel. Ze wil dat haar familie leert rouwen. Het kost de laatste was van de korf, die op de brandstapel gaat. Uit de lijn van PER-kluwer-held-zirr, VOLK-kluwer.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-kluwer-held-zirr;VOLK-kluwer;INTR-Z46-10-intrige;LOT-Z44-kluwers;FASE-z44-volken
+- **verwijst_naar:** PER-kluwer-held-zirr;VOLK-kluwer;INTR-Z46-10-intrige;LOT-Z44-kluwers;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Zirrah (kluwer, een uiteengevallen korf bij Brakhaven) is geboren rond Zegeljaar 2550 en is jongste werkster. Wat niemand weet, is dat ze sliep als enige ook buiten de paartijd bij Zummel. Ze wil dat haar familie leert rouwen. Het kost de laatste was van de korf, die op de brandstapel gaat. Uit de lijn van PER-kluwer-held-zirr, VOLK-kluwer.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-hendrika-steenhut · Hendrika Steenhut
+- **code:** PER-Z50-hendrika-steenhut
+- **categorie:** Personage
+- **onderwerp:** Hendrika Steenhut
+- **wat:** Hendrika Steenhut (dhurn, berghut onder de Amberpas) is geboren rond Zegeljaar 1820 en is gastvrouw van een berghut. Ze wil haar hut veilig houden en zelf kiezen wie erin slaapt. Wat niemand weet, is dat ze neemt al jaren nachten aan en geen giften. Het kost de hut sluit als de wegen dichtvallen, en ze moet zelf de weg af. Uit de lijn van VOLK-dhurn, PER-dhurn-held-brakka.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-dhurn;PER-dhurn-held-brakka;VERHAAL-Z44-tijdperk-10;LOT-Z44-dhurn;FASE-z44-volken;PER-Z50-grenna-hamer
+- **verwijst_naar:** VOLK-dhurn;PER-dhurn-held-brakka;VERHAAL-Z44-tijdperk-10;LOT-Z44-dhurn;FASE-z44-volken;PER-Z50-grenna-hamer
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Hendrika Steenhut (dhurn, berghut onder de Amberpas) is geboren rond Zegeljaar 1820 en is gastvrouw van een berghut. Ze wil haar hut veilig houden en zelf kiezen wie erin slaapt. Wat niemand weet, is dat ze neemt al jaren nachten aan en geen giften. Het kost de hut sluit als de wegen dichtvallen, en ze moet zelf de weg af. Uit de lijn van VOLK-dhurn, PER-dhurn-held-brakka.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-faren-zandloper · Faren Zandloper
+- **code:** PER-Z50-faren-zandloper
+- **categorie:** Personage
+- **onderwerp:** Faren Zandloper
+- **wat:** Faren Zandloper (mens, Qesh en de woestijnrand) is geboren rond Zegeljaar 2200 en is karavaanknecht. Het kost zehra, en zijn naam bij haar familie. Hij wil trouwen met Zehra van de Putten. Wat niemand weet, is dat hij heeft geen druppel Ishvar-bloed. Uit de lijn van PER-gewone-mannen.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-gewone-mannen;LOT-Z44-ishvar;FASE-z44-volken
+- **verwijst_naar:** PER-gewone-mannen;LOT-Z44-ishvar;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Faren Zandloper (mens, Qesh en de woestijnrand) is geboren rond Zegeljaar 2200 en is karavaanknecht. Het kost zehra, en zijn naam bij haar familie. Hij wil trouwen met Zehra van de Putten. Wat niemand weet, is dat hij heeft geen druppel Ishvar-bloed. Uit de lijn van PER-gewone-mannen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-grenna-hamer · Grenna Hamer
+- **code:** PER-Z50-grenna-hamer
+- **categorie:** Personage
+- **onderwerp:** Grenna Hamer
+- **wat:** Grenna Hamer (dhurn, groeven aan de Kharvos-grens) is geboren rond Zegeljaar 1848 en is smokkelaarster. Ze wil rijk worden aan een licht dat toch uitgaat. Het kost negen dagen pijn en een steen met haar warmte erin, die ze verkoopt. Wat niemand weet, is dat het kristalzaad groeit sneller in haar dan ze de koper vertelt. Uit de lijn van VOLK-dhurn, PER-dhurn-schurk-orvald.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-dhurn;PER-dhurn-schurk-orvald;OORLOG-Z46-10-oorlog;LOT-Z44-orrim;PER-Z50-hendrika-steenhut;FASE-z44-volken
+- **verwijst_naar:** VOLK-dhurn;PER-dhurn-schurk-orvald;OORLOG-Z46-10-oorlog;LOT-Z44-orrim;PER-Z50-hendrika-steenhut;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Grenna Hamer (dhurn, groeven aan de Kharvos-grens) is geboren rond Zegeljaar 1848 en is smokkelaarster. Ze wil rijk worden aan een licht dat toch uitgaat. Het kost negen dagen pijn en een steen met haar warmte erin, die ze verkoopt. Wat niemand weet, is dat het kristalzaad groeit sneller in haar dan ze de koper vertelt. Uit de lijn van VOLK-dhurn, PER-dhurn-schurk-orvald.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-liesje-badhuis · Liesje
+- **code:** PER-Z50-liesje-badhuis
+- **categorie:** Personage
+- **onderwerp:** Liesje
+- **wat:** Liesje (mens, Brakhaven) is geboren rond Zegeljaar 2075 en is badhuiswerkster. Wat niemand weet, is dat ze weet van wie het slijm komt. Ze wil weten waar de vreemde herinneringen vandaan komen. Het kost ze kan niet meer baden zonder een vreemde te worden. Uit de lijn van PER-gewone-mannen, VOLK-oevrin.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-gewone-mannen;VOLK-oevrin;THRILL-Z46-10-thriller;LOT-Z44-oevrin;PER-Z50-annelot-zoutvel;FASE-z44-volken
+- **verwijst_naar:** PER-gewone-mannen;VOLK-oevrin;THRILL-Z46-10-thriller;LOT-Z44-oevrin;PER-Z50-annelot-zoutvel;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Liesje (mens, Brakhaven) is geboren rond Zegeljaar 2075 en is badhuiswerkster. Wat niemand weet, is dat ze weet van wie het slijm komt. Ze wil weten waar de vreemde herinneringen vandaan komen. Het kost ze kan niet meer baden zonder een vreemde te worden. Uit de lijn van PER-gewone-mannen, VOLK-oevrin.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-brenna-ostkaar · Brenna Ostkaar
+- **code:** PER-Z50-b-brenna-ostkaar
+- **categorie:** Personage
+- **onderwerp:** Brenna Ostkaar
+- **wat:** Brenna Ostkaar (mens, Hoogvrouwe-gebergte (Kaldrun) en de puinstad onder Hoornburg) is geboren rond Zegeljaar 3320 en is veldvrouwe en gezante naar Kharvos. Het kost haar vrijheid als gijzelaar, en haar naam in Kaldrun. Ze wil de grensvrouwen thuis krijgen zonder een oorlog te beginnen. Wat niemand weet, is dat ze hield als gezante meer van een man van de vorst dan van haar opdracht. Uit de lijn van HUI-kaldra-Z6, LOT-Z44-karruk-storm.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** HUI-kaldra-Z6;LOT-Z44-karruk-storm;OORLOG-Z46-11-oorlog;VERHAAL-Z44-tijdperk-11;FASE-z44-helden
+- **verwijst_naar:** HUI-kaldra-Z6;LOT-Z44-karruk-storm;OORLOG-Z46-11-oorlog;VERHAAL-Z44-tijdperk-11;FASE-z44-helden
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Brenna Ostkaar (mens, Hoogvrouwe-gebergte (Kaldrun) en de puinstad onder Hoornburg) is geboren rond Zegeljaar 3320 en is veldvrouwe en gezante naar Kharvos. Het kost haar vrijheid als gijzelaar, en haar naam in Kaldrun. Ze wil de grensvrouwen thuis krijgen zonder een oorlog te beginnen. Wat niemand weet, is dat ze hield als gezante meer van een man van de vorst dan van haar opdracht. Uit de lijn van HUI-kaldra-Z6, LOT-Z44-karruk-storm.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-wessel-oom · Wessel Oom
+- **code:** PER-Z50-b-wessel-oom
+- **categorie:** Personage
+- **onderwerp:** Wessel Oom
+- **wat:** Wessel Oom (mens, dorp aan de mistrand) is geboren rond Zegeljaar 3402 en is kaarsenmaker. Hij wil Neveth zo lang mogelijk laten voelen dat ze bestaat. Wat niemand weet, is dat hij bewaart de wasafdrukken ook voor zichzelf, om haar niet kwijt te raken. Het kost hij wordt vergeten door degene die hij het langst onthoudt. Uit de lijn van LOT-Z44-aelthir, LOT-Z44-kluwers.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-aelthir;LOT-Z44-kluwers;EROS-Z45-haak-5;FASE-z44-helden
+- **verwijst_naar:** LOT-Z44-aelthir;LOT-Z44-kluwers;EROS-Z45-haak-5;FASE-z44-helden
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Wessel Oom (mens, dorp aan de mistrand) is geboren rond Zegeljaar 3402 en is kaarsenmaker. Hij wil Neveth zo lang mogelijk laten voelen dat ze bestaat. Wat niemand weet, is dat hij bewaart de wasafdrukken ook voor zichzelf, om haar niet kwijt te raken. Het kost hij wordt vergeten door degene die hij het langst onthoudt. Uit de lijn van LOT-Z44-aelthir, LOT-Z44-kluwers.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-brokke-hamerling · Brokke Hamerling
+- **code:** PER-Z50-b-brokke-hamerling
+- **categorie:** Personage
+- **onderwerp:** Brokke Hamerling
+- **wat:** Brokke Hamerling (mens (Dhurn-bloed), de poort bij de lege Dhurn-hallen) is geboren rond Zegeljaar 3667 en is smid die zoemend ijzer slaat. Wat niemand weet, is dat hij kent de toon van het ijzer maar half; de rest gokt hij. Hij wil Gudrun liefhebben zonder dat een van beiden breekt. Het kost de hal en de steen van zijn grootvader. Uit de lijn van VOLK-dhurn, LOT-Z44-dhurn, PER-dhurn-schurk-orvald.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-dhurn;LOT-Z44-dhurn;PER-dhurn-schurk-orvald;COMEDY-Z46-11-comedy;ACTIE-Z46-11-actie;INTR-Z46-11-intrige;FASE-z44-helden
+- **verwijst_naar:** VOLK-dhurn;LOT-Z44-dhurn;PER-dhurn-schurk-orvald;COMEDY-Z46-11-comedy;ACTIE-Z46-11-actie;INTR-Z46-11-intrige;FASE-z44-helden
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Brokke Hamerling (mens (Dhurn-bloed), de poort bij de lege Dhurn-hallen) is geboren rond Zegeljaar 3667 en is smid die zoemend ijzer slaat. Wat niemand weet, is dat hij kent de toon van het ijzer maar half; de rest gokt hij. Hij wil Gudrun liefhebben zonder dat een van beiden breekt. Het kost de hal en de steen van zijn grootvader. Uit de lijn van VOLK-dhurn, LOT-Z44-dhurn, PER-dhurn-schurk-orvald.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-tamas-rijsel · Tamas Rijsel
+- **code:** PER-Z50-b-tamas-rijsel
+- **categorie:** Personage
+- **onderwerp:** Tamas Rijsel
+- **wat:** Tamas Rijsel (mens, rand van de Orrim-woestijn (Rosse)) is geboren rond Zegeljaar 3051 en is steenslijper. Hij wil het genot van het schuren met Ilke houden. Wat niemand weet, is dat hij vermoedt dat het stof van een beeld komt dat nog leeft. Het kost een vraag die hij nooit mag stellen. Uit de lijn van LOT-Z44-orrim, VOLK-ishvar.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-orrim;VOLK-ishvar;OORLOG-Z46-10-oorlog;FASE-z44-helden
+- **verwijst_naar:** LOT-Z44-orrim;VOLK-ishvar;OORLOG-Z46-10-oorlog;FASE-z44-helden
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Tamas Rijsel (mens, rand van de Orrim-woestijn (Rosse)) is geboren rond Zegeljaar 3051 en is steenslijper. Hij wil het genot van het schuren met Ilke houden. Wat niemand weet, is dat hij vermoedt dat het stof van een beeld komt dat nog leeft. Het kost een vraag die hij nooit mag stellen. Uit de lijn van LOT-Z44-orrim, VOLK-ishvar.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-mareth-vlaskamp · Mareth Vlaskamp
+- **code:** PER-Z50-b-mareth-vlaskamp
+- **categorie:** Personage
+- **onderwerp:** Mareth Vlaskamp
+- **wat:** Mareth Vlaskamp (mens, Nevel-eilanden) is geboren rond Zegeljaar 3470 en is netbreister en later sporendeelster. Ze wil los komen van Hesse, en daarna niet opnieuw aan iemand vastraken. Het kost twee dagen hunkering bij elke maan, en later Jorans afhankelijkheid. Wat niemand weet, is dat ze weet wat Hesse door zijn sporen mengt en zwijgt erover tegen het eiland. Uit de lijn van VOLK-myrrhen-Z6, LOT-Z44-gaven-mannen.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-myrrhen-Z6;LOT-Z44-gaven-mannen;HORROR-Z46-11-horror;DRAGER-Z48-gave-11;EROS-Z45-haak-6;FASE-z44-helden
+- **verwijst_naar:** VOLK-myrrhen-Z6;LOT-Z44-gaven-mannen;HORROR-Z46-11-horror;DRAGER-Z48-gave-11;EROS-Z45-haak-6;FASE-z44-helden
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Mareth Vlaskamp (mens, Nevel-eilanden) is geboren rond Zegeljaar 3470 en is netbreister en later sporendeelster. Ze wil los komen van Hesse, en daarna niet opnieuw aan iemand vastraken. Het kost twee dagen hunkering bij elke maan, en later Jorans afhankelijkheid. Wat niemand weet, is dat ze weet wat Hesse door zijn sporen mengt en zwijgt erover tegen het eiland. Uit de lijn van VOLK-myrrhen-Z6, LOT-Z44-gaven-mannen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-corvin-achterdijk · Corvin Achterdijk
+- **code:** PER-Z50-b-corvin-achterdijk
+- **categorie:** Personage
+- **onderwerp:** Corvin Achterdijk
+- **wat:** Corvin Achterdijk (mens, Brakhaven) is geboren rond Zegeljaar 3150 en is speler van de gaven-man in een speelhuis. Het kost hij draagt elke week andermans naam. Hij wil de Overdracht goed spelen, zodat niemand haar voor echt houdt. Wat niemand weet, is dat hij leerde de rol van een oude stalman die er geen spel van maakte. Uit de lijn van PER-gewone-mannen, HUI-Z11-kusthuizen.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-gewone-mannen;HUI-Z11-kusthuizen;DRAGER-Z48-stal-9;EROS-Z45-haak-1;FASE-z44-helden
+- **verwijst_naar:** PER-gewone-mannen;HUI-Z11-kusthuizen;DRAGER-Z48-stal-9;EROS-Z45-haak-1;FASE-z44-helden
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Corvin Achterdijk (mens, Brakhaven) is geboren rond Zegeljaar 3150 en is speler van de gaven-man in een speelhuis. Het kost hij draagt elke week andermans naam. Hij wil de Overdracht goed spelen, zodat niemand haar voor echt houdt. Wat niemand weet, is dat hij leerde de rol van een oude stalman die er geen spel van maakte. Uit de lijn van PER-gewone-mannen, HUI-Z11-kusthuizen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-aaltje-brons · Aaltje Brons
+- **code:** PER-Z50-b-aaltje-brons
+- **categorie:** Personage
+- **onderwerp:** Aaltje Brons
+- **wat:** Aaltje Brons (mens, Ambergaard) is geboren rond Zegeljaar 3290 en is herbergierster en weduwe. Ze wil het dorp na de oorlog weer laten lachen. Het kost de spot van de vrouwen die het oude feest heilig vinden. Wat niemand weet, is dat ze wil maar van één van de zeven iets, en dat is niet wat hij denkt. Uit de lijn van HUI-varenne, PER-gewone-mannen.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** HUI-varenne;PER-gewone-mannen;OORLOG-Z46-11-oorlog;ZEDEN-Z45-fase-11;FASE-z44-helden
+- **verwijst_naar:** HUI-varenne;PER-gewone-mannen;OORLOG-Z46-11-oorlog;ZEDEN-Z45-fase-11;FASE-z44-helden
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Aaltje Brons (mens, Ambergaard) is geboren rond Zegeljaar 3290 en is herbergierster en weduwe. Ze wil het dorp na de oorlog weer laten lachen. Het kost de spot van de vrouwen die het oude feest heilig vinden. Wat niemand weet, is dat ze wil maar van één van de zeven iets, en dat is niet wat hij denkt. Uit de lijn van HUI-varenne, PER-gewone-mannen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-ylva-teerling · Ylva Teerling
+- **code:** PER-Z50-b-ylva-teerling
+- **categorie:** Personage
+- **onderwerp:** Ylva Teerling
+- **wat:** Ylva Teerling (mens, Hoogvrouwe-gebergte, de weg naar de laatste kluis) is geboren rond Zegeljaar 3700 en is dievegge. Ze wil de laatste kluis openen voor wie er wil schuilen. Het kost het pak blijft haar gezicht, en iedereen weet het na die dag. Wat niemand weet, is dat ze weet niet zeker of haar geliefde de kapitein liet doden. Uit de lijn van HUI-kaldra-Z6, LOT-Z44-wiegkasten.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** HUI-kaldra-Z6;LOT-Z44-wiegkasten;THRILL-Z46-11-thriller;HELD-Z46-11-held;FASE-z44-helden
+- **verwijst_naar:** HUI-kaldra-Z6;LOT-Z44-wiegkasten;THRILL-Z46-11-thriller;HELD-Z46-11-held;FASE-z44-helden
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ylva Teerling (mens, Hoogvrouwe-gebergte, de weg naar de laatste kluis) is geboren rond Zegeljaar 3700 en is dievegge. Ze wil de laatste kluis openen voor wie er wil schuilen. Het kost het pak blijft haar gezicht, en iedereen weet het na die dag. Wat niemand weet, is dat ze weet niet zeker of haar geliefde de kapitein liet doden. Uit de lijn van HUI-kaldra-Z6, LOT-Z44-wiegkasten.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-ressa-zoutvel · Ressa Zoutvel
+- **code:** PER-Z50-b-ressa-zoutvel
+- **categorie:** Personage
+- **onderwerp:** Ressa Zoutvel
+- **wat:** Ressa Zoutvel (sael-mor, Zoutkust en Brakhaven) is geboren rond Zegeljaar 3068 en is kapiteinsvrouw. Ze wil haar schip en haar bemanning bijeenhouden. Wat niemand weet, is dat ze rekent elke nacht in het kasboek, ook die van haarzelf. Het kost haar volk lost op in de havens die haar rijk maken. Uit de lijn van PER-saelmor-held-tamsin, VOLK-sael-mor, LOT-Z44-sael-mor.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-saelmor-held-tamsin;VOLK-sael-mor;LOT-Z44-sael-mor;EROS-Z45-haak-4;FASE-z44-helden
+- **verwijst_naar:** PER-saelmor-held-tamsin;VOLK-sael-mor;LOT-Z44-sael-mor;EROS-Z45-haak-4;FASE-z44-helden
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ressa Zoutvel (sael-mor, Zoutkust en Brakhaven) is geboren rond Zegeljaar 3068 en is kapiteinsvrouw. Ze wil haar schip en haar bemanning bijeenhouden. Wat niemand weet, is dat ze rekent elke nacht in het kasboek, ook die van haarzelf. Het kost haar volk lost op in de havens die haar rijk maken. Uit de lijn van PER-saelmor-held-tamsin, VOLK-sael-mor, LOT-Z44-sael-mor.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-neshra · Neshra van de Putten
+- **code:** PER-Z50-b-neshra
+- **categorie:** Personage
+- **onderwerp:** Neshra van de Putten
+- **wat:** Neshra van de Putten (ishvar, oase bij Qesh (Rosse)) is geboren rond Zegeljaar 3540 en is schrijfster van de hofrol. Wat niemand weet, is dat ze weet dat de Zonvorst geen erfgenaam kan verwekken. Ze wil zien zonder gezien te worden. Het kost als ze het opschrijft, valt het hof; als ze het verzwijgt, blijft ze er voor altijd. Uit de lijn van VOLK-ishvar, PER-ishvar-held-nouri, HUI-qesh-Z6.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-ishvar;PER-ishvar-held-nouri;HUI-qesh-Z6;INTR-Z46-11-intrige;FASE-z44-helden
+- **verwijst_naar:** VOLK-ishvar;PER-ishvar-held-nouri;HUI-qesh-Z6;INTR-Z46-11-intrige;FASE-z44-helden
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Neshra van de Putten (ishvar, oase bij Qesh (Rosse)) is geboren rond Zegeljaar 3540 en is schrijfster van de hofrol. Wat niemand weet, is dat ze weet dat de Zonvorst geen erfgenaam kan verwekken. Ze wil zien zonder gezien te worden. Het kost als ze het opschrijft, valt het hof; als ze het verzwijgt, blijft ze er voor altijd. Uit de lijn van VOLK-ishvar, PER-ishvar-held-nouri, HUI-qesh-Z6.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-lisanne-vorst · Lisanne Vorst
+- **code:** PER-Z50-b-lisanne-vorst
+- **categorie:** Personage
+- **onderwerp:** Lisanne Vorst
+- **wat:** Lisanne Vorst (mens, de kust van de lander) is geboren rond Zegeljaar 4080 en is touwslager. Ze wil mee met de lander naar de bewegende ster. Het kost als ze de plaats eindelijk kan krijgen, ziet ze wat achterblijven betekent en weigert ze. Wat niemand weet, is dat ze wil niet zozeer weg als gekozen worden. Uit de lijn van HUI-Z11-kusthuizen, LOT-Z44-kluisschip.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** HUI-Z11-kusthuizen;LOT-Z44-kluisschip;INTR-Z46-12-intrige;THRILL-Z46-12-thriller;HELD-Z46-12-held;FASE-z44-vertrek
+- **verwijst_naar:** HUI-Z11-kusthuizen;LOT-Z44-kluisschip;INTR-Z46-12-intrige;THRILL-Z46-12-thriller;HELD-Z46-12-held;FASE-z44-vertrek
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Lisanne Vorst (mens, de kust van de lander) is geboren rond Zegeljaar 4080 en is touwslager. Ze wil mee met de lander naar de bewegende ster. Het kost als ze de plaats eindelijk kan krijgen, ziet ze wat achterblijven betekent en weigert ze. Wat niemand weet, is dat ze wil niet zozeer weg als gekozen worden. Uit de lijn van HUI-Z11-kusthuizen, LOT-Z44-kluisschip.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-hedde-moerkens · Hedde Moerkens
+- **code:** PER-Z50-b-hedde-moerkens
+- **categorie:** Personage
+- **onderwerp:** Hedde Moerkens
+- **wat:** Hedde Moerkens (mens, veenrand van de Groenmuil) is geboren rond Zegeljaar 4064 en is heelster. Ze wil het net en de Oevrin laten voortbestaan als de rest vertrekt. Het kost haar lichaam is twee keer de bewaarplaats van een ander volk geweest. Wat niemand weet, is dat ze draagt in haar huid wat het net haar gaf toen de Wortel zweeg. Uit de lijn van VOLK-myrrhen-Z6, PER-myrrhen-held-veen.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-myrrhen-Z6;PER-myrrhen-held-veen;LOT-Z44-wortelstem;LOT-Z44-leegtewormen;HORROR-Z46-12-horror;FASE-z44-vertrek
+- **verwijst_naar:** VOLK-myrrhen-Z6;PER-myrrhen-held-veen;LOT-Z44-wortelstem;LOT-Z44-leegtewormen;HORROR-Z46-12-horror;FASE-z44-vertrek
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Hedde Moerkens (mens, veenrand van de Groenmuil) is geboren rond Zegeljaar 4064 en is heelster. Ze wil het net en de Oevrin laten voortbestaan als de rest vertrekt. Het kost haar lichaam is twee keer de bewaarplaats van een ander volk geweest. Wat niemand weet, is dat ze draagt in haar huid wat het net haar gaf toen de Wortel zweeg. Uit de lijn van VOLK-myrrhen-Z6, PER-myrrhen-held-veen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-imke-deral · Imke Deral
+- **code:** PER-Z50-b-imke-deral
+- **categorie:** Personage
+- **onderwerp:** Imke Deral
+- **wat:** Imke Deral (mens (havenbloed), Brakhaven) is geboren rond Zegeljaar 4058 en is reederes van een kusthuis. Ze wil haar schepen houden en haar verdronken man nog één keer zien. Het kost ze kiest twee keer stilte boven gelijk. Wat niemand weet, is dat ze weet wie de verstekeling is en wie haar bespioneert, en verraadt geen van beiden. Uit de lijn van HUI-Z11-kusthuizen, LOT-Z44-sael-mor.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** HUI-Z11-kusthuizen;LOT-Z44-sael-mor;THRILL-Z46-12-thriller;INTR-Z46-12-intrige;EROS-Z45-haak-3;FASE-z44-vertrek
+- **verwijst_naar:** HUI-Z11-kusthuizen;LOT-Z44-sael-mor;THRILL-Z46-12-thriller;INTR-Z46-12-intrige;EROS-Z45-haak-3;FASE-z44-vertrek
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Imke Deral (mens (havenbloed), Brakhaven) is geboren rond Zegeljaar 4058 en is reederes van een kusthuis. Ze wil haar schepen houden en haar verdronken man nog één keer zien. Het kost ze kiest twee keer stilte boven gelijk. Wat niemand weet, is dat ze weet wie de verstekeling is en wie haar bespioneert, en verraadt geen van beiden. Uit de lijn van HUI-Z11-kusthuizen, LOT-Z44-sael-mor.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-okke-lindewei · Okke Lindewei
+- **code:** PER-Z50-b-okke-lindewei
+- **categorie:** Personage
+- **onderwerp:** Okke Lindewei
+- **wat:** Okke Lindewei (mens, kustdorp bij de lander) is geboren rond Zegeljaar 4056 en is dienaar onder seizoenscontract. Het kost dertig seizoenen niet beslissen, en dan opeens moeten. Hij wil Sylwen laten gaan zonder zichzelf mee te geven. Wat niemand weet, is dat hij weet waar Sylwen haar geld bewaarde en heeft het nooit aangeraakt. Uit de lijn van PER-gewone-mannen, LOT-Z44-aelthir.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-gewone-mannen;LOT-Z44-aelthir;EROS-Z45-haak-7;VERHAAL-Z44-tijdperk-12;FASE-z44-vertrek
+- **verwijst_naar:** PER-gewone-mannen;LOT-Z44-aelthir;EROS-Z45-haak-7;VERHAAL-Z44-tijdperk-12;FASE-z44-vertrek
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Okke Lindewei (mens, kustdorp bij de lander) is geboren rond Zegeljaar 4056 en is dienaar onder seizoenscontract. Het kost dertig seizoenen niet beslissen, en dan opeens moeten. Hij wil Sylwen laten gaan zonder zichzelf mee te geven. Wat niemand weet, is dat hij weet waar Sylwen haar geld bewaarde en heeft het nooit aangeraakt. Uit de lijn van PER-gewone-mannen, LOT-Z44-aelthir.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-wijnanda-groen · Wijnanda Groen
+- **code:** PER-Z50-b-wijnanda-groen
+- **categorie:** Personage
+- **onderwerp:** Wijnanda Groen
+- **wat:** Wijnanda Groen (mens, rand van de Groenmuil) is geboren rond Zegeljaar 4090 en is turfsteekster. Ze wil het spel uit de liederen een keer echt beleven. Wat niemand weet, is dat ze wist dat de poel verlaten was omdat er iets in groeide. Het kost haar lichaam stopt niet meer met wat ze begon. Uit de lijn van HUI-varenne, LOT-Z44-kluwers.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** HUI-varenne;LOT-Z44-kluwers;HORROR-Z46-12-horror;FASE-z44-vertrek
+- **verwijst_naar:** HUI-varenne;LOT-Z44-kluwers;HORROR-Z46-12-horror;FASE-z44-vertrek
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Wijnanda Groen (mens, rand van de Groenmuil) is geboren rond Zegeljaar 4090 en is turfsteekster. Ze wil het spel uit de liederen een keer echt beleven. Wat niemand weet, is dat ze wist dat de poel verlaten was omdat er iets in groeide. Het kost haar lichaam stopt niet meer met wat ze begon. Uit de lijn van HUI-varenne, LOT-Z44-kluwers.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-aldra · Zuster Aldra
+- **code:** PER-Z50-b-aldra
+- **categorie:** Personage
+- **onderwerp:** Zuster Aldra
+- **wat:** Zuster Aldra (mens, het laatste zusterhuis van de Stille eilanden) is geboren rond Zegeljaar 4069 en is Stille Zuster. Ze wil Teyra houden, ook al vergeet die haar. Het kost elke ochtend opnieuw bekend moeten worden bij wie ze liefheeft. Wat niemand weet, is dat ze twijfelde al jaren aan de gelofte voordat Teyra kwam. Uit de lijn van PER-bondgenoten, LOT-Z44-aelthir.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-bondgenoten;LOT-Z44-aelthir;COMEDY-Z46-12-comedy;D1-aelthir-ziekte;FASE-z44-vertrek
+- **verwijst_naar:** PER-bondgenoten;LOT-Z44-aelthir;COMEDY-Z46-12-comedy;D1-aelthir-ziekte;FASE-z44-vertrek
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Zuster Aldra (mens, het laatste zusterhuis van de Stille eilanden) is geboren rond Zegeljaar 4069 en is Stille Zuster. Ze wil Teyra houden, ook al vergeet die haar. Het kost elke ochtend opnieuw bekend moeten worden bij wie ze liefheeft. Wat niemand weet, is dat ze twijfelde al jaren aan de gelofte voordat Teyra kwam. Uit de lijn van PER-bondgenoten, LOT-Z44-aelthir.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-ebbe-rendal · Ebbe Rendal
+- **code:** PER-Z50-b-ebbe-rendal
+- **categorie:** Personage
+- **onderwerp:** Ebbe Rendal
+- **wat:** Ebbe Rendal (mens, droge plat bij de landbrug) is geboren rond Zegeljaar 6100 en is rendierhoeder. Wat niemand weet, is dat hij weet niet of hij de vader is van het kind van de oostweg. Hij wil zelf kiezen wie hij wordt, niet wie hem wint of koopt. Het kost een kind dat misschien het zijne is, aan de andere kant van de brug. Uit de lijn van VOLK-ishvar, HUI-varenne.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-ishvar;HUI-varenne;VERHAAL-Z44-tijdperk-13;EROS-Z45-haak-8;FASE-z44-mensen
+- **verwijst_naar:** VOLK-ishvar;HUI-varenne;VERHAAL-Z44-tijdperk-13;EROS-Z45-haak-8;FASE-z44-mensen
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ebbe Rendal (mens, droge plat bij de landbrug) is geboren rond Zegeljaar 6100 en is rendierhoeder. Wat niemand weet, is dat hij weet niet of hij de vader is van het kind van de oostweg. Hij wil zelf kiezen wie hij wordt, niet wie hem wint of koopt. Het kost een kind dat misschien het zijne is, aan de andere kant van de brug. Uit de lijn van VOLK-ishvar, HUI-varenne.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-ilsabet · Ilsabet
+- **code:** PER-Z50-b-ilsabet
+- **categorie:** Personage
+- **onderwerp:** Ilsabet
+- **wat:** Ilsabet (mens, veenrand op het plat) is geboren rond Zegeljaar 5900 en is kruidenvrouw. Ze wil Wenke zo diep kennen als een hand kan. Wat niemand weet, is dat ze voelde in Wenke iets wat geen mens zou moeten hebben. Het kost een vraag die ze nooit stelt. Uit de lijn van VOLK-myrrhen-Z6, PER-myrrhen-held-veen.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-myrrhen-Z6;PER-myrrhen-held-veen;LOT-Z44-myrrhen;VERHAAL-Z44-tijdperk-13;FASE-z44-mensen
+- **verwijst_naar:** VOLK-myrrhen-Z6;PER-myrrhen-held-veen;LOT-Z44-myrrhen;VERHAAL-Z44-tijdperk-13;FASE-z44-mensen
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ilsabet (mens, veenrand op het plat) is geboren rond Zegeljaar 5900 en is kruidenvrouw. Ze wil Wenke zo diep kennen als een hand kan. Wat niemand weet, is dat ze voelde in Wenke iets wat geen mens zou moeten hebben. Het kost een vraag die ze nooit stelt. Uit de lijn van VOLK-myrrhen-Z6, PER-myrrhen-held-veen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-kerra-asvaart · Kerra Asvaart
+- **code:** PER-Z50-b-kerra-asvaart
+- **categorie:** Personage
+- **onderwerp:** Kerra Asvaart
+- **wat:** Kerra Asvaart (mens (Karrûk-bloed), rietkust van de drooggevallen zee) is geboren rond Zegeljaar 6300 en is hoedster van de snijrite. Wat niemand weet, is dat ze weet dat het mes werd gewisseld, en door wie. Ze wil de rite veilig houden en de groep bijeen. Het kost een dag te kijk, en de helft van haar groep. Uit de lijn van PER-karruk-held-asha, VOLK-karrûk-Z6-Z38.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** PER-karruk-held-asha;VOLK-karrûk-Z6-Z38;DRAGER-Z48-storm-10;ZEDEN-Z45-fase-13;FASE-z44-mensen
+- **verwijst_naar:** PER-karruk-held-asha;VOLK-karrûk-Z6-Z38;DRAGER-Z48-storm-10;ZEDEN-Z45-fase-13;FASE-z44-mensen
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Kerra Asvaart (mens (Karrûk-bloed), rietkust van de drooggevallen zee) is geboren rond Zegeljaar 6300 en is hoedster van de snijrite. Wat niemand weet, is dat ze weet dat het mes werd gewisseld, en door wie. Ze wil de rite veilig houden en de groep bijeen. Het kost een dag te kijk, en de helft van haar groep. Uit de lijn van PER-karruk-held-asha, VOLK-karrûk-Z6-Z38.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-noor-halsema · Noor Halsema
+- **code:** PER-Z50-b-noor-halsema
+- **categorie:** Personage
+- **onderwerp:** Noor Halsema
+- **wat:** Noor Halsema (mens, het plat, bij de paddenstoelkringen) is geboren rond Zegeljaar 6500 en is pottenbakster. Ze wil weten wat ze voelt zonder dat iets anders voor haar voelt. Wat niemand weet, is dat Siem kwam niet terug als zichzelf, en zij gaf de doden een stem. Het kost een man die ze liefhad, en het vertrouwen van haar grootmoeder. Uit de lijn van LOT-Z44-myrrhen, VOLK-myrrhen-Z6.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-myrrhen;VOLK-myrrhen-Z6;VERHAAL-Z44-tijdperk-13;EROS-Z45-haak-8;FASE-z44-mensen
+- **verwijst_naar:** LOT-Z44-myrrhen;VOLK-myrrhen-Z6;VERHAAL-Z44-tijdperk-13;EROS-Z45-haak-8;FASE-z44-mensen
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Noor Halsema (mens, het plat, bij de paddenstoelkringen) is geboren rond Zegeljaar 6500 en is pottenbakster. Ze wil weten wat ze voelt zonder dat iets anders voor haar voelt. Wat niemand weet, is dat Siem kwam niet terug als zichzelf, en zij gaf de doden een stem. Het kost een man die ze liefhad, en het vertrouwen van haar grootmoeder. Uit de lijn van LOT-Z44-myrrhen, VOLK-myrrhen-Z6.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-b-joost-lemmerik · Joost Lemmerik
+- **code:** PER-Z50-b-joost-lemmerik
+- **categorie:** Personage
+- **onderwerp:** Joost Lemmerik
+- **wat:** Joost Lemmerik (mens, de landbrug naar het oosten) is geboren rond Zegeljaar 6050 en is sledemaker die trekleider werd. Het kost elke dag doen alsof, met de schaafplekken als bewijs. Hij wil zijn kamp levend over de brug krijgen. Wat niemand weet, is dat hij kent de gespen van het tuig niet en leidt op gevoel. Uit de lijn van LOT-Z44-dhurn, VOLK-ishvar.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-dhurn;VOLK-ishvar;VERHAAL-Z44-tijdperk-13;FASE-z44-mensen
+- **verwijst_naar:** LOT-Z44-dhurn;VOLK-ishvar;VERHAAL-Z44-tijdperk-13;FASE-z44-mensen
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Joost Lemmerik (mens, de landbrug naar het oosten) is geboren rond Zegeljaar 6050 en is sledemaker die trekleider werd. Het kost elke dag doen alsof, met de schaafplekken als bewijs. Hij wil zijn kamp levend over de brug krijgen. Wat niemand weet, is dat hij kent de gespen van het tuig niet en leidt op gevoel. Uit de lijn van LOT-Z44-dhurn, VOLK-ishvar.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-oelwyn · Oelwyn
+- **code:** PER-Z50-c-oelwyn
+- **categorie:** Personage
+- **onderwerp:** Oelwyn
+- **wat:** Oelwyn (oevrin, laatste wierden van de verdrinkende Zoutkust) is geboren rond Zegeljaar 11380 en is Oevrin-vrouw met een rekbare keelzak, zangeres in de zangpoel; ca. 12.500 v.Chr. in aardse jaren. Het kost haar zangstem, en daarna elk jaar dat ze in de diepte zit in plaats van bij hem. Ze wil Wessel houden zonder haar volk te verliezen. Wat niemand weet, is dat Haar keelzak scheurde al eerder een keer; ze weet dat hij een lange omhulling misschien niet overleeft. Uit de lijn van LOT-Z44-oevrin, VOLK-oevrin, DRAGER-Z48-zang-14.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-oevrin;VOLK-oevrin;DRAGER-Z48-zang-14;VERHAAL-Z44-tijdperk-14;EROS-Z45-haak-9;MYTHE-Z43-zeemeermin;FASE-z44-smelt
+- **verwijst_naar:** LOT-Z44-oevrin;VOLK-oevrin;DRAGER-Z48-zang-14;VERHAAL-Z44-tijdperk-14;EROS-Z45-haak-9;MYTHE-Z43-zeemeermin;FASE-z44-smelt
+- **jaar:** 
+- **tijdperk:** 14 De Grote Smelt (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Oelwyn (oevrin, laatste wierden van de verdrinkende Zoutkust) is geboren rond Zegeljaar 11380 en is Oevrin-vrouw met een rekbare keelzak, zangeres in de zangpoel; ca. 12.500 v.Chr. in aardse jaren. Het kost haar zangstem, en daarna elk jaar dat ze in de diepte zit in plaats van bij hem. Ze wil Wessel houden zonder haar volk te verliezen. Wat niemand weet, is dat Haar keelzak scheurde al eerder een keer; ze weet dat hij een lange omhulling misschien niet overleeft. Uit de lijn van LOT-Z44-oevrin, VOLK-oevrin, DRAGER-Z48-zang-14.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-brom · Brom Wierdsma
+- **code:** PER-Z50-c-brom
+- **categorie:** Personage
+- **onderwerp:** Brom Wierdsma
+- **wat:** Brom Wierdsma (mens, badhuis op een wierde aan de verdrinkende Zoutkust) is geboren rond Zegeljaar 11510 en is badmeester; zijn grootmoeder wies nog voor de vuurnacht zoals het hoorde. Hij wil zijn badhuis open houden zolang de zee het toelaat. Wat niemand weet, is dat Hij walgt van de geur die hij verkoopt, en hij is bang voor diep water. Het kost zijn waardigheid in de rotkuip, en later het huis zelf, dat hij laat staan voor het tij. Uit de lijn van LOT-Z44-ishvar, DRAGER-Z48-ontvangst-13.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-ishvar;DRAGER-Z48-ontvangst-13;VOOR-Z46-vuurnacht;EROS-Z45-haak-8;REG-zoutkust;FASE-z44-smelt
+- **verwijst_naar:** LOT-Z44-ishvar;DRAGER-Z48-ontvangst-13;VOOR-Z46-vuurnacht;EROS-Z45-haak-8;REG-zoutkust;FASE-z44-smelt
+- **jaar:** 
+- **tijdperk:** 14 De Grote Smelt (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Brom Wierdsma (mens, badhuis op een wierde aan de verdrinkende Zoutkust) is geboren rond Zegeljaar 11510 en is badmeester; zijn grootmoeder wies nog voor de vuurnacht zoals het hoorde. Hij wil zijn badhuis open houden zolang de zee het toelaat. Wat niemand weet, is dat Hij walgt van de geur die hij verkoopt, en hij is bang voor diep water. Het kost zijn waardigheid in de rotkuip, en later het huis zelf, dat hij laat staan voor het tij. Uit de lijn van LOT-Z44-ishvar, DRAGER-Z48-ontvangst-13.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-aaltje · Aaltje Goudhand
+- **code:** PER-Z50-c-aaltje
+- **categorie:** Personage
+- **onderwerp:** Aaltje Goudhand
+- **wat:** Aaltje Goudhand (mens, havenstadje op het laatste stuk van de oude delta) is geboren rond Zegeljaar 11470 en is goudsmid, laatste minnares van Teun, die men een lijn van vonkhanden toeschreef. Ze wil dat de vrouwen hun herinnering aan Teun meenemen in plaats van haar aan de zee te geven. Het kost de stad vertrekt zonder afscheidsbeeld, en de oude vrouwen vergeven het haar niet. Wat niemand weet, is dat Ze heeft nooit geloofd dat Teun iemand sterker maakte; ze hield gewoon van hem. Uit de lijn van LOT-Z44-dhurn, LOT-Z44-ishvar.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-dhurn;LOT-Z44-ishvar;LOT-Z44-gaven-mannen;MYTHE-Z43-verzonken-stad;MYTHE-Z43-stervende-god;FASE-z44-smelt
+- **verwijst_naar:** LOT-Z44-dhurn;LOT-Z44-ishvar;LOT-Z44-gaven-mannen;MYTHE-Z43-verzonken-stad;MYTHE-Z43-stervende-god;FASE-z44-smelt
+- **jaar:** 
+- **tijdperk:** 14 De Grote Smelt (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Aaltje Goudhand (mens, havenstadje op het laatste stuk van de oude delta) is geboren rond Zegeljaar 11470 en is goudsmid, laatste minnares van Teun, die men een lijn van vonkhanden toeschreef. Ze wil dat de vrouwen hun herinnering aan Teun meenemen in plaats van haar aan de zee te geven. Het kost de stad vertrekt zonder afscheidsbeeld, en de oude vrouwen vergeven het haar niet. Wat niemand weet, is dat Ze heeft nooit geloofd dat Teun iemand sterker maakte; ze hield gewoon van hem. Uit de lijn van LOT-Z44-dhurn, LOT-Z44-ishvar.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-tamsin · Tamsin Zeeloog
+- **code:** PER-Z50-c-tamsin
+- **categorie:** Personage
+- **onderwerp:** Tamsin Zeeloog
+- **wat:** Tamsin Zeeloog (sael-mor, laatste smokkelhaven van de Zoutkust) is geboren rond Zegeljaar 11590 en is koopmansvrouw uit een havenfamilie met spleten in de hals. Wat niemand weet, is dat Zij bedacht de ontvoering zelf. Ze wil met haar minnaar en genoeg geld weg voordat de haven verdrinkt. Het kost wat de bemanning met haar deed, en dat Kelm het liet gebeuren. Uit de lijn van LOT-Z44-sael-mor, VOLK-sael-mor.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-sael-mor;VOLK-sael-mor;EROS-RAUW-Z7-3;REG-zoutkust;FASE-z44-smelt
+- **verwijst_naar:** LOT-Z44-sael-mor;VOLK-sael-mor;EROS-RAUW-Z7-3;REG-zoutkust;FASE-z44-smelt
+- **jaar:** 
+- **tijdperk:** 14 De Grote Smelt (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Tamsin Zeeloog (sael-mor, laatste smokkelhaven van de Zoutkust) is geboren rond Zegeljaar 11590 en is koopmansvrouw uit een havenfamilie met spleten in de hals. Wat niemand weet, is dat Zij bedacht de ontvoering zelf. Ze wil met haar minnaar en genoeg geld weg voordat de haven verdrinkt. Het kost wat de bemanning met haar deed, en dat Kelm het liet gebeuren. Uit de lijn van LOT-Z44-sael-mor, VOLK-sael-mor.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-imme · Imme van het Veen
+- **code:** PER-Z50-c-imme
+- **categorie:** Personage
+- **onderwerp:** Imme van het Veen
+- **wat:** Imme van het Veen (myrrhen, veenhallen aan de binnenrand van de verdrinkende delta) is geboren rond Zegeljaar 11420 en is heelster met zwamdraad onder de huid van haar handen. Wat niemand weet, is dat Ze weet dat de sporen van dit veen sterker zijn sinds het zout erin trekt. Ze wil de oude vulrite bewaren, nu de sporen nog groeien. Het kost gesches naam, en haar eigen recht om de rite nog ooit te leiden. Uit de lijn van LOT-Z44-myrrhen, VOLK-myrrhen-Z6, DRAGER-Z48-gave-11.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-myrrhen;VOLK-myrrhen-Z6;DRAGER-Z48-gave-11;MYTHE-Z43-heilig-huwelijk;KINK-Z8-55-Z50;FASE-z44-smelt
+- **verwijst_naar:** LOT-Z44-myrrhen;VOLK-myrrhen-Z6;DRAGER-Z48-gave-11;MYTHE-Z43-heilig-huwelijk;KINK-Z8-55-Z50;FASE-z44-smelt
+- **jaar:** 
+- **tijdperk:** 14 De Grote Smelt (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Imme van het Veen (myrrhen, veenhallen aan de binnenrand van de verdrinkende delta) is geboren rond Zegeljaar 11420 en is heelster met zwamdraad onder de huid van haar handen. Wat niemand weet, is dat Ze weet dat de sporen van dit veen sterker zijn sinds het zout erin trekt. Ze wil de oude vulrite bewaren, nu de sporen nog groeien. Het kost gesches naam, en haar eigen recht om de rite nog ooit te leiden. Uit de lijn van LOT-Z44-myrrhen, VOLK-myrrhen-Z6, DRAGER-Z48-gave-11.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-joris · Joris Krijtman
+- **code:** PER-Z50-c-joris
+- **categorie:** Personage
+- **onderwerp:** Joris Krijtman
+- **wat:** Joris Krijtman (mens, krijtkliffen aan de nieuwe kust, later de berkenwouden landinwaarts) is geboren rond Zegeljaar 11640 en is klifspringer uit een familie die zegt dat haar voormoeders vlogen; later knecht bij de teerbranders. Hij wil eerst weerloos zijn bij iemand, daarna nooit meer. Het kost zijn geloof in Brecht, en later zijn plek bij de kust. Wat niemand weet, is dat Hij weet wie bij Wobke was en zwijgt om haar. Uit de lijn van LOT-Z44-skerra, DRAGER-Z48-vleugel-13.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-skerra;DRAGER-Z48-vleugel-13;MYTHE-Z43-vleugelvolk;MYTHE-Z43-versteende;FASE-z44-smelt
+- **verwijst_naar:** LOT-Z44-skerra;DRAGER-Z48-vleugel-13;MYTHE-Z43-vleugelvolk;MYTHE-Z43-versteende;FASE-z44-smelt
+- **jaar:** 
+- **tijdperk:** 14 De Grote Smelt (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Joris Krijtman (mens, krijtkliffen aan de nieuwe kust, later de berkenwouden landinwaarts) is geboren rond Zegeljaar 11640 en is klifspringer uit een familie die zegt dat haar voormoeders vlogen; later knecht bij de teerbranders. Hij wil eerst weerloos zijn bij iemand, daarna nooit meer. Het kost zijn geloof in Brecht, en later zijn plek bij de kust. Wat niemand weet, is dat Hij weet wie bij Wobke was en zwijgt om haar. Uit de lijn van LOT-Z44-skerra, DRAGER-Z48-vleugel-13.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-saphra · Saphra Duinlezer
+- **code:** PER-Z50-c-saphra
+- **categorie:** Personage
+- **onderwerp:** Saphra Duinlezer
+- **wat:** Saphra Duinlezer (ishvar, droog dal ten zuiden van de verdronken delta) is geboren rond Zegeljaar 11550 en is veilingmeesteres van het oogstspel bij de zonne-eed. Wat niemand weet, is dat Zij is de gemaskerde koopster. Ze wil de vluchtelingen helpen en zelf nooit tekortkomen. Het kost haar plaats bij de eed als het uitkomt. Uit de lijn van LOT-Z44-ishvar, VOLK-ishvar, DRAGER-Z48-stal-13.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-ishvar;VOLK-ishvar;DRAGER-Z48-stal-13;RIT-gemaskerde-veiling-Z50;GEB-Z45-losbandige-jaren;FASE-z44-smelt
+- **verwijst_naar:** LOT-Z44-ishvar;VOLK-ishvar;DRAGER-Z48-stal-13;RIT-gemaskerde-veiling-Z50;GEB-Z45-losbandige-jaren;FASE-z44-smelt
+- **jaar:** 
+- **tijdperk:** 14 De Grote Smelt (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Saphra Duinlezer (ishvar, droog dal ten zuiden van de verdronken delta) is geboren rond Zegeljaar 11550 en is veilingmeesteres van het oogstspel bij de zonne-eed. Wat niemand weet, is dat Zij is de gemaskerde koopster. Ze wil de vluchtelingen helpen en zelf nooit tekortkomen. Het kost haar plaats bij de eed als het uitkomt. Uit de lijn van LOT-Z44-ishvar, VOLK-ishvar, DRAGER-Z48-stal-13.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-ama · Ama
+- **code:** PER-Z50-c-ama
+- **categorie:** Personage
+- **onderwerp:** Ama
+- **wat:** Ama (mens, nieuwe kust en rivierdal, eerste boerendorpen) is geboren rond Zegeljaar 18900 en is vroedvrouw en later zilveren vrouw, de dochter die van drie woorden een godin maakte; ca. 5000 v.Chr.. Wat niemand weet, is dat Ze weet sinds haar vijftigste nacht dat de woorden anders klonken. Ze wil dat elke geboorte goed begint en dat haar godin blijft kloppen. Het kost ze zingt voortaan iets waarvan ze weet dat het niet klopt. Uit de lijn van LOT-Z44-ishvar, DRAGER-Z48-ontvangst-13.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-ishvar;DRAGER-Z48-ontvangst-13;VERHAAL-Z44-tijdperk-15;TAAL-dode-taal;MYTHE-Z43-godin-van-geboorte;FASE-z44-gat
+- **verwijst_naar:** LOT-Z44-ishvar;DRAGER-Z48-ontvangst-13;VERHAAL-Z44-tijdperk-15;TAAL-dode-taal;MYTHE-Z43-godin-van-geboorte;FASE-z44-gat
+- **jaar:** 
+- **tijdperk:** 15 Het Zwevende Gat (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ama (mens, nieuwe kust en rivierdal, eerste boerendorpen) is geboren rond Zegeljaar 18900 en is vroedvrouw en later zilveren vrouw, de dochter die van drie woorden een godin maakte; ca. 5000 v.Chr.. Wat niemand weet, is dat Ze weet sinds haar vijftigste nacht dat de woorden anders klonken. Ze wil dat elke geboorte goed begint en dat haar godin blijft kloppen. Het kost ze zingt voortaan iets waarvan ze weet dat het niet klopt. Uit de lijn van LOT-Z44-ishvar, DRAGER-Z48-ontvangst-13.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-hellik · Hellik
+- **code:** PER-Z50-c-hellik
+- **categorie:** Personage
+- **onderwerp:** Hellik
+- **wat:** Hellik (mens, nieuwe kust, rand van het veen) is geboren rond Zegeljaar 19020 en is verlegen gerstboer. Wat niemand weet, is dat Hij heeft de pot met kiezels niet aangeraakt; iemand anders legde de witte steeds bovenop. Hij wil een keer zelf durven vragen. Het kost mos, en wat van hemzelf in de grond bleef. Uit de lijn van LOT-Z44-ishvar, DRAGER-Z48-stal-13.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-ishvar;DRAGER-Z48-stal-13;EROS-Z45-haak-10;MYTHE-Z45-boomvolk;FEE-Z37-myrrhen-ringen;FASE-z44-gat
+- **verwijst_naar:** LOT-Z44-ishvar;DRAGER-Z48-stal-13;EROS-Z45-haak-10;MYTHE-Z45-boomvolk;FEE-Z37-myrrhen-ringen;FASE-z44-gat
+- **jaar:** 
+- **tijdperk:** 15 Het Zwevende Gat (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Hellik (mens, nieuwe kust, rand van het veen) is geboren rond Zegeljaar 19020 en is verlegen gerstboer. Wat niemand weet, is dat Hij heeft de pot met kiezels niet aangeraakt; iemand anders legde de witte steeds bovenop. Hij wil een keer zelf durven vragen. Het kost mos, en wat van hemzelf in de grond bleef. Uit de lijn van LOT-Z44-ishvar, DRAGER-Z48-stal-13.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-siwa · Siwa
+- **code:** PER-Z50-c-siwa
+- **categorie:** Personage
+- **onderwerp:** Siwa
+- **wat:** Siwa (sael-mor, baaien aan de nieuwe kust) is geboren rond Zegeljaar 19110 en is visserin met een spleet in de hals die bij springtij brandt. Wat niemand weet, is dat Ze liet de derde vraag met opzet steken, omdat ze bang was voor ja. Ze wil eerst Rafe, daarna dat niemand meer namens haar beveelt. Het kost rafe, en dagen van naweeën na elke sporennacht. Uit de lijn van LOT-Z44-sael-mor, VOLK-sael-mor, DRAGER-Z48-gave-11.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-sael-mor;VOLK-sael-mor;DRAGER-Z48-gave-11;EROS-Z45-haak-10;MYTHE-Z43-dondergod;VOOR-sporenroes;FASE-z44-gat
+- **verwijst_naar:** LOT-Z44-sael-mor;VOLK-sael-mor;DRAGER-Z48-gave-11;EROS-Z45-haak-10;MYTHE-Z43-dondergod;VOOR-sporenroes;FASE-z44-gat
+- **jaar:** 
+- **tijdperk:** 15 Het Zwevende Gat (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Siwa (sael-mor, baaien aan de nieuwe kust) is geboren rond Zegeljaar 19110 en is visserin met een spleet in de hals die bij springtij brandt. Wat niemand weet, is dat Ze liet de derde vraag met opzet steken, omdat ze bang was voor ja. Ze wil eerst Rafe, daarna dat niemand meer namens haar beveelt. Het kost rafe, en dagen van naweeën na elke sporennacht. Uit de lijn van LOT-Z44-sael-mor, VOLK-sael-mor, DRAGER-Z48-gave-11.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-tor · Tor
+- **code:** PER-Z50-c-tor
+- **categorie:** Personage
+- **onderwerp:** Tor
+- **wat:** Tor (mens, een kust over het water die nog niemand kent) is geboren rond Zegeljaar 19300 en is reiziger in een huidboot. Wat niemand weet, is dat Hij is weggevaren omdat zijn eigen dorp hem niet meer wilde. Hij wil weten of er nog anderen zijn. Het kost hij weet het nu, en kan het niemand vertellen die hem gelooft. Uit de lijn van LOT-Z44-ishvar.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-ishvar;VERHAAL-Z44-tijdperk-15;TAAL-dode-taal;RIT-reizigersgroet-Z50;FASE-z44-gat
+- **verwijst_naar:** LOT-Z44-ishvar;VERHAAL-Z44-tijdperk-15;TAAL-dode-taal;RIT-reizigersgroet-Z50;FASE-z44-gat
+- **jaar:** 
+- **tijdperk:** 15 Het Zwevende Gat (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Tor (mens, een kust over het water die nog niemand kent) is geboren rond Zegeljaar 19300 en is reiziger in een huidboot. Wat niemand weet, is dat Hij is weggevaren omdat zijn eigen dorp hem niet meer wilde. Hij wil weten of er nog anderen zijn. Het kost hij weet het nu, en kan het niemand vertellen die hem gelooft. Uit de lijn van LOT-Z44-ishvar.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-oroth · Oroth
+- **code:** PER-Z50-c-oroth
+- **categorie:** Personage
+- **onderwerp:** Oroth
+- **wat:** Oroth (ishvar, dorpen langs een grote rivier) is geboren rond Zegeljaar 19200 en is hoofdman bij de zonne-eed. Het kost zijn gezag, nu iedereen weet dat de dag gespeeld was. Hij wil zijn rivalen voorblijven. Wat niemand weet, is dat Hij houdt van Djeda, en de omkering is de enige dag dat hij dat laat zien. Uit de lijn van LOT-Z44-ishvar, VOLK-ishvar, DRAGER-Z48-stal-13.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-ishvar;VOLK-ishvar;DRAGER-Z48-stal-13;RIT-rolwisseling-Z50;RIT-halsbandwissel-Z50;FASE-z44-gat
+- **verwijst_naar:** LOT-Z44-ishvar;VOLK-ishvar;DRAGER-Z48-stal-13;RIT-rolwisseling-Z50;RIT-halsbandwissel-Z50;FASE-z44-gat
+- **jaar:** 
+- **tijdperk:** 15 Het Zwevende Gat (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Oroth (ishvar, dorpen langs een grote rivier) is geboren rond Zegeljaar 19200 en is hoofdman bij de zonne-eed. Het kost zijn gezag, nu iedereen weet dat de dag gespeeld was. Hij wil zijn rivalen voorblijven. Wat niemand weet, is dat Hij houdt van Djeda, en de omkering is de enige dag dat hij dat laat zien. Uit de lijn van LOT-Z44-ishvar, VOLK-ishvar, DRAGER-Z48-stal-13.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-neske · Neske
+- **code:** PER-Z50-c-neske
+- **categorie:** Personage
+- **onderwerp:** Neske
+- **wat:** Neske (sael-mor, vissersdorp aan de nieuwe kust) is geboren rond Zegeljaar 19050 en is netknoopster, zeven jaar alleen. Het kost haar plaats in de raad, die niet weet wat het met haar keuze moet. Ze wil de waarheid voordat ze iemand terugneemt. Wat niemand weet, is dat Ze vermoedde het al bij de eerste blik. Uit de lijn van LOT-Z44-sael-mor, VOLK-sael-mor.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-sael-mor;VOLK-sael-mor;MYTHE-Z43-zwanenmaagd;FASE-z44-gat
+- **verwijst_naar:** LOT-Z44-sael-mor;VOLK-sael-mor;MYTHE-Z43-zwanenmaagd;FASE-z44-gat
+- **jaar:** 
+- **tijdperk:** 15 Het Zwevende Gat (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Neske (sael-mor, vissersdorp aan de nieuwe kust) is geboren rond Zegeljaar 19050 en is netknoopster, zeven jaar alleen. Het kost haar plaats in de raad, die niet weet wat het met haar keuze moet. Ze wil de waarheid voordat ze iemand terugneemt. Wat niemand weet, is dat Ze vermoedde het al bij de eerste blik. Uit de lijn van LOT-Z44-sael-mor, VOLK-sael-mor.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-kiddu · Kiddu
+- **code:** PER-Z50-c-kiddu
+- **categorie:** Personage
+- **onderwerp:** Kiddu
+- **wat:** Kiddu (mens, tempelstad aan de twee rivieren) is geboren rond Zegeljaar 21290 en is bitumenhandelaar met Dhurn-bloed, klein en taai; ca. 2635 v.Chr.. Het kost zijn winkel, zijn tabletten en de stad, als hij van het plein rent. Hij wil rijk worden zonder ergens in te geloven. Wat niemand weet, is dat Hij ziet zelf ook gezichten in de lak, en dat maakt hem bang. Uit de lijn van LOT-Z44-dhurn, VOLK-dhurn.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-dhurn;VOLK-dhurn;MYTHE-Z43-dwergen;MYTHE-Z43-heilig-huwelijk;MYTHE-Z43-stervende-god;FASE-z44-schrift;PER-Z50-c-bariqa
+- **verwijst_naar:** LOT-Z44-dhurn;VOLK-dhurn;MYTHE-Z43-dwergen;MYTHE-Z43-heilig-huwelijk;MYTHE-Z43-stervende-god;FASE-z44-schrift;PER-Z50-c-bariqa
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Kiddu (mens, tempelstad aan de twee rivieren) is geboren rond Zegeljaar 21290 en is bitumenhandelaar met Dhurn-bloed, klein en taai; ca. 2635 v.Chr.. Het kost zijn winkel, zijn tabletten en de stad, als hij van het plein rent. Hij wil rijk worden zonder ergens in te geloven. Wat niemand weet, is dat Hij ziet zelf ook gezichten in de lak, en dat maakt hem bang. Uit de lijn van LOT-Z44-dhurn, VOLK-dhurn.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-bariqa · Bariqa
+- **code:** PER-Z50-c-bariqa
+- **categorie:** Personage
+- **onderwerp:** Bariqa
+- **wat:** Bariqa (ishvar, dezelfde tempelstad, het vrouwenhuis) is geboren rond Zegeljaar 21250 en is schrijfster van het vrouwenhuis; ca. 2575 v.Chr. aan het werk. Ze wil dat de riten niet uit het geheugen verdwijnen. Wat niemand weet, is dat De gewiste regels zitten in de muur. Het kost elke keer dat ze wist, verliest ze een rite die ze zelf kende. Uit de lijn van LOT-Z44-ishvar, VOLK-ishvar.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-ishvar;VOLK-ishvar;MYTHE-Z43-verboden-schrift;PER-Z50-c-kiddu;FASE-z44-schrift
+- **verwijst_naar:** LOT-Z44-ishvar;VOLK-ishvar;MYTHE-Z43-verboden-schrift;PER-Z50-c-kiddu;FASE-z44-schrift
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Bariqa (ishvar, dezelfde tempelstad, het vrouwenhuis) is geboren rond Zegeljaar 21250 en is schrijfster van het vrouwenhuis; ca. 2575 v.Chr. aan het werk. Ze wil dat de riten niet uit het geheugen verdwijnen. Wat niemand weet, is dat De gewiste regels zitten in de muur. Het kost elke keer dat ze wist, verliest ze een rite die ze zelf kende. Uit de lijn van LOT-Z44-ishvar, VOLK-ishvar.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-tarkhan · Tarkhan
+- **code:** PER-Z50-c-tarkhan
+- **categorie:** Personage
+- **onderwerp:** Tarkhan
+- **wat:** Tarkhan (mens, steppe van de paardenclans) is geboren rond Zegeljaar 21725 en is ruiter uit een clan met Karrûk-bloed; ca. 2200 v.Chr.. Hij wil het seizoen in de ketting volbrengen. Het kost het gebruik eindigt bij hem. Wat niemand weet, is dat Hij wilde de ketting nooit meer af. Uit de lijn van VOLK-karrûk-Z6-Z38, DRAGER-Z48-storm-10.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** VOLK-karrûk-Z6-Z38;DRAGER-Z48-storm-10;MYTHE-Z45-centaur;LOT-Z44-karruk-storm;FASE-z44-schrift
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;DRAGER-Z48-storm-10;MYTHE-Z45-centaur;LOT-Z44-karruk-storm;FASE-z44-schrift
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Tarkhan (mens, steppe van de paardenclans) is geboren rond Zegeljaar 21725 en is ruiter uit een clan met Karrûk-bloed; ca. 2200 v.Chr.. Hij wil het seizoen in de ketting volbrengen. Het kost het gebruik eindigt bij hem. Wat niemand weet, is dat Hij wilde de ketting nooit meer af. Uit de lijn van VOLK-karrûk-Z6-Z38, DRAGER-Z48-storm-10.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-fenna · Fenna Dekker
+- **code:** PER-Z50-c-fenna
+- **categorie:** Personage
+- **onderwerp:** Fenna Dekker
+- **wat:** Fenna Dekker (mens, Rotterdam) is geboren rond Zegeljaar 25912 en is grafisch ontwerper, geboren 1987. Het kost een jaar geheugen, en de nachten met Joachim. Ze wil terugvinden wat ze kwijt is, en daarna niet nog eens. Wat niemand weet, is dat Ze was een jaar lang vaker in de ring dan ze weet. Uit de lijn van LOT-Z44-myrrhen.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-myrrhen;VERHAAL-Z44-tijdperk-16;MYTHE-Z43-feeen;MYTHE-Z45-bindende-ring;FASE-z44-schrift
+- **verwijst_naar:** LOT-Z44-myrrhen;VERHAAL-Z44-tijdperk-16;MYTHE-Z43-feeen;MYTHE-Z45-bindende-ring;FASE-z44-schrift
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Fenna Dekker (mens, Rotterdam) is geboren rond Zegeljaar 25912 en is grafisch ontwerper, geboren 1987. Het kost een jaar geheugen, en de nachten met Joachim. Ze wil terugvinden wat ze kwijt is, en daarna niet nog eens. Wat niemand weet, is dat Ze was een jaar lang vaker in de ring dan ze weet. Uit de lijn van LOT-Z44-myrrhen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-daan · Daan Hesselink
+- **code:** PER-Z50-c-daan
+- **categorie:** Personage
+- **onderwerp:** Daan Hesselink
+- **wat:** Daan Hesselink (mens, Deventer) is geboren rond Zegeljaar 25920 en is verpleger uit een familie met een zwakke vonk, geboren 1995. Wat niemand weet, is dat Hij steekt soms expres een kaars aan om haar te kunnen bellen. Hij wil niet meer alleen koorts hebben na een kaars. Het kost hij is van haar afhankelijk, en hij weet het. Uit de lijn van LOT-Z44-gaven-mannen.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-gaven-mannen;EROS-Z45-haak-11;MYTHE-Z43-feeen;FASE-z44-schrift
+- **verwijst_naar:** LOT-Z44-gaven-mannen;EROS-Z45-haak-11;MYTHE-Z43-feeen;FASE-z44-schrift
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Daan Hesselink (mens, Deventer) is geboren rond Zegeljaar 25920 en is verpleger uit een familie met een zwakke vonk, geboren 1995. Wat niemand weet, is dat Hij steekt soms expres een kaars aan om haar te kunnen bellen. Hij wil niet meer alleen koorts hebben na een kaars. Het kost hij is van haar afhankelijk, en hij weet het. Uit de lijn van LOT-Z44-gaven-mannen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-lijsbet · Lijsbet Pietersdochter
+- **code:** PER-Z50-c-lijsbet
+- **categorie:** Personage
+- **onderwerp:** Lijsbet Pietersdochter
+- **wat:** Lijsbet Pietersdochter (sael-mor, Saeftinghe, later Hulst) is geboren rond Zegeljaar 25465 en is boerin uit een familie die kinderen van de zee heet, met een litteken als spleet in de hals; geboren 1540. Ze wil begrijpen waar de oude wetten van haar land vandaan komen. Het kost het land, toen de dijken toch werden doorgestoken. Wat niemand weet, is dat Ze heeft de bloedeed bedacht, niet Pieter. Uit de lijn van LOT-Z44-sael-mor, VOLK-sael-mor.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-sael-mor;VOLK-sael-mor;MYTHE-Z43-verzonken-stad;MYTHE-Z45-bindende-ring;FASE-z44-schrift
+- **verwijst_naar:** LOT-Z44-sael-mor;VOLK-sael-mor;MYTHE-Z43-verzonken-stad;MYTHE-Z45-bindende-ring;FASE-z44-schrift
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Lijsbet Pietersdochter (sael-mor, Saeftinghe, later Hulst) is geboren rond Zegeljaar 25465 en is boerin uit een familie die kinderen van de zee heet, met een litteken als spleet in de hals; geboren 1540. Ze wil begrijpen waar de oude wetten van haar land vandaan komen. Het kost het land, toen de dijken toch werden doorgestoken. Wat niemand weet, is dat Ze heeft de bloedeed bedacht, niet Pieter. Uit de lijn van LOT-Z44-sael-mor, VOLK-sael-mor.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-iltani · Iltani
+- **code:** PER-Z50-c-iltani
+- **categorie:** Personage
+- **onderwerp:** Iltani
+- **wat:** Iltani (ishvar, paleisstad aan de Eufraat) is geboren rond Zegeljaar 22125 en is jonge vrouw aan het hof; ca. 1800 v.Chr.. Ze wil boven aan de rangorde. Het kost ze wordt medeschrijfster van een spel dat ze wilde winnen. Wat niemand weet, is dat Ze kan schrijven, wat aan het hof niemand van een vrouw verwacht. Uit de lijn van LOT-Z44-ishvar, VOLK-ishvar.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-ishvar;VOLK-ishvar;KINK-harem-gunst;MYTHE-Z43-amazones;FASE-z44-schrift
+- **verwijst_naar:** LOT-Z44-ishvar;VOLK-ishvar;KINK-harem-gunst;MYTHE-Z43-amazones;FASE-z44-schrift
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Iltani (ishvar, paleisstad aan de Eufraat) is geboren rond Zegeljaar 22125 en is jonge vrouw aan het hof; ca. 1800 v.Chr.. Ze wil boven aan de rangorde. Het kost ze wordt medeschrijfster van een spel dat ze wilde winnen. Wat niemand weet, is dat Ze kan schrijven, wat aan het hof niemand van een vrouw verwacht. Uit de lijn van LOT-Z44-ishvar, VOLK-ishvar.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-gerrit · Gerrit Zwamborn
+- **code:** PER-Z50-c-gerrit
+- **categorie:** Personage
+- **onderwerp:** Gerrit Zwamborn
+- **wat:** Gerrit Zwamborn (mens, Wageningen) is geboren rond Zegeljaar 25892 en is gepensioneerd schimmelkundige, geboren 1967. Hij wil één keer voelen wat hij zijn hele leven onder de microscoop zag. Wat niemand weet, is dat Wat hij op de laatste foto in zijn eigen ogen zag. Het kost hij weet iets van Trees dat zij hem nooit gaf. Uit de lijn van LOT-Z44-myrrhen.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-myrrhen;VERHAAL-Z44-tijdperk-16;MYTHE-Z43-feeen;FEE-Z37-myrrhen-ringen;FASE-z44-schrift
+- **verwijst_naar:** LOT-Z44-myrrhen;VERHAAL-Z44-tijdperk-16;MYTHE-Z43-feeen;FEE-Z37-myrrhen-ringen;FASE-z44-schrift
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Gerrit Zwamborn (mens, Wageningen) is geboren rond Zegeljaar 25892 en is gepensioneerd schimmelkundige, geboren 1967. Hij wil één keer voelen wat hij zijn hele leven onder de microscoop zag. Wat niemand weet, is dat Wat hij op de laatste foto in zijn eigen ogen zag. Het kost hij weet iets van Trees dat zij hem nooit gaf. Uit de lijn van LOT-Z44-myrrhen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z50-c-joos · Joos de Stroper
+- **code:** PER-Z50-c-joos
+- **categorie:** Personage
+- **onderwerp:** Joos de Stroper
+- **wat:** Joos de Stroper (mens, dorp in Vlaanderen) is geboren rond Zegeljaar 25305 en is stroper, geboren 1380. Hij wil de baljuw ontlopen. Het kost zijn vrijheid. Wat niemand weet, is dat Hij had de koopster al eerder gezien, zonder masker, en wilde haar. Uit de lijn van LOT-Z44-ishvar, DRAGER-Z48-stal-13.
+- **waarom:** Ronde Z50: persoon na 801, hoofdpersoon van een verhaalpad
+- **status:** voorlopig
+- **ronde:** 78
+- **hangt_samen_met:** LOT-Z44-ishvar;DRAGER-Z48-stal-13;RIT-gemaskerde-veiling-Z50;MYTHE-Z43-stal-van-de-goden;FASE-z44-schrift
+- **verwijst_naar:** LOT-Z44-ishvar;DRAGER-Z48-stal-13;RIT-gemaskerde-veiling-Z50;MYTHE-Z43-stal-van-de-goden;FASE-z44-schrift
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Joos de Stroper (mens, dorp in Vlaanderen) is geboren rond Zegeljaar 25305 en is stroper, geboren 1380. Hij wil de baljuw ontlopen. Het kost zijn vrijheid. Wat niemand weet, is dat Hij had de koopster al eerder gezien, zonder masker, en wilde haar. Uit de lijn van LOT-Z44-ishvar, DRAGER-Z48-stal-13.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z50, persoon na 801)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-aeron-profiel-Z51 · Aeron-as
+- **code:** PER-aeron-profiel-Z51
+- **categorie:** Personage
+- **onderwerp:** Aeron-as
+- **wat:** Naam: Aeron-as. Volk: mens. Regio: saelith. Huis: -. Rol: lieve gaven-man. Fase: 801 (nu), jaar 801. Wil: Liora beschermen. Durft: de Orde weigeren. Verbergt: schuld om een gebonden vrouw. Wat de omgeving weet: een gevluchte Uitverkorene (35). Seksuele voorkeur: VOOR-teder-Z50 (4/5), VOOR-onderdanige-man-Z50 (2/5); kinks: Stormontlading, zachte Overdracht. Lichaam/vervorming: stormaders. Relaties: geliefde van Liora. Rol in de keten: GEB-r10-aeron-geboorte. Geheim: hij heeft een kind in een fokstal. Einde: open. Verhaalhaken: Romance: geliefde van Liora; belemmering: schuld om een gebonden vrouw. Intrige: wil Liora beschermen, maar verbergt schuld om een gebonden vrouw. Erotiek: Stormontlading, zachte Overdracht. Thriller: geheim "hij heeft een kind in een fokstal" kan uitkomen; lot nog open (klok loopt in 801). Eigen gevoel: schaamte over wat verborgen blijft (schuld om een gebonden vrouw), en opluchting zodra iemand het toch ziet. Label: alle betrokkenen volwassen (18+); geen minderjarigen of dieren in een seksuele rol; geen seksuele inhoud met wie niet kan instemmen; donkere thema's gelabeld.
+- **waarom:** Ronde G2: personage fase 801 (nu) | Ronde V1: eigen gevoel i.p.v. vaste zin [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-7)] [Z13 samengevoegd: zelfde persoon als PER-aeron (leidend); deze rij beschrijft een ander moment of aspect] | Z51: codes van de vier fantasieën wijzen naar hun opvolgers (BESLUIT-Z51-1)
+- **status:** vastgesteld
+- **ronde:** 79
+- **hangt_samen_met:** REG-saelith;GEB-r10-aeron-geboorte;GEB-heden;VOOR-teder-Z50;VOOR-onderdanige-man-Z50;PER-aeron
+- **verwijst_naar:** REG-saelith;GEB-r10-aeron-geboorte;GEB-heden;VOOR-teder-Z50;VOOR-onderdanige-man-Z50;PER-aeron;STAD-saelith;BESLUIT-Z51-1
+- **jaar:** 
+- **tijdperk:** 801 (nu)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kern
+- **ideeenbank:** 0
+- **veilig_18plus:** 1
+- **veilig_variant:** 3
+- **vervangen_door:** 
+- **feit_schoon:** Naam: Aeron-as. Volk: mens. Regio: saelith. Huis: -. Rol: lieve gaven-man. Fase: 801 (nu), jaar 801. Wil: Liora beschermen. Durft: de Orde weigeren. Verbergt: schuld om een gebonden vrouw. Wat de omgeving weet: een gevluchte Uitverkorene (35). Seksuele voorkeur: VOOR-teder-Z50 (4/5), VOOR-onderdanige-man-Z50 (2/5); kinks: Stormontlading, zachte Overdracht. Lichaam/vervorming: stormaders. Relaties: geliefde van Liora. Rol in de keten: GEB-r10-aeron-geboorte. Geheim: hij heeft een kind in een fokstal. Einde: open. Verhaalhaken: Romance: geliefde van Liora; belemmering: schuld om een gebonden vrouw. Intrige: wil Liora beschermen, maar verbergt schuld om een gebonden vrouw. Erotiek: Stormontlading, zachte Overdracht. Thriller: geheim "hij heeft een kind in een fokstal" kan uitkomen; lot nog open (klok loopt in 801). Eigen gevoel: schaamte over wat verborgen blijft (schuld om een gebonden vrouw), en opluchting zodra iemand het toch ziet.
+- **draagkracht_handmatig:** Kern
+- **bron_handmatig:** 
+- **epistemiek:** feit (canon; Z51: alleen codes bijgewerkt, BESLUIT-Z51-1)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-liora-profiel-Z32-Z51 · Liora van Hallowyn
+- **code:** PER-liora-profiel-Z32-Z51
+- **categorie:** Personage
+- **onderwerp:** Liora van Hallowyn
+- **wat:** Naam: Liora van Hallowyn. Volk: mens. Regio: ambergaard. Huis: -. Rol: hoofdpersoon. Fase: 801 (nu), jaar 801. Wil: Teo beschermen en de waarheid over de Zegel, en bij de Wortel komen, ook als ze daarvoor Teo gebruikt (BESLUIT-Z32-9). Durft: zaadkracht zonder binding verdragen. Verbergt: haar vervalste register. Wat de omgeving weet: een arme boerendochter (25). Seksuele voorkeur: VOOR-overgave-Z50 (3/5), VOOR-teder-Z50 (4/5), VOOR-vrouwenliefde-Z50 (3/5); kinks: tederheid met Aeron-as, vrouwenliefde met Sef. Lichaam/vervorming: gloed bij Ontvangst (LICH-liora). Relaties: halfzus van Teo, geliefde van Aeron-as en Sef. Rol in de keten: GEB-r10-quest-begin. Geheim: deels Ishvar-bloed?. Einde: open. Verhaalhaken: Romance: halfzus van Teo, geliefde van Aeron-as en Sef; belemmering: haar vervalste register. Intrige: wil Teo beschermen en de waarheid over de Zegel, maar verbergt haar vervalste register. Erotiek: tederheid met Aeron-as, vrouwenliefde met Sef. Thriller: geheim "deels Ishvar-bloed?" kan uitkomen; lot nog open (klok loopt in 801). Eigen gevoel: verlangen, al jaren: Teo beschermen en de waarheid over de Zegel; en de vermoeidheid van het steeds weer moeten wachten. Zintuig: Hooi, aarde en het lichte gloeien van haar huid bij zegellicht. Haak: Liora verdraagt zaadkracht zonder binding, en dat maakt haar gevaarlijk voor de Orde. Functie: VERH — legt de kern van de hoofdpersoon vast. Crosslinks: REG-ambergaard, GEB-r10-quest-begin, GEB-heden, VOOR-overgave-Z50, VOOR-teder-Z50, VOOR-vrouwenliefde-Z50, HAAK-techno-bio-2. Schuld (Z32, BESLUIT-Z32-9): in het midden van boek 1 zegt ze ja namens Teo: ze laat hem de Lijngraver zijn die de Lijn naar de Wortel opent, zonder het hem te vragen, en het kost hem zijn gave. Ze ontkent het voor zichzelf. Daardoor is haar doel niet alleen beschermen maar ook gebruiken, en is de derde weg een boete: eerst moet ze Teo zijn eigen ja teruggeven (en zijn nee aanvaarden). Niet-seksueel; nooit een seksuele rol met Teo.
+- **waarom:** Rogier: alles zoals aanbevolen, 2026-10-31; vervangt PER-liora-profiel. Liora's schuld (BESLUIT-Z32-9); Kern-rij aangepast via besluit | Z51: codes van de vier fantasieën wijzen naar hun opvolgers (BESLUIT-Z51-1)
+- **status:** vastgesteld
+- **ronde:** 79
+- **hangt_samen_met:** REG-ambergaard;GEB-r10-quest-begin;GEB-heden;VOOR-overgave-Z50;VOOR-teder-Z50;VOOR-vrouwenliefde-Z50;PER-liora;PER-liora-profiel
+- **verwijst_naar:** REG-ambergaard;GEB-r10-quest-begin;GEB-heden;VOOR-overgave-Z50;VOOR-teder-Z50;VOOR-vrouwenliefde-Z50;HAAK-techno-bio-2;BESLUIT-Z51-1
+- **jaar:** 
+- **tijdperk:** 801 (nu)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kern
+- **ideeenbank:** 0
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Naam: Liora van Hallowyn. Volk: mens. Regio: ambergaard. Huis: -. Rol: hoofdpersoon. Fase: 801 (nu), jaar 801. Wil: Teo beschermen en de waarheid over de Zegel, en bij de Wortel komen, ook als ze daarvoor Teo gebruikt (BESLUIT-Z32-9). Durft: zaadkracht zonder binding verdragen. Verbergt: haar vervalste register. Wat de omgeving weet: een arme boerendochter (25). Seksuele voorkeur: VOOR-overgave-Z50 (3/5), VOOR-teder-Z50 (4/5), VOOR-vrouwenliefde-Z50 (3/5); kinks: tederheid met Aeron-as, vrouwenliefde met Sef. Lichaam/vervorming: gloed bij Ontvangst (LICH-liora). Relaties: halfzus van Teo, geliefde van Aeron-as en Sef. Rol in de keten: GEB-r10-quest-begin. Geheim: deels Ishvar-bloed?. Einde: open. Verhaalhaken: Romance: halfzus van Teo, geliefde van Aeron-as en Sef; belemmering: haar vervalste register. Intrige: wil Teo beschermen en de waarheid over de Zegel, maar verbergt haar vervalste register. Erotiek: tederheid met Aeron-as, vrouwenliefde met Sef. Thriller: geheim "deels Ishvar-bloed?" kan uitkomen; lot nog open (klok loopt in 801). Eigen gevoel: verlangen, al jaren: Teo beschermen en de waarheid over de Zegel; en de vermoeidheid van het steeds weer moeten wachten. Zintuig: Hooi, aarde en het lichte gloeien van haar huid bij zegellicht. Haak: Liora verdraagt zaadkracht zonder binding, en dat maakt haar gevaarlijk voor de Orde. Functie: VERH — legt de kern van de hoofdpersoon vast. Crosslinks: REG-ambergaard, GEB-r10-quest-begin, GEB-heden, VOOR-overgave-Z50, VOOR-teder-Z50, VOOR-vrouwenliefde-Z50, HAAK-techno-bio-2. Schuld (Z32, BESLUIT-Z32-9): in het midden van boek 1 zegt ze ja namens Teo: ze laat hem de Lijngraver zijn die de Lijn naar de Wortel opent, zonder het hem te vragen, en het kost hem zijn gave. Ze ontkent het voor zichzelf. Daardoor is haar doel niet alleen beschermen maar ook gebruiken, en is de derde weg een boete: eerst moet ze Teo zijn eigen ja teruggeven (en zijn nee aanvaarden). Niet-seksueel; nooit een seksuele rol met Teo.
+- **draagkracht_handmatig:** Kern
+- **bron_handmatig:** 
+- **epistemiek:** feit (canon; Z51: alleen codes bijgewerkt, BESLUIT-Z51-1)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-a-marit-kolde · Marit Kolde
+- **code:** PER-Z52-a-marit-kolde
+- **categorie:** Personage
+- **onderwerp:** Marit Kolde
+- **wat:** Marit Kolde (mens, de delta, nederzetting bij de rivier) is geboren rond jaar -1268 en is latrinewerkster onder Sabe Mehr, handelaarster in wat ze hoort. Ze wil een eigen hut met een deur die van binnen op slot kan. Het kost zodra de nederzetting weet dat ze ruilt, vertelt niemand haar nog iets echts; ze houdt de stank en verliest haar vriendinnen. Wat niemand weet, is dat ze heeft één keer een raadsbesluit verzonnen dat nooit genomen was, en de raad heeft het daarna uitgevoerd. Uit de lijn van ORIGIN-1.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** ORIGIN-1;YSA-Z20-12;YSA-Z21-8;ORIGIN-7;FASE-voortijd
+- **verwijst_naar:** ORIGIN-1;YSA-Z20-12;YSA-Z21-8;ORIGIN-7;FASE-voortijd
+- **jaar:** 
+- **tijdperk:** 0 Voortijd
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Marit Kolde (mens, de delta, nederzetting bij de rivier) is geboren rond jaar -1268 en is latrinewerkster onder Sabe Mehr, handelaarster in wat ze hoort. Ze wil een eigen hut met een deur die van binnen op slot kan. Het kost zodra de nederzetting weet dat ze ruilt, vertelt niemand haar nog iets echts; ze houdt de stank en verliest haar vriendinnen. Wat niemand weet, is dat ze heeft één keer een raadsbesluit verzonnen dat nooit genomen was, en de raad heeft het daarna uitgevoerd. Uit de lijn van ORIGIN-1.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-b-wiela-zoutkieuw · Wiela Zoutkieuw
+- **code:** PER-Z52-b-wiela-zoutkieuw
+- **categorie:** Personage
+- **onderwerp:** Wiela Zoutkieuw
+- **wat:** Wiela Zoutkieuw (sael-mor, Zoutkust (Brakhaven)) is geboren rond jaar 202 en is duikster en kettingzaagster in de kaperoorlog om de vrijhaven. Ze wil haar schip vrij en de haven zonder tiende. Wat niemand weet, is dat ze zaagt ook de kettingen van Mirre-schepen door als de Orde beter betaalt. Het kost aldo verliest zijn rang en verkoopt zich op het eerste veilingpodium. Uit de lijn van VOLK-sael-mor, HUI-mirre.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** VOLK-sael-mor;HUI-mirre;GEB-Z41-mirre-vrijhaven;RIT-gemaskerde-veiling-Z50;STAD-brakhaven;ORDE-tempelwacht;FASE-ontvangst
+- **verwijst_naar:** VOLK-sael-mor;HUI-mirre;GEB-Z41-mirre-vrijhaven;RIT-gemaskerde-veiling-Z50;STAD-brakhaven;ORDE-tempelwacht;FASE-ontvangst
+- **jaar:** 
+- **tijdperk:** 5 Ontvangst
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Wiela Zoutkieuw (sael-mor, Zoutkust (Brakhaven)) is geboren rond jaar 202 en is duikster en kettingzaagster in de kaperoorlog om de vrijhaven. Ze wil haar schip vrij en de haven zonder tiende. Wat niemand weet, is dat ze zaagt ook de kettingen van Mirre-schepen door als de Orde beter betaalt. Het kost aldo verliest zijn rang en verkoopt zich op het eerste veilingpodium. Uit de lijn van VOLK-sael-mor, HUI-mirre.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-b-tjalda-wolfsvel · Tjalda Wolfsvel
+- **code:** PER-Z52-b-tjalda-wolfsvel
+- **categorie:** Personage
+- **onderwerp:** Tjalda Wolfsvel
+- **wat:** Tjalda Wolfsvel (mens, Hoogvrouwe-gebergte) is geboren rond jaar 767 en is Kaldra-huurlinge zonder huis. Wat niemand weet, is dat ze houdt een vierde flacon achter, en het zwarte grind daarin is warm gebleven. Ze wil één contract dat genoeg betaalt om te stoppen. Het kost drie doden, geen loon, en een flacon die ze niet durft weg te gooien. Uit de lijn van HUI-kaldra-Z6.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** HUI-kaldra-Z6;SEKTE-bloedkerk;STAD-lisk;PER-morvane;PER-sch-kreel
+- **verwijst_naar:** HUI-kaldra-Z6;SEKTE-bloedkerk;STAD-lisk;PER-morvane;PER-sch-kreel
+- **jaar:** 
+- **tijdperk:** 801 (nu)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Tjalda Wolfsvel (mens, Hoogvrouwe-gebergte) is geboren rond jaar 767 en is Kaldra-huurlinge zonder huis. Wat niemand weet, is dat ze houdt een vierde flacon achter, en het zwarte grind daarin is warm gebleven. Ze wil één contract dat genoeg betaalt om te stoppen. Het kost drie doden, geen loon, en een flacon die ze niet durft weg te gooien. Uit de lijn van HUI-kaldra-Z6.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-c-askja-roetkam · Askja Roetkam
+- **code:** PER-Z52-c-askja-roetkam
+- **categorie:** Personage
+- **onderwerp:** Askja Roetkam
+- **wat:** Askja Roetkam (karrûk, Orlenhal en het kamp voor Lisk) is geboren rond jaar 766 en is huurlingenkapitein van veertig zwaarden. Ze wil aan beide kanten van de oorlog verdienen en haar compagnie heel thuisbrengen. Het kost het voorschot, twaalf van haar zwaarden en haar naam bij de Bloedkerk. Wat niemand weet, is dat ze heeft het voorschot van de Bloedkerk al uitbetaald aan haar mannen. Uit de lijn van VOLK-karrûk-Z6-Z38, LOT-Z44-karruk-storm.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** VOLK-karrûk-Z6-Z38;LOT-Z44-karruk-storm;OORLOG-Z46-9-oorlog;HELD-Z46-9-held;FASE-z44-ja
+- **verwijst_naar:** VOLK-karrûk-Z6-Z38;LOT-Z44-karruk-storm;OORLOG-Z46-9-oorlog;HELD-Z46-9-held;FASE-z44-ja
+- **jaar:** 
+- **tijdperk:** 9 Tijd van de Ja (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Askja Roetkam (karrûk, Orlenhal en het kamp voor Lisk) is geboren rond jaar 766 en is huurlingenkapitein van veertig zwaarden. Ze wil aan beide kanten van de oorlog verdienen en haar compagnie heel thuisbrengen. Het kost het voorschot, twaalf van haar zwaarden en haar naam bij de Bloedkerk. Wat niemand weet, is dat ze heeft het voorschot van de Bloedkerk al uitbetaald aan haar mannen. Uit de lijn van VOLK-karrûk-Z6-Z38, LOT-Z44-karruk-storm.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-c-ysme-halfgezicht · Ysmé Halfgezicht
+- **code:** PER-Z52-c-ysme-halfgezicht
+- **categorie:** Personage
+- **onderwerp:** Ysmé Halfgezicht
+- **wat:** Ysmé Halfgezicht (ves-lethi, Hoornburg in Kharvos) is geboren rond jaar 2981 en is courtisane die gezichten van doden verhuurt. Het kost haar ene gezicht, voorgoed gespleten in twee. Ze wil genoeg verdienen om Kharvos te verlaten voordat de kern stilvalt. Wat niemand weet, is dat ze weet niet meer welk gezicht haar eigen was. Uit de lijn van VOLK-ves-lethi-Z6, LOT-Z44-ves-lethi.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** VOLK-ves-lethi-Z6;LOT-Z44-ves-lethi;VERHAAL-Z44-tijdperk-10;HORROR-Z46-10-horror;FASE-z44-volken
+- **verwijst_naar:** VOLK-ves-lethi-Z6;LOT-Z44-ves-lethi;VERHAAL-Z44-tijdperk-10;HORROR-Z46-10-horror;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Ysmé Halfgezicht (ves-lethi, Hoornburg in Kharvos) is geboren rond jaar 2981 en is courtisane die gezichten van doden verhuurt. Het kost haar ene gezicht, voorgoed gespleten in twee. Ze wil genoeg verdienen om Kharvos te verlaten voordat de kern stilvalt. Wat niemand weet, is dat ze weet niet meer welk gezicht haar eigen was. Uit de lijn van VOLK-ves-lethi-Z6, LOT-Z44-ves-lethi.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-c-drystan-hoorn · Drystan van Hoornburg
+- **code:** PER-Z52-c-drystan-hoorn
+- **categorie:** Personage
+- **onderwerp:** Drystan van Hoornburg
+- **wat:** Drystan van Hoornburg (mens, Hoornburg en de woestijn ten zuiden van Kharvos) is geboren rond jaar 2966 en is gemaal van de laatste vorstin van Kharvos, sleutelhouder van de kernzaal. Het kost de burcht, zijn naam en een tocht zonder water. Hij wil de vorstin geven wat ze vraagt, ook als het de burcht kost. Wat niemand weet, is dat hij zette de draaiing de laatste nacht hoger zonder dat zij het vroeg. Uit de lijn van STAD-kharvos-hoornburg, LOT-Z44-sterrensteen.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** STAD-kharvos-hoornburg;LOT-Z44-sterrensteen;VERHAAL-Z44-tijdperk-10;FASE-z44-volken
+- **verwijst_naar:** STAD-kharvos-hoornburg;LOT-Z44-sterrensteen;VERHAAL-Z44-tijdperk-10;FASE-z44-volken
+- **jaar:** 
+- **tijdperk:** 10 Tijd der Volken (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Drystan van Hoornburg (mens, Hoornburg en de woestijn ten zuiden van Kharvos) is geboren rond jaar 2966 en is gemaal van de laatste vorstin van Kharvos, sleutelhouder van de kernzaal. Het kost de burcht, zijn naam en een tocht zonder water. Hij wil de vorstin geven wat ze vraagt, ook als het de burcht kost. Wat niemand weet, is dat hij zette de draaiing de laatste nacht hoger zonder dat zij het vroeg. Uit de lijn van STAD-kharvos-hoornburg, LOT-Z44-sterrensteen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-c-garreth-veenloper · Garreth Veenloper
+- **code:** PER-Z52-c-garreth-veenloper
+- **categorie:** Personage
+- **onderwerp:** Garreth Veenloper
+- **wat:** Garreth Veenloper (mens, de Nevel-eilanden, na de desertie uit het koningsleger) is geboren rond jaar 3420 en is deserteur en voormalig schildknecht. Hij wil de winter overleven met Wobbe naast zich. Het kost wobbe, die opstaat met de anderen. Wat niemand weet, is dat hij liet Wobbe inslapen omdat hij zelf te moe was om te waken. Uit de lijn van VOLK-myrrhen-Z6, OORLOG-Z46-11-oorlog.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** VOLK-myrrhen-Z6;OORLOG-Z46-11-oorlog;HORROR-Z46-11-horror;FASE-z44-helden
+- **verwijst_naar:** VOLK-myrrhen-Z6;OORLOG-Z46-11-oorlog;HORROR-Z46-11-horror;FASE-z44-helden
+- **jaar:** 
+- **tijdperk:** 11 Heldentijd (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Garreth Veenloper (mens, de Nevel-eilanden, na de desertie uit het koningsleger) is geboren rond jaar 3420 en is deserteur en voormalig schildknecht. Hij wil de winter overleven met Wobbe naast zich. Het kost wobbe, die opstaat met de anderen. Wat niemand weet, is dat hij liet Wobbe inslapen omdat hij zelf te moe was om te waken. Uit de lijn van VOLK-myrrhen-Z6, OORLOG-Z46-11-oorlog.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-c-gesine-traan · Gesine Traan
+- **code:** PER-Z52-c-gesine-traan
+- **categorie:** Personage
+- **onderwerp:** Gesine Traan
+- **wat:** Gesine Traan (mens, het kustdorp bij de lander) is geboren rond jaar 4050 en is traankookster. Ze wil rijk worden aan wat de zee aanspoelt. Het kost het dorp dat haar klant was, en haar eigen huid. Wat niemand weet, is dat haar eigen huid draagt de eerste blaar, onder haar schort. Uit de lijn van HUI-Z11-kusthuizen, LOT-Z44-leegtewormen.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** HUI-Z11-kusthuizen;LOT-Z44-leegtewormen;ACTIE-Z46-12-actie;FASE-z44-vertrek
+- **verwijst_naar:** HUI-Z11-kusthuizen;LOT-Z44-leegtewormen;ACTIE-Z46-12-actie;FASE-z44-vertrek
+- **jaar:** 
+- **tijdperk:** 12 Het Vertrek (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Gesine Traan (mens, het kustdorp bij de lander) is geboren rond jaar 4050 en is traankookster. Ze wil rijk worden aan wat de zee aanspoelt. Het kost het dorp dat haar klant was, en haar eigen huid. Wat niemand weet, is dat haar eigen huid draagt de eerste blaar, onder haar schort. Uit de lijn van HUI-Z11-kusthuizen, LOT-Z44-leegtewormen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-c-rokko-slagtand · Rokko Slagtand
+- **code:** PER-Z52-c-rokko-slagtand
+- **categorie:** Personage
+- **onderwerp:** Rokko Slagtand
+- **wat:** Rokko Slagtand (mens, het droge plat, langs de trekroute van de wolreuzen) is geboren rond jaar 6400 en is jonge jager. Het kost een stijve dij voor de rest van zijn leven. Hij wil gezien worden door Inga. Wat niemand weet, is dat zijn speer trof het beest pas nadat het al viel. Uit de lijn van VOLK-ishvar, DRAGER-Z48-ontvangst-13.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** VOLK-ishvar;DRAGER-Z48-ontvangst-13;VERHAAL-Z44-tijdperk-13;FASE-z44-mensen
+- **verwijst_naar:** VOLK-ishvar;DRAGER-Z48-ontvangst-13;VERHAAL-Z44-tijdperk-13;FASE-z44-mensen
+- **jaar:** 
+- **tijdperk:** 13 Tijd der Mensen (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Rokko Slagtand (mens, het droge plat, langs de trekroute van de wolreuzen) is geboren rond jaar 6400 en is jonge jager. Het kost een stijve dij voor de rest van zijn leven. Hij wil gezien worden door Inga. Wat niemand weet, is dat zijn speer trof het beest pas nadat het al viel. Uit de lijn van VOLK-ishvar, DRAGER-Z48-ontvangst-13.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-c-hidde-dijkman · Hidde Dijkman
+- **code:** PER-Z52-c-hidde-dijkman
+- **categorie:** Personage
+- **onderwerp:** Hidde Dijkman
+- **wat:** Hidde Dijkman (mens, Oosterwierde, een van de laatste wierden aan de verdrinkende kust) is geboren rond jaar 11560 en is spitter en dijkwerker. Het kost het vertrouwen van zijn eigen wierde, die vindt dat hij voor de overkant werkte. Hij wil zijn wierde droog houden. Wat niemand weet, is dat hij heeft Aukje vroeger al eens gezien bij de zangpoel en is haar nooit vergeten. Uit de lijn van VOLK-oevrin, LOT-Z44-oevrin.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** VOLK-oevrin;LOT-Z44-oevrin;VERHAAL-Z44-tijdperk-14;FASE-z44-smelt
+- **verwijst_naar:** VOLK-oevrin;LOT-Z44-oevrin;VERHAAL-Z44-tijdperk-14;FASE-z44-smelt
+- **jaar:** 
+- **tijdperk:** 14 De Grote Smelt (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Hidde Dijkman (mens, Oosterwierde, een van de laatste wierden aan de verdrinkende kust) is geboren rond jaar 11560 en is spitter en dijkwerker. Het kost het vertrouwen van zijn eigen wierde, die vindt dat hij voor de overkant werkte. Hij wil zijn wierde droog houden. Wat niemand weet, is dat hij heeft Aukje vroeger al eens gezien bij de zangpoel en is haar nooit vergeten. Uit de lijn van VOLK-oevrin, LOT-Z44-oevrin.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
+<!-- /REC -->
+<!-- REC canon -->
+### PER-Z52-c-margriet-stoof · Margriet van der Stoof
+- **code:** PER-Z52-c-margriet-stoof
+- **categorie:** Personage
+- **onderwerp:** Margriet van der Stoof
+- **wat:** Margriet van der Stoof (mens, Gent) is geboren rond jaar 25232 en is badstovenhoudster, geboren 1307. Wat niemand weet, is dat ze nam zelf nooit van de zwammen, uit angst voor wat ze anderen zag doen. Ze wil haar stoof en haar klanten door de pest heen slepen. Het kost haar klanten, die het net toebehoren. Uit de lijn van LOT-Z44-myrrhen, FEE-Z37-myrrhen-ringen.
+- **waarom:** Ronde Z52: persoon in een vlees-en-bloedpad
+- **status:** voorlopig
+- **ronde:** 80
+- **hangt_samen_met:** LOT-Z44-myrrhen;FEE-Z37-myrrhen-ringen;MYTHE-Z43-pest-straf;FASE-z44-schrift
+- **verwijst_naar:** LOT-Z44-myrrhen;FEE-Z37-myrrhen-ringen;MYTHE-Z43-pest-straf;FASE-z44-schrift
+- **jaar:** 
+- **tijdperk:** 16 Tijd van het Schrift (na 801)
+- **intensiteit:** 
+- **weet:** 
+- **functie:** 
+- **afstoting:** 
+- **aantrekking_bron:** 
+- **aantrekking:** 
+- **techniek:** 
+- **draagkracht:** Kleur
+- **ideeenbank:** 1
+- **veilig_18plus:** 0
+- **veilig_variant:** 
+- **vervangen_door:** 
+- **feit_schoon:** Margriet van der Stoof (mens, Gent) is geboren rond jaar 25232 en is badstovenhoudster, geboren 1307. Wat niemand weet, is dat ze nam zelf nooit van de zwammen, uit angst voor wat ze anderen zag doen. Ze wil haar stoof en haar klanten door de pest heen slepen. Het kost haar klanten, die het net toebehoren. Uit de lijn van LOT-Z44-myrrhen, FEE-Z37-myrrhen-ringen.
+- **draagkracht_handmatig:** 
+- **bron_handmatig:** 
+- **epistemiek:** voorstel (Z52, persoon)
 <!-- /REC -->
 

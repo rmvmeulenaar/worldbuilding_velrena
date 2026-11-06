@@ -9,8 +9,8 @@
 - **waarom:** Body horror: het lichaam als prijs voor macht (ronde 9). [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 9
-- **hangt_samen_met:** MAGIE-kracht-duur;MAGIE-verslaving;VOOR-overvloed
-- **verwijst_naar:** MAGIE-kracht-duur;MAGIE-verslaving;VOOR-overvloed;FUNC-ID;FUNC-ECO;FUNC-INFO;TECHNO-bio;TECHNO-gave
+- **hangt_samen_met:** MAGIE-kracht-duur;MAGIE-verslaving;VOOR-overvloed-Z50
+- **verwijst_naar:** MAGIE-kracht-duur;MAGIE-verslaving;VOOR-overvloed-Z50;FUNC-ID;FUNC-ECO;FUNC-INFO;TECHNO-bio;TECHNO-gave
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -39,8 +39,8 @@
 - **waarom:** Body horror: het lichaam als prijs voor macht (ronde 9). [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar FUNC-HECHT;MAGIE-kracht-duur), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 9
-- **hangt_samen_met:** MAGIE-kracht-duur;RIT-leegtewake
-- **verwijst_naar:** MAGIE-kracht-duur;RIT-leegtewake;FUNC-CTRL;FUNC-AFSCHR;FUNC-HECHT;TECHNO-bio;HAAK-techno-gave-1
+- **hangt_samen_met:** MAGIE-kracht-duur;RIT-leegtewake-Z50
+- **verwijst_naar:** MAGIE-kracht-duur;RIT-leegtewake-Z50;FUNC-CTRL;FUNC-AFSCHR;FUNC-HECHT;TECHNO-bio;HAAK-techno-gave-1
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -69,8 +69,8 @@
 - **waarom:** Body horror: het lichaam als prijs voor macht (ronde 9). [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar FUNC-HECHT), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 9
-- **hangt_samen_met:** MAGIE-verslaving;PER-morvane;RIT-bloedverbinding
-- **verwijst_naar:** MAGIE-verslaving;PER-morvane;RIT-bloedverbinding;FUNC-HECHT;FUNC-MIL;FUNC-CTRL;TECHNO-gave
+- **hangt_samen_met:** MAGIE-verslaving;PER-morvane;RIT-bloedverbinding-Z50
+- **verwijst_naar:** MAGIE-verslaving;PER-morvane;RIT-bloedverbinding-Z50;FUNC-HECHT;FUNC-MIL;FUNC-CTRL;TECHNO-gave
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -129,8 +129,8 @@
 - **waarom:** Body horror: het lichaam als prijs voor macht (ronde 9).
 - **status:** voorlopig
 - **ronde:** 9
-- **hangt_samen_met:** KINK-ontlading-na-magie;RIT-stormontlading
-- **verwijst_naar:** KINK-ontlading-na-magie;RIT-stormontlading;FUNC-AFSCHR;FUNC-CTRL;FUNC-LUST;TECHNO-gave
+- **hangt_samen_met:** KINK-ontlading-na-magie;RIT-stormontlading-Z50
+- **verwijst_naar:** KINK-ontlading-na-magie;RIT-stormontlading-Z50;FUNC-AFSCHR;FUNC-CTRL;FUNC-LUST;TECHNO-gave
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 4
@@ -249,8 +249,8 @@
 - **waarom:** Body horror: het lichaam als prijs voor macht (ronde 9). [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gewone-mannen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 9
-- **hangt_samen_met:** MACHT-gewone-mannen;RIT-melkrite;HUI-varenne
-- **verwijst_naar:** MACHT-gewone-mannen;RIT-melkrite;HUI-varenne;FUNC-ECO;FUNC-VOORT-Z38;FUNC-MIL;TECHNO-bio
+- **hangt_samen_met:** MACHT-gewone-mannen;RIT-melkrite-Z50;HUI-varenne
+- **verwijst_naar:** MACHT-gewone-mannen;RIT-melkrite-Z50;HUI-varenne;FUNC-ECO;FUNC-VOORT-Z38;FUNC-MIL;TECHNO-bio
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -279,8 +279,8 @@
 - **waarom:** Body horror: het lichaam als prijs voor macht (ronde 9). [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar REGEL-harde-grenzen), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 9
-- **hangt_samen_met:** ORDE-orde;RIT-ontvangst;REGEL-harde-grenzen
-- **verwijst_naar:** ORDE-orde;RIT-ontvangst;REGEL-harde-grenzen;FUNC-REL;FUNC-ID;FUNC-LUST;FUNC-OVERG
+- **hangt_samen_met:** ORDE-orde;RIT-ontvangst-Z50;REGEL-harde-grenzen
+- **verwijst_naar:** ORDE-orde;RIT-ontvangst-Z50;REGEL-harde-grenzen;FUNC-REL;FUNC-ID;FUNC-LUST;FUNC-OVERG
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -339,8 +339,8 @@
 - **waarom:** Body horror: het lichaam als prijs voor macht (ronde 9).
 - **status:** voorlopig
 - **ronde:** 9
-- **hangt_samen_met:** RIT-strijdontvangst;HUI-kaldra
-- **verwijst_naar:** RIT-strijdontvangst;HUI-kaldra-Z6;FUNC-MIL;FUNC-ID;FUNC-AFSCHR
+- **hangt_samen_met:** RIT-strijdontvangst-Z50;HUI-kaldra
+- **verwijst_naar:** RIT-strijdontvangst-Z50;HUI-kaldra-Z6;FUNC-MIL;FUNC-ID;FUNC-AFSCHR
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -399,8 +399,8 @@
 - **waarom:** Body horror: het lichaam als prijs voor macht (ronde 9).
 - **status:** voorlopig
 - **ronde:** 9
-- **hangt_samen_met:** RIT-melkrite;PER-gewone-mannen
-- **verwijst_naar:** RIT-melkrite;PER-gewone-mannen;FUNC-ECO;FUNC-CTRL;FUNC-ID;TECHNO-bio
+- **hangt_samen_met:** RIT-melkrite-Z50;PER-gewone-mannen
+- **verwijst_naar:** RIT-melkrite-Z50;PER-gewone-mannen;FUNC-ECO;FUNC-CTRL;FUNC-ID;TECHNO-bio
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 3
@@ -429,8 +429,8 @@
 - **waarom:** Body horror: het lichaam als prijs voor macht (ronde 9). [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar FUNC-HECHT), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 9
-- **hangt_samen_met:** PER-morvane;RIT-bloedverbinding
-- **verwijst_naar:** PER-morvane;RIT-bloedverbinding;FUNC-MIL;FUNC-HECHT;FUNC-CTRL;TECHNO-bio
+- **hangt_samen_met:** PER-morvane;RIT-bloedverbinding-Z50
+- **verwijst_naar:** PER-morvane;RIT-bloedverbinding-Z50;FUNC-MIL;FUNC-HECHT;FUNC-CTRL;TECHNO-bio
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 5
@@ -939,8 +939,8 @@
 - **waarom:** Ronde 11: plaatsenkaart body horror
 - **status:** voorlopig
 - **ronde:** 11
-- **hangt_samen_met:** REG-saelith;RIT-ontvangst;RIT-zegelvoeding;GEB-r10-tempelbouw;LICH-zaadslijtage;LICH-ontvangstersbouw;LICH-macht-en-lichaam;FUNC-REL;FUNC-ID
-- **verwijst_naar:** REG-saelith;RIT-ontvangst;RIT-zegelvoeding;GEB-r10-tempelbouw;LICH-zaadslijtage;LICH-ontvangstersbouw;LICH-macht-en-lichaam;FUNC-REL;FUNC-ID;LICH-merkweefsel;LICH-zegeltong;LICH-zegelkoorts-liora;TECHNO-bio
+- **hangt_samen_met:** REG-saelith;RIT-ontvangst-Z50;RIT-zegelvoeding-Z50;GEB-r10-tempelbouw;LICH-zaadslijtage;LICH-ontvangstersbouw;LICH-macht-en-lichaam;FUNC-REL;FUNC-ID
+- **verwijst_naar:** REG-saelith;RIT-ontvangst-Z50;RIT-zegelvoeding-Z50;GEB-r10-tempelbouw;LICH-zaadslijtage;LICH-ontvangstersbouw;LICH-macht-en-lichaam;FUNC-REL;FUNC-ID;LICH-merkweefsel;LICH-zegeltong;LICH-zegelkoorts-liora;TECHNO-bio
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1029,8 +1029,8 @@
 - **waarom:** Ronde 11: plaatsenkaart body horror
 - **status:** voorlopig
 - **ronde:** 11
-- **hangt_samen_met:** HUI-kaldra;REG-ambergaard;RIT-strijdontvangst;GEB-r10-kaldra-verraad;LICH-krijgsvrouw;LICH-gebonden-lichaam;LICH-leegteziekte;FUNC-MIL;FUNC-HECHT;FUNC-AFSCHR
-- **verwijst_naar:** HUI-kaldra-Z6;REG-ambergaard;RIT-strijdontvangst;GEB-r10-kaldra-verraad;LICH-krijgsvrouw;LICH-gebonden-lichaam;LICH-leegteziekte;FUNC-MIL;FUNC-HECHT;FUNC-AFSCHR;LICH-krijgslitteken-kaart
+- **hangt_samen_met:** HUI-kaldra;REG-ambergaard;RIT-strijdontvangst-Z50;GEB-r10-kaldra-verraad;LICH-krijgsvrouw;LICH-gebonden-lichaam;LICH-leegteziekte;FUNC-MIL;FUNC-HECHT;FUNC-AFSCHR
+- **verwijst_naar:** HUI-kaldra-Z6;REG-ambergaard;RIT-strijdontvangst-Z50;GEB-r10-kaldra-verraad;LICH-krijgsvrouw;LICH-gebonden-lichaam;LICH-leegteziekte;FUNC-MIL;FUNC-HECHT;FUNC-AFSCHR;LICH-krijgslitteken-kaart
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1059,8 +1059,8 @@
 - **waarom:** Ronde 11: plaatsenkaart body horror
 - **status:** voorlopig
 - **ronde:** 11
-- **hangt_samen_met:** HUI-varenne;RIT-veiling;GEB-zaadbeurs-455;GEB-r10-varenne-crash;LICH-melkman;LICH-zaadslijtage;LICH-gaven-vervorming;FUNC-ECO;FUNC-ID
-- **verwijst_naar:** HUI-varenne;RIT-veiling;GEB-zaadbeurs-455;GEB-r10-varenne-crash;LICH-melkman;LICH-zaadslijtage;LICH-gaven-vervorming-Z6;FUNC-ECO;FUNC-ID;LICH-hongerbuik;LICH-veilingkeur;TECHNO-bio;TECHNO-gave
+- **hangt_samen_met:** HUI-varenne;RIT-veiling-Z50;GEB-zaadbeurs-455;GEB-r10-varenne-crash;LICH-melkman;LICH-zaadslijtage;LICH-gaven-vervorming;FUNC-ECO;FUNC-ID
+- **verwijst_naar:** HUI-varenne;RIT-veiling-Z50;GEB-zaadbeurs-455;GEB-r10-varenne-crash;LICH-melkman;LICH-zaadslijtage;LICH-gaven-vervorming-Z6;FUNC-ECO;FUNC-ID;LICH-hongerbuik;LICH-veilingkeur;TECHNO-bio;TECHNO-gave
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1209,8 +1209,8 @@
 - **waarom:** Ronde 11: plaatsenkaart body horror [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar LICH-gijzelaarsband), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 11
-- **hangt_samen_met:** HUI-qesh;REG-rosse;PER-khaled;RIT-vuurgloed;GEB-r10-khaled-pact;LICH-macht-en-lichaam;LICH-mutatie-ritueel;FUNC-POL;FUNC-ID
-- **verwijst_naar:** HUI-qesh-Z6;REG-rosse;PER-khaled;RIT-vuurgloed;GEB-r10-khaled-pact;LICH-macht-en-lichaam;LICH-mutatie-ritueel;FUNC-POL;FUNC-ID;LICH-vreemdbloed;LICH-gijzelaarsband;LICH-goudmasker;STAD-qesh
+- **hangt_samen_met:** HUI-qesh;REG-rosse;PER-khaled;RIT-vuurgloed-Z50;GEB-r10-khaled-pact;LICH-macht-en-lichaam;LICH-mutatie-ritueel;FUNC-POL;FUNC-ID
+- **verwijst_naar:** HUI-qesh-Z6;REG-rosse;PER-khaled;RIT-vuurgloed-Z50;GEB-r10-khaled-pact;LICH-macht-en-lichaam;LICH-mutatie-ritueel;FUNC-POL;FUNC-ID;LICH-vreemdbloed;LICH-gijzelaarsband;LICH-goudmasker;STAD-qesh
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1299,8 +1299,8 @@
 - **waarom:** Ronde 11: plaatsenkaart body horror
 - **status:** voorlopig
 - **ronde:** 11
-- **hangt_samen_met:** RIT-leegtewake;REG-saelith;LICH-leegteziekte;LICH-zaadslijtage;FUNC-CTRL;FUNC-AFSCHR
-- **verwijst_naar:** RIT-leegtewake;REG-saelith;LICH-leegteziekte;LICH-zaadslijtage;FUNC-CTRL;FUNC-AFSCHR;LICH-weduwhuid
+- **hangt_samen_met:** RIT-leegtewake-Z50;REG-saelith;LICH-leegteziekte;LICH-zaadslijtage;FUNC-CTRL;FUNC-AFSCHR
+- **verwijst_naar:** RIT-leegtewake-Z50;REG-saelith;LICH-leegteziekte;LICH-zaadslijtage;FUNC-CTRL;FUNC-AFSCHR;LICH-weduwhuid
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1329,7 +1329,7 @@
 - **waarom:** Ronde 11: plaatsenkaart body horror [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEB-r10-dorre-dochters), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 11
-- **hangt_samen_met:** REG-hoogvrouwe;LICH-dochters;GEB-r10-dorre-dochters;LICH-dochters;LICH-macht-en-lichaam;FUNC-REL;FUNC-POL
+- **hangt_samen_met:** REG-hoogvrouwe;LICH-dochters;GEB-r10-dorre-dochters;LICH-macht-en-lichaam;FUNC-REL;FUNC-POL
 - **verwijst_naar:** REG-hoogvrouwe;LICH-dochters;GEB-r10-dorre-dochters;LICH-macht-en-lichaam;FUNC-REL;FUNC-POL;LICH-moederblindheid
 - **jaar:** 
 - **tijdperk:** 
@@ -1359,8 +1359,8 @@
 - **waarom:** Ronde 11: plaatsenkaart body horror
 - **status:** voorlopig
 - **ronde:** 11
-- **hangt_samen_met:** REG-ambergaard;RIT-melkrite;GEB-r10-melkstallen;LICH-melkman;FUNC-ECO;FUNC-CTRL
-- **verwijst_naar:** REG-ambergaard;RIT-melkrite;GEB-r10-melkstallen;LICH-melkman;FUNC-ECO;FUNC-CTRL;LICH-lege-zaad;LICH-melkkraag;TECHNO-bio
+- **hangt_samen_met:** REG-ambergaard;RIT-melkrite-Z50;GEB-r10-melkstallen;LICH-melkman;FUNC-ECO;FUNC-CTRL
+- **verwijst_naar:** REG-ambergaard;RIT-melkrite-Z50;GEB-r10-melkstallen;LICH-melkman;FUNC-ECO;FUNC-CTRL;LICH-lege-zaad;LICH-melkkraag;TECHNO-bio
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1419,8 +1419,8 @@
 - **waarom:** Ronde 11: plaatsenkaart body horror
 - **status:** voorlopig
 - **ronde:** 11
-- **hangt_samen_met:** REG-zoutkust;RIT-schandpodium;RIT-ketenwake;GEB-r10-ketenwake;LICH-gebonden-lichaam;LICH-mutatie-ritueel;FUNC-CTRL;FUNC-AFSCHR
-- **verwijst_naar:** REG-zoutkust;RIT-schandpodium;RIT-ketenwake;GEB-r10-ketenwake;LICH-gebonden-lichaam;LICH-mutatie-ritueel;FUNC-CTRL;FUNC-AFSCHR;LICH-rotmerk
+- **hangt_samen_met:** REG-zoutkust;RIT-schandpodium-Z50;RIT-ketenwake-Z50;GEB-r10-ketenwake;LICH-gebonden-lichaam;LICH-mutatie-ritueel;FUNC-CTRL;FUNC-AFSCHR
+- **verwijst_naar:** REG-zoutkust;RIT-schandpodium-Z50;RIT-ketenwake-Z50;GEB-r10-ketenwake;LICH-gebonden-lichaam;LICH-mutatie-ritueel;FUNC-CTRL;FUNC-AFSCHR;LICH-rotmerk
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1449,8 +1449,8 @@
 - **waarom:** Ronde 11: plaatsenkaart body horror
 - **status:** voorlopig
 - **ronde:** 11
-- **hangt_samen_met:** REG-groenmuil;RIT-nacht-duizend-lampen;GEB-r10-groenmuil-feest;LICH-vergane-zonen;FUNC-VOORT;FUNC-REL
-- **verwijst_naar:** REG-groenmuil;RIT-nacht-duizend-lampen;GEB-r10-groenmuil-feest;LICH-vergane-zonen;FUNC-VOORT-Z38;FUNC-REL;LICH-lampenkinderen
+- **hangt_samen_met:** REG-groenmuil;RIT-nacht-duizend-lampen-Z50;GEB-r10-groenmuil-feest;LICH-vergane-zonen;FUNC-VOORT;FUNC-REL
+- **verwijst_naar:** REG-groenmuil;RIT-nacht-duizend-lampen-Z50;GEB-r10-groenmuil-feest;LICH-vergane-zonen;FUNC-VOORT-Z38;FUNC-REL;LICH-lampenkinderen
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1539,8 +1539,8 @@
 - **waarom:** Ronde 11: plaatsenkaart body horror
 - **status:** voorlopig
 - **ronde:** 11
-- **hangt_samen_met:** REG-hoogvrouwe;RIT-pelgrimszalving;RIT-reizigersgroet;LICH-zaadslijtage;LICH-ves-anath-gruwel;FUNC-REL;FUNC-INFO
-- **verwijst_naar:** REG-hoogvrouwe;RIT-pelgrimszalving;RIT-reizigersgroet;LICH-zaadslijtage;LICH-ves-anath-gruwel;FUNC-REL;FUNC-INFO;LICH-pelgrimsgroei
+- **hangt_samen_met:** REG-hoogvrouwe;RIT-pelgrimszalving-Z50;RIT-reizigersgroet-Z50;LICH-zaadslijtage;LICH-ves-anath-gruwel;FUNC-REL;FUNC-INFO
+- **verwijst_naar:** REG-hoogvrouwe;RIT-pelgrimszalving-Z50;RIT-reizigersgroet-Z50;LICH-zaadslijtage;LICH-ves-anath-gruwel;FUNC-REL;FUNC-INFO;LICH-pelgrimsgroei
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1689,8 +1689,8 @@
 - **waarom:** Ronde 12: vorm voor functie FUNC-CTRL, FUNC-AFSCHR
 - **status:** voorlopig
 - **ronde:** 12
-- **hangt_samen_met:** PER-liora;RIT-schandpodium;PLEK-LICH-schandpodium;FUNC-CTRL;FUNC-AFSCHR
-- **verwijst_naar:** PER-liora-Z6-Z32;RIT-schandpodium;PLEK-LICH-schandpodium;FUNC-CTRL;FUNC-AFSCHR
+- **hangt_samen_met:** PER-liora;RIT-schandpodium-Z50;PLEK-LICH-schandpodium;FUNC-CTRL;FUNC-AFSCHR
+- **verwijst_naar:** PER-liora-Z6-Z32;RIT-schandpodium-Z50;PLEK-LICH-schandpodium;FUNC-CTRL;FUNC-AFSCHR
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1719,8 +1719,8 @@
 - **waarom:** Ronde 12: vorm voor functie FUNC-HECHT, FUNC-LUST [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)]
 - **status:** vastgesteld
 - **ronde:** 12
-- **hangt_samen_met:** LICH-gebonden-lichaam;VOOR-binding;PER-morvane;PLEK-LICH-donker-hof;FUNC-HECHT;FUNC-LUST
-- **verwijst_naar:** LICH-gebonden-lichaam;VOOR-binding;PER-morvane;PLEK-LICH-donker-hof;FUNC-HECHT;FUNC-LUST
+- **hangt_samen_met:** LICH-gebonden-lichaam;VOOR-binding-Z50;PER-morvane;PLEK-LICH-donker-hof;FUNC-HECHT;FUNC-LUST
+- **verwijst_naar:** LICH-gebonden-lichaam;VOOR-binding-Z50;PER-morvane;PLEK-LICH-donker-hof;FUNC-HECHT;FUNC-LUST
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1749,8 +1749,8 @@
 - **waarom:** Ronde 12: vorm voor functie FUNC-MIL, FUNC-ID, FUNC-OVERG
 - **status:** voorlopig
 - **ronde:** 12
-- **hangt_samen_met:** LICH-krijgsvrouw;HUI-kaldra;RIT-strijdontvangst;PLEK-LICH-kaldra-kamp;FUNC-MIL;FUNC-ID;FUNC-OVERG
-- **verwijst_naar:** LICH-krijgsvrouw;HUI-kaldra-Z6;RIT-strijdontvangst;PLEK-LICH-kaldra-kamp;FUNC-MIL;FUNC-ID;FUNC-OVERG
+- **hangt_samen_met:** LICH-krijgsvrouw;HUI-kaldra;RIT-strijdontvangst-Z50;PLEK-LICH-kaldra-kamp;FUNC-MIL;FUNC-ID;FUNC-OVERG
+- **verwijst_naar:** LICH-krijgsvrouw;HUI-kaldra-Z6;RIT-strijdontvangst-Z50;PLEK-LICH-kaldra-kamp;FUNC-MIL;FUNC-ID;FUNC-OVERG
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1839,8 +1839,8 @@
 - **waarom:** Ronde 12: vorm voor functie FUNC-POL, FUNC-CTRL
 - **status:** voorlopig
 - **ronde:** 12
-- **hangt_samen_met:** RIT-tribunaal-drie;GEB-r10-tribunaal;LICH-macht-en-lichaam;FUNC-POL;FUNC-CTRL
-- **verwijst_naar:** RIT-tribunaal-drie;GEB-r10-tribunaal;LICH-macht-en-lichaam;FUNC-POL;FUNC-CTRL
+- **hangt_samen_met:** RIT-tribunaal-drie-Z50;GEB-r10-tribunaal;LICH-macht-en-lichaam;FUNC-POL;FUNC-CTRL
+- **verwijst_naar:** RIT-tribunaal-drie-Z50;GEB-r10-tribunaal;LICH-macht-en-lichaam;FUNC-POL;FUNC-CTRL
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1869,8 +1869,8 @@
 - **waarom:** Ronde 12: vorm voor functie FUNC-REL, FUNC-INFO
 - **status:** voorlopig
 - **ronde:** 12
-- **hangt_samen_met:** KINK-ontvangst-via-mond;RIT-zegelvoeding;PLEK-LICH-ontvangstzaal;GEB-r10-eerste-lek;FUNC-REL;FUNC-INFO
-- **verwijst_naar:** KINK-ontvangst-via-mond;RIT-zegelvoeding;PLEK-LICH-ontvangstzaal;GEB-r10-eerste-lek;FUNC-REL;FUNC-INFO
+- **hangt_samen_met:** KINK-ontvangst-via-mond;RIT-zegelvoeding-Z50;PLEK-LICH-ontvangstzaal;GEB-r10-eerste-lek;FUNC-REL;FUNC-INFO
+- **verwijst_naar:** KINK-ontvangst-via-mond;RIT-zegelvoeding-Z50;PLEK-LICH-ontvangstzaal;GEB-r10-eerste-lek;FUNC-REL;FUNC-INFO
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -1929,8 +1929,8 @@
 - **waarom:** Ronde 12: vorm voor functie FUNC-ECO, FUNC-ID
 - **status:** voorlopig
 - **ronde:** 12
-- **hangt_samen_met:** RIT-veiling;GEB-zaadbeurs-455;PLEK-LICH-zaadbeurs;FUNC-ECO;FUNC-ID
-- **verwijst_naar:** RIT-veiling;GEB-zaadbeurs-455;PLEK-LICH-zaadbeurs;FUNC-ECO;FUNC-ID;TECHNO-gave
+- **hangt_samen_met:** RIT-veiling-Z50;GEB-zaadbeurs-455;PLEK-LICH-zaadbeurs;FUNC-ECO;FUNC-ID
+- **verwijst_naar:** RIT-veiling-Z50;GEB-zaadbeurs-455;PLEK-LICH-zaadbeurs;FUNC-ECO;FUNC-ID;TECHNO-gave
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2019,8 +2019,8 @@
 - **waarom:** Ronde 12: vorm voor functie FUNC-OVERG, FUNC-HECHT [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)]
 - **status:** vastgesteld
 - **ronde:** 12
-- **hangt_samen_met:** RIT-laatste-bed;RIT-afscheid-uitverkorene;PLEK-LICH-leegtehuis;FUNC-OVERG;FUNC-HECHT
-- **verwijst_naar:** RIT-laatste-bed;RIT-afscheid-uitverkorene;PLEK-LICH-leegtehuis;FUNC-OVERG;FUNC-HECHT;TECHNO-gave
+- **hangt_samen_met:** RIT-laatste-bed-Z50;RIT-afscheid-uitverkorene-Z50;PLEK-LICH-leegtehuis;FUNC-OVERG;FUNC-HECHT
+- **verwijst_naar:** RIT-laatste-bed-Z50;RIT-afscheid-uitverkorene-Z50;PLEK-LICH-leegtehuis;FUNC-OVERG;FUNC-HECHT;TECHNO-gave
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2049,8 +2049,8 @@
 - **waarom:** Ronde 12: vorm voor functie FUNC-DIPLO, FUNC-ID
 - **status:** voorlopig
 - **ronde:** 12
-- **hangt_samen_met:** HUI-mirre;HUI-qesh;REG-kharvos;VOOR-reiziger;PLEK-LICH-mirre-havens;PLEK-LICH-qesh;FUNC-DIPLO;FUNC-ID
-- **verwijst_naar:** HUI-mirre;HUI-qesh-Z6;REG-kharvos-B1;VOOR-reiziger;PLEK-LICH-mirre-havens;PLEK-LICH-qesh;FUNC-DIPLO;FUNC-ID;STAD-qesh;TECHNO-bio
+- **hangt_samen_met:** HUI-mirre;HUI-qesh;REG-kharvos;VOOR-reiziger-Z50;PLEK-LICH-mirre-havens;PLEK-LICH-qesh;FUNC-DIPLO;FUNC-ID
+- **verwijst_naar:** HUI-mirre;HUI-qesh-Z6;REG-kharvos-B1;VOOR-reiziger-Z50;PLEK-LICH-mirre-havens;PLEK-LICH-qesh;FUNC-DIPLO;FUNC-ID;STAD-qesh;TECHNO-bio
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2139,8 +2139,8 @@
 - **waarom:** Ronde 12: vorm voor functie FUNC-POL, FUNC-ID
 - **status:** voorlopig
 - **ronde:** 12
-- **hangt_samen_met:** HUI-qesh;PER-khaled;RIT-vuurgloed;PLEK-LICH-qesh;FUNC-POL;FUNC-ID
-- **verwijst_naar:** HUI-qesh-Z6;PER-khaled;RIT-vuurgloed;PLEK-LICH-qesh;FUNC-POL;FUNC-ID;STAD-qesh
+- **hangt_samen_met:** HUI-qesh;PER-khaled;RIT-vuurgloed-Z50;PLEK-LICH-qesh;FUNC-POL;FUNC-ID
+- **verwijst_naar:** HUI-qesh-Z6;PER-khaled;RIT-vuurgloed-Z50;PLEK-LICH-qesh;FUNC-POL;FUNC-ID;STAD-qesh
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2169,8 +2169,8 @@
 - **waarom:** Ronde 12: vorm voor functie FUNC-CTRL, FUNC-ECO
 - **status:** voorlopig
 - **ronde:** 12
-- **hangt_samen_met:** LICH-melkman;RIT-melkrite;PLEK-LICH-melkstal-amber;GEB-r10-melkstallen;FUNC-CTRL;FUNC-ECO
-- **verwijst_naar:** LICH-melkman;RIT-melkrite;PLEK-LICH-melkstal-amber;GEB-r10-melkstallen;FUNC-CTRL;FUNC-ECO;TECHNO-bio
+- **hangt_samen_met:** LICH-melkman;RIT-melkrite-Z50;PLEK-LICH-melkstal-amber;GEB-r10-melkstallen;FUNC-CTRL;FUNC-ECO
+- **verwijst_naar:** LICH-melkman;RIT-melkrite-Z50;PLEK-LICH-melkstal-amber;GEB-r10-melkstallen;FUNC-CTRL;FUNC-ECO;TECHNO-bio
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2259,8 +2259,8 @@
 - **waarom:** Ronde 12: vorm voor functie FUNC-SELECT, FUNC-VOORT
 - **status:** voorlopig
 - **ronde:** 12
-- **hangt_samen_met:** RIT-nacht-duizend-lampen;GEB-r10-groenmuil-feest;PLEK-LICH-lampenfeest;FUNC-SELECT;FUNC-VOORT
-- **verwijst_naar:** RIT-nacht-duizend-lampen;GEB-r10-groenmuil-feest;PLEK-LICH-lampenfeest;FUNC-SELECT;FUNC-VOORT-Z38
+- **hangt_samen_met:** RIT-nacht-duizend-lampen-Z50;GEB-r10-groenmuil-feest;PLEK-LICH-lampenfeest;FUNC-SELECT;FUNC-VOORT
+- **verwijst_naar:** RIT-nacht-duizend-lampen-Z50;GEB-r10-groenmuil-feest;PLEK-LICH-lampenfeest;FUNC-SELECT;FUNC-VOORT-Z38
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -2289,8 +2289,8 @@
 - **waarom:** Ronde 12: vorm voor functie FUNC-AFSCHR, FUNC-REL
 - **status:** voorlopig
 - **ronde:** 12
-- **hangt_samen_met:** RIT-pelgrimszalving;PLEK-LICH-pelgrimsweg;LICH-ves-anath-gruwel;FUNC-AFSCHR;FUNC-REL
-- **verwijst_naar:** RIT-pelgrimszalving;PLEK-LICH-pelgrimsweg;LICH-ves-anath-gruwel;FUNC-AFSCHR;FUNC-REL
+- **hangt_samen_met:** RIT-pelgrimszalving-Z50;PLEK-LICH-pelgrimsweg;LICH-ves-anath-gruwel;FUNC-AFSCHR;FUNC-REL
+- **verwijst_naar:** RIT-pelgrimszalving-Z50;PLEK-LICH-pelgrimsweg;LICH-ves-anath-gruwel;FUNC-AFSCHR;FUNC-REL
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3039,8 +3039,8 @@
 - **waarom:** Ronde 14: functie eerst [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)]
 - **status:** vastgesteld
 - **ronde:** 14
-- **hangt_samen_met:** ORDE-orde;LICH-tempelfokkerij;RIT-zegelvoeding;PLEK-LICH-fokstallen;FUNC-PROD;FUNC-REL;FUNC-ECO
-- **verwijst_naar:** ORDE-orde;LICH-tempelfokkerij;RIT-zegelvoeding;PLEK-LICH-fokstallen;FUNC-PROD;FUNC-REL;FUNC-ECO;TECHNO-bio;TECHNO-gave
+- **hangt_samen_met:** ORDE-orde;LICH-tempelfokkerij;RIT-zegelvoeding-Z50;PLEK-LICH-fokstallen;FUNC-PROD;FUNC-REL;FUNC-ECO
+- **verwijst_naar:** ORDE-orde;LICH-tempelfokkerij;RIT-zegelvoeding-Z50;PLEK-LICH-fokstallen;FUNC-PROD;FUNC-REL;FUNC-ECO;TECHNO-bio;TECHNO-gave
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3069,8 +3069,8 @@
 - **waarom:** Ronde 14: functie eerst [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)]
 - **status:** vastgesteld
 - **ronde:** 14
-- **hangt_samen_met:** LICH-melkman;LICH-melkkraag;RIT-melkrite;PER-gewone-mannen;PLEK-LICH-melkstal-amber;REG-ambergaard;FUNC-PROD;FUNC-ECO;FUNC-CTRL
-- **verwijst_naar:** LICH-melkman;LICH-melkkraag;RIT-melkrite;PER-gewone-mannen;PLEK-LICH-melkstal-amber;REG-ambergaard;FUNC-PROD;FUNC-ECO;FUNC-CTRL;TECHNO-bio
+- **hangt_samen_met:** LICH-melkman;LICH-melkkraag;RIT-melkrite-Z50;PER-gewone-mannen;PLEK-LICH-melkstal-amber;REG-ambergaard;FUNC-PROD;FUNC-ECO;FUNC-CTRL
+- **verwijst_naar:** LICH-melkman;LICH-melkkraag;RIT-melkrite-Z50;PER-gewone-mannen;PLEK-LICH-melkstal-amber;REG-ambergaard;FUNC-PROD;FUNC-ECO;FUNC-CTRL;TECHNO-bio
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3099,8 +3099,8 @@
 - **waarom:** Ronde 14: functie eerst [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)]
 - **status:** vastgesteld
 - **ronde:** 14
-- **hangt_samen_met:** HUI-varenne;GEB-zaadbeurs-455;LICH-veilingkeur;RIT-veiling;PLEK-LICH-zaadbeurs;FUNC-PROD;FUNC-ECO;FUNC-MIL
-- **verwijst_naar:** HUI-varenne;GEB-zaadbeurs-455;LICH-veilingkeur;RIT-veiling;PLEK-LICH-zaadbeurs;FUNC-PROD;FUNC-ECO;FUNC-MIL
+- **hangt_samen_met:** HUI-varenne;GEB-zaadbeurs-455;LICH-veilingkeur;RIT-veiling-Z50;PLEK-LICH-zaadbeurs;FUNC-PROD;FUNC-ECO;FUNC-MIL
+- **verwijst_naar:** HUI-varenne;GEB-zaadbeurs-455;LICH-veilingkeur;RIT-veiling-Z50;PLEK-LICH-zaadbeurs;FUNC-PROD;FUNC-ECO;FUNC-MIL
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -3129,8 +3129,8 @@
 - **waarom:** Ronde 14: functie eerst [Ronde B1 2026-10-30: vastgesteld, Rogier volgt suggestie (BESLUIT-6)]
 - **status:** vastgesteld
 - **ronde:** 14
-- **hangt_samen_met:** HUI-kaldra;RIT-strijdontvangst;LICH-krijgsvrouw;PLEK-LICH-kaldra-kamp;FUNC-PROD;FUNC-MIL;FUNC-HECHT
-- **verwijst_naar:** HUI-kaldra-Z6;RIT-strijdontvangst;LICH-krijgsvrouw;PLEK-LICH-kaldra-kamp;FUNC-PROD;FUNC-MIL;FUNC-HECHT
+- **hangt_samen_met:** HUI-kaldra;RIT-strijdontvangst-Z50;LICH-krijgsvrouw;PLEK-LICH-kaldra-kamp;FUNC-PROD;FUNC-MIL;FUNC-HECHT
+- **verwijst_naar:** HUI-kaldra-Z6;RIT-strijdontvangst-Z50;LICH-krijgsvrouw;PLEK-LICH-kaldra-kamp;FUNC-PROD;FUNC-MIL;FUNC-HECHT
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -5889,8 +5889,8 @@
 - **waarom:** Ronde Z6: bijgesteld na BESLUIT-Z6-WRIJ-049 [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar GEH-zegel;GEH-zegel-B1), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 35
-- **hangt_samen_met:** GEH-zegel;RIT-geboortelied;FUNC-INFO;FUNC-CTRL;FUNC-REL;TECHNO-gave;BESLUIT-Z6-WRIJ-049
-- **verwijst_naar:** BESLUIT-Z30-2;RIT-geboortelied;FUNC-INFO;FUNC-CTRL;FUNC-REL;TECHNO-gave;BESLUIT-Z6-WRIJ-049
+- **hangt_samen_met:** GEH-zegel;RIT-geboortelied-Z50;FUNC-INFO;FUNC-CTRL;FUNC-REL;TECHNO-gave;BESLUIT-Z6-WRIJ-049
+- **verwijst_naar:** BESLUIT-Z30-2;RIT-geboortelied-Z50;FUNC-INFO;FUNC-CTRL;FUNC-REL;TECHNO-gave;BESLUIT-Z6-WRIJ-049
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 
@@ -6009,7 +6009,7 @@
 - **waarom:** Ronde Z8: lichaamsvorming en bimbofication (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 37
-- **hangt_samen_met:** LICH-gaven-vervorming;TECH-GESCH-1;LICH-gaven-vervorming
+- **hangt_samen_met:** LICH-gaven-vervorming;TECH-GESCH-1
 - **verwijst_naar:** LICH-gaven-vervorming-Z6;TECH-GESCH-1
 - **jaar:** 
 - **tijdperk:** 
@@ -6129,7 +6129,7 @@
 - **waarom:** Ronde Z8: lichaamsvorming en bimbofication (wens Rogier) [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** voorlopig
 - **ronde:** 37
-- **hangt_samen_met:** LICH-gaven-vervorming;LICH-gaven-vervorming
+- **hangt_samen_met:** LICH-gaven-vervorming
 - **verwijst_naar:** LICH-gaven-vervorming-Z6;KINKFUNC-Z10-36;KINKFUNC-Z10-101;KINKFUNC-Z10-102
 - **jaar:** 
 - **tijdperk:** 
@@ -6489,7 +6489,7 @@
 - **waarom:** Ronde Z8: lichaamsvorming en bimbofication (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 37
-- **hangt_samen_met:** REG-overzicht;LICH-gaven-vervorming;LICH-gaven-vervorming
+- **hangt_samen_met:** REG-overzicht;LICH-gaven-vervorming
 - **verwijst_naar:** REG-overzicht;LICH-gaven-vervorming-Z6
 - **jaar:** 
 - **tijdperk:** 
@@ -6549,7 +6549,7 @@
 - **waarom:** Ronde Z8: lichaamsvorming en bimbofication (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 37
-- **hangt_samen_met:** LICH-gaven-vervorming;LICH-gaven-vervorming
+- **hangt_samen_met:** LICH-gaven-vervorming
 - **verwijst_naar:** LICH-gaven-vervorming-Z6
 - **jaar:** 
 - **tijdperk:** 
@@ -6579,7 +6579,7 @@
 - **waarom:** Ronde Z8: lichaamsvorming en bimbofication (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** LICH-gaven-vervorming;EROS-GRENZEN-Z7;LICH-gaven-vervorming
+- **hangt_samen_met:** LICH-gaven-vervorming;EROS-GRENZEN-Z7
 - **verwijst_naar:** LICH-gaven-vervorming-Z6;EROS-GRENZEN-Z7
 - **jaar:** 
 - **tijdperk:** 
@@ -6729,7 +6729,7 @@
 - **waarom:** Ronde Z8: lichaamsvorming en bimbofication (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 37
-- **hangt_samen_met:** LICH-gaven-vervorming;LICH-gaven-vervorming
+- **hangt_samen_met:** LICH-gaven-vervorming
 - **verwijst_naar:** LICH-gaven-vervorming-Z6
 - **jaar:** 
 - **tijdperk:** 
@@ -6789,7 +6789,7 @@
 - **waarom:** Ronde Z8: lichaamsvorming en bimbofication (wens Rogier)
 - **status:** voorlopig
 - **ronde:** 37
-- **hangt_samen_met:** LICH-gaven-vervorming;LICH-gaven-vervorming
+- **hangt_samen_met:** LICH-gaven-vervorming
 - **verwijst_naar:** LICH-gaven-vervorming-Z6
 - **jaar:** 
 - **tijdperk:** 
@@ -7269,7 +7269,7 @@
 - **waarom:** Ronde Z8: lichaamsvorming en bimbofication (wens Rogier) [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar EROS-GRENZEN-Z7), coherentiecontrole Z13 geslaagd]
 - **status:** vastgesteld
 - **ronde:** 37
-- **hangt_samen_met:** EROS-GRENZEN-Z7;LICH-gaven-vervorming;LICH-gaven-vervorming
+- **hangt_samen_met:** EROS-GRENZEN-Z7;LICH-gaven-vervorming
 - **verwijst_naar:** EROS-GRENZEN-Z7;LICH-gaven-vervorming-Z6
 - **jaar:** 
 - **tijdperk:** 
@@ -8559,8 +8559,8 @@
 - **waarom:** Ronde Z10: bijgeschreven versie van BODY-Z8-45 (optimalisatie)
 - **status:** voorlopig
 - **ronde:** 39
-- **hangt_samen_met:** BODY-Z8-45;KINK-Z8-11;LICH-gaven-vervorming;KINKFUNC-Z10-145
-- **verwijst_naar:** BODY-Z8-45-L10;KINK-Z8-11;LICH-gaven-vervorming-Z6;KINKFUNC-Z10-145
+- **hangt_samen_met:** BODY-Z8-45;KINK-Z8-11-Z50;LICH-gaven-vervorming;KINKFUNC-Z10-145
+- **verwijst_naar:** BODY-Z8-45-L10;KINK-Z8-11-Z50;LICH-gaven-vervorming-Z6;KINKFUNC-Z10-145
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 

@@ -1,0 +1,1315 @@
+paden:
+- fase: 11 Heldentijd (na 801)
+  fantasieen:
+  - RIT-kharvosrite
+  - VOOR-gevangenschap
+  drager: null
+  positie: betaler
+  genre: thriller
+  schaal: rijk
+  volk: mens
+  vorm: getuigenverslag
+  afloop: keert om
+  hp:
+    band: 36-50
+    leeftijd: 44
+    geslacht: v
+  gewichten:
+  - 1
+  - 1
+  - 3
+  - 5
+  - 3
+  - 3
+  - 0
+  - 4
+  kern:
+  - REG-kharvos-B1
+  - OORLOG-Z46-11-oorlog
+  - HUI-kaldra-Z6
+  - FASE-z44-helden
+  persoon: PER-Z50-b-brenna-ostkaar
+  premisse: 'Brenna Ostkaar, veldvrouwe uit een zijtak van Kaldra, rijdt met een kist zilver het kamp in van een Kharvos-heer die grensvrouwen gevangen houdt. De tolk vertelt later hoe de heer het zilver
+    weigert en haarzelf als gijzelaar eist, en hoe Brenna toestemt om de anderen vrij te krijgen. De verdeling van gevangenen blijft dreiging aan de rand van het verhaal: gelabeld donker thema, nooit verheerlijkt.
+    Dan draait het om, want de heer blijkt zelf gevangene van zijn eigen leger.'
+- fase: 11 Heldentijd (na 801)
+  fantasieen:
+  - KINK-rolwissel-in-kharvos
+  - RIT-duel-man
+  drager: null
+  positie: liefde tussen posities
+  genre: romance
+  schaal: stad
+  volk: mens
+  vorm: brieven
+  afloop: werkt
+  hp:
+    band: 36-50
+    leeftijd: 37
+    geslacht: v
+  gewichten:
+  - 5
+  - 4
+  - 0
+  - 2
+  - 2
+  - 2
+  - 2
+  - 1
+  kern:
+  - REG-kharvos-B1
+  - KINK-duel-man
+  - STAD-kaldrun
+  - OORLOG-Z46-11-oorlog
+  persoon: PER-Z50-b-brenna-ostkaar
+  premisse: In brieven aan haar zuster in Kaldrun beschrijft gezante Brenna de puinstad onder het gevallen Hoornburg, waar mannen nog heersen uit gewoonte en waar zij opeens bezit heet. Ze wordt verliefd
+    op Edrik, een schrijver van de vorst die om haar sjerp lacht. Wanneer een hofdame hem opeist, daagt Brenna haar uit tot een duel naar Kaldra-gebruik, tot opgave. Edrik mag weigeren. Hij zegt ja, en
+    het hof weet niet meer wie van wie is.
+- fase: 11 Heldentijd (na 801)
+  fantasieen:
+  - VOOR-Z46-vervagen
+  - KINK-Z8-41
+  drager: DRAGER-Z48-geheugen-10
+  positie: toeschouwer
+  genre: romance
+  schaal: huis
+  volk: aelthir
+  vorm: lijst die krimpt
+  afloop: faalt
+  hp:
+    band: 51+
+    leeftijd: 54
+    geslacht: m
+  gewichten:
+  - 5
+  - 4
+  - 1
+  - 2
+  - 0
+  - 0
+  - 0
+  - 5
+  kern:
+  - LOT-Z44-aelthir
+  - D1-aelthir-ziekte
+  - EROS-Z45-haak-5
+  - VOLK-aelthir-V5
+  persoon: PER-Z50-b-wessel-oom
+  premisse: 'Wessel giet al dertig jaar kaarsen in een dorp aan de mistrand. Neveth, een Aelthir, vraagt hem heet vet op haar huid te druppelen, omdat alleen hitte haar nog bereikt. Elke keer neemt de was
+    een afdruk van haar rug, en hij zet die op een plank. Daarnaast houdt hij bij wat ze nog voelt: wol, adem, zijn duim. Dat lijstje wordt korter. Op een ochtend kijkt ze naar de afdrukken en vraagt ze
+    hem wie hij is.'
+- fase: 11 Heldentijd (na 801)
+  fantasieen:
+  - VOOR-verplettering
+  - VOOR-lichaam
+  drager: DRAGER-Z48-maat-10
+  positie: ontdekker
+  genre: komedie
+  schaal: dorp
+  volk: tharn
+  vorm: kamerspel
+  afloop: werkt
+  hp:
+    band: 26-35
+    leeftijd: 33
+    geslacht: m
+  gewichten:
+  - 4
+  - 4
+  - 0
+  - 1
+  - 0
+  - 0
+  - 5
+  - 0
+  kern:
+  - LOT-Z44-tharn
+  - COMEDY-Z46-11-comedy
+  - VOLK-tharn
+  - UIT-VOLK-tharn
+  persoon: PER-Z50-b-brokke-hamerling
+  premisse: 'Brokke, smid met een Dhurn-grootvader, woont bij de poort waar een oude Tharn en een oude Dhurn al jaren kibbelen over wie de laatste is. Hij houdt van Gudrun, twee meter zeventig, met een
+    Tharn-overgrootmoeder, die bang is hem te breken als ze op hem ligt. In één kamer, met de twee ruziemakers onder het raam, leren ze tellen: zijn adem, haar gewicht, drie klopjes op de vloer bij genoeg.
+    Het lukt, en buiten horen de oude mannen alles.'
+- fase: 11 Heldentijd (na 801)
+  fantasieen:
+  - RIT-volk-dhurn
+  drager: DRAGER-Z48-zoem-10
+  positie: beslisser
+  genre: actie
+  schaal: huis
+  volk: dhurn
+  vorm: aftellen
+  afloop: keert om
+  hp:
+    band: 26-35
+    leeftijd: 35
+    geslacht: m
+  gewichten:
+  - 3
+  - 4
+  - 1
+  - 4
+  - 5
+  - 1
+  - 1
+  - 2
+  kern:
+  - SEKS-VOLK-dhurn-kern
+  - ACTIE-Z46-11-actie
+  - LOT-Z44-dhurn
+  - LOT-Z44-sterrensteen
+  persoon: PER-Z50-b-brokke-hamerling
+  premisse: 'Gudrun en Brokke laten zich verzegelen zoals de Dhurn het deden: het gilde sluit het paar op in een schacht, een hoedster waakt bij het luik. Midden in de rite verliest de steen in de hal zijn
+    laatste gloed en kraken de stutten. De hoedster telt hardop hoeveel tijd er rest. Gudrun zet haar rug onder de zoldering, Brokke slaat zoemend ijzer in de spleet, en de schacht waarin ze zich wilden
+    binden, wordt de uitweg voor het hele gilde.'
+- fase: 11 Heldentijd (na 801)
+  fantasieen:
+  - VOOR-slijpen
+  - VOOR-pijn-genot
+  drager: DRAGER-Z48-steen-10
+  positie: ontdekker
+  genre: mysterie
+  schaal: dorp
+  volk: orrim
+  vorm: lichaam als verteller
+  afloop: blijft verborgen
+  hp:
+    band: 26-35
+    leeftijd: 29
+    geslacht: m
+  gewichten:
+  - 3
+  - 4
+  - 2
+  - 3
+  - 0
+  - 1
+  - 0
+  - 2
+  kern:
+  - LOT-Z44-orrim
+  - VOLK-orrim
+  - PER-orrim-held-sliep
+  persoon: PER-Z50-b-tamas-rijsel
+  premisse: 'Verteld door de huid van Tamas, steenslijper aan de rand van de woestijn: hoe hij met zijn geliefde Ilke het stof opveegt dat de Orrim nog van elkaar slijpen, hoe ze het door olie roeren en
+    elkaar ermee schuren tot het schrijnt, en hoe koel het stilliggen daarna is. Ze doen het naast een beeld dat ''s nachts warm wordt. Tamas begint te vermoeden dat het kijkt en dat het stof van dat beeld
+    komt. Ilke wil het niet weten, dus vraagt hij het niemand.'
+- fase: 11 Heldentijd (na 801)
+  fantasieen:
+  - KINK-ontzegging-leegte
+  - RIT-leegtewake
+  drager: DRAGER-Z48-gave-11
+  positie: betaler
+  genre: intrige
+  schaal: huis
+  volk: mens
+  vorm: jij-vorm
+  afloop: komt uit
+  hp:
+    band: 26-35
+    leeftijd: 31
+    geslacht: v
+  gewichten:
+  - 2
+  - 4
+  - 1
+  - 4
+  - 0
+  - 4
+  - 0
+  - 2
+  kern:
+  - VOOR-sporenroes
+  - RIT-ontzegging-binding
+  - HORROR-Z46-11-horror
+  - LOT-Z44-gaven-mannen
+  persoon: PER-Z50-b-mareth-vlaskamp
+  premisse: Jij ademt al drie jaar elke volle maan de sporen van Hesse in, en daarna hunker je twee dagen, zoals vrouwen vroeger naar een gaven-man. Hesse weet dat. Wie hem gehoorzaamt, krijgt sporen; wie
+    vragen stelt, wacht. Zo regeert hij het eiland vanuit zijn keuken. Op jouw verzoek binden je vriendinnen je met zachte linten in de binnenhof en houden ze je vast tot de tweede zonsopgang. In die nacht
+    proef je eindelijk wat hij door de sporen mengt.
+- fase: 11 Heldentijd (na 801)
+  fantasieen:
+  - VOOR-binding
+  - VOOR-ontlading
+  drager: DRAGER-Z48-gave-11
+  positie: liefde tussen posities
+  genre: romance
+  schaal: dorp
+  volk: myrrhen
+  vorm: twee stemmen
+  afloop: keert om
+  hp:
+    band: 26-35
+    leeftijd: 34
+    geslacht: v
+  gewichten:
+  - 5
+  - 4
+  - 2
+  - 3
+  - 0
+  - 1
+  - 0
+  - 2
+  kern:
+  - VOOR-sporenroes
+  - SEKS-VOLK-myrrhen-kern
+  - MAGIE-verslaving
+  - VOLK-myrrhen-Z6
+  persoon: PER-Z50-b-mareth-vlaskamp
+  premisse: 'Joran heeft Myrrhen-bloed en in zijn longen groeien meer sporen dan een lichaam aankan; ademt niemand ze van hem in, dan krijgt hij koorts. Mareth, net los van een man die sporen als leiband
+    gebruikte, belooft het één keer te doen. Om beurten vertellen ze de maanden erna: zijn opluchting, haar trillende handen als hij een dag weg is. Dan keert het. Zij leert hem zijn adem in te houden,
+    en hij moet ontdekken dat hij zonder haar ook leeft.'
+- fase: 11 Heldentijd (na 801)
+  fantasieen:
+  - RIT-overdracht
+  - VOOR-overgave
+  - KINK-Z8-50
+  drager: DRAGER-Z48-gave-11
+  positie: profiteur
+  genre: mysterie
+  schaal: stad
+  volk: mens
+  vorm: documenten
+  afloop: blijft verborgen
+  hp:
+    band: 51+
+    leeftijd: 58
+    geslacht: m
+  gewichten:
+  - 3
+  - 5
+  - 0
+  - 3
+  - 0
+  - 3
+  - 0
+  - 2
+  kern:
+  - DRAGER-Z48-stal-9
+  - STAD-brakhaven
+  - VOOR-sporenroes
+  - GEB-Z45-losbandige-jaren
+  persoon: PER-Z50-b-corvin-achterdijk
+  premisse: Een contract voor zeven dagen, een bladzijde uit het register van een speelhuis in Brakhaven, een brief die nooit vertrok. Corvin speelt al twintig jaar de gaven-man in de Overdracht, met sporen
+    waar vroeger vonk was. Saskia, dertig, geeft hem haar sjerp en haar naam en draagt zijn gegraveerde halsband; het woord Ysa-rust geldt elk uur. Op de vijfde dag betrapt hij haar in het archief, zoekend
+    naar een moeder die daar ooit verdween. Hij laat haar zoeken en noteert niets.
+- fase: 11 Heldentijd (na 801)
+  fantasieen:
+  - RIT-zevenvoudige-ontvangst
+  drager: DRAGER-Z48-gave-11
+  positie: beslisser
+  genre: komedie
+  schaal: dorp
+  volk: mens
+  vorm: rondes
+  afloop: werkt
+  hp:
+    band: 36-50
+    leeftijd: 46
+    geslacht: v
+  gewichten:
+  - 3
+  - 4
+  - 0
+  - 1
+  - 0
+  - 1
+  - 5
+  - 1
+  kern:
+  - OORLOG-Z46-11-oorlog
+  - VOOR-groep
+  - ZEDEN-Z45-fase-11
+  - VOOR-sporenroes
+  persoon: PER-Z50-b-aaltje-brons
+  premisse: 'Als de dorpsmannen na negen jaar uit het koningsleger thuiskomen, kondigt herbergierster Aaltje Brons, weduwe, een Zevenvoudige Ontvangst aan zoals de liederen die beschrijven. Zeven veteranen
+    schrijven zich in. Ronde na ronde, met water en olie ertussen en een snuif sporen omdat zaad niets meer doet, blijkt elke man iets anders te willen dan hij zei: praten, slapen, huilen, of de kok. Bij
+    de zevende lacht het hele dorp mee, en Aaltje krijgt precies wat ze zocht.'
+- fase: 11 Heldentijd (na 801)
+  fantasieen:
+  - KINK-Z8-7
+  - KINK-Z8-22
+  drager: null
+  positie: vervalser
+  genre: actie
+  schaal: rijk
+  volk: mens
+  vorm: realtime
+  afloop: komt uit
+  hp:
+    band: 26-35
+    leeftijd: 27
+    geslacht: v
+  gewichten:
+  - 3
+  - 3
+  - 0
+  - 4
+  - 5
+  - 3
+  - 0
+  - 2
+  kern:
+  - THRILL-Z46-11-thriller
+  - HELD-Z46-11-held
+  - VERHAAL-Z44-tijdperk-11
+  persoon: PER-Z50-b-ylva-teerling
+  premisse: Ylva trekt het rode lakpak van een gesneuvelde kapitein van de Wacht aan, gespt zijn leren tuig over haar borst en loopt de laatste kluis in, want die deur leest het pak en niet het gezicht.
+    Haar geliefde, de weduwe van de kapitein, sluit de gespen in de volgorde die bij zijn rang hoorde. Binnen één uur, minuut na minuut, gaat elke poort open, tot een wachter van vlees vraagt waarom ze
+    niet naar hars ruikt. Dan komt uit wie de kapitein doodde.
+- fase: 11 Heldentijd (na 801)
+  fantasieen:
+  - KINK-betalen-met-lichaam
+  drager: DRAGER-Z48-zee-11
+  positie: profiteur
+  genre: intrige
+  schaal: stad
+  volk: sael-mor
+  vorm: kasboek
+  afloop: faalt
+  hp:
+    band: 36-50
+    leeftijd: 39
+    geslacht: v
+  gewichten:
+  - 2
+  - 3
+  - 0
+  - 2
+  - 1
+  - 4
+  - 1
+  - 4
+  kern:
+  - LOT-Z44-sael-mor
+  - STAD-brakhaven
+  - VOLK-sael-mor
+  - OORLOG-Z46-11-oorlog
+  persoon: PER-Z50-b-ressa-zoutvel
+  premisse: 'Het kasboek van Ressa Zoutvel, kapiteinsvrouw op een van de laatste schepen met Sael-mor-bemanning. Wie zonder munt weg wil van de terugkerende legers, mag kiezen: werken op het dek, of de
+    overtocht betalen met een nacht. Elke nacht staat erin met naam en haven, en Ressa en haar matrozen worden er rijk van. Maar in elke haven blijven er matrozen achter, getrouwd aan land. Op de laatste
+    bladzijde staan meer passagiers dan bemanning, en het schip hoort niet meer bij haar volk.'
+- fase: 11 Heldentijd (na 801)
+  fantasieen:
+  - KINK-harem-gunst
+  drager: null
+  positie: toeschouwer
+  genre: intrige
+  schaal: rijk
+  volk: ishvar
+  vorm: register als verteller
+  afloop: blijft verborgen
+  hp:
+    band: 18-25
+    leeftijd: 24
+    geslacht: v
+  gewichten:
+  - 2
+  - 3
+  - 0
+  - 3
+  - 0
+  - 5
+  - 1
+  - 2
+  kern:
+  - INTR-Z46-11-intrige
+  - HUI-qesh-Z6
+  - STAD-qesh
+  - VOLK-ishvar
+  persoon: PER-Z50-b-neshra
+  premisse: De hofrol van een oase bij Qesh spreekt zelf. De laatste Zonvorst daar trouwt vrouwen met Dhurn-bloed, omdat hun handen nog een kluis openen, en zij dingen naar zijn gunst met verleiding, roddel
+    en soms gif. Neshra, Ishvar en zonder bijzonder bloed, schrijft de rol bij en weet wie wanneer bij hem slaapt. Gaandeweg ziet ze dat hij geen kluis zoekt maar een erfgenaam, en dat hij er nooit een
+    zal verwekken. Dat schrijft ze niet op.
+- fase: 12 Het Vertrek (na 801)
+  fantasieen:
+  - KINK-wachtrij-verleiding
+  drager: null
+  positie: profiteur
+  genre: intrige
+  schaal: wereld
+  volk: mens
+  vorm: lijst die krimpt
+  afloop: faalt
+  hp:
+    band: 26-35
+    leeftijd: 31
+    geslacht: v
+  gewichten:
+  - 3
+  - 4
+  - 0
+  - 3
+  - 0
+  - 5
+  - 1
+  - 3
+  kern:
+  - INTR-Z46-12-intrige
+  - OORLOG-Z46-12-oorlog
+  - LOT-Z44-kluisschip
+  - VERHAAL-Z44-tijdperk-12
+  persoon: PER-Z50-b-lisanne-vorst
+  premisse: 'Op de lijst van wie met de lander mee mag, staan eerst tweehonderd namen, dan honderd, dan veertig. Lisanne Vorst staat er niet op en wil erop. Buiten de rij om probeert ze de lijsthouder te
+    verleiden, een Aelthir die nog net aanraking voelt, en ze is niet de enige: elke vrouw in de rij heeft dat plan, en ze haten elkaar erom. Met elke naam die afvalt, weet Lisanne meer van hem. Haar eigen
+    naam komt er nooit bij.'
+- fase: 12 Het Vertrek (na 801)
+  fantasieen:
+  - KINK-Z8-59
+  - VOOR-verboden
+  drager: DRAGER-Z48-ontvangst-9
+  positie: ontdekker
+  genre: thriller
+  schaal: huis
+  volk: mens
+  vorm: aftellen
+  afloop: keert om
+  hp:
+    band: 26-35
+    leeftijd: 31
+    geslacht: v
+  gewichten:
+  - 3
+  - 4
+  - 1
+  - 5
+  - 2
+  - 1
+  - 1
+  - 1
+  kern:
+  - THRILL-Z46-12-thriller
+  - HELD-Z46-12-held
+  - GOD-ysa
+  - LOT-Z44-kluisschip
+  persoon: PER-Z50-b-lisanne-vorst
+  premisse: De nacht voor de start sluipt Lisanne, die geen plaats kreeg, met haar minnaar Daan de lander in. In een kast hangen uniformen van de Makers, en ze spelen na wat de oude reliefs tonen, zij kapitein,
+    hij bemanning, op een plek waar niemand mag komen. Eén knoop aan haar jas blijkt echt, en het schip begint te tellen. Vierhonderd tellen later vinden ze de knop die het stopt. De navigator heeft het
+    gezien en biedt Lisanne een plaats. Ze weigert.
+- fase: 12 Het Vertrek (na 801)
+  fantasieen:
+  - RIT-volk-myrrhen
+  drager: null
+  positie: liefde tussen posities
+  genre: mysterie
+  schaal: dorp
+  volk: myrrhen
+  vorm: lichaam als verteller
+  afloop: werkt
+  hp:
+    band: 36-50
+    leeftijd: 47
+    geslacht: v
+  gewichten:
+  - 4
+  - 5
+  - 2
+  - 2
+  - 0
+  - 1
+  - 0
+  - 2
+  kern:
+  - SEKS-VOLK-myrrhen-kern
+  - LOT-Z44-wortelstem
+  - INTR-Z46-12-intrige
+  - VOLK-myrrhen-Z6
+  persoon: PER-Z50-b-hedde-moerkens
+  premisse: 'Hedde, heelster aan de veenrand, gaat met Orl, een Myrrhen die weigert met de lander mee te gaan, in het rotbed liggen: een week lang groeit schimmeldraad tussen hun lijven, en een hoedster
+    mag hem elk moment doorknippen. Haar lichaam vertelt het, de warmte, de jeuk, het genot in elke vezel. Op de vijfde dag zwijgt de stem in de Wortel en rilt het hele net. Het geeft haar iets door, en
+    Hedde besluit het in haar huid te bewaren.'
+- fase: 12 Het Vertrek (na 801)
+  fantasieen:
+  - VOOR-ei-dragen
+  drager: null
+  positie: betaler
+  genre: survival
+  schaal: dorp
+  volk: oevrin
+  vorm: dagboek
+  afloop: komt uit
+  hp:
+    band: 36-50
+    leeftijd: 49
+    geslacht: v
+  gewichten:
+  - 3
+  - 3
+  - 2
+  - 4
+  - 2
+  - 1
+  - 0
+  - 2
+  kern:
+  - LOT-Z44-leegtewormen
+  - LOT-Z44-oevrin
+  - VOLK-oevrin
+  - VOLK-kluwer
+  persoon: PER-Z50-b-hedde-moerkens
+  premisse: Een dode Leegteworm spoelt aan bij de slikpoelen, en zijn rottende ruim vergiftigt het water van de Oevrin. Hedde biedt aan hun kuit te dragen naar een schone poel, drie dagen landinwaarts,
+    in haar eigen lichaam; is ze er niet voor de derde avond, dan lossen de eieren in haar op. Haar dagboek houdt bij hoe zwaar het weegt, hoe de Oevrin-zanger naast haar loopt en de kuit stilzingt, en
+    hoe de lust haar overvalt. Bij de poel blijkt dat de worm niet vanzelf aanspoelde.
+- fase: 12 Het Vertrek (na 801)
+  fantasieen:
+  - VOOR-nabootsing
+  drager: DRAGER-Z48-vorm-10
+  positie: beslisser
+  genre: mysterie
+  schaal: huis
+  volk: ves-lethi
+  vorm: kamerspel
+  afloop: blijft verborgen
+  hp:
+    band: 51+
+    leeftijd: 52
+    geslacht: v
+  gewichten:
+  - 4
+  - 4
+  - 2
+  - 3
+  - 0
+  - 2
+  - 0
+  - 4
+  kern:
+  - THRILL-Z46-12-thriller
+  - LOT-Z44-ves-lethi
+  - VOLK-ves-lethi-Z6
+  - EROS-Z45-haak-3
+  persoon: PER-Z50-b-imke-deral
+  premisse: 'Imke Deral ontdekt de verstekeling eerder dan wie ook: een Ves-Lethi met nog één wisseling in zich, die zich als Aelthir aan boord wil smokkelen. Ze verraadt hem niet. Pas daarna vraagt ze,
+    wetend dat hij nee mag zeggen, om één nacht met het gezicht van haar man, die twintig jaar geleden verdronk. Hij stemt toe en weet wat het kost. Tot de ochtend, in één kamer, zegt zij wat ze haar man
+    nooit zei. Wie er daarna aan boord gaat, vertelt ze aan niemand.'
+- fase: 12 Het Vertrek (na 801)
+  fantasieen:
+  - KINK-Z8-28
+  drager: DRAGER-Z48-zee-11
+  positie: toeschouwer
+  genre: thriller
+  schaal: stad
+  volk: sael-mor
+  vorm: brieven
+  afloop: komt uit
+  hp:
+    band: 36-50
+    leeftijd: 48
+    geslacht: v
+  gewichten:
+  - 2
+  - 3
+  - 0
+  - 5
+  - 0
+  - 4
+  - 0
+  - 2
+  kern:
+  - INTR-Z46-12-intrige
+  - HUI-Z11-kusthuizen
+  - LOT-Z44-sael-mor
+  - STAD-brakhaven
+  persoon: PER-Z50-b-imke-deral
+  premisse: In het havenhuis van Imke Deral hangt een vergulde kooi, en daarin woont al twee jaar Joep, die de sleutel om zijn hals draagt en elke avond kiest om binnen te blijven. Voor de gasten is hij
+    haar trots, op fluweel. Uit zijn brieven, die een dienstmeid onderschept, blijkt dat hij de Raad van de Laatsten vertelt welke van haar schepen de Aelthir naar de kust zullen varen. Imke leest ze allemaal,
+    zegt niets, en zet de kooi open.
+- fase: 12 Het Vertrek (na 801)
+  fantasieen:
+  - RIT-halsbandoverdracht
+  - KINK-Z8-38
+  drager: DRAGER-Z48-stal-9
+  positie: betaler
+  genre: romance
+  schaal: huis
+  volk: aelthir
+  vorm: toespraak
+  afloop: keert om
+  hp:
+    band: 51+
+    leeftijd: 54
+    geslacht: m
+  gewichten:
+  - 5
+  - 3
+  - 0
+  - 1
+  - 0
+  - 1
+  - 0
+  - 4
+  kern:
+  - EROS-Z45-haak-7
+  - VERHAAL-Z44-tijdperk-12
+  - PER-gewone-mannen
+  - VOLK-aelthir-V5
+  persoon: PER-Z50-b-okke-lindewei
+  premisse: Dertig seizoenen diende Okke bij Sylwen, een Aelthir, onder een contract dat hem alles toestond behalve beslissen. Morgen vertrekt ze met de lander, en naar oud gebruik wordt zijn halsband doorgeknipt
+    en omgedaan door een nieuwe eigenares, de mensenvrouw Femke, na een laatste nacht met wie hij wil. De toespraak bij het knippen schreef hij voor Sylwen. Halverwege praat hij tegen Femke, en vraagt hij
+    of hij deze keer zelf mag kiezen wie de band sluit.
+- fase: 12 Het Vertrek (na 801)
+  fantasieen:
+  - KINK-Z8-31
+  drager: null
+  positie: ontdekker
+  genre: horror
+  schaal: dorp
+  volk: mens
+  vorm: getuigenverslag
+  afloop: faalt
+  hp:
+    band: 26-35
+    leeftijd: 28
+    geslacht: v
+  gewichten:
+  - 2
+  - 4
+  - 5
+  - 3
+  - 0
+  - 0
+  - 0
+  - 4
+  kern:
+  - HORROR-Z46-12-horror
+  - BODY-Z8-46-L10
+  - REG-groenmuil
+  persoon: PER-Z50-b-wijnanda-groen
+  premisse: 'Een buurvrouw vertelt wat ze zag. Wijnanda, die aan de rand van de Groenmuil woont, schept water uit een verlaten kweekpoel, omdat datzelfde water in de oude vormhuizen vrouwen melk gaf zonder
+    kind. Haar man en zij willen het spel uit de liederen. Het werkt: ze geeft melk die zoet is en tintelt, en ze zijn er allebei verrukt van. Dan houdt het niet op, het wordt elke week meer, en wat ze
+    afkolft, groeit in de emmer verder.'
+- fase: 12 Het Vertrek (na 801)
+  fantasieen:
+  - KINK-omgepraat-worden
+  - VOOR-vrouwenliefde
+  drager: null
+  positie: liefde tussen posities
+  genre: komedie
+  schaal: huis
+  volk: aelthir
+  vorm: twee stemmen
+  afloop: werkt
+  hp:
+    band: 36-50
+    leeftijd: 41
+    geslacht: v
+  gewichten:
+  - 4
+  - 4
+  - 0
+  - 1
+  - 0
+  - 2
+  - 5
+  - 2
+  kern:
+  - REG-stille
+  - COMEDY-Z46-12-comedy
+  - D1-aelthir-ziekte
+  - VOLK-aelthir-V5
+  persoon: PER-Z50-b-aldra
+  premisse: 'Zuster Aldra woont in het laatste huis van de Stille Zusters, dat de mannen afzwoer toen er nog een Orde was. Teyra, een Aelthir-priesteres, komt haar overhalen mee te gaan met de lander; Aldra
+    wil haar juist overhalen te blijven. Ze vertellen het om beurten: elk argument wordt een kus, elke kus een ketterij voor de ander. Na drie nachten wedt het hele zusterhuis mee. Teyra blijft, en Aldra
+    leert haar voortaan elke ochtend opnieuw haar naam.'
+- fase: 13 Tijd der Mensen (na 801)
+  fantasieen:
+  - RIT-zaadcontract
+  drager: DRAGER-Z48-stal-13
+  positie: betaler
+  genre: intrige
+  schaal: huis
+  volk: mens
+  vorm: kasboek
+  afloop: komt uit
+  hp:
+    band: 26-35
+    leeftijd: 27
+    geslacht: m
+  gewichten:
+  - 1
+  - 3
+  - 0
+  - 3
+  - 0
+  - 5
+  - 1
+  - 2
+  kern:
+  - VERHAAL-Z44-tijdperk-13
+  - GEB-Z45-losbandige-jaren
+  - HUI-varenne
+  - FASE-z44-mensen
+  persoon: PER-Z50-b-ebbe-rendal
+  premisse: 'Voor twee families bij de landbrug uiteengaan, sluiten ze een zaadcontract op een gelooide huid: Ebbe van de Rendals verwekt een kind bij de familie van de oostweg, en de zijne krijgt daarvoor
+    twee sleden en een tent. Hij bezegelt het met zijn zaad op de huid, zoals het altijd ging. De huid wordt hun kasboek, elke ruil erin gekerfd. Als het kind geboren is, blijkt dat de oostweg met nog een
+    man een huid tekende, en wie de vader is, staat nergens.'
+- fase: 13 Tijd der Mensen (na 801)
+  fantasieen:
+  - VOOR-competitie
+  drager: DRAGER-Z48-ontvangst-13
+  positie: beslisser
+  genre: actie
+  schaal: dorp
+  volk: mens
+  vorm: realtime
+  afloop: keert om
+  hp:
+    band: 26-35
+    leeftijd: 29
+    geslacht: m
+  gewichten:
+  - 3
+  - 4
+  - 0
+  - 2
+  - 5
+  - 0
+  - 2
+  - 1
+  kern:
+  - VOOR-Z46-vuurnacht
+  - KINK-duel-man
+  - EROS-Z45-haak-8
+  - ZEDEN-Z45-fase-13
+  persoon: PER-Z50-b-ebbe-rendal
+  premisse: Bij het vuur van de kortste nacht dagen twee vrouwen elkaar uit om Ebbe, met een sjerp over de schouder, tot een van beiden opgeeft. Hij mag weigeren, en het kamp kijkt hoe hij nadenkt. Hij
+    zegt nee. Ze vechten toch, nu om de eer, in modder en roet, en het gevecht duurt zo lang dat het vuur zakt. Aan het eind liggen de twee hijgend naast elkaar in het gras en kiezen ze elkaar, en Ebbe
+    houdt de wacht bij het vuur.
+- fase: 13 Tijd der Mensen (na 801)
+  fantasieen:
+  - KINK-Z8-1
+  - VOOR-vrouwenliefde
+  drager: null
+  positie: ontdekker
+  genre: romance
+  schaal: huis
+  volk: myrrhen
+  vorm: brieven
+  afloop: blijft verborgen
+  hp:
+    band: 51+
+    leeftijd: 52
+    geslacht: v
+  gewichten:
+  - 5
+  - 5
+  - 1
+  - 2
+  - 0
+  - 0
+  - 0
+  - 1
+  kern:
+  - LOT-Z44-myrrhen
+  - VOLK-myrrhen-Z6
+  - FASE-z44-mensen
+  persoon: PER-Z50-b-ilsabet
+  premisse: 'Ilsabet schrijft haar geliefde Wenke over wat ze samen deden in de kring paddenstoelen: schimmelolie, langzaam tellen, haar hele hand in Wenke, tot ze elkaars adem meetelden. Ze schrijft ook
+    wat ze diep in Wenke voelde: iets hards en kleins, als een zaadje van metaal, dat warm werd onder haar vingers. Wenke schrijft terug dat haar grootmoeder er ook zo een had. Geen van beiden wil weten
+    wat het is, en het blijft tussen hun brieven.'
+- fase: 13 Tijd der Mensen (na 801)
+  fantasieen:
+  - VOOR-ritueel-geweld
+  - KINK-Z8-16
+  drager: null
+  positie: toeschouwer
+  genre: survival
+  schaal: dorp
+  volk: mens
+  vorm: wij-vorm
+  afloop: keert om
+  hp:
+    band: 36-50
+    leeftijd: 38
+    geslacht: v
+  gewichten:
+  - 2
+  - 3
+  - 2
+  - 3
+  - 2
+  - 1
+  - 0
+  - 3
+  kern:
+  - VOOR-Z46-vuurnacht
+  - VOLK-karrûk-Z6-Z38
+  - DRAGER-Z48-storm-10
+  - ZEDEN-Z45-fase-13
+  persoon: PER-Z50-b-kerra-asvaart
+  premisse: Wij trekken langs het riet van de drooggevallen zee, en Kerra is onze hoedster. Wie wil, laat zich in de vuurnacht door een gekozen geliefde met de rietzweep slaan of een lijn in de schouder
+    snijden, terwijl Kerra hardop telt en stopt bij genoeg. Dit jaar komt er een stormwinter zonder wild, en de rite wordt het enige dat ons warm houdt. Als een man van twintig om meer vraagt dan hij kan
+    dragen, stopt Kerra het, en een deel van ons trekt verder zonder haar.
+- fase: 13 Tijd der Mensen (na 801)
+  fantasieen:
+  - RIT-schandpodium
+  - RIT-tribunaal-drie
+  drager: null
+  positie: betaler
+  genre: intrige
+  schaal: dorp
+  volk: mens
+  vorm: toespraak
+  afloop: komt uit
+  hp:
+    band: 36-50
+    leeftijd: 40
+    geslacht: v
+  gewichten:
+  - 1
+  - 3
+  - 1
+  - 3
+  - 0
+  - 4
+  - 0
+  - 3
+  kern:
+  - RIT-boeterite
+  - VOOR-vernedering
+  - VOOR-exhibitionisme
+  - VERHAAL-Z44-tijdperk-13
+  persoon: PER-Z50-b-kerra-asvaart
+  premisse: 'Drie grootmoeders, naar een gebruik dat niemand meer kan uitleggen, oordelen over Kerra nadat een man bij haar snijrite te veel bloed verloor. Ze mag kiezen tussen verbanning en een dag op
+    het schandpodium: in grijs, met een halsband, terwijl de kampen kijken en spreken, en bij zonsondergang een zalving. Ze kiest het podium. In haar toespraak bij het vallen van de avond zegt ze wat ze
+    die dag hoorde, en wie de man het mes gaf dat te scherp was.'
+- fase: 13 Tijd der Mensen (na 801)
+  fantasieen:
+  - VOOR-verboden
+  - RIT-volk-myrrhen
+  drager: DRAGER-Z48-ontvangst-13
+  positie: ontdekker
+  genre: horror
+  schaal: dorp
+  volk: myrrhen
+  vorm: jij-vorm
+  afloop: faalt
+  hp:
+    band: 18-25
+    leeftijd: 23
+    geslacht: v
+  gewichten:
+  - 3
+  - 4
+  - 5
+  - 4
+  - 0
+  - 0
+  - 0
+  - 3
+  kern:
+  - VERHAAL-Z44-tijdperk-13
+  - LOT-Z44-myrrhen
+  - SEKS-VOLK-myrrhen-kern
+  - VOOR-Z46-vuurnacht
+  persoon: PER-Z50-b-noor-halsema
+  premisse: Je loopt in de vuurnacht weg van het vuur, met Siem, die het even graag wil, naar de kring paddenstoelen waar volgens je grootmoeder de doden dansen en waar niemand mag liggen. Je gaat er toch
+    liggen. Het net groeit om jullie heen, een draad van jouw pols naar de zijne, en het genot is zo groot dat je niet ziet dat er anderen in de kring liggen die niet ademen. 's Ochtends krijg je de draad
+    niet los, en Siem spreekt met de stem van een vreemde.
+- fase: 13 Tijd der Mensen (na 801)
+  fantasieen:
+  - RIT-zevenvoudige-ontvangst
+  drager: DRAGER-Z48-ontvangst-13
+  positie: beslisser
+  genre: komedie
+  schaal: dorp
+  volk: mens
+  vorm: rondes
+  afloop: komt uit
+  hp:
+    band: 18-25
+    leeftijd: 25
+    geslacht: v
+  gewichten:
+  - 3
+  - 4
+  - 0
+  - 2
+  - 0
+  - 1
+  - 5
+  - 1
+  kern:
+  - VOOR-Z46-vuurnacht
+  - VOOR-groep
+  - EROS-Z45-haak-8
+  - DRAGER-Z48-gave-11
+  persoon: PER-Z50-b-noor-halsema
+  premisse: 'Twee zomers na de kring kiest Noor bij het vuur zeven gezellen, een voor een, met water en vet tussen elke keuze, zoals een half vergeten lied het voorschrijft. De kampen raden waarom. De een
+    zegt dat ze een vader zoekt, de ander dat ze een weddenschap won, een derde dat de doden haar sturen. Per ronde slaat het gerucht een andere kant op. Bij de zevende blijkt het eenvoudig: ze wilde weten
+    of ze zonder draad nog iets voelde, en ze voelt alles.'
+- fase: 13 Tijd der Mensen (na 801)
+  fantasieen:
+  - KINK-Z8-22
+  drager: null
+  positie: vervalser
+  genre: survival
+  schaal: wereld
+  volk: mens
+  vorm: lichaam als verteller
+  afloop: werkt
+  hp:
+    band: 36-50
+    leeftijd: 44
+    geslacht: m
+  gewichten:
+  - 4
+  - 3
+  - 1
+  - 3
+  - 2
+  - 1
+  - 1
+  - 2
+  kern:
+  - VERHAAL-Z44-tijdperk-13
+  - FASE-z44-mensen
+  - LOT-Z44-dhurn
+  persoon: PER-Z50-b-joost-lemmerik
+  premisse: 'Joost draagt over de landbrug het tuig van de trekleider die in de eerste sneeuw stierf: leer en hars, met gespen waarvan elke stand iets betekende. Niemand weet dat hij die standen niet kent;
+    hij doet alsof, en het kamp volgt hem. ''s Nachts gespt Rinske, zijn vrouw, hem erin vast en leert ze hem op zijn huid wat elke gesp kan. Zijn lichaam vertelt het: schaafplekken, zweet, de stilte van
+    een kamp dat op hem rekent. Hij brengt ze over.'
+personen:
+- code: PER-Z50-b-brenna-ostkaar
+  naam: Brenna Ostkaar
+  volk: mens
+  regio: Hoogvrouwe-gebergte (Kaldrun) en de puinstad onder Hoornburg
+  tijdperk: 11
+  geboren: 3320
+  rol: veldvrouwe en gezante naar Kharvos
+  wil: de grensvrouwen thuis krijgen zonder een oorlog te beginnen
+  geheim: ze hield als gezante meer van een man van de vorst dan van haar opdracht
+  prijs: haar vrijheid als gijzelaar, en haar naam in Kaldrun
+  afstamming:
+  - HUI-kaldra-Z6
+  - LOT-Z44-karruk-storm
+  verbonden_met:
+  - OORLOG-Z46-11-oorlog
+  - VERHAAL-Z44-tijdperk-11
+- code: PER-Z50-b-wessel-oom
+  naam: Wessel Oom
+  volk: mens
+  regio: dorp aan de mistrand
+  tijdperk: 11
+  geboren: 3402
+  rol: kaarsenmaker
+  wil: Neveth zo lang mogelijk laten voelen dat ze bestaat
+  geheim: hij bewaart de wasafdrukken ook voor zichzelf, om haar niet kwijt te raken
+  prijs: hij wordt vergeten door degene die hij het langst onthoudt
+  afstamming:
+  - LOT-Z44-aelthir
+  - LOT-Z44-kluwers
+  verbonden_met:
+  - EROS-Z45-haak-5
+  - LOT-Z44-aelthir
+- code: PER-Z50-b-brokke-hamerling
+  naam: Brokke Hamerling
+  volk: mens (Dhurn-bloed)
+  regio: de poort bij de lege Dhurn-hallen
+  tijdperk: 11
+  geboren: 3667
+  rol: smid die zoemend ijzer slaat
+  wil: Gudrun liefhebben zonder dat een van beiden breekt
+  geheim: hij kent de toon van het ijzer maar half; de rest gokt hij
+  prijs: de hal en de steen van zijn grootvader
+  afstamming:
+  - VOLK-dhurn
+  - LOT-Z44-dhurn
+  - PER-dhurn-schurk-orvald
+  verbonden_met:
+  - COMEDY-Z46-11-comedy
+  - ACTIE-Z46-11-actie
+  - INTR-Z46-11-intrige
+- code: PER-Z50-b-tamas-rijsel
+  naam: Tamas Rijsel
+  volk: mens
+  regio: rand van de Orrim-woestijn (Rosse)
+  tijdperk: 11
+  geboren: 3051
+  rol: steenslijper
+  wil: het genot van het schuren met Ilke houden
+  geheim: hij vermoedt dat het stof van een beeld komt dat nog leeft
+  prijs: een vraag die hij nooit mag stellen
+  afstamming:
+  - LOT-Z44-orrim
+  - VOLK-ishvar
+  verbonden_met:
+  - LOT-Z44-orrim
+  - OORLOG-Z46-10-oorlog
+- code: PER-Z50-b-mareth-vlaskamp
+  naam: Mareth Vlaskamp
+  volk: mens
+  regio: Nevel-eilanden
+  tijdperk: 11
+  geboren: 3470
+  rol: netbreister en later sporendeelster
+  wil: los komen van Hesse, en daarna niet opnieuw aan iemand vastraken
+  geheim: ze weet wat Hesse door zijn sporen mengt en zwijgt erover tegen het eiland
+  prijs: twee dagen hunkering bij elke maan, en later Jorans afhankelijkheid
+  afstamming:
+  - VOLK-myrrhen-Z6
+  - LOT-Z44-gaven-mannen
+  verbonden_met:
+  - HORROR-Z46-11-horror
+  - DRAGER-Z48-gave-11
+  - EROS-Z45-haak-6
+- code: PER-Z50-b-corvin-achterdijk
+  naam: Corvin Achterdijk
+  volk: mens
+  regio: Brakhaven
+  tijdperk: 11
+  geboren: 3150
+  rol: speler van de gaven-man in een speelhuis
+  wil: de Overdracht goed spelen, zodat niemand haar voor echt houdt
+  geheim: hij leerde de rol van een oude stalman die er geen spel van maakte
+  prijs: hij draagt elke week andermans naam
+  afstamming:
+  - PER-gewone-mannen
+  - HUI-Z11-kusthuizen
+  verbonden_met:
+  - DRAGER-Z48-stal-9
+  - EROS-Z45-haak-1
+- code: PER-Z50-b-aaltje-brons
+  naam: Aaltje Brons
+  volk: mens
+  regio: Ambergaard
+  tijdperk: 11
+  geboren: 3290
+  rol: herbergierster en weduwe
+  wil: het dorp na de oorlog weer laten lachen
+  geheim: ze wil maar van één van de zeven iets, en dat is niet wat hij denkt
+  prijs: de spot van de vrouwen die het oude feest heilig vinden
+  afstamming:
+  - HUI-varenne
+  - PER-gewone-mannen
+  verbonden_met:
+  - OORLOG-Z46-11-oorlog
+  - ZEDEN-Z45-fase-11
+- code: PER-Z50-b-ylva-teerling
+  naam: Ylva Teerling
+  volk: mens
+  regio: Hoogvrouwe-gebergte, de weg naar de laatste kluis
+  tijdperk: 11
+  geboren: 3700
+  rol: dievegge
+  wil: de laatste kluis openen voor wie er wil schuilen
+  geheim: ze weet niet zeker of haar geliefde de kapitein liet doden
+  prijs: het pak blijft haar gezicht, en iedereen weet het na die dag
+  afstamming:
+  - HUI-kaldra-Z6
+  - LOT-Z44-wiegkasten
+  verbonden_met:
+  - THRILL-Z46-11-thriller
+  - HELD-Z46-11-held
+- code: PER-Z50-b-ressa-zoutvel
+  naam: Ressa Zoutvel
+  volk: sael-mor
+  regio: Zoutkust en Brakhaven
+  tijdperk: 11
+  geboren: 3068
+  rol: kapiteinsvrouw
+  wil: haar schip en haar bemanning bijeenhouden
+  geheim: ze rekent elke nacht in het kasboek, ook die van haarzelf
+  prijs: haar volk lost op in de havens die haar rijk maken
+  afstamming:
+  - PER-saelmor-held-tamsin
+  - VOLK-sael-mor
+  - LOT-Z44-sael-mor
+  verbonden_met:
+  - LOT-Z44-sael-mor
+  - EROS-Z45-haak-4
+- code: PER-Z50-b-neshra
+  naam: Neshra van de Putten
+  volk: ishvar
+  regio: oase bij Qesh (Rosse)
+  tijdperk: 11
+  geboren: 3540
+  rol: schrijfster van de hofrol
+  wil: zien zonder gezien te worden
+  geheim: ze weet dat de Zonvorst geen erfgenaam kan verwekken
+  prijs: als ze het opschrijft, valt het hof; als ze het verzwijgt, blijft ze er voor altijd
+  afstamming:
+  - VOLK-ishvar
+  - PER-ishvar-held-nouri
+  - HUI-qesh-Z6
+  verbonden_met:
+  - INTR-Z46-11-intrige
+- code: PER-Z50-b-lisanne-vorst
+  naam: Lisanne Vorst
+  volk: mens
+  regio: de kust van de lander
+  tijdperk: 12
+  geboren: 4080
+  rol: touwslager
+  wil: mee met de lander naar de bewegende ster
+  geheim: ze wil niet zozeer weg als gekozen worden
+  prijs: als ze de plaats eindelijk kan krijgen, ziet ze wat achterblijven betekent en weigert ze
+  afstamming:
+  - HUI-Z11-kusthuizen
+  - LOT-Z44-kluisschip
+  verbonden_met:
+  - INTR-Z46-12-intrige
+  - THRILL-Z46-12-thriller
+  - HELD-Z46-12-held
+- code: PER-Z50-b-hedde-moerkens
+  naam: Hedde Moerkens
+  volk: mens
+  regio: veenrand van de Groenmuil
+  tijdperk: 12
+  geboren: 4064
+  rol: heelster
+  wil: het net en de Oevrin laten voortbestaan als de rest vertrekt
+  geheim: ze draagt in haar huid wat het net haar gaf toen de Wortel zweeg
+  prijs: haar lichaam is twee keer de bewaarplaats van een ander volk geweest
+  afstamming:
+  - VOLK-myrrhen-Z6
+  - PER-myrrhen-held-veen
+  verbonden_met:
+  - LOT-Z44-wortelstem
+  - LOT-Z44-leegtewormen
+  - HORROR-Z46-12-horror
+- code: PER-Z50-b-imke-deral
+  naam: Imke Deral
+  volk: mens (havenbloed)
+  regio: Brakhaven
+  tijdperk: 12
+  geboren: 4058
+  rol: reederes van een kusthuis
+  wil: haar schepen houden en haar verdronken man nog één keer zien
+  geheim: ze weet wie de verstekeling is en wie haar bespioneert, en verraadt geen van beiden
+  prijs: ze kiest twee keer stilte boven gelijk
+  afstamming:
+  - HUI-Z11-kusthuizen
+  - LOT-Z44-sael-mor
+  verbonden_met:
+  - THRILL-Z46-12-thriller
+  - INTR-Z46-12-intrige
+  - EROS-Z45-haak-3
+- code: PER-Z50-b-okke-lindewei
+  naam: Okke Lindewei
+  volk: mens
+  regio: kustdorp bij de lander
+  tijdperk: 12
+  geboren: 4056
+  rol: dienaar onder seizoenscontract
+  wil: Sylwen laten gaan zonder zichzelf mee te geven
+  geheim: hij weet waar Sylwen haar geld bewaarde en heeft het nooit aangeraakt
+  prijs: dertig seizoenen niet beslissen, en dan opeens moeten
+  afstamming:
+  - PER-gewone-mannen
+  - LOT-Z44-aelthir
+  verbonden_met:
+  - EROS-Z45-haak-7
+  - VERHAAL-Z44-tijdperk-12
+- code: PER-Z50-b-wijnanda-groen
+  naam: Wijnanda Groen
+  volk: mens
+  regio: rand van de Groenmuil
+  tijdperk: 12
+  geboren: 4090
+  rol: turfsteekster
+  wil: het spel uit de liederen een keer echt beleven
+  geheim: ze wist dat de poel verlaten was omdat er iets in groeide
+  prijs: haar lichaam stopt niet meer met wat ze begon
+  afstamming:
+  - HUI-varenne
+  - LOT-Z44-kluwers
+  verbonden_met:
+  - HORROR-Z46-12-horror
+- code: PER-Z50-b-aldra
+  naam: Zuster Aldra
+  volk: mens
+  regio: het laatste zusterhuis van de Stille eilanden
+  tijdperk: 12
+  geboren: 4069
+  rol: Stille Zuster
+  wil: Teyra houden, ook al vergeet die haar
+  geheim: ze twijfelde al jaren aan de gelofte voordat Teyra kwam
+  prijs: elke ochtend opnieuw bekend moeten worden bij wie ze liefheeft
+  afstamming:
+  - PER-bondgenoten
+  - LOT-Z44-aelthir
+  verbonden_met:
+  - COMEDY-Z46-12-comedy
+  - D1-aelthir-ziekte
+- code: PER-Z50-b-ebbe-rendal
+  naam: Ebbe Rendal
+  volk: mens
+  regio: droge plat bij de landbrug
+  tijdperk: 13
+  geboren: 6100
+  rol: rendierhoeder
+  wil: zelf kiezen wie hij wordt, niet wie hem wint of koopt
+  geheim: hij weet niet of hij de vader is van het kind van de oostweg
+  prijs: een kind dat misschien het zijne is, aan de andere kant van de brug
+  afstamming:
+  - VOLK-ishvar
+  - HUI-varenne
+  verbonden_met:
+  - VERHAAL-Z44-tijdperk-13
+  - EROS-Z45-haak-8
+- code: PER-Z50-b-ilsabet
+  naam: Ilsabet
+  volk: mens
+  regio: veenrand op het plat
+  tijdperk: 13
+  geboren: 5900
+  rol: kruidenvrouw
+  wil: Wenke zo diep kennen als een hand kan
+  geheim: ze voelde in Wenke iets wat geen mens zou moeten hebben
+  prijs: een vraag die ze nooit stelt
+  afstamming:
+  - VOLK-myrrhen-Z6
+  - PER-myrrhen-held-veen
+  verbonden_met:
+  - LOT-Z44-myrrhen
+  - VERHAAL-Z44-tijdperk-13
+- code: PER-Z50-b-kerra-asvaart
+  naam: Kerra Asvaart
+  volk: mens (Karrûk-bloed)
+  regio: rietkust van de drooggevallen zee
+  tijdperk: 13
+  geboren: 6300
+  rol: hoedster van de snijrite
+  wil: de rite veilig houden en de groep bijeen
+  geheim: ze weet dat het mes werd gewisseld, en door wie
+  prijs: een dag te kijk, en de helft van haar groep
+  afstamming:
+  - PER-karruk-held-asha
+  - VOLK-karrûk-Z6-Z38
+  verbonden_met:
+  - DRAGER-Z48-storm-10
+  - ZEDEN-Z45-fase-13
+- code: PER-Z50-b-noor-halsema
+  naam: Noor Halsema
+  volk: mens
+  regio: het plat, bij de paddenstoelkringen
+  tijdperk: 13
+  geboren: 6500
+  rol: pottenbakster
+  wil: weten wat ze voelt zonder dat iets anders voor haar voelt
+  geheim: Siem kwam niet terug als zichzelf, en zij gaf de doden een stem
+  prijs: een man die ze liefhad, en het vertrouwen van haar grootmoeder
+  afstamming:
+  - LOT-Z44-myrrhen
+  - VOLK-myrrhen-Z6
+  verbonden_met:
+  - VERHAAL-Z44-tijdperk-13
+  - EROS-Z45-haak-8
+- code: PER-Z50-b-joost-lemmerik
+  naam: Joost Lemmerik
+  volk: mens
+  regio: de landbrug naar het oosten
+  tijdperk: 13
+  geboren: 6050
+  rol: sledemaker die trekleider werd
+  wil: zijn kamp levend over de brug krijgen
+  geheim: hij kent de gespen van het tuig niet en leidt op gevoel
+  prijs: elke dag doen alsof, met de schaafplekken als bewijs
+  afstamming:
+  - LOT-Z44-dhurn
+  - VOLK-ishvar
+  verbonden_met:
+  - VERHAAL-Z44-tijdperk-13

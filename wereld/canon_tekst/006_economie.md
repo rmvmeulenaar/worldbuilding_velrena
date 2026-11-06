@@ -9,7 +9,7 @@
 - **waarom:** Toegang tot zaad is de echte rijkdom; gunstbrieven maken dat verhandelbaar. [Ronde Z13 2026-10-31: vastgesteld; volgt uit/past bij de besluiten van Rogier (verwijst naar MACHT-gaven-mannen), coherentiecontrole Z13 geslaagd] [Ronde Z14: haak, zintuig en functie per rij herschreven; de Z13-sjabloonzin is vervangen]
 - **status:** vastgesteld
 - **ronde:** 3
-- **hangt_samen_met:** Orde; Gaven-mannen
+- **hangt_samen_met:** Orde;Gaven-mannen
 - **verwijst_naar:** MACHT-gaven-mannen;ORDE-orde;ORDE-rol-orde;TECHNO-gave;ECO-wat-wordt-verhandeld;ECO-prijzen-mannen-zaad;HAAK-techno-gave-2
 - **jaar:** 
 - **tijdperk:** 
@@ -39,7 +39,7 @@
 - **waarom:** Elke regio heeft iets wat de andere nodig heeft, dus reizen en handel zijn logisch.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Regio’s; Zwarte markt
+- **hangt_samen_met:** Regio’s;Zwarte markt
 - **verwijst_naar:** ECO-geld;MACHT-gewone-mannen;REG-ambergaard;REG-hoogvrouwe;REG-kharvos-B1;REGEL-registers-merken;TECHNO-zegelsteen
 - **jaar:** 
 - **tijdperk:** 
@@ -69,7 +69,7 @@
 - **waarom:** Concreet prijsverschil laat de klasseverschillen en verleiding voor smokkel zien.
 - **status:** voorlopig
 - **ronde:** 3
-- **hangt_samen_met:** Gewone mannen; Gaven-mannen; Zwarte markt
+- **hangt_samen_met:** Gewone mannen;Gaven-mannen;Zwarte markt
 - **verwijst_naar:** ECO-geld;MACHT-gaven-mannen;MACHT-gewone-mannen;TECHNO-gave
 - **jaar:** 
 - **tijdperk:** 
@@ -1299,8 +1299,8 @@
 - **waarom:** Ronde Z3: zintuiglijke vulling Economie
 - **status:** voorlopig
 - **ronde:** 32
-- **hangt_samen_met:** STAD-brakhaven;VOOR-overvloed
-- **verwijst_naar:** STAD-brakhaven;VOOR-overvloed
+- **hangt_samen_met:** STAD-brakhaven;VOOR-overvloed-Z50
+- **verwijst_naar:** STAD-brakhaven;VOOR-overvloed-Z50
 - **jaar:** 
 - **tijdperk:** 
 - **intensiteit:** 

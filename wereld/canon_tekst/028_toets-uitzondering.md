@@ -2055,5 +2055,29 @@
 - **reden:** Elin hangt sinds jaar 0 in de steen; de derde weg maakt haar in 801 vrij [Z41]
 - **wrijving:** 
 <!-- /REC -->
+<!-- REC toets_uitzondering -->
+### PER-aeron-profiel-Z51 · None
+- **toets:** kern_leunt_op_kleur
+- **code:** PER-aeron-profiel-Z51
+- **detail:** Kern leunt op Kleur: GEB-heden (vervallen)
+- **reden:** Gevonden door Z33-regel; geregistreerd voor Rogiers besluit (niet zelf aangepast).
+- **wrijving:** WRIJ-Z33-2
+<!-- /REC -->
+<!-- REC toets_uitzondering -->
+### PER-liora-profiel-Z32-Z51 · None
+- **toets:** kern_leunt_op_kleur
+- **code:** PER-liora-profiel-Z32-Z51
+- **detail:** Kern leunt op Kleur: GEB-heden (vervallen)
+- **reden:** Gevonden door Z33-regel; geregistreerd voor Rogiers besluit (niet zelf aangepast).
+- **wrijving:** WRIJ-Z33-2
+<!-- /REC -->
+<!-- REC toets_uitzondering -->
+### PER-liora-profiel-Z32-Z51 · None
+- **toets:** kern_leunt_op_kleur
+- **code:** PER-liora-profiel-Z32-Z51
+- **detail:** Kern leunt op Kleur: HAAK-techno-bio-2 (voorlopig)
+- **reden:** Gevonden door Z33-regel; geregistreerd voor Rogiers besluit (niet zelf aangepast).
+- **wrijving:** WRIJ-Z33-2
+<!-- /REC -->
 
 <!-- SECTIE: SCHEMA_VERSIE -->
